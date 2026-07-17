@@ -103,6 +103,22 @@ iframe {
     max-width: 100% !important;
     height: auto !important;
 }
+.ad-mobile {
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        width: 100% !important;
+        min-height: 600px !important; /* Forzamos la altura para que el anuncio de 600 quepa */
+        margin: 20px 0 !important;
+        overflow: hidden;
+    }
+
+    /* Esto evita que el iframe sea pequeño si el script intenta limitar el tamaño */
+    .ad-mobile iframe {
+        width: 160px !important;
+        height: 600px !important;
+        border: none !important;
+    }
 
 /* Aseguramos que el article nunca sea más ancho que la pantalla */
 .lector-novela {
