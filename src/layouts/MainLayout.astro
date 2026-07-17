@@ -1,0 +1,81 @@
+---
+// Definimos que el componente acepta una propiedad llamada 'noSidebar'
+const { noSidebar } = Astro.props;
+---
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Web de Novelas</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+    <header class="main-header">
+        <div class="logo">
+            <img src="/logo.png" alt="XIANXIA">
+        </div>
+        <nav class="nav-menu">
+            <a href="/">Inicio</a>
+            <a href="chinas">Chinas</a>
+            <a href="coreanas">Coreanas</a>
+            <a href="japonesas">Japonesas</a>
+            <a href="terminadas">Terminadas</a>
+        </nav>
+        <form action="/search" method="GET" class="search-box">
+    <input type="text" name="q" placeholder="Buscar..." />
+    <button type="submit">🔍</button>
+</form>
+    </header>
+
+    <div class={`main-wrapper ${noSidebar ? 'full-width' : ''}`}>
+        
+        {/* Solo mostramos la barra lateral si no se activó noSidebar */}
+        {!noSidebar && (
+            <aside class="sidebar">
+                <h3>Géneros</h3>
+                <ul>
+                    <li><a href="#">Urban Life</a></li>
+                </ul>
+                <h3>Año de Lanzamiento</h3>
+                <div class="years">
+                    <button>2020</button>
+                    <button>2023</button>
+                </div>
+            </aside>
+        )}
+
+        <main class="container">
+            <slot />
+        </main>
+    </div>
+
+    <footer class="main-footer">
+        <div class="footer-content">
+            <p>© 2026 XIANXIA - Tu portal de novelas ligeras.</p>
+            <p>Diseñado con disciplina y orden.</p>
+        </div>
+    </footer>
+
+<script>
+    const searchInput = document.getElementById('search-input');
+    const cards = document.querySelectorAll('.card');
+
+    searchInput.addEventListener('input', (e) => {
+        const query = e.target.value.toLowerCase();
+
+        cards.forEach(card => {
+            const title = card.querySelector('h3').textContent.toLowerCase();
+            
+            // Si el título incluye lo escrito, la muestra; si no, la oculta
+            if (title.includes(query)) {
+                card.style.display = 'block';
+            } else {
+                card.style.display = 'none';
+            }
+        });
+    });
+</script>
+</body>
+</html>

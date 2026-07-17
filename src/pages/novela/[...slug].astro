@@ -1,0 +1,167 @@
+---
+import { getCollection, render } from 'astro:content';
+import MainLayout from '../../layouts/MainLayout.astro';
+import Ad from '../../components/Ad.astro';
+
+export async function getStaticPaths() {
+  const capitulos = await getCollection('capitulos');
+  return capitulos.map((entry) => ({
+    params: { slug: entry.id.replace('.md', '') },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+const todosLosCapitulos = await getCollection('capitulos');
+const novelaActual = entry.id.split('/')[0];
+
+const capitulosDeEstaNovela = todosLosCapitulos
+  .filter(c => c.id.startsWith(novelaActual))
+  .sort((a, b) => a.data.numero - b.data.numero);
+
+const currentIndex = capitulosDeEstaNovela.findIndex(c => c.id === entry.id);
+const prev = capitulosDeEstaNovela[currentIndex - 1] || null;
+const next = capitulosDeEstaNovela[currentIndex + 1] || null;
+---
+
+<MainLayout noSidebar={true} title={entry.data.titulo}>
+    <article class="lector-novela">
+        <div class="toolbar">
+            <button class="btn-tool btn-menos">-</button>
+            <button class="btn-tool btn-mas">+</button>
+            <button class="btn-tool btn-modo">🌙</button>
+        </div>
+
+        <div class="nav-bar">
+            {prev ? <a href={`/novela/${prev.id.replace('.md', '')}`} class="btn-nav">ANTERIOR</a> : <span class="btn-nav disabled">ANTERIOR</span>}
+            <a href={`/novela/${novelaActual}`} class="btn-home">🏠</a>
+            {next ? <a href={`/novela/${next.id.replace('.md', '')}`} class="btn-nav">SIGUIENTE</a> : <span class="btn-nav disabled">FIN</span>}
+        </div>
+
+        <h1>{entry.data.titulo}</h1>
+        
+        <div class="contenido container" id="main-content">
+            <Ad />
+
+            <div id="cuerpo-capitulo">
+                <Content />
+            </div>
+
+            <div id="ad-medio" style="display:none; margin: 20px 0;">
+                <Ad />
+            </div>
+
+            <Ad />
+        </div>
+
+        <div class="nav-bar">
+            {prev ? <a href={`/novela/${prev.id.replace('.md', '')}`} class="btn-nav">ANTERIOR</a> : <span class="btn-nav disabled">ANTERIOR</span>}
+            <a href={`/novela/${novelaActual}`} class="btn-home">🏠</a>
+            {next ? <a href={`/novela/${next.id.replace('.md', '')}`} class="btn-nav">SIGUIENTE</a> : <span class="btn-nav disabled">FIN</span>}
+        </div>
+    </article>
+</MainLayout>
+
+<style is:global>
+    /* Estilos intactos */
+    .lector-novela { max-width: 100%; margin: 2rem auto; padding: 2rem; background: #fff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+    .toolbar { display: flex; gap: 10px; margin-bottom: 20px; }
+    .btn-tool { width: 40px; height: 40px; border-radius: 50%; border: none; background: #0d3b66; color: white; cursor: pointer; }
+    .nav-bar { display: flex; justify-content: center; align-items: center; gap: 15px; margin: 30px 0; padding: 1rem 0; border-top: 1px solid #eee; border-bottom: 1px solid #eee; }
+    .btn-nav { background: #0d3b66; color: white; padding: 10px 25px; border-radius: 25px; text-decoration: none; font-weight: bold; }
+    .btn-home { background: #2a9d8f; color: white; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center; text-decoration: none; }
+    .btn-nav.disabled { background: #ccc; cursor: not-allowed; }
+    .contenido { font-size: 1.2rem; line-height: 1.6; color: #333; }
+    h1 { color: #000; font-size: 2rem; margin-bottom: 1.5rem; }
+    
+    body.dark-mode { background-color: #050505; }
+    body.dark-mode .lector-novela { background-color: #a8a8a8 !important; color: #d1d1d1 !important; }
+    body.dark-mode .contenido p { color: #000000 !important; }
+    body.dark-mode h1 { color: #000000 !important; }
+
+  /* Corrección para que nada se corte en pantallas pequeñas */
+   
+        /* Corrección para que los anuncios no desplacen el contenido */
+#cuerpo-capitulo, .contenido {
+    width: 100% !important;
+    max-width: 100% !important;
+    overflow-x: hidden !important; /* Corta cualquier cosa que se salga lateralmente */
+}
+
+/* Forzamos a que el anuncio respete el ancho de su contenedor */
+.ad-container, #ad-medio {
+    width: 100% !important;
+    display: flex !important;
+    justify-content: center !important;
+    overflow: hidden !important;
+}
+
+/* Evitamos que el iframe del anuncio se estire más de la cuenta */
+iframe {
+    max-width: 100% !important;
+    height: auto !important;
+}
+
+/* Aseguramos que el article nunca sea más ancho que la pantalla */
+.lector-novela {
+    width: 100% !important;
+    max-width: 95% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    box-sizing: border-box !important;
+}
+   
+    
+</style>
+
+<script>
+    // 1. Mover publicidad SIN romper nada
+    document.addEventListener('DOMContentLoaded', () => {
+        const cuerpo = document.getElementById('cuerpo-capitulo');
+        const adMedio = document.getElementById('ad-medio');
+        
+        if (cuerpo && adMedio) {
+            const parrafos = cuerpo.querySelectorAll('p');
+            if (parrafos.length > 0) {
+                const indiceMedio = Math.floor(parrafos.length / 2);
+                parrafos[indiceMedio].after(adMedio);
+                adMedio.style.display = 'block';
+            }
+        }
+
+        // 2. Control de fuentes (Busca dentro de #main-content)
+        const container = document.getElementById('main-content');
+        const paragraphs = container?.querySelectorAll('p');
+        const btnMas = document.querySelector('.btn-mas');
+        const btnMenos = document.querySelector('.btn-menos');
+
+        if (paragraphs) {
+            const savedSize = localStorage.getItem('fontSize');
+            if (savedSize) paragraphs.forEach(p => p.style.fontSize = savedSize + 'px');
+            
+            btnMas?.addEventListener('click', () => {
+                let size = parseInt(window.getComputedStyle(paragraphs[0]).fontSize);
+                size += 2;
+                paragraphs.forEach(p => p.style.fontSize = size + 'px');
+                localStorage.setItem('fontSize', size.toString());
+            });
+            
+            btnMenos?.addEventListener('click', () => {
+                let size = parseInt(window.getComputedStyle(paragraphs[0]).fontSize);
+                size -= 2;
+                paragraphs.forEach(p => p.style.fontSize = size + 'px');
+                localStorage.setItem('fontSize', size.toString());
+            });
+        }
+
+        // 3. Modo oscuro
+        const btnModo = document.querySelector('.btn-modo');
+        if (localStorage.getItem('darkMode') === 'true') document.body.classList.add('dark-mode');
+        btnModo?.addEventListener('click', () => {
+            document.body.classList.toggle('dark-mode');
+            localStorage.setItem('darkMode', document.body.classList.contains('dark-mode') ? 'true' : 'false');
+        });
+    });
+</script>

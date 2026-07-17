@@ -1,0 +1,31 @@
+---
+import MainLayout from '../layouts/MainLayout.astro';
+import { novelas } from '../data/novelas.js';
+
+const query = Astro.url.searchParams.get('q')?.toLowerCase() || '';
+
+// Vamos a filtrar y además imprimir qué está pasando
+const resultados = novelas.filter(n => {
+    const coincide = n.titulo.toLowerCase().includes(query) || 
+                   n.anio.toString().includes(query) || 
+                   n.categoria.toLowerCase().includes(query);
+    return coincide;
+});
+---
+
+<MainLayout noSidebar={true}>
+    <div style="padding: 20px; color: white;">
+        <h1>Buscando: "{query}"</h1>
+        <p>Se encontraron {resultados.length} resultados.</p> {query !== '' && resultados.length === 0 ? (
+            <p>No se encontraron resultados para "{query}".</p>
+        ) : (
+            <div class="novelas-grid">
+                {resultados.map(n => (
+                    <div class="card">
+                        <h3>{n.titulo}</h3>
+                    </div>
+                ))}
+            </div>
+        )}
+    </div>
+</MainLayout>

@@ -1,0 +1,95 @@
+---
+import MainLayout from '../../layouts/MainLayout.astro';
+import { novelas } from '../../data/novelas.js';
+
+export function getStaticPaths() {
+    return novelas.map(n => ({
+        params: { id: n.id },
+        props: { novela: n },
+    }));
+}
+
+const { novela } = Astro.props;
+
+// Lógica para crear grupos de 100 capítulos
+const grupos = [];
+for (let i = 1; i <= novela.totalCapitulos; i += 100) {
+    const fin = Math.min(i + 99, novela.totalCapitulos);
+    grupos.push({ inicio: i, fin: fin });
+}
+---
+
+<MainLayout noSidebar={true}>
+    <div class="novela-container">
+        <div class="col-left">
+            <img src={novela.imagen} alt={novela.titulo} class="portada" />
+            <button class="btn-pdf">DESCARGAR PDF</button>
+        </div>
+
+        <div class="col-right">
+            <h1>{novela.titulo.toUpperCase()}</h1>
+            <p><strong>Año:</strong> {novela.anio}</p>
+            <p><strong>Genero:</strong> {novela.genero}</p>
+            
+            <div class="sinopsis">
+                <h3>Sinopsis:</h3>
+                <p>{novela.sinopsis}</p>
+            </div>
+
+            <div class="lista-capitulos">
+                <h3>Lista de Capítulos</h3>
+                {grupos.map(grupo => (
+                    <details class="grupo-capitulos">
+                        <summary>Capítulos {grupo.inicio} - {grupo.fin}</summary>
+                        <div class="grid-capitulos">
+                            {Array.from({ length: grupo.fin - grupo.inicio + 1 }, (_, i) => grupo.inicio + i).map(num => (
+                                <a href={`/novela/${novela.id}/capitulo-${num}`} class="cap-link">
+                                    {num}
+                                </a>
+                            ))}
+                        </div>
+                    </details>
+                ))}
+            </div>
+        </div>
+    </div>
+</MainLayout>
+
+<style>
+    .novela-container { display: flex; gap: 30px; margin-top: 20px; padding: 20px; color: white; }
+    .col-left { flex: 0 0 250px; }
+    .col-right { width: 100%; }
+    .portada { width: 100%; border-radius: 4px; display: block; }
+    .btn-pdf { width: 100%; background: #00a86b; color: white; border: none; padding: 10px; margin-top: 10px; cursor: pointer; border-radius: 4px; }
+    
+    .lista-capitulos { width: 100%; margin-top: 30px; }
+    .grupo-capitulos { margin-bottom: 10px; background: #0a1f33; border: 1px solid #1a3a5a; border-radius: 4px; }
+    .grupo-capitulos summary { padding: 15px; cursor: pointer; font-weight: bold; color: #00a86b; }
+    
+    .grid-capitulos {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(50px, 1fr));
+        gap: 5px;
+        padding: 15px;
+        background: #05101a;
+    }
+    .cap-link {
+        background: #1a3a5a; color: white; padding: 8px; text-align: center; 
+        text-decoration: none; border-radius: 4px; font-size: 12px;
+    }
+    .cap-link:hover { background: #00a86b; }
+
+    @media (max-width: 768px) {
+        .novela-container { flex-direction: column; } 
+        
+        .col-left { 
+            display: flex; 
+            flex-direction: column; 
+            align-items: center; 
+            width: 100%; 
+        }
+        
+        .portada { width: 50%; max-width: 250px; }
+        .btn-pdf { width: 50%; min-width: 150px; }
+    }
+</style>

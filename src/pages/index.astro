@@ -1,0 +1,81 @@
+---
+import MainLayout from '../layouts/MainLayout.astro';
+import { novelas } from '../data/novelas.js';
+
+// Filtramos las listas directamente
+const estrenos = novelas.filter(n => n.categoria === 'estrenos');
+const actualizadas = novelas.filter(n => n.categoria === 'actualizadas');
+---
+
+<MainLayout>
+    <section class="hero">
+        <h1>Novelas Online</h1>
+        <p class="subtitle">▷ Las Mejores Novelas Ligeras en Español Online ~ 2026</p>
+        <p class="description">
+            Bienvenido, aquí encuentras tu novela ligera, la que tanto buscabas, novelas chinas, coreanas, japonesas online más leídas ✅
+        </p>
+    </section>
+
+    <section class="seccion-estrenos">
+        <div class="section-header">
+            <h2>Estrenos</h2>
+            <a href="#" class="ver-todo">Ver todo</a>
+        </div>
+        <div class="novelas-grid">
+            {estrenos.map(n => (
+                <a href={`/novela/${n.id}`} class="card-link">
+                    <div class="card">
+                        <div class="image-container">
+                            <img src={n.imagen} alt={n.titulo}>
+                            <span class="year">{n.anio}</span>
+                        </div>
+                        <div class="card-info">
+                            <h3>{n.titulo}</h3>
+                        </div>
+                    </div>
+                </a>
+            ))}
+        </div>
+    </section>
+
+    <section class="seccion-actualizadas">
+        <div class="section-header">
+            <h2>Novelas Actualizadas</h2>
+            <a href="#" class="ver-todo">Ver todo</a>
+        </div>
+        <div class="novelas-grid">
+            {actualizadas.map(n => (
+                <a href={`/novela/${n.id}`} class="card-link">
+                    <div class="card">
+                        <div class="image-container">
+                            <img src={n.imagen} alt={n.titulo}>
+                            <span class="year">{n.anio}</span>
+                        </div>
+                        <div class="card-info">
+                            <h3>{n.titulo}</h3>
+                            <h3>{n.capitulosPublicados}</h3>
+                        </div>
+                    </div>
+                </a>
+            ))}
+        </div>
+    </section>
+</MainLayout>
+
+<style>
+    .card-link {
+        text-decoration: none;
+        color: inherit;
+        display: block;
+    }
+    .section-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+    .ver-todo {
+        color: #00a86b;
+        text-decoration: none;
+    }
+</style>
