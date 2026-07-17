@@ -1,0 +1,102 @@
+---
+import MainLayout from '../layouts/MainLayout.astro';
+---
+
+<MainLayout noSidebar={true} >
+  <div class="error-container">
+    <!-- Imagen de Deadpool centrada -->
+    <img 
+      src="/deadpool-error.png" 
+      alt="Deadpool haciendo un corazón con las manos" 
+      class="deadpool-img"
+    />
+
+    <!-- Caja del mensaje -->
+    <div class="error-box">
+      <h1>Ops un error!</h1>
+      <p>La página que intentas acceder no existe.</p>
+      <p>Reporta los capítulos perdidos en nuestro canal de Telegram</p>
+      
+      <!-- Botón de Telegram -->
+      <a 
+        href="https://t.me/tu_canal_telegram" 
+        target="_blank" 
+        rel="noopener noreferrer"
+        class="telegram-btn"
+      >
+        Click aca
+      </a>
+    </div>
+
+    <!-- Botón de Regresar al inicio -->
+    <a href="/" class="home-btn">
+      Regresar al Inicio
+    </a>
+  </div>
+</MainLayout>
+
+<style>
+  /* Estilos para asegurar que todo ocupe la pantalla y esté centrado */
+  .error-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 80vh; /* Ocupa casi toda la altura de la pantalla */
+    text-align: center;
+    background-color: #0a1929; /* Un color azul oscuro similar al de la imagen */
+    color: white;
+    padding: 20px;
+  }
+
+  .deadpool-img {
+    max-width: 300px; /* Ajusta el tamaño según necesites */
+    height: auto;
+    margin-bottom: -50px; /* Superpone la imagen un poco sobre la caja */
+    z-index: 1; /* Asegura que esté por encima de la caja */
+  }
+
+  .error-box {
+    background-color: #001529; /* Un azul más oscuro para la caja */
+    border: 1px solid #1a334d;
+    padding: 40px;
+    border-radius: 8px;
+    max-width: 500px;
+    width: 100%;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+    z-index: 0; /* Detrás de la imagen */
+  }
+
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+
+  p {
+    margin-bottom: 15px;
+    line-height: 1.5;
+    color: #d1d5db;
+  }
+
+  /* Estilo de los botones (el azul de la imagen) */
+  .telegram-btn, .home-btn {
+    display: inline-block;
+    background-color: #007bff; /* Color azul brillante de los botones */
+    color: white;
+    padding: 10px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s;
+    margin-top: 15px;
+  }
+
+  .telegram-btn:hover, .home-btn:hover {
+    background-color: #0056b3; /* Un azul más oscuro al pasar el mouse */
+  }
+
+  .home-btn {
+    margin-top: 30px; /* Espaciado extra para el botón de abajo */
+  }
+</style>
