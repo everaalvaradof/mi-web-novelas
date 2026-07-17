@@ -2,7 +2,7 @@
 // src/components/Ad.astro
 ---
 
-<!-- Contenedor para PC -->
+<!-- Este script carga solo en PC -->
 <div class="ad-pc">
     <script is:inline>
         window.atOptions = {
@@ -16,7 +16,7 @@
     <script is:inline src="https://www.highperformanceformat.com/fd83b45b1ce9547947075075a1e7bc02/invoke.js"></script>
 </div>
 
-<!-- Contenedor para Móviles -->
+<!-- Este script carga solo en Móvil -->
 <div class="ad-mobile">
     <script is:inline>
         window.atOptions = {
@@ -31,12 +31,22 @@
 </div>
 
 <style>
-    .ad-pc { display: block; text-align: center; }
-    .ad-mobile { display: none; text-align: center; }
+    /* Estilo básico para centrar */
+    .ad-pc, .ad-mobile { 
+        display: flex; 
+        justify-content: center; 
+        margin: 20px 0; 
+        min-height: 90px; /* Evita que el layout salte */
+    }
 
-    /* En pantallas pequeñas (celulares) */
+    /* Lógica: Esconder/Mostrar según el tamaño */
     @media (max-width: 768px) {
-        .ad-pc { display: none; }
-        .ad-mobile { display: block; }
+        .ad-pc { display: none !important; }
+        .ad-mobile { display: flex !important; }
+    }
+
+    @media (min-width: 769px) {
+        .ad-pc { display: flex !important; }
+        .ad-mobile { display: none !important; }
     }
 </style>
