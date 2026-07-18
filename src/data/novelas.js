@@ -2,7 +2,7 @@ export const novelas = [
     { 
         id: "eadd", 
         titulo: "Emperador alquimista del Divino Dao", 
-        genero: "Action, Fantasy, Martial Arts, Novela Ligera, Ranobe",
+        genero: "Action, Fantasy, Martial-Arts, Novela-Ligera, Ranobe",
         anio: "2023", 
         imagen: "/portada/eadd.jpg",
         sinopsis: "Diez mil años después de su muerte, Ling Han, el legendario Emperador de la Alquimia, renace en el cuerpo de un joven que comparte su nombre. Armado con el Pergamino Celestial Invencible y la sabiduría de su vida pasada, Ling Han regresa para reclamar su lugar en un mundo dominado por genios rivales. Con determinación absoluta, se propone demostrar que, en cualquier era, él es el guerrero más poderoso bajo los cielos.",
@@ -14,7 +14,7 @@ export const novelas = [
     { 
         id: "cdmf", 
         titulo: "La casa de la esposa feliz", 
-        genero: "Action, Fantasy, Martial Arts, Novela Ligera, Ranobe",
+        genero: "Action, Fantasy, Martial-Arts, Novela-Ligera, Ranobe",
         anio: "2023", 
         imagen: "/portada/cdmf.jpg",
         sinopsis: "Diez mil años después de su muerte, Ling Han, el legendario Emperador de la Alquimia, renace en el cuerpo de un joven que comparte su nombre. Armado con el Pergamino Celestial Invencible y la sabiduría de su vida pasada, Ling Han regresa para reclamar su lugar en un mundo dominado por genios rivales. Con determinación absoluta, se propone demostrar que, en cualquier era, él es el guerrero más poderoso bajo los cielos.",
