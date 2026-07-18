@@ -85,7 +85,7 @@ body { margin: 0; font-family: sans-serif; background-color: #0a1622; color: whi
 /* --- Responsive (Móvil) --- */
 @media (max-width: 768px) {
     .menu-toggle { display: block; }
-    .nav-menu { display: none; }
+    
     .main-wrapper { grid-template-columns: 1fr; }
     .main-header { justify-content: flex-start; flex-direction: row; gap: 15px; }
     .novelas-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); padding: 10px; }
