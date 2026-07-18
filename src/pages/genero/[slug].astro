@@ -1,0 +1,27 @@
+---
+import { novelas } from '../../data/novelas.js';
+import Layout from '../../layouts/Layout.astro'; // Ajusta la ruta a tu layout principal
+
+// Obtenemos el "slug" desde la URL
+const { slug } = Astro.params;
+
+// Filtramos las novelas: buscamos si el género (en minúsculas) incluye el slug
+const novelasFiltradas = novelas.filter(n => 
+    n.genero.toLowerCase().includes(slug.replace('-', ' '))
+);
+---
+
+<Layout>
+    <h1>Novelas de la categoría: {slug}</h1>
+    
+    <div class="novelas-grid">
+        {novelasFiltradas.map(n => (
+            <div class="card">
+                <img src={n.imagen} alt={n.titulo} />
+                <div class="card-info">
+                    <h3>{n.titulo}</h3>
+                </div>
+            </div>
+        ))}
+    </div>
+</Layout>
