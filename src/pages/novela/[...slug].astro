@@ -26,24 +26,13 @@ const prev = capitulosDeEstaNovela[currentIndex - 1] || null;
 const next = capitulosDeEstaNovela[currentIndex + 1] || null;
 ---
 
-
-<script>
-  const btn = document.getElementById('leer-btn');
-  const contenido = document.getElementById('cuerpo-capitulo').innerText;
-
-  btn.addEventListener('click', () => {
-    const speech = new SpeechSynthesisUtterance(contenido);
-    speech.lang = 'es-ES'; // O 'es-VE' si el navegador lo soporta
-    window.speechSynthesis.speak(speech);
-  });
-</script>
 <MainLayout noSidebar={true} title={entry.data.titulo}>
     <article class="lector-novela">
         <div class="toolbar">
             <button class="btn-tool btn-menos">-</button>
             <button class="btn-tool btn-mas">+</button>
             <button class="btn-tool btn-modo">🌙</button>
-            <button class="btn-tool id="leer-btn" class="btn-tool">🔊</button>
+            <button id="leer-btn" class="btn-tool">🔊</button>
         </div>
 
         <div class="nav-bar">
@@ -77,7 +66,6 @@ const next = capitulosDeEstaNovela[currentIndex + 1] || null;
 </MainLayout>
 
 <style is:global>
-    /* Estilos intactos */
     .lector-novela { max-width: 100%; margin: 2rem auto; padding: 2rem; background: #fff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
     .toolbar { display: flex; gap: 10px; margin-bottom: 20px; }
     .btn-tool { width: 40px; height: 40px; border-radius: 50%; border: none; background: #0d3b66; color: white; cursor: pointer; }
@@ -93,65 +81,35 @@ const next = capitulosDeEstaNovela[currentIndex + 1] || null;
     body.dark-mode .contenido p { color: #000000 !important; }
     body.dark-mode h1 { color: #000000 !important; }
 
-  /* Corrección para que nada se corte en pantallas pequeñas */
-   
-        /* Corrección para que los anuncios no desplacen el contenido */
-#cuerpo-capitulo, .contenido {
-    width: 100% !important;
-    max-width: 100% !important;
-    overflow-x: hidden !important; /* Corta cualquier cosa que se salga lateralmente */
-}
+    #cuerpo-capitulo, .contenido { width: 100% !important; max-width: 100% !important; overflow-x: hidden !important; }
+    .ad-container, #ad-medio { width: 100% !important; display: flex !important; justify-content: center !important; overflow: hidden !important; }
 
-/* Forzamos a que el anuncio respete el ancho de su contenedor */
-.ad-container, #ad-medio {
-    width: 100% !important;
-    display: flex !important;
-    justify-content: center !important;
-    overflow: hidden !important;
-}
+    iframe { max-width: 100% !important; height: auto !important; }
 
-/* Evitamos que el iframe del anuncio se estire más de la cuenta */
-iframe {
-    max-width: 100% !important;
-    height: 90px !important;
-}
-.ad-mobile {
-        display: flex !important;
-        justify-content: center !important;
-        align-items: center !important;
-        width: 100% !important;
-        min-height: 250px !important; /* Forzamos la altura para que el anuncio de 600 quepa */
-        margin: 20px 0 !important;
-        overflow: hidden;
-    }
+    .ad-mobile { display: flex !important; justify-content: center !important; align-items: center !important; width: 100% !important; min-height: 250px !important; margin: 20px 0 !important; overflow: hidden; }
+    .ad-mobile iframe { width: 300px !important; height: 250px !important; border: none !important; }
 
-    /* Esto evita que el iframe sea pequeño si el script intenta limitar el tamaño */
-    .ad-mobile iframe {
-        width: 300px !important;
-        height: 250px !important;
-        border: none !important;
-    }
-
-/* Aseguramos que el article nunca sea más ancho que la pantalla */
-.lector-novela {
-    width: 100% !important;
-    max-width: 95% !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    box-sizing: border-box !important;
-}
-   
-    
+    .lector-novela { width: 100% !important; max-width: 95% !important; margin-left: auto !important; margin-right: auto !important; box-sizing: border-box !important; }
 </style>
 
 <script>
-    // 1. Mover publicidad SIN romper nada
     document.addEventListener('DOMContentLoaded', () => {
-        const cuerpo = document.getElementById('cuerpo-capitulo');
+        // 1. Lectura de voz
+        const btnLeer = document.getElementById('leer-btn');
+        const cuerpoCapitulo = document.getElementById('cuerpo-capitulo');
+
+        btnLeer?.addEventListener('click', () => {
+            window.speechSynthesis.cancel();
+            const texto = cuerpoCapitulo?.innerText || "";
+            const speech = new SpeechSynthesisUtterance(texto);
+            speech.lang = 'es-ES';
+            window.speechSynthesis.speak(speech);
+        });
+
+        // 2. Mover publicidad
         const adMedio = document.getElementById('ad-medio');
-        
-        if (cuerpo && adMedio) {
-            const parrafos = cuerpo.querySelectorAll('p');
+        if (cuerpoCapitulo && adMedio) {
+            const parrafos = cuerpoCapitulo.querySelectorAll('p');
             if (parrafos.length > 0) {
                 const indiceMedio = Math.floor(parrafos.length / 2);
                 parrafos[indiceMedio].after(adMedio);
@@ -159,7 +117,7 @@ iframe {
             }
         }
 
-        // 2. Control de fuentes (Busca dentro de #main-content)
+        // 3. Fuentes
         const container = document.getElementById('main-content');
         const paragraphs = container?.querySelectorAll('p');
         const btnMas = document.querySelector('.btn-mas');
@@ -184,7 +142,7 @@ iframe {
             });
         }
 
-        // 3. Modo oscuro
+        // 4. Modo oscuro
         const btnModo = document.querySelector('.btn-modo');
         if (localStorage.getItem('darkMode') === 'true') document.body.classList.add('dark-mode');
         btnModo?.addEventListener('click', () => {
