@@ -28,7 +28,18 @@ const { noSidebar } = Astro.props;
     <button type="submit">🔍</button>
 </form>
     </header>
+<!-- El Botón de las 3 rayitas (Hamburguesa) -->
+<button class="menu-toggle">☰</button>
 
+<!-- El panel que se abre -->
+<nav class="mobile-menu">
+  <button class="close-menu">✕</button>
+  <ul>
+    <li><a href="/">Inicio</a></li>
+    <li><a href="/tipo/chinas">Chinas</a></li>
+    <!-- Aquí pones tus enlaces de géneros y años -->
+  </ul>
+</nav>
     <div class={`main-wrapper ${noSidebar ? 'full-width' : ''}`}>
         
         {/* Solo mostramos la barra lateral si no se activó noSidebar */}
@@ -76,6 +87,21 @@ const { noSidebar } = Astro.props;
             }
         });
     });
+</script>
+<script>
+    const toggle = document.querySelector('.menu-toggle');
+    const menu = document.querySelector('.mobile-menu');
+    const overlay = document.querySelector('.menu-overlay');
+    const closeBtn = document.querySelector('.close-menu');
+
+    function toggleMenu() {
+        menu.classList.toggle('active');
+        overlay.classList.toggle('active');
+    }
+
+    toggle.addEventListener('click', toggleMenu);
+    closeBtn.addEventListener('click', toggleMenu);
+    overlay.addEventListener('click', toggleMenu);
 </script>
 </body>
 </html>
