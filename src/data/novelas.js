@@ -48,7 +48,7 @@ export const novelas = [
     { 
         id: "abdiel", 
         titulo: "Abdiel Arcangel", 
-        genero: "Xianxia, Venezuela", 
+        genero: "Xianxia, Venezuela, prueba", 
         anio: "2026", 
         imagen: "/portada/eadd.jpg",
         sinopsis: "Un doctor con poderes milagrosos...",
