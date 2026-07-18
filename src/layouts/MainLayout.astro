@@ -47,14 +47,15 @@ novelas.forEach(n => {
                 
             </ul>
              <h3>Géneros</h3>
-                <ul>
-                   <li>
-    <a href={`/genero/${genero.toLowerCase().replace(' ', '-')}`}>
-        {genero} ({cantidad})
-    </a>
-</li>
-                </ul>
-
+        <ul>
+            {Object.entries(conteoGeneros).map(([genero, cantidad]) => (
+                <li>
+                    <a href={`/genero/${genero.toLowerCase().replace(' ', '-')}`}>
+                        {genero} ({cantidad})
+                    </a>
+                </li>
+            ))}
+        </ul>
         </nav>
 
         <div class="menu-overlay"></div>
@@ -81,24 +82,26 @@ novelas.forEach(n => {
 
     <div class={`main-wrapper ${noSidebar ? 'full-width' : ''}`}>
         
-        {!noSidebar && (
-            <aside class="sidebar">
-                <h3>Géneros</h3>
-                <ul>
-                     <li>
-    <a href={`/genero/${genero.toLowerCase().replace(' ', '-')}`}>
-        {genero} ({cantidad})
-    </a>
-</li>
-                </ul>
+       {!noSidebar && (
+    <aside class="sidebar">
+        <h3>Géneros</h3>
+        <ul>
+            {Object.entries(conteoGeneros).map(([genero, cantidad]) => (
+                <li>
+                    <a href={`/genero/${genero.toLowerCase().replace(' ', '-')}`}>
+                        {genero} ({cantidad})
+                    </a>
+                </li>
+            ))}
+        </ul>
 
-                <h3>Estado</h3>
-                <div class="years">
-                    <button>Terminadas ({terminadas})</button>
-                    <button>En Progreso ({enProgreso})</button>
-                </div>
-            </aside>
-        )}
+        <h3>Estado</h3>
+        <div class="years">
+            <button>Terminadas ({terminadas})</button>
+            <button>En Progreso ({enProgreso})</button>
+        </div>
+    </aside>
+)}
 
         <main class="container">
             <slot />
