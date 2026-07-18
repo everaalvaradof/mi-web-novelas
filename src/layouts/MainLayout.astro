@@ -13,6 +13,21 @@ const { noSidebar } = Astro.props;
 <body>
 
     <header class="main-header">
+    <!-- El Botón de las 3 rayitas (Hamburguesa) -->
+<button class="menu-toggle">☰</button>
+
+<!-- El panel que se abre -->
+<nav class="mobile-menu">
+  <button class="close-menu">✕</button>
+  <ul>
+    <li><a href="/">Inicio</a></li>
+    <li><a href="/tipo/chinas">Chinas</a></li>
+    <!-- Aquí pones tus enlaces de géneros y años -->
+  </ul>
+</nav>
+
+<!-- Overlay oscuro para cuando el menú está abierto -->
+<div class="menu-overlay"></div>
         <div class="logo">
             <img src="/logo.png" alt="Novelas Ligeras">
         </div>
@@ -28,18 +43,7 @@ const { noSidebar } = Astro.props;
     <button type="submit">🔍</button>
 </form>
     </header>
-<!-- El Botón de las 3 rayitas (Hamburguesa) -->
-<button class="menu-toggle">☰</button>
 
-<!-- El panel que se abre -->
-<nav class="mobile-menu">
-  <button class="close-menu">✕</button>
-  <ul>
-    <li><a href="/">Inicio</a></li>
-    <li><a href="/tipo/chinas">Chinas</a></li>
-    <!-- Aquí pones tus enlaces de géneros y años -->
-  </ul>
-</nav>
     <div class={`main-wrapper ${noSidebar ? 'full-width' : ''}`}>
         
         {/* Solo mostramos la barra lateral si no se activó noSidebar */}
