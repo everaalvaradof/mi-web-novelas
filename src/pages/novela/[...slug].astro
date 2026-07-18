@@ -26,12 +26,24 @@ const prev = capitulosDeEstaNovela[currentIndex - 1] || null;
 const next = capitulosDeEstaNovela[currentIndex + 1] || null;
 ---
 
+
+<script>
+  const btn = document.getElementById('leer-btn');
+  const contenido = document.getElementById('cuerpo-capitulo').innerText;
+
+  btn.addEventListener('click', () => {
+    const speech = new SpeechSynthesisUtterance(contenido);
+    speech.lang = 'es-ES'; // O 'es-VE' si el navegador lo soporta
+    window.speechSynthesis.speak(speech);
+  });
+</script>
 <MainLayout noSidebar={true} title={entry.data.titulo}>
     <article class="lector-novela">
         <div class="toolbar">
             <button class="btn-tool btn-menos">-</button>
             <button class="btn-tool btn-mas">+</button>
             <button class="btn-tool btn-modo">🌙</button>
+            <button class="btn-tool id="leer-btn" class="btn-tool">🔊</button>
         </div>
 
         <div class="nav-bar">
