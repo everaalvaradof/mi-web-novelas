@@ -1,18 +1,18 @@
 ---
 import { novelas } from '../../data/novelas.js';
-import Layout from '../../layouts/MainLayout.astro'; // Ajusta según tu estructura
+import Layout from '../../layouts/MainLayout.astro';
 
-// PASO 1: Generar las rutas automáticamente
+// Función para normalizar igual en ambos lados
+const formatSlug = (str) => str.trim().toLowerCase().replace(/\s+/g, '-');
+
 export async function getStaticPaths() {
-    // Obtenemos todos los géneros únicos de todas las novelas
     const todosLosGeneros = new Set();
     novelas.forEach(n => {
         n.genero.split(',').forEach(g => {
-            todosLosGeneros.add(g.trim().toLowerCase().replace(' ', '-'));
+            todosLosGeneros.add(g.trim().toLowerCase().replace(/\s+/g, '-'));
         });
     });
 
-    // Creamos la lista de rutas para Astro
     return Array.from(todosLosGeneros).map(slug => ({
         params: { slug },
     }));
@@ -20,9 +20,9 @@ export async function getStaticPaths() {
 
 const { slug } = Astro.params;
 
-// PASO 2: Filtrar las novelas
+// Filtramos comparando la versión normalizada de cada novela
 const novelasFiltradas = novelas.filter(n => 
-    n.genero.toLowerCase().replace(' ', '-').includes(slug)
+    n.genero.split(',').some(g => formatSlug(g) === slug)
 );
 ---
 
@@ -30,13 +30,17 @@ const novelasFiltradas = novelas.filter(n =>
     <h1>Novelas de la categoría: {slug}</h1>
     
     <div class="novelas-grid">
-        {novelasFiltradas.map(n => (
-            <div class="card">
-                <img src={n.imagen} alt={n.titulo} />
-                <div class="card-info">
-                    <h3>{n.titulo}</h3>
+        {novelasFiltradas.length > 0 ? (
+            novelasFiltradas.map(n => (
+                <div class="card">
+                    <img src={n.imagen} alt={n.titulo} />
+                    <div class="card-info">
+                        <h3>{n.titulo}</h3>
+                    </div>
                 </div>
-            </div>
-        ))}
+            ))
+        ) : (
+            <p>No se encontraron novelas en esta categoría.</p>
+        )}
     </div>
 </Layout>
