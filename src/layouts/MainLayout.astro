@@ -44,7 +44,15 @@ novelas.forEach(n => {
             <ul>
                 <li><a href="/">Inicio</a></li>
                 <li><a href="/tipo/chinas">Chinas</a></li>
+                
             </ul>
+             <h3>Géneros</h3>
+                <ul>
+                    {Object.entries(conteoGeneros).map(([genero, cantidad]) => (
+                        <li><a href={`/genero/${genero.toLowerCase().replace(' ', '-')}`}>{genero} ({cantidad})</a></li>
+                    ))}
+                </ul>
+
         </nav>
 
         <div class="menu-overlay"></div>
@@ -95,7 +103,7 @@ novelas.forEach(n => {
 
     <footer class="main-footer">
         <div class="footer-content">
-            <p>© 2026 XIANXIA - Tu portal de novelas ligeras.</p>
+            <p>© 2026 Novelas Ligeras - Tu portal de novelas ligeras.</p>
             <p>Diseñado con disciplina y orden.</p>
         </div>
     </footer>
