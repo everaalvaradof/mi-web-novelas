@@ -1,19 +1,19 @@
+/* --- Estilos base --- */
 body { margin: 0; font-family: sans-serif; background-color: #0a1622; color: white; }
+
+/* --- Menú Móvil (Drawer) --- */
 .mobile-menu {
     position: fixed;
     top: 0;
-    left: -300px; /* Escondido a la izquierda */
+    left: -300px;
     width: 250px;
     height: 100%;
     background: #1a2a3a;
     transition: 0.3s;
     z-index: 1000;
+    padding-top: 20px;
 }
-
-.mobile-menu.active {
-    left: 0; /* Aparece al tocar */
-}
-
+.mobile-menu.active { left: 0; }
 .menu-overlay {
     display: none;
     position: fixed;
@@ -21,84 +21,63 @@ body { margin: 0; font-family: sans-serif; background-color: #0a1622; color: whi
     background: rgba(0,0,0,0.5);
     z-index: 999;
 }
-
 .menu-overlay.active { display: block; }
-.main-header { background-color: #0a1f33; padding: 15px 20px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; border-bottom: 2px solid #1a3a5a; }
+
+/* Botón Hamburguesa: Oculto en PC, visible en móvil */
+.menu-toggle {
+    display: none;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    margin-right: 15px;
+}
+
+/* --- Header --- */
+.main-header { 
+    background-color: #0a1f33; 
+    padding: 15px 20px; 
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between; 
+    flex-wrap: wrap; 
+    border-bottom: 2px solid #1a3a5a; 
+}
 .logo img { height: 40px; width: auto; margin-right: 10px; }
+
+.nav-menu { display: flex; align-items: center; }
 .nav-menu a { color: white; text-decoration: none; margin: 0 10px; font-size: 0.9rem; }
 .nav-menu a:hover { color: #00a86b; border-bottom: 2px solid #00a86b; }
-.search-box button { background-color: #00a86b; color: white; border: none; padding: 8px 12px; cursor: pointer; border-radius: 4px; }
 
+.search-box { display: flex; align-items: center; }
+.search-box button { background-color: #00a86b; color: white; border: none; padding: 8px 12px; cursor: pointer; border-radius: 4px; margin-left: 5px;}
+
+/* --- Layout Principal --- */
 .main-wrapper { display: grid; grid-template-columns: 250px 1fr; gap: 20px; max-width: 1200px; margin: 20px auto; padding: 0 20px; }
+.main-wrapper.full-width { grid-template-columns: 1fr; }
 .sidebar { background-color: #0a1f33; padding: 20px; border-radius: 4px; height: fit-content; }
 .sidebar h3 { font-size: 1.1rem; color: #00a86b; border-bottom: 1px solid #1a3a5a; padding-bottom: 5px; }
 
-.hero { background-color: #4a5d6a; padding: 25px; border-radius: 4px; margin-bottom: 20px; }
-
-.section-header { display: flex; justify-content: space-between; align-items: center; padding: 0 20px; }
-.ver-todo { color: #00a86b; text-decoration: none; font-weight: bold; }
-
+/* --- Tarjetas y Contenido --- */
 .novelas-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 20px; padding: 20px; }
 .card { background-color: #0a1f33; border-radius: 4px; overflow: hidden; transition: all 0.3s ease; border: 2px solid #2c3e50; }
 .card:hover { border-color: #00a86b; transform: translateY(-5px); }
-
-.image-container { position: relative; width: 100%; height: 220px; }
-.card img { width: 100%; height: 100%; object-fit: cover; display: block; }
-.year {
-    position: absolute;
-    bottom: 0; /* Lo ponemos justo en el borde inferior de la imagen */
-    left: 0;
-    width: fit-content;
-    background-color: #0a1f33; /* El mismo azul de fondo de la tarjeta */
-    color: white;
-    padding: 4px; /* Un poco de aire arriba y abajo */
-    font-size: 0.75rem;
-    font-weight: bold;
-     center; /* Centrado como el título */
-    border-top: 1px solid #1a3a5a; /* Un borde fino para separarlo de la imagen */
-}
-
-.card-info {
-    padding: 10px;
-    text-align: center;
-    background-color: #0a1f33; /* Fondo sólido */
-}
+.card-info { padding: 10px; text-align: center; }
 .card h3 { margin: 0; font-size: 0.9rem; }
 
-.main-footer { background-color: #06101a; text-align: center; padding: 30px; margin-top: 40px; border-top: 1px solid #1a3a5a; color: #556677; }
-
+/* --- Responsive (Móvil) --- */
 @media (max-width: 768px) {
+    .menu-toggle { display: block; } /* Aparece el botón de 3 rayitas */
+    .nav-menu { display: none; }    /* Ocultamos el menú grande */
     .main-wrapper { grid-template-columns: 1fr; }
-    .main-header { flex-direction: column; gap: 15px; }
+    .main-header { justify-content: flex-start; } /* Alinea logo y botón a la izquierda */
 }
 
+/* --- Lector de Novela --- */
+.lector-novela { background-color: #121212 !important; padding: 40px; max-width: 800px; margin: 0 auto; border-radius: 8px; }
+.lector-novela p { color: #ffffff !important; font-size: 1.2rem; line-height: 1.8; }
+.lector-novela h1 { color: #00a86b !important; }
 
-/* Agrega esto a tu style.css para manejar el ancho completo */
-.main-wrapper.full-width {
-    grid-template-columns: 1fr; /* Elimina la columna de la barra lateral */
-}
-
-/* O si usas flexbox, asegúrate de que el contenedor principal ocupe el 100% */
-.main-wrapper.full-width .container {
-    width: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
-}
-
-.lector-novela {
-    background-color: #121212 !important;
-    padding: 40px;
-    max-width: 800px;
-    margin: 0 auto;
-    border-radius: 8px;
-}
-
-.lector-novela p {
-    color: #ffffff !important; /* Cambiado a blanco para que se lea */
-    font-size: 1.2rem;
-    line-height: 1.8;
-}
-
-.lector-novela h1 {
-    color: #00a86b !important; /* El verde que te gusta */
-}
+/* --- Footer --- */
+.main-footer { background-color: #06101a; text-align: center; padding: 30px; margin-top: 40px; border-top: 1px solid #1a3a5a; color: #556677; }
