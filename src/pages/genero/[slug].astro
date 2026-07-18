@@ -1,13 +1,28 @@
 ---
 import { novelas } from '../../data/novelas.js';
-import Layout from '../../layouts/Layout.astro'; // Ajusta la ruta a tu layout principal
+import Layout from '../../layouts/Layout.astro'; // Ajusta según tu estructura
 
-// Obtenemos el "slug" desde la URL
+// PASO 1: Generar las rutas automáticamente
+export async function getStaticPaths() {
+    // Obtenemos todos los géneros únicos de todas las novelas
+    const todosLosGeneros = new Set();
+    novelas.forEach(n => {
+        n.genero.split(',').forEach(g => {
+            todosLosGeneros.add(g.trim().toLowerCase().replace(' ', '-'));
+        });
+    });
+
+    // Creamos la lista de rutas para Astro
+    return Array.from(todosLosGeneros).map(slug => ({
+        params: { slug },
+    }));
+}
+
 const { slug } = Astro.params;
 
-// Filtramos las novelas: buscamos si el género (en minúsculas) incluye el slug
+// PASO 2: Filtrar las novelas
 const novelasFiltradas = novelas.filter(n => 
-    n.genero.toLowerCase().includes(slug.replace('-', ' '))
+    n.genero.toLowerCase().replace(' ', '-').includes(slug)
 );
 ---
 
