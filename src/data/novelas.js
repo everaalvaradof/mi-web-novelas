@@ -26,7 +26,7 @@ export const novelas = [
     { 
         id: "king-prodigio", 
         titulo: "king prodigio inmortal", 
-        genero: "Xianxia, Venezuela.", 
+        genero: "Xianxia, Venezuela", 
         anio: "2021", 
         imagen: "/portada2.jpg",
         sinopsis: "Un doctor con poderes milagrosos...",
@@ -37,7 +37,7 @@ export const novelas = [
     { 
         id: "doctor-magico", 
         titulo: "Doctor Mágico", 
-        genero: "Xianxia, Venezuela.", 
+        genero: "Xianxia, Venezuela", 
         anio: "2021", 
         imagen: "/portada2.jpg",
         sinopsis: "Un doctor con poderes milagrosos...",
@@ -48,7 +48,7 @@ export const novelas = [
     { 
         id: "abdiel", 
         titulo: "Abdiel Arcangel", 
-        genero: "Xianxia, Venezuela.", 
+        genero: "Xianxia, Venezuela", 
         anio: "2026", 
         imagen: "/portada/eadd.jpg",
         sinopsis: "Un doctor con poderes milagrosos...",

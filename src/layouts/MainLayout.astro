@@ -48,9 +48,11 @@ novelas.forEach(n => {
             </ul>
              <h3>Géneros</h3>
                 <ul>
-                    {Object.entries(conteoGeneros).map(([genero, cantidad]) => (
-                        <li><a href={`/genero/${genero.toLowerCase().replace(' ', '-')}`}>{genero} ({cantidad})</a></li>
-                    ))}
+                   <li>
+    <a href={`/genero/${genero.toLowerCase().replace(' ', '-')}`}>
+        {genero} ({cantidad})
+    </a>
+</li>
                 </ul>
 
         </nav>
