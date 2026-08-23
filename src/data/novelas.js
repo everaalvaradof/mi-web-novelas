@@ -77,6 +77,25 @@ export const novelas = [
         }
     },
     { 
+        id: "lotgs", 
+        titulo: "LEGEND OF THE GREAT SAGE", 
+        genero: "Acción, Aventura, Fantasía, Harem, Artes Marciales, Madura, Xianxia", 
+        anio: "2012", 
+        imagen: "/portada/lotgs.jpg",
+        sinopsis: "Tras despertar en el cuerpo de un joven campesino marginado en un mundo salvaje y brutal, Li Qingshan descubre que su única compañía es un misterioso toro parlante y que el único camino hacia el respeto, la libertad y el poder absoluto se forja a filo de espada. Entre la opresión del pueblo, las deidades falsas y la ley del más fuerte, esta historia épica de cultivo y supervivencia demuestra que cuando el cielo guarda silencio, la verdadera justicia se conquista con sangre, carne y una voluntad indomable.",
+        totalCapitulos: 1712,
+        capitulosPublicados:"Cap 1712",
+        categoria: "Terminadas",
+        pais: "chinas",
+        autor: "Talking about Dreamers",
+        
+        // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
+        seo: {
+            title: "Leer LEGEND OF THE GREAT SAGE en Español - Novelas Ligeras",
+            description: "Disfruta de LEGEND OF THE GREAT SAGE en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
         id: "cdmf", 
         titulo: "La casa de la esposa feliz", 
         genero: "Action, Fantasy, Martial-Arts, Novela-Ligera, Ranobe",
@@ -165,25 +184,6 @@ export const novelas = [
         categoria: "Actualizadas",
         pais: "Japonesas",
         autor: "Eguchi Ren",
-        
-        // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
-        seo: {
-            title: "Leer El Yerno Millonario en Español - Novelas Ligeras",
-            description: "Disfruta de El Yerno Millonario en Español completa y traducida al español. Lee todos los capítulos online gratis."
-        }
-    },
-    { 
-        id: "lotgs", 
-        titulo: "LEGEND OF THE GREAT SAGE", 
-        genero: "Acción, Aventura, Fantasía, Harem, Artes Marciales, Madura, Xianxia", 
-        anio: "2012", 
-        imagen: "/portada/lotgs.jpg",
-        sinopsis: "Tras despertar en el cuerpo de un joven campesino marginado en un mundo salvaje y brutal, Li Qingshan descubre que su única compañía es un misterioso toro parlante y que el único camino hacia el respeto, la libertad y el poder absoluto se forja a filo de espada. Entre la opresión del pueblo, las deidades falsas y la ley del más fuerte, esta historia épica de cultivo y supervivencia demuestra que cuando el cielo guarda silencio, la verdadera justicia se conquista con sangre, carne y una voluntad indomable.",
-        totalCapitulos: 1712,
-        capitulosPublicados:"Cap 1712",
-        categoria: "Terminadas",
-        pais: "chinas",
-        autor: "Talking about Dreamers",
         
         // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
         seo: {
