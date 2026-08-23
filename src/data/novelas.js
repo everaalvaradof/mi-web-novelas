@@ -39,6 +39,64 @@ export const novelas = [
         
     },
     { 
+        id: "matries", 
+        titulo: "Matrimonio Escondido", 
+        genero: "Acción, Drama, Harem, Artes-Marciales, Seinen, Xuanhuan", 
+        anio: "2026", 
+        imagen: "/portada/matries.jpg",
+        sinopsis: "Los fuertes se sienten solos. Superar la soledad te empuja a permanecer invencible en la cima. Pro-discípulo del Templo Shaolin en la Tierra, Huang Xiaolong renació en un mundo de Espíritu Marcial, llevando el conocimiento secreto de Hua Xia, la Escritura de Metamorfosis del Cuerpo. En un mundo de Espíritu Marcial, sólo aquellos con Espíritu Marcial son capaces de entrenar el qi de batalla y convertirse en guerreros. Huang Xiaolong -nacido con un Espíritu Marcial raro que desafía al cielo- fue confundido con una variante común de Espíritu Marcial durante la ceremonia de despertar llevada a cabo por la tribu y, por lo tanto, fue marginado. Sin embargo, Huang Xiaolong, con su Espíritu Marcial común variante, volvió a mostrar un talento antinatural, derrotando a los genios, conmocionando al clan y a todo el Mundo del Espíritu Marcial",
+        totalCapitulos: 2165,
+        capitulosPublicados:"Cap 2165",
+        categoria: "Terminadas",
+        pais: "chinas",
+        autor: "Shen Jian",
+        
+        // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
+        seo: {
+            title: "Leer Matrimonio Escondido en Español - Novelas Ligeras",
+            description: "Disfruta de Matrimonio Escondido en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
+        id: "shmrh", 
+        titulo: "Soy el Heredero más Rico de la Humanidad", 
+        genero: "Ranobe, Romance, Urban-Life", 
+        anio: "2008", 
+        imagen: "/portada/shmrh.jpg",
+        sinopsis: "¿Cómo es pasar de ser un hombre pobre a ser el heredero del hombre más rico? ¡Un contrato para heredar el patrimonio del hombre más rico, que no sólo da dinero sino también una diosa novia! La gente común necesita trabajar duro para tener éxito, ¡pero Chen Tian no lo necesita!",
+        totalCapitulos: 2010,
+        capitulosPublicados:"Cap 2010",
+        categoria: "emision",
+        pais: "chinas",
+        autor: "Dreaming of Innocence",
+        
+        // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
+        seo: {
+            title: "Leer Soy el Heredero más Rico de la Humanidad en Español - Novelas Ligeras",
+            description: "Disfruta de Soy el Heredero más Rico de la Humanidad en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
+        id: "cdmf", 
+        titulo: "La casa de la esposa feliz", 
+        genero: "Action, Fantasy, Martial-Arts, Novela-Ligera, Ranobe",
+        anio: "2023", 
+        imagen: "/portada/cdmf.jpg",
+        sinopsis: "Diez mil años después de su muerte, Ling Han, el legendario Emperador de la Alquimia, renace en el cuerpo de un joven que comparte su nombre. Armado con el Pergamino Celestial Invencible y la sabiduría de su vida pasada, Ling Han regresa para reclamar su lugar en un mundo dominado por genios rivales. Con determinación absoluta, se propone demostrar que, en cualquier era, él es el guerrero más poderoso bajo los cielos.",
+        totalCapitulos: 4929,
+        capitulosPublicados:"Cap 100",
+        categoria: "Terminadas",
+        pais: "chinas",
+        autor: "Shen Jian",
+        
+        // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
+        seo: {
+            title: "Leer El Yerno Millonario en Español - Novelas Ligeras",
+            description: "Disfruta de El Yerno Millonario en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+        
+    },
+    { 
         id: "umg", 
         titulo: "URBAN MEDICAL GOD", 
         genero: "Acción, Aventura, Fantasía, Harem, Artes Marciales, Madura, Xianxia", 
@@ -77,26 +135,6 @@ export const novelas = [
         }
     },
     { 
-        id: "cdmf", 
-        titulo: "La casa de la esposa feliz", 
-        genero: "Action, Fantasy, Martial-Arts, Novela-Ligera, Ranobe",
-        anio: "2023", 
-        imagen: "/portada/cdmf.jpg",
-        sinopsis: "Diez mil años después de su muerte, Ling Han, el legendario Emperador de la Alquimia, renace en el cuerpo de un joven que comparte su nombre. Armado con el Pergamino Celestial Invencible y la sabiduría de su vida pasada, Ling Han regresa para reclamar su lugar en un mundo dominado por genios rivales. Con determinación absoluta, se propone demostrar que, en cualquier era, él es el guerrero más poderoso bajo los cielos.",
-        totalCapitulos: 4929,
-        capitulosPublicados:"Cap 100",
-        categoria: "Terminadas",
-        pais: "chinas",
-        autor: "Shen Jian",
-        
-        // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
-        seo: {
-            title: "Leer El Yerno Millonario en Español - Novelas Ligeras",
-            description: "Disfruta de El Yerno Millonario en Español completa y traducida al español. Lee todos los capítulos online gratis."
-        }
-        
-    },
-    { 
         id: "kpi", 
         titulo: "king prodigio inmortal", 
         genero: "Xianxia, Venezuela", 
@@ -127,44 +165,6 @@ export const novelas = [
         categoria: "Actualizadas",
         pais: "Japonesas",
         autor: "Eguchi Ren",
-        
-        // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
-        seo: {
-            title: "Leer El Yerno Millonario en Español - Novelas Ligeras",
-            description: "Disfruta de El Yerno Millonario en Español completa y traducida al español. Lee todos los capítulos online gratis."
-        }
-    },
-    { 
-        id: "matries", 
-        titulo: "Matrimonio Escondido", 
-        genero: "Acción, Drama, Harem, Artes-Marciales, Seinen, Xuanhuan", 
-        anio: "2026", 
-        imagen: "/portada/matries.jpg",
-        sinopsis: "Los fuertes se sienten solos. Superar la soledad te empuja a permanecer invencible en la cima. Pro-discípulo del Templo Shaolin en la Tierra, Huang Xiaolong renació en un mundo de Espíritu Marcial, llevando el conocimiento secreto de Hua Xia, la Escritura de Metamorfosis del Cuerpo. En un mundo de Espíritu Marcial, sólo aquellos con Espíritu Marcial son capaces de entrenar el qi de batalla y convertirse en guerreros. Huang Xiaolong -nacido con un Espíritu Marcial raro que desafía al cielo- fue confundido con una variante común de Espíritu Marcial durante la ceremonia de despertar llevada a cabo por la tribu y, por lo tanto, fue marginado. Sin embargo, Huang Xiaolong, con su Espíritu Marcial común variante, volvió a mostrar un talento antinatural, derrotando a los genios, conmocionando al clan y a todo el Mundo del Espíritu Marcial",
-        totalCapitulos: 2165,
-        capitulosPublicados:"Cap 2165",
-        categoria: "Terminadas",
-        pais: "chinas",
-        autor: "Shen Jian",
-        
-        // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
-        seo: {
-            title: "Leer El Yerno Millonario en Español - Novelas Ligeras",
-            description: "Disfruta de El Yerno Millonario en Español completa y traducida al español. Lee todos los capítulos online gratis."
-        }
-    },
-    { 
-        id: "shmrh", 
-        titulo: "Soy el Heredero más Rico de la Humanidad", 
-        genero: "Ranobe, Romance, Urban-Life", 
-        anio: "2008", 
-        imagen: "/portada/shmrh.jpg",
-        sinopsis: "¿Cómo es pasar de ser un hombre pobre a ser el heredero del hombre más rico? ¡Un contrato para heredar el patrimonio del hombre más rico, que no sólo da dinero sino también una diosa novia! La gente común necesita trabajar duro para tener éxito, ¡pero Chen Tian no lo necesita!",
-        totalCapitulos: 2010,
-        capitulosPublicados:"Cap 2010",
-        categoria: "emision",
-        pais: "chinas",
-        autor: "Dreaming of Innocence",
         
         // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
         seo: {
