@@ -19,6 +19,26 @@ export const novelas = [
         }
     },
     { 
+        id: "invincible", 
+        titulo: "Invincible", 
+        genero: "Acción, Drama, Harem, Artes-Marciales, Seinen, Xuanhuan",
+        anio: "2023", 
+        imagen: "/portada/Invincible.jpg",
+        sinopsis: "Los fuertes se sienten solos. Superar la soledad te empuja a permanecer invencible en la cima. Pro-discípulo del Templo Shaolin en la Tierra, Huang Xiaolong renació en un mundo de Espíritu Marcial, llevando el conocimiento secreto de Hua Xia, la Escritura de Metamorfosis del Cuerpo. En un mundo de Espíritu Marcial, sólo aquellos con Espíritu Marcial son capaces de entrenar el qi de batalla y convertirse en guerreros. Huang Xiaolong -nacido con un Espíritu Marcial raro que desafía al cielo- fue confundido con una variante común de Espíritu Marcial durante la ceremonia de despertar llevada a cabo por la tribu y, por lo tanto, fue marginado. Sin embargo, Huang Xiaolong, con su Espíritu Marcial común variante, volvió a mostrar un talento antinatural, derrotando a los genios, conmocionando al clan y a todo el Mundo del Espíritu Marcial.",
+        totalCapitulos: 1900,
+        capitulosPublicados:"Cap 1900",
+        categoria: "Terminadas",
+        pais: "chinas",
+        autor: "Shen Jian",
+        
+        // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
+        seo: {
+            title: "Leer invincible en Español - Novelas Ligeras",
+            description: "Disfruta de invincible en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+        
+    },
+    { 
         id: "umg", 
         titulo: "URBAN MEDICAL GOD", 
         genero: "Acción, Aventura, Fantasía, Harem, Artes Marciales, Madura, Xianxia", 
@@ -55,26 +75,6 @@ export const novelas = [
             title: "Leer El Yerno Millonario en Español - Novelas Ligeras",
             description: "Disfruta de El Yerno Millonario en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
-    },
-    { 
-        id: "invincible", 
-        titulo: "Invincible", 
-        genero: "Acción, Drama, Harem, Artes-Marciales, Seinen, Xuanhuan",
-        anio: "2023", 
-        imagen: "/portada/Invincible.jpg",
-        sinopsis: "Los fuertes se sienten solos. Superar la soledad te empuja a permanecer invencible en la cima. Pro-discípulo del Templo Shaolin en la Tierra, Huang Xiaolong renació en un mundo de Espíritu Marcial, llevando el conocimiento secreto de Hua Xia, la Escritura de Metamorfosis del Cuerpo. En un mundo de Espíritu Marcial, sólo aquellos con Espíritu Marcial son capaces de entrenar el qi de batalla y convertirse en guerreros. Huang Xiaolong -nacido con un Espíritu Marcial raro que desafía al cielo- fue confundido con una variante común de Espíritu Marcial durante la ceremonia de despertar llevada a cabo por la tribu y, por lo tanto, fue marginado. Sin embargo, Huang Xiaolong, con su Espíritu Marcial común variante, volvió a mostrar un talento antinatural, derrotando a los genios, conmocionando al clan y a todo el Mundo del Espíritu Marcial.",
-        totalCapitulos: 2900,
-        capitulosPublicados:"Cap 2900",
-        categoria: "Terminadas",
-        pais: "chinas",
-        autor: "Shen Jian",
-        
-        // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
-        seo: {
-            title: "Leer El Yerno Millonario en Español - Novelas Ligeras",
-            description: "Disfruta de El Yerno Millonario en Español completa y traducida al español. Lee todos los capítulos online gratis."
-        }
-        
     },
     { 
         id: "cdmf", 
