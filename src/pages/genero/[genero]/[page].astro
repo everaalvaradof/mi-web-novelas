@@ -1,0 +1,64 @@
+---
+import MainLayout from '../../../layouts/MainLayout.astro';
+import { novelas } from '../../../data/novelas.js';
+import Ad from '../../../components/Ad.astro';
+
+export async function getStaticPaths({ paginate }) {
+  // 1. Extraer todos los géneros únicos de todas las novelas
+  // Asumiendo que 'genero' es un string con géneros separados por comas: "Xianxia, Fantasy"
+  const allGeneros = [...new Set(novelas.flatMap(n => 
+    n.genero.split(',').map(g => g.trim().toLowerCase())
+  ))];
+  
+  // 2. Crear las rutas para cada género encontrado
+  return allGeneros.flatMap((gen) => {
+    const filteredNovelas = novelas.filter(
+      (n) => n.genero.toLowerCase().includes(gen.toLowerCase())
+    );
+    
+    return paginate(filteredNovelas, {
+      params: { genero: gen },
+      pageSize: 10,
+    });
+  });
+}
+
+const { page } = Astro.props;
+const { genero } = Astro.params;
+---
+
+<MainLayout>
+  <h1>Género: {genero.charAt(0).toUpperCase() + genero.slice(1)}</h1>
+  
+  <div class="novelas-grid">
+    {page.data.map((n) => (
+      <a href={`/novela/${n.id}`} class="card-link">
+        <div class="card">
+          <div class="image-container">
+            <img src={n.imagen} alt={n.titulo}>
+            <span class="year">{n.anio}</span>
+          </div>
+          <div class="card-info">
+            <h3>{n.titulo}</h3>
+            <h3>{n.capitulosPublicados}</h3>
+          </div>
+        </div>
+      </a>
+    ))}
+  </div>
+
+  <div class="ad-container" style="margin: 20px 0; text-align: center;">
+    <Ad />
+  </div>
+
+  <nav class="pagination">
+    {page.url.prev ? <a href={page.url.prev}>⬅️ Anterior</a> : null}
+    <span>Página {page.currentPage} de {page.lastPage}</span>
+    {page.url.next ? <a href={page.url.next}>Siguiente ➡️</a> : null}
+  </nav>
+</MainLayout>
+
+<style>
+  .pagination { display: flex; gap: 1rem; margin-top: 2rem; justify-content: center; }
+  .pagination a { padding: 0.5rem 1rem; border: 1px solid #ccc; text-decoration: none; }
+</style>

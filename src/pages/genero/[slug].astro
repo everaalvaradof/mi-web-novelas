@@ -24,23 +24,34 @@ const { slug } = Astro.params;
 const novelasFiltradas = novelas.filter(n => 
     n.genero.split(',').some(g => formatSlug(g) === slug)
 );
+
+// Hacemos que el nombre del género luzca bien para el SEO (ej: "martial-arts" -> "Martial Arts")
+const nombreGeneroLimpio = slug.charAt(0).toUpperCase() + slug.slice(1).replace('-', ' ');
 ---
 
-<Layout>
-    <h1>Novelas de la categoría: {slug}</h1>
+<Layout 
+    title={`Novelas de ${nombreGeneroLimpio} en Español - Leer Online`}
+    description={`Explora nuestra lista completa de novelas del género ${nombreGeneroLimpio}. Lee los mejores capítulos actualizados gratis.`}
+>
+    <h1>Novelas del género: {nombreGeneroLimpio}</h1>
     
     <div class="novelas-grid">
         {novelasFiltradas.length > 0 ? (
             novelasFiltradas.map(n => (
-                <div class="card">
-                    <img src={n.imagen} alt={n.titulo} />
-                    <div class="card-info">
-                        <h3>{n.titulo}</h3>
+                <a href={`/novela/${n.id}`} class="card-link">
+                    <div class="card">
+                        <div class="image-container">
+                            <img src={n.imagen} alt={n.titulo}>
+                            <span class="year">{n.anio}</span>
+                        </div>
+                        <div class="card-info">
+                            <h3>{n.titulo}</h3>
+                        </div>
                     </div>
-                </div>
+                </a>
             ))
         ) : (
-            <p>No se encontraron novelas en esta categoría.</p>
+            <p>No se encontraron novelas en este género.</p>
         )}
     </div>
 </Layout>

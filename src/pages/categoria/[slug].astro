@@ -1,0 +1,57 @@
+---
+import { novelas } from '../../data/novelas.js';
+import Layout from '../../layouts/MainLayout.astro';
+
+// Función para normalizar igual en ambos lados
+const formatSlug = (str) => str.trim().toLowerCase().replace(/\s+/g, '-');
+
+export async function getStaticPaths() {
+    const todasLasCategorias = new Set();
+    novelas.forEach(n => {
+        n.categoria.split(',').forEach(g => {
+            todasLasCategorias.add(g.trim().toLowerCase().replace(/\s+/g, '-'));
+        });
+    });
+
+    return Array.from(todasLasCategorias).map(slug => ({
+        params: { slug },
+    }));
+}
+
+const { slug } = Astro.params;
+
+// Filtramos comparando la versión normalizada de cada novela
+const novelasFiltradas = novelas.filter(n => 
+    n.categoria.split(',').some(g => formatSlug(g) === slug)
+);
+
+// Formateamos el slug para que se vea limpio en el título y el H1 (ej: "accion-fantasia" -> "Accion Fantasia")
+const nombreCategoriaLimpio = slug.charAt(0).toUpperCase() + slug.slice(1).replace(/-/g, ' ');
+---
+
+<Layout 
+    title={`Novelas de la categoría ${nombreCategoriaLimpio} - Leer Online`}
+    description={`Explora el catálogo completo de novelas bajo la categoría ${nombreCategoriaLimpio}. Encuentra tus historias favoritas y léelas gratis.`}
+>
+    <h1>Novelas de la categoría: {nombreCategoriaLimpio}</h1>
+    
+    <div class="novelas-grid">
+        {novelasFiltradas.length > 0 ? (
+            novelasFiltradas.map(n => (
+                <a href={`/novela/${n.id}`} class="card-link">
+                    <div class="card">
+                        <div class="image-container">
+                            <img src={n.imagen} alt={n.titulo}>
+                            <span class="year">{n.anio}</span>
+                        </div>
+                        <div class="card-info">
+                            <h3>{n.titulo}</h3>
+                        </div>
+                    </div>
+                </a>
+            ))
+        ) : (
+            <p>No se encontraron novelas en esta categoría.</p>
+        )}
+    </div>
+</Layout>

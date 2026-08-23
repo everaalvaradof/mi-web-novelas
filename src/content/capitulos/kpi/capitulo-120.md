@@ -1,0 +1,51 @@
+---
+titulo: "Capítulo 120: Escalofríos"
+numero: 120
+novelaId: "kpi"
+---
+
+Tras descender durante varias horas más, Lucy finalmente llegó a una pequeña plataforma natural. Era un saliente rocoso considerable. Todavía quedaban los restos de una fogata extinguida; a juzgar por las huellas, el equipo de rescate debía haberse detenido aquí.
+
+Lucy estaba demasiado cansada para seguir. Se sentó en el suelo helado, escuchando el viento frío resonar en el valle. Miró hacia arriba; por la posición del sol lejano, sintió que ya debía ser mediodía. ¡La luz en las profundidades ya se había atenuado bastante! De repente pensó: si tuviera que pasar la noche allí, ¿qué haría?
+
+Los escalofríos recorrían su cuerpo en oleadas, de leves a intensos, en un ciclo interminable. Notó que sus manos estaban cada vez más entumecidas y veía abrasiones en su piel, producto del roce constante con la roca y el hielo durante el descenso. —Hace mucho frío aquí. Si esto es así a esta altura, ¿qué temperatura habrá en el fondo del valle? Tan pronto como se detuvo, notó las gélidas ráfagas de aire con más intensidad. Hacía tanto frío que deseó poder encogerse hasta convertirse en una bola. Rápidamente, se quitó la mochila, rebuscó en ella y finalmente encontró una bufanda y unos guantes más gruesos. Ahora estaría mejor protegida para continuar.
+
+De repente, sonrió con determinación. Si alguien la viera sonreír así en ese lugar desolado, definitivamente se sorprendería. Después, sacó una galleta energética comprimida y la comió. También llevaba consigo una cantidad considerable de las píldoras medicinales que Alex preparaba, pero era reacia a usarlas todavía. ¡Primero las galletas! Aquí, estimó, lo único por lo que no tendría que preocuparse era por el agua; había nieve y hielo por todas partes.
+
+Tras tomar un breve descanso, al ponerse de pie, ¡sintió de repente una oleada de agotamiento! Sin embargo, instantes después, una sensación de calor y energía brotó desde lo más profundo de su cuerpo, dándole fuerzas para continuar. Lucy jamás habría imaginado que eso era gracias al vino especial de Alex que había bebido la noche anterior. Al ser su cuerpo el de una persona normal (sin cultivo), los efectos medicinales del vino no fueron absorbidos de inmediato como le ocurrió a Alex. No obstante, esto jugó a su favor, ya que justo en el momento en que más lo necesitaba, la eficacia del vino actuó. De lo contrario, Lucy no habría podido llegar hasta donde se encontraba ahora.
+
+¡Apretó los dientes y continuó buscando el camino hacia abajo!
+
+—¡No hay más camino! —Lucy se asustó un poco al descubrir que los rastros del equipo de rescate terminaban allí. El siguiente tramo tendría que explorarlo por sí misma. Afortunadamente, la pendiente que bajaba no era un acantilado vertical de noventa grados, sino más bien de sesenta o setenta. Eso significaba que, incluso sin un camino claro, no caería directamente al vacío si perdía el equilibrio.
+
+Estuvo tanteando la pared helada del acantilado. De vez en cuando veía una o dos matas de hierba resistente aferradas a la roca y se sentía feliz, como si hubiera encontrado una compañera en esa desolación.
+
+—¿Qué es eso? —Lucy buscaba lentamente un camino para bajar cuando, de repente, observó una figura oscura inmóvil más abajo. Su corazón dio un vuelco. Su primer sentimiento no fue miedo a los fantasmas, sino un terror absoluto a que fuera el cadáver de Alex. Sus piernas flaquearon y cayó. Se deslizó varias decenas de metros por la pendiente helada antes de lograr detenerse sobre una roca que sobresalía. No le importaron las manos desgarradas ni los posibles huesos magullados. Se arrastró apresuradamente hasta acercarse al cuerpo. Tras mirar más de cerca, descubrió aliviada que era el cadáver de un hombre mayor vestido de negro (uno de los atacantes del templo). ¡No era Alex! ¡Esto la hizo sentir inmensamente aliviada!
+
+De repente, escuchó un grito cercano que hizo que se le erizaran los pelos de la nuca. Lucy estaba tan asustada que sintió como si la sangre se le helara en las venas; se le puso la piel de gallina. ¿Qué era ese sonido? ¿Por qué sonaba tan aterrador? Era una especie de risa espeluznante que helaba la sangre, etérea y fría.
+
+El cuero cabelludo de Lucy hormigueó. Entendió de inmediato que debía ser algo "no limpio". Incluso podría ser el alma errante del hombre muerto a su lado. ¡En un lugar como este, parecía que ni siquiera podías morir en paz! Lucy miró a su alrededor, asustada, pero no vio a nadie ni nada inusual. Sin embargo, sintió una repentina sensación helada aproximándose, como si algo invisible intentara atraparla. Estaba tan asustada que no se atrevió a moverse; cerró los ojos con fuerza. Por eso no se dio cuenta de que, desde el collar en su cuello, se extendió una suave luz que emitió una calidez protectora, dispersando rápidamente la sensación helada.
+
+Sintió de repente una paz inesperada invadir su cuerpo, devolviéndole algo de fuerza. El abismo seguía siendo el mismo, pero ahora, la sensación aterradora había desaparecido. Respiró hondo y continuó descendiendo. Aun así, seguía sintiendo como si algo o alguien la observara desde la oscuridad. Sin embargo, por más miedo que le causara, sus pies no se detuvieron; descendió paso a paso. Apretó los dientes y dijo en voz alta, al aire: —¿Quién eres? ¡No me importa si eres una persona o un fantasma! ¡Te digo que si te atreves a asustarme de nuevo, llamaré a mi esposo para que te dé una paliza!
+
+El rostro pálido de Lucy recuperó un ligero rubor. No se atrevió a quedarse allí parada y siguió caminando. Pero no había ido muy lejos cuando volvió a sentir esa mirada fría a sus espaldas. Se cayó varias veces más por el terreno resbaladizo, pero no le importó; simplemente se levantaba y continuaba. Tras bajar durante mucho tiempo, se dio cuenta de que su ropa estaba rasgada en varios sitios. Sin embargo, aún persistía esa sensación casi imperceptible de ser observada.
+
+Se giró de repente; su piel volvió a hormiguear. Miró nerviosamente hacia un punto concreto en la oscuridad. Sintió, con una certeza extraña y nada lógica, que "eso" estaba allí. Después de todo lo experimentado, ya no era una escéptica.
+
+En ese momento, miró su reloj (o teléfono) y descubrió con horror que era muy tarde. ¡Dios mío! ¡Había pasado casi un día entero descendiendo! ¡No era de extrañar que los alrededores fueran cada vez más oscuros! Sacó una linterna de carga manual. Este tipo de linterna tenía una ventaja: mientras continuara dándole a la manivela, nunca se agotaría la batería. Con la linterna, trató de iluminar el punto oscuro donde creía sentir la presencia. Al hacerlo, casi dejó caer la linterna de la mano por la sorpresa.
+
+¡Ahí, frente a ella, estaba un hombre de espaldas! Lucy lo reconoció al instante: ¡era Alex! Llevaba la misma ropa que la última vez que lo vio... y justo entonces, se dio la vuelta y se alejó caminando de ella. —¡Alex! —gritó Lucy saliendo de su asombro. Trató de correr lo más rápido que pudo hacia donde estaba él, pero la falta de coordinación en sus piernas cansadas solo le permitió moverse mucho más lento de lo que deseaba.
+
+Cuando llegó al lugar donde había visto a Alex, se encontró rodeada únicamente por una oscuridad espesa. Por más que buscó con la linterna, no pudo encontrarlo. En ese momento, supo que solo lo había imaginado. Debido a su fuerte deseo de encontrarlo, su mente le había jugado una mala pasada. "¡Estoy demasiado cansada!", se dijo a sí misma.
+
+Lucy quería encontrar un lugar para descansar, pero la risa macabra volvió a sonar cerca. Rápidamente, abrió el frasco de píldoras (de Alex) y se tragó una. ¡En apenas un minuto, sintió cómo recuperaba parte de sus fuerzas! Justo después de guardar el frasco, la sombra negra asociada a la risa pareció materializarse en el aire, se precipitó furiosa hacia ella y golpeó su cuerpo con un impacto sordo.
+
+Lucy dejó escapar un grito de dolor y salió rodando pendiente abajo. Siguió golpeándose contra paredes de hielo y rocas. Presa del pánico, extendió las manos intentando agarrarse a algo, pero no pudo estabilizar su cuerpo. Vio que se dirigía peligrosamente hacia una gran roca de bordes afilados. Estaba tan asustada que sus últimas fuerzas la abandonaron; cerró los ojos con desesperación.
+
+Con un fuerte ruido sordo, su cuerpo se detuvo bruscamente. Lucy tardó varios minutos en recuperar el sentido. Abrió lentamente los ojos y se sorprendió al descubrir que estaba rodeada por una tenue pared de luz protectora. Sintió una sensación cálida en el cuello y vio la luz que salía del collar de diamantes. Al reconocer la misma sensación de antes, se dio cuenta: ¡era el collar quien la había salvado de nuevo!
+
+Sostuvo firmemente el collar en la mano, miró hacia la oscuridad de donde había venido la sombra y gritó: —¡No me importa lo que seas! ¡Pero si te atreves a acercarte de nuevo, buscaré a mi esposo para que erradique tu alma! Aunque gritó esto con fiereza, fue solo para infundirse valor. No sabía si la presencia era real o solo su imaginación jugándole malas pasadas por el miedo y el agotamiento. No obstante, era todo lo que podía hacer.
+
+La sensación helada pareció persistir, observándola, durante un rato más, pero también pareció intimidarse por sus palabras y lentamente desapareció. Lucy sintió cómo desaparecía la frialdad e inmediatamente intentó volverse para seguir avanzando. Pero al moverse, la superficie bajo ella cedió y continuó deslizándose hacia abajo por la pendiente.
+
+—Ah... —gritó de nuevo. Sorprendentemente, la luz frente a ella se intensificó de repente y los alrededores se volvieron casi tan brillantes como un día soleado junto al mar. Ante sus ojos se extendía un páramo completamente congelado, que llegaba hasta donde alcanzaba la vista. Ella seguía deslizándose pendiente abajo, a una velocidad tan rápida que no podía controlarla. Al mismo tiempo, comprendió que debía de haber llegado a la zona donde el helicóptero no podía operar: ¡el frío aquí era tan intenso que probablemente congelaría las hélices!

@@ -1,0 +1,43 @@
+---
+titulo: "Capítulo 81: Destrucción de la escena"
+numero: 81
+novelaId: "kpi"
+---
+
+Los vehículos policiales finalmente se detuvieron frente a una casa aparentemente desierta. Liu Yifei y los demás oficiales salieron. Según el plan de Alex, los sospechosos serían capturados por orden de importancia, lo más rápido posible, para evitar que los "peces gordos" escaparan de la red. Eso sería relativamente fácil con todo el apoyo policial, pero el equipo actual era reducido: apenas algo más de una docena de oficiales, seleccionados personalmente por Yifei por sus capacidades y reputación, con la notable excepción de Su Jin, quien se había valido de sus conexiones (su padre y el alcalde) para entrar en el equipo.
+
+Alex se paró frente al grupo y comenzó a indicarles cómo proceder según el plan. Tras una pausa, continuó: —En otras palabras, ¡la otra parte debe de estar armada y tener entrenamiento! Por eso es crucial no alertarlos bajo ningún concepto. ¡Con sigilo, seguro que lograremos atraparlos a todos!
+
+Las palabras de Alex fueron claras y directas, pero sonaron especialmente duras en los oídos de Su Jin. En ese momento, Su Jin se burló y lo reprendió severamente: —¿Solo porque se te ocurrió un plan puedes venir a darnos órdenes? ¿A quién crees que engañas? ¡Somos nosotros, la policía, quienes decidiremos cómo proceder en esta misión! —No contento con eso, Su Jin caminó directamente hacia Alex, señaló con el dedo su pecho y gritó—: ¡Recuerda! La policía está manejando este caso. ¡Si te atreves a decir más tonterías, te arrestaré por obstruir nuestros deberes oficiales!
+
+Al ver la mirada furiosa de Su Jin (quien actuaba como si fuera el capitán en ese momento), el resto de los policías pareció entender algo (sus celos o su mala relación con Alex). Aunque sintieron que lo que Alex había dicho era razonable, ¡nadie se atrevió a desafiar a Su Jin ('burlarse de su barba')!
+
+Alex frunció ligeramente el ceño. Descubrió que Su Jin parecía estar apuntándole deliberadamente, buscándole las cosquillas. Aunque no entendía dónde había ofendido a este tipo, a Alex no le importó. Dado que se negaba a aceptar su sugerencia, no necesitaba perder más tiempo discutiendo.
+
+Finalmente, el grupo se puso en marcha hacia el primer objetivo. Bajo el manto de la noche, los oficiales siguieron a Liu Yifei y a Alex hasta las inmediaciones de una casa que parecía en ruinas. De no ser por un coche de lujo estacionado discretamente cerca, se podría decir que allí no había nadie. Siguiendo el plan de Alex, los oficiales lograron entrar sigilosamente en la casa y sorprendieron a las personas dentro sin darles apenas tiempo a reaccionar. Tras asegurarse de haber capturado al objetivo y ponerlo bajo custodia, procedieron hacia el siguiente.
+
+La noche era fría y en las calles desiertas solo se oía el silbido de la brisa. Pero, oculto a la vista, un grupo de personas se deslizaba furtivamente, aprovechando la oscuridad. Tras solo dos horas, cuatro de los objetivos habían sido capturados con éxito. Alex, Liu Yifei y el resto de los oficiales se reunieron junto a los sospechosos detenidos en la última ubicación registrada.
+
+Para los oficiales y para Yifei, haber atrapado a cuatro de los cinco objetivos era ya un gran logro. Sin embargo, para Alex, había algo que no terminaba de cuadrar. Durante la operación, Alex había puesto en práctica su recién descubierto sentido espiritual a medida que se acercaban a cada objetivo. Y cuanto más lo usaba, más efectivo parecía volverse, cubriendo una distancia mayor cada vez. Aunque consumía gran parte de su energía, no necesitaba usarlo continuamente, por lo que tenía tiempo de recuperarse entre usos. Cuando entraron en esta última ubicación, no olvidó escanearla con su sentido espiritual. Y ahora, con toda la información de la casa presente en su "mar de conciencia", solo tenía que analizar un poco para darse cuenta de detalles que pasarían desapercibidos para la gente común.
+
+Mientras Alex estaba sumido en sus pensamientos, Su Jin se acercó a dos oficiales. —¿Lo han confirmado? —preguntó, frunciendo el ceño mientras miraba el área. —¡Capitán Su, confirmado! ¡No hay nadie más en la casa! ¡Y los detenidos se niegan a hablar sin la presencia de su abogado! —respondió uno de los oficiales.
+
+Su Jin asintió y luego ordenó a los policías a su cargo: —¡Notifiquen al departamento técnico para que envíen a alguien a investigar la escena en busca de evidencia dejada por los secuestradores! ¡El resto, sepárense y pregunten a los residentes de los alrededores si pueden darnos alguna pista! ¡Busquen bien, descubran cualquier lugar donde puedan esconderse! —¡Sí, capitán! —Muchos policías asintieron y empezaron a dispersarse para cumplir las órdenes.
+
+En ese momento, una voz clara resonó: —¡No hay necesidad de verificar! ¡Las personas que faltan no están aquí! —¿Eh? Al escuchar esto, los policías que estaban a punto de separarse quedaron desconcertados. Se dieron la vuelta uno por uno y descubrieron que era Alex, al lado de Liu Yifei, quien había hablado.
+
+—¡De qué estás hablando! ¿Por qué no comprobarlo? —Tras ver que era Alex quien hablaba, el rostro de Su Jin se ensombreció aún más y gritó con fuerza. A Alex no le importó la actitud de Su Jin. Solo señaló unos rastros de ruedas apenas visibles en el suelo polvoriento y dijo lentamente: —Estas huellas de neumáticos son diferentes. Unas son las marcas dejadas por un vehículo al entrar, y las otras son las dejadas por el mismo vehículo al irse. A juzgar por la profundidad de las marcas, la furgoneta entró aquí con poco peso, mientras que salió cargando mucho más. —Tras una pausa, Alex continuó—: En otras palabras, ¡la otra parte solo vino a este sitio a recoger algo y llevárselo! ¡Y por las otras pistas en la casa, puedo decirles que se están llevando a las personas secuestradas! ¡Ahora mismo, es muy probable que ya hayan escapado de esta zona!
+
+Las palabras de Alex fueron de nuevo directas y seguras, lo que enfadó aún más a Su Jin. En ese instante, Su Jin se burló y lo reprendió: —¿Solo por unas marcas de neumáticos puedes decir que se llevaron a la gente de aquí? ¿A quién intentas engañar? ¡Eso solo puede juzgarlo alguien del departamento técnico! —No contento con eso, Su Jin caminó de nuevo hacia Alex, señaló su pecho con el dedo y gritó—: ¡Recuerda! Ya te lo dije antes: ¡la policía está manejando este caso! ¡Si te atreves a decir más tonterías, te arrestaré por obstruir nuestros deberes!
+
+En ese momento, Alex ignoró por completo a Su Jin. Se puso en cuclillas, miró de cerca las marcas de los neumáticos, recogió un poco de arena de la marca con la mano y la olió. Tras unas pocas respiraciones profundas, Alex se sacudió la arena de la mano y sus ojos se iluminaron.
+
+—¡Qué estás haciendo! ¡Te atreves a contaminar la escena! —Justo cuando Alex se sacudía la arena, Su Jin se abalanzó hacia él y lo agarró por el cuello. Sujetando a Alex por el cuello y señalando las marcas en el suelo, gritó con severidad—: ¡Mira lo que has hecho! ¡Es un crimen destruir la escena! ¡Vengan, detengan a este tipo! —Su Jin miró sombríamente a Alex; este tipo lo había estado molestando ('estado molesto') desde que llegó, y ahora que tenía una excusa ('agarro el mango'), naturalmente no lo perdonaría fácilmente.
+
+Los ojos de Alex se enfriaron. Simplemente había tomado un poco de arena de las huellas; eso no podía considerarse destruir la escena. Su Jin, obviamente, lo estaba incriminando deliberadamente. Esto ocasionó que un rastro de ira surgiera en el corazón de Alex. —¡Aléjate! —Alex agitó levemente el brazo y lanzó a Su Jin directamente a tres o cuatro metros de distancia. Su Jin se tambaleó y casi cayó al suelo.
+
+—¡Tú...! ¡Te atreves a atacar a la policía! ¡Atrápenlo...! ¡Atrápenlo! —Su Jin quedó aturdido un instante y, tras reaccionar, su rostro enrojeció como la sangre y gritó con severidad. Tras escuchar la orden de su superior, el resto de los policías inmediatamente rodearon a Alex.
+
+En ese instante, una voz resonó: —¡Basta! Liu Yifei tenía el rostro contraído. No esperaba que la situación derivara en esto. Originalmente, la misión era capturar a los secuestradores y rescatar a las jóvenes, ¡pero ahora se había convertido en la detención de Alex!
+
+—¡Oficial Yifei! ¡Ese tipo no solo contaminó la escena, sino que también se atrevió a atacar a un oficial! ¡Debe ser cómplice de los secuestradores! —dijo Su Jin, dirigiéndose a Liu Yifei. Los ojos de Liu Yifei se volvieron fríos. No esperaba que fuera Su Jin quien causara este problema.

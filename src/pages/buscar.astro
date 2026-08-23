@@ -1,0 +1,247 @@
+---
+import MainLayout from '../layouts/MainLayout.astro';
+import { novelas } from '../data/novelas.js';
+
+// Capturamos el término de búsqueda por si vienen desde la barra del header (?q=...)
+const initialQuery = Astro.url.searchParams.get('q') || '';
+
+// Extraemos y limpiamos todos los géneros de forma dinámica desde el archivo de novelas
+const generosSet = new Set();
+novelas.forEach(n => {
+    if (n.genero) {
+        n.genero.split(',').forEach(g => {
+            const generoLimpio = g.trim();
+            if (generoLimpio) generosSet.add(generoLimpio);
+        });
+    }
+});
+// Convertimos a array y ordenamos alfabéticamente
+const listaGeneros = Array.from(generosSet).sort((a: any, b: any) => a.localeCompare(b));
+---
+
+<MainLayout 
+    noSidebar={true} 
+    title="Buscar Novelas - Portal de Novelas Ligeras"
+    description="Filtra y busca tus novelas ligeras y web favoritas por título, género o estado de publicación."
+>
+    <div class="search-page-container">
+        <div class="search-wrapper">
+            
+            <!-- Barra de Filtros -->
+            <div class="filters-bar">
+                
+                <!-- Filtro por Estado / Categoría -->
+                <div class="filter-group">
+                    <span class="filter-label">Estado</span>
+                    <div class="status-buttons" id="filter-status">
+                        <button type="button" data-filter-status="all" class="filter-status-btn active" aria-pressed="true">Todo</button>
+                        <button type="button" data-filter-status="emision" class="filter-status-btn" aria-pressed="false">En Emisión</button>
+                        <button type="button" data-filter-status="terminadas" class="filter-status-btn" aria-pressed="false">Terminadas</button>
+                    </div>
+                </div>
+
+                <!-- Filtro por Género (Generado Dinámicamente) -->
+                <div class="filter-group">
+                    <label for="filter-genre" class="filter-label">Género</label>
+                    <select id="filter-genre" class="filter-select">
+                        <option value="">Todos los géneros</option>
+                        {listaGeneros.map((gen: any) => (
+                            <option value={gen.toLowerCase()}>{gen}</option>
+                        ))}
+                    </select>
+                </div>
+
+                <!-- Buscador por Título -->
+                <div class="filter-group flex-grow">
+                    <label for="filter-title" class="filter-label">Buscar por título</label>
+                    <input 
+                        id="filter-title" 
+                        type="search" 
+                        value={initialQuery}
+                        placeholder="Escribe el nombre de la novela..." 
+                        class="filter-input"
+                    >
+                </div>
+
+                <p id="filter-count" class="filter-count">Mostrando {novelas.length} novelas</p>
+            </div>
+
+            <!-- Grid de Novelas -->
+            <div class="novelas-grid">
+                {novelas.map((n) => (
+                    <a 
+                        href={`/novela/${n.id}`} 
+                        class="card-link novel-item"
+                        data-status={n.categoria ? n.categoria.toLowerCase().trim() : ''}
+                        data-genre={n.genero ? n.genero.toLowerCase() : ''}
+                        data-title={n.titulo ? n.titulo.toLowerCase() : ''}
+                    >
+                        <div class="card">
+                            <div class="image-container">
+                                <img src={n.imagen} alt={n.titulo}>
+                                <span class="year">{n.anio}</span>
+                            </div>
+                            <div class="card-info">
+                                <h3>{n.titulo}</h3>
+                                <h3>{n.capitulosPublicados}</h3>
+                            </div>
+                        </div>
+                    </a>
+                ))}
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Estilos específicos adaptados a tu diseño oscuro -->
+    <style>
+        .search-page-container {
+            padding: 40px 20px;
+            color: white;
+        }
+        .search-wrapper {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .filters-bar {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            align-items: flex-end;
+            background: #0a1f33;
+            border: 1px solid #1a3a5a;
+            padding: 25px;
+            border-radius: 6px;
+            margin-bottom: 30px;
+        }
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            min-width: 180px;
+        }
+        .filter-group.flex-grow {
+            flex: 1;
+            min-width: 220px;
+        }
+        .filter-label {
+            font-size: 11px;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #00a86b;
+        }
+        .status-buttons {
+            display: flex;
+            gap: 5px;
+        }
+        .filter-status-btn {
+            background: #1a3a5a;
+            color: white;
+            border: 1px solid #2a4a7a;
+            padding: 8px 14px;
+            font-size: 13px;
+            cursor: pointer;
+            border-radius: 4px;
+            transition: background 0.2s;
+        }
+        .filter-status-btn.active, .filter-status-btn:hover {
+            background: #00a86b;
+            border-color: #00a86b;
+        }
+        .filter-select, .filter-input {
+            background: #05101a;
+            border: 1px solid #1a3a5a;
+            color: white;
+            padding: 9px 12px;
+            font-size: 14px;
+            border-radius: 4px;
+            outline: none;
+        }
+        .filter-select:focus, .filter-input:focus {
+            border-color: #00a86b;
+        }
+        .filter-count {
+            font-size: 14px;
+            color: #a0aec0;
+            margin-left: auto;
+            align-self: center;
+        }
+        .novelas-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            gap: 20px;
+        }
+
+        @media (max-width: 768px) {
+            .filters-bar {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            .filter-count {
+                margin-left: 0;
+                text-align: center;
+            }
+        }
+    </style>
+
+    <!-- Script de filtrado en tiempo real -->
+    <script>
+        const searchInput = document.getElementById('filter-title') as HTMLInputElement;
+        const genreSelect = document.getElementById('filter-genre') as HTMLSelectElement;
+        const statusButtons = document.querySelectorAll('.filter-status-btn');
+        const novelItems = document.querySelectorAll('.novel-item');
+        const countDisplay = document.getElementById('filter-count');
+
+        let currentStatus = 'all';
+
+        function filterNovels() {
+            const query = searchInput ? searchInput.value.toLowerCase().trim() : '';
+            const selectedGenre = genreSelect ? genreSelect.value.toLowerCase().trim() : '';
+            let visibleCount = 0;
+
+            novelItems.forEach((item) => {
+                const htmlItem = item as HTMLElement;
+                const title = htmlItem.dataset.title || '';
+                const status = htmlItem.dataset.status || '';
+                const genre = htmlItem.dataset.genre || '';
+
+                const matchesQuery = title.includes(query);
+                const matchesStatus = currentStatus === 'all' || status.includes(currentStatus);
+                const matchesGenre = !selectedGenre || genre.includes(selectedGenre);
+
+                if (matchesQuery && matchesStatus && matchesGenre) {
+                    htmlItem.style.display = 'block';
+                    visibleCount++;
+                } else {
+                    htmlItem.style.display = 'none';
+                }
+            });
+
+            if (countDisplay) {
+                countDisplay.textContent = `Mostrando ${visibleCount} novelas`;
+            }
+        }
+
+        if (searchInput) searchInput.addEventListener('input', filterNovels);
+        if (genreSelect) genreSelect.addEventListener('change', filterNovels);
+
+        statusButtons.forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                statusButtons.forEach(b => {
+                    b.setAttribute('aria-pressed', 'false');
+                    b.classList.remove('active');
+                });
+                const target = e.currentTarget as HTMLElement;
+                target.setAttribute('aria-pressed', 'true');
+                target.classList.add('active');
+                
+                currentStatus = target.dataset.filterStatus || 'all';
+                filterNovels();
+            });
+        });
+
+        // Filtrar automáticamente al cargar la página si vino un parámetro desde el formulario superior
+        filterNovels();
+    </script>
+</MainLayout>

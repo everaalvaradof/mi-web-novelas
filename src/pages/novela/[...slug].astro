@@ -3,30 +3,54 @@ import { getCollection, render } from 'astro:content';
 import MainLayout from '../../layouts/MainLayout.astro';
 import Ad from '../../components/Ad.astro';
 
+// 1. Cargamos todos los capítulos crudos
+const rawCapitulos = await getCollection('capitulos');
+
+// 2. Definimos el límite: si es producción (build) dejamos Infinity, si es local (dev) filtramos estrictamente menor o igual a 100
+const limiteCapitulos = import.meta.env.PROD ? Infinity : 100;
+
+const todosLosCapitulos = rawCapitulos.filter(entry => {
+    // Si por alguna razón entry.data.numero no existe, lo dejamos pasar o lo filtramos.
+    const num = entry.data.numero ?? 0;
+    return num <= limiteCapitulos;
+});
+
 export async function getStaticPaths() {
-  const capitulos = await getCollection('capitulos');
-  return capitulos.map((entry) => ({
-    params: { slug: entry.id.replace('.md', '') },
-    props: { entry },
-  }));
+    const rawCaps = await getCollection('capitulos');
+    const limite = import.meta.env.PROD ? Infinity : 100;
+    
+    // Hacemos el mismo filtro exacto aquí para las rutas estáticas
+    const capitulosFiltrados = rawCaps.filter(entry => {
+        const num = entry.data.numero ?? 0;
+        return num <= limite;
+    });
+
+    return capitulosFiltrados.map((entry) => ({
+        params: { slug: entry.id.replace('.md', '') },
+        props: { entry },
+    }));
 }
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 
-const todosLosCapitulos = await getCollection('capitulos');
 const novelaActual = entry.id.split('/')[0];
 
 const capitulosDeEstaNovela = todosLosCapitulos
-  .filter(c => c.id.startsWith(novelaActual))
-  .sort((a, b) => a.data.numero - b.data.numero);
+    .filter(c => c.id.startsWith(novelaActual))
+    .sort((a, b) => a.data.numero - b.data.numero);
 
 const currentIndex = capitulosDeEstaNovela.findIndex(c => c.id === entry.id);
 const prev = capitulosDeEstaNovela[currentIndex - 1] || null;
 const next = capitulosDeEstaNovela[currentIndex + 1] || null;
 ---
 
-<MainLayout noSidebar={true} title={entry.data.titulo}>
+<!-- Integrado el SEO aquí: usa el título del capítulo y un fragmento de descripción -->
+<MainLayout 
+    noSidebar={true} 
+    title={`${entry.data.titulo} - Novela Ligeras`} 
+    description={`Lee el ${entry.data.titulo} de la novela en español en línea de forma gratuita.`}
+>
     <article class="lector-novela">
         <div class="toolbar">
             <button class="btn-tool btn-menos">-</button>

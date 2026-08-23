@@ -1,0 +1,29 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  image?: string;
+}
+
+const { title, description, image = "/default-cover.jpg" } = Astro.props;
+
+// Asegúrate de cambiar esto por la dirección real de tu web cuando la subas a internet
+const siteURL = "https://novelasligeras.netlify.app"; 
+const canonicalURL = new URL(Astro.url.pathname, siteURL);
+---
+
+<!-- Título que verá Google en las pestañas -->
+<title>{title}</title>
+
+<!-- Descripción que aparece debajo del enlace en Google -->
+<meta name="description" content={description} />
+
+<!-- Enlace canónico (le dice a Google cuál es la página oficial y evita contenido duplicado) -->
+<link rel="canonical" href={canonicalURL} />
+
+<!-- Open Graph (para cuando compartas tus enlaces en WhatsApp, Facebook, etc.) -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content={canonicalURL} />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={new URL(image, siteURL)} />
