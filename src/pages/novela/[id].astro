@@ -3,14 +3,16 @@ import MainLayout from '../../layouts/MainLayout.astro';
 import { novelas } from '../../data/novelas.js';
 import Ad from '../../components/Ad.astro';
 
-export function getStaticPaths() {
-    return novelas.map(n => ({
-        params: { id: n.id },
-        props: { novela: n },
-    }));
-}
+// Capturamos el ID directamente de la URL de forma dinámica
+const { id } = Astro.params;
 
-const { novela } = Astro.props;
+// Buscamos la novela que coincida con ese ID
+const novela = novelas.find(n => n.id === id);
+
+// Si por alguna razón no existe la novela, mandamos un error 404 limpio
+if (!novela) {
+    return Astro.redirect('/404');
+}
 
 // Usamos el SEO configurado en tu objeto de novela, con respaldos automáticos
 const seoTitle = novela.seo?.title || `${novela.titulo} en Español - Novelas Ligeras`;
@@ -41,14 +43,14 @@ for (let i = 1; i <= novela.totalCapitulos; i += 100) {
             <p><strong>Año:</strong> {novela.anio}</p>
             <p>
                <strong>Genero:</strong> 
-                   {novela.genero.split(',').map((g, index) => (
-                       <>
-                       <a href={`/genero/${g.trim().toLowerCase().replace(' ', '-')}/1`}>
-                           {g.trim()}
-                       </a>
+                    {novela.genero.split(',').map((g, index) => (
+                        <>
+                        <a href={`/genero/${g.trim().toLowerCase().replace(' ', '-')}/1`}>
+                            {g.trim()}
+                        </a>
             {index < novela.genero.split(',').length - 1 ? ', ' : ''}
-                       </>
-                   ))}
+                        </>
+                    ))}
             </p>
             <p><strong>Autor:</strong> {novela.autor}</p>
             
