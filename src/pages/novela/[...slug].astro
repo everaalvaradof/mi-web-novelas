@@ -5,13 +5,13 @@ import Ad from '../../components/Ad.astro';
 // 1. Capturamos el slug de la URL
 const { slug } = Astro.params;
 
-// 2. Cargamos los archivos markdown usando glob de forma ligera (sin consumir RAM con Content Collections)
-const capitulosFiles = import.meta.glob('../../content/capitulos/**/*.md', { eager: true });
+// 2. Cargamos los archivos markdown desde la nueva carpeta segura fuera de content collections
+const capitulosFiles = import.meta.glob('../../data/capitulos/**/*.md', { eager: true });
 
 // Convertimos el objeto en un array manejable
 const rawCapitulos = Object.entries(capitulosFiles).map(([path, file]: [string, any]) => {
-    // Extraemos la ruta relativa limpia, por ejemplo: "novela-1/capitulo-1"
-    const relativeId = path.split('/content/capitulos/')[1].replace('.md', '');
+    // Extraemos la ruta relativa limpia basándonos en la nueva carpeta
+    const relativeId = path.split('/data/capitulos/')[1].replace('.md', '');
     return {
         id: relativeId,
         data: file.frontmatter || file.getFrontmatter?.() || {},

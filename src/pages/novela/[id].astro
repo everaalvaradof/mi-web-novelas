@@ -18,7 +18,21 @@ if (!novela) {
 const seoTitle = novela.seo?.title || `${novela.titulo} en Español - Novelas Ligeras`;
 const seoDescription = novela.seo?.description || novela.sinopsis;
 
-// Lógica para crear grupos de 100 capítulos
+// Cargamos los capítulos reales disponibles usando import.meta.glob para evitar problemas de memoria
+const capitulosFiles = import.meta.glob('../../data/capitulos/**/*.md', { eager: true });
+
+const capitulosDeEstaNovela = Object.entries(capitulosFiles)
+    .map(([path, file]: [string, any]) => {
+        const relativeId = path.split('/data/capitulos/')[1].replace('.md', '');
+        return {
+            id: relativeId,
+            data: file.frontmatter || file.getFrontmatter?.() || {}
+        };
+    })
+    .filter(c => c.id.startsWith(novela.id))
+    .sort((a, b) => (a.data.numero ?? 0) - (b.data.numero ?? 0));
+
+// Lógica para crear grupos de 100 capítulos basados en el total configurado
 const grupos = [];
 for (let i = 1; i <= novela.totalCapitulos; i += 100) {
     const fin = Math.min(i + 99, novela.totalCapitulos);
@@ -67,11 +81,17 @@ for (let i = 1; i <= novela.totalCapitulos; i += 100) {
                         <summary>Capítulos {grupo.inicio} - {grupo.fin}</summary>
                         
                         <div class="grid-capitulos">
-                            {Array.from({ length: grupo.fin - grupo.inicio + 1 }, (_, i) => grupo.inicio + i).map(num => (
-                                <a href={`/novela/${novela.id}/capitulo-${num}`} class="cap-link">
-                                    {num}
-                                </a>
-                            ))}
+                            {Array.from({ length: grupo.fin - grupo.inicio + 1 }, (_, i) => grupo.inicio + i).map(num => {
+                                // Buscamos si el capítulo existe en los archivos reales
+                                const capExistente = capitulosDeEstaNovela.find(c => c.id === `${novela.id}/capitulo-${num}`);
+                                const hrefLink = capExistente ? `/novela/${capExistente.id}` : `/novela/${novela.id}/capitulo-${num}`;
+                                
+                                return (
+                                    <a href={hrefLink} class="cap-link">
+                                        {num}
+                                    </a>
+                                );
+                            })}
                         </div>
 
                         <!-- Anuncio dentro de cada caja de 100 capítulos -->
