@@ -17,6 +17,8 @@ const capNum = parseInt(partes[1], 10);
 
 const novela = novelas.find(n => n.id === novelaId);
 const totalCapitulos = novela ? novela.totalCapitulos : 9999;
+// Aquí rescatamos el nombre real de la novela para que aparezca en Google
+const nombreNovela = novela ? novela.titulo : novelaId;
 
 const filePath = path.join(process.cwd(), 'src', 'data', 'capitulos', novelaId, `capitulo-${capNum}.md`);
 
@@ -39,7 +41,8 @@ const capAnterior = capNum > 1 ? `/vercap?id=${novelaId}_${capNum - 1}` : null;
 const capSiguiente = capNum < totalCapitulos ? `/vercap?id=${novelaId}_${capNum + 1}` : null;
 ---
 
-<MainLayout title={`${titulo} - Novelas Ligeras`}>
+<!-- El título incluye el nombre de la novela, el capítulo y el sitio -->
+<MainLayout title={`${nombreNovela} - ${titulo} - Novelas Ligeras`}>
     <div class="lector-wrapper">
         <div class="lector-box" id="lector-box">
             <div style="display: flex; gap: 10px; margin-bottom: 20px;">
@@ -163,7 +166,6 @@ const capSiguiente = capNum < totalCapitulos ? `/vercap?id=${novelaId}_${capNum 
             gap: 10px;
         }
 
-        /* Diseño responsivo para pantallas pequeñas (móviles) */
         @media (max-width: 640px) {
             .navegacion-capitulos {
                 flex-direction: column;
@@ -205,8 +207,6 @@ const capSiguiente = capNum < totalCapitulos ? `/vercap?id=${novelaId}_${capNum 
 
         const container = document.getElementById('main-content');
         const paragraphs = container?.querySelectorAll('p');
-        
-        // Seleccionamos correctamente el título usando su nueva clase
         const tituloEl = document.querySelector('.titulo-capitulo');
         
         const btnMas = document.querySelector('.btn-mas');
@@ -234,7 +234,6 @@ const capSiguiente = capNum < totalCapitulos ? `/vercap?id=${novelaId}_${capNum 
         const btnModo = document.querySelector('.btn-modo');
         const box = document.getElementById('lector-box');
         
-        // Al cargar la página en modo claro
         if (localStorage.getItem('darkMode') === 'false') {
             document.body.style.backgroundColor = '#f1f5f9';
             document.body.style.color = '#000000';
@@ -243,7 +242,6 @@ const capSiguiente = capNum < totalCapitulos ? `/vercap?id=${novelaId}_${capNum 
             if (tituloEl) tituloEl.style.setProperty('color', '#000000', 'important');
         }
 
-        // Al hacer clic en el botón de cambiar modo
         btnModo?.addEventListener('click', () => {
             const isDark = document.body.style.backgroundColor !== 'rgb(241, 245, 249)';
             
@@ -251,14 +249,12 @@ const capSiguiente = capNum < totalCapitulos ? `/vercap?id=${novelaId}_${capNum 
             document.body.style.color = isDark ? '#000000' : '#e2e8f0';
             if (box) box.style.backgroundColor = isDark ? '#c8daf7' : '#1e293b';
             
-            // Cambiar párrafos
             if (paragraphs) {
                 paragraphs.forEach(p => {
                     p.style.setProperty('color', isDark ? '#000000' : '#e2e8f0', 'important');
                 });
             }
 
-            // Cambiar el título con propiedad importante para forzarlo
             if (tituloEl) {
                 tituloEl.style.setProperty('color', isDark ? '#000000' : '#ffffff', 'important');
             }
