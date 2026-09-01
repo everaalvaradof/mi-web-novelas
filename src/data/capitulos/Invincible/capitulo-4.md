@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 04: The Annual Clan Assembly"
 numero: 4
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver a Huang Wei y los varios chicos detrás de él caminando hacia ellos, Huang Min se escondió rápidamente detrás de Huang Xiaolong.

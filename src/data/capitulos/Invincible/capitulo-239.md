@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 239: Arte de marionetas antiguas"
 numero: 239
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al detectar más de una docena de auras fuertes corriendo en su dirección, Huang Xiaolong mantuvo la calma. En un intervalo de unas pocas respiraciones, varios estudiantes bibliotecarios rodearon a Huang Xiaolong.

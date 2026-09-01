@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1377: El Enviado Especial del Palacio del Emperador de los Nueve Dragones"
 numero: 1377
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Maestro, ¡cuidado!" La bestia diablo del vacío Xu Baisheng rugió. En el mismo instante, sus garras se agrandaron varios cientos de zhang para bloquear el aterrador rayo de luz de la hoja para que no golpeara a Huang Xiaolong.

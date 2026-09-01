@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 202: ¿Qué pasó exactamente?"
 numero: 202
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Chen Qingfeng, un experto de la Novena Orden de Xiantian, fue aplastado como un panqueque en la calle.

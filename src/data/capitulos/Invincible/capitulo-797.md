@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 797: Ancestro Fantasma Maligno"
 numero: 797
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se detuvo y le dijo al Ancestro del Clan Fénix y a los demás presentes en el salón: "¡Activa la formación defensiva!"

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1720: Noticias del Discípulo del Palacio del Emperador de la Fortuna"
 numero: 1720
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras Huang Xiaolong refinaba la fruta sagrada, la Divinidad Suprema del Buda Innumerable dentro del cuerpo de Huang Xiaolong exudaba una resplandeciente luz dorada.

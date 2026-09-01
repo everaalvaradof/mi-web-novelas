@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 804: Dominar las Galaxias Sin Límites"
 numero: 804
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Apenas un momento después, la conmoción del Rey Bestia de los Cien Espíritus se convirtió en deleite. Cuanto más pensaba en ello, más convencido estaba de que los fuegos azul helado y rojo carmesí que formaban esa barrera eran dos de los cuatro grandes fuegos divinos, ¡el Fuego Divino de la Tortuga Negra y el Fuego Divino del Pájaro Bermellón!

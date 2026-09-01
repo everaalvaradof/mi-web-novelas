@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1000: Avanzando hacia el Reino de los Dioses Celestiales"
 numero: 1000
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los tres discípulos de la Secta Dios Bárbaro dirigieron su atención a Huang Xiaolong. “Muchacho, entrega la caja de jade. Como discípulos externos de la Secta del Dios Bárbaro,

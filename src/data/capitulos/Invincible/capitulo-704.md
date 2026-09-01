@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 704: Llegando al Mundo del Emperador de la Paz"
 numero: 704
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Zhao Weitong aceleró aún más sus pasos hasta que estuvo de pie frente a Li Zishuai de una manera respetuosa, con una amplia sonrisa halagadora en su rostro, "Joven Maestro Li".

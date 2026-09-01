@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1034: Tú eres el que siente picazón"
 numero: 1034
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Ruidos agudos consecutivos de huesos rotos sonaron en los oídos de todos, después de lo cual Wang Dafeng gruñó dolorosamente cuando su cuerpo se disparó hacia atrás como una bala de cañón, directamente hacia la pared del acantilado en la distancia. Los pedazos de roca se derrumbaron y cayeron, lo que provocó que todo el pico se balanceara por el impacto.

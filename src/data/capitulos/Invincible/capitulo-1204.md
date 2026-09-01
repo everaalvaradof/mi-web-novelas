@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1204: Volviendo a la Isla Nube Verde"
 numero: 1204
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong asintió con la cabeza a Luo Yunjie como saludo, luego miró a la estela del diablo de Sans.

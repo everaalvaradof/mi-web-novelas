@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 863: El primer lugar pertenece a nada menos que Wangu Yanhui"
 numero: 863
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong recuperó la Montaña Celestial en su cuerpo, luego desapareció del lugar en un parpadeo, alejándose a toda velocidad.

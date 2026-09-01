@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1691: El décimo piso"
 numero: 1691
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los expertos de las diversas fuerzas sobre el Infravaje se emocionaron al ver que la segunda persona había pasado por el tercer piso.

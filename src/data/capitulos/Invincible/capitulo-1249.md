@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1249: ¡Tan Feroz!"
 numero: 1249
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Wangu Ziyi se rió con indiferencia al ver la ferocidad y la intención asesina en el rostro de Huang Xiaolong. Su tono burlón cambió cuando dijo: "Por otra parte, si puedes ganarme, te daré esos líquidos espirituales del caos".

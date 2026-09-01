@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1196: Hermana Mayor Li Lu"
 numero: 1196
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 '¿Tercer lugar?'

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 38: ¡En el Restaurante Delicioso!"
 numero: 38
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dos personas y un pequeño mono paseaban por la Ciudad Real. Sin lugar a dudas, esta era la Ciudad Real del Reino de Luo Tong, próspera, animada y bulliciosa en las calles largas y

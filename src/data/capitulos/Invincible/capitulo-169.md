@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 169: Batalla de la Ciudad Imperial (1)"
 numero: 169
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong trató las ardientes y celosas miradas dirigidas hacia él por los genios de los reinos circundantes como si no existieran. Se sentó allí con la misma expresión plácida en su rostro.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 995: Los resultados de la evaluación"
 numero: 995
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pasó la primera hora.

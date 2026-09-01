@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 270: ¡Joven Señor!"
 numero: 270
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La multitud miró a Huang Xiaolong con sorpresa, incluidos Hu Sheng y los dos discípulos de la Secta Mago del Cielo que querían evitar que Huang Xiaolong metiera la nariz en los asuntos de los

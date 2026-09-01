@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 624: Recogiendo las ganancias del juego"
 numero: 624
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Poco después de pasar por la matriz de transmisión, Huang Xiaolong llegó a la Residencia Luo Tong en la Ciudad del Guerrero Negro, sin embargo, inmediatamente notó que la atmósfera dentro de la residencia estaba algo deprimida, incluso un poco lúgubre.

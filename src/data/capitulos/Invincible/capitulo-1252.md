@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1252: Querido disipulo"
 numero: 1252
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El resplandor dorado rojizo de las tallas de elefante emitía una luz brillante que llegaba a las cuatro esquinas del cuadrado. Al mismo tiempo, hubo débiles sonidos de gritos ondulantes, como si vinieran de los demonios en el infierno o de un mar de fantasmas.

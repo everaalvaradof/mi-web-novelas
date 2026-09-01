@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 51: ¡Algo grande sucedió!"
 numero: 51
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Sí, Mariscal!" Uno de los guardias dio un paso adelante y confirmó. "¡Y esa mujer dijo que quería revocar la calificación de registro del joven maestro!"

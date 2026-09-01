@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1780: Semifinales"
 numero: 1780
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El Palacio del Emperador de la Soledad, el Palacio del Emperador de los Nueve Dragones y otros Palacios del Emperador, que anteriormente habían bloqueado el camino de Huang Xiaolong, abrieron una amplia litera con prisa.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1384: Refinar la Torre del Dios del Mar"
 numero: 1384
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Si refino todos estos espíritus del Dios del Mar dentro de la Torre del Dios del Mar, ¿eso me permitiría avanzar hacia el Reino de Dios Ancestro de alto nivel?" Huang Xiaolong preguntó emocionado.

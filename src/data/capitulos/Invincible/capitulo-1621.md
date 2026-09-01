@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1621: ¡Cómo te atreves a mentirnos!"
 numero: 1621
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Jia Yuan miró a Gu Zheng con una mirada fría. "Así es. Gu Zheng, es mejor que te arrodilles y pidas perdón. El Señor podría realmente perdonarte después de tomar en cuenta a Wang Sinan y perdonarte la vida".

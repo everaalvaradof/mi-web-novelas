@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 718: Localización de la Piscina de Sangre del Dios Celestial"
 numero: 718
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A pesar de tener dos espadas largas de fuego de nieve helada formadas a partir del Fuego Divino de la Tortuga Negra que mantienen a raya al Veneno de Cadáver de Nueve Colores en un radio de cien zhang, Huang Xiaolong todavía sentía un hormigueo en el cuero cabelludo con solo mirar a su alrededor.

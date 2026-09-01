@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 482: Destreza Deífica del Segundo Maestro del Saló"
 numero: 482
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar esto, Huang Xiaolong se rió mientras negaba con la cabeza, "Tengo una sugerencia diferente".

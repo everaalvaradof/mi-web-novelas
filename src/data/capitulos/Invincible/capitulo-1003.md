@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1003: Los discípulos de la Secta Génesis del Elefante"
 numero: 1003
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de salir de la cueva en la que se había quedado durante más de cinco meses, Huang Xiaolong determinó la dirección de su destino y procedió a volar en dirección al muelle de los barcos.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1898: Apertura de la Cordillera de las Mil Constelaciones"
 numero: 1898
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Todos se sorprendieron cuando Huang Xiaolong mató a Huo Liucheng.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1087: La Perla del Dragón de Oro"
 numero: 1087
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El cultivo de Huang Xiaolong se encontraba actualmente en el Reino de Dios Celestial de la Quinta Orden, cerca de alcanzar el pico a principios de la Quinta Orden. Si existiera la posibilidad de consumir la Fruta del Dragón Ancestral, podría avanzar varias veces, alcanzando el pico a finales de la Quinta Orden, ¡tal vez incluso en el Reino de Dios Celestial de la Sexta Orden!

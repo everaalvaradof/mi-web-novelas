@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 963: Huyendo de la Secta Refinación Fantasma"
 numero: 963
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los cuatro guardianes obedecieron respetuosamente y se retiraron a un lado.

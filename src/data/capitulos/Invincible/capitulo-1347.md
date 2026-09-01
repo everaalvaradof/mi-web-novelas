@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1347: Cristal del Alma del Oso del Firmamento"
 numero: 1347
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Deng Qishun, Li Ye y los Ancianos de la Secta Ondas de Arena subieron del suelo. Parecían aterrorizados cuando su atención se centró en la bestia diablo del vacío Xu Baisheng.

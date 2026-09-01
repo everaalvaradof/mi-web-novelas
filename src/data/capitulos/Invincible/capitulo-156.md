@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 156: La llegada de Zhao Shu y Yu Ming"
 numero: 156
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Casi inmediatamente después de regresar a la Mansión Tianxuan desde la Mansión Guo, Huang Xiaolong activó el Anillo de Enlace de Dios y entró en el antiguo campo de batalla para cultivar.

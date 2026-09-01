@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1182: Tres Genios de la Cabeza de Dios de Rango Emperador"
 numero: 1182
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A medida que la noticia de la deidad de rango de rey de alto grado de Huang Xiaolong se extendió por Fortune City, llegó otra noticia sobre Zhou Xu, Luo Yunjie y Tan Lin, los tres tenían deidades de rango de emperador.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1221: ¿Cáscara Espiral Celestial de Jade Lunar?"
 numero: 1221
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 '¿Deberíamos ir y echar un vistazo?'

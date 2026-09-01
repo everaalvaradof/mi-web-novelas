@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1835: Mejor Responder Obedientemente"
 numero: 1835
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong miró a Wu Jingnan rugiendo de risa, una expresión indiferente colgaba de su rostro.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 340: Refinando la Bandera Fantasma Supremo"
 numero: 340
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sin embargo, a pesar de que el Rey Fantasma Dan contenía la comprensión de la ley espacial del Rey Fantasma, no significaba que uno pudiera avanzar hacia el reino Santo simplemente tragándose uno o dos Rey Fantasma Dans. El territorio del reino santo no era tan fácil de ingresar.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1078: Fruta del Dragón Ancestral"
 numero: 1078
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En unas pocas respiraciones de tiempo, Zhao Wuya se redujo a un cadáver seco.

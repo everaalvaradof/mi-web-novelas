@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1071: Disponer de Huang Xiaolong"
 numero: 1071
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Limpiando suavemente el sudor de la frente de Huang Xiaolong, los voluptuosos senos de Yao Chi inevitablemente se agitaron siguiendo sus movimientos, haciendo que su piel blanca como la nieve bailara ante sus ojos. En los últimos cientos de años desde que estuvieron separados, parece que su pecho se había agrandado...

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1782: ¿Por qué no estás de rodillas?"
 numero: 1782
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Además del carro del dragón, el Príncipe Celestial Di Jing y los príncipes estaban presentes aparte de los expertos de la Corte Celestial.

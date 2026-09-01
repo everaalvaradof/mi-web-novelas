@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1224: ¿Te atreves a atacarnos?"
 numero: 1224
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las palabras de Hu Qi hicieron que la bonita cara de Hu Dan se endureciera de preocupación por Huang Xiaolong.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1216: ¡El Gran Patriarca Xie Li!"
 numero: 1216
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El asombro en los ojos de todos los expertos de la Nefarious Devil Tribe fue reemplazado gradualmente por sospecha e incredulidad.

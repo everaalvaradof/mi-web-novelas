@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1326: Extrañamente Desaparecido"
 numero: 1326
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los ojos de Feng Yingying brillaron con anticipación. Si pudieran matar a estos pocos demonios del Reino de Dios Ancestro de alto nivel y absorber la línea de sangre de su Diablo Infernal, seguramente podría aumentar el poder de su línea de sangre del Dios del Mar.

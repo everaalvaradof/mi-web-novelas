@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 741: Volcán Fénix del Mundo del Fuego"
 numero: 741
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar la respuesta de He Feifan, el patriarca de la familia Liang, Liang Qishen, dejó escapar una risa exuberante: “Así es, ¿cómo puede ese Huang Xiaolong competir con el subdirector He Feifan? Si se encuentra con el subdirector He Feifan en el Torneo de Avance de Highgod, definitivamente es la desgracia de Huang Xiaolong. Nuestro subdirector, He Feifan, ni siquiera necesita mover un dedo, solo un simple respiro es suficiente para matar a ese Huang Xiaolong ".

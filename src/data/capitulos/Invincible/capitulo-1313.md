@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1313: Desgracia"
 numero: 1313
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Eres el genio número uno de la puerta de la fortuna del mundo de Vientiane, Huang Xiaolong?" Jiang Feng se veía altivo, y una mueca fría se levantó en la comisura de su boca

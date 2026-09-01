@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1815: Todos Están Aquí, Muy Bien"
 numero: 1815
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Estas personas que atacaron al Ángel del Resplandor para rescatar al Emperador del Brillo Lan Zhi fueron Chen Wenqian del Palacio del Emperador del Brillo, Chen Wenxin y varios otros Antepasados. Sin embargo, justo cuando Chen Wenqian, Chen Wenxin y los Ancestros atacaron al Ángel radiance de catorce alas, decenas de miles de zhang espada radiante qi los cortaron.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1649: La Fuerza del Antiguo Ancestro de la Puerta de los Dioses Masacrados"
 numero: 1649
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Maestro, si el Viejo Ancestro de la Puerta de los Dioses Masacradores realmente lidera un ejército para atacar a nuestra Tribu Escorpión Diablo, debemos hacer preparativos por adelantado". Después de salir de la Cordillera de la Llama Verde, a bordo de la Nave Voladora Netherking, dijo el Rey Demonio Fan Hui con una expresión seria.

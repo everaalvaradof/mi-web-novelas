@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1304: El encuentro con Wang Yu una vez más"
 numero: 1304
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Guo Gang asintió con orgullo y continuó: "Ningún genio de la generación más joven es digno de ser el oponente del hermano mayor Guo Jun en las tribus marinas, o en todo este mundo de Vientiane. El hermano mayor Guo Jun ya ha alcanzado la décima etapa de las Escrituras de la Ballena de Plata. sin mencionar que su reino de cultivo ha avanzado a mediados del Reino del Dios Antiguo de la Décima Orden, ¡o tal vez incluso más alto! " ¿cierto?" Después de decir esto, se estremeció incontrolablemente.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1891: La Cordillera de las Mil Constelaciones"
 numero: 1891
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Como decía el refrán: "El lugar más seguro está justo debajo de sus narices". Había una probabilidad extremadamente alta de que Tan Zhihui regresara al País de las Mil Constelaciones para escapar.

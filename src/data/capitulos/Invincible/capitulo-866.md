@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 866: Encontrando la Morada de Cultivo del Dios del Rayo"
 numero: 866
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de pasar por la entrada, Huang Xiaolong eligió una dirección y aceleró.

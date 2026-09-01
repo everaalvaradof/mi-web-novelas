@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 353: Ninguno de ellos se va"
 numero: 353
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Un fuerte boom hizo que el aire...

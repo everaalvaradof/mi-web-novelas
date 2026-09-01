@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 349: Ruinas del Antiguo Clan Dragón"
 numero: 349
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Santuario del Dios Bestia!

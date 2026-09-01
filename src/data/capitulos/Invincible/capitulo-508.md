@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 508: Destino: Desfiladero del Mar Muerto"
 numero: 508
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 “¿Es decir, cualquier forma de energía devorada por ti también sería absorbida por mí a través de la Perla del Dragón? ¿Y no sufriría ningún efecto secundario adverso? " La respiración de Huang Xiaolong se aceleró; si esto era cierto, ¡era demasiado desafiante para el cielo!

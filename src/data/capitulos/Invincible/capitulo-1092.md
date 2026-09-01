@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1092: Deslizándose en el cementerio ancestral"
 numero: 1092
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El cementerio ancestral de la Nefarious Devil Tribe no estaba demasiado lejos de la ciudad actual en la que se encontraba. Estaba en la dirección sureste, en una llanura llamada Yama Plains. Huang Xiaolong estimó aproximadamente que podría alcanzarlo después de tres días de viaje.

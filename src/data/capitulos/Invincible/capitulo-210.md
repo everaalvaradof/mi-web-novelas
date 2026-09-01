@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 210: Valle Aterrador"
 numero: 210
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al encontrar la peculiaridad de la espesa niebla circundante, Huang Xiaolong aumentó su vigilancia. No perdió el tiempo, transformándose inmediatamente en Asura Physique. Extendiendo las Alas del Demonio detrás de él mientras avanzaba con precaución, sus ojos inspeccionaron la situación a su alrededor.

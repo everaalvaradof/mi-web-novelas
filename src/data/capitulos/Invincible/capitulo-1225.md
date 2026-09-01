@@ -1,7 +1,7 @@
 ---
 titulo: "Capitulo 1225: No vengas a buscar a Li Lu: No vengas a buscar a Li Lu nunca más"
 numero: 1225
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Intentando avanzar al Reino del Dios Antiguo del Sexto Orden!" Huang Xiaolong se sorprendió un poco al escuchar esta noticia.

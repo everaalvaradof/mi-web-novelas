@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 403: ¡Ninguno de vosotros puede escapar!"
 numero: 403
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Wang Gang". Huang Xiaolong repitió el nombre con desprecio: “Ya han pasado dos meses. Chen Tianqi y Deities Templar deben sentirse ansiosos por esperarnos, ¡es hora de hacerles saber que hemos llegado a Central Oblast! "

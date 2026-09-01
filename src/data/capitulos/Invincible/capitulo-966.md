@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 966: Li Lu Herido"
 numero: 966
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Huang Xiaolong, incluso si sales del Bosque de la Pesadilla, no podrás dejar el Camino al Infierno!"

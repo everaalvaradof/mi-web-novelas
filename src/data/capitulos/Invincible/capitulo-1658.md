@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1658: Absolutamente capaz de suprimirlos"
 numero: 1658
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Cuatro emperadores pico de la Décima Orden!

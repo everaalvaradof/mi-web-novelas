@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 960: ¡El regreso del Maestro de la Secta Refinación Fantasma!"
 numero: 960
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar la frase característica del anciano, Huang Xiaolong no pudo resistirse a sonreír: "Digo, viejo, parece que sus días fueron muy nutritivos, incluso hay un buen vino que lo acompaña".

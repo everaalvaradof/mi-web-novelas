@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1327: Los Nueve Grandes Pozos de Rayos del Caos del Universo"
 numero: 1327
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Ese punk tiene algo de suerte, ya que fue capaz de toparse con un espacio errante !" Guo Shi carraspeó con irritación.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 217: El emperador Duanren se apresura"
 numero: 217
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La gigantesca impresión de la palma ensombreció el cielo brillante, alcanzando instantáneamente a Guo Chen. En pánico, Guo Chen golpeó su palma para contrarrestar el ataque repentino.

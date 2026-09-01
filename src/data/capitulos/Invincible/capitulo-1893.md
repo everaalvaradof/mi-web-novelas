@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1893: Apertura de la cordillera de las mil constelaciones"
 numero: 1893
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Zhao Rou dudó por un momento antes de asentir con la cabeza. Los dos salieron juntos del pasillo.

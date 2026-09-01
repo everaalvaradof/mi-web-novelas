@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1805: La Vaca Azul Senior"
 numero: 1805
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando todos se devanaban los sesos, Han Qing parecía haber pensado en algo. El terror en sus ojos se hizo cada vez más prominente.

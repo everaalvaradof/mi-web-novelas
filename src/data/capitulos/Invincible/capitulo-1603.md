@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1603: Frutas del Gran Maestro"
 numero: 1603
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de llamar a Xiang Xun, el Camello Negro del Caos, Lei Budong y Feng Chen para reunirse, el grupo de Huang Xiaolong voló hacia el Palacio Grandmista.

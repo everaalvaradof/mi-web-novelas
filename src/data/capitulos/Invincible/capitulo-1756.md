@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1756: ¿Qué rango alcanzará?"
 numero: 1756
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que Huang Xiaolong terminó de hablar, la Nave Voladora Tiburón Dragón se convirtió inmediatamente en una raya de luz cuando atravesó el espacio y desapareció de la vista de Chen Yirong, Fang Mingyu y los demás.

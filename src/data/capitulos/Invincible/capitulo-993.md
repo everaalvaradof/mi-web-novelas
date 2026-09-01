@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 993: Registrándose Para La Evaluación"
 numero: 993
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Si ese es el caso, jugaré contigo un poco". Huang Xiaolong se rió para sí mismo. Le había preocupado que sus días fueran aburridos en la Secta del Dios Bárbaro, pero ahora había un Zhu Wanchen que iba a proporcionar algo de entretenimiento.

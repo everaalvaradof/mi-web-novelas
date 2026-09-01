@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 393: Definitivamente la edad no puede estar equivocada."
 numero: 393
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Oh, ¿incluso vendes tácticas de refinamiento de píldoras aquí?" Se despertó el interés de Huang Xiaolong. Aunque las tácticas de refinamiento de píldoras eran raras, algunas tiendas más grandes las vendieron. Por supuesto, estas tácticas de refinamiento de píldoras solían ser de bajo nivel y ordinarias.

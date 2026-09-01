@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1058: ¡Apuesta!"
 numero: 1058
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En comparación con dos meses antes, el aura alrededor de Huang Xiaolong se había vuelto mucho más fuerte.

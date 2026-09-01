@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 519: Unificando el Mundo del Espíritu Marcial"
 numero: 519
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando el discípulo del Salón de la Espada Demoníaca llegó al patio donde normalmente se cultivaba la Espada del Demonio Noble Joven, finalmente vio a la Espada del Demonio Noble Joven aparecer después de que el guardia informó la llegada del discípulo.

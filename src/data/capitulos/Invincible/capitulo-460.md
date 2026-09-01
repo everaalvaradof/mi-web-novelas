@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 460: Congregación de Tribus de Hombres Bestia"
 numero: 460
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Todos los expertos del reino de los Santos de la Tribu Tigre que apoyaron a Leiber antes se volvieron más pálidos por el segundo, grandes gotas de sudor fluyeron por sus frentes, especialmente los dos que escucharon las instrucciones de Leibert de capturar a Huang Xiaolong, Parson y Dunham.

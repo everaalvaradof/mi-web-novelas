@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 374: Pasando por el Imperio del Bendito Buda."
 numero: 374
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Llevando a cabo la orden del Preceptor del Templo, Liu Yang trajo quince conjuntos de Armadura de Dragón Divino y seis Ancianos Templarios de Deidades y se dirigió hacia la sede de la Puerta de Asura del Continente Nube Estelar.

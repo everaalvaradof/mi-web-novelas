@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1153: Cuidado con Ouyang Yunfei"
 numero: 1153
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Ouyang Yunfei sonrió con confianza, "Después de mi avance hacia el Reino del Dios Antiguo, ningún discípulo en las islas circundantes será mi rival, solo esos genios de élite de la Isla Origen Dragón, Isla Ciudad Gemela, Isla Luoshan y otras docenas de islas grandes podrían amenazarme levemente ".

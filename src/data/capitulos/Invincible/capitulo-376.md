@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 376: ¿Todavía tofu suave?"
 numero: 376
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Chen Luoguang? Al observar la reacción de los clientes de los alrededores, Huang Xiaolong adivinó que el estado de este llamado Chen Luoguang no era bajo.

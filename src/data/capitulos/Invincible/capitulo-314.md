@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 314: ¿El hermano menor de Saint King?"
 numero: 314
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Invencible!

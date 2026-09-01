@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1863: Asediando a Huang Xiaolong"
 numero: 1863
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Justo cuando la figura de Huang Xiaolong apareció en el aire, un repentino y agudo bramido sonó con una intención asesina desbordante, "¡Mata..."!

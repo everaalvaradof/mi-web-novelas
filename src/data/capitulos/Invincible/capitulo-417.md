@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 417: ¡¿Por qué estás aquí sólo ahora?!"
 numero: 417
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El discípulo de la Puerta de Asura, Deng Cong, estaba mirando a la banda de discípulos del Culto del Dios del Cosmos con odio ardiendo en sus ojos, su voz sonaba como un gruñido, "Mátame si tienes las agallas, quieres que lama las patas de tu perro hasta que quede limpio. , ¡Te

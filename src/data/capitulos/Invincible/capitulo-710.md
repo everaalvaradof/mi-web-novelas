@@ -1,7 +1,7 @@
 ---
 titulo: "Capitulo 710: El Espacio del Caos El Espacio del Caos"
 numero: 710
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al sentir esa extraña fluctuación de energía proveniente de la isla de hielo gigante que se encuentra debajo, Huang Xiaolong, que había estado buscando amargamente el Fuego Divino de la Tortuga Negra, sintió una oleada de júbilo.

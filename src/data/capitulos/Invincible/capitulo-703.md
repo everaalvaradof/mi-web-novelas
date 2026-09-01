@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 703: ¡Montón de Idiotas!"
 numero: 703
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pero antes de partir hacia Peace Emperor World, Huang Xiaolong agregó más de una docena de formaciones defensivas y asesinas sobre la Mansión del Clan Huang.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 444: Valle del Dragón Venenoso"
 numero: 444
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar que su hermano mayor Shi Fantian quería algunas píldoras del dragón divino, Huang Xiaolong sacó las veinte píldoras del dragón divino, la píldora de fuego de agua, la píldora del dragón inverso y otras del anillo Asura sin decir una palabra y se las dio a su hermano mayor a pesar de saber eso. solo estaba bromeando.

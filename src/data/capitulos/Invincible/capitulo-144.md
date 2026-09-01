@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 144: ¡Guerra de ofertas por la Esne Geocéntrica!"
 numero: 144
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar que el siguiente artículo de la subasta era el geocéntrico Esne, los ojos de Huang Xiaolong se iluminaron.

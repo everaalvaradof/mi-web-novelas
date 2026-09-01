@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 958: En la Secta Refinadora de Fantasmas"
 numero: 958
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En un abrir y cerrar de ojos, el Mensajero Fantasma Infernal llegó por encima del grupo de personas que esperaban.

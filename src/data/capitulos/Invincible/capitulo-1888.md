@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1888: ¡Avanzando!"
 numero: 1888
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando la energía de Myriad Curses Devil Stele entró en el cuerpo de Huang Xiaolong, un intenso resplandor negro lo cubrió. Junto con la luz negra, una deslumbrante luz roja como la sangre apareció y llenó el espacio a su alrededor.

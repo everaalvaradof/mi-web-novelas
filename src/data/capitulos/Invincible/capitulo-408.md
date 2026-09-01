@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 408: Definitivamente ha dado a luz antes"
 numero: 408
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de la Flor de la Otra Orilla, un extraño globo ocular carmesí apareció frente a Chen Tianqi.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1613: La cordillera de Keshen"
 numero: 1613
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El antepasado de la familia Gu, Gu Fei, se puso de pie y le dijo al inspector: "Mayor Gu Zheng,

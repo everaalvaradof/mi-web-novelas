@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1742: Fang Gan, atrapado"
 numero: 1742
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La figura de Huang Xiaolong volvió a brillar y llegó al ojo de la formación.

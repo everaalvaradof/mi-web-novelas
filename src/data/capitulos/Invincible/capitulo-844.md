@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 844: Coincidiendo con Xiang Mingzhi"
 numero: 844
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al mirar la cama Nine Yang Jade colocada en cada habitación, Liu Yun dejó escapar un sincero suspiro: "Tener dinero es realmente bueno".

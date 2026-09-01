@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1431: Saludos Maestro"
 numero: 1431
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al llegar al alojamiento del discípulo interno de la Secta Dios Bárbaro, el Príncipe Chen jadeaba pesadamente mientras se paraba frente a Luo Ding, el miedo aún persistía en su corazón.

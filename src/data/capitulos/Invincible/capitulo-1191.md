@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1191: Inspección de la Cabeza de Dios"
 numero: 1191
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver la Lanza del Dragón Gigante que estaba a punto de hundirse en su carne, Huang Xiaolong apretó el puño derecho y golpeó.

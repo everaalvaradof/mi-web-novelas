@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 451: Esta carne asada no es mala"
 numero: 451
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong estaba a punto de irse cuando las nubes de tormenta que se dispersaban comenzaron a reunirse nuevamente. Esta vez fue más violento, un rayo iluminó el cielo mientras descendía como una pitón enojada con las fauces abiertas de par en par.

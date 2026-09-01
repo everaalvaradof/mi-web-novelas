@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 892: La Gran Boda de Huang Xiaolong"
 numero: 892
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Primer lugar en el Torneo de Avance de Highgod!

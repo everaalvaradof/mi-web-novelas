@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 724: Buscando el Fuego Divino del Pájaro Bermellón"
 numero: 724
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando el Anciano de la Luna Ascendente escuchó las palabras de Huang Xiaolong, el anciano saltó como un gato al que le pisaron la cola, señalando con un dedo tembloroso a Huang Xiaolong y gritando: “¡Mocoso, qué dijiste ?! ¡Qué 'único pico en el Reino de Dios de finales del Noveno Orden'!

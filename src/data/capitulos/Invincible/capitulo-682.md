@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 682: Hermano Mayor Huang"
 numero: 682
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡¿Maestría?!

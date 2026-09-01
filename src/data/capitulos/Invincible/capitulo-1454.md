@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1454: Por fin te hemos encontrado"
 numero: 1454
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El hombre de mediana edad abrió repentinamente los ojos de su meditación. Había olas turbulentas como relámpagos en las profundidades de sus pupilas. Solo un poco del caos relámpago fue suficiente para romper el espacio, formando un agujero negro relámpago.

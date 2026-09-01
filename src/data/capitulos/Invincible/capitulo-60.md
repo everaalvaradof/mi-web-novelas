@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 60: ¿No es tu Hijo Ilegítimo?"
 numero: 60
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿No?" Sun Zhang quedó aturdido por un momento por la respuesta, parecía que había recibido un gran golpe del mariscal Haotian.

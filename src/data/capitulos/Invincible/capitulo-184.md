@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 184: Compra de la Finca de la Colina del Sur"
 numero: 184
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Del lado de Huang Xiaolong, después de dejar la plaza Duanren, los cuatro —Huang Xiaolong, Zhao Shu, Yu Ming y Fei Hou— se dirigieron hacia el mercado de compraventa de propiedades. Si no resolvían los asuntos de alojamiento lo antes posible, los cuatro volverían a dormir en las calles.

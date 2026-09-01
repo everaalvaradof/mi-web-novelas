@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1865: Huang Xiaolong está gravemente herido"
 numero: 1865
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando las palmas de Shi Ming golpearon la Nave Voladora Netherking, cuatro rugidos atronadores retumbaron en el cielo mientras las cuatro extrañas bestias volaban desde la Nave Voladora Netherking King.

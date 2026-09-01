@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1004: Comienza la Batalla de la Clasificación"
 numero: 1004
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al verlos, Huang Xiaolong hizo converger cuidadosamente su aura antes de caminar hacia el barco con una expresión suave.

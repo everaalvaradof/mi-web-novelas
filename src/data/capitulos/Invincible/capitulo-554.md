@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 554: Avanzando al Reino de Dios de Segundo Orden"
 numero: 554
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong comenzó a hacer circular las Tácticas Asura, la energía espiritual en las proximidades se precipitó hacia él a gran velocidad. Su cuerpo se estremeció de la cabeza a los pies cuando el primer hilo de energía espiritual penetró en su cuerpo, pero se calmó rápidamente.

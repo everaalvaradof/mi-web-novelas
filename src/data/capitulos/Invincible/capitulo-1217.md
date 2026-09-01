@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1217: ¡¿Realmente crees que no nos atrevemos a matarte?!"
 numero: 1217
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡El mayor obstáculo para aniquilar a la Nefarious Devil Tribe es que se esconden dentro de los cementerios ancestrales de la Nefarious Devil Tribe!" El Ancestro del Clan Demon-Buddha-Buddha, Yao Yue, enfatizó.

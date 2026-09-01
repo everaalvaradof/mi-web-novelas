@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 865: Demasiado Débil"
 numero: 865
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Realmente no esperaba que Huang Xiaolong fuera tan fuerte". Yelu Wei dijo con una voz solemne: "Él podría matar a Yelu Xin, Yelu Bi y los demás, tiene una fuerza comparable a la de un Reino de Dioses Alto del Tercer Orden de mediados del tercer orden como mínimo".

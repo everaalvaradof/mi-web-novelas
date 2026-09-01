@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 847: Mejor Usado Como Carne De Cañón"
 numero: 847
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "967º". Huang Xiaolong leyó el número y se burló, este tipo seguramente se deslizó rápidamente en las filas, pero, de nuevo, fue mejor de esta manera. De acuerdo con las reglas del torneo, ¡matar a otro competidor les permitió obtener la mitad de los puntos en la ficha de jade de esa persona!

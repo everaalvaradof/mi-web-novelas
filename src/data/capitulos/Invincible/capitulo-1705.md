@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1705: Shi Wushuang Está Herido"
 numero: 1705
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando la Ciudad de la Eternidad salió volando del cuerpo de Huang Xiaolong, era más pequeña que las partículas de polvo, el ojo desnudo podía ver. Se expandió en un instante al tamaño de un puño. Impulsados por el poder de cien netherguards títeres no muertos, estalló un poder destructor mundial.

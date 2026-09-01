@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 467: ¡Que todos se queden aquí para siempre!"
 numero: 467
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "La curiosidad de ustedes es realmente morbosa". Las palabras de Huang Xiaolong estaban llenas de sarcasmo.

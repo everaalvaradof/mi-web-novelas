@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1202: Batalla de la Corte Celestial"
 numero: 1202
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Ese charco de sangre espiritual tomó decenas de miles de años de esfuerzo para formarse, recolectando esencia de sangre de numerosas bestias divinas y hierbas espirituales del caos!

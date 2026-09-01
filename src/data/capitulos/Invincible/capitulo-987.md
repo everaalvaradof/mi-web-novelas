@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 987: No maten al mocoso todavía"
 numero: 987
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Tie Mu y Tie Xinlan no ocultaron nada cuando Huang Xiaolong les preguntó sobre la Secta Dios Bárbaro y la Gran Guerra de Todas las Islas, compartiendo con él lo que sabían.

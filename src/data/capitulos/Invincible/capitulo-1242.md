@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1242: El Cultivo del Medio Parasitario Grandmist, con éxito"
 numero: 1242
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Con la base profunda de Fortune Gate, de hecho no necesitaban temer a una mera Familia Guo. Además, Vientiane World Fortune Gate era solo una rama, si la familia Guo atacara Fortune Gate, la sede de Fortune Gate no se quedaría quieta.

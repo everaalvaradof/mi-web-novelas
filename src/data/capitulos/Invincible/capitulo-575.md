@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 575: ¡Diez mil millones!"
 numero: 575
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Maestro, ¿es esto?" Preguntó Huang Xiaolong. Una suave luz verde brillaba en la palma de su mano, iluminando todo el salón principal de verde. Feng Yang experimentó un aumento repentino en la energía espiritual, corriendo hacia él como un tsunami.

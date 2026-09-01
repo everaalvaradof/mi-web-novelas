@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1399: ¡Cara Bofetada!"
 numero: 1399
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En el momento en que la voz de Luo Fan cayó, la sala de subastas se calmó repentinamente a la mitad. Casi todos los pares de ojos en el pasillo se dirigieron hacia el escenario de la subasta.

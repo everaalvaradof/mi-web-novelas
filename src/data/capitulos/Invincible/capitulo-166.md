@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 166: ¿Imposible de averiguar?"
 numero: 166
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En comparación con Huang Xiaolong y Fei Hou, Zhao Shu y Yu Ming estaban mucho más tranquilos y serenos.

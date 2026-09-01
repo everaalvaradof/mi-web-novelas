@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 625: El Recibo de Juego Falsificado"
 numero: 625
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Jiang Wuhuang se rió, "Lo que dijo el hermano Gudu es exactamente correcto, yo también tengo mucha curiosidad por saber dónde tuvo ese mocoso las agallas para colocar veinte mil millones en la victoria de Huang Xiaolong".

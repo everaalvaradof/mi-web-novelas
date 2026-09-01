@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 229: Refinando el piadoso monte Xumi"
 numero: 229
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al obtener la confirmación de algo que había estado buscando, ¡Huang Xiaolong tembló!

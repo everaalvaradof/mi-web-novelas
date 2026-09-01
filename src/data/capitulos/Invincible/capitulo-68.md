@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 68: El Rey Lu Zhe"
 numero: 68
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El día de la competencia, estaba soleado y Huang Xiaolong salió de su habitación y vio a Fei Hou esperándolo respetuosamente en el patio.

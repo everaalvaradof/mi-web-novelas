@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 22: Solo un esclavo humilde, ¿Qué calificaciones?"
 numero: 22
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Habiendo escuchado la explicación de Fei Hou, a Huang Xiaolong le quedó claro por qué los meridianos de Fei Hou estaban rotos y su cuerpo tenía heridas tan graves.

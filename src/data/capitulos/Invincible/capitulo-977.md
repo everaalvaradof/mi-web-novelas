@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 977: Ascendiendo al Mundo Divino"
 numero: 977
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En las últimas cinco décadas, bajo el incansable esfuerzo de Huang Xiaolong todas las noches, Shi Xiaofei avanzó a la perfección en la etapa de finales del Reino de Dios de la Décima Orden. Ahora tenía una claridad de alma extremadamente alta, lo que significa que podría intentar avanzar al Reino Highgod en cualquier momento que lo desee.

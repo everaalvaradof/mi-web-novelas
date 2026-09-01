@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1614: Reclutas del Rey del Mundo de las Tinieblas"
 numero: 1614
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong no viajó en el Dragon Shark Flying Ship cuando se dirigió a la ciudad de Mongolia. En cambio, eligió cinco monturas y las trajo a los cuatro junto con él mientras cabalgaba hacia la ciudad.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 803: ¿Realmente no está muerto?"
 numero: 803
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Con suerte, el sello no se ha aflojado demasiado. Huang Xiaolong pensó interiormente. Si el sello se hubiera aflojado demasiado, a pesar de tener dos fuegos divinos, lo más probable es que tuviera que huir.

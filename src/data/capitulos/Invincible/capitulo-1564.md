@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1564: Por fin ha vuelto"
 numero: 1564
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Zhou Chen se rió entre dientes cuando escuchó a Fang Gan mencionar las selecciones, “¿Qué nivel de cultivo crees que ha logrado Huang Xiaolong? Con su talento, debería haber entrado en el Reino Rey Dios, ¿verdad? "

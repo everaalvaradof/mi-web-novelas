@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1692: El reino de los monarcas celestiales de cuarta orden Cuarto Orden Reino Monarca Celestial"
 numero: 1692
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Un brillo agudo parpadeó en las profundidades de los ojos de Huang Xiaolong mientras observaba a un grupo de Dragones del Diablo de Dos Cabezas volando hacia él. Con un giro de su cuerpo, se transformó en un dragón divino primordial y se encontró con el primer Dragón Diablo de Dos Cabezas, cabeza uno.

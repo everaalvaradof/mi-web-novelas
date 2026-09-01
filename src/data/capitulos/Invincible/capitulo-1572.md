@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1572: El Ancestro Zhou Chen Llega"
 numero: 1572
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sun Shihai dijo con una sonrisa: “¡Así es, después de las selecciones de mañana, este palacio me pertenecerá! ¡Vas a tener que irte de inmediato! "

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1560: No Pueden Volar Aunque Les Salgan Alas"
 numero: 1560
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El Gran Anciano del Palacio del Emperador Demonio Marcial, Chen Qinghai, estaba en medio de informar al Maestro del Salón Wang Shuchen y Wang Shuyu dentro de un salón cuando de repente sintió que su talismán de comunicación temblaba. Frunció el ceño y dejó de hablar.

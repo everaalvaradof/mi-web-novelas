@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1240: Lo descubrió mi familia por primera vez"
 numero: 1240
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que un plan apareció en su mente, Zhou Xu persiguió al grupo de Huang Xiaolong con una brillante sonrisa en su rostro.

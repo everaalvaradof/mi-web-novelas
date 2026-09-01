@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 459: ¡Apoyo a Leibert!"
 numero: 459
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong caminó hacia el trono de la Tribu Tigre y se sentó.

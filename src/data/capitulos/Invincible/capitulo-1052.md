@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1052: Mojando el suelo"
 numero: 1052
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando la multitud de discípulos vio las acciones de Cao Feng, ignorando su identidad como discípula principal y atacando a Huang Xiaolong por la espalda, un discípulo no pudo resistirse a gritar una advertencia: "¡Cuidado!"

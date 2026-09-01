@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1573: Demasiado Vergonzoso"
 numero: 1573
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Tanto Huang Xiaolong como Zhao Lei miraron en su dirección al unísono.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 694: Cambios en el Mundo de los Espíritus Marciales"
 numero: 694
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Todos estallaron en carcajadas cuando escucharon a Huang Xiaolong decir que todos iban a ir juntos al Martial Spirit World, especialmente los dos más jóvenes. Guo Xiaofan y la Bestia Devoradora del Cielo Lil 'Tian gritaron de alegría.

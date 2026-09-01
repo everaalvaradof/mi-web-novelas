@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 140: Elimina desde la raíz"
 numero: 140
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El viento de la noche sopló, llevando consigo el espeso olor a sangre.

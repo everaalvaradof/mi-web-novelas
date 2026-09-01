@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 211: Permutaciones"
 numero: 211
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En el largo túnel negro, no había nada más que un tramo de oscuridad sin fin.

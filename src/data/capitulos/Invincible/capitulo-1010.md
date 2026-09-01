@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1010: La Mansión 'Santidad del Orden"
 numero: 1010
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong llegó al Soaring Sky Hall, el cielo apenas había comenzado a iluminarse. A esta hora temprana, no había muchos discípulos entrando al salón.

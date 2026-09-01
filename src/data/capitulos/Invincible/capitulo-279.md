@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 279: Restos de un antiguo maestro de la tribu de Dios"
 numero: 279
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Sexto Hermano Aprendiz Joven!" Lifei gritó, corriendo directamente al lado de Zhou Cheng. La respuesta de Zhou Cheng fue arrojar una bocanada de sangre, salpicando todo Lifei, su cabeza colgaba sin vida mientras caía al suelo.

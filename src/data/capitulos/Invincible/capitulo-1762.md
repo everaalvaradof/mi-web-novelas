@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1762: Pisándolo"
 numero: 1762
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Audaz! ¡¿Cómo se atreve un simple discípulo del Palacio del Emperador Fortune como usted llama al Mariscal Yu Shi por su nombre ?!" Uno de los generales arremetió contra Huang Xiaolong.

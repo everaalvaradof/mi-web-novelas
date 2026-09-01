@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 660: Pensé que sería un trillón"
 numero: 660
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Hermano aprendiz mayor, ¿pasa algo?" Al darse cuenta de la expresión de Liu Yun, preguntó Huang Xiaolong.

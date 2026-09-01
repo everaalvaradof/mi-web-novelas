@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1337: Primavera del espectro azul"
 numero: 1337
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El grupo de Blue Spirit Gate jadeó con asombro similar al grupo de Huang Xiaolong, cuando volaron desde el túnel de la cueva y vieron las montañas de hierbas espirituales. Todos miraron con fervor las montañas llenas de tesoros.

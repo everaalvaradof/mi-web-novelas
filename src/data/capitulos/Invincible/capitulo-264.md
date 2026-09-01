@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 264: Jiang Tianhua haciendo una visita"
 numero: 264
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿El significado de Chen Xiaotian es su significado?" Una fuerte intención asesina brilló en los ojos de Jiang Tianhua.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1807: Irrumpiendo en la Piscina de Rayos de la Corte Celestial"
 numero: 1807
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La persona estacionada justo afuera de la piscina era Yan Tianchen, y otro mariscal estaba detrás de él.

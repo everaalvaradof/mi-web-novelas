@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 395: ¿Por qué, por qué tan frágil a los golpes?"
 numero: 395
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar el 'acto generoso' del supervisor Lin de descontar seis mil trescientas monedas de oro, una leve sonrisa apareció en los labios de Huang Xiaolong, "¿Cómo podría aceptar eso?"

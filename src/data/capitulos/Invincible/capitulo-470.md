@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 470: Templo de los Nueve Dragones"
 numero: 470
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Señor Lieja, ¿es real lo que ha dicho?" Balanceándose entre la alegría y la incredulidad, Chuck pidió afirmación.

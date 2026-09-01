@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 369: ¡Cancele su elegibilidad para la prueba!"
 numero: 369
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar a Zhao Shu decir que él y Zhao Yi eran de diferentes ramas del Clan Zhao, Huang Xiaolong asintió y preguntó: "¿Sabes cómo es la fuerza de Zhao Yi?"

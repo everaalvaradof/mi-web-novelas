@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1262: Encontrarse con Wang Yu"
 numero: 1262
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong no pudo evitar suspirar de asombro mientras miraba la enorme ciudad frente a él.

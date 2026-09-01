@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1364: ¡Que venga a vernos!"
 numero: 1364
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La pequeña vaca tenía razón: todavía había sellos de petrificación dentro del cuerpo del elefante divino Xiang Xun, que reprimían una gran parte de su fuerza.

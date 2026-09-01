@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 516: ¿Alguien como tú es capaz de matar a nuestro Preceptor del Templo?"
 numero: 516
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Con una sola orden, Huang Xiaolong encabezó el gran desfile de expertos del reino Santo, corriendo hasta el Imperio Duanren. Entre los mil expertos del reino Santo que trajo a la sede de Deidades Templarias, un poco más de noventa personas habían caído en batalla. Quedaron más de novecientos expertos en el reino Santo.

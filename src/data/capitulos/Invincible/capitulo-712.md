@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 712: Aniquilando el Palacio de Hielo del Infierno"
 numero: 712
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En el agarre de Huang Xiaolong, la Espada Mulberry tembló, aparentemente con anticipación, incluso antes de que los maestros del Palacio de Hielo Abisal que volaban hacia Huang Xiaolong hablaran una sílaba. Múltiples rayos de qi de espada se dispararon, atravesando a cada maestro de la otra parte.

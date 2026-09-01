@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 846: El mundo del rayo desbordado"
 numero: 846
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando el grupo de Huang Xiaolong llegó a la Plaza Aeon, ya estaba lleno de gente.

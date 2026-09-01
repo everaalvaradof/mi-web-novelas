@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 967: Li Lu En La Desesperación"
 numero: 967
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Li Lu se estrelló contra un pequeño terreno vacío, levantando una cortina de arena y polvo. Apenas un segundo después, una figura descendió justo frente a ella.

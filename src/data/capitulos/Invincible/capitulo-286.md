@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 286: Invocando a las marionetas gigantes"
 numero: 286
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Jin Zhong y Qiao Liang dudaban al ver el comportamiento tranquilo de Huang Xiaolong, ni les dieron a los discípulos de la Secta del Santo Veneno la orden de atacar.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 111: ¡Por supuesto que no dejaremos que termine así!"
 numero: 111
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de la Transformación del León Kaiser, de la garganta de Yang An salió un rugido atronador que sonó muy parecido al de un león; un paso adelante, el suelo tembló y el material sólido utilizado para construir la calle se dividió y finas fisuras se alinearon en la calle.

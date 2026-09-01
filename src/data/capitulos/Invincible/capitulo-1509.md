@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1509: La Herencia del Señor del Infierno"
 numero: 1509
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El estruendo amortiguado alarmó a Xiang Xun, Xu Baisheng, Feng Er y los demás.

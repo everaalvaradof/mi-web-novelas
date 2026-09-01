@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 299: En el fondo de la primavera fría"
 numero: 299
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Haz guardia aquí, voy a bajar a echar un vistazo". Fenggong dijo solemnemente. "Si señor." Dai Li respondió respetuosamente.

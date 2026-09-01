@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1029: El Tesoro de la Secta Zhenyu"
 numero: 1029
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 “Parece que ya no puedo llamarte Xiaoniū. En el futuro, debería llamarte Daniū ". [1]

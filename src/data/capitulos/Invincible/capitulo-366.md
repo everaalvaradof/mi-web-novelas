@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 366: Tres años después"
 numero: 366
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La Perla del Dragón voló hacia Huang Xiaolong, dando vueltas a su alrededor mientras liberaba anillos de luz dorada que entraron en el cuerpo de Huang Xiaolong como una marea interminable de olas doradas.

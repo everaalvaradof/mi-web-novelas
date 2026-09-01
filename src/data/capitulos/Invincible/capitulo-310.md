@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 310: Entrando en Ciudad Fantasma"
 numero: 310
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En cuanto a Yao Fei, si se volvieran a encontrar, ¡Huang Xiaolong tenía la confianza para aplastarlo con facilidad! ¡No sería diferente a aplastar una hormiga, aplastarla en pasta de carne poco a poco entre sus dedos!

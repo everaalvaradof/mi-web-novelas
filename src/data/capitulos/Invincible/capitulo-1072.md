@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1072: Isla Dralion"
 numero: 1072
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Lu Zhuo hizo un gesto con la mano, indicando a todos que se calmaran, con un tono plácido: "Simplemente basado en el hecho de que Huang Xiaolong estaba en la ciudad de Cao Bao el día de la muerte de Cao Yang, Zhuang Xuan y Huang Junfei, todos ustedes están ¿Seguro que este asunto está relacionado con él? ¿Esta es tu supuesta evidencia? "

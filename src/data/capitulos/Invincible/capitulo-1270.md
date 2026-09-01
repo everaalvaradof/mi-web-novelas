@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1270: ¡Llegada del Maestro del Reino de los Dioses Ancestrales!"
 numero: 1270
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong apartó la mirada del cadáver del corpulento discípulo. Su mirada fría recorrió a otros discípulos que venían hacia él con la misma intención, antes de que se volviera.

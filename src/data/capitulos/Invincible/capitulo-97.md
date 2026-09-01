@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 97: Pasador Cuatro años"
 numero: 97
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pasaron dos días.

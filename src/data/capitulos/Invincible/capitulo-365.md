@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 365: Refinando la Perla del Dragón"
 numero: 365
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Silver Dragon Ao Gu observó a Huang Xiaolong de pies a cabeza con interés.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 114: ¡Aparece la Manifestación de la Visión del Tesoro Celestial!"
 numero: 114
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Yang Dong y su grupo se fueron torpemente mientras que la atmósfera festiva de la boda en Fei Mansion no se vio afectada en lo más mínimo por el incidente. En cambio, se volvió más animado, más vibrante y cerca del mediodía, algunas de las súper familias hicieron acto de presencia, trayendo personalmente regalos para la ocasión.

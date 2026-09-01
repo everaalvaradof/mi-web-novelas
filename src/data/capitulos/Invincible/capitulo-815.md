@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 815: Un Fragmento de la Divinidad del Dios Celestial"
 numero: 815
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El anciano que presidía la subasta era un famoso subastador de alto nivel en la Galaxia del Tigre Blanco.

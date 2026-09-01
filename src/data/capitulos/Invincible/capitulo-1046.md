@@ -1,7 +1,7 @@
 ---
 titulo: "Capitulo 1046: Avance al Reino de Dios Celestial de Cuarto Orden"
 numero: 1046
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En comparación con las recompensas de entrenamiento conjunto de las tres sectas, Huang Xiaolong estaba más inclinado a obtener dos marionetas del Diablo del Granizo del Hielo Verde del Reino del Dios Antiguo.

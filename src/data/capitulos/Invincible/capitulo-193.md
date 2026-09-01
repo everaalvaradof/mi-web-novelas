@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 193: Investigando el Paradero de la Perla del Alma Absoluta"
 numero: 193
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Reservado todo!

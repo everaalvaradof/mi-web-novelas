@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1281: Arrodillarse"
 numero: 1281
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El joven vestido con la túnica del emblema de la familia Xiao no era otro que el joven señor de la familia Xiao, Xiao Zhangyu.

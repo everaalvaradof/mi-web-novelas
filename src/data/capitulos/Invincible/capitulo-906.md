@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 906: La noche de bodas"
 numero: 906
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aún así, todo eso tuvo que esperar hasta después de su boda.

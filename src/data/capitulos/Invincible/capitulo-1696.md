@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1696: Siéntate, esperando un buen espectáculo"
 numero: 1696
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En la sede de la Tribu de cadáveres gigantes Nine Yin...

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1449: ¿Sucede algo?"
 numero: 1449
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Como los dos no se habían molestado en ocultar sus voces mientras conversaban, los discípulos de los alrededores escucharon cada palabra de lo que dijeron.

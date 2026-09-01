@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1006: ¡Realmente se necesitó un solo golpe!"
 numero: 1006
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 De repente, Jiang Zheng y Zhu Wanchen, que se habían estado observando en silencio, actuaron. Ambos dejaron escapar un bramido y en el segundo siguiente dos puños chocaron en el aire.

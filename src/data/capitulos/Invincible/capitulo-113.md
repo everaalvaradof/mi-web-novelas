@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 113: La salida de la vergüenza"
 numero: 113
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Yang Dong acababa de terminar de hablar, pero Fei Hou ya hizo su movimiento.

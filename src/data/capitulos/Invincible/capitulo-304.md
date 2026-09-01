@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 304: De vuelta a la ciudad de la miríada de dioses"
 numero: 304
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El viento aulló con fuerza...

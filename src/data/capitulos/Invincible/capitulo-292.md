@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 292: ¡Nuestro joven señor quiere verte!"
 numero: 292
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Seiscientos millones!

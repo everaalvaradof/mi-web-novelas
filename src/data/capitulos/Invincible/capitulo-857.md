@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 857: Un Xiang Mingzhi aterrorizado"
 numero: 857
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong tenía una sonrisa amable en su rostro, "Sí, soy yo". Como si los dos fueran mejores amigos que no se habían visto en mucho tiempo.

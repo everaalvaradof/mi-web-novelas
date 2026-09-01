@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1751: ¿Emperador de la Décima Orden?"
 numero: 1751
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Como un experto en el Reino emperador fallecido, el aura de Zhou Chen era aterradora cuando apareció frente a Huang Xiaolong al instante.

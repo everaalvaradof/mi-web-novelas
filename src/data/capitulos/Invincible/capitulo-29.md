@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 29: Asura Sword Skill - Second Move"
 numero: 29
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Durante mucho tiempo después de que Huang Xiaolong abandonó el salón, nadie se atrevió a hablar.

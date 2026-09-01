@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1390: La Banda del Lobo de Sangre"
 numero: 1390
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong y el resto todavía estaban inmersos en la idea de que alguien estaba atacando su nave voladora, cuando la nave voladora del tiburón gigante se sacudió y se balanceó nuevamente.

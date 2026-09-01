@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 415: Refinando la Línea de Sangre Asura"
 numero: 415
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Ren Wokuang realmente cruzó al avión Asura en el infierno!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 771: Feng Yang sale de la reclusión"
 numero: 771
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A pesar de que Huang Xiaolong era solo un Reino de Dios de la Décima Orden tardía, su velocidad para refinar bolitas espirituales y absorber energía espiritual fue más rápida que la de cualquier maestro del Reino de Dios Alto de la Primera Orden tardía.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1767: ¡Demasiado lejos!"
 numero: 1767
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En un instante, varios millones de miradas aterrizaron en Huang Xiaolong.

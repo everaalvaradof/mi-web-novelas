@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 551: Avanzando hacia el Reino de Dios"
 numero: 551
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Surgieron líneas sangrientas en la piel de Huang Xiaolong como múltiples dragones de sangre grabados en su carne, una visión espantosa que haría palpitar a cualquiera.

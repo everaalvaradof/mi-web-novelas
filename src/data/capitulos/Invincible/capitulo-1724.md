@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1724: A quién le importa su identidad"
 numero: 1724
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Sin embargo, por lo que sé, independientemente de si soy un discípulo de Death Tomb City, el precio aún debería ser una piedra espiritual del caos de bajo grado por día". Huang Xiaolong miró al capitán de la guardia de la ciudad y dijo con indiferencia: "¿No tienes miedo de que informe esto a la mansión del señor de la ciudad?"

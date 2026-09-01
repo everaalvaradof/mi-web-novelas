@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1125: La situación de Li Lu"
 numero: 1125
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Conoces a Li Lu?" Huang Xiaolong estaba feliz de ver la reacción de Cheng Susu, preguntando a cambio.

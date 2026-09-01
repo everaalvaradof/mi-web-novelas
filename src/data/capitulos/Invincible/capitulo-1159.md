@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1159: ¿Participará?"
 numero: 1159
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Solo, en ese momento, Lu Zhuo se relajó e ignoró a Ouyang Yunfei.

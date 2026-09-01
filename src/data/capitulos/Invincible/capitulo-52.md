@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 52: ¿Invencible en todo?"
 numero: 52
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Xiaolong!" Lo que estaba fuera de sus expectativas fue la voz familiar de Li Lu llamándolo en el momento en que entró al salón de clases.

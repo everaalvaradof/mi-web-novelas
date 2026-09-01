@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1091: La Tribu del Diablo Nefasto"
 numero: 1091
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Tang Hong, ¿te sorprende verme?" La esquina de los labios de Sun Jinqiang se elevó en una mueca condescendiente y rencorosa, “Bueno, ¿tienes algo que decir? Te daré suficiente tiempo. ¿Qué tal ponerte de rodillas y suplicar? ¿O me llamas abuelo?

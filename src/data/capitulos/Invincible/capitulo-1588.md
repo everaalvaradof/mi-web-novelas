@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1588: ¿Qué estás haciendo en el Palacio del Emperador Grandmist?"
 numero: 1588
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong y sus compañeros llegaron a las puertas principales del palacio y, justo antes de que pudieran entrar, se encontraron con un grupo de personas. Había un grupo de discípulos de Grandmist Emperor Palace abriendo el camino a un grupo de ancianos de Brightness Emperor Palace.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 466: Proteger al Dios Bestia del Señor de la Tierra"
 numero: 466
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La palma de Andrew golpeó fuertemente el pecho de Huang Xiaolong, aumentando la conmoción en los corazones de todos; termina tan rápido? ¿Un movimiento mata? Pero luego la multitud rápidamente se dio cuenta de que algo no estaba bien, porque la palma de Andrew realmente penetró el pecho del humano. ¡No era más que una imagen secundaria!

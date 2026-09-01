@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 432: La técnica siniestra del Dios de la muerte"
 numero: 432
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Incluso los expertos de Distinct Void Door, White Phoenix House y otras ocho superfuerzas estaban asombrados, ¡el Joven Lord del Culto del Dios del Cosmos, Xie Hui, en realidad estaba lidiando con este intruso él mismo!

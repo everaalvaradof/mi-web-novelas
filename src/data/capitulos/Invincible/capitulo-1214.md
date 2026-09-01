@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1214: Conquistando la Tribu del Diablo Nefasto"
 numero: 1214
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Con el qi de la muerte, el qi nefasto y la energía yin despejados de la tumba, Huang Xiaolong y la pequeña vaca se apresuraron a entrar con anticipación.

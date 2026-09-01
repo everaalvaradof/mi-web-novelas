@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 745: La Montaña de la Nube de Fuego"
 numero: 745
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Innumerables árboles grandes fueron arrojados al aire y cayeron en la región exterior del bosque mientras los cuatro compañeros de Wan Long miraban con caras horrorizadas.

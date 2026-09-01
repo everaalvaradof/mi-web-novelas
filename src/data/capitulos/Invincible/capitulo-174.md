@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 174: La batalla de la ciudad imperial (6)"
 numero: 174
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Yanggang se sentó allí escuchando en silencio y sonrió sarcásticamente para sí mismo cuando escuchó que Huang Xiaolong en realidad se atrevió a rechazar la invitación del Joven Noble Descorazonado. En su estimada opinión, ¡Huang Xiaolong definitivamente sufriría una muerte agonizante por ofender a Yao Fei!

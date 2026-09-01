@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 578: Controlando la Espada con el Qi"
 numero: 578
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se puso serio al ver el creciente impulso de Jiang Bi. Este Jiang Bi era más fuerte de lo que había predicho Huang Xiaolong. Además de eso, podía sentir una energía budista extremadamente pura del cuerpo de Jiang Bi.

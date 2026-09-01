@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1589: ¿Qué está pasando?"
 numero: 1589
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El antiguo sello brillaba intensamente con un poder mucho más fuerte que la Gran Palma de

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 78: Lista de Tesoros Celestiales Número Uno"
 numero: 78
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong asintió lentamente con la cabeza; de hecho, la Pagoda del Tesoro Linglong emitía qi de dragón de fuego en todo momento dentro de su cuerpo y este qi era mucho más puro que el qi de fuego que podía ser absorbido de la matriz de estrellas de cinco puntas en las cámaras de piedra del Valle de la Llama del Dragón.

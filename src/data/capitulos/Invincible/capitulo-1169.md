@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1169: ¡Más fuerte que Zhou Xu!"
 numero: 1169
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La atención de Huang Xiaolong no estaba en el grupo de cuatro de Sun Fangliang, sino que cayó sobre el cadáver que yacía en el suelo en la distancia que llevaba la misma túnica de la Secta del Dios Bárbaro que él, el cuerpo de Zhang Danming.

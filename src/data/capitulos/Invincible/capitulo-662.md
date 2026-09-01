@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 662: Avances consecutivos al Reino de Dios"
 numero: 662
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El cuerpo de Zhuo Buzhi estaba paralizado por un miedo frío. Mientras sentía que el mundo estaba a punto de colapsar, Huang Xiaolong y Xie Puti entraron en otra tienda que vendía ingredientes de alquimia. Al igual que lo que sucedió antes, ante una multitud asombrada, Huang Xiaolong compró todas las existencias de la tienda de elixires de diez mil años a cien mil años.

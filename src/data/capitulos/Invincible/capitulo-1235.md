@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1235: ¡Esta carne asada de perro negro es jodidamente fragante!"
 numero: 1235
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La cara de Black Ice Ancestor se veía un poco mejor después de que Li Lu retirara su mano de la de Huang Xiaolong, pero aún así continuó mirándolo con frialdad. Si su mirada pudiera matar, Huang Xiaolong ya habría estado muerta, perforada cien veces.

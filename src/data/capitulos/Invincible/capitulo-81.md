@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 81: ¡Papá fue herido!"
 numero: 81
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Padre!"

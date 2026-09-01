@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1312: Competencia"
 numero: 1312
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong miró a los expertos y discípulos de la tribu del mar saludando de rodillas. Luego miró a Feng Yingying mientras estaba de pie en el pináculo de la tribu del mar, y sus cejas se arrugaron ligeramente. No había esperado que Feng Yingying completara con éxito la Ceremonia de Entronización del Dios del Mar tan fácilmente y se fusionara con su línea de sangre del Dios del Mar.

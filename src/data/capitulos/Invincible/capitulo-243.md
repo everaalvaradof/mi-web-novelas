@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 243: Ascendido a Holy Maiden"
 numero: 243
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver como una misteriosa luz púrpura oscura salió volando de la jarra de vino al aire, formando la extraña imagen de un demonio aullante, todos los presentes se volvieron de un tono blanco porque esto era algo que solo el más tóxico de los venenos podía alcanzar. ¡Los humos tóxicos con forma de demonio!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1325: ¿No crees que mi padre está cerca?"
 numero: 1325
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong estaba desconcertado cuando los discípulos de la Secta Ondas de Arena se emocionaron cada vez más después de adivinar correctamente su identidad. '¿Su reputación se había extendido tanto desde la Gran Ceremonia del Dios del Mar?'

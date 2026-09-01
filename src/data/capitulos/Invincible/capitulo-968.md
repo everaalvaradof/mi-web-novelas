@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 968: En el mar del infierno"
 numero: 968
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de destrozar los huesos y los órganos internos de Pan Zhen, Huang Xiaolong continuó lanzando golpes sobre él, cada golpe enviando más frío Asura qi a su rostro ensangrentado.

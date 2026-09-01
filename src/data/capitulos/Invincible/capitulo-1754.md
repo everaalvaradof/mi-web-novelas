@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1754: ¡¿Subordinados?!"
 numero: 1754
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los discípulos que custodiaban el nivel más bajo de la prisión eran los discípulos centrales del Salón de la Luna de Nieve. Una vez que Huang Xiaolong entró en el nivel más bajo, abofeteó directamente a estos discípulos centrales y los plantó a todos en la pared.

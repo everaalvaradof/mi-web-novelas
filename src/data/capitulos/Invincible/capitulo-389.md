@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 389: Culto al Dios Cosmos"
 numero: 389
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El niño vitoreó felizmente, saltando cuando Huang Xiaolong estuvo de acuerdo. Huang Xiaolong se rió al ver su reacción.

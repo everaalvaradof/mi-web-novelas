@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1497: Avenida de los Cielos del Mundo del Cielo"
 numero: 1497
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Impulsado por piedras espirituales de grado nueve, el Dragon Shark Flying Ship navegó a través del vasto espacio oscuro a alta velocidad.

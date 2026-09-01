@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 743: Lista de Avances de los Altos Dioses"
 numero: 743
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Una vez que ingresó al Mundo del Fuego, Huang Xiaolong miró a su alrededor, determinó su dirección y voló hacia la región central.

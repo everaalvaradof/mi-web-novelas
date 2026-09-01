@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1529: Se mea en los pantalones de miedo"
 numero: 1529
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El antepasado Zhang Lu, el antepasado Zhao Mingchen y otros todavía querían disuadir a Mo Xiao de ir, pero Mo Xiao levantó la mano para evitar que hablaran. “Suficiente, lo he decidido. El resto de ustedes esperan aquí mis noticias. ¡Los tres regresaremos en poco tiempo! "

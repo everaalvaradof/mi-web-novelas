@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1286: Ciudad Buda de Piedra"
 numero: 1286
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 No solo la fuerza y el físico de Huang Xiaolong habían mejorado, sino que su cultivo de Grandmist Parasitic Medium también había aumentado y se acercaba poco a poco a la segunda etapa.

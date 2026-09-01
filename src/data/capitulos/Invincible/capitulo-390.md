@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 390: Habilidad de espada Asura, el octavo movimiento"
 numero: 390
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 'La décima etapa de las Tácticas Asura'. Huang Xiaolong murmuró para sí mismo después de escuchar la explicación de Zhang Fu. 'Si el Maestro afirmó que podría haber derrotado al Líder del Culto del Dios Cosmos si hubiera practicado hasta la décima etapa de las Tácticas Asura, parece que existe una gran diferencia entre la novena etapa y la décima etapa'.

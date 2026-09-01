@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1779: No tendrás la oportunidad"
 numero: 1779
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El Palacio del Emperador del Brillo, el Palacio del Emperador de la Soledad, el Palacio del Emperador de los Nueve Dragones y otros miraban a Huang Xiaolong con intenso odio.

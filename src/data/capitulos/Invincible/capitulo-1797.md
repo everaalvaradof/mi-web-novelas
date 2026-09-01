@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1797: ¿Dos Archidiablos?"
 numero: 1797
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Todos sintieron que sus mandíbulas caían cuando vieron los tres mil brazos detrás de Huang Xiaolong. Sus ojos se abrieron al tamaño de platillos.

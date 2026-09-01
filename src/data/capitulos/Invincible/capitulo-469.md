@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 469: Si Puedes Derrotarme"
 numero: 469
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Dios bestia!

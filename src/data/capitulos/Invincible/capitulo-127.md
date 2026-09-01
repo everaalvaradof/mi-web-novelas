@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 127: Li Lu se fue"
 numero: 127
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al pararse frente a su hermana menor, Huang Min, Huang Xiaolong revisó su condición, lo que resultó en un ceño fruncido. Confiando en su juicio, no pudo ver a través de qué tipo de método se utilizó para inmovilizar a su hermana pequeña en este lugar. No se debió a los puntos de acupuntura. Por lo que podía decir, en todo el Mundo de los Espíritus Marciales, solo él conocía este método de puntos de acupuntura.

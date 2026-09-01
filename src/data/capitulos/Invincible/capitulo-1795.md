@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1795: Los Tres Reyes de las Divinidades Supremas"
 numero: 1795
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong reveló su Verdadero Físico de Dragón al mundo, los cielos y la tierra temblaron.

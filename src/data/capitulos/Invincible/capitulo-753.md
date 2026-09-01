@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 753: Integrando el Fuego Divino del Pájaro Bermellón"
 numero: 753
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Ec estática, la velocidad de Huang Xiaolong aumentó mientras volaba hacia la fuente de las extrañas fluctuaciones de energía.

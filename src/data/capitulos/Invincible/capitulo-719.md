@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 719: Noveno Reino de los Dioses"
 numero: 719
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Shi Xiaofei estaba experimentando un progreso rápido en el cultivo similar al de Huang Xiaolong. Sentada en una posición meditativa sobre el charco de sangre, su cuerpo emitía un aura budista brillante que tomaba vagamente la forma de un Buda.

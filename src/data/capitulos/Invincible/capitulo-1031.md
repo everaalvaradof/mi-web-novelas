@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1031: Cuarenta millones de años de hierbas medicinales"
 numero: 1031
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al mirar la expresión de la pequeña vaca, Huang Xiaolong no pudo evitar reír. Realmente tenía ganas de darle una patada a esta vaca.

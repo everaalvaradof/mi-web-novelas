@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 116: Intervención del Imperio Duanren"
 numero: 116
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sin embargo, con la actual situación anárquica, Huang Xiaolong no tenía prisa por llegar al Lago de la Iluminación; Continuó practicando en el patio todos los días, esperando el momento oportuno para ver qué pasaba.

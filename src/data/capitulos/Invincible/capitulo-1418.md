@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1418: Bei Xiaomei"
 numero: 1418
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Maestro, Wang Wei y su Maestro Empíreo Azul, ¿qué...?" Pasó mucho tiempo, antes de que Liang Mai le preguntara a Chen Zhifa con mucha dificultad.

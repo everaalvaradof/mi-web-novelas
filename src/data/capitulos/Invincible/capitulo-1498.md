@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1498: Palacio del Emperador de la Luminosidad"
 numero: 1498
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aproximadamente una hora después, el grupo de Huang Xiaolong llegó a la sede de Silver Fox Commerce.

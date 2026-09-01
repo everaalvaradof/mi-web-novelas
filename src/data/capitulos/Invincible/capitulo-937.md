@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 937: ¡Pellet de Grado Tribulación de Rango Nueve!"
 numero: 937
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En la terraza principal, Sun Yi observó atentamente cómo las esencias de hierbas de Huang Xiaolong se fusionaban suavemente, sus manos escondidas debajo de las mangas estaban fuertemente apretadas hasta que sus nudillos se volvieron blancos. Interiormente, Sun Yi oró repetidamente: "¡Explota, explota, explota, explota para mí, ah!"

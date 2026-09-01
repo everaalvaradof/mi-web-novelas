@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 523: Campo Estelar Central"
 numero: 523
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Hermano mayor Huang, ¿volverás?" Los hermosos ojos de Shi Xiaofei miraron con tristeza a Huang Xiaolong, ya llorosos y enrojecidos.

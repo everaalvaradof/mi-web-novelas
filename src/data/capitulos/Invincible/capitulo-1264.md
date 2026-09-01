@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1264: ¡Toma un golpe de mi palma también!"
 numero: 1264
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El tono y la actitud del discípulo del Golden Phoenix Pavilion fueron lo más altivos posible, pero nadie de la multitud pensó que estaba siendo altivo.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1314: Este Golpe es Bastante Relajante"
 numero: 1314
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Guo Jun no sería un hombre si no se levantara ante la flagrante provocación de Huang Xiaolong. ¡Sin mencionar que no sería digno de ser el hombre de Feng Yingying!

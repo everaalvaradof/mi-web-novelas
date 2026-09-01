@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 10: Hierba del Corazón de Leirion de Mil Años"
 numero: 10
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Comprar de dónde?" Al escuchar el grito de alegría de su hermana, Huang Xiaolong negó con la cabeza y se echó a reír, pensando que este Mono Espíritu Devorador Violeta es una rara bestia espiritual, algo que no puedes comprar incluso si tienes mucho dinero.

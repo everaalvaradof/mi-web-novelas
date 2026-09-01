@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 708: ¿Cómo es la fuerza de esa persona?"
 numero: 708
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 “¿Cómo es la fuerza de esa persona? ¿Conseguiste averiguar su identidad? " Después de un breve momento de loca alegría, Lu Ruibing preguntó con urgencia...

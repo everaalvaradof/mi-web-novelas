@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 92: Abrir la primera capa de la Pagoda del Tesoro de Linglong"
 numero: 92
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Un breve momento después, Xiaolong canceló la transformación del alma. Tanto las escamas de dragón azul y negro en sus brazos como las dos cabezas de dragón tatuadas en su espalda desaparecieron. El agotamiento lo golpeó de repente.

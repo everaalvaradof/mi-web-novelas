@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 283: Ciudad Imperial Sable"
 numero: 283
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Four Seas Mountain..." Huang Xiaolong sacó el mapa Bedlam Lands, buscando dicha ubicación en él, pero terminó arrugando las cejas. Por lo que podía ver en el mapa, entre las colinas y montañas que rodeaban la Ciudad de la Miriada de Dioses, ninguna se llamaba Four Seas Mountain. Luego llamó a Qin Yang, Lifei, Jie Dong y Fan Encheng y les preguntó sobre la montaña Four Seas.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 649: ¿Te has enterado?"
 numero: 649
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡El asunto del Anciano de la Luna Ascendente que tomó a Huang Xiaolong como su discípulo personal fue escrito en piedra de esta manera!

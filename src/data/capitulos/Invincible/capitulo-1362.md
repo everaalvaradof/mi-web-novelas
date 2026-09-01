@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1362: Elixir de Elefante del Reino del Rey Dios"
 numero: 1362
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando el patriarca Xiang Tai se sintió aliviado al escuchar que Huang Xiaolong simplemente quería que cerrara la Plaza del Elefante Sagrado. Él respondió rápidamente: “Sí, Maestro. ¡Tenga la seguridad de que este subordinado lo hará de inmediato! "

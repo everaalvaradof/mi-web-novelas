@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 510: El Joven Noble Asesino Absoluto"
 numero: 510
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La entrada principal de ese edificio tenía cien zhang de altura y un ancho de treinta zhang. Fue construido con un material desconocido que era negro como la tinta, reflejando un brillo negro bajo los rayos del sol. Huang Xiaolong podía sentir una frígida frialdad a pesar de que estaba a más de diez metros de distancia.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1565: Volviendo al Palacio del Emperador de la Fortuna"
 numero: 1565
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El rugido de Sun Shihai resonó como un trueno ensordecedor y resonó en toda la Región de Fortune Secret.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1174: ¡Un Tonto que se Sobreestima!"
 numero: 1174
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando el grupo de Huang Xiaolong llegó a la plaza, muchos participantes y expertos de varias sectas ya estaban allí.

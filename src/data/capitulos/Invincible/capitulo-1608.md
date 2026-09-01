@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1608: El Primer Tesoro del Clan del Dragón Negro de la Era Desolada"
 numero: 1608
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mirando los colmillos afilados que sobresalían de su boca, Huang Xiaolong se aseguró cuidadosamente de que no hubiera restricciones en la boca del dragón antes de volar hacia la estructura masiva.

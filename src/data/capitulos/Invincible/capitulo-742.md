@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 742: Entrando en el mundo del fuego"
 numero: 742
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Antes de dejar el Instituto del Pájaro Bermellón, Huang Xiaolong eliminó la Matriz Amplificadora de Espíritus y las formaciones defensivas que dispuso alrededor del Pico de Fuego Relámpago, devolviéndola a como estaba antes.

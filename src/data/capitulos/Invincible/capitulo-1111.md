@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1111: No dejes que esa persona entre en la ciudad"
 numero: 1111
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Frente a los millones de bestias marinas al frente y a su alrededor, el grupo de dos humanos y dos bestias de Huang Xiaolong se apresuró sin miedo, dejando un rastro de cadáveres de bestias mutiladas detrás de ellos.

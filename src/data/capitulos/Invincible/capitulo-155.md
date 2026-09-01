@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 155: Un compromiso entre la familia Huang y Guo"
 numero: 155
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El mariscal Haotian era un experto de la Segunda Orden de Xiantian, y no un experto promedio de segundo orden en eso, sin embargo, aún no pudo ejecutar una victoria rápida sobre Huang Xiaolong.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 84: El Tío Mayor se equivoca"
 numero: 84
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Liu Wei, que estaba enterrado bajo los escombros de la pared, de repente salió volando. La Espada de Nueve Conjuntos se reagrupó una vez más ante Liu Wei, convirtiéndose en una espada larga de dragón. Después de liberarse de los escombros, saltó sobre la espada larga y la espada larga del dragón salió disparada. ¡Liu Wei realmente quería huir!

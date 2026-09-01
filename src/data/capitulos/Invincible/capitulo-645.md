@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 645: ¿Quién se atreve a dañar a mi discípulo?"
 numero: 645
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los discípulos de All Dragons League vieron a Huang Xiaolong irse, alejándose más, pero nadie se atrevió a arrojarse a punta de lanza para intentar detenerlo.

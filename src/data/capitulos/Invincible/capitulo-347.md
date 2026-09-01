@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 347: ¿Rompiste a través de Half-Saint?"
 numero: 347
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los dragones gemelos negros y azules se arremolinaron en el aire sobre Huang Xiaolong, el poder del dragón que emanaba de su cuerpo se hizo más fuerte e intenso a medida que pasaba el tiempo y se podían escuchar ecos aparentemente débiles de rugidos de dragones.

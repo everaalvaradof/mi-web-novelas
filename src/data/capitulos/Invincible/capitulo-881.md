@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 881: ¡Huang Xiaolong debe morir!"
 numero: 881
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al mirar la vena espiritual que se asemeja a un dragón relámpago frente a él, el deleite de Huang Xiaolong era evidente en sus ojos brillantes.

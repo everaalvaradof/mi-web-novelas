@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 560: ¡Sólo un movimiento!"
 numero: 560
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A diferencia de todos los demás a su alrededor, Huang Xiaolong no parecía diferente después de la demostración de poder y fuerza de Wang Biaoyuan. Una diferencia minúscula que pasó desapercibida fue la frialdad que cubrió sus pupilas cuando Wang Biaoyuan le dijo que se arrodillara y suplicara misericordia.

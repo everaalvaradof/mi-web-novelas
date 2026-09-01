@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 696: ¡Definitivamente Capturarlos Vivos!"
 numero: 696
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Un guardia de la familia Ying entró repentinamente, todo nervioso, hasta que estuvo frente a Ying Changtian. Su tono era respetuoso pero tenso, "¡Reportando al Gran Anciano, el lado sur de la Ciudad Imperial está bajo ataque enemigo!"

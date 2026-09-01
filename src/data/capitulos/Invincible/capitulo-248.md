@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 248: Ciudad del Demonio Negro"
 numero: 248
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Tanto el hombre de la cara de la cicatriz como el hombre de la cara de caballo parecían deformados por la conmoción y el miedo. Nunca imaginaron que Huang Xiaolong conocería ese método.

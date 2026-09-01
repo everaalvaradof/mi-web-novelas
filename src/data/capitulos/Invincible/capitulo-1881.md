@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1881: Ataque al Valle del Oso Dragón"
 numero: 1881
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El antiguo ataúd trajo consigo un infinito qi fantasma y qi nefasto que corrió hacia Huang Xiaolong.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1520: ¡¿Eres la Vaca Azul Mayor?!"
 numero: 1520
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La abuela emperador de mediana edad se estremeció y miró a la pequeña vaca con incredulidad. ¿Este antepasado de la vaca?

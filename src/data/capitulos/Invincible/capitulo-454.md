@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 454: Humilde humano"
 numero: 454
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Liberame! ¡Suéltame! " Rihanna luchó como un gato salvaje enojado, luchando por liberarse con todas sus fuerzas.

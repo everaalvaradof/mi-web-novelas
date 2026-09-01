@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 685: ¿Y si pierdes?"
 numero: 685
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sin querer llamar la atención, Huang Xiaolong eligió usar la Mano Transfiguradora del Dragón porque entre las muchas técnicas de refinamiento de la alquimia en las que estaba versado, la Mano Transfiguradora del Dragón era la más 'ordinaria'.

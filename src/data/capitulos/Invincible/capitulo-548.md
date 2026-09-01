@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 548: Ancestro Gudu"
 numero: 548
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Siendo el foco de tantos expertos, cualquier persona promedio estaría tan nerviosa que podría comenzar a caminar hacia atrás. Sin embargo, el cuerpo de Huang Xiaolong se estremeció ligeramente con un pequeño estallido de energía budista mientras entraba al gran salón con una expresión tranquila.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1639: Noticias del Maestro Ren Wokuang"
 numero: 1639
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Jin Yuan, Fan Hui, Tai Yue y Wan Yutian que habían estado vigilando fuera de la Ciudad de la Eternidad notaron inmediatamente a Huang Xiaolong. En el momento siguiente, la conmoción quedó grabada en sus rostros.

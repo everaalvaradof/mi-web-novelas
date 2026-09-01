@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1741: Volviendo al Mundo Divino"
 numero: 1741
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong probó su Grandmist Parasitic Medium nuevamente, y cuando lo circuló, ¡la energía grandmista en su cuerpo se movió decenas de veces más rápido que antes!

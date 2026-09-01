@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 104: Calumnia y confianza"
 numero: 104
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Fei Hou llamó a su espíritu marcial 'Silver River' y balanceó ambos brazos. Se vio un Río Plateado surgiendo en el aire y cuando los ataques de los bandidos circundantes se estrellaron contra el Río Plateado, se pudieron escuchar sonidos de metales chocando, reflejando los ataques contra los atacantes.

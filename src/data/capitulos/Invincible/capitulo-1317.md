@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1317: El Genio de la Tortuga"
 numero: 1317
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La emoción y la sed de sangre en el rostro de Guo Jun se hicieron más densas cuando vio a Huang Xiaolong tambalearse hacia atrás miserablemente. Sus ataques se volvieron más rápidos, violentos y crueles.

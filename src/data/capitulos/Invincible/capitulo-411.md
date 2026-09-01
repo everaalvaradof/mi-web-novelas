@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 411: Tomando el Control de la Puerta de Asura"
 numero: 411
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver a Huang Xiaolong caminar hacia ellos, los corazones de los Líderes del Dominio saltaron, el miedo dentro de sus corazones era obvio a través de sus ojos...

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 994: La Pradera de la Muerte"
 numero: 994
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Eso es cierto, con un talento al nivel de Zhu Wanchen, seguramente alcanzará el Reino del Dios Antiguo en el futuro!" Otro Anciano de la Secta Dios Bárbaro asintió con la cabeza con una gran sonrisa en su rostro.

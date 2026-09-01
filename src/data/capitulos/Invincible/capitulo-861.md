@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 861: El avance hacia el reino de los dioses superiores"
 numero: 861
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras todos los discípulos reunidos fuera del valle huían asustados, los tres grupos de luz en el espacio sobre el mar del alma de Huang Xiaolong continuaron agrandando a una velocidad rápida, excediendo un diámetro de veinte li en poco tiempo.

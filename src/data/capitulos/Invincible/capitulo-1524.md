@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1524: Incierto"
 numero: 1524
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Originalmente, Chen Xinde y Cui Wei podrían haberse liberado fácilmente del poder devorador de Huang Xiaolong con su pináculo de las fortalezas del Reino Monarca Celestial, pero para su desesperación, Chen Xinde y Cui Wei descubrieron que la fuerza divina de su divinidad estaba restringida por una fuerza misteriosa.

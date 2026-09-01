@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1806: El espía del palacio del Emperador Dios Maldito"
 numero: 1806
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que Huang Xiaolong, el Rey de la Abuela, Jiang Hong y los demás se fueron, todos finalmente volvieron a llamar la atención. La plaza acogió un silencio sin precedentes.

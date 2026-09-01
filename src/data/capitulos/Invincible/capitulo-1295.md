@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1295: El camino de Yellow Springs"
 numero: 1295
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las dos serpientes altísimas miraron con miedo a Xu Baisheng. En una fracción de segundo, ambos se volvieron para huir, pero Xu Baisheng los capturó y los arrojó a los pies de Huang Xiaolong, con un gesto de agarrar y lanzar con la mano.

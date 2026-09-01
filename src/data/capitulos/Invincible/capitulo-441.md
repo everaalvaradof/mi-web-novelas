@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 441: Mira Las Estrellas"
 numero: 441
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong, Shi Xiaofei y sus dos sirvientas regresaron a la sede de la Puerta de Asura, viajando durante el día, descansando y cultivando por la noche. Inevitablemente, Huang Xiaolong expuso sus excelentes habilidades para asar carne ante las tres mujeres y, sin excepción, las tres quedaron enganchadas.

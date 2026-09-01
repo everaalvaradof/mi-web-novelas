@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 495: La Técnica de Licuación del Veneno del Diablo Verde ¡Técnica de licuación del veneno nefasto del Diablo Verde!"
 numero: 495
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Es la técnica de licuefacción del veneno nefasto del Diablo Verde!" "¡El Patriarca Diablo Verde realmente logró cultivar esta técnica!"

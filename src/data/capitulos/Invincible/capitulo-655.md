@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 655: Hermana"
 numero: 655
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El supervisor de la tienda quedó aturdido por un minuto ante las palabras de Huang Xiaolong, luego giró lentamente el cuello, mirando a los trabajadores de la tienda a su cargo.

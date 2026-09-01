@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 566: Líder de los Diez Grandes de los Discípulos Internos."
 numero: 566
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong no pasó exactamente sus días como un ermitaño en reclusión, se tomó un tiempo para comprender el entorno de los discípulos internos en los últimos días. Estaba al tanto de esas personas principales entre los discípulos internos.

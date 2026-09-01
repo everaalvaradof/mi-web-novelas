@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1302: Partiendo hacia la Gran Ceremonia del Dios del Mar"
 numero: 1302
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong entró en el salón del Santuario de la Asamblea, todas las miradas se posaron en él.

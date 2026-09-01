@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 836: Premios Asombrosos"
 numero: 836
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong no fue el único sorprendido por esto, incluso Liu Yun, Cheng Yang y Qi Wen también lo estaban. Esta fue la primera vez que se enteraron de esta noticia.

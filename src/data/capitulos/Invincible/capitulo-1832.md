@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1832: La decisión final"
 numero: 1832
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando los grandes ancianos y ancianos vieron cómo su Jefe se arrodilló ante Huang Xiaolong, se sintieron conmocionados. Especialmente el gran anciano, que había ordenado echar a Huang Xiaolong, estaba más conmocionado. Era como si toda la sangre hubiera drenado de su cuerpo.

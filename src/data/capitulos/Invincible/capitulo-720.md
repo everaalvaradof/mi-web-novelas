@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 720: Maestro del Reino Highgod"
 numero: 720
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡¡Un Loto Negro de más de dos millones de años !!" Una luz febril brilló en los ojos de Huang Xiaolong.

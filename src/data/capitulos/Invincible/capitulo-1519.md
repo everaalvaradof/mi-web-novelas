@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1519: El Emperador Grandmist"
 numero: 1519
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿No puedes escapar?" Huang Xiaolong se dio la vuelta y miró fríamente al capitán de guardia del Clan He.

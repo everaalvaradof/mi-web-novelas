@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1259: El Enigmático Cardo Yang"
 numero: 1259
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los ojos de Huang Xiaolong se iluminaron cuando exclamó sorprendido: "¡¿Este elefante divino petrificado puede resucitar sin la sangre del Rey de los Diez Mil Elefantes?" Su sangre se precipitó y su rostro estaba ligeramente rojo debido a la emoción.

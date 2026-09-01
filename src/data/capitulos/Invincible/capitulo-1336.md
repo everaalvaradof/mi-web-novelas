@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1336: Fruta Mágica de Agua"
 numero: 1336
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Ir!" Huang Xiaolong instó a la pequeña vaca y ella fue la primera en saltar en el aire y volar hacia el agujero negro en el lado este de la pared de la cueva. La bestia diabólica del vacío Xu Baisheng los siguió rápidamente. Fue seguido por el grupo de Grandes Ancianos de la Secta Ondas de Arena, mientras que Feng Er, Gui Yi y Gui Er entraron en último lugar.

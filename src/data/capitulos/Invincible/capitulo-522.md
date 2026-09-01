@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 522: Dejando el Mundo de los Espíritus Marciales"
 numero: 522
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El Emperador Dragón Ao Taiyi no compartió el nombre de la persona que ocupó el primer lugar ese año y Huang Xiaolong decidió no continuar con el tema.

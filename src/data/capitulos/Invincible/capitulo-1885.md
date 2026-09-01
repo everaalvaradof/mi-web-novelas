@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1885: ¿Es Cang Mutian realmente fuerte?"
 numero: 1885
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Tan pronto como la voz de Chiyou salió de sus labios, el brazo masivo apareció sobre sus cabezas.

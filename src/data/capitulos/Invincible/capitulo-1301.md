@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1301: ¿No es un partido contra Guo Jun?"
 numero: 1301
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Por lo tanto, Huang Xiaolong relató brevemente los aspectos más destacados de su viaje al Clear Spirit World de los últimos años; por ejemplo, encontrar la fruta del demonio de metal de siete colores en la montaña de la prisión del diablo y las rocas cristalinas Eidolon.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1629: ¿Fue por los resultados de mi prueba?"
 numero: 1629
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Así es, Jiao Qingshan no toma en serio a nuestra familia Gu! ¡Gu Cheng fue uno de los Grandes Ancianos de nuestra familia! ¡¿Cómo puede Jiao Qingshan matarlo como le plazca ?!" Otro de los Grandes Ancianos, Gu Haoyu, dijo furioso.

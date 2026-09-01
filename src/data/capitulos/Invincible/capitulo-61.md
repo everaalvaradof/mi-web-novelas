@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 61: ¿Erradicar la Mansión del Mariscal?"
 numero: 61
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El ruido de las voces discutiendo fuera de la tienda se hizo más fuerte y Li Cheng ya no pudo ignorarlo: finalmente se puso de pie y dijo: "Xiaolong, mayor Fei Hou, por favor siéntese un momento mientras salgo y manejo el asunto".

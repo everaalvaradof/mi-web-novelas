@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1201: Éxito de la ruptura"
 numero: 1201
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aparecieron grietas y fisuras en el suelo que rodeaba el Palacio del Charco de Sangre Espiritual.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 137: El Pabellón de las Nubes Limpias entra a matar"
 numero: 137
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Nine Tripod Commerce.

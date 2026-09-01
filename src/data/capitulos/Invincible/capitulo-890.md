@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 890: ¿No se te pone la cara roja al decir mentiras como esta?"
 numero: 890
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando el deprimente silencio del salón hizo que respirar se sintiera como un trabajo arduo, un discípulo de la Mansión del Clan Huang corrió hacia el salón, informando con entusiasmo: "¡Jefe del Clan, Madame, el Joven Maestro Mayor ha vuelto!"

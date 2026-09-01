@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 316: Fénix Blanco"
 numero: 316
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver las innumerables sombras de alabardas que caían como meteoros, el miedo inundó los ojos de Li Li. Ambas manos golpearon la Mano del Dragón Breaking una tras otra sin cesar.

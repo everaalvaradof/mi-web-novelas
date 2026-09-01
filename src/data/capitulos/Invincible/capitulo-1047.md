@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1047: Fin del entrenamiento"
 numero: 1047
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Finalmente se había abierto paso!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 272: ¡Aniquila la Secta de los Magos del Cielo!"
 numero: 272
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡¿Qué dijiste?!" Hu Han rugió de ira; con un parpadeo rápido, su silueta dejó el estrado del trono, apareciendo justo frente al discípulo de la Secta Nueve Demonios. Ambas manos se estiraron y levantaron al discípulo por el cuello mientras una horrible intención asesina se arremolinaba desde el cuerpo de Hu Han como un huracán.

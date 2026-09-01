@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1352: Al Reino de los Diez Mil Elefantes"
 numero: 1352
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El antepasado de la Vast Cloud Sect, Li Qingwei, negó con la cabeza cuando dijo: “¡No es tan fácil abrirse paso hacia el Reino Rey Dios! He estado atrapado en el pico del Reino de Dios Ancestro de la Décima Orden durante más de diez mil años, pero todavía no he podido entrar en ese

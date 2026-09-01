@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 462: Corriendo hacia la Tribu de los Leones"
 numero: 462
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Inmediatamente, Huang Xiaolong aceleró en una dirección, rastreando el aroma del dragón. Poco tiempo después, llegó al fondo de un acantilado.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1583: Avanzando hacia el Palacio del Emperador Grandmist"
 numero: 1583
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡¿Qué?!"

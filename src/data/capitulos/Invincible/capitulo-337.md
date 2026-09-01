@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 337: De regreso a la ciudad imperial de Duanren"
 numero: 337
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de la batalla, Huang Xiaolong y Lu Kai ya no estaban de humor para hablar de los viejos tiempos. Mirando las tiendas y calles en ruinas debido a su batalla con Ao Baixue, especialmente el Restaurante Delicious destruido, Huang Xiaolong agitó sus manos y una lluvia de monedas de oro cayó justo frente al jefe del Restaurante Delicious.

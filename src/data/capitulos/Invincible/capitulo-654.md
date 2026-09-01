@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 654: No se puede permitir"
 numero: 654
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Vamos, vamos a la calle Peace Spring!" Caminando por las animadas calles de la Ciudad del Guerrero Negro, Huang Min sugirió de muy buen humor.

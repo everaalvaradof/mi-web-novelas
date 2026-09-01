@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 75: Pagoda"
 numero: 75
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En un abrir y cerrar de ojos, los dragones gemelos habían perforado más de diez metros en el suelo. Más y más aire caliente salía del subsuelo, y debido a que Huang Xiaolong y los dragones gemelos eran en verdad una entidad, lo que vieron, él también pudo ver lo mismo.

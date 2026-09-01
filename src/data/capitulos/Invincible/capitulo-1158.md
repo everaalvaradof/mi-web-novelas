@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1158: El Joven Señor de la Puerta de la Fortuna"
 numero: 1158
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En ese momento, cuando Ouyang Jiang, Ouyang Xun y otros Grandes Ancianos fueron a la Secta Dios Bárbaro, declarando su intención de comprar la Bestia Emperador del Mar de la Llama Negra, Lu Zhuo se había negado.

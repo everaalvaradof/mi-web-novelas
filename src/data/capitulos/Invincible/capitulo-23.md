@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 23: Haciendo una Exhibicion de uno mismo."
 numero: 23
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se dio la vuelta para mirar a Huang Wei y luego dijo en un tono frío: "¡Si no está calificado para sentarse aquí, entonces estás incluso menos calificado que él!"

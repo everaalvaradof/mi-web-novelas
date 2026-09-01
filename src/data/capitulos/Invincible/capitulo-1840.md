@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1840: Entrando en la Ciudad del Diablo Eterno"
 numero: 1840
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Liu Xin y los otros antepasados del Valle de la Bestia del Relámpago son expertos en el Reino emperador de la Novena Orden! Esa bestia los envió volando con una sola palma. ¡¿Qué hay en el mundo es ese poder?! ¡¿Es ese un experto en el Reino emperador de la Décima Orden a mediados o finales ?!"

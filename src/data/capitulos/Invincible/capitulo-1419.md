@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1419: ¿Senior Little Cowie?"
 numero: 1419
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong y la pequeña vaca observaron a Bei Xiaomei con atención. Esta joven con una asignación de diez millones de piedras espirituales de bajo grado ocho seguramente no era una discípula de una familia normal; ¡definitivamente era alguien con un estatus más alto como discípula del Palacio Emperador!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 524: Tres mil físicos únicos"
 numero: 524
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿¡Qué, más de un año !?"

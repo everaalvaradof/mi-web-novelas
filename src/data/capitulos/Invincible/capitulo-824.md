@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 824: Huir"
 numero: 824
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras Huang Xiaolong empujaba frenéticamente su verdadera fuerza de esencia inmortal hacia el piadoso Monte Xumi, la energía budista se precipitó desde la Formación de los Diez Budas. La luz aurea se hizo cada vez más brillante, extendiéndose en el espacio gris y haciendo que los cien espíritus demoníacos qi surgieran violentamente en el aire.

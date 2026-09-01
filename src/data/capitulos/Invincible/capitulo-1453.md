@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1453: Lista de clasificaciones"
 numero: 1453
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Durante estos tres días, el élder Bai y Zhang Dong fueron testigos de que todos los discípulos que se habían cruzado con Huang Xiaolong fueron enviados volando de un solo golpe! ¡Todos se resolvieron con un solo golpe!

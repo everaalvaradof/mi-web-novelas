@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 220: La aniquilación de la mansión Yao"
 numero: 220
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dentro de la cámara secreta, los rostros de los guardias de la Mansión Yao se volvieron pálidos.

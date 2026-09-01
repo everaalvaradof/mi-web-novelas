@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 215: Las salidas de los antepasados de la familia Guo"
 numero: 215
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Ante los ojos redondos y sorprendidos de todos, vieron a Zhao Shu agarrarse al vacío etéreo. En el momento siguiente, Xiao Teng, que estaba cerca de Yao Fei, ¡explotó!

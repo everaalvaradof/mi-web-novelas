@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1499: Una ficha falsa"
 numero: 1499
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong todavía tuvo que reaccionar con entusiasmo al ser llamado 'Tío', cuando Bei Xiaomei ya saltó de su asiento para abrazar a Huang Xiaolong.

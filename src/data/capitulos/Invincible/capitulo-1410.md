@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1410: Quinta Orden del Reino de los Dioses Ancestrales"
 numero: 1410
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La determinación brilló en las profundidades de los ojos de Huang Xiaolong, “Si no podemos destruir los cuatro Palacios Emperadores en diez mil años, entonces lo haremos en cien mil años. Si cien mil años no son suficientes, ¡entonces un millón de años! "

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 185: Refinamiento de un Experto Xianciano"
 numero: 185
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Manipulación espacial!

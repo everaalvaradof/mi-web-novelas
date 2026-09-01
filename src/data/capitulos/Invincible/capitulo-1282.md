@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1282: Ghost Manor Lord"
 numero: 1282
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong estaba tan indiferente como siempre. Ni siquiera miró a Xiao Zhangyu.

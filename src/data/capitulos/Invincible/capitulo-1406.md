@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1406: Es Discípulo de mi Clan"
 numero: 1406
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Ocho... ¡Piedras espirituales de bajo grado ocho!" Xiang Xun y la bestia diablo del vacío Xu Baisheng exclamaron mientras miraban la pila de varios miles de piedras espirituales de bajo grado ocho, y sus globos oculares casi se salieron de sus órbitas.

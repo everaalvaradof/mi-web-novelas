@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1892: Te enviaré a los primeros"
 numero: 1892
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al día siguiente, Gao Changran, Wang Fanning y los demás enviaron a Huang Xiaolong respetuosamente. Huang Xiaolong trajo a Lu Xiaoqing con él mientras se dirigía a los terrenos de registro.

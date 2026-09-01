@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1516: Ciudad Pitón Demoníaca"
 numero: 1516
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Vamos a la ciudad humana!" Huang Xiaolong decidió sin pensarlo mucho. Huang Xiaolong empujó a la pequeña vaca con sus rodillas para que volara hacia la ciudad humana.

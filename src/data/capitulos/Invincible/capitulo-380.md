@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 380: ¡Sé quién es!"
 numero: 380
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Shi Xiaofei estaba asombrado de que Chen Chen se atacara a sí mismo, además, usando la habilidad de batalla de rango celestial de alto grado que lo hizo famoso en el primer ataque. Ni siquiera ella podría enfrentar el ataque de frente con su fuerza actual.

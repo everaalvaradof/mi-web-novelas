@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 452: ¿Y si no lo hago?"
 numero: 452
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar la 'orden', Huang Xiaolong miró al hombre bestia Anton con interés, "¿Y si no lo hago?"

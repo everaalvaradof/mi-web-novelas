@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 485: Capturado para el placer del Maestro del Templo"
 numero: 485
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong condujo a Ao Kun y al grupo de expertos del Templo de los Nueve Dragones a volar de la Ciudad de los Nueve Dragones a lo grande. Su destino: el Templo del León Violento.

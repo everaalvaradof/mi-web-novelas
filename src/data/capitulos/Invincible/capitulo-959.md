@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 959: El Tesoro de la Secta Refinadora de Fantasmas"
 numero: 959
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se regocijó con la noticia, ¡el hecho de que el actual Maestro de la Secta de Refinación de Fantasmas no estuviera en este momento fue una sorpresa inesperada para él!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1450: Rankings de la Competición"
 numero: 1450
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Fruta divina de la fortuna!

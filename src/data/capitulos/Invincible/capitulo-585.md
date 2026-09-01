@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 585: Torneo de Avance de Highgod"
 numero: 585
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Instituto Dragón Azure!

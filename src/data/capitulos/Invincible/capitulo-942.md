@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 942: Entrando en el Templo Sagrado de Dan"
 numero: 942
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Repitelo! ¡¿Huang Xiaolong no ha salido del río Dan a pesar de que ha pasado medio año ?! "

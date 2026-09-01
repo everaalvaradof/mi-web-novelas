@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1426: La Herencia del Señor del Infierno"
 numero: 1426
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Sí, este es el Jade del Rey del Inframundo del Señor del Infierno!" Dijo la vaca con absoluta certeza.

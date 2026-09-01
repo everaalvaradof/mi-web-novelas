@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 701: Él... parece ser ese Huang Xiaolong?"
 numero: 701
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aunque el estado de ánimo del guardia del Reino de Dios de Cuarta Orden se agrió con la orden, no se atrevió a desobedecer. Alejando con brusquedad a la mujer en su abrazo, el guardia se puso de pie y reconoció respetuosamente la orden de Ying Fei. Al llegar a la entrada del salón principal, el guardia voló por los aires.

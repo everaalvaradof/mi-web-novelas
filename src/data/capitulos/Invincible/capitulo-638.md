@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 638: ¿Cómo debo dirigirme a ti?"
 numero: 638
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Todos los subordinados de Zhang Han se estremecieron interiormente después de escuchar su malvado plan. Al imaginar esa escena horrible, no podían dejar de tragarse la saliva nerviosamente, estremeciéndose.

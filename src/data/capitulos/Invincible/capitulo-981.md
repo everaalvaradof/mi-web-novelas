@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 981: Isla Nube Verde"
 numero: 981
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿De otra isla?" Huang Xiaolong fue sorprendido un poco con la guardia baja, pero asintió rápidamente con la cabeza, "Sí".

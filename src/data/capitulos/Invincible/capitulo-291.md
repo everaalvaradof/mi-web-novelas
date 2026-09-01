@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 291: Hierba de alma de vida"
 numero: 291
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los ojos de Huang Xiaolong y Yao Fei se encontraron brevemente y luego ambos miraron hacia otro lado.

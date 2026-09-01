@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 830: La Morada del Dios Celestial"
 numero: 830
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El grupo de cuatro del Rey de las Bestias del Cielo Piercing voló alrededor, buscando en el área del pico de la montaña, llegando a un lago después de dos días. Huang Xiaolong los seguía cuidadosamente para no ser detectado.

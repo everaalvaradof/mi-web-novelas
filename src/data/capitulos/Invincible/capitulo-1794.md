@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1794: ¿Están condenados a perder?"
 numero: 1794
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong vio los fantasmas formándose alrededor del cuerpo de Di Jing, sintió un rastro de conmoción en su corazón. ¡Nunca hubiera esperado que Di Jing hubiera tenido éxito en cultivar la técnica!

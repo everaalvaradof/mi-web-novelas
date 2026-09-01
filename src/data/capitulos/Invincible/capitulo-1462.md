@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1462: Las preocupaciones de Zhu Feng"
 numero: 1462
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Zhu Feng, ¿cuál es el significado de esto?" Xu Baisheng exigió con frialdad.

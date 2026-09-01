@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 448: Magus"
 numero: 448
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Muy rápidamente, Huang Xiaolong entró en el límite del Bosque de los Elfos. Recorrió el bosque con cautela a pesar de tener confianza en su fuerza, ya que la raza elfa era extremadamente hostil hacia los humanos, los hombres bestia e incluso las bestias demoníacas. Había rumores que decían que cualquier raza humana que entrara en el Bosque de los Elfos sería asediada por los elfos.

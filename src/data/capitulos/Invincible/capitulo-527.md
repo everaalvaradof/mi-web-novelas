@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 527: Cambio de moneda"
 numero: 527
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Diez mil veces!

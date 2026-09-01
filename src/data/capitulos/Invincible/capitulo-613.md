@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 613: Sal de la arena del dragón en ascenso"
 numero: 613
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Audaz! ¡Insolente! ¡Realmente atrévete a codiciar la bóveda del tesoro de nuestro Instituto del Dragón Azure! "

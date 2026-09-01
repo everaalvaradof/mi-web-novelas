@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1407: Saludos al Señor Enviado"
 numero: 1407
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong estaba genuinamente sorprendido por la repentina exclamación de Xu Baisheng. ¿En realidad se habían topado con un discípulo del Clan de las Bestias Diabólicas del Vacío allí, en medio de la nada?

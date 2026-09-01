@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1489: La Verdadera Fuerza de Wang Yongsen"
 numero: 1489
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Todos en el pasillo no pudieron reaccionar por un tiempo al escuchar la afirmación de Wang Yongsen de que aún no había mostrado su verdadera fuerza.

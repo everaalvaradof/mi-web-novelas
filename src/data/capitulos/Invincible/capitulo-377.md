@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 377: Templo del Bendito Buda"
 numero: 377
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Por tu hermano menor Chen Dingyuan?" Huang Xiaolong se burló.

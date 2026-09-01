@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1506: El avance hacia el Reino del Rey Dios"
 numero: 1506
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong miró a la pequeña vaca y preguntó: "¿No tienes solución?"

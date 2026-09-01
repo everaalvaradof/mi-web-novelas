@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1740: Tres Tipos de Líneas de Sangre de Archidemonio Despertadas"
 numero: 1740
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se sentó con las piernas cruzadas en el aire, diez metros por encima de la Piscina de Sangre del Dios Demonio, y luego sacó los dos ríos de aura grandmista.

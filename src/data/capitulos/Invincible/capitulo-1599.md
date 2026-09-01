@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1599: Llegando a las Tierras del Grandmist"
 numero: 1599
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Cuál es la fuerza del Hijo celestial?" La pequeña vaca fue la primera en preguntar.

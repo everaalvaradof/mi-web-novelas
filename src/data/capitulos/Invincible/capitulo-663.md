@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 663: Contribución"
 numero: 663
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pasaron otros tres días en paz.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1427: Refinando la Pasta de Buda"
 numero: 1427
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong salió de su habitación e inclinó la cabeza hacia arriba. Levantó los brazos y se estiró perezosamente, disfrutando del radiante sol. De su cuerpo salían ruidos sordos de estallidos y crujidos.

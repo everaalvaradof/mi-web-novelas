@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 327: Regreso al Imperio Duanren"
 numero: 327
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong sintió una sensación de alivio cuando salió de la Ciudad Fantasma. Su fuerza actual era suficiente para lidiar con Zhao Chen, pero todavía era bastante problemático si se encontraban por ahora.

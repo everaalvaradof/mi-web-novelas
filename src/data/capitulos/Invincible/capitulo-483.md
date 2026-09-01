@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 483: Aniquilará a todas las tribus de hombres bestia"
 numero: 483
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras Ao Kun y sus hermanos todavía estaban inmersos en su conmoción, el alma transformada de Huang Xiaolong desapareció de la vista. En un parpadeo, llegó al lado de Ao Kun mientras sujetaba el Gran Sable Dragón en sus manos y cortó.

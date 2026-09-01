@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1662: Capturarlo"
 numero: 1662
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que Tai Yue y los tres se convirtieron en gigantes, el aura que emitieron aumentó varias veces.

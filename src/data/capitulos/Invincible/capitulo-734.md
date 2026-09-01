@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 734: Rey Bestia de los Cien Espíritus"
 numero: 734
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Correcto, no soy Cheng Huai'an". Huang Xiaolong admitió con indiferencia. No era necesario ocultarlo en este momento.

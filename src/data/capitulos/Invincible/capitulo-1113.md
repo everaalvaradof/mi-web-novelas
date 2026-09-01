@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1113: Una Nueva Ola de Ataque de la Marea Bestia"
 numero: 1113
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Otros expertos sonreían y vitoreaban mientras veían a las bestias marinas retirarse, sintiendo como si les hubieran quitado una carga del pecho.

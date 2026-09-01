@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 108: ¿Qué, te atreves a hacerme algo?"
 numero: 108
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Ese guardia dudó un momento antes de informar con sinceridad: "¡Yang Zhanfei lo golpeó!" "¡Yang Zhanfei!"

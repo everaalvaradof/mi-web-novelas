@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 899: Acosando a Yelu Chufei"
 numero: 899
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mansión del clan Huang.

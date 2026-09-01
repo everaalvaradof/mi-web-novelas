@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1405: Cuarto Orden Reino de los Dioses Ancestrales"
 numero: 1405
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las cejas de Longwu Ling Er se arrugaron levemente ante las palabras de Gudu Man. No iba a confiar en las palabras de Song Rui como Gudu Man, y asumir que Huang Xiaolong realmente se había vuelto loco para atacar indiscriminadamente a la gente de la Ciudad del Dragón Marcial.

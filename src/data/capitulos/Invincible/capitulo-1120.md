@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1120: Bestia Divina Devoradora de Nubes"
 numero: 1120
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Reprimiendo el impulso de golpear a alguien, Huang Xiaolong dijo: "¿Qué pasa si tengo a Bing Jiuyi, Xie Tu y Xie Du para que te ayuden?"

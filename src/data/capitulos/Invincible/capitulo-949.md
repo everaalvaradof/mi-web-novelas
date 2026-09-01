@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 949: He Sostenido Su Mano"
 numero: 949
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 '¿El Ancestro de Fortune Gate quiere recibir diez discípulos de nombre?' Huang Xiaolong se quedó en blanco, realmente no sabía sobre esto hasta ahora.

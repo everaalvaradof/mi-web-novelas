@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1553: ¿El Maestro ha triunfado?"
 numero: 1553
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En guardia en la distancia, Xiang Xun, Feng Er, Gui Yi, Gui Er y los demás se preocuparon al ver el rostro de Huang Xiaolong distorsionado por el dolor.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1422: Un artículo de la era de las abuelas"
 numero: 1422
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Todos quedaron atónitos por un segundo. Aparte de Huang Xiaolong, ¡todavía había alguien tan falto de tacto como para competir contra Wang Tong!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 555: Un lugar entre los cinco primeros ya no es malo"
 numero: 555
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al mirar la expresión de confianza de Huang Xiaolong, Liu Yun agregó una idea tardía: "Después de avanzar a mediados del Reino de Dios de la Segunda Orden, el Físico Vajra Indestructible de Wang Biaoyuan es al menos diez veces más fuerte que hace tres años".

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 785: Ascendiendo al Mundo Divino"
 numero: 785
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Ver a Huang Xiaolong mirarla tontamente inexplicablemente dio a luz a un extraño sentimiento en el corazón de Santa Madre Yao Chi.

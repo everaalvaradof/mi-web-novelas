@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1531: ¡¿Eres tú?!"
 numero: 1531
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sin previo aviso, Chen Kaiwen le disparó una garra a Huang Xiaolong. Junto con su golpe, el demonio qi aparentemente interminable salió corriendo de su cuerpo y se tragó a todos a su paso.

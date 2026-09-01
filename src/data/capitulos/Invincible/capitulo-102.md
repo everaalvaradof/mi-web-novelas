@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 102: El Reino Yuwai"
 numero: 102
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Finalmente, se había abierto paso hacia la Novena Orden!

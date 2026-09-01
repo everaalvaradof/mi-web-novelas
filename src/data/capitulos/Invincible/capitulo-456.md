@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 456: No calificado"
 numero: 456
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 De hecho, lo que Huang Xiaolong no sabía era que el Cetro del Dios Bestia contenía una pizca del aura del Dios Bestia, además, ese año cuando el Dios Bestia forjó el Cetro del Dios Bestia, incluyó muchos linajes de bestias antiguas dentro, el tipo La naturaleza opresiva que esto tuvo en las almas de los hombres bestia fue tan grande que ningún hombre bestia pudo reunir ninguna voluntad para resistir frente al cetro.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 119: ¡Mátalos a todos!"
 numero: 119
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Tres Ancianos del Valle de los Nueve Fénix llegaron a la escena, sus rostros estaban distorsionados por la ira al ver los cuerpos sin vida de sus discípulos del valle esparcidos por el suelo.

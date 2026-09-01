@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 277: Yermo Sanguino Salvaje"
 numero: 277
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dos días después, Huang Xiaolong partió solo hacia la Ciudad de la Miriada de Dioses. Dejó a Jiang Tianhua, Chen Xiaotian y Su Meimei atrás para defender Black Demon City, en caso de que surgieran las circunstancias.

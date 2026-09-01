@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1255: Refinando el Cristal de Fuego Fénix"
 numero: 1255
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Si la mitad inferior de la Estela del Diablo del Ojo Sangriento estaba en la misma tierra del diablo donde se encontró la mitad superior, solo se pudo determinar después de que Huang Xiaolong refinara la mitad superior de la estela al atravesar el Reino de Dios Ancestro.

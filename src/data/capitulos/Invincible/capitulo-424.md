@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 424: Familia Qin"
 numero: 424
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Peng Zhuang también pensó que Huang Xiaolong no actuaría imprudentemente en Treasure City, pero aún así, por precaución, sacó el deslizamiento de jade de transmisión e informó del asunto a la sede del Cosmos God Cult, solicitando refuerzos expertos junto con el mensaje.

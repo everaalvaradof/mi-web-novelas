@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 683: Ancestro Mountaingoat"
 numero: 683
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dentro de una mansión en la esquina norte de Royal Pill City, Xiang Mingzhi se veía malhumorado. La noticia de que Huang Xiaolong tomó la evaluación de Alquimista se había extendido, por lo que no era extraño que Xiang Mingzhi también se enterara.

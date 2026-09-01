@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 259: Tomando el control de la Secta Magi del Cielo"
 numero: 259
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Espíritu marcial del Dragón Azul!" Al ver cómo un dragón azul se materializaba detrás de Huang Xiaolong, Chen Xiaotian estaba asombrado.

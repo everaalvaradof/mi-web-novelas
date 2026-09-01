@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1803: ¡Estimado Senior, Rey de Grandmist, ha dejado la reclusión!"
 numero: 1803
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong golpeó a Di Jing hasta el punto de la muerte justo ante los ojos de todos.

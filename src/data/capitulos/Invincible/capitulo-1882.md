@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1882: ¡Entregar a Huang Xiaolong!"
 numero: 1882
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Bajo la ofensiva de Chiyou, la barrera de la luz tembló por un momento antes de regresar a su estado anterior.

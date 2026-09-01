@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 952: Pan Zhen"
 numero: 952
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 No mucho después de que la discípula de Fortune Gate se fuera, entró un joven vestido con una túnica azul claro con un aire más santo que tú.

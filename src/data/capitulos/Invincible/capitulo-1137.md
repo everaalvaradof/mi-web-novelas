@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1137: El mundo del diablo"
 numero: 1137
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 “¿Padre quiere verme? ¿Sabes de qué se trata? Preguntó Hun Dishan.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1386: Refinando la Estela del Diablo del Ojo de Sangre"
 numero: 1386
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong miró a la esbelta figura que estaba frente a él, y una sensación cálida llenó su corazón.

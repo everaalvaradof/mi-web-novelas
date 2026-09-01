@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 253: La duda de Geng Ken"
 numero: 253
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong abrió el Ojo del Infierno y examinó los alrededores de la mansión. En el segundo siguiente, un destello agudo parpadeó dentro del Ojo del Infierno y dos rayos rojos de luz atravesaron el cielo. Algunas aves que volaban en el aire cayeron en picado al suelo con un sonido de 'puchi' proveniente de sus cuerpos. Después de unos momentos de lucha inútil, su vitalidad desapareció.

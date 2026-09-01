@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 702: Por el Mundo del Emperador de la Paz"
 numero: 702
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Ying Lu y los otros maestros de la familia Ying observaron con pavor cómo Huang Xiaolong destrozó cada hueso del cuerpo de Ying Fei con una bofetada. El rostro de Ying Fei estaba varios tonos más pálido, gritando de agonía. Se podían escuchar súplicas incoherentes de piedad entre sus gritos, suplicando a Huang Xiaolong que lo perdonara.

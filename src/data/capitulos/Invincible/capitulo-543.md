@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 543: ¿Sobre treinta años?"
 numero: 543
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al detectar la provocación en la mirada de Huang Xiaolong, una expresión desagradable ensombreció a Jiang Shaoze, Xu Shaoqing, Zhu Haixiang y los rostros de otros genios importantes, pero nadie se atrevió a dar un paso en contra, incluido Gudu Leng.

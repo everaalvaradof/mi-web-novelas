@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 579: Tesoro"
 numero: 579
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando todos pensaron que Jiang Bi desataría su ira contra Huang Xiaolong, tomando represalias con ferocidad, en su lugar habló con calma: “Huang Xiaolong, admito que te subestimé antes. ¡Cinco años después será la evaluación de los discípulos internos, en ese momento, lucharé contra ti en el escenario de Hidden Dragon Arena y te derrotaré frente al Director del Instituto, los Grandes Ancianos y los Ancianos! "

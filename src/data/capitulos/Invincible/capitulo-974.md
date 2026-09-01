@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 974: Regreso a la Ciudad de Refinación Fantasma"
 numero: 974
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong sintió que era divertido que el Maestro de la Secta de Refinación de Fantasmas usara tal excusa para 'chantajearlo' para que le perdonara la vida.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 795: Reclutamiento de Maestros del Reino de los Altos Dioses"
 numero: 795
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El banquete duró un día entero.

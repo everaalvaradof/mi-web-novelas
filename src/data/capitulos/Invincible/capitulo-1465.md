@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1465: Por encima del Reino del Rey Dios"
 numero: 1465
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La mente de Han Tongfei se estremeció por una cadena de truenos.

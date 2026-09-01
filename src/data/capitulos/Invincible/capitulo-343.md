@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 343: Ven a mí, en cualquier momento."
 numero: 343
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cada espectador tenía sus propios pensamientos al ver cómo la palma de Huo Ping apuntaba con precisión a Huang Xiaolong. Por supuesto, la mayoría tenía los mismos pensamientos que el hombre de mediana edad con barba peluda, pensando que Huang Xiaolong se sobreestimó enormemente a sí mismo.

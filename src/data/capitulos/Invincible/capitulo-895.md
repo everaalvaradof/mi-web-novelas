@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 895: Terminando el Contrato de Sangre"
 numero: 895
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los párpados de Huang Xiaolong temblaron ligeramente, luego sus ojos se abrieron. Al mismo tiempo, hundió una hebra de sentido divino en su cuerpo e inmediatamente descubrió que su cuerpo físico estaba templado una vez más por la fuerza divina celestial, mejorando su dureza y poder explosivo.

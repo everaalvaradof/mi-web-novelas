@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1101: La Tribu de los Gigantes"
 numero: 1101
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Este brazo parecido a un mono también se estrelló contra Cao Weiran en el instante en que apareció.

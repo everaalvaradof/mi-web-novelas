@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 736: Un Cuerpo de Bestia Demoníaca de Cien Espíritus Zhang"
 numero: 736
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En el instante en que el cuerpo de la bestia demoníaca de cien zhang se condensó en un cuerpo real, una palma gigante ya estaba golpeando a Huang Xiaolong.

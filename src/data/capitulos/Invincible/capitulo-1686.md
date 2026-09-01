@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1686: Nunca antes en la historia"
 numero: 1686
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong estaba naturalmente feliz de sentir la mejora en su fuerza. A este ritmo, cuando sube al duodécimo piso, ¿cuánto mejoraría su fuerza?

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1315: Huang Xiaolong realmente dijo que es relajante"
 numero: 1315
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En el escenario, Guo Jun miraba su propio puño con una expresión de incredulidad mientras se preguntaba: '¿Es este realmente mi puño? No de otra persona, ¿verdad? A pesar de que le di un puñetazo a Huang Xiaolong, en realidad dijo que era bastante relajante, a pesar de ser un mero pico del Reino de Dios Antiguo de finales del Séptimo Orden. ¿Cómo es eso posible?'

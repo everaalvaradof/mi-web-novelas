@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 489: Reunión en la Ciudad de los Nueve Dragones"
 numero: 489
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Medio día después, Huang Xiaolong y el Mono Devorador del Espíritu Violeta dejaron Mystic Elephant Peak, rumbo al Templo de la Deidad Mono.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1464: No es sólo superado"
 numero: 1464
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pero el aire asesino de Han Liang se congeló. Se volvió rígidamente hacia su distorsionado nieto Han Tongfei y le preguntó: "¿Cómo lo llamaste hace un momento?"

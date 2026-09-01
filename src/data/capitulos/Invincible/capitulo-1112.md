@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1112: ¿Dónde está el Anciano Li Qingyang?"
 numero: 1112
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver la punta de la Espada del Dragón Venenoso del anciano Li Qingyang dirigiéndose directamente hacia su garganta, el impulso de Huang Xiaolong explotó en un instante.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1097: Nueve Dragones en su lugar"
 numero: 1097
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras Song Chengli, Liu Zhui y Li Yangmin todavía estaban en estado de shock por la velocidad que 'Tang Hong' despertó el alma del dragón blanco, otro estallido de luz brillante apareció sobre el Templo Sagrado del Dragón Dorado cuando apareció la sombra de un dragón de fuego.

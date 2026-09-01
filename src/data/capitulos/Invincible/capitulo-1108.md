@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1108: Reunirse con Yao Chi"
 numero: 1108
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 De hecho, había numerosas islas desiertas en el mundo de Vientiane, algunas con aire muerto flotando sobre ellas. Quizás esas islas solían ser como la actual Isla Nube Verde hace cien mil años, donde la raza humana prosperó y una vez vivieron innumerables familias, sectas y fuerzas de varios tamaños.

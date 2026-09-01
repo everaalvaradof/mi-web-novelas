@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1829: Partiendo Hacia El Mundo Del Diablo"
 numero: 1829
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de obtener algunos conocimientos sobre el Mundo del Diablo y las Tierras del Diablo Eterno del Mundo del Diablo, Huang Xiaolong comenzó a hacer preparativos para su viaje al Mundo del Diablo.

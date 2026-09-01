@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 856: Encontrar a Xiang Mingzhi"
 numero: 856
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Justo cuando Huang Xiaolong entró en el valle, una presión abrumadora de la energía del rayo lo presionó.

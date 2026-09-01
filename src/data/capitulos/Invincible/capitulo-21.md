@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 21: Discípulo de la Puerta de Asura"
 numero: 21
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sacado del patio por Li Lu, Huang Xiaolong frunció el ceño y dijo: "Niña, no me arrastres y me tires así, otros podrían malinterpretar".

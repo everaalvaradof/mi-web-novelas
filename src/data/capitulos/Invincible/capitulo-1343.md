@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1343: Dirigiéndose al Mundo de la Reverencia"
 numero: 1343
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Qué? ¿Todos ustedes no están dispuestos?" Huang Xiaolong levantó una ceja y preguntó con frialdad cuando vio que los Grandes Ancianos de la Secta Ondas de Arena habían dado un paso atrás.

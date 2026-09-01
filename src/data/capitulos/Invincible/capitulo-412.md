@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 412: Gran Intercambio Marcial"
 numero: 412
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El paso del tiempo fluyó rápidamente.

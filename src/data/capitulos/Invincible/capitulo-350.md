@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 350: Me los llevaré todos."
 numero: 350
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Duan Ren se sentó, no pudo resistirse a echar una mirada rápida a Feng Yang detrás de Huang Xiaolong, su gran cuerpo escondido por completo debajo de una gran capa negra con capucha. Los días que habían estado viajando, Feng Yang no pronunció una palabra, pero había una atmósfera sui generis proveniente de Feng Yang que hizo que Duan Ren se sintiera un poco incómodo. Esta atmósfera era algo innato, lo que hizo que Dua Ren se preguntara sobre los antecedentes del guardaespaldas de Huang Xiaolong.

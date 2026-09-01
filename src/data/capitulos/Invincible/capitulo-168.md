@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 168: ¿Puedo sentarme aquí?"
 numero: 168
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Sí, soberano!" Zhao Shu y los otros dos reconocieron las palabras de Huang Xiaolong al unísono.

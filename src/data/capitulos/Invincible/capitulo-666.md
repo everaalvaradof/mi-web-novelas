@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 666: Suplicando Por Una Azotaina"
 numero: 666
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar la repentina exclamación de Li Ming detrás de él, Pan Haicheng tembló notablemente. Aun así, se dio la vuelta rápidamente, mirando en dirección a Huang Xiaolong.

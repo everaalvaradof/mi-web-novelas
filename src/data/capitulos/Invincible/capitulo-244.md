@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 244: ¡Avance de la Sexta Orden de Xiantian!"
 numero: 244
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong dijo que solo partiría hacia Bedlam Lands después de un mes, la cara de Su Yan se veía un poco mejor.

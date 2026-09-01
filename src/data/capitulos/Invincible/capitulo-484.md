@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 484: ¿Sólo Huang Xiaolong?"
 numero: 484
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pero la proclamación de Jesse acababa de salir de su boca cuando el ayudante de Great Thousand Hall entró corriendo presa del pánico, apenas capaz de pronunciar una oración completa mientras exhalaba más aire que inhalando, "Hall, Hall, Líder, yo, yo, acabo de recibir noticias , digamos, diciendo que Huang, Xiaolong, ¡vino a nuestra Ciudad de los Nueve Dragones! "

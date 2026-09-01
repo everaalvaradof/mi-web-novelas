@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 404: ¡Por fin estás aquí!"
 numero: 404
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Deng Tong no estaba lanzando amenazas vacías, porque Peach Blossom Sea no estaba lejos de la sede de la Puerta de Asura.

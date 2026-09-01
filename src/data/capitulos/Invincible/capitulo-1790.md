@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1790: ¿Ha muerto Huang Xiaolong?"
 numero: 1790
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sin embargo, Han Qing se enfureció aún más. Durante los dos partidos siguientes, Huang Xiaolong no se encontró con un oponente del Palacio del Emperador Grandmista.

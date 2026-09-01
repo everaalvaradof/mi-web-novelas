@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1425: El Jade del Rey del Mundo de las Tinieblas"
 numero: 1425
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los rostros de Chen Xiao y los patriarcas de otras familias cambiaron cuando vieron la ficha de plata en la mano de Bei Xiaomi, ya que estaban claramente asombrados.

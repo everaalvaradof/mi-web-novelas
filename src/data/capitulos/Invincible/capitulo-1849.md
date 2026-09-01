@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1849: Rechazo"
 numero: 1849
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong no salió del patio después de reparar la calabaza del diablo. En cambio, levantó la botella de Agua Bendita del Diablo y se tragó una gota.

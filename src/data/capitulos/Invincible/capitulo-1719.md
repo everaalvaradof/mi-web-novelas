@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1719: Frutos Sagrados"
 numero: 1719
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong soltó una risa despreocupada, "Realmente espero que mantenga su persecución..." La batalla en el Avión de la Hormiga Negra había durado dos días y dos noches.

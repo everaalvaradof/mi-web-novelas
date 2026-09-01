@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 928: Corriendo hacia Mo Su"
 numero: 928
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al salir de su mansión por primera vez en semanas, Huang Xiaolong le preguntó a un transeúnte la dirección del mercado de comercio de armas y armaduras y se dirigió allí directamente.

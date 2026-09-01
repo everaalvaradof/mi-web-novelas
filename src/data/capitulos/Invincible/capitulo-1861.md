@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1861: Espoleando a la Legión del Diablo sin Cielo"
 numero: 1861
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Mata a Huang Xiaolong! ¡Si Huang Xiaolong no muere, nuestro Mundo del Diablo enfrentará una catástrofe!"

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 751: Entrando en el Volcán Fénix"
 numero: 751
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En el instante en que la voz de Huang Hongtian cayó, llamas de colores brotaron de su cuerpo, elevándose hacia el cielo.

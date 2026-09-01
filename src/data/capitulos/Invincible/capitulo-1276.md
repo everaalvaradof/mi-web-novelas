@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1276: Séptima Orden del Reino de los Dioses Antiguos"
 numero: 1276
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sin embargo, la vaca le dio una palmada en la cola a la cabeza de la bestia diabólica vacía Xu Baisheng, "¿Por qué no le dijiste al Maestro antes que la Túnica Mágica de Yellow Springs está en las profundidades de la Montaña de la Prisión del Diablo?"

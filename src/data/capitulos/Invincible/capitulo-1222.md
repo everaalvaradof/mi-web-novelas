@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1222: Comprado por la fuerza"
 numero: 1222
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En el instante en que la fuerza divina de Huang Xiaolong se envolvió alrededor de la Concha de la Espiral Celestial Moon Jade, emitió ondas de deslumbrantes luces de color ámbar, especialmente el símbolo de la luna roja en el centro.

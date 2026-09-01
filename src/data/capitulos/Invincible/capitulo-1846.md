@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1846: La Ciudad Eterna del Diablo Tiembla"
 numero: 1846
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Quien habló sobre Chen Weijian no pudo evitar sentirse un poco más solemne.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 507: Emperador Dragón Ao Taiyi"
 numero: 507
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El cuerpo de Huang Xiaolong se sacudió, notando de inmediato que algo no estaba bien.

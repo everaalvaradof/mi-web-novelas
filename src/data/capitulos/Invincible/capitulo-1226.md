@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1226: ¡Le daré a esa vieja bruja unas cuantas puñaladas!"
 numero: 1226
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Golden Brow frunció ligeramente el ceño, "A juzgar por la situación actual, Wang Wei tiene una mayor probabilidad de tener éxito en el puesto de Jefe de la Puerta que Zhu Feng".

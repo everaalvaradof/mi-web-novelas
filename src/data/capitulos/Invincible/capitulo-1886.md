@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1886: Llegando al final"
 numero: 1886
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A pesar de que Huang Xiaolong ya sabía que Cang Mutian poseía una fuerza aterradora, se sorprendió cuando escuchó que Cang Mutian podía atravesar el espacio y crear un túnel directamente al Bosque Maldito.

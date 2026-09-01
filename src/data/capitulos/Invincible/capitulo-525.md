@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 525: Embrión espiritual innato"
 numero: 525
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Originalmente, Huang Xiaolong había pensado que este planeta estaba deshabitado, lo que impulsó su decisión de hacer una parada de descanso aquí, pero en el momento en que sus pies tocaron la tierra, inmediatamente sintió una peculiaridad.

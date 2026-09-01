@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1002: Volviendo a la Secta del Dios Bárbaro"
 numero: 1002
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Debido a la gran diferencia en la fuerza gravitacional entre el Mundo Divino y el reino inferior, en el momento en que los pies de Huang Xiaolong dejaron el suelo en vuelo, su cuerpo se tambaleó fuera de equilibrio, casi cayendo boca abajo.

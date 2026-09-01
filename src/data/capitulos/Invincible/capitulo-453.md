@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 453: Rito de sacrificio del Dios Bestia"
 numero: 453
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong y los hombres bestia habían viajado durante media hora hacia la atmósfera sobrenatural de la arboleda.

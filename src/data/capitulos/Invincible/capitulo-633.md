@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 633: Reunirse con Shi Xiaofei"
 numero: 633
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Incluso Chen Yun estaba en un ataque de fuertes carcajadas. Cuando finalmente se detuvo, estaba mirando a Huang Xiaolong de manera similar a mirar a una persona muerta, y le mostró a Huang Xiaolong una sonrisa comprensiva cuando dijo: "Punk, ahora no solo te romperán las piernas antes de ser arrojado, cada hueso y meridiano". en tu cuerpo también se romperá ".

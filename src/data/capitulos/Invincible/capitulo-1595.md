@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1595: Partiendo a las Tierras de Grandmist"
 numero: 1595
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar a Huang Xiaolong preguntar sobre Feng Er, Xu Baisheng y el resto, Jiang Hong sonrió y respondió: “Tenga la seguridad de que el hermano menor, Feng Er y los demás están

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 782: ¡¿El Reino de los Dioses de la Décima Orden?!"
 numero: 782
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Lu Cong le preguntó a Huang Xiaolong si era más fuerte que el Reino del Dios Alto He Feifan, los discípulos del Instituto del Dragón Azur se echaron a reír. Los discípulos de las otras familias también se reían a carcajadas.

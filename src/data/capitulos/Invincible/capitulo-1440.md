@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1440: El encuentro con Fang Xuanxuan de nuevo"
 numero: 1440
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se sorprendió al escuchar que podría forjar cualquier cosa en un artefacto espacial después de que su cultivo llegara al Reino Emperador; esta habilidad fue, um, un poco desafiante para el cielo.

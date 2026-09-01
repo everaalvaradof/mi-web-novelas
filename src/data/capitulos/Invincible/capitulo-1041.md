@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1041: ¿Poder de batalla comparable a una orden media?"
 numero: 1041
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La alegría brilló en los ojos de Huang Xiaolong; ¡De hecho, había Crimson Flame Beads! Además,

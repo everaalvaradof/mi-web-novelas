@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 814: Beitang Zi"
 numero: 814
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Zhu Heng se detuvo frente a Huang Xiaolong con una expresión glacial, “¿Eres Huang Xiaolong? La última vez, aprovechaste mi ausencia e hiciste una apuesta con Zhu Chu. Le tendiste una emboscada cuando estaba distraído, por lo que ganaste la apuesta ".

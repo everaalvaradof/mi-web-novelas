@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 978: Llegando al Mundo Divino"
 numero: 978
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dado que la noticia de la inminente ascensión de Huang Xiaolong no se ocultó deliberadamente, había alcanzado las fuerzas en varias galaxias en un corto período de tiempo.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 359: Palacio del Dragón"
 numero: 359
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong miró con amor las mil piezas de Cristal de sangre de dragón en los cuatro pilares de cristal, estaba eufórico, ¡este viaje realmente no fue en vano!

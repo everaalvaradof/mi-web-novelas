@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 776: Jiang Hanzhi"
 numero: 776
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras Huang Xiaolong observaba a la gente de las familias Jiang y Gudu volar más lejos, la frialdad en la profundidad de sus ojos aumentó.

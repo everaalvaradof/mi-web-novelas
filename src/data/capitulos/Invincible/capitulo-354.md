@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 354: El tesoro celestial resurge en el mundo"
 numero: 354
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Li Molin recuperó la mirada del cuerpo de Yao Fei, sus ojos fríos se volvieron hacia Huang Xiaolong, escupiendo cada palabra claramente, "¡¡Huang, Xiao, Long !!" Una monstruosa intención asesina se elevó hacia el cielo, una ola de energía aterradora giró alrededor de Li Molin, formando una violenta tempestad.

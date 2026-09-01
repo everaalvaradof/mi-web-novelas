@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1869: La maldición del alma azul"
 numero: 1869
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Ninguno de los expertos de la Raza del León Azul de ojos diabólicos hizo un movimiento. Claramente, a sus ojos, Huang Xiaolong estaba buscando la muerte. ¿Un mero Monarca Celestial de la Novena Orden quiere luchar con un Reino Emperador de la Primera Orden a mediados?

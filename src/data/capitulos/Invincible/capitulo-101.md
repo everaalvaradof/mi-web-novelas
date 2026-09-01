@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 101: Avance"
 numero: 101
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Respondiendo a Sovereign, todavía no hay noticias del Maestro". El mariscal Haotian informó y su rostro mostró una expresión preocupada, "¡Por favor, castigue a este subordinado!" Estos últimos dos años, no pudo encontrar noticias o el paradero de su Maestro, y esto lo hizo sentir avergonzado de enfrentar a Huang Xiaolong.

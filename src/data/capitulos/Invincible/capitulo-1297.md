@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1297: La apertura del tesoro de Yellow Springs Archdevil"
 numero: 1297
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong tomó el cubo negro de la mano de Feng Er. Feng Er y Xu Baisheng habían dicho que este cubo negro era el Tesoro del Archidevil de Yellow Springs. ¿Quién hubiera pensado que esta piedra negra ordinaria era el Tesoro del Archidevil de Yellow Springs, por el que varias fuerzas estaban luchando desesperadamente? Si no hubiera escuchado esto de la boca de Feng Er y Xu Baisheng, nunca habría podido adivinarlo.

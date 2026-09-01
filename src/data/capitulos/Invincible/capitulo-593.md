@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 593: Una vida por una vida"
 numero: 593
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando escuchó a Huang Xiaolong decir que primero lo mataría, los gritos trastornados de Jiang Wei'en sobre la inminente trágica muerte de Huang Xiaolong se detuvieron abruptamente cuando sus pupilas se dilataron por el miedo, su brazo restante se aferró a su hombro izquierdo. Jiang Wei'en estaba temblando: "¡No lo hagas!"

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1008: ¡¿Huang Xiaolong se negó?!"
 numero: 1008
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Quizás los vítores de los discípulos fueron demasiado fuertes, despertando al inconsciente Zhu Wanchen.

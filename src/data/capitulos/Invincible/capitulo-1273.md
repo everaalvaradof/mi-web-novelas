@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1273: La Bestia del Diablo del Vacío"
 numero: 1273
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 '¿Que es este sentimiento?' La escena del pasado, cuando estaba siendo perseguido por una antigua bestia mágica parpadeó en su mente.

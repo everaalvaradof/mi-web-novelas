@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1872: Hu Qianmei"
 numero: 1872
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Desde el momento en que entró en el Reino de las Bestias del Diablo, Huang Xiaolong había estado viajando en la Nave Voladora Tushita. Se podría decir que no sabía nada de los asuntos actuales.

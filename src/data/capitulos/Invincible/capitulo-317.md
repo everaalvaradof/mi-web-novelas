@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 317: Palacio Subterráneo"
 numero: 317
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡El pilar de piedra se agrietó y se derrumbó en grava, rodando al suelo, enterrando a Li Li debajo!

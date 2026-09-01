@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1571: No debería perder demasiado, ¿verdad?"
 numero: 1571
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que Sun Shihai se fue, Zhou Chen señaló el asiento frente a él y gritó con impaciencia a Yan Ying: "¡Ven!"

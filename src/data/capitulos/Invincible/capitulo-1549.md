@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1549: Rayo divino del Gran Maestro"
 numero: 1549
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Feng Chen, Lei Budong y los actuales jefes y jefes principales estaban discutiendo los problemas de recursos de la tribu.

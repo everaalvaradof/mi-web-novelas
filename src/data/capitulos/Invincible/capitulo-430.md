@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 430: Avisa al Joven Señor"
 numero: 430
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se estaba acercando a la Mansión Castellan de la Ciudad Dios del Cosmos.

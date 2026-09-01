@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1570: Cuando llegue el momento, no muestres ninguna piedad"
 numero: 1570
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Tan pronto como las palabras salieron de los labios de Sun Shihai, todo el salón quedó en silencio.

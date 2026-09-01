@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1619: ¡Lord Jia Yuan!"
 numero: 1619
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Jia Yuan agarró la transmisión de respuesta del comandante con fuerza en su mano y su garganta se secó. No supo qué decir por un momento y sus labios temblaron incesantemente.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1467: Aceptando a un discípulo, adorando a un maestro"
 numero: 1467
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras Huang Xiaolong y los demás esperaban en el salón, los discípulos restantes continuaron lloviznando.

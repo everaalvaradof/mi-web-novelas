@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 674: Mi padre es Lin Pinghai"
 numero: 674
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Para sorpresa de Huang Xiaolong, la energía espiritual aquí era en realidad mucho más espesa que la del Instituto Guerrero Negro, ¡incluso su calidad era un grado más alto! Aunque lejos de la energía espiritual en su Golden Dragon Peak, estaba lejos de lo esperado.

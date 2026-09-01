@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 27: Esto es realmente justo"
 numero: 27
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿Una parte de su fuerza? Si bien todos aún no se habían dado cuenta de lo que quería decir Huang Xiaolong, de repente, un qi de batalla varias veces más fuerte que el de Huang Wei, brotó del cuerpo de Huang Xiaolong y se disparó directamente al aire. Era tan fuerte que era al menos diez veces más fuerte, o tal vez incluso más.

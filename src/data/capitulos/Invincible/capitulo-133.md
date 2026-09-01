@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 133: Rumbo al condado de Big Dawn"
 numero: 133
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que decidió ir al condado de Big Dawn, Huang Xiaolong le pidió a Fei Hou que enviara personas para monitorear los movimientos del primer ministro Wu Feng, el duque Wei Bi y los otros ministros relacionados con Clear Cloud Pavilion.

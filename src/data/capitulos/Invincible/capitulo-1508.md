@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1508: La Tercera Restricción de Jade del Rey del Mundo de las Tinieblas"
 numero: 1508
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se puso de pie y luego golpeó con el puño en un espacio vacío. El espacio frente a él se hizo añicos. Una gran fuerza se precipitó hacia el vacío, creando un vacío en medio de la energía espiritual en las profundidades del vacío.

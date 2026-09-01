@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 794: Mirage King"
 numero: 794
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Hermano aprendiz mayor", Huang Xiaolong volvió la cabeza para mirar a Liu Yun, arrojándole el contrato de sangre por el aire.

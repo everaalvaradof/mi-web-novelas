@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1812: Emperador Dios Maldito Feng Chu"
 numero: 1812
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A medida que Huang Xiaolong y sus dos extrañas bestias se acercaban a la Estrella del Rey Demonio, más de un par de auras poderosas se encerraron en el grupo de Huang Xiaolong.

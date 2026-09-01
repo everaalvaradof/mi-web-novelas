@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1393: ¿Viene a golpearnos?"
 numero: 1393
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Xiang Xun, la bestia diabólica vacía Xu Baisheng, Feng Er y el resto también miraron con curiosidad a la pequeña vaca. Ellos también tenían la sensación de que la pequeña vaca parecía tener una conexión profunda con el Clan Longwu.

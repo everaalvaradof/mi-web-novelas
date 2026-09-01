@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1545: Dragon Mizzle Wine"
 numero: 1545
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al recordar su nave voladora Dragon Shark, la inquietud de Huang Xiaolong se redujo ligeramente. Si viajan con el Dragon Shark Flying Ship, solo les llevaría uno o dos meses como máximo.

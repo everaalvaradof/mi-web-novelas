@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1126: Bestia Divina Devoradora de Nubes del Reino de los Dioses Antiguos de Quinta Orden"
 numero: 1126
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sintiendo la presión salvaje presionándolo, el corazón de Huang Xiaolong se apretó al saber que estaba enfrentando la voluntad remanente de la Bestia Divina Devoradora de Nube. En general, si la divinidad de los maestros del Reino de Dios Antiguo permanecía intacta después de su muerte, su mar de los dioses retendría una parte de su voluntad.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1890: Aparece la Estela del Diablo"
 numero: 1890
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Tan pronto como las palabras salieron de los labios de Shi Ming, no esperó a que los demás respondieran antes de cargar directamente hacia abajo. En un instante, la figura de Shi Ming desapareció bajo el lago.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1735: La Flor de las Tres Vidas"
 numero: 1735
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La Tierra del Alma del Cadáver era el continente más grande dentro del Espacio de los Nueve Yin, y el más precioso de toda la Tierra del Alma del Cadáver. Esta Tierra del Alma del Cadáver generó todo el rico y abundante qi del cadáver del espacio Nine Yin.

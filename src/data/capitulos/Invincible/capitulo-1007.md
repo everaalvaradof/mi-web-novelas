@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1007: El rango de rey cabeza de dios de bajo grado"
 numero: 1007
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A la orden de Jiang Yan de capturar a Huang Xiaolong, varios discípulos de la sala de aplicación de la ley saltaron rápidamente al escenario de batalla. Sin darle a Huang Xiaolong la oportunidad de hablar, ya lo estaban bombardeando con ataques.

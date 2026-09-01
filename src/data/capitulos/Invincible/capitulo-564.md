@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 564: ¡Definitivamente te vas a arrepentir de esto!"
 numero: 564
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Li Dufeng no cayó inconsciente. Al ver a Huang Xiaolong acercándose a él, sus ojos revelaron miedo. ¡Solo él entendió cuán poderoso fue el ataque de Huang Xiaolong!

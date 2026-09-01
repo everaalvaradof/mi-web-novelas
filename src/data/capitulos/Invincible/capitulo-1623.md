@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1623: Demon God Blood Pool"
 numero: 1623
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Cuál es la recompensa?" Huang Xiaolong sintió que su corazón temblaba.

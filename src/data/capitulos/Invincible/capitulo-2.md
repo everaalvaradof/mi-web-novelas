@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 02: ¿Espíritu Marcial de Grado Siete?"
 numero: 2
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Un espíritu marcial de grado diez, resultó ser un espíritu marcial de grado diez!"

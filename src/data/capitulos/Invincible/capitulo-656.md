@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 656: ¡Échalos!"
 numero: 656
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las cejas de Huang Xiaolong se arquearon ligeramente cuando escuchó a la mujer más joven llamar a Zhuo Wenting 'hermana'. A juzgar por la reacción de Xie Puti, estaba claro que la hermosa joven era la que le gustaba, ¡pero quién hubiera pensado que la mujer que conocieron en la tienda ayer sería su hermana mayor!

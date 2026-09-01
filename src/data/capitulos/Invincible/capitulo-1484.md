@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1484: Estás siendo una desgracia"
 numero: 1484
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Chen Hao se quedó estupefacto cuando vio a Huang Xiaolong levantarse y dirigirse hacia el centro del pasillo. Recuperó el sentido y rápidamente se acercó para tirar de Huang Xiaolong hacia atrás, pero Huang Xiaolong ya estaba fuera de su alcance.

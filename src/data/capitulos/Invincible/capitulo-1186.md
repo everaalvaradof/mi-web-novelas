@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1186: 100% de fuerza"
 numero: 1186
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Estallidos resonantes vinieron de la tierra cuando motas de luz dorada se elevaron del suelo, reuniéndose alrededor de las manos de Tan Lin. Las motas de luz luego se convirtieron en dos enormes bolas de luz, expandiéndose a una velocidad loca.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 558: ¿Me permites hacer el primer movimiento?"
 numero: 558
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al final, nadie fue lo suficientemente valiente como para desafiar a Huang Xiaolong nuevamente. El lugar de Huang Xiaolong dentro de los diez primeros rangos estaba escrito en piedra.

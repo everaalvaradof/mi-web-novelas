@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 659: Xiang Mingzhi También Participa"
 numero: 659
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Viejo, ¿te vas?" Esto fue inesperado para Huang Xiaolong. Había estado viniendo aquí todos los días durante los últimos diez años, aprendiendo alquimia todos los días del anciano. De repente, al escuchar que el anciano se iba, se sintió reacio y de mal humor.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1280: La Facción de las Cien Tribulaciones"
 numero: 1280
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras Huang Xiaolong miraba al joven de cabello carmesí, el joven de cabello carmesí también miró a Huang Xiaolong siguiendo la línea de mirada de Zheng Wei. Cuando vio que Huang Xiaolong era solo uno de los primeros discípulos del Reino de Dios Antiguo de la Séptima Orden, una mueca burlona se curvó en las comisuras de sus labios.

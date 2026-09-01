@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 570: Somos Maestros del Reino de Dios de Quinta Orden"
 numero: 570
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El anciano gordo ni siquiera miró en dirección a Zhao Shu y Zhang Fu después de apartarlos. Se volvió hacia los oídos de la familia Huang: "¡Dile a Huang Xiaolong que salga aquí!"

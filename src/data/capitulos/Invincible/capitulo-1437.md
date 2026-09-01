@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1437: La Fuerza de Huang Xiaolong"
 numero: 1437
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se rió con indiferencia ante las palabras de Blood Knife Ancestor: “Segundo maestro, no se preocupe, use toda su fuerza. Mi verdadero físico de dragón no es tan frágil ".

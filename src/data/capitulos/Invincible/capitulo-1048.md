@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1048: Tabulando los resultados"
 numero: 1048
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡18, 165 cuentas!" El jefe de la Secta Elefante Génesis, Pan Jue, echó la cabeza hacia atrás riendo al escuchar la respuesta de Zhao Wuya, luego su voz sonó en el aire. "¡Bien bien bien! ¡Cuando regresemos a la secta, yo y el Ancestro te recompensaremos en gran medida! "

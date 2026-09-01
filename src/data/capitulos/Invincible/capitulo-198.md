@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 198: Ao Baixue"
 numero: 198
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 [/expandir]

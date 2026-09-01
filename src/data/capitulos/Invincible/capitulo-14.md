@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 14: ¡Guerrero de la Segunda Orden!"
 numero: 14
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡El pico tardío de la Primera Orden!

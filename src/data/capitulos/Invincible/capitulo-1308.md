@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1308: ¿Debemos castigar a Huang Xiaolong?"
 numero: 1308
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La mirada de Guo Shi recorrió y cayó sobre Li Zhi del Pabellón del Fénix Dorado, Wang Yu de la Puerta de la Fortuna del Mundo de la Región Negra y el número de guardias de la Familia Guo lisiados y heridos que yacían en las calles. Un ceño fruncido arrugó sus cejas. ¡El poder de batalla de Huang Xiaolong era mucho más fuerte de lo que esperaba!

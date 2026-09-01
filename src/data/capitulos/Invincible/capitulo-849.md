@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 849: Una Megapolis"
 numero: 849
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al mirar el nombre de Xiang Mingzhi brillando en la lista de clasificación, cada vez más brillante en los últimos cinco días, la sonrisa radiante en el rostro de Qin Yi se volvió cada vez más cegadora.

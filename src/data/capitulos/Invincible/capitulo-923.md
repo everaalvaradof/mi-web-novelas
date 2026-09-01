@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 923: Aumentar la dificultad de la evaluación por diez veces"
 numero: 923
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los varios discípulos del Clan Wangu con Wangu Yanhui miraban a Huang Xiaolong con asombro apenas disimulado, preguntándose sobre su identidad.

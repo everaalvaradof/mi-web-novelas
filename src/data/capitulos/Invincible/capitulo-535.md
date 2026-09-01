@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 535: Cazando Bestias Demoníacas del Reino de Dios"
 numero: 535
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La primera persona en pasar por el agujero negro fue Gudu Leng, seguido por Jiang Shaoze, Wang Biaoyuan, luego el resto también lo atravesó.

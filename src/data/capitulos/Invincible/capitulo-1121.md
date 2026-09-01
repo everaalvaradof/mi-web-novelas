@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1121: La Llave del Tesoro"
 numero: 1121
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que Xiaoniū expulsara el asqueroso humo verde de mal olor de la pared, se transformó en varias pitones venenosas que exudaban un gas venenoso espantoso.

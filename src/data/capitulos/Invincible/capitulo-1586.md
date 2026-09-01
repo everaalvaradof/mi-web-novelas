@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1586: ¿Aún vamos al Palacio del Emperador Grandmist?"
 numero: 1586
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong frunció el ceño después de escucharlo. Las palabras del gran anciano parecían un poco demasiado autoritarias...

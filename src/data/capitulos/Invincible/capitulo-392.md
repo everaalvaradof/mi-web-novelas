@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 392: Tienda Aowu"
 numero: 392
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Muy pronto, el grupo de Huang Xiaolong llegó al mercado de ingredientes de refinamiento de píldoras de South Oblast City.

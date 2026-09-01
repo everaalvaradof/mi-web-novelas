@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 887: La muerte de Wang Na"
 numero: 887
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que terminó de declarar su justa razón, el impulso del Anciano Eminente se disparó por las nubes. En el siguiente segundo, su espada larga estaba atacando a Huang Xiaolong.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 609: Debe haber crecido inquieto de la espera"
 numero: 609
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Una de las grandes ciudades más florecientes en el continente de Cloudsea, la Ciudad de la Constelación Mayor era el lugar donde se reunían actualmente el patriarca de la familia Jiang, Jiang Wuhuang, el patriarca de la familia Wang, Wang Dingyi, y el patriarca de la familia Gudu, Gudu Ye.

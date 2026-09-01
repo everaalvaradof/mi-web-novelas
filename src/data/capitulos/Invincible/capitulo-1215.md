@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1215: ¡¿Cómo es que todos estos ancestros han resucitado?!"
 numero: 1215
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los expertos de la Nefarious Devil Tribe se reunieron dentro del gran salón del Nefarious Devil Tribe Ancestral Hall cuando Huang Xiaolong conducía a Xie Li y a treinta y tres títeres Nefarious Devil hacia el Nefarious Devil Tribe Ancestral Hall.

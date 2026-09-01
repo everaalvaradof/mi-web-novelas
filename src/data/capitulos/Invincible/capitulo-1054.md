@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1054: Las reglas no se pueden romper"
 numero: 1054
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Lu Zhuo y Gu Ling 'descubrieron' que la divinidad de Huang Xiaolong era en realidad el rango de rey de grado superior, los dos poderosos personajes de la Secta del Dios Bárbaro comenzaron a temblar de emoción. Lu Zhuo sostenía a Huang Xiaolong en un fuerte abrazo de oso, una mano acariciaba la espalda de Huang Xiaolong con una fuerza que correspondía a su emoción mientras se reía de buena gana, "En verdad, esta es la bendición del Cielo para nuestra Secta Dios Bárbaro, el favor del Cielo, ¡ah!"

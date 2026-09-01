@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1059: Secta Restringidora del Diablo"
 numero: 1059
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Lu Zhuo, estás celebrando demasiado pronto, todavía queda una tableta de herencia, ¡no creo que Huang Xiaolong pueda comprenderlas todas!" Los ojos de Ren Changhai brillaron con un brillo maníaco.

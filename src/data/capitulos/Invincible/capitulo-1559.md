@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1559: ¡Esta vez no podrán escapar!"
 numero: 1559
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En este momento, Tian Ziyi, Bai Yunxiang y los otros discípulos estaban radiantes.

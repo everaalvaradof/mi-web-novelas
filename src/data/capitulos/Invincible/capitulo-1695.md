@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1695: ¡Resulta ser él!"
 numero: 1695
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Así es, date prisa, corre al cielo para agarrarlo. ¡Esos tesoros grandmistas y píldoras espirituales grandmistas de primer grado son nuestros!"

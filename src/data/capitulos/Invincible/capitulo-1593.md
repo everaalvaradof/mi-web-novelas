@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1593: Destierro del Palacio del Emperador Grandmist"
 numero: 1593
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El néctar espiritual era similar al licor, fermentado por el Grandmist Emperor Palace mediante la recolección de varios cientos de tipos de líquidos espirituales del caos, y un método secreto. No solo tiene un sabor excelente, el néctar espiritual también aumenta la fuerza, templa la carne y nutre el alma.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1491: El agradecimiento de Fang Xuanxuan"
 numero: 1491
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al final, Huang Xiaolong asintió y aceptó con una promesa meñique de que el mentiroso sería un cerdito. Bei Xiaomei asintió con la cabeza con satisfacción y felicitó: "Sé que el tío es el mejor".

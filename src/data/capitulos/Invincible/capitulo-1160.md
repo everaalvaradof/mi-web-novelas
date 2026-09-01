@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1160: ¿Todavía tiene que ascender al mundo divino?"
 numero: 1160
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Tal vez estoy pensando demasiado en las cosas". Un segundo después, Wang Wei se rió de sí mismo. Sabía que Li lu era alguien que ascendió desde el reino inferior, basándose en su incomparable belleza y talento, ¿cómo podría estar interesada en cualquier hombre del reino inferior?

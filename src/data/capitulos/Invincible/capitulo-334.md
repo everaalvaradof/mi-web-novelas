@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 334: ¡Este Monstruo!"
 numero: 334
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El primer ministro del Reino de Luo Tong, Wu Feng, y los otros ministros lo siguieron, riendo en voz alta.

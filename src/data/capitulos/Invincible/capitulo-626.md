@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 626: Trescientos cuarenta mil millones parecen poco"
 numero: 626
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La temperatura en la mirada de Feng Yang bajó unos grados más. Con un movimiento de la palma de su mano, los Ancianos de las Familias Jiang, Wang y Gudu volaron por los aires y luego se estrellaron con fuerza. Desparramados en el suelo, los cuerpos de los tres Ancianos se retorcieron sin control mientras espuma blanca salía de sus bocas. Sus ojos se pusieron en blanco como si estuvieran sufriendo un episodio de epilepsia.

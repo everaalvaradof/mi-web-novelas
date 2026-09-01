@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 944: Jefe de la Unión"
 numero: 944
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Fue un fracaso o un éxito?" Zhang Xinchen estaba desconcertado mirando el tranquilo quinto piso del Templo Sagrado de Dan.

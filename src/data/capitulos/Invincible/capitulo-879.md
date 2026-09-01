@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 879: El Primer Lugar"
 numero: 879
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong no se detuvo después de golpear a Fang Chu en el aire con su garra. Con otro rápido movimiento de su cuerpo de dragón, apareció una vez más sobre Fang Chu, enviando una garra de dragón hacia abajo.

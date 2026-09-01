@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 421: Todavía se considera con tacto"
 numero: 421
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Innumerables garras demoníacas que llevaban un increíble poder destructivo sumergieron a Qi Tian y al grupo de expertos de la Familia Qi. Sus rostros se volvieron pálidos frente a ese repentino ataque que apareció de la nada.

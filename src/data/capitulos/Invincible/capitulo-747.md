@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 747: Capturando a la Bestia con Escamas de Fuego"
 numero: 747
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong ocultó su presencia mientras volaba hacia arriba a lo largo de la montaña hasta llegar a un acantilado. Se levantó aliviado después de determinar que no había bestias demoníacas persiguiéndolo.

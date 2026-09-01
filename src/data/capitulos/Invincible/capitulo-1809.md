@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1809: El paradero de Fang Gan"
 numero: 1809
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A medida que el ejército del diablo se vertía continuamente en las superficies del mundo una tras otra, asombrosas hebras de qi demoníaco celestial sacudieron los nueve cielos mientras formaban espesas nubes que rodeaban el Mundo Divino.

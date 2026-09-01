@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 121: ¡Caza!"
 numero: 121
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver al hombre herir sin esfuerzo a la Savage Green Bull Python con un solo golpe, los expertos más poderosos se sorprendieron. Esto incluyó a uno de los más fuertes; Rey del Reino Yuwai - Fan Zhe.

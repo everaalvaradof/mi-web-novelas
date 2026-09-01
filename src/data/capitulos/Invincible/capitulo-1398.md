@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1398: No hay necesidad de preocuparse"
 numero: 1398
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong ignoró a Song Rui. En cambio, su atención estaba en Gudu Yue, y habló con indiferencia: "De hecho, no esperaba que un discípulo del Clan Gudu se mezclara con los piratas de la Banda del Lobo Sangriento".

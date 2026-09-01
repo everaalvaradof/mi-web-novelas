@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1873: La intención asesina de Huo Liuyun"
 numero: 1873
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sintiendo la ráfaga de energía espiritual de alta pureza en su rostro, la anfitriona del burdel dio varios pasos hacia atrás con asombro.

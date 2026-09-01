@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 798: Tres personas uniendo fuerzas"
 numero: 798
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al mirar al Ancestro del Fantasma Maligno, Huang Xiaolong aumentó su vigilancia.

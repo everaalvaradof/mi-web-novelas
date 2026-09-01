@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 618: Liga de los Dragones"
 numero: 618
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La Cordillera de la Inundación Roja estaba muy lejos de la Cordillera de la Lluvia Brumosa. A la velocidad actual de Huang Xiaolong del Reino de Dios de la Quinta Orden, voló durante dos días seguidos antes de llegar a la Cordillera de la Inundación Roja.

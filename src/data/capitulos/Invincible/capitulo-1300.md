@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1300: Asombrosa ceja dorada y cuchillo de sangre."
 numero: 1300
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las lágrimas humedecieron los ojos de Yao Chi cuando pudo sentir el calor de la mano de Huang Xiaolong apretada alrededor de su mano. Sus palabras fueron tranquilizadoras cuando le dijo que ella no estaba soñando y que él estaba con ella en persona. Yao Chi dijo con los ojos húmedos:

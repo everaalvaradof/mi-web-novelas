@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1496: Resolviendo los Sellos de Petrificación"
 numero: 1496
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La apariencia de la cara gigante sobre el palacio de cultivo de Zhou Chen era similar a una piedra que se hundía en el mar. Ni Fang Gan, otros Ancestros ni Zhao Lei notaron ninguna extrañeza.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1663: Diez Expertos del Reino Emperador de la Décima Orden"
 numero: 1663
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡En el momento en que todos tomemos medidas, definitivamente tendremos éxito! Además,

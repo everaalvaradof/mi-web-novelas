@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 784: ¿Qué estás pensando?"
 numero: 784
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El banquete terminó poco más de tres horas después.

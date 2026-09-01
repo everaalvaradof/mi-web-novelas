@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1793: La verdadera fuerza del Príncipe Celestial Di Jing"
 numero: 1793
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong volvió su mirada hacia el confiado Di Jing, y sintió la intención de batalla rodante proveniente de él. Una sonrisa apareció lentamente en el rostro de Huang Xiaolong cuando estuvo de acuerdo, "Claro. ¡Tendremos una batalla de vida o muerte!"

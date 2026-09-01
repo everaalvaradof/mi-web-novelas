@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 31: Bosque Silvermoon"
 numero: 31
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las figuras de Huang Xiaolong y Fei Hou desaparecieron lentamente de la vista de todos mientras se alejaban.

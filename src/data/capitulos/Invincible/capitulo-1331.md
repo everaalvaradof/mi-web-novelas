@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1331: Viento Frígido Sin Alma"
 numero: 1331
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El grupo de Huang Xiaolong solo podía usar una palabra para describir la Estrella sin alma: ¡desolada!

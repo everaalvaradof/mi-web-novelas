@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 661: ¡¿Por qué los dos le tienen tanto miedo?!"
 numero: 661
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al igual que en el incidente anterior, los presentes en el pasillo de la tienda estaban igualmente asombrados.

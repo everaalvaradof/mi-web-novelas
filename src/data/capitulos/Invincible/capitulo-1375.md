@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1375: ¿Por qué es así?"
 numero: 1375
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Tú tú tú-!" La voz de Black Ice Ancestor temblaba, y su rostro estaba tan pálido como alguien que podría haberse empapado en agua durante unos años.

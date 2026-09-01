@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1376: El Dios del Mar desciende al mundo"
 numero: 1376
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong abrió casualmente ambos anillos espaciales que pertenecían a Guo Da y Guo Shi. Sus ojos se iluminaron cuando vio los montones de hierbas espirituales del caos, píldoras espirituales del caos y montañas de piedras espirituales de grado siete y octavo.

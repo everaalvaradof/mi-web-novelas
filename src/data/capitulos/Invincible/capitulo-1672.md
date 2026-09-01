@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1672: Rechazo"
 numero: 1672
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En el momento siguiente, Huang Xiaolong llevó a Tai Yue y al resto fuera de la Mansión de la Cúpula del Cielo.

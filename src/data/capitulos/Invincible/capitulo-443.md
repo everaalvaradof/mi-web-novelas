@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 443: De vuelta al Imperio del Buda Bendito"
 numero: 443
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Un mes después de que el grupo partiera de la sede de la Puerta de Asura, el grupo de cuatro de Huang Xiaolong y Shi Xiaofei finalmente llegó al borde exterior del Bosque de las Bestias Demoníacas.

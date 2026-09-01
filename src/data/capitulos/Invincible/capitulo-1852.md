@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1852: Superado"
 numero: 1852
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 De hecho, la montaña era lo único presente en el primer piso de la Torre del Diablo.

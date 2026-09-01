@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1391: Clan Gudu"
 numero: 1391
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Xiang Xun y la bestia diablo del vacío Xu Baisheng querían perseguir a la Cabeza de la Banda del Lobo Sangriento, pero antes de que pudieran hacerlo, las luces deslumbrantes estallaron en las setenta u ochenta naves voladoras restantes. Estas luces estaban compuestas por numerosas formaciones, cañones y rayos de luz violentos, ya que se dispararon casi simultáneamente al grupo de Huang Xiaolong.

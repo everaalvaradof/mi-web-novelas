@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 790: ¿Se parece a Zhu Chenyi?"
 numero: 790
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando el joven de túnica amarilla finalmente confirmó que no había escuchado mal, su mirada se volvió escalofriantemente fría, un aura asesina se elevó como un huracán de su cuerpo. Preguntó, mordiendo cada palabra, “¿Alguien, mató a Wuhou? ¡¿Justo en Paradise Manor Street de Black Warrior City ?! "

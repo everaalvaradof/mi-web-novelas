@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 197: ¡Aparece Li Lu!"
 numero: 197
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que el hombre de mediana edad con perilla se retiró, Yao Fei murmuró para sí mismo: “¿Qué espera lograr ese punk al entrar en los terrenos de la división interior? Aún así, para atraer a este pequeño punk, Wuhen estaba realmente dispuesto a usar su Ficha Dorada... ¡Realmente le da una gran importancia! También escuché que este niño se ha llevado bien con Xie Puti ".

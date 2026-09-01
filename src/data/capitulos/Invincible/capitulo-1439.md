@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1439: Tesoros dejados por los Emperadores"
 numero: 1439
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong, Xiang Xun y los demás que no estaban al tanto de esto se sorprendieron por la revelación de la pequeña vaca.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 886: ¿Te atreves a faltarle el respeto al Director del Instituto Wang Na?"
 numero: 886
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Incluso antes de que el grupo de Huang Xiaolong diera un paso dentro de la Ciudad del Guerrero Negro, Wang Na había recibido un informe de un discípulo de su llegada. Junto con un grupo de Grandes Ancianos y Ancianos del Instituto Guerrero Negro, estaba esperando para discutir una alianza con las familias Jiang, Wang, Gudu y Zhu.

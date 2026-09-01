@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1365: ¿De dónde lo has comprado?"
 numero: 1365
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Zhu Feng cumplió respetuosamente: "Sí, sí, hermanos mayores, por favor esperen un momento, iré a invitar a Huang Xiaolong". Parecía aprensivo cuando se dio la vuelta, pero en el momento en que su espalda se enfrentó a He Fang y Chen Xuguang, las comisuras de su boca se curvaron en una leve mueca fría. Huang Xiaolong, ¡veamos si todavía puedes ser tan arrogante esta vez!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1223: Deshacerse de Huang Xiaolong de una vez por todas"
 numero: 1223
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Clear Spirit World?" Huang Xiaolong miró a Meng Yuan con duda.

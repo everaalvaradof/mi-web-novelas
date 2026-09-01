@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1818: Morir Juntos"
 numero: 1818
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los ataques del Emperador Dios Demonio Feng Chu y el Emperador brillo Lan Zhi fueron bloqueados por la Ciudad de la Eternidad.

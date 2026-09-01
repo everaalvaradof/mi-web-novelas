@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1665: Plano del Nirvana"
 numero: 1665
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dentro de la sede de la Puerta de los Dioses Masacradores.

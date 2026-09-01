@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 318: Fantasma gigante que alcanzó el cultivo del Reino Santo"
 numero: 318
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los repentinos aullidos estridentes provenientes de las cuatro direcciones sorprendieron a Huang Xiaolong y, sin ninguna indicación, el escenario frente a él cambió. El corredor original desapareció, mientras que las figuras de Peng Feng y Sun Haoran no estaban a la vista.

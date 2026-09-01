@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1598: El Hijo Celestial estaría participando"
 numero: 1598
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 De acuerdo con el plan inicial de Jiang Hong, planeaba informar a su Maestro sobre el Rey de Grandmist antes de llegar a las Tierras de Grandmist. Pero la pequeña vaca había dicho que quería darle una sorpresa al Rey de Grandmist, por lo tanto, Jiang Hong solo pudo ocultar el asunto.

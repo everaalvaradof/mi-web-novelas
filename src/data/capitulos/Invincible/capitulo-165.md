@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 165: Llegando rápidamente al Imperio Duanren"
 numero: 165
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Una sola piedra espiritual de grado tres fue aparentemente suficiente para refinar un Dan espiritual de grado cinco, mientras que las piedras espirituales de grado cuatro y cinco podrían usarse para refinar un Dan espiritual de grado cuatro y menos. Se usaron piedras espirituales de grado dos y grado uno para refinar las danzas espirituales de grado seis y séptimo.

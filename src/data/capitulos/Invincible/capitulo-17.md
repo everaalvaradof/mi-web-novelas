@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 17: Sólo Huang Wei va a entrar"
 numero: 17
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al sentir los cambios de los espíritus marciales evolucionados detrás de él, Huang Xiaolong estaba realmente conmocionado.

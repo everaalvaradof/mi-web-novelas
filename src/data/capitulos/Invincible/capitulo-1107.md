@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1107: Bestias del Mar"
 numero: 1107
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Tanto la vaca pequeña como la Bestia Emperador del Mar de la Llama Negra fueron sacadas de su estado de cultivo por los ruidosos estallidos provenientes del cuerpo de Huang Xiaolong.

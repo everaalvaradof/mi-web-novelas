@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1673: Dejemos que formen su alianza"
 numero: 1673
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En la sucursal del Palacio Brumoso en la ciudad de Nirvana...

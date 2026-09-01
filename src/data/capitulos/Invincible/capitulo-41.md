@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 41: ¿Quién se atreve a herir a mi hermano menor?"
 numero: 41
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En el segundo piso del Restaurante Delicious, los ataques de los guardias de la Mansión del Duque se volvieron más agresivos e incluso más poderosos a medida que pasaba el tiempo. A medida que la barrera de Fei Hou se acercaba a romperse, Huang Xiaolong frunció el ceño y estaba considerando si primero debería ocultarse en el espacio y matar al calvo Meng Xia. De repente, desde los cielos, se escuchó un agudo grito de un cóndor que podía romper una roca con su onda sonora.

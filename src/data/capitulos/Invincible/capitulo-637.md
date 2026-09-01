@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 637: El dolor de cabeza de Huang Xiaolong"
 numero: 637
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Piénselo, ¿qué discípulos de las superfuerzas no tienen más de un Maestro en su vida?" La voz del Anciano de la Luna Ascendente fue aún más suave, dirigiendo su siguiente pregunta a Yang Yi, "Yang Yi ah, que yo sepa, hasta ahora, tienes no menos de cuatro Maestros, ¿verdad?"

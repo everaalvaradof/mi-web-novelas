@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 733: ¡No eres Cheng Huai'an!"
 numero: 733
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar la voz de un niño pidiendo ayuda, en realidad, más un niño, el grupo que estaba a punto de irse se detuvo en sus pasos.

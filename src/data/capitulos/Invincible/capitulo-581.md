@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 581: ¿Se atreve a matar?"
 numero: 581
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El chillido de Xie Hui hizo que los demás recuperaran el sentido.

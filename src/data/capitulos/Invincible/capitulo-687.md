@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 687: ¡El refinamiento exitoso de Xiang Mingzhi!"
 numero: 687
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Ancestor Mountaingoat y He Feifan estaban alarmados. Sin embargo, no importa cómo lo intentaron, ninguno de ellos pudo restaurar el brillo inicial del Fuego Radiante de Yin Extremo y el Fuego Santo del Yang Primario.

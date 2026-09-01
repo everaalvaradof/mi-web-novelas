@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 802: Lago del Dios de la Muerte"
 numero: 802
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar que el cultivo de Xiang Mingzhi había avanzado al Reino Highgod y condensó con éxito una divinidad de rango diez que nunca antes había aparecido en la historia de las cuatro galaxias, Huang Xiaolong estaba encantado en su lugar.

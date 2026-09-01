@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 635: ¡Finalmente lo encontré!"
 numero: 635
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Un pequeño ceño fruncido apareció en la frente de Huang Xiaolong mientras miraba el comportamiento esnob del niño de la medicina. Había un evidente desdén en sus ojos cuando su boca soltó palabras duras, pero justo cuando estaba a punto de decir algo, por el rabillo del ojo, vio a la loca Lady Yang Yi levantando la palma de su mano, volando sobre el rostro del niño de la medicina.

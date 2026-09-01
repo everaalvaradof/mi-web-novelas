@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1185: Casi me meo de risa"
 numero: 1185
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En el momento en que la voz de Huang Xiaolong cayó, la plaza se calmó abruptamente.

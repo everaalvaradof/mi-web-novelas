@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 806: Ataque del Alma Tangible"
 numero: 806
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El espacio desgarrado no se reparó por sí solo. Se extendió hasta alcanzar varios cientos de li antes de detenerse.

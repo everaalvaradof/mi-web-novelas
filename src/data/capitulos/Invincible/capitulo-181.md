@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 181: La batalla de la ciudad imperial (13)"
 numero: 181
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Esta es una segunda habilidad innata del espíritu marcial!" Los ojos de Cheng Jian se entrecerraron de manera digna mientras pronunciaba cada palabra con énfasis.

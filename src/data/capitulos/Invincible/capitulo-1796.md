@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1796: Eso fue sólo el calentamiento"
 numero: 1796
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Tres... ¡Tres reyes de las divinidades supremas!" La cara de Di Jing perdió todo color y se puso histérico. "Esto... Cómo... ¡¿Cómo es esto posible?! ¡¿Cómo puede suceder esto ?!"

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 653: Una reunión"
 numero: 653
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Casi de inmediato, Huang Xiaolong sintió que una vasta, pura, pero suave fuente de energía de alta calidad entraba en su cuerpo, desde su Mar Qi hasta sus meridianos, pasando al mar de su alma y otras partes de su carne.

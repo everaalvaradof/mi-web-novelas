@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1015: La sospecha de Zhao Chenyuan"
 numero: 1015
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Saludos, Jefe de Secta!" Chen Xiong, Zhu Wanchen y los varios discípulos principales dieron un paso adelante y se arrodillaron para saludar.

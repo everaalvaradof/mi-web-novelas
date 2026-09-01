@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1413: La Montaña de Buda"
 numero: 1413
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Dejó algunos pelos dentro del tesoro de la Antigua Corte Celestial como recuerdos!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1231: Un Elefante Divino Petrificado"
 numero: 1231
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En Myriad Gods Manor, Yao Chi estaba muy feliz después de leer el mensaje de Huang Xiaolong de que apenas podía quedarse quieta.

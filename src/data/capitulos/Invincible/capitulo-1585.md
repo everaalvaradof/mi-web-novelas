@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1585: ¡Nadie se atreve a interferir!"
 numero: 1585
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aunque había entre tres y cuatrocientas Bestias León Galaxiales Gigantes a su alrededor, su fuerza se consideraba insignificante. El más fuerte de ellos estaba simplemente en el Reino Rey Dios de la Octava o Novena Orden y el más débil de ellos tenía una fuerza comparable a la de un cultivador del Reino Rey Dios de la Tercera Orden. Solo dos de ellos parecían lo suficientemente fuertes, en el Reino Rey Dios de la Décima Orden y Huang Xiaolong no se molestó en pedirle a Xiang Xun y al Caos Negro del Caos que los cuidaran.

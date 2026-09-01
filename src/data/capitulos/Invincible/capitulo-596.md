@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 596: Núcleos de Bestia del Verdadero Rey Dragón"
 numero: 596
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong y Shi Xiaofei llegaron a la casa de subastas, ya estaba llena de gente. Como discípulo personal del Director del Instituto, por supuesto, se organizó una habitación privada de alto grado para Huang Xiaolong.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1247: Luo Yunjie se hiere"
 numero: 1247
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Por muy incómodos que se sintieran sus corazones, no se atrevieron a decir una palabra frente a todos.

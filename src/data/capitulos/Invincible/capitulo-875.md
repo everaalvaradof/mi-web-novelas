@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 875: ¿Quién de ustedes quiere morir primero?"
 numero: 875
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A la pregunta de Wangu Yanhui, Mu Qi y You Wuye también se volvieron para mirar en dirección a Huang Xiaolong, esperando su decisión.

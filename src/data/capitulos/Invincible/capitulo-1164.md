@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1164: No tengas prisa por irte Ah"
 numero: 1164
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En este mes, los nombres y las clasificaciones en la pared de cristal habían experimentado numerosos cambios y todavía se movían hacia arriba y hacia abajo. Sin embargo, no importa cómo cambió la clasificación, el genio número uno de Dragon Origin Island, Zhou Xu, se mantuvo firme en primer lugar.

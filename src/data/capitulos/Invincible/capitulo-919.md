@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 919: El fracaso de Mo Su"
 numero: 919
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mirando la gran torre frente a él que se parecía a la Torre Hellion, Huang Xiaolong se quedó mudo por un momento.

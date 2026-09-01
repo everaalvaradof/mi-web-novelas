@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 16: Avanza a la Cuarta Orden"
 numero: 16
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 De pie ante el cadáver de Bara Floret Python, el pequeño mono violeta saltó y aterrizó en la cabeza de la pitón, y con un golpe de sus afiladas garras, abrió una abertura y sacó una pequeña cosa amarilla que parecía una cuenta.

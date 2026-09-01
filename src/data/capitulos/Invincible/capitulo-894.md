@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 894: El Río Dan y el Templo Sagrado Dan"
 numero: 894
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 “¿Cuál es la recompensa del primer lugar para ese Gran Concurso de Gran Maestro Alquimista?

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 269: Entrometido"
 numero: 269
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡De la información transmitida por Chen Xiaotian y Jiang Tianhua, Huang Xiaolong sabía que este Hu Sheng tenía un carácter lujurioso! No solo lujurioso, en realidad tenía un pasatiempo muy

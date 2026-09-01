@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1088: El Jefe de la Puerta del Dragón de Oro"
 numero: 1088
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A pesar de escuchar que se deducirían diez mil puntos si no completaba la tarea dentro del tiempo estipulado, no hubo cambios en la expresión de Huang Xiaolong.

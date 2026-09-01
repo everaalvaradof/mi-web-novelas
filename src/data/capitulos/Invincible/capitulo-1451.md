@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1451: Este chico es un poco imprudente"
 numero: 1451
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Como Huang Xiaolong no se había escondido, los seis discípulos descubrieron a Huang Xiaolong volando hacia ellos.

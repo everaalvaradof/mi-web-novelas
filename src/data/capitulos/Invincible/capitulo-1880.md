@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1880: Ayuda a la supresión"
 numero: 1880
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong entendió el significado de las palabras de Cang Yuanzong. Cang Yuanzong quería que lo ayudara a expulsar a las criaturas fantasmales de cobre negro del cuerpo del Patriarca Cang Mutian de la raza del Oso Dragón Celestial anterior.

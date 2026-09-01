@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 868: El Centro de Atención"
 numero: 868
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los aplausos atronadores provenientes de los discípulos de la Familia Yelu de los alrededores se detuvieron abruptamente mientras miraban mudos en dirección a Huang Xiaolong, sus rostros llenos de aprensión.

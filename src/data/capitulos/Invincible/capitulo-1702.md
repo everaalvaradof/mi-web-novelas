@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1702: ¿Muerto Demasiado Rápido?"
 numero: 1702
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Un destello de codicia revoloteó a través de los ojos de Shi Wushuang mientras miraba el Cetro Divino del Resplandor en la mano de Huang Xiaolong. Habían pasado mil millones de años desde la guerra entre la Tribu de los Cadáveres Gigantes de los Nueve Yin y la Corte Celestial. Durante ese tiempo, el único tesoro grandmista de la Tribu de los Nueve Yin, el Espejo Mágico de los Nueve Yin, se perdió. Su tribu no había tenido otro tesoro grandmista desde entonces.

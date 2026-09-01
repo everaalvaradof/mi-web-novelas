@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1148: Insectos Gorb Dorados"
 numero: 1148
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los ojos de Huang Xiaolong se entrecerraron. Nunca se le pasó por la cabeza que este Joven Lord de Bladeless Gate se escondería y miraría, escapando a la detección de todos.

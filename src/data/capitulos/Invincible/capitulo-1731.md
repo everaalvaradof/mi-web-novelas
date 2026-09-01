@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1731: Yang Jing"
 numero: 1731
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Montado en el Tigre de Hueso del Trueno, Huang Xiaolong descendió en la cima del Pico del Lobo Gigante.

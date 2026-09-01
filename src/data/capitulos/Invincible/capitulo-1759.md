@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1759: Llegando a la Plaza del Cielo"
 numero: 1759
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Bei Xiaomei, naturalmente, no sabía lo que Huang Xiaolong estaba pensando. Cuando vio la mirada de interés en su rostro, no pudo evitar aconsejarle: "¡Tío, si te encuentras con esa mariquita, debes correr lo más lejos posible! ¡No pienses en pelear con él! A pesar de que puede parecer inofensivo y amigable, es extremadamente diabólico de corazón".

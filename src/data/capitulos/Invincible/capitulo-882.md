@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 882: Mensajero del Mundo Divino"
 numero: 882
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los dos días restantes pasaron en un abrir y cerrar de ojos, y finalmente cayó el telón en este Torneo de Avance de Highgod en el que participaron los mejores talentos de numerosas galaxias.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 542: ¿Alguien más quiere subir?"
 numero: 542
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Muchas personas en la plaza tenían la misma pregunta que Wang Biaoyuan en sus corazones.

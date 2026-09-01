@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 280: Patriarca de la Secta de la Sombra Fantasma"
 numero: 280
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando el anciano vestido de verde, Fan Encheng, vio a Lifei, su rostro se tensó por el

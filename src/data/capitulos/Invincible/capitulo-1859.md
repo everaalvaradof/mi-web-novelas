@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1859: ¡Debe ser Huang Xiaolong!"
 numero: 1859
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En el momento en que Huang Xiaolong apareció frente a la Torre del Diablo, la atmósfera bulliciosa en la plaza se quedó en un abrupto silencio. Todos los ojos se fijaron en la figura de Huang Xiaolong en el aire.

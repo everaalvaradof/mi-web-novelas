@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1260: El Pabellón del Fénix Dorado"
 numero: 1260
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En el campo de batalla, el éxtasis brilló en los ojos de los discípulos que vestían las túnicas doradas, al ver que sus compañeros habían llegado para ayudarlos en la batalla.

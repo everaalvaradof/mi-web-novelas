@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1084: ¿Tu habilidad con la alquimia es sólo esto?"
 numero: 1084
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Esa discípula solo negó con la cabeza rotundamente, su voz sonaba aún más urgente, “¡Es Sun Jinqiang! ¡Los brazos de Sun Jinqiang fueron rotos por Tang Hong, además de eso...! " Su voz se detuvo abruptamente como si las siguientes palabras fueran innombrables.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 592: Te mataré primero"
 numero: 592
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong y Zhao Shu se abrieron paso entre el mar de gente y llegaron al frente. Entrando en sus ojos estaban Huang Xiaohai, Guo Xiaofan, Huang Min y varios otros, heridos y manchados de sangre mientras se les señalaba, escuchando los fuertes susurros de la multitud espectadora.

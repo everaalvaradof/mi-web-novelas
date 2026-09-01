@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1288: Xiao Teng aceptando un discípulo"
 numero: 1288
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong sonrió levemente, "Por supuesto". No había mostrado interés en los huesos del Buda del Dios Ancestro para simplemente enojar a los discípulos de la Familia Xiao, sino porque realmente quería comprarlos.

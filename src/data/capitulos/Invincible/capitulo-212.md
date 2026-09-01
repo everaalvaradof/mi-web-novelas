@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 212: Mandato del alma"
 numero: 212
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al darse cuenta de la expresión extraña en el rostro de Xie Puti, Huang Xiaolong inclinó la cabeza para controlarse. Su ropa todavía estaba puesta, no había nada malo por lo que podía decir.

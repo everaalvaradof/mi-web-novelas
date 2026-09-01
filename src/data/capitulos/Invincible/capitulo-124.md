@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 124: Residencia Li Obliterada"
 numero: 124
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong salió del antiguo campo de batalla después de pasar unos días adentro. El lugar en el que apareció fue el mismo lugar del que desapareció cuando viajaba a través del agujero negro en el Lago de la Iluminación. Sin embargo, Duan Wuhen ya se había ido y solo había silencio en las aguas circundantes.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 358: Cristal de sangre de dragón"
 numero: 358
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se sorprendió por la repentina aparición del dragón óseo no muerto. No esperaba que solo las puertas de la ciudad contuvieran un guardián dragón de hueso no muerto.

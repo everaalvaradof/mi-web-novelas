@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1470: Una Pareja Perfecta"
 numero: 1470
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El cuerpo de Zhao Lei exudaba un aire helado.

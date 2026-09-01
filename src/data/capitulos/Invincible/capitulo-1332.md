@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1332: La Tribu del Cadáver Gigante de los Nueve Yin"
 numero: 1332
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Media hora después, un estruendo retumbó en el aire. Finalmente, la pequeña vaca había roto la Formación de las Grandes Almas Muertas del Mundo Espiritual con la ayuda de la bestia diablo vacía Xu Baisheng. El espejo antiguo finalmente quedó expuesto frente a ellos.

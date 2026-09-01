@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1429: Él lo haría"
 numero: 1429
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las cejas de Huang Xiaolong se fruncieron levemente al sentir que Tie Qianyuan se negaba a decir la verdad, pero decidió no seguir adelante con el asunto. En su lugar, se volvió hacia la pequeña vaca y le preguntó: "Xiaoniu, ¿tienes una solución?" Se refería a las heridas de Tie Qianyuan.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 583: Búho Venenoso de Darksprite"
 numero: 583
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Pero, gran jefe, ¿no deberíamos intentar investigar a este mocoso?" El trabajador de la tienda vaciló antes de sugerir.

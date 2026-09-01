@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1339: El respaldo de la Puerta del Espíritu Azul"
 numero: 1339
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los expertos de Blue Spirit Gate sintieron un fuerte miedo en sus corazones.

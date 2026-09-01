@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1026: ¡El Hermano Mayor Huang es muy malo!"
 numero: 1026
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando el grupo de nivel superior de Tie Family Fort llegó a las puertas, lo primero que vieron fue el rostro arrogante, complaciente y altivo de He Cheng. Detrás de él estaba un grupo de expertos de la familia He.

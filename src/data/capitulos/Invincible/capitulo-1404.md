@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1404: No hay que dejarle escapar"
 numero: 1404
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Gudu Yue y Song Rui estaban confundidos por la reacción del subordinado. También se volvieron para mirar al otro lado de la calle y se sorprendieron al ver la nave voladora gigante en el espacio aéreo sobre la residencia de Huang Xiaolong que había aparecido de la nada.

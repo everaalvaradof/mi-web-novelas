@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 955: Un Arte Que Puede Devorar Almas Yin"
 numero: 955
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras viajaban, Huang Xiaolong le preguntó a Zhao Yucheng sobre asuntos relacionados con la próxima ceremonia de sucesión del Maestro de la Secta de Refinación Fantasma. Aunque lo que Zhao Yucheng sabía era limitado, de su conversación, Huang Xiaolong pudo deducir que no fueron solo las Puertas del Demonio Espiritual las que recibieron la orden, otras fuerzas de primer rango también la recibieron.

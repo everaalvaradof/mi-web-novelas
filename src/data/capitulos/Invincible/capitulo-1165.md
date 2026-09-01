@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1165: Mocoso, ¿Estás Seguro?"
 numero: 1165
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Esta pequeña belleza tiene buen ojo". Al ver que la discípula sabía que era de la Secta Origen del Dragón, Liu Lui sonrió y se dirigió hacia Hu Dan con complacencia.

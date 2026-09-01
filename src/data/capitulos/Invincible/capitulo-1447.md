@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1447: La Competencia de Rango finalmente está aquí"
 numero: 1447
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El élder Bai tuvo que dar más detalles después de ver la expresión confusa de Zhang Dong: “Un discípulo llamado Huang Xiaolong se registró justo antes que Peng Xiao. Tiene la Deidad de los Cinco Elementos de alto rango de emperador con el cultivo actual del Reino de Dios Ancestro del Décimo Orden.

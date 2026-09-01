@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 572: Los sirvientes no están permitidos aquí"
 numero: 572
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong negó con la cabeza al escuchar esto: “Gracias, tercera hermana aprendiz mayor, no es necesario por ahora. Cuando llegue el momento, yo mismo aniquilaré a la familia Ying ".

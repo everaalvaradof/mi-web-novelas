@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 36: Ciudad Real Luo Tong"
 numero: 36
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡El frente del mapa del tesoro era en realidad un dibujo de un mono!

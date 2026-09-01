@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1095: Entrando en el Templo Sagrado del Dragón Dorado"
 numero: 1095
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Li Yahong y los pocos discípulos que miraban desde los lados estaban estupefactos, mirando aturdidos el brillante núcleo de oro del Nefarious Devil sentado en silencio en la encimera.

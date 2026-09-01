@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1558: ¡Finalmente fuera!"
 numero: 1558
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong, Jiang Hong, Xiang Xun, Feng Er, los demás y los bárbaros aparecieron consecutivamente en la misma área. Cuando salieron los expertos de los bárbaros, inmediatamente escanearon su entorno. Al mismo tiempo, sintieron la diferencia en la energía espiritual, el aire y todo lo demás a su alrededor. Todos empezaron a gritar de alegría.

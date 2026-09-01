@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1611: Puerta del Asura del Infierno"
 numero: 1611
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Gu Chengfeng se rió locamente y volvió a arremeter contra su largo látigo. El látigo largo era como una víbora venenosa mientras se acurrucaba y atrapaba a docenas de transeúntes por la cintura. Cuando retiró su largo látigo, se rompieron por la mitad.

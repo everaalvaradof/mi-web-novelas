@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1128: ¡El regreso de Chen Hao!"
 numero: 1128
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Centrado en la corteza del árbol del dragón ancestral que flotaba frente a él, Huang Xiaolong hizo circular constantemente el poder devorador de su Dios Supremo Archidevil.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 644: Convertido en un idiota"
 numero: 644
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Jiang Yu se rió al final de su oración; una risa loca, arrogante, complaciente, vibrante.

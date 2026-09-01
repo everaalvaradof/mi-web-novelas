@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1736: ¡Avisa rápidamente al Viejo Ancestro!"
 numero: 1736
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Shi Yinyu ignoró su sugerencia con una sonrisa y dijo: "El Viejo Antepasado y el Señor Padre están ocupados forjando el artefacto del tesoro grandmista; no los molestaremos con este asunto. Espere hasta que hayamos obtenido la Flor de las Tres Vidas, podemos darle al Viejo Antepasado y al Señor Padre una gran sorpresa. ¿No es mucho mejor?"

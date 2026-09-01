@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1670: Varias Partes Reunidas en la Ciudad del Nirvana"
 numero: 1670
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Una hora después, Huang Xiaolong y su grupo aparecieron frente a la Mansión heaven Dome. Era precisamente la residencia que la Cámara de Comercio del Rey del Inframundo había arreglado para Huang Xiaolong.

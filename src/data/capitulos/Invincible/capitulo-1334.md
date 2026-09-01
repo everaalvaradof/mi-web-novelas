@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1334: El Tesoro de Tianwu"
 numero: 1334
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de 'subyugar' a los Grandes Ancianos de la Secta Ondas de Arena, el grupo de Huang Xiaolong continuó volando a la cueva fantasma que la pequeña vaca había mencionado.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 146: ¿Tomando el primer lugar de la clase?"
 numero: 146
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Hace unos días, los guardias de nuestra Mansión Tianxuan fueron enviados a comprar algunos suministros, y en el camino, se encontraron con los guardias de la Mansión del Primer Ministro, y decían que las cosas que nuestros guardias querían estaban reservadas por ellos hace mucho tiempo". Respondió Fei Hou. “Entonces, se produjo una discusión. Uno de los guardias del primer ministro atacó repentinamente, hiriendo a uno de los guardias de nuestra mansión y, por lo tanto, estalló una pelea ".

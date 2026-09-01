@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 332: Incluso si le dan alas... no podrá escapar."
 numero: 332
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Ao Baixue se sentó en el asiento del trono en el pasillo, sus dedos acariciaban las esmeraldas que decoraban los lados...

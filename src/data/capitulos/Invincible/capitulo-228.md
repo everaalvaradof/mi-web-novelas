@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 228: Pistas de la ubicación del piadoso monte Xumi"
 numero: 228
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 “¿ Qué? ¡Habilidad de batalla de creación propia! " Los otros siete ancianos soltaron asombrados ante la idea.

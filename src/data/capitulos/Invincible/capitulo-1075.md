@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1075: Demasiado asustado para salir"
 numero: 1075
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Wei Chao resopló con frialdad: "Hemos esperado tres días, este punk finalmente se fue de South Huai City".

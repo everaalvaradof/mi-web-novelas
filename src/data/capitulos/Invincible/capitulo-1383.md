@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1383: Los Espíritus del Dios del Mar"
 numero: 1383
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los Grandes Ancianos de la Familia Guo se recuperaron de su conmoción. La furia subió a sus corazones y todos hicieron circular su fuerza divina para atacar a Huang Xiaolong, cuando un impulso abrumador brotó del cuerpo de Xiang Xun.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1831: Tíralo a la basura"
 numero: 1831
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Antes de llegar, Huang Xiaolong había investigado a fondo el Mundo del Diablo, y había aprendido sobre el Culto al Simio del Diablo.

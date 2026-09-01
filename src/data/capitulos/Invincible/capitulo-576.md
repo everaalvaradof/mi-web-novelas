@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 576: Instituto del Dragón Azul"
 numero: 576
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mucho, mucho tiempo después, Fang Qunzheng finalmente pudo apartar los ojos de la brillante 'cascada'. Reprimiendo el asombro que sintió, procedió a manejar el papeleo de las tres propiedades alrededor de Divine Fort Residence.

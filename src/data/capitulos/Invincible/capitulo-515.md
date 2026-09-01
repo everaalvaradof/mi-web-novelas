@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 515: Galaxia Tortuga Negra"
 numero: 515
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡El soberano es poderoso!"

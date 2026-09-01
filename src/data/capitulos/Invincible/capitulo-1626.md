@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1626: ¿El Señor Sun Chang está aquí?"
 numero: 1626
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Gu Cheng respiró hondo y reprimió la intención asesina en su corazón, "¡Supongo que no hay otra opción ahora que dejar que ese niño viva por otro mes!"

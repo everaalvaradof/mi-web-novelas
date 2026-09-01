@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 948: '¿No lo sabes?'"
 numero: 948
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dentro de la residencia principal del Clan Wangu. Cuando el patriarca del clan Wangu, Wangu Yutai, escuchó al anciano Wangu Changqing decir que Huang Xiaolong mató a Mo Dingtian y Mo Su, además de tomar el control del antiguo clan diablo, se quedó aturdido durante un buen rato, incapaz de recuperar los sentidos durante mucho tiempo. tiempo.

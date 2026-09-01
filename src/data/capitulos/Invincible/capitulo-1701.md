@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1701: He Braced Him Him Him y Came Ou"
 numero: 1701
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Shi Wushuang miró en dirección al grupo de Tai Yue y dijo pensativamente: "Esperemos un poco más".

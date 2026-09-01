@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 738: He Feifan se abre paso hasta el Reino de los Dioses Mayores"
 numero: 738
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A Huang Xiaolong no le preocupaba que los clanes de las bestias demoníacas encontraran las partes del cuerpo selladas del Rey Bestia de los Cien Espíritus ante él.

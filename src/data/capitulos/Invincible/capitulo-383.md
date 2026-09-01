@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 383: Deidades Fuerzas del Templario."
 numero: 383
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Exactamente como dijo Shi Fantian, en el momento en que terminó su oración, las miradas de la emperatriz Lin Mengle y el grupo de consortes, sirvientas y guardias vagaron por Huang Xiaolong de arriba a abajo.

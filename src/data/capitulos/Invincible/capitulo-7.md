@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 07: Un Valle Extraño"
 numero: 7
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 De vuelta en su pequeño patio dentro del Patio Oriental, Huang Xiaolong se sentó en la cama de madera pensando en la escena en el Patio Norte. Tanto la actuación arrogante, fría e hipócrita de Huang Wei como de su padre hicieron que un rastro de malicia emergiera en su corazón.

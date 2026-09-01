@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 503: Medio Paso Reino de Dios"
 numero: 503
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong estaba preparando el tercer ataque de Godly Xumi Art, concentrándose por completo en los Quince Movimientos del Dios Dragón, un fuerte bramido sonó desde el Gran Valle del Rift a continuación: "¡Nine Yang Palm!"

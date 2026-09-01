@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 517: Un Suave Golpe de Palma"
 numero: 517
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡¿Eres realmente hábil haciendo tonterías ?!

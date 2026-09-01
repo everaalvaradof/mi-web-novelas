@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1306: Ser Suprimido Bajo la Torre del Dios del Mar"
 numero: 1306
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Tú, tú, déjame ir!" El discípulo del Golden Phoenix Pavilion gritó furiosamente mientras seguía luchando.

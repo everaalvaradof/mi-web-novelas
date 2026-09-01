@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 363: Dragon Pearl"
 numero: 363
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al mirar los cuerpos de los expertos del Clan Dragón de veintitantos años en estatuas de cristal, la respiración de Huang Xiaolong se hizo pesada.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 631: Godhead Strata"
 numero: 631
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A su llegada, los cinco hombres hicieron observaciones rápidas de los alrededores, luego, bajo el mando de un hombre de mediana edad vestido con una túnica de brocado dorado, los cinco volaron en la dirección que Huang Xiaolong había dejado antes.

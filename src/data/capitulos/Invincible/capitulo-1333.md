@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1333: Liang Luwen se queda mudo"
 numero: 1333
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Un poco más tarde, el grupo de la Secta Ondas de Arena también vio a Huang Xiaolong, la vaca pequeña, la bestia diablo del vacío Xu Baisheng y otros.

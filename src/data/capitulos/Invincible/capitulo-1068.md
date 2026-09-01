@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1068: Heart Devil Blood Curse"
 numero: 1068
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mirando la linda expresión de Santa Madre Yao Chi, Huang Xiaolong se rió suavemente, “¿No dije que todo estará bien? En el futuro, nadie podrá golpearte ".

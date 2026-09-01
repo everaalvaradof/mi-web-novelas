@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 594: Ofrecerte Una Taza De Té"
 numero: 594
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Usted!" La cara deformada por la ira de Jiang Yongheng estaba abandonada mirando a Liu Yun. La demostración de fuerza de Liu Yun había excedido su estimación. La pregunta era, ¿insistiría en actuar?

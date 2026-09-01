@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 91: El avance hacia la séptima orden"
 numero: 91
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong vio la reacción de Jiang Teng y no pudo evitar sacudir la cabeza con una sonrisa de impotencia; ¿Era tan horrible? Ignorando a Jiang Teng, Huang Xiaolong fue a su asiento y se sentó.

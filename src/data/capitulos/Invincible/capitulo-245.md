@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 245: Entrando en las Tierras del Caos"
 numero: 245
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿El dueño de Godly Mt. Xumi no se caerá tan fácilmente?" Huang Peng y Su Yan estaban estupefactos. Aunque ambos sabían que su hijo poseía el Tesoro Celestial, ninguno de ellos había oído hablar de este detalle en particular.

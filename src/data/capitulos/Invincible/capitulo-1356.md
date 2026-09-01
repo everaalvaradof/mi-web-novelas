@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1356: Feng Yingying se queda boquiabierta"
 numero: 1356
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Guo Shi, ¿qué pasó?" El antepasado de la familia Guo, Guo Da, preguntó con urgencia.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 854: Otro"
 numero: 854
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aunque el talento de Yelu Xuan no era tan alto como el de Yelu Tianfeng, ¡seguía siendo uno de los pocos talentos preciosos de la familia Yelu!

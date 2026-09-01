@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1074: La Secta del León Berserk"
 numero: 1074
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La expresión de Li Qingyang reveló la duda en su corazón, "¿Quieres decir...?"

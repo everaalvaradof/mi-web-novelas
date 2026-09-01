@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1468: Medio año después"
 numero: 1468
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Había una expresión neutral en el rostro de Huang Xiaolong mientras observaba a Zhao Lei reír exuberantemente.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 207: Ojo de la reencarnación"
 numero: 207
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Ese viejo Guo Chen está practicando a puerta cerrada para abrirse paso hacia el reino

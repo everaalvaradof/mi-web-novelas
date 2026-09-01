@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1758: Línea de sangre de archidemonio de grado extremadamente alto"
 numero: 1758
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong y los demás se dieron la vuelta y vieron a un apuesto joven pelirrojo parado al frente, guiando a los discípulos del Palacio del Emperador Dios Demonio. Además, había una insignia del Palacio del Emperador del Dios Demonio bordada en la túnica que llevaba. Sin embargo, en general, irradiaba un tipo de calidez que hacía que la gente sintiera que era extremadamente confiable.

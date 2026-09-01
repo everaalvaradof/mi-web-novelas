@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 336: Mayor Huang"
 numero: 336
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿Deidades la santa doncella del templario? Un ceño fruncido arrugó la frente de Huang Xiaolong mirando a Ao Baixue, su instinto le dijo que Ao Baixue no estaba mintiendo.

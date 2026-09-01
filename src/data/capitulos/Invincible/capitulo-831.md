@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 831: La Formación Central La Formación Central"
 numero: 831
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Tres días!" Green Dragon Beast King, Ancestor Bifang y Ancestor Mountaingoat, que ya estaban fatigados por tantos días de esfuerzo, de repente rebosaron de energía y continuaron atacando frenéticamente la barrera de luz.

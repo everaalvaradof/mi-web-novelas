@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 262: ¿Aliado con la Secta Magi del Cielo?"
 numero: 262
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La rendición de Liu Liyang fue un gran paso en el plan de Huang Xiaolong de tragarse la Escuela Blood Swallow.

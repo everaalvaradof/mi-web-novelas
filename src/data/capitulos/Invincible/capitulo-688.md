@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 688: ¡Tribulación de la píldora!"
 numero: 688
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los espectadores a su alrededor también negaron con la cabeza, sintiendo lástima interiormente por Huang Xiaolong.

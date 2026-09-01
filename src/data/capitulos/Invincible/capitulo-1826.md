@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1826: ¡Huang Xiaolong es el Señor del Infierno!"
 numero: 1826
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A pesar de que Huang Xiaolong estaba recolectando rápidamente los tesoros con la ayuda de las dos extrañas bestias y los Ángeles del Resplandor, todavía les tomó medio día limpiar el tesoro.

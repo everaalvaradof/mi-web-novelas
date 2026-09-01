@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 306: Luchando contra el Reino Santo"
 numero: 306
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Zhao Chen se rió disimuladamente, "¿De verdad planeas pelear conmigo?" Su tono estaba lleno de burla.

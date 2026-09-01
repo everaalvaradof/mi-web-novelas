@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1370: La Pelota de Buda del Maestro del Reino de Dios"
 numero: 1370
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Señor Dios del Mar, llegaremos a Vientiane World en dos días con nuestra velocidad actual!" El antepasado de la familia Guo, Guo Da, le comentó a Feng Yingying. ¡La sed de sangre y la emoción brillaron en sus ojos cuando dijo eso!

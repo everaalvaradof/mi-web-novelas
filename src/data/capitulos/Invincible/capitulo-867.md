@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 867: Animando en voz alta"
 numero: 867
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que los discípulos de la familia Yelu terminaron de transmitir el mensaje a Yelu Tianfeng y otros discípulos de la familia, notaron que alguien estaba allí con ellos.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 475: Deja que lo intente"
 numero: 475
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡¿Rascarte un picor ?!

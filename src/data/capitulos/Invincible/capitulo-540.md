@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 540: La batalla por el primer puesto"
 numero: 540
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al mirar el marcador de cristal flotante en el aire sobre la plaza, tanto los expertos presentes como los discípulos de la familia quedaron estupefactos.

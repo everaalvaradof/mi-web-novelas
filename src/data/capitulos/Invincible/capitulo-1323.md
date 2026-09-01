@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1323: Li Lu no está aquí"
 numero: 1323
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El grupo de Huang Xiaolong continuó volando. Tres días después, llegaron al Mundo del Dominio del Viento.

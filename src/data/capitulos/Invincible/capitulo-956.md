@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 956: El Mar del Infierno"
 numero: 956
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El antepasado de Spiriting Demon Gates, Gao Yuan, volvió su atención a Huang Xiaolong, “Runt,

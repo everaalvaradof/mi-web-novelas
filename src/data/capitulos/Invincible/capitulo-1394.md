@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1394: La Piedra de la Velocidad del Espacio"
 numero: 1394
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Otros en el vestíbulo también miraron a Huang Xiaolong.

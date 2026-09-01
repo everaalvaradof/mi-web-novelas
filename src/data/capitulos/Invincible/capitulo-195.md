@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 195: Noticias de Deidades Templarias"
 numero: 195
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Usted!" El miedo era evidente en el rostro de ese hombre mientras miraba a Huang Xiaolong. Luchó por levantarse del suelo lo más rápido que pudo.

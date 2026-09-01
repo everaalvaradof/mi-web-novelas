@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 610: ¿Necesitas que te enseñen?"
 numero: 610
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pero, justo cuando Huang Xiaolong dejó su patio número 1, se encontró con un grupo de discípulos internos, y la persona que los dirigía no era otro que Jiang Bi. Detrás de Jiang Bi estaban Li Dufeng y una docena de otros discípulos internos.

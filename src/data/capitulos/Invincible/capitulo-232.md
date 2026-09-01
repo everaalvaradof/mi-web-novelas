@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 232: ¡¿No eras una Tercera Orden Xiantiana ?!"
 numero: 232
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mirando la versión mejorada del Godly Mt. Xumi, Huang Xiaolong no pudo evitar imaginar, si todos los tesoros celestiales de la lista se combinaran con el Godly Mt. Xumi, ¿hasta qué punto fortalecería los poderes mágicos de esta pequeña montaña dorada? !

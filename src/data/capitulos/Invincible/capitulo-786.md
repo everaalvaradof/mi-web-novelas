@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 786: Buscando el Cuerpo Sellado del Rey Bestia de los Cien Espíritus"
 numero: 786
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El pasillo se sumió en un profundo silencio.

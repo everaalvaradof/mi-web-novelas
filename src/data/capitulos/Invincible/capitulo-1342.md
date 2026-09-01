@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1342: Segunda Etapa del Medio Parasitario Grandmista"
 numero: 1342
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La mirada helada de Feng Er cayó sobre Zheng Guowen. Luego miró hacia otro lado y advirtió: “El señor de la mansión nos ha ordenado que hagamos guardia y nadie puede entrar sin su

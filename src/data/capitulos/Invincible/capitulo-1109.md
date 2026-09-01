@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1109: El Medio Parasitario del Gran Maestro"
 numero: 1109
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Por lo tanto, Huang Xiaolong extendió su estadía en Lin Family Fort.

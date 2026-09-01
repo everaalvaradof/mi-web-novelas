@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 06: ¡Es inútil rogarme!"
 numero: 6
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras estaba sentado en el pasillo, aunque Huang Ming encontró la visita de Huang Peng y Huang Xiaolong un poco repentina, permaneció sentado y no se levantó cuando Huang Peng entró en el pasillo.

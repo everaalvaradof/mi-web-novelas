@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1013: Chen Hao Regresando"
 numero: 1013
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Durante los últimos dos años, Chen Hao había estado entrenando duro en el Bosque del Fénix de Sangre, pero aún se había mantenido al tanto de las noticias dentro de la secta, por lo tanto, sabía sobre el nuevo campeón del Ranking Dragón Sumergido, Huang Xiaolong, que poseía un rango de rey único. divinidad, la divinidad del Caldero de los Tres Hornos. Cada persona tenía una escala inversa, y la de Chen Hao era su hermano menor, Chen Xiong.

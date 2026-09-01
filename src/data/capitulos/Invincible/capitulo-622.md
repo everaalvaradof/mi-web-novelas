@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 622: Los quiero a todos"
 numero: 622
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Un estallido amortiguado resonó en el aire, y todos los presentes parecieron escuchar un ruido claro y nítido de algo que estallaba bajo las palmas de las manos de Huang Xiaolong.

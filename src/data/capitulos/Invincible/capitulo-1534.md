@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1534: Top Secret"
 numero: 1534
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Todos guardaron silencio.

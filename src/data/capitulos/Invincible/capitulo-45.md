@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 45: Encontrando a Li Lu de nuevo"
 numero: 45
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Un malentendido?" Huang Xiaolong se burló: "¿Está seguro de que el manual de técnicas de cultivo que perdió en su subasta no es el Arte de la Luna Negra?" Huang Xiaolong, por supuesto, sabía que el llamado manual perdido de la casa de subastas fue creado por este anciano Lin Yuan.

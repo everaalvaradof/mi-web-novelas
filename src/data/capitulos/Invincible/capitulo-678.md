@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 678: Refinación sin horno"
 numero: 678
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras Lin Yanhan guiaba a un grupo de subordinados hasta la Asociación de Grandes Maestros Alquimistas mientras emitía un aura feroz, Huang Xiaolong estaba sentado en una esquina del salón, esperando su turno con el Anciano de la Luna Ascendente y Shi Xiaofei.

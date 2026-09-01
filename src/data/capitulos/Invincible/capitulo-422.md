@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 422: ¡Me vengaré!"
 numero: 422
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los Ancianos de la Familia Qi se dispersaron, bloqueando todas las rutas de escape en el instante en que Qi Lei arrancó toda pretensión.

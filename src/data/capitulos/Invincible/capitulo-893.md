@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 893: Gran Competencia de la Unión de Alquimistas"
 numero: 893
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al darse cuenta de la expresión seria en el rostro del anciano, Huang Xiaolong también guardó su sonrisa.

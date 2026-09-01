@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1190: ¡Yo, Zhou Xu, soy el número uno!"
 numero: 1190
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡¿Por qué aún no has admitido la derrota ?!"

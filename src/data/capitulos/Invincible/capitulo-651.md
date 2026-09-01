@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 651: ¿Competencia de Gran Maestro Alquimista?"
 numero: 651
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pero, fue como si el Anciano de la Luna Ascendente no se diera cuenta de la expresión de 'querer golpear a alguien hasta convertirlo en pulpa' en el rostro de Huang Xiaolong. Con una sonrisa complaciente todavía en su rostro, dijo: “Olvídalo, mejor deja que este anciano te lo diga. Eso es una divinidad. ¡Un tesoro invaluable irremplazable, una divinidad! Sabes lo que es una divinidad,

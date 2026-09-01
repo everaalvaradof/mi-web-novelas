@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 673: Destruido"
 numero: 673
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Por tradición, cada término del Concurso de Grandes Maestros Alquimistas se llevó a cabo en la Ciudad Real de la Píldora.

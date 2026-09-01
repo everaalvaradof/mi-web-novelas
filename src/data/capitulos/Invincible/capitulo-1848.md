@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1848: La calabaza del diablo"
 numero: 1848
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El viejo antepasado de la Puerta del Diablo Absoluto dejó de girar de repente, y la rueda comenzó a agrietarse.

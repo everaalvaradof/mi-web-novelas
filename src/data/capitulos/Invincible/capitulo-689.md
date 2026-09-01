@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 689: Dame un poco de cara"
 numero: 689
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 “¡No, no es posible! ¡No pueden ser de grado de tribulación! " Xiang Mingzhi gritó histéricamente, señalando a Lin Pinghai y a todos en el escenario anfitrión, gritando como un loco: "¡Debes ser tú el que se pone del lado de Huang Xiaolong, falsificando deliberadamente las cosas!"

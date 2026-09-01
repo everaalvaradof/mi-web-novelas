@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1389: ¿Bajo ataque?"
 numero: 1389
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En cuanto a la mitad inferior de la Estela del Diablo Ojo de Sangre, Huang Xiaolong planeaba buscarla después de ingresar a la sede de Fortune Gate.

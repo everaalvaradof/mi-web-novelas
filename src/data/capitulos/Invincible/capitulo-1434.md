@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1434: ¡El Reino del Dios Ancestro de la Séptima Orden!"
 numero: 1434
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Esa noche, Yao Chi y Li Lu durmieron en una habitación, mientras que Huang Xiaolong se quedó contando ovejas, solo.

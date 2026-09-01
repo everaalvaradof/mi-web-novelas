@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 497: ¡Matar a Huang Xiaolong!"
 numero: 497
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las espadas en blanco y negro volaron inmediatamente después de atravesar el pecho de Huang Xiaolong, convirtiéndose en dos senderos de luz que volaron directamente hacia la frente de Huang Xiaolong. ¡Su velocidad fue varias veces más rápida que antes!

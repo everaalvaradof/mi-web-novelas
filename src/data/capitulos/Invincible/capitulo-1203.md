@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1203: El refinamiento de la estela del Diablo Sans"
 numero: 1203
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong y los demás tragaron saliva. ¿Un cultivador máximo del Reino de Dios Ancestro de la Décima Orden todavía no estaba calificado para participar en la Batalla de la Corte Celestial?

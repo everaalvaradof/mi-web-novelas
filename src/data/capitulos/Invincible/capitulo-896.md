@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 896: Descendiendo en el Mundo del Espíritu Marcial"
 numero: 896
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Incluso los cultivadores que vinieron a residir en Martial Spirit World, atraídos por su energía espiritual asombrosamente rica, ahora estaban vendiendo sus residencias a precios bajísimos solo para poder irse un segundo más rápido.

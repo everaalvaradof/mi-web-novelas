@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1819: El Emperador Lan Zhi ha huido"
 numero: 1819
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A medida que el nefasto qi continuó condensando estas figuras demoníacas, la fuerza de Feng Chu aumentó a otro nivel.

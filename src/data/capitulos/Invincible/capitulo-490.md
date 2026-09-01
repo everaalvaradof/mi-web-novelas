@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 490: Encontrarse con viejos conocidos"
 numero: 490
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cerca del mediodía, el sol abrasador era despiadado. La gran tierra estaba reseca, como si el cruel sol hubiera succionado hasta la última gota de humedad.

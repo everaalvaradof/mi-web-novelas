@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 789: Fue asesinado por alguien"
 numero: 789
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong salió de la matriz de transmisión de Cloudsea Mainland, en el aire de arriba, vio a muchos discípulos de las diversas familias de la Galaxia de la Tortuga Negra volando dentro y fuera de la ciudad, dando a luz sentimientos nostálgicos.

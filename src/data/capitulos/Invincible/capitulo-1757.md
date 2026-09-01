@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1757: Joven Maestro del Palacio del Emperador Dios Maldito"
 numero: 1757
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar la voz familiar que lo llamaba tío, Huang Xiaolong sonrió aún más. Después de esto, un olor aromático asaltó su nariz.

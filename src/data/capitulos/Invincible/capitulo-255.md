@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 255: No hay medicina para el arrepentimiento."
 numero: 255
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El impulso del qi de batalla de Geng Ken explotó, una luz brillante brilló detrás de él, ¡revelando un martillo gigante!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 565: La compra de una mansión"
 numero: 565
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong miró con desprecio cómo los otros discípulos internos, así como Li Dufeng, se marchaban. Estaba seguro de que Li Dufeng no dejaría pasar este asunto, sin embargo, esto solo hizo que las cosas fueran más animadas.

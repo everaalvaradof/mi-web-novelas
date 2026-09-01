@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 15: Se me resbalaron las manos"
 numero: 15
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver el acto de locura de Huang Wei, Huang Xiaolong se burló y caminó lentamente hacia él. Al ver acercarse a Xiaolong, Huang Wei, que murmuraba y gritaba locamente, se detuvo de repente. El miedo ascendió por sus ojos mientras inconscientemente retrocedía, sin embargo, justo cuando abría la boca queriendo admitir la derrota, una sombra se desdibujó y el puño de Huang Xiaolong se estrelló directamente en su rostro. Huang Wei gritó miserablemente y se tambaleó inestable.

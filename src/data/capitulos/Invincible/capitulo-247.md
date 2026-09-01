@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 247: ¿No quieres?"
 numero: 247
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 No fue hasta que las dos personas se acercaron a cien metros que Huang Xiaolong gradualmente terminó su práctica. Haciendo converger su flujo Asura Demon Claw dentro de su cuerpo, Huang Xiaolong escrutó a las dos personas que se acercaban, una desde el frente y la otra detrás de él.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1789: Masacre Emperador Bead"
 numero: 1789
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Todos los ojos de la multitud estaban puestos en el número que el discípulo del Emperador del Dios Demonio Feng Chan había dibujado, especialmente el grupo del Palacio del Emperador del Dios Demonio. Apretaban fuertemente las manos en tensión.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1607: El Reino del Rey Dios de la Novena Orden"
 numero: 1607
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mirando el Jade del Rey del Inframundo que emitía un brillo negro ante él, Huang Xiaolong no se apresuró a romper la cuarta restricción. En cambio, usó la Concha Espiral Celestial de Jade lunar para proteger su alma divina antes de hacer cualquier otra cosa. Cuando terminó, usó su fuerza divina para golpear la Formación Chaos Golden Dragon Lightning Pool ubicada en su glabella y un rayo cegador de luz dorada salió disparado de su cuerpo.

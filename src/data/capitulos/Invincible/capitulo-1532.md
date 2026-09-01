@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1532: ¿Cómo puede ser esto?"
 numero: 1532
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Bajo las miradas de todos los presentes, los treinta y tantos dragones de sangre giraban uno alrededor del otro. Cuando se formó un solo dragón de sangre enorme, la luz carmesí que emitió casi cegó a todos.

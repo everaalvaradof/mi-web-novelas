@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 153: El Número Uno de la Academia"
 numero: 153
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Debajo del escenario, el maestro de tercer año de la clase tres, Chen Xiaojing, casi se dislocó la mandíbula mientras miraba atónito a las tres personas, Xie Wei, Jiang Chengyu y Chen Fengli, que fueron derrotados por Huang Xiaolong.

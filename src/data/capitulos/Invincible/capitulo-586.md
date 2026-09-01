@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 586: Acercándose al Tesoro"
 numero: 586
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Están aquí por el tesoro también?" Huang Xiaolong tenía dudas.

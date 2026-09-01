@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 223: Reacción del Altar del Bendito Buda."
 numero: 223
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Era una mañana brillante y soleada al día siguiente.

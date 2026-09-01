@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 761: La Familia Wan"
 numero: 761
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 No mucho después de dejar el Mundo del Fuego, el grupo de siete de Huang Xiaolong alcanzó la superficie del mundo más cercana que tenía una matriz de transmisión, transfiriéndose a otra superficie mundial.

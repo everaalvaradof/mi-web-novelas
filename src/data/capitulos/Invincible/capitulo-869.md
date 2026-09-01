@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 869: Entrando en el Top Ten"
 numero: 869
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Si te mato, ¿qué tan alto crees que subirá mi clasificación?" Huang Xiaolong preguntó de repente, con una sonrisa avergonzada en su rostro.

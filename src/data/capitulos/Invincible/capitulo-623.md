@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 623: Formación Bagua Trigrams-Palacio de los Nueve Salones"
 numero: 623
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Había pasado un día desde la conmoción de All Dragons League.

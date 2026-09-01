@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1310: Feng Yingying"
 numero: 1310
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El hígado de Zhu Feng estaba a punto de explotar, ya que un discípulo de la familia Guo meramente común se había atrevido a tratarlo de una manera tan insultante. ¡Sus puños se apretaron con fuerza, y estaba excluyendo un fuerte impulso de matar al discípulo de esta familia Guo! ¡Mata a este perro de discípulo! ¡Mata a esta humilde escoria!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1844: Agua Sagrada del Diablo"
 numero: 1844
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Incluso los miembros de las suites VIP sintieron que sus ojos se iluminaban cuando vieron la apariencia del Tushita Flying Ship. El Ancestro Archidevil del Simio de Piedra y el Ancestro Archidevil del Relámpago Violento no fueron una excepción.

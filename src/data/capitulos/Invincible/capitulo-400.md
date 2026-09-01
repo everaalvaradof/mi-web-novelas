@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 400: Date prisa, notifica al castellano"
 numero: 400
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Yang Ying, como la hija más noble de una ciudad, la hija del City Castellan, fue objeto de admiración por parte de los discípulos de numerosas familias de South Oblast City. Cuán distinguido era su estatus que incluso los castellanos de otras ciudades en la región de South Oblast mostraron cortesía al conocerla.

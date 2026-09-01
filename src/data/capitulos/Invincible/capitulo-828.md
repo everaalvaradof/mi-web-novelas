@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 828: Fuego Divino del Tigre Blanco"
 numero: 828
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La conciencia de Huang Xiaolong se desvaneció gradualmente y sus párpados se volvieron pesados. Una vez que su conciencia se agotara, la Formación de Tragar Demonios del Corazón despertaría los demonios de su corazón. Si eso sucediera, con el tiempo, no sería diferente a esos extraños monstruos del Reino Highgod que deambulan en la formación, sin una pizca de cordura.

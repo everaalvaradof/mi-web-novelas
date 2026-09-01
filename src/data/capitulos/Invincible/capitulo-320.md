@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 320: Cueva de cultivo del Rey Fantasma"
 numero: 320
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡El Sutra del Rey Fantasma y el Rey Fantasma Dan están en la misma cueva de cultivo, en el quinto piso!" Huang Xiaolong estaba extasiado con esta noticia.

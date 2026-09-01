@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1238: Buscando Cuentas de Oro"
 numero: 1238
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Algunos discípulos que estaban demasiado cerca del cráter volcánico se retiraron rápidamente.

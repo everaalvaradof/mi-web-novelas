@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1864: ¡Shi Ming hace su jugada!"
 numero: 1864
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al enterarse de que el mar negro debajo de ellos era en realidad el Agua de Entierro Negro, la pequeña llama de esperanza en los corazones de los expertos atrapados dentro de la Calabaza del Diablo se desintegró en la desesperación absoluta.

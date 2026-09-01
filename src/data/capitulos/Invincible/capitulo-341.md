@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 341: ¿Enseñarles cómo comportarse?"
 numero: 341
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong no pudo evitar sonreír un poco al escuchar la discusión en la mesa de al lado y no le importó en lo más mínimo.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1042: Reunión en la Ciudad de la Escarcha"
 numero: 1042
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Treinta y seis personas! Cuando el jefe de la secta Elephant Genesis, Pan Jue, escuchó el número, su expresión se volvió aún más fea.

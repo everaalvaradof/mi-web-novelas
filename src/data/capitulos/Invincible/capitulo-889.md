@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 889: ¿Podría su hijo realmente protegerse?"
 numero: 889
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Se dirigía al Instituto Guerrero Negro?" La mirada de Gudu Batian se volvió aguda y escalofriante, "Entonces haré un viaje allí y le preguntaré a esa puta Wang Na".

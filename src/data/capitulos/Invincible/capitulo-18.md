@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 18: Entrenamiento de la habilidad de batalla"
 numero: 18
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Ming se burló dentro de su corazón mientras miraba a Huang Peng dándose la vuelta y alejándose. Naturalmente, no creía que Huang Xiaolong se encontraría con otra increíble suerte de mierda de perro que podría ayudarlo a derrotar a su hijo por segunda vez en la Asamblea del Clan del próximo año.

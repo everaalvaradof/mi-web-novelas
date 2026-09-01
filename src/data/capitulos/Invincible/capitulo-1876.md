@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1876: Ayúdale a aflojar algunos músculos"
 numero: 1876
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Poco tiempo después, los cuatro expertos de la Secta Cuervo Yin fueron llevados al gran salón ante Huo Ye.

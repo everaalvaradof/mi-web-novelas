@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1604: ¿Tres tipos de líneas de sangre de archidiablos?"
 numero: 1604
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Tu primera Fruta Grandmist es la más efectiva, donde cosechas los mayores beneficios". El Rey de grandmista explicó a Huang Xiaolong, Li Lu, Yao Chi y los demás. Agregó: "El efecto se amplifica cuando refinas la fruta Grandmist sentada debajo del árbol grandmista".

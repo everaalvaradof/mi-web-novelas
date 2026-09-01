@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 514: La muerte de Ying Tian"
 numero: 514
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡La técnica de inversión de polvo rojo Soul Seize fue considerada como una de las técnicas malignas más siniestras y poderosas en la antigüedad!

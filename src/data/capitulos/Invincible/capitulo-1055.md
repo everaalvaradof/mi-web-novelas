@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1055: Dirigiéndose al Santuario Celestial Primordial"
 numero: 1055
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 “¡Eso es, Ancestro! ¡A pesar de que Huang Xiaolong ha hecho un acto meritorio al ganar el primer lugar en el entrenamiento conjunto de las tres sectas, trayendo gloria a nuestra secta, no podemos romper las reglas establecidas desde hace mucho tiempo y darle autoridad y trato igual a un Gran Anciano! " Al ver hablar a Cao Yang, Zhuang Xuan también dio un paso adelante valientemente, tratando de persuadir a Lu Zhuo.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 186: ¡Insolente!"
 numero: 186
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Debido a que tuvo demasiado qi de batalla drenado de él y absorbido por el Caldero de las Mil Bestias cuando refinaba al anciano, Huang Xiaolong le dijo a Zhao Shu que descansara mientras Yu Ming y Fei Hou se ocupaban de los asuntos de Southern Hill Estate.

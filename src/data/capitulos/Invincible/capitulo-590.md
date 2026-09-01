@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 590: ¡Surge un problema!"
 numero: 590
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sin demora, Huang Xiaolong recogió un núcleo de bestia dragón divino del Reino de Dios del Décimo Orden y comenzó a refinarlo. A pesar de que Huang Xiaolong eligió un núcleo de bestia dragón divino del Reino de Dios del Décimo Orden, la energía de la esencia demoníaca contenida en el interior era desalentadora. Se arremolinó como un vórtice interminable, corriendo vigorosamente a través del cuerpo de Huang Xiaolong, dándole la sensación de que su cuerpo estaba a punto de explotar en el siguiente segundo.

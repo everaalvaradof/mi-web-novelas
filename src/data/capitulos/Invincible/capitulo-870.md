@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 870: Lo más alto que pudo alcanzar es el octavo lugar"
 numero: 870
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Este Huang Xiaolong, ¿podría ser que no resultó gravemente herido después de matar a Xiang Mingzhi?" Wangu Shuo finalmente murmuró después de un largo silencio mirando el octavo lugar en la lista de clasificación, donde los tres personajes 'Huang Xiao Long' irradiaban luz como el sol del mediodía.

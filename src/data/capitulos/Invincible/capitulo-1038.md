@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1038: Segundo encuentro con Wang Dafeng"
 numero: 1038
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar las palabras tranquilizadoras de Chen Hao, una amplia sonrisa iluminó la expresión sombría de Cao Yang, "¡Tanto la Gran Secta Ballena como la Secta Génesis del Elefante quieren a Huang Xiaolong muerto!" Si este fuera realmente el caso, realmente no necesitan hacer nada en absoluto.

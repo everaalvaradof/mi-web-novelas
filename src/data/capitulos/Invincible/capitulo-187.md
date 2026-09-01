@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 187: Así que, el pequeño mono ha crecido"
 numero: 187
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El mismo general dio un paso adelante queriendo obligar a Zhao Shu a arrodillarse en señal de saludo. Duan Wuhen levantó una mano para bloquearlo, "Déjalo".

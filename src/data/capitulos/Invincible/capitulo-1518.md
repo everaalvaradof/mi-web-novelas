@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1518: No serás capaz de escapar"
 numero: 1518
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al mirar a los guardias del capitán de los tres clanes aplanados en la calle por Xiang Xun, el resto de He Lianfang, Ning Shaozhi y los subordinados de Yang Cheng entraron en pánico y sus ojos se abrieron de terror.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 329: ¿No se puede rescatar?"
 numero: 329
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong y el fantasma gigante Feng Yang subieron al primer piso al entrar al restaurante, pero no esperaba encontrarse con el jefe del restaurante justo cuando subía al segundo piso. Al ver a Huang Xiaolong, los ojos del jefe se agrandaron al tamaño de puños, estaba tan emocionado que había temblores en su voz, "¡¿Tú, eres el joven Noble Huang ?!"

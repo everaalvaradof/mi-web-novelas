@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1820: Bloqueando a Feng Chan"
 numero: 1820
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong avanzó sin parar, acercándose al Palacio del Emperador Dios Demonio.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 692: Pistas sobre el paradero de la Tortuga Negra Fuego Divino"
 numero: 692
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver la tibia respuesta de su discípulo, la molestia del Anciano de la Luna Ascendente aumentó y abrió mucho los ojos para mirar a Huang Xiaolong, "Bien, este anciano es demasiado perezoso para decir más". Extendió las manos para agarrar una jarra de vino Royal Pill y gritó: "¡Bebe!"

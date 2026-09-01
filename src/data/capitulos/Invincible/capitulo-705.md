@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 705: ¿Será que estos dos se conocen?"
 numero: 705
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dentro del gran salón de la residencia principal de la Familia Zhao, el Patriarca de la Familia Zhao, Zhao Weitong y todos los Grandes Ancianos de la Familia Zhao estaban discutiendo asuntos relacionados con el Mundo del Espíritu Marcial cuando, de repente, un Anciano en pánico irrumpió en el salón, informando que el Castellano de la Ciudad Emperador Blanco, Zhao Ping, fue asesinado. Aparte de Zhao Ping, varios miles de guardias dentro de la Mansión Castellan de la Ciudad del Emperador Blanco también estaban muertos...

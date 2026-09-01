@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1792: ¡Son ellos!"
 numero: 1792
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong miró a Di Jun riendo con la intención asesina apenas oculta en su Trono de los Nueve Dragones. Una expresión solemne apareció en su rostro y dijo: "De hecho, creo que los dos subordinados detrás de mí podrán protegerme".

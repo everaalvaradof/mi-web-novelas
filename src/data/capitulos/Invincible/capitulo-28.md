@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 28: ¡El pico de la décima orden!"
 numero: 28
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Capítulo 28: ¡La cima de la décima orden tardía!

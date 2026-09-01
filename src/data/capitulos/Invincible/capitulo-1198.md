@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1198: Piscina de Sangre Espiritual"
 numero: 1198
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aunque no necesitaba algún tipo de charco de sangre espiritual para aumentar sus posibilidades de abrirse paso, después de todo era la buena voluntad del Ancestro del Cuchillo de Sangre, por lo que Huang Xiaolong asintió con la cabeza y obedeció.

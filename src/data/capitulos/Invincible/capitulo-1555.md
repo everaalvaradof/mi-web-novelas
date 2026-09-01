@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1555: Entrando en la Tierra de la Pena del Rayo"
 numero: 1555
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong cultivó diligentemente el medio parasitario Grandmist tanto como fue posible antes de llegar a la Tierra de la Penalización. Jiang Hong también estaba cultivando dentro de una de las salas de cultivo del Dragon Shark Flying Ship.

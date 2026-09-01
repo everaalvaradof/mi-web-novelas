@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 730: Décima Orden del Reino de los Dioses"
 numero: 730
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En el extremo receptor de la mirada penetrante de Wude, Huang Xiaolong tuvo la sensación de que estaba siendo presa de una fiera bestia.

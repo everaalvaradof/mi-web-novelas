@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 112: ¡La llegada de la Familia Yang!"
 numero: 112
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pasaron dos días rápidamente y Huang Xiaolong dejó de practicar desde el espacio de la Pagoda del Tesoro Linglong.

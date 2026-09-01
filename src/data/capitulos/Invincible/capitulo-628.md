@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 628: Sneak Attack"
 numero: 628
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Ochenta porciento!

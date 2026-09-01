@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 273: Vacío"
 numero: 273
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los expertos de Sky Magi Sect y Blood Swallow School se pararon de manera respetuosa en el gran salón, bajando los sonidos de su respiración lo mejor que pudieron...

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1817: ¡Todos, no se asusten!"
 numero: 1817
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡El Nuevo Señor del Infierno!

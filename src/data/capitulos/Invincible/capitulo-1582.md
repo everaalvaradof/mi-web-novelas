@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1582: ¿Matar a Fang Gan?"
 numero: 1582
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 “¡Nunca pensé que tus planes fueran tan profundos! Realmente te has escondido bien. ¡No es de extrañar que se haya atrevido a abandonar el Palacio del Emperador Fortune abiertamente sin ocultar su destino! ¡Resultó que tenías expertos en el Reino Emperador para protegerte! " Una expresión cruel apareció en el rostro de Zhou Chen mientras continuaba: “¡Ya que así es como es, haré un movimiento personalmente! ¡Quiero ver si tus guardaespaldas del Reino Emperador podrán protegerte de mí! "

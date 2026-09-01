@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1533: Número 1"
 numero: 1533
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Todos se quedaron en silencio en el momento en que las palabras salieron de la boca de la vaca.

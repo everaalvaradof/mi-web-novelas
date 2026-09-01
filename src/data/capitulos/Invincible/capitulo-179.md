@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 179: Batalla en la Ciudad Imperial (11)"
 numero: 179
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Rayos de relámpagos apuntaron a Yanggang, azotándolo como un torrente salvaje. Vientos aulladores similares a los gritos del infierno bombardearon su cuerpo mientras una fuerte lluvia caía, acompañada por los lamentos de un Asura y rayos furiosos.

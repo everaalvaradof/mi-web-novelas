@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1721: Entrando en el Mundo de los Espíritus"
 numero: 1721
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Si algo estaba preocupando a Huang Xiaolong, definitivamente era algo que tenía que ver con el discípulo del Palacio del Emperador fortuna, Fang Mingyu.

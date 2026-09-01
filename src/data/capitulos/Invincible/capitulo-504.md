@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 504: Aterrorizado por los asesinatos"
 numero: 504
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Qué, retirarse de la alianza?" La expresión del joven Lord Xie Hui del Culto al Dios del Cosmos se hundió al escuchar al Soberano Rong Kun de la Puerta del Cielo Abrasador decir que quería retirarse de la alianza.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1192: ¡Una Cabeza de Dios de Alto Grado Emperador!"
 numero: 1192
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Excelente, excelente, excelente, jajaja!" Golden Brow Ancestor no podía dejar de reír a carcajadas. "¡En realidad es una deidad de rango emperador de alto grado, la Deidad de los Cinco Elementos!"

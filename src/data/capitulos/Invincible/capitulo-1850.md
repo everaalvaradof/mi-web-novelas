@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1850: La Torre del Diablo se abre"
 numero: 1850
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Xing Yinuo vio cómo los miembros de la Secta de los Cien Transformaciones se fueron, no pudo evitar exclamar en estado de shock. "Padre, ¿realmente no vamos a arrebatar el Agua Bendita del Diablo?"

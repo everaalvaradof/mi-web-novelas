@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 258: Luchando contra Chen Xiaotian"
 numero: 258
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡¿Quién eres tú?!" La pregunta salió volando de la boca de Chen Xiaotian mientras estudiaba a Huang Xiaolong con cautela. Su instinto le dijo que Huang Xiaolong no pertenecía a la Escuela Blood Swallow ni a la Secta Nueve Demonios.

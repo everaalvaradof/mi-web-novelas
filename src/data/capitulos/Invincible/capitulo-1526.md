@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1526: Captura a Huang Xiaolong"
 numero: 1526
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Aunque nuestro Palacio del Emperador Demonio Marcial nunca ha tenido miedo de los demás ni debe tener miedo de nadie, ¡algo no está bien en este asunto!" Insistió el antepasado Zhang

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 837: Yelu Tianfeng"
 numero: 837
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se sorprendió por el consejo de su maestro Feng Yang, una sonrisa irónica se elevó en su corazón.

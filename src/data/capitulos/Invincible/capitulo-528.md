@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 528: Ciudad del Guerrero Negro"
 numero: 528
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Habiendo comprado cien núcleos de bestias, libros relevantes y algunos artículos diversos, Huang Xiaolong encontró una posada, alquiló directamente uno de los patios y entró en la práctica a puerta cerrada.

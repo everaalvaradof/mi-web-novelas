@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1144: Fénix Divino de Nueve Colores"
 numero: 1144
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar las palabras de Chen Yifei, Huang Xiaolong negó con la cabeza, pareciendo

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 298: Refinando el pez de energía espiritual"
 numero: 298
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong recordó a los dragones azules y negros de nuevo en su cuerpo, la poderosa atmósfera que surgía a su alrededor convergió lentamente.

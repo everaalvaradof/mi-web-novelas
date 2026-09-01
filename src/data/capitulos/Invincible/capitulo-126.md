@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 126: Huang Min y Li Lu desaparecidos"
 numero: 126
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong soportó las oleadas de dolor agudo que venían de atacar la barrera del décimo orden y, al perseverar, continuó ejecutando Asura Tactics mientras absorbía la energía espiritual del antiguo campo de batalla.

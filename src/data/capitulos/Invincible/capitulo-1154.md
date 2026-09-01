@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1154: Encontrando la Fruta del Dragón Ancestral"
 numero: 1154
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El entorno era el mismo que hace diez años, casi sin cambios.

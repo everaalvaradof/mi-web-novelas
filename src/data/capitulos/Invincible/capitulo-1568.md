@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1568: Estableciendo Barreras del Caos"
 numero: 1568
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong ignoró la acusación de Zhou Chen y continuó explicando: “Querían que entregara las venas espirituales del caos de bajo grado que había ganado del Palacio del Emperador Dios Demonio. Me negué e intentaron usar la fuerza para lograr sus objetivos. No tuve más remedio que ordenarle a Xiang Xun que hiciera un movimiento ".

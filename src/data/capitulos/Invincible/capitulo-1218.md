@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1218: ¡Regresando a la Isla Dralion!"
 numero: 1218
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Ouyang Xun apenas había terminado sus palabras cuando una figura parpadeó. En el siguiente momento, todos vieron que había una persona colgando de la mano de Huang Xiaolong, ¡era Ouyang Xun!

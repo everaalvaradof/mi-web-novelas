@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1127: Cuatro trozos de corteza de árbol de dragón ancestral"
 numero: 1127
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong sonrió dulcemente mientras miraba al supervisor de la sucursal de Four Seas Trading House, "Eso es correcto".

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 55: ¡Desafía a todos los nuevos estudiantes!"
 numero: 55
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡No esperaba un desperdicio con una carta de recomendación para el registro como te atreverías a aparecer!" Al ver llegar a Huang Xiaolong, Xiong Meiqi lo ridiculizó con voz fría.

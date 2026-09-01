@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1403: Refinación de la Fruta Divina del Fénix Blanco Flamígero"
 numero: 1403
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Como una de las siete frutas maravillosas del mundo en el tercer rango, las Frutas Divinas del Fénix Blanco Llameante naturalmente contenían una cantidad impactante de energía. Teniendo esto en cuenta, Huang Xiaolong practicó la precaución y no refinó demasiadas de estas frutas simultáneamente, como solía hacer con otras cosas.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1579: ¿Artefacto Santo?"
 numero: 1579
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Esto podría ser un artefacto santo!" Cuando Huang Xiaolong todavía estaba pensando en lo que podría ser, la pequeña vaca gritó con una expresión que solo podría describirse como una emoción incontrolable.

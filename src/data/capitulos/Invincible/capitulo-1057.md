@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1057: Vena espiritual de cuarto grado"
 numero: 1057
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong alcanzó la trigésima tablilla de la herencia, en el pasillo exterior, Ren Changhai y Zhu Huan se veían extremadamente tristes. De vez en cuando, una pizca de malicia parpadeaba en las profundidades de sus ojos.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 611: Los Nueve Atacan Juntos"
 numero: 611
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong pensó que Wang Na sucumbiría a su ira y comenzaría a matar gente, la espesa intención asesina a su alrededor convergió gradualmente y finalmente desapareció.

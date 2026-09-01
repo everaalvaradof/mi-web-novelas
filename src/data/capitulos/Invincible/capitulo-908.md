@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 908: La cuenta del diablo"
 numero: 908
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sin embargo, antes de ingresar a la Ciudad de los Demonios, el sentido divino de Huang Xiaolong se extendió e inmediatamente descubrió una gran cantidad de discípulos ocultos de Fortune Gate. Entre ellos se encontraba un anciano imponente que exudaba una presión sofocante, definitivamente un maestro del Reino de Dios Alto de la Octava Orden o superior.

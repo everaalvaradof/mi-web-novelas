@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 805: Suprimir la Condensación de una Cabeza de Dios"
 numero: 805
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que pasó un mes, el Rey Bestia de los Cien Espíritus cayó gradualmente bajo el viento contra Huang Xiaolong. De hecho, estaba teniendo dificultades para esquivar sus ataques.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1836: ¡Audaz!"
 numero: 1836
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡¿Quién en el mundo eres ?!" Li Tong gritó con voz ronca. A pesar de que repitió su pregunta, su tono era completamente diferente. Había exigido una respuesta anteriormente, pero ahora había un rastro de sospecha e incluso miedo oculto en su voz.

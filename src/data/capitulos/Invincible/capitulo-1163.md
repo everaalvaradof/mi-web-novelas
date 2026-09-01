@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1163: La clasificación preliminar"
 numero: 1163
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de matar a ese Lobo Celestial Rugiente, la ficha de registro de Huang Xiaolong emitió un tenue resplandor cuando aparecieron cien puntos.

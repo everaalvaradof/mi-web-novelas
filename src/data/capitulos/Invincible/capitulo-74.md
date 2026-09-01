@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 74: Cultivando En El Valle De La Llama Del Dragón"
 numero: 74
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡¿Te las arreglaste para ponerte en contacto con tu Maestro ?!" Cuando Huang Xiaolong escuchó esto, no pudo evitar sentirse feliz.

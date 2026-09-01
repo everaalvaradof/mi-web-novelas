@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 767: ¿La Fuerza Real del Anciano de la Luna Ascendente?"
 numero: 767
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Todos se apresuraron a elegir la bestia demoníaca que más les gustaba como montura. Huang Peng y Su Yan eligieron el par de Bestias de Escamas de Fuego, mientras que Shi Xiaofei y Huang Min seleccionaron un fénix.

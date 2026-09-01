@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 88: ¿Hay tantas coincidencias?"
 numero: 88
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Qué dijiste tú, un humilde plebeyo?" Lin Ke se enfureció y señaló con el dedo a Huang Xiaolong.

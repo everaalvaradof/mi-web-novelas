@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 972: El Rayo Celestial Asesino de Dioses"
 numero: 972
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los cuatro llegaron a un enorme gran salón después de pasar por las puertas del Palacio del Rey Diablo.

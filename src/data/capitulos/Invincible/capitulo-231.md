@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 231: Combinar cuatro tesoros en uno"
 numero: 231
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong pasó los próximos días con la misma rutina; tomando una gota de Elixir de Buda Geocéntrico y activando la Formación de los Diez Budas para practicar el Arte Divino Xumi.

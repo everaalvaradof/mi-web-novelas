@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1761: Consíguelos Ou"
 numero: 1761
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Zhao Lei y Li Shan liberaron su aura cuando vieron la agresión. Sin embargo, a pesar de que su fuerza no era menor que Chen Jianwei, el Palacio del Emperador de los Nueve Dragones tenía a cinco personas de su lado. Por lo tanto, muchos de los discípulos del Palacio del Emperador fortuna sintieron que una gran roca había aplastado sus corazones.

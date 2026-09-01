@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1424: Eres la criada de este chico, ¿verdad?"
 numero: 1424
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de un breve lapso de silencio, Chen Xiao le dijo a Wang Tong: "¡Joven señor Wang, ese punk no puede tener tantas piedras espirituales sobre él!"

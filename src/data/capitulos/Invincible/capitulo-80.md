@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 80: Percance en el Patio del Este"
 numero: 80
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 “¡Hace más de dos años! ¡No sé con qué suerte de mierda de perro se encontró ese mocoso para comerse un trozo de fruta Yang! " Huang Wei se quejó incesantemente y continuó contando cómo Huang Xiaolong lo emboscó durante el combate de la Asamblea del Clan debido a sus celos por el gran talento de Huang Wei y Huang Xiaolong ignoró la hermandad y se rompió los brazos y las piernas frente a todos.

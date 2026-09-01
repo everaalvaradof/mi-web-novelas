@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1328: ¡¿La encarnación de todos los seres vivos?!"
 numero: 1328
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sin saberlo, pasaron tres meses.

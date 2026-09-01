@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1014: Arrodillarse"
 numero: 1014
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Una luz brilló en los ojos de Huang Xiaolong, '¿Chen Hao regresó?'

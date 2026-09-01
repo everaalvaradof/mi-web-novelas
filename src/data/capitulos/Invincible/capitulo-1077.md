@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1077: No es el Reino de los Dioses Antiguos de primer orden"
 numero: 1077
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Ese Anciano de la Secta León Berserk obedeció y voló hacia Huang Xiaolong.

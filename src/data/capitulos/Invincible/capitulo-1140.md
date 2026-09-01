@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1140: Río Galaxia"
 numero: 1140
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Estas cuatro extrañas criaturas eran enormes, cada una de ellas alcanzaba mil zhang de altura y tenían algunas similitudes con el babuino negro, sin embargo, las cuatro criaturas eran diferentes.

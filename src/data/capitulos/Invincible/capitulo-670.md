@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 670: Batalla de la Lista de Dios"
 numero: 670
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Tu maestro no dijo por qué se iba con He Feifan?" Huang Xiaolong preguntó con voz solemne. Shi Xiaofei negó con la cabeza, "No lo hizo, la Maestra solo dijo que regresará en dos meses".

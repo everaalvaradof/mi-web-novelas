@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1669: Envíalos a su camino"
 numero: 1669
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Justo cuando todos pensaron que el asunto terminaría aquí, Huang Xiaolong dijo con indiferencia: "¿Quién dijo que puedes irte?"

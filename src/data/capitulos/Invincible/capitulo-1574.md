@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1574: Segundo Asalto"
 numero: 1574
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Una oscura nube de ira se formó sobre el rostro de Zhao Lei, pero permaneció en silencio.

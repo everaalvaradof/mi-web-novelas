@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1528: Voy a hacer un viaje personalmente"
 numero: 1528
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡¿Qué?!"

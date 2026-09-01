@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1175: Permíteme hacerlo en nombre de los mayores"
 numero: 1175
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En el escenario número cincuenta y seis, cuando otros participantes vieron que el joven bajo y gordo era un discípulo de la Secta de las Ciudades Gemelas, sus rostros palidecieron, especialmente cuando sintieron la presión de un maestro del Reino de Dios Antiguo viniendo de él; los rostros de los tres participantes se tornaron pálidos por la desesperación.

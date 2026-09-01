@@ -1,7 +1,7 @@
 ---
 titulo: "Chapter 680: Será mejor que se vayan rápido"
 numero: 680
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los labios de Lin Yanhan se curvaron en una fría mueca al ver a Jia Liang reprendiéndolo en público, “Jia Liang, ¿recuerdas tu identidad? ¿Cómo te atreves a cuestionar mi decisión? ¡Que broma! No asumas que simplemente porque ese viejo monstruo tuyo es un Gran Diácono, no me atrevería a lisiarte. ¡Incluso si ese Maestro tuyo viene aquí, todavía no podrá protegerte! "

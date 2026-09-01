@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 716: Secta de la Espada Rota"
 numero: 716
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Presionados por el tiempo, Huang Xiaolong y Shi Xiaofei no perdieron el tiempo en las ciudades de las colinas, dirigiéndose directamente a la Montaña Celestial.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 808: Mundo del Norte Invernal"
 numero: 808
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de decidir que acompañará a Shi Xiaofei al Mundo del Norte Invernal, Huang Xiaolong utilizó eficientemente su tiempo para refinar las Píldoras Divinas de Cien Vidas de Primavera Otoño. Después de pasar la noche haciéndolo, pudo producir otros tres lotes.

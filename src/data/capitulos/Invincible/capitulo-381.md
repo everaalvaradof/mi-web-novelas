@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 381: Él es un Dragón Divino Noble Joven"
 numero: 381
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El fuerte grito de ese discípulo de la familia fue como una gran roca que salpica en el mar, levantando miles de capas de olas a través de la multitud.

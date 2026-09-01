@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1631: El Plano de Mohe"
 numero: 1631
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El Plano Mohe fue el Plano Divino número uno en el Mundo Hell Asura.

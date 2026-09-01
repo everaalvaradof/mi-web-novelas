@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1744: Fang Gan está desaparecido"
 numero: 1744
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Éste!

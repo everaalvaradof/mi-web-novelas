@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1648: Dirigiéndose al Cuartel General de la Puerta del Asura"
 numero: 1648
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Sí, Maestro!" El antepasado Shi Yihai cumplió con el máximo respeto, luego organizó a los Grandes Ancianos de su tribu para limpiar el campo de batalla.

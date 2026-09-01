@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1566: Desafiando la orden de un antepasado"
 numero: 1566
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando regresaron al Palacio del Emperador Fortune, Huang Xiaolong no se molestó en perder el tiempo en los planos divinos que lo rodeaban. Voló directamente hacia el palacio.

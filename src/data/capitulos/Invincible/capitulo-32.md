@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 32: El espíritu marcial de Fei Hou"
 numero: 32
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Había diez o más discípulos de la Secta de la Espada de la Túnica Púrpura persiguiendo a la pareja; al ver que habían dejado de correr, los discípulos se dispersaron y rodearon a las cuatro personas en la hoguera.

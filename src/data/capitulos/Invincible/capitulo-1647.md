@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1647: Todos Asesinados"
 numero: 1647
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las palabras de Gao Yu apenas cayeron, cuando un estruendoso estruendo sacudió los cielos y una bola de aterrador poder destructivo barrió en cuatro direcciones.

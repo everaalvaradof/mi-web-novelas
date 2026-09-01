@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 983: La Puerta de la Fortuna del Mundo Divino"
 numero: 983
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A Huang Xiaolong no le sorprendió que Tie Qianyuan aceptara su solicitud.

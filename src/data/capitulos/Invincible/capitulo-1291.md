@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1291: Reparación de la Torre de Mezcla de Píldoras"
 numero: 1291
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se dio cuenta de que su grupo estaba a punto de ser destrozado por la luz dorada, por lo que le indicó a Gui Yi y Gui Er que mataran a Xiao Zhangyu y Chang Fang. Pero de repente, un tramo de ondas negras de energía apareció en el horizonte e inundó hacia la ilimitada luz dorada.

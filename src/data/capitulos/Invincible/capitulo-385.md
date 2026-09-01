@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 385: Niño pequeño"
 numero: 385
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El paso del tiempo fluyó como agua y Huang Xiaolong se había quedado en el Palacio del Bendito Buda durante tres días.

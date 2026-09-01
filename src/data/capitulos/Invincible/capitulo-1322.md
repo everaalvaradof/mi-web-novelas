@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1322: El Reino de los Dioses Antiguos de la Octava Orden"
 numero: 1322
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aunque el Maestro Empíreo Azul no dio ningún detalle en su mensaje a través del talismán de comunicación, le dijo a Wang Wei que aflojar la Entrada del Diablo Sellado podría resultar una oportunidad fortuita para él. Si tenía suerte, la fuerza de Wang Wei podría aumentar significativamente, ¡e incluso podría ayudarlo a avanzar hacia el Reino de Dios Ancestro de la Séptima Orden antes de la ceremonia de sucesión de la Puerta de la Fortuna del Mundo de Vientiane!

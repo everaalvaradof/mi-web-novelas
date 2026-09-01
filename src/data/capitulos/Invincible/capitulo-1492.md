@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1492: Entrando en la reclusión"
 numero: 1492
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En este momento, dentro de la sala de la nave voladora, Golden Brow Ancestor y Blood Knife Ancestor estaban parados detrás de Chen Hao y miraban el vasto espacio exterior. Todavía no podían creer lo que estaba sucediendo: ¡el Palacio del Emperador Fortune había enviado a alguien a la superficie del Mundo de Vientiane para recogerlos!

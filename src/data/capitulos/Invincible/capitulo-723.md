@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 723: Refinando el Loto Negro"
 numero: 723
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 No era una mentira decir que el Anciano de la Luna Ascendente no obtuvo nada en este mes en la Montaña Celestial.

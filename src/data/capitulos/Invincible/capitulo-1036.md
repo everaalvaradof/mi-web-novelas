@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1036: Cao Bishi"
 numero: 1036
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar las palabras del joven vestido de oro, una luz peligrosa parpadeó en los ojos de Huang Xiaolong.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1674: ¿Shi Yinyu? Nunca he oído hablar de ti"
 numero: 1674
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Con la anticipación de las masas, finalmente comenzó la subasta.

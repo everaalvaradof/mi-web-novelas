@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1279: Reunión sobre el Mar Fantasma"
 numero: 1279
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 '¿Ghost Manor?' El interés de Huang Xiaolong se despertó al escuchar su conversación.

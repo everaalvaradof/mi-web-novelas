@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1432: ¡Bienvenido Maestro!"
 numero: 1432
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡¿Mas-Mas-Master ?!" El príncipe Chen apenas podía hablar correctamente con su lengua rígida. Sus ojos se abrieron cuando vio a Zhang Ping postrarse frente a Huang Xiaolong. '¿No es este punk solo el discípulo interno de una secta de Dios Bárbaro? ¿Por qué? ¿Por qué es como este? ¡¿Por qué?!'

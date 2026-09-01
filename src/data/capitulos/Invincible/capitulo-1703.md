@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1703: ¿Su nuevo amo?"
 numero: 1703
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar las palabras de You Fei, He Jingyi no la reprendió esta vez, sino que simplemente suspiró interiormente, '¡Verdaderamente una lástima!'

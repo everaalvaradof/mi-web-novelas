@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1725: ¿Quién es su maestro?"
 numero: 1725
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Si el Salón Inmortal y la Secta del Dios de la Muerte se unieran, incluso la Tribu de cadáveres gigantes de los Nueve Yin dudaría al tratar con ellos. Por lo tanto, Chen Bin no tomó en serio a nadie más que al joven maestro de la Tribu de cadáveres gigantes Nine Yin.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 509: Bestias Demoníacas del Reino de Dios de Medio Paso"
 numero: 509
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dos días después, Huang Xiaolong y su grupo llegaron al borde de la garganta del Mar Muerto.

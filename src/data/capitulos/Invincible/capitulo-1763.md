@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1763: ¿Cómo conoces a Mo Xiao?"
 numero: 1763
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se rió mientras volvía su mirada hacia Gudu Canyang. Justo cuando todos esperaban que hiciera un movimiento, Huang Xiaolong se volvió hacia Zhao Lei y le dijo: "Maestro, vámonos".

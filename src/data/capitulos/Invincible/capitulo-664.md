@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 664: Penalizar a Huang Xiaolong"
 numero: 664
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Contribuyan sus madres al Instituto Guerrero Negro!

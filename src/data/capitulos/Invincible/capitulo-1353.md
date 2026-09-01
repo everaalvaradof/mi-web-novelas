@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1353: Los Siete Maestros del Reino del Gran Dios de la Tribu del Mar"
 numero: 1353
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El Reino de los Diez Mil Elefantes estaba a poca distancia. Por lo tanto, en lugar de teletransportarse, optaron por volar. Con su velocidad de vuelo actual, solo era cuestión de tres o cuatro días.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 850: Tocando la cima de los tres mil"
 numero: 850
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al mirar los edificios dentro de la megápolis frente a él, Huang Xiaolong no podía adivinar de qué estaban hechos. Las murallas de la ciudad reflejaban una tenue luz negra, gruesas capas de nubes oscuras parecían flotar permanentemente sobre la ciudad con relámpagos que las cruzaban como dragones.

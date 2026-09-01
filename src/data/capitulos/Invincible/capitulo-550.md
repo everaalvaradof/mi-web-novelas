@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 550: Refinar el Embrión Espiritual Innato"
 numero: 550
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Gudu Leng, Wang Biaoyuan y las siluetas de los demás desaparecieron de la ubicación de la matriz de transmisión, Huang Xiaolong también hizo su movimiento.

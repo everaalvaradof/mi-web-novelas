@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1867: Noticias sobre el paradero de la Estela del Diablo de la Miríada de Maldiciones"
 numero: 1867
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras Xing Tian hacía preparativos para ingresar al Reino de las Bestias del Diablo, Huang Xiaolong hizo que los diez capitanes de los Netherguards No Muertos maniobraran la Nave Voladora Netherking cuidadosamente a través del denso miasma dentro de las Llanuras de Mara.

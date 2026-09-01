@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 372: Muerte de Yao Shan"
 numero: 372
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En un corto período de tiempo, tres Deidades Ancianos Templarios habían muerto, devorados por los escarabajos del cadáver venenoso, incluso sus almas se convirtieron en alimento en los estómagos de esos escarabajos cadáveres venenosos.

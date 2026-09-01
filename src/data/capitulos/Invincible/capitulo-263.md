@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 263: Chen Xiaotian es demasiado presuntuoso"
 numero: 263
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Jiang Tuanhua envió a Cui Ming a nuestro lado, queriendo discutir una alianza contra la Secta Nueve Demonios?" Huang Xiaolong miró a Chen Xiaotian a su lado.

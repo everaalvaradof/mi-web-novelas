@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 457: Rebelión y Usurpación"
 numero: 457
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡No cualificado!

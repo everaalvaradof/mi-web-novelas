@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 988: Las Frutas de Orkhis"
 numero: 988
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Se produjeron múltiples estampidos contundentes a la vez. Una onda de choque abrumadora barrió el bosque, causando que los árboles altos fueran arrancados del suelo, arremolinándose en el aire.

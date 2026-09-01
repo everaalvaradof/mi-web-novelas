@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1554: Tercera Etapa del Medio Parasitario Grandmista"
 numero: 1554
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A pesar de que Xiang Xun y los demás se habían retirado a cierta distancia, la bola de luz púrpura luminosa Huang Xiaolong continuó ampliándose, ¡extendiéndose sobre un radio de diez mil li!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 206: Pabellón Santo"
 numero: 206
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Yao Fei reflexionó en silencio durante un rato y luego su mano le indicó a Xiao Teng que se acercara y le dijera algo.

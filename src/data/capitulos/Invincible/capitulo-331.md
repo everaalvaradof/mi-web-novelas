@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 331: Las Deidades Templarias Aparecen De Nuevo"
 numero: 331
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los pies de Huang Xiao long se detuvieron a unos metros de He Hui. Una sola mano se levantó y una poderosa fuerza de succión extrajo a He Hui del suelo. Mirando a He Hui con frialdad, Huang Xiaolong repitió lentamente: "¿Cielos más allá de los cielos, montañas más allá de las montañas?"

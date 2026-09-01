@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 964: El Rey Fantasma"
 numero: 964
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 “¡Ve a buscar! ¡¡Descubre quién es ese bastardo !! " El Maestro de la Secta de Refinación de Fantasmas rugió a los actuales maestros de la Secta de Refinación de Fantasmas.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 541: Consulta"
 numero: 541
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Quinientas sesenta y tres bestias demoníacas del Reino de Dios!

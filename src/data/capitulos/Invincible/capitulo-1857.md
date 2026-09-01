@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1857: Llegando a la cima"
 numero: 1857
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong inhaló profundamente, preparándose, y se acercó al primer paso. Cuando su pie aterrizó en el primer paso, un poder espacial abrumador y un poder de ley del caos se precipitaron hacia él desde la cima de la montaña. Luego, la gravedad se unió a la fiesta. Huang Xiaolong sintió que su cuerpo se hundía debido a la atracción gravitacional extrema.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1119: Tribu de Almas"
 numero: 1119
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al detectar al grupo de Four Seas Trading House que lo seguía, Huang Xiaolong frunció el ceño con disgusto.

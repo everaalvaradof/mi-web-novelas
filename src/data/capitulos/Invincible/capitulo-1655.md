@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1655: ¿Superior, tú eres?"
 numero: 1655
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡¿Sentenciarlo a muerte de inmediato ?!

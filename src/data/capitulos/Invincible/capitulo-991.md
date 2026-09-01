@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 991: El joven maestro de la familia Zhu"
 numero: 991
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Más de veinte frutas orkhis flotaban en el aire alrededor de Huang Xiaolong con corrientes de vapor dorado que fluían continuamente y entraban en su cuerpo.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 37: Notificar la Mansión del Duque"
 numero: 37
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver que tanto Huang Xiaolong como Fei Hou habían ignorado su fuerte advertencia y permanecieron de pie en medio del camino, el capitán de los guardias dejó de gritar y decidió que no podía ser molestado. La vida de dos plebeyos sin un centavo no importaba aunque murieran. Cosas como esta sucedían cada dos días en el Reino de Luo Tong, no era nada nuevo.

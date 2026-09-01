@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1151: Clan Ouyang"
 numero: 1151
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Maestría!" El grito de la pequeña vaca devolvió a Huang Xiaolong al presente.

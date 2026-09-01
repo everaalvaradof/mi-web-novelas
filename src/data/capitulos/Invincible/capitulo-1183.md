@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1183: Huang Xiaolong es demasiado despiadado"
 numero: 1183
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La persona que juzgó la etapa número seis de Huang Xiaolong fue un discípulo central llamado Zhang Yang. De pie en el escenario, dijo: "¡Huang Xiaolong de la Secta del Dios Bárbaro y Yang Liming de la Secta de las Ciudades Gemelas, al escenario!"

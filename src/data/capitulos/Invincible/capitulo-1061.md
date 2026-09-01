@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1061: La Gran Boda del Joven Señor de la Familia Cao"
 numero: 1061
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong usó su ficha de identidad de discípulo principal y pasó fácilmente a través de las restricciones de Celestial Immortal Manor. Al entrar, sintió como si hubiera estado sumergido en un océano de energía espiritual, una sensación cómoda lo llenó.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1563: Un lado"
 numero: 1563
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sin embargo, lo que los volvió locos fue el hecho de que no pudieron hacer circular su fuerza divina para sacar los conjuntos adicionales de ropa y armadura que tenían en su anillo espacial.

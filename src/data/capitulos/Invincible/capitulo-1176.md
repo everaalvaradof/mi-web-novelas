@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1176: Jefe de la Secta, por favor, descansa tranquilo"
 numero: 1176
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Con un ligero empujón de su pie, Huang Xiaolong envió a Xiong Dong rodando fuera del escenario. Luego se volvió para mirar a los dos participantes restantes.

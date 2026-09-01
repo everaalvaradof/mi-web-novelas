@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1525: La Ira del Palacio del Emperador Demonio Marcial"
 numero: 1525
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong no pudo evitar sentirse sorprendido. Aunque el hermano mayor Jiang Hong no estaba cien por ciento seguro, había una fuente de aura de abuela en la Tierra del Crepúsculo Flotante y, a juzgar por su tono, había una probabilidad del cincuenta por ciento.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 756: ¡Te atreves a golpear mi cara!"
 numero: 756
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Hongtian miró tontamente cómo la fuerza de su Palma Celestial Abrasadora de Nueve Fénix fue devorada hasta que no quedó nada, murmurando sordamente: "¿Se ha ido?"

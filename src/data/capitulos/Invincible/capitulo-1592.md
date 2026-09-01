@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1592: El Hermano Menor Hermano menor"
 numero: 1592
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Otros en la plaza estaban un poco estupefactos mirando al antepasado Han Qing del Palacio del Emperador Grandmist.

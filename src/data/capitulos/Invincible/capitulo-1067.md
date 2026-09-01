@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1067: A partir de ahora, nadie puede golpearte"
 numero: 1067
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Hace un momento, Cao Yang y el resto estaban discutiendo el propósito de Huang Xiaolong al venir a la ciudad de Cao Bao. Ahora, la Santa Madre Yao Chi se dio cuenta de que Huang Xiaolong debe haber escuchado algunas noticias relacionadas con ella, por lo tanto, sin tener en cuenta el peligro,

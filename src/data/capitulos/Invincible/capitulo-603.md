@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 603: Bestia Dragón de Piedra Ardiente"
 numero: 603
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Basado en la fuerza actual de Huang Xiaolong, fue suficiente para capturar bestias demoníacas finales de la Quinta Orden, incluso el pico de finales del Reino de Dios de la Quinta Orden. Si pudiera domesticar a una manada de bestias demoníacas del Reino de Dios de la Quinta Orden, entonces, dentro de los muros de la Ciudad del Guerrero Negro, ni siquiera la Sexta Orden, la Séptima Orden, probablemente ni siquiera los maestros del Reino de Dios de la Octava Orden podrían asesinar a sus padres y a su familia. .

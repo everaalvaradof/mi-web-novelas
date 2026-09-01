@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 407: ¡El Poder Divino del Soberano!"
 numero: 407
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong ignoró la conmoción en los rostros de los expertos en Deidades Templarias. Su figura parpadeó, apareció frente a Chen Tianqi, y caminó lentamente hacia él solo.

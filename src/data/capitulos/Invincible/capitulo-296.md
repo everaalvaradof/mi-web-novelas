@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 296: Pez de energía espiritual natural"
 numero: 296
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pasó una hora y Huang Xiaolong estaba encantado, el elemento frío extremo del viento azul oscuro fue gradualmente disipado por la Matriz de Destrucción Envolvente de los Mil Demonios dentro del Caldero de las Mil Bestias.

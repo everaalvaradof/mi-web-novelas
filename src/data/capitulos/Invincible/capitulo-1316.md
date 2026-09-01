@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1316: El talento de Guo Jun"
 numero: 1316
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El antepasado de la familia Guo, Guo Da, el patriarca de la familia Guo, Guo Shi, y otros expertos de la familia Guo se sintieron claramente aliviados al ver a Guo Jun recuperarse una vez más.

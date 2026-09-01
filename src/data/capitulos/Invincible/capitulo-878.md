@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 878: ¿Dividir en partes iguales?"
 numero: 878
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Fang Chu de repente dejó escapar un largo aullido, como si su voz perforara un agujero en el vacío, liberando una explosión de luces brillantes.

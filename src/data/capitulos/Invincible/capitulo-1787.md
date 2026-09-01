@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1787: ¿Está el Discípulo del Emperador de la Brillantez Lan Tailong muerto?"
 numero: 1787
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Todos miraron fijamente la etapa seis de la batalla, mirando específicamente los dos dedos de Huang Xiaolong.

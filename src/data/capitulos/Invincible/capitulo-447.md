@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 447: El Bosque de los Elfos"
 numero: 447
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La persona que apareció fue, por supuesto, Huang Xiaolong.

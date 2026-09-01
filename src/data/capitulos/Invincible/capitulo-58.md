@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 58: ¿No entendiste mi significado?"
 numero: 58
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Espíritu marcial de grado once! Una vez que la idea de que Huang Xiaolong poseía un espíritu marcial de grado once se hizo evidente, los ojos de Sun Zhang y Xiong Chu se volvieron deslumbrantemente brillantes. ¡Ese tipo de mirada hizo que Huang Xiaolong se sintiera como una oveja en un grupo de tigres hambrientos!

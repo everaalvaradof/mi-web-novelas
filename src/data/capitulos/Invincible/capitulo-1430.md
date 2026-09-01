@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1430: ¿Cuál es el significado de esto?"
 numero: 1430
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Tie Xinlan y Tie Mu se relajaron un poco después de escuchar la confianza en la voz de Huang Xiaolong.

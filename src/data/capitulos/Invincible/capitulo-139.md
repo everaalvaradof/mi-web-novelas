@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 139: Asesinatos de Acme"
 numero: 139
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mei Sen se abalanzó instantáneamente sobre Huang Xiaolong con los diez dedos de las palmas extendidas, disparando enredaderas negras en masa, cubriendo el cielo como una tormenta y envolviendo a Huang Xiaolong.

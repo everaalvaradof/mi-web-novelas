@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1246: ¿Qué tipo de técnica de puño es esa?"
 numero: 1246
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 De pie en el escenario de batalla, You Wuxin miró fríamente a Huang Xiaolong. A pesar de que You Wuxin había perdido ante Huang Xiaolong, mientras usaba su Arte Ojo de Destrucción Divina en la Ciudad Real de los Diez Mil Elefantes, You Wuxin todavía confiaba en destruir fácilmente a Huang Xiaolong en esta batalla.

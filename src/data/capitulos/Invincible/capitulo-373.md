@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 373: Preceptor del Templo Templario de las Deidades, Ying Tian"
 numero: 373
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Finalmente, deteniéndose para descansar, las expresiones de Gě Gé y de los otros tres Ancianos Templarios de Deidades eran extremadamente feas. Ninguno de los cuatro pronunció una palabra durante mucho tiempo.

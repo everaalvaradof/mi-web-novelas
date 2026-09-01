@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 754: El Emperador Dragón recupera su libertad"
 numero: 754
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong estaba estupefacto por la magnitud de los cambios en su alma.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 442: Refinando un Dragón Divino Primordial"
 numero: 442
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que terminó de mirar las estrellas con Shi Xiaofei, Huang Xiaolong fue a buscar a Zhao Shu y Zhang Fu por asuntos que debían ser manejados antes de comenzar su cultivo a puerta cerrada.

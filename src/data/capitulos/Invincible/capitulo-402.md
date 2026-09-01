@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 402: Llegando al Oblast del Centro"
 numero: 402
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El grupo descendió lentamente sobre la cima de una montaña.

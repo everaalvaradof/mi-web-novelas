@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 569: Aniquilar La Mansión Del Clan Huang De Arriba A Abajo"
 numero: 569
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Zhou Ying, esa puta barata, si no fuera por la protección de la familia Fu, la habría matado". El joven delgado se enfureció: "¡Tarde o temprano, llegará un día en el que tendrá que arrodillarse ante mí y lamerme los dedos de los pies!"

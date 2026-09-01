@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1627: ¡El Poder de la Oscuridad del Jade del Rey del Mundo de las Tinieblas!"
 numero: 1627
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Gu Cheng finalmente recuperó los sentidos cuando se dio cuenta de que Jiao Qingshan ahora estaba directamente frente a él. Cayó de rodillas asustado, "¡El Gran Élder Gu Cheng de la familia Gu rinde homenaje al Lord Comandante Mayor y al Señor Comandante Junior!"

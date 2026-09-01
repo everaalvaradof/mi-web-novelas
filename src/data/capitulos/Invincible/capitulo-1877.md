@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1877: ¡Resultó ser él!"
 numero: 1877
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Muchos Ancestros del Imperio Python Violeta del Relámpago de Fuego saltaron de varios lugares y saltaron hacia Huang Xiaolong con una fuerte intención asesina y ataques letales. Huang Xiaolong se rió burlonamente mientras los observaba. ¿Pensaron estas personas que no los había notado escondidos en las cercanías?

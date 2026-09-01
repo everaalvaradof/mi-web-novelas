@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 876: El Gran Señor Misterioso"
 numero: 876
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Fang Chu miró a Huang Xiaolong y dijo: “Huang Xiaolong, tu talento y velocidad de cultivo están realmente más allá de mis expectativas, eres el genio más talentoso que he visto en innumerables galaxias en tantos años. Durante el registro, ¡tu edad ósea era solo de doscientos cincuenta y ocho! Tsk tsk, doscientos cincuenta y ocho años, ah, y ahora ya has llegado al Reino de los dioses altos de la Segunda Orden, ¡ni siquiera yo puedo evitar estar asombrado!

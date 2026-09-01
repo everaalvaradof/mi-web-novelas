@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 290: Encuentro con Yao Fei otra vez"
 numero: 290
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Tres horas después, Huang Xiaolong regresó a la Ciudad de la Miriada de Dioses desde Broken Tiger Mountain, ya era medianoche.

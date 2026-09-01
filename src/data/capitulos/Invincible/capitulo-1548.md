@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1548: Aplastando Poco a Poco"
 numero: 1548
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Feng Shili vio a un grupo de extraños volando hacia ellos desde lejos, por lo que se detuvo en el aire. Esperó a que llegara el otro grupo. Ahora que había visto a este grupo de forasteros, no tenía prisa.

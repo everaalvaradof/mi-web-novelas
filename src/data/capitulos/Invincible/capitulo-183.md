@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 183: La batalla de la ciudad imperial (15)"
 numero: 183
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Boom!" Ondas de choque explosivas reverberaron en el escenario. El Dedo del Dios Tirano de Xie Puti se dispersó con un golpe de Huang Xiaolong.

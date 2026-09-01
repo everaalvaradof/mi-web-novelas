@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1538: Avances repetidos"
 numero: 1538
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Rayos de luz negra brotaron repentinamente de la estela y brotaron en el cuerpo de Huang Xiaolong. Con una sacudida de su cuerpo, un profundo gruñido emergió de las profundidades del cuerpo.

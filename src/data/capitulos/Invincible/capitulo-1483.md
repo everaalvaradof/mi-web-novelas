@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1483: La súplica de Fang Gan"
 numero: 1483
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Perdido!

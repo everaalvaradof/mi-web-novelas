@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 629: Envíale un gran regalo"
 numero: 629
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Li Ming gimió de dolor cuando su cuerpo se disparó varios li después de sufrir otra patada de Huang Xiaolong. Después de eso, su cuerpo rodó hasta las estribaciones del Golden Dragon Peak.

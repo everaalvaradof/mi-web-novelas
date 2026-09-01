@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 249: Secta Fantasma Sombra"
 numero: 249
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Con Du Xin y Deng Guangliang siguiéndolo, nadie se atrevió a buscar problemas con Huang Xiaolong, de lo contrario, habría habido una docena de personas que vinieron a recibir a Huang Xiaolong con intenciones 'amables' en la nueva ciudad.

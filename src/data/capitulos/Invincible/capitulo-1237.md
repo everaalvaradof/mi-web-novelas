@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1237: La lluvia de cuentas de oro"
 numero: 1237
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Justo cuando Huang Xiaolong estaba sintiendo curiosidad por la identidad de Guo Gang, Luo Yunjie le informó: "Su padre es Guo Jun, el Castellano de la ciudad de la tribu del mar".

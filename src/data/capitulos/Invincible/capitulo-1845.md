@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1845: Ciento veinte millones"
 numero: 1845
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡El Agua Bendita del Diablo era el agua número uno en el Mundo del Diablo!

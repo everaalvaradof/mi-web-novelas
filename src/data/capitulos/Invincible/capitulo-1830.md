@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1830: La Región Norte del Mundo del Diablo"
 numero: 1830
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver que la decisión de Huang Xiaolong era firme, el gigante desolado Tai Yue y los demás solo pudieron cumplir respetuosamente.

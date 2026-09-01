@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 96: Arrestarlo"
 numero: 96
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Momentos después de que Huang Xiaolong cortó la garganta de Bandit Head, el suelo comenzó a temblar y en segundos llegaron los sonidos de soldados y caballos relinchando. Parece que llegó el ejército de la guarnición fronteriza del Reino de Luo Tong.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1847: ¡Arranca el Tesoro!"
 numero: 1847
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong no se molestó en vagar por las calles, y regresó a su patio después de salir de la subasta.

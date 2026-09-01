@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1486: Tío, ¡eres tan grande!"
 numero: 1486
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Una variante de True Dragon Physique que puede evolucionar continuamente!

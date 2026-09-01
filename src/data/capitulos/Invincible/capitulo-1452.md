@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1452: ¿Se ha vuelto loco?"
 numero: 1452
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras gritaba de dolor, el Reino de Dios Ancestro de la Décima Orden miró con veneno a Huang Xiaolong y juró: "¡Te quiero muerto después de que terminemos con la competencia!"

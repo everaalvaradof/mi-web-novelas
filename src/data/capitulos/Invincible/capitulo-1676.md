@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1676: Todas las Espadas Desenvainadas"
 numero: 1676
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En el momento en que apareció el Qilin Oscuro de la Llama Escarlata, nadie podía quedarse quieto. Incluso Song Litao en la habitación privada número uno, He Jingyi en la habitación privada número dos, personas con estatus como Shi Yinyu o Peng Zhengfei, Qin Huangzhong o Zhai Chen, una llama brillante se encendió en sus ojos.

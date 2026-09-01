@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 288: Llegando a la Ciudad de la Miríada de Dioses"
 numero: 288
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Qiao Liang miró mientras el cuerpo de Jin Zhong se convertía en una luz dorada, desapareciendo justo frente a sus ojos, estaba estupefacto y congelado en el acto. Jin Zhong, ¿una octava orden de Xiantian murió así?

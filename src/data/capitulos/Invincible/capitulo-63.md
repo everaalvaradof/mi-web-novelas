@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 63: Árbol gigante subterráne"
 numero: 63
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dos meses después, dentro de una cueva en algún lugar del Bosque de Lunargenta, Huang Xiaolong estaba sentado con las piernas cruzadas. Battle qi brilló en la cueva durante mucho tiempo cuando, de repente, el espacio detrás de él vibró cuando emergió un dragón negro, flotando detrás de su cabeza.

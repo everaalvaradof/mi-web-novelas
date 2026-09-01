@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1016: ¿Una vaca?"
 numero: 1016
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Si hubiera sido un mes antes, la sospecha de Zhao Chenyuan no habría recaído sobre Huang Xiaolong, pero hace algún tiempo, se había extendido la noticia de que Huang Xiaolong tenía una divinidad de rango rey. Si bien la noticia conmocionó a la Secta Elefante Génesis y la Gran Secta Ballena, muchas partes comenzaron a prestarle atención.

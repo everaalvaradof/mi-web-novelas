@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 915: Reino de los Demonios"
 numero: 915
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong abrió los ojos, seguido de un rugido de dragón que brotó de su pecho, reverberando en todo el espacio del cuarto piso.

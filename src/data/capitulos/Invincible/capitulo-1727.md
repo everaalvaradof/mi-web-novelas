@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1727: Mar Nocturno"
 numero: 1727
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿El avión de los nueve yin?" Huang Xiaolong se puso de pie, con las cejas bien juntas.

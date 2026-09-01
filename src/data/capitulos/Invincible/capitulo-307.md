@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 307: Apareció la Ciudad Fantasma"
 numero: 307
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Zhao Chen, que estaba en medio de atacar a Huang Xiaolong, quedó atónito por las surrealistas huellas de puños gigantes que cubrían el cielo, un pensamiento golpeó su mente a la velocidad del rayo...

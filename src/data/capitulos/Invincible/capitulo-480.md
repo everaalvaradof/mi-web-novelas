@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 480: Sométete"
 numero: 480
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al llegar al borde del territorio del Templo de los Nueve Dragones, Huang Xiaolong voló directamente hacia el Templo de los Nueve Dragones sin detenerse.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1808: El Ejército del Diablo"
 numero: 1808
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La cara de Di Jun se hundió y su intención asesina aumentó rápidamente mientras apretaba los puños, pero inmediatamente se relajó y el aire a su alrededor se descongeló.

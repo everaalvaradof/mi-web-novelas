@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1567: ¿Quién sabe si es real?"
 numero: 1567
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Li Shan y Cheng Yirong fruncieron el ceño cuando vieron al furioso Zhou Chen. Si era realmente como él dijo, Huang Xiaolong se estaba yendo por la borda.

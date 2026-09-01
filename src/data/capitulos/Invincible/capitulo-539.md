@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 539: ¡Ya es el cuarto lugar!"
 numero: 539
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong ignoró al grupo de discípulos de la familia después de una mirada superficial, y se deleitó con indiferencia con carne asada y vino.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 668: Sellar el mundo del norte invernal"
 numero: 668
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Zhang Han, Chen Yun y los otros expertos de la Familia Zhang estaban atónitos, sus ojos se abrieron con incredulidad al mirar al Anciano de la Familia Zhang que fue rechazado con un solo golpe de Huang Xiaolong, especialmente Zhang Han y Chen Yun. Sus corazones perdieron un latido.

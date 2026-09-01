@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 601: Nos iremos como queramos"
 numero: 601
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Justo cuando Wuyue estaba a punto de atacar, Zhang Quan de repente se acercó para detenerlo. Frente a Huang Xiaolong, dijo: “Huang Xiaolong, considerando el hecho de que eres el discípulo personal del director del Instituto Guerrero Negro, siempre que nos des mil millones, podemos pasar por alto tu descortesía. Soy muy consciente de que compraste los núcleos de bestia del Rey Dragón Verdadero en la última Casa de Subastas del Guerrero Negro por treinta mil millones, por lo tanto, mil millones no es nada para ti ".

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 536: Cambios en la clasificación de los diez primeros"
 numero: 536
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Esto requiere un cambio de estrategia". Huang Xiaolong pensó para sí mismo.

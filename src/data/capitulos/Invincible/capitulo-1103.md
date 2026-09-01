@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1103: Asesinado"
 numero: 1103
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sorprendido por el ladrido inesperado de Ju Meng, los pasos del Anciano de la Tribu Gigante Ju Ha se detuvieron. Luego se volvió para mirar con duda a Ju Meng antes de volver a mirar al discípulo central de la Secta Dios Bárbara de cabello negro que parecía estar volando hacia ellos.

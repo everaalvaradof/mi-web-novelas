@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1209: ¡Cómo puede ser tan fuerte!"
 numero: 1209
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong entró primero en el campo de duelo, seguido por Wangu Dongchen. Ambos se quedaron uno frente al otro en el aire. Con estas dos personas en el centro, una fuerte energía se arremolinaba a su alrededor.

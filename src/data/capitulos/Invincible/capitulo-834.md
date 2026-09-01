@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 834: Conquistando el mundo vecino Surfa"
 numero: 834
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Medio año pasó volando desde que se llevaron la Montaña Celestial, pero las olas que creó se volvieron más feroces y turbulentas, casi todas las fuerzas en las cuatro galaxias estaban usando todos los recursos disponibles para encontrar el paradero de la Montaña Celestial.

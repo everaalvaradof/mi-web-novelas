@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1100: ¿Te crees capacitado para hablar conmigo?"
 numero: 1100
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cao Weiran se negó a creer que el suelo no se rompería y golpeó su palma hacia abajo una vez más. Esta vez, ejerció toda la fuerza de su fuerza divina en este ataque de palma, duplicando su poder de ataque.

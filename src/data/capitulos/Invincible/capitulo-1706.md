@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1706: ¿Por qué salió la Sala Celestial de nuevo?"
 numero: 1706
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Mata a un Reino Emperador de alto nivel y sé recompensado con un millón de piedras espirituales del caos de bajo grado!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1600: ¿Han pasado diez mil años?"
 numero: 1600
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Jiang Hong asintió para indicar que había entendido. La fuerza del alma del Maestro era extremadamente poderosa, era tan fácil como levantar un dedo para que su sentido divino cubriera decenas de millones de li de radio. Por lo tanto, Jiang Hong no se sorprendió en absoluto cuando Li Tong le dijo que el Maestro lo había enviado a saludarlos.

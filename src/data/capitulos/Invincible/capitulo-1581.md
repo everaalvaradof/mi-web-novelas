@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1581: Ancestro del Dios Demonio, Wang Qi"
 numero: 1581
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Huang Xiaolong no era ajeno al patrón de calavera ardiente en el barco volador! De hecho, estaba muy familiarizado con él.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1745: ¡Te he estado buscando!"
 numero: 1745
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los discípulos antes que él eran todos del Palacio del Emperador de los Nueve Dragones.

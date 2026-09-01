@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1020: Mapa del Tesoro en la Mano"
 numero: 1020
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 “¡¿Quién se atreve a causar problemas en nuestro Fuerte de la Familia Lin ?! ¡No debes querer vivir más! "

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 252: Ojo del infierno"
 numero: 252
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Antes de que terminaran las palabras, el cuerpo de Lin Yu se balanceó y cayó al suelo. ¡Cuando cayó, sus ojos estaban muy abiertos por la incredulidad! Hasta el final de su vida, no podía imaginar la confianza que tenía Huang Xiaolong para matarlo en la Ciudad del Demonio Negro.

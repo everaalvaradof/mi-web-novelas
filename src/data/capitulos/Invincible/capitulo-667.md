@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 667: No tendrás esa oportunidad"
 numero: 667
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong agregó otra patada fuerte al final de su oración. Sin embargo, sintiéndose lejos de estar satisfecho, en realidad convocó al piadoso monte Xumi, lo redujo al tamaño de dos puños juntos y de hecho arrojó todo el piadoso monte Xumi a las joyas de la familia de Li Jiarong.

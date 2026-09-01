@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1870: Los bosques malditos"
 numero: 1870
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se quedó estupefacto por un momento, "¿¡La Estela del Diablo de Myriad Curses !?"

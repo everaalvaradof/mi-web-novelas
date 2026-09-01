@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 437: Nuestro Presidente Te Invita"
 numero: 437
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Inicialmente, muchas personas en el vestíbulo de la recepción apuntaban a esa píldora del dragón de Jadesea dorada, pero al ver a Huang Xiaolong mostrar una pequeña parte de su fuerza, esas personas reprimieron la codicia que brotaba de sus corazones.

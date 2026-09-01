@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1397: Nos encontramos de nuevo"
 numero: 1397
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que Gudu Yue terminó, el aire malévolo del cuerpo de Song Rui se intensificó. "¡Este punk tiene estas muchas piedras espirituales de grado siete para comprar piedra espiritual marina del caos de primera calidad, esencia de sangre de tiburón gigante y alas de espada solo porque debe haber recolectado las piedras espirituales de grado siete de los barcos voladores destruidos de nuestra banda de lobos de sangre!"

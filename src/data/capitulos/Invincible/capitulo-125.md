@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 125: Ataque a la Décima Orden"
 numero: 125
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al regresar a la Mansión Tianxuan desde el Reino de Yuwai, Huang Xiaolong no anticipó que lo primero que oiría sería cómo la Residencia Li había sido aniquilada. Estos últimos años, Huang Xiaolong le había pedido al mariscal Haotian que mantuviera sus oídos en el suelo y protegiera la Residencia Li de las sombras. Sin embargo, la Residencia Li no pudo escapar de esta calamidad.

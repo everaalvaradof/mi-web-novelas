@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1887: Localización de la Estela del Diablo de la Miríada de Maldiciones"
 numero: 1887
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La formación protectora de la Nave Voladora Tushita comenzó a operar a toda potencia, ya que la Llama Divina Tushita formó una barrera alrededor de la nave.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1804: Maestro, estás aquí"
 numero: 1804
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A medida que la gente comenzó a arrodillarse en oleadas, incluso los antepasados y patriarcas de las superpotencias comenzaron a ponerse de rodillas.

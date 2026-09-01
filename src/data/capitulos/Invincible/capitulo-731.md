@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 731: Ataques de Clanes de Bestias Demoníacas"
 numero: 731
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Con Huang Xiaolong como centro, la luz de las estrellas se extendió hacia afuera como una marea alta que se precipita hacia el interior, ola tras ola, como si nunca fuera a terminar.

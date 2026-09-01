@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 95: La Familia Marcial Ning"
 numero: 95
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Xiaolong corrió a la plaza y vio esta escena sangrienta: una fuerte furia estalló en su corazón, y sus dos puños se cerraron con fuerza cuando una aguda intención asesina brotó de sus ojos.

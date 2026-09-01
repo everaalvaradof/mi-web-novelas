@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 909: Hijo del Diablo Mo Su"
 numero: 909
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Qué fuerza divina de elemento de luz tan impactante!" "¡También hay restos de la fuerza divina del elemento fuego!" "¡¿Hay... energía budista alrededor ?!"

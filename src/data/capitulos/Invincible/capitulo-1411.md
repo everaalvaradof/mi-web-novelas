@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1411: ¿Podría convertirse en el Señor del Infierno?"
 numero: 1411
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong asintió con satisfacción cuando Xu Baisheng le informó que llegarían a los Grandes Mundos del Buda Real en unos diez días.

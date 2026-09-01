@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 902: ¿Está Huang Xiaolong ya muerto?"
 numero: 902
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Una poderosa fuerza de succión tiró de Qin Yi, que había llegado al lado de Beitang Yiyang, frente a Huang Xiaolong.

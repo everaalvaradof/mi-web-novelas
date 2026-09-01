@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 924: ¿No puedes refinarlo?"
 numero: 924
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El carruaje que alquiló Wangu Yanhui fue rápido, por lo tanto, su grupo llegó a la sede de la Unión de Grandes Maestros Alquimistas en poco más de tres horas.

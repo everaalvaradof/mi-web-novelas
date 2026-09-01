@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1388: Corriendo hacia el Alto Mundo Marcial"
 numero: 1388
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando la vaca pequeña, el Ancestro de la Ceja Dorada y el Ancestro del Cuchillo de Sangre se acercaron a Huang Xiaolong, lo escucharon lamentarse: "¡Desafortunadamente, solo el Reino de Dios Ancestro de la Segunda Orden tardía!" Tenía una expresión de pesar en su rostro.

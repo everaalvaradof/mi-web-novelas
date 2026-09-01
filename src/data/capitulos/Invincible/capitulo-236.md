@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 236: La sospecha de Chen Tianqi"
 numero: 236
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡¿Ir a tomar unas copas ?! Gao Yong miró a Huang Xiaolong aturdido. En el momento siguiente, su sangre joven hirvió, corriendo por sus venas con emoción, y los latidos de su corazón dieron vueltas en su pecho. Sin embargo, en la superficie solo logró asentir con la cabeza con movimientos rígidos.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 520: Instituto Guerrero Negro"
 numero: 520
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Esta vez, la práctica a puerta cerrada de Huang Xiaolong solo duró tres cortos días. ¡Tres días con la Perla del Dragón ayudándolo a refinar y absorber por completo los dieciséis núcleos de bestias de las bestias demoníacas de las especies antiguas del Reino de Dios de medio paso, impulsando a Huang Xiaolong al reino de finales del Décimo Orden Santo!

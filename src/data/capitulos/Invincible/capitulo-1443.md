@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1443: La Divinidad de Rango Supremo"
 numero: 1443
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El Barco Volador del Tiburón Dragón se detuvo en algún lugar del vasto Mundo Divino.

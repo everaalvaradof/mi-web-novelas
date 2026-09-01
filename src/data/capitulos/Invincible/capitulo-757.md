@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 757: ¡El Clan Fénix se somete!"
 numero: 757
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Un agujero negro gigante emergió en el vacío cuando dos garras gigantes con garras afiladas salieron de él. Las garras brillaban peligrosamente bajo la luz del sol, con llamas doradas arremolinándose a su alrededor.

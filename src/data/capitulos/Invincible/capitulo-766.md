@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 766: Todos tienen una parte"
 numero: 766
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pasó bastante tiempo antes de que el Anciano de la Luna Ascendente dejara de toser, con una expresión complicada en su rostro mientras miraba a Huang Xiaolong. Pasó más tiempo antes de que el anciano hablara lentamente: "Yo digo, pequeño discípulo malcriado, sabías que el corazón de este anciano no es bueno, ¡estaba casi muerto de miedo por tu culpa!"

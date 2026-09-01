@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1368: Ríndete"
 numero: 1368
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Todos esperan afuera". Huang Xiaolong le dijo a Xiang Xun: Vacía a la bestia diablo Xu Baisheng, Feng Er y el resto.

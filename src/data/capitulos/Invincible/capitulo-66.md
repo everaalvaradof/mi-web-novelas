@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 66: Debería ser un empate"
 numero: 66
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong llegó a la plaza principal de la Academia de la Estrella Cósmica, se encontró con Li Lu.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 445: Refinando Otro Dragón Divino Primordial"
 numero: 445
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong entendió que su hermano mayor lo estaba persuadiendo por su propio bien, sin embargo, si el Continente de las Diez Direcciones tenía la Hierba del Dios Dragón que necesitaba, Huang Xiaolong estaba decidido a hacer el viaje.

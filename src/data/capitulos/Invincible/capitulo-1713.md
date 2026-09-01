@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1713: ¿Estás aquí para matar a nuestro patriarca?"
 numero: 1713
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A pesar de que lo ignoraron, Huang Xiaolong no mostró ninguna expresión de ira. Simplemente miró a las dos partes con una mirada de interés.

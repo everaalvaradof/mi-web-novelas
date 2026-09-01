@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 885: Volviendo a la Galaxia de la Tortuga Negra"
 numero: 885
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Déjalo entrar." Respondió Huang Xiaolong. Estaba esperando ver lo que iba a decir este anciano de Fortune Gate llamado Wang Zhong.

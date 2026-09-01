@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1236: Tribu del Mar, Guo Gang"
 numero: 1236
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong hizo una nota interna de la hostilidad de Wang Shi hacia él, por otro lado, creía que la razón de la hostilidad de Wang Shi saldría a la superficie con el tiempo.

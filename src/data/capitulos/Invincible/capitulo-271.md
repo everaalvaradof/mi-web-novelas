@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 271: ¿Dónde está el joven soberano?"
 numero: 271
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Lin Shuang llegó al lado de Hu Sheng. Al mirar el pecho hundido de Hu Sheng debido al golpe de Huang Xiaolong, su rostro se veía extremadamente feo, y solo empeoró cuando vio el parche ensangrentado de la parte inferior del cuerpo de Hu Sheng... los otros tres, Cu Gao, Chen Nianhua y Lu Yi estaban igual de enojados.

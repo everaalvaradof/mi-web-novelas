@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 615: ¡Reviéntalo con una patada!"
 numero: 615
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Reino de Dios de finales del quinto orden!

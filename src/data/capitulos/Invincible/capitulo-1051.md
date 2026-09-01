@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1051: Deja esa vaca atrás"
 numero: 1051
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aproximadamente una hora después, siguiendo a Gu Ling, Huang Xiaolong y los demás llegaron a la Secta Dios Bárbaro.

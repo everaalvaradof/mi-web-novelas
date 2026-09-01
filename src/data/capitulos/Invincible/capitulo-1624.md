@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1624: La llegada de Wang Sinan"
 numero: 1624
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Justo cuando los pocos de ellos estaban discutiendo entre sí, Huang Xiaolong llegó a otra cordillera. Allí, vio varios tipos de rinocerontes de bestias del infierno.

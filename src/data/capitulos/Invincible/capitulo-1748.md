@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1748: No digas que no te di una oportunidad"
 numero: 1748
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los otros discípulos que cargaban con entusiasmo hacia Huang Xiaolong quedaron atónitos, y pisaron los frenos tan fuerte como pudieron mientras se detenían en seco.

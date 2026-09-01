@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 617: Abriendo Una Cueva De Cultivo"
 numero: 617
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong llegó al Salón de la Armonía Suprema, ya había muchos discípulos en las cercanías, tanto discípulos externos como internos.

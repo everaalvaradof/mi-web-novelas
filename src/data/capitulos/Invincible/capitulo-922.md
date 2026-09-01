@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 922: Reunión con Wangu Yanhui de nuevo"
 numero: 922
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En breve, Huang Xiaolong descendió a cierta distancia de las puertas de la Ciudad Divina Dan, aterrizando en el camino principal, mezclándose con la gran corriente de personas que se dirigían hacia la ciudad.

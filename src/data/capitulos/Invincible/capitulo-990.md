@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 990: Lin Chaoqun Huye"
 numero: 990
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En una fracción de segundo, un pensamiento siniestro apareció en la mente de Tie Chengdong. Dado que la fuerza de Huang Xiaolong era tan dominante, el grupo de personas que enviaron tras él antes... ¡¿podrían haberlo hecho ya...?!

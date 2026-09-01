@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1460: Severamente Subestimado El Enemigo"
 numero: 1460
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras Fang Gan, Li Shan, Chen Yirong, Zhou Chen, Zhang Dong y los demás continuaban mirando a través del espejo de jade, Fu Feiyu se estrelló contra el valle de abajo. Un fuerte boom resonó cuando el área del valle tembló, levantando una cortina de polvo en el aire.

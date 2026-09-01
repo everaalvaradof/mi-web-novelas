@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1551: ¿Temes que sea un Maestro del Reino del Emperador de la Décima Orden?"
 numero: 1551
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Jiang Hong levantó la mano. Esta vez, no atacó simplemente con un dedo como lo hizo cuando trataba con el Emperador Mo Xiao del Palacio del Emperador Demonio Marcial. En cambio, saludó una vez en el aire como si estuviera alejando una mosca molesta.

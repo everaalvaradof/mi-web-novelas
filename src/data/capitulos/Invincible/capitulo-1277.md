@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1277: ¿Seguro que quieres hacer esto?"
 numero: 1277
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong examinó su nuevo entorno y pudo ver que había altas montañas a su alrededor.

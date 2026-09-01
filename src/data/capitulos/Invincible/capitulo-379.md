@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 379: Parece impresionante pero no tiene sustancia..."
 numero: 379
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar el alboroto afuera, Wang Dong no pudo evitar sentirse afectado por la emoción, su cuello estaba tan estirado como una jirafa tratando de ver la situación afuera.

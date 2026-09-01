@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1080: La captura de la bestia emperador del mar de la llama negra"
 numero: 1080
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Detener! ¿De qué familia o secta eres? ¿No sabes que esta es el área restringida de la Secta León Berserk? " Uno de los discípulos principales le gritó a Huang Xiaolong: "¡Vete de inmediato!"

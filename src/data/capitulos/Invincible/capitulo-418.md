@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 418: Entrando en la mansión de los Castellanos"
 numero: 418
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El líder del Escuadrón de Aplicación de la Ley de la Puerta de Asura, Qi Wu, dobló la cintura en un ángulo aún más bajo, cobarde y presa del pánico en lugar de enfurecerse de ira después de sufrir una bofetada de Hu Guang en público, “¡Las enseñanzas del joven Noble Hu son correctas! ¡Este pequeño merece morir! "

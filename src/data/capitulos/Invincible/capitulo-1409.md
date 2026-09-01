@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1409: La Deuda de Sangre del Clan de la Bestia del Vacío"
 numero: 1409
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los ojos de Xu Baisheng estaban enrojecidos por las lágrimas cuando le preguntó al grupo de Xu Yong: "¿Conoces a Xu Baiqiang, Xu Baifeng y Xu Huanying?"

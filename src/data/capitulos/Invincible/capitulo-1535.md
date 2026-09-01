@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1535: Bestias Demoníacas del Caos"
 numero: 1535
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Tan pronto como la pequeña vaca terminó de hablar, se volvió hacia Jiang Hong con una sonrisa irónica. “Kiddo Grandmist, tendrás que esforzarte al máximo para proteger a una anciana como

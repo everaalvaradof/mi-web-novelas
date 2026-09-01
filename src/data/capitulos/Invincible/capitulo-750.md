@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 750: Si puedes resistir un golpe de palma de mi parte"
 numero: 750
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Sí, Patriarca!" Todos los Grandes Ancianos del Clan Fénix se pusieron de pie, reconociendo respetuosamente la orden de Huang Hongtian y siguiéndolo mientras él avanzaba para detener a Huang Xiaolong y sus bestias demoníacas en seco.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1372: Entrega a Huang Xiaolong"
 numero: 1372
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Feng Yingying y el grupo de Ancestros y Patriarcas de la tribu del mar miraron las diversas ciudades grandes y pequeñas de Fortune Mainland desde lo alto del aire.

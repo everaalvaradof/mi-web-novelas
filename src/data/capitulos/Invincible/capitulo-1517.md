@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1517: Carne Gorda Entregada en la Puerta"
 numero: 1517
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver esto, Ning Shaozhi solo pudo perseguir a He Lianfang.

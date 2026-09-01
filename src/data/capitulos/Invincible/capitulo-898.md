@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 898: Qin Yi Llega"
 numero: 898
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que se retiraron a cierta distancia, el Emperador Dragón Ao Taiyi y el resto vieron que más de la mitad de la parte delantera de la sala se derrumbó, hundida profundamente en el suelo en forma de garra de dragón. En el fondo de ese pozo había veintinueve cuerpos incompletos y deformados.

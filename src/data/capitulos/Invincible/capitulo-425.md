@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 425: Cámara de Comercio del Pabellón Dorado"
 numero: 425
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Justo cuando la figura de Huang Xiaolong apareció en el pasillo, Qin Guoan y todos los Ancianos de la Familia Qin se acercaron a él, sin embargo, nadie del lado de la Familia Qin se puso de pie en una cálida bienvenida, cada uno tenía una expresión indiferente en sus rostros.

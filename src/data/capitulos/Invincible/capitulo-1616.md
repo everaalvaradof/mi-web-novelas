@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1616: ¿El hijo ilegítimo de Jiang Hong?"
 numero: 1616
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El gigante que se asemeja al león dorado también era descendiente del Infierno de la era desolada de la raza Golden Lionman.

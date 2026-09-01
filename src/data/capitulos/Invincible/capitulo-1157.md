@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1157: Primer encuentro con Ouyang Yunfei"
 numero: 1157
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de gastar varios cientos de millones, el grupo de Huang Xiaolong llegó a Tiger Forest City.

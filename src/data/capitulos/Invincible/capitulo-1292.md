@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1292: Volviendo al Mundo de Vientiane"
 numero: 1292
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong rápidamente le arrojó a la pequeña vaca algunas píldoras de curación espiritual del caos, después de ver su agotamiento extremo. La pequeña vaca abrió la boca sin pretensiones y se tragó todas las píldoras curativas de una vez, y luego comenzó a ajustar su condición en el acto.

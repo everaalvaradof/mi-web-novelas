@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 739: Ceremonia de Celebración"
 numero: 739
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Un mes después, cuando se dirijan al banquete de celebración, vengan a llamarme...", le dijo Huang Xiaolong a Liu Yilong ya los demás.

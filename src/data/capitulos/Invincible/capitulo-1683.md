@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1683: Entrando en la Montaña Sagrada"
 numero: 1683
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando la enorme entidad estalló desde el Infraeste, la superficie del mar dentro de un radio de mil millones de li explotó consecutivamente, el cielo y la tierra temblaron y se balancearon. ¡Las olas del mar salpicaron más de diez mil zhang de altura!

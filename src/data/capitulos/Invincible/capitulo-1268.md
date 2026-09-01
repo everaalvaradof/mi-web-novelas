@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1268: Eidolon Crystalline Rocks"
 numero: 1268
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pasó un día.

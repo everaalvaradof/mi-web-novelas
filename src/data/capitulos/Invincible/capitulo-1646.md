@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1646: Suprimido Bajo la Ciudad de la Eternidad"
 numero: 1646
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Era un ejército de miles y miles de almas de dragón negro. Aunque estos no eran dragones negros reales, todavía exudaban un abrumador poder de dragón majestuoso que suprimía todo en las cuatro direcciones. El mundo se detuvo.

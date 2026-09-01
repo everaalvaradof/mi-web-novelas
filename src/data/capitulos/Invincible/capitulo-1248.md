@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1248: Wangu Ziyi Reneging"
 numero: 1248
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los tres discípulos de Fortune Gate fueron los primeros en sacar suertes, seguidos por los discípulos del Clan Wangu, los discípulos de la Tribu de los Elfos Oscuros y, por último, los discípulos del Continente del Caos Primordial.

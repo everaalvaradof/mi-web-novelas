@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 652: Refinando la Cabeza de Dios"
 numero: 652
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El Anciano de la Luna Ascendente asintió y dijo: “Así es, el Concurso de Grandes Maestros Alquimistas. Esta competencia es organizada conjuntamente por las superfuerzas de las cuatro galaxias, un gran evento para las cuatro galaxias que se lleva a cabo una vez cada tres mil años ”.

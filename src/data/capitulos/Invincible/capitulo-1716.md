@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1716: Emperador del Resentimiento del Cielo"
 numero: 1716
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando el Qilin Oscuro de la Llama Escarlata cargó hacia adelante, los ojos de Huang Xiaolong se entrecerraron y se volvió para mirar debajo de él. La aterradora espada qi acompañó un aura horrible mientras cargaba directamente hacia él.

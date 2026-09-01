@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1139: La Formación del Gran Abismo de Fantasmas, Dioses y Demonios"
 numero: 1139
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Hay algo debajo de este cadáver de Black Baboon". Xiaoniū dijo de repente. Huang Xiaolong se volvió para mirar debajo con sorpresa.

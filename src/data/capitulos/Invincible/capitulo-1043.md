@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1043: ¡Cortado en un millón de pedazos!"
 numero: 1043
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong vio a Chen Xiong y Wang Dafeng, su grupo también lo vio. Cuando Chen Xiong, Wang Dafeng y Zhu Wanchen se dieron cuenta de que era Huang Xiaolong, los tres soltaron su nombre casi simultáneamente: "¡Huang Xiaolong!"

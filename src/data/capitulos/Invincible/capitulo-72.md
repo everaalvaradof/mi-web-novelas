@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 72: El Espíritu Marcial de Huang Xiaolong"
 numero: 72
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El Sky Peng desapareció de la vista después de que Lu Kai terminó de hablar; una luz resplandeciente estalló cuando su alma se transformó en un instante.

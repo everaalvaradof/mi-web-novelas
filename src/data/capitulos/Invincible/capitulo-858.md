@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 858: Lentamente atenuado"
 numero: 858
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al mirar a los innumerables dragones divinos que bloqueaban el cielo, Xiang Mingzhi entró en pánico por un momento, dejando escapar un rugido enojado, "¡Palma Divina de los Mil Rayos!" Un relámpago deslumbrante brotó del cuerpo de Xiang Mingzhi mientras empujaba el poder de su Físico de Destrucción Extrema del Rayo al extremo. Sus palmas golpearon continuamente a Huang Xiaolong.

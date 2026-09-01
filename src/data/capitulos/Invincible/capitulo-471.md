@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 471: Entrando en la Ciudad de los Enanos de nuevo"
 numero: 471
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 “Los rumores dicen que está relacionado con el árbol sagrado de la raza elfa. Ocurrió un problema con el Árbol de la Vida, que comenzó a marchitarse, y quienquiera que pueda curar el Árbol de la Vida, la Reina Elfa ha prometido diez Cristales de Vida como recompensa ". Chuck elaboró respetuosamente.

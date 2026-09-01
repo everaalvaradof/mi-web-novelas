@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 632: ¿No vas a largarte?"
 numero: 632
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Rango de rey? ¿Rango de emperador? Huang Xiaolong murmuró en voz baja.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1546: Tengo suerte"
 numero: 1546
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong y Jiang Hong intercambiaron otra mirada. Ambos vieron su propio deleite reflejado en los ojos del otro.

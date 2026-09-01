@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 930: ¿Fracasó el Refinamiento de la Alquimia?"
 numero: 930
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Incluso después de ingresar al lugar de la competencia, muchos participantes señalaron y hablaron sobre Huang Xiaolong.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1132: Quiero que seas mi ahijado"
 numero: 1132
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando los puños de Chen Hao y Huang Xiaolong chocaron, a diferencia de la escena imaginada de Huang Xiaolong siendo derribado, se mantuvo firme como una montaña inamovible, mientras que la situación de Chen Hao les dejó completamente alucinados. Su puño derecho se contorsionó, causando que huesos dentados salieran de la carne desgarrada como si fueran cortados por una hoja invisible.

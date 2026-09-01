@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 758: ¡Seiscientos mil millones!"
 numero: 758
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong, el Emperador Dragón Ao Taiyi, el Ancestro del Clan Fénix y Huang Hongtian llegaron a la cima de la Montaña Nube de Fuego donde los tres Grandes Pengs Garra Dorada Llameante construyeron su vivienda de cultivo, surgió un obstáculo.

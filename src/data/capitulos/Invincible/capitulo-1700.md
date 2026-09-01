@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1700: ¿Tan asustado que no tiene agallas para salir?"
 numero: 1700
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que los catorce ángeles se pusieron de pie, Huang Xiaolong dirigió su atención al altar. Más precisamente, al cetro brillante que era el único elemento en el altar. ¡Hubo una oleada de emoción en su corazón, ya que este Cetro de Resplandor Divino era el tesoro grandmista dejado por el experto supremo!

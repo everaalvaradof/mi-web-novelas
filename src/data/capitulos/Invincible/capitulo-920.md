@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 920: ¿Murió en el duodécimo piso?"
 numero: 920
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mo Su se puso de pie y caminó con orgullo hacia el patriarca del clan diablo Mo Dingtian.

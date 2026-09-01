@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 946: Enviaron a Mo Dingtian a volar"
 numero: 946
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La conversación entre Mo Su y Mo Zhenru antes fue escuchada por completo por Huang Xiaolong. Por lo tanto, no importa qué, Mo Su tuvo que morir hoy.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1149: Aura Púrpura del Gran Maestro"
 numero: 1149
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar la decisión de Huang Xiaolong de regresar dos meses después si no encontraban nada, la pequeña vaca asintió con la cabeza, “Ese es un plan factible, regrese antes para hacer los preparativos necesarios. Pronto podrás ver a tu Li Lu después de la Gran Guerra de todas las islas ".

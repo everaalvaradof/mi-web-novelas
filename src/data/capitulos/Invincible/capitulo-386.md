@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 386: Matar al silencio"
 numero: 386
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El niño pequeño tomó el gran trozo de carne de jabalí tirano que Huang Xiaolong le dio y comenzó a deslumbrarlo con fervor. En solo unos pocos bocados, la gran porción de carne entró en el estómago del niño pequeño.

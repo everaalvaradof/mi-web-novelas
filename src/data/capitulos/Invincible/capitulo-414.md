@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 414: ¿Un Asura del Infierno?"
 numero: 414
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Desde la batalla de la Plaza Asura, el lado de Huang Xiaolong no había tomado ninguna medida. La familia Qi formó tales opiniones, y las otras catorce grandes familias llegaron a conclusiones similares, pensando que Huang Xiaolong estaba preocupado por las fuerzas de respaldo detrás de ellos, como Distinct Void Door, White Phoenix House y otros.

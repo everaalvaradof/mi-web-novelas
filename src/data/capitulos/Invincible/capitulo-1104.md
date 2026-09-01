@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1104: Te matará con sus propias manos"
 numero: 1104
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Una tormenta de intención asesina surgió del cuerpo de Ju Wufei mientras miraba el talismán de comunicación.

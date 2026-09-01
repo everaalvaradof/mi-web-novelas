@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 821: Entrando en la Cueva del Diablo"
 numero: 821
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sabiendo que los cuatro poderes hegemónicos del Continente del Dominio del Diablo se reunirían para abrir la Cueva del Diablo dentro de un año, Huang Xiaolong se quedó en West Raven City. Se centró en su cultivo mientras esperaba el día de la apertura de la Cueva del Diablo.

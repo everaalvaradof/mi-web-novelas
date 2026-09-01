@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1329: Llevándose la Piscina de Relámpagos del Caos"
 numero: 1329
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Había pasado media hora, pero el espacio de la piscina de rayos del caos todavía se estaba reduciendo de tamaño.

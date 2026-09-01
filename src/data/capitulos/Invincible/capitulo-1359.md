@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1359: ¡Mata sin miramientos!"
 numero: 1359
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El rostro del Patriarca Xiang Tai del Clan de los Diez Mil Elefantes reflejaba una preocupación dudosa después de escuchar las preguntas del Ancestro Xiang Hui.

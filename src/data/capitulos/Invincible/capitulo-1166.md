@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1166: Reyes Asura del Infierno"
 numero: 1166
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La mente de Hu Dan todavía estaba en blanco cuando la punta de la Mulberry Sword en la mano de Huang Xiaolong se inclinó ligeramente, sacando la divinidad de Liu Lei de su cabeza antes de poner tanto la divinidad como el anillo espacial de Liu Lei en su Anillo Asura.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1728: Piercing Moon Cul"
 numero: 1728
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Seis días después...

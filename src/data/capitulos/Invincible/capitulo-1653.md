@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1653: Primer encuentro con el Maestro Ren Wokuang"
 numero: 1653
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En poco tiempo, Huang Xiaolong escaneó todo el lugar y no notó la apariencia de su maestro. Parecía como si los hombres de Wei Hong aún no estuvieran allí con su maestro.

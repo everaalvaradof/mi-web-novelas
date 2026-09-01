@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1416: Los últimos tesoros de la subasta"
 numero: 1416
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se sentó con las piernas cruzadas dentro de su habitación y convocó a sus tres avatares. Diminutas cintas de rayos parpadearon en su frente cuando la Torre del Dios del Mar salió volando del espacio del caos Golden Dragon Lightning Pool.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1045: Diablo de granizo de hielo verde del reino de un dios antiguo"
 numero: 1045
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los dos grandes ataúdes de escarcha del altar superaban los sesenta metros de ancho y diez metros de largo. Los talismanes de fuego estaban pegados en ambos ataúdes, varios cientos de ellos cubrían densamente toda la superficie de cada ataúd.

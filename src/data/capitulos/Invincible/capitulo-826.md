@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 826: El Pico de la Montaña Celestial"
 numero: 826
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 '¿El Rey Bestia Celestial Piercing está aquí en la Montaña Celestial?' Esta fue una noticia inesperada para Huang Xiaolong. The Piercing Sky Beast King, así como otros personajes de su calibre; Ancestor Mountaingoat, Green Dragon Beast King y Ancestor Bifang.

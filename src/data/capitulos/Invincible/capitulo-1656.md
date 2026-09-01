@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1656: Expulsado de la Puerta Asura"
 numero: 1656
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Maestro!" Huang Xiaolong cayó de rodillas y saludó respetuosamente a Ren Wokuang. Todos los presentes sintieron que sus mandíbulas caían horrorizadas.

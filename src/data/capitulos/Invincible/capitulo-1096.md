@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1096: La leyenda de 20 millones de años"
 numero: 1096
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al detectar el buen humor de Song Chengli, Liu Zhuo se unió sonriendo: "Si ese niño se entera de esto, saltará al mar de la felicidad".

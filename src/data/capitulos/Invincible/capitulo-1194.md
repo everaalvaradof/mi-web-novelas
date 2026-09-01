@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1194: Entrando en el Reino Divino de la Fortuna"
 numero: 1194
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Zhou Xu y Tan Lin estaban parados en medio de los grupos de discípulos de la Secta Origen del Dragón y la Secta de las Ciudades Gemelas, mirando con veneno a Huang Xiaolong.

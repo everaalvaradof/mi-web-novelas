@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1667: Palacio de la Niebla"
 numero: 1667
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong sonrió, "Si ese es el caso, entonces vamos a beber un poco de vino juntos". Inmediatamente, Jin Yuan los llevó al restaurante Yin Yang.

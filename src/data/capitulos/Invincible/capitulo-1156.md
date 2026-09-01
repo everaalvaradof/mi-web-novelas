@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1156: ¡Maestro del Reino de los Dioses Ancestrales!"
 numero: 1156
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿Esta persona era el Jefe de la Secta Origen del Dragón? Mirando al hombre de mediana edad de porte majestuoso similar al vasto cielo, Huang Xiaolong dedujo en su mente.

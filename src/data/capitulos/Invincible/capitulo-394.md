@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 394: Es la más bella."
 numero: 394
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Archaic Peak Appraisal Firm". Huang Xiaolong leyó el nombre en voz baja.

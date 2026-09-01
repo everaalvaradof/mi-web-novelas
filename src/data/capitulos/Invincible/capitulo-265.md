@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 265: ¿Crees que esto es una broma?"
 numero: 265
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿No es una amenaza?" Jiang Tianhua asintió, tal vez estaba demasiado preocupado. Al igual que lo que dijo su subordinado Cui Ming, incluso si Chen Xiaotian y Geng Ken llegaron a un acuerdo, todavía no representaban una amenaza para él.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 468: Huang Xiaolong es el Dios Bestia"
 numero: 468
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Una fuerte sed de sangre brotó de un dragón de sangre carmesí, disparando directamente a Li Molin.

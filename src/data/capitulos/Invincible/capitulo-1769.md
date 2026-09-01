@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1769: Entrando en la Región Secreta de la Corte Celestial"
 numero: 1769
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Muy rápidamente, todos recibieron su placa de identidad.

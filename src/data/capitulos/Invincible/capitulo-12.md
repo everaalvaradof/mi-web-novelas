@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 12: Comienza la Asamblea Anual del Clan"
 numero: 12
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ' La Asamblea del Clan de este año, el abuelo Huang Qide incluso invitó a Li Mu, el Viejo Patriarca de la Familia Li, realmente gasta mucho esfuerzo y pensamiento. 'Huang Xiaolong pensó para sí mismo.

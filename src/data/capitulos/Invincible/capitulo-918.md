@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 918: Hasta el Duodécimo Piso"
 numero: 918
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pasaron unos días más mientras la multitud afuera aceptaba el hecho de que la persona que se encontraba actualmente en el séptimo piso era sin duda Jiang Xiaosu, cuando de repente, otra figura fue enviada desde el quinto piso de la Torre Hellion.

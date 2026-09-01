@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1271: La Persecución Implacable"
 numero: 1271
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Un maestro del Reino de Dios Ancestro sin duda!

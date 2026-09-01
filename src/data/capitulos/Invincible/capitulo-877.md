@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 877: ¿Es por el Fuego Divino del Dragón Azul?"
 numero: 877
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Fang Chu luego dirigió su mirada a Mu Qi, You Wuye y Lu Dongwei.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1039: Ten cuidado con Zhao Wuya y Fan Yuan"
 numero: 1039
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Mi edad está aumentando, ya no puedo hacer mucho". El jefe de la Gran Secta Ballena, Wu Yue, soltó una carcajada.

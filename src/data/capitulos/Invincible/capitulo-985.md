@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 985: Robo de la Técnica de Cultivo"
 numero: 985
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Para su próximo destino después de dejar el Fuerte de la Familia Tie, Huang Xiaolong ya había decidido de antemano: ¡el Bosque del Fénix de Sangre!

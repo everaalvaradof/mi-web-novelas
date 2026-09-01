@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 450: El Cañón del Trueno Estelar"
 numero: 450
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Hermano, ¿de dónde eres?" Preguntó casualmente el joven de raza enana. Huang Xiaolong volvió su atención al joven y respondió: "El bosque de los elfos".

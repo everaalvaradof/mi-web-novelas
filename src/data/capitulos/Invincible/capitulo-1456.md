@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1456: Puedes Atacar En Cualquier Momento Liu Qin's A Lucky Kid"
 numero: 1456
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Liu Qin se rió seductoramente al ver el ataque de Huang Xiaolong. Levantó la mano a un lado de los labios con el meñique sobresaliendo ligeramente cuando dijo: "¡Huang Xiaolong, mira cómo mis dedos celestiales de agarre de flores te aplastan!"

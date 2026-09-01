@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1494: Preparando la salida al campo de batalla de los demonios extraterritoriales"
 numero: 1494
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver la expresión incómoda de Huang Xiaolong y escuchar su tartamudeo, Yao Chi se rió. “¿Qué es ese, este? ¿Qué viste hace un momento? ¿Viste a la hermana mayor Peng Xiao ya la hermana mayor Fang Xuanxuan… las viste, verdad?

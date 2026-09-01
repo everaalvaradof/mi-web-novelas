@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 921: Convocatoria en el Mundo de Dan Divino"
 numero: 921
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 “Tengo mucha curiosidad por saber quién era esa persona. Si tal talento pudiera ser utilizado por nuestra Puerta de la Fortuna, ¿tendríamos que temer al Clan Wangu? " En el camino, se lamentó Sun Yi.

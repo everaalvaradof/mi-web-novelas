@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1040: En las ruinas del granizo de hielo"
 numero: 1040
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong continuó avanzando hacia el grupo de Chen Xiong.

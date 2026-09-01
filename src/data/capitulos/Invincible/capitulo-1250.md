@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1250: ¡¿Crees que puedes ganar contra mí?!"
 numero: 1250
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Ahhh!

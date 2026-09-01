@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1530: Uno para cada uno de nosotros"
 numero: 1530
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Mo Xiao, Peng Yi y los otros cinco miraron hacia afuera y vieron al grupo de Huang Xiaolong, no pudieron evitar aumentar su ritmo.

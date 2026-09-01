@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 216: ¿Experto en el Reino Santo?"
 numero: 216
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Ven, vamos a dar la bienvenida a la salida del Ancestro!" ¡Guo Shiwen sonrió!

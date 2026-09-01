@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 630: La Gente Que Viene Es Muy Poderosa"
 numero: 630
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Li Qingming no estaba preocupado en absoluto por la fuga de Huang Xiaolong. Aunque el joven frente a él no era débil, ante un maestro del Reino de Dios de la Décima Orden como él, esa escasa fuerza era inadecuada a sus ojos.

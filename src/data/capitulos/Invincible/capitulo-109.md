@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 109: ¡Yang An está aquí!"
 numero: 109
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong de repente levantó el pie y pateó, haciendo que Yang Zhanfei volara y se estrellara contra dos pilares en la calle que pertenecían a una tienda. El marco de la puerta se hizo añicos y los escombros sueltos rebotaron en todas direcciones.

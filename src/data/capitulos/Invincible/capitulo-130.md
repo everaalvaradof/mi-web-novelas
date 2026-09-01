@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 130: Encontrarse con los discípulos de la Secta de la Gran Espada"
 numero: 130
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Había una expresión fea en el rostro de Huang Xiaolong cuando sintió a los numerosos cocodrilos de hierro nadando en su camino desde todas las direcciones.

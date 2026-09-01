@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 132: Problemas en el Pabellón de las Nubes Claro"
 numero: 132
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las noticias sobre el asesinato del Castellan de la Ciudad de los Acantilados del Sur llegaron a la Ciudad Real de Luo Tong en poco tiempo.

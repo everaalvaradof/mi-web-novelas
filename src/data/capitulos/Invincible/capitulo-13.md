@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 13: ¡Golpea hasta que tu padre no pueda reconocerte!"
 numero: 13
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡El pico de la Primera Orden tardía!

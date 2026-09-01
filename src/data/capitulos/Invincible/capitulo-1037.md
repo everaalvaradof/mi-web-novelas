@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1037: No necesitamos hacer nada"
 numero: 1037
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿Echar a Huang Xiaolong de la Secta del Dios Bárbaro? ¿Capturar a Huang Xiaolong? Estas palabras dejaron a Cao Yang sin palabras por dentro.

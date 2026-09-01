@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 744: Primer Intercambio con el Primer Rango de la Lista de los Altos Dioses"
 numero: 744
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Su compañero que atacó a Huang Xiaolong era un maestro del Reino de Dios de la Décima Orden!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1577: La Victoria de Huang Xiaolong"
 numero: 1577
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Zhou Chen, quien estaba reclinado en su asiento en la mesa principal, se puso firme mientras miraba a Sun Shihai con incredulidad.

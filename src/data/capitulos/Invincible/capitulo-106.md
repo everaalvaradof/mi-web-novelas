@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 106: '¡Soy su viejo!'"
 numero: 106
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mucho tiempo después de que Huang Xiaolong y Fei Hou se hubieran ido, sopló una ráfaga de viento frío que sobró a Chen Li hasta su situación actual. Salió del lugar a toda prisa y cuando estaba corriendo, pasó junto al cadáver de Liu Mu y tropezó con él.

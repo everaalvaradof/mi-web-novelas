@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 992: ¿Enviando a un mendigo?"
 numero: 992
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se puso de pie y se apresuró a la entrada, pero cuando llegó a las puertas, la figura de Lin Chaoqun había desaparecido entre la multitud en la concurrida calle. Sus ojos buscaron por un tiempo, pero no había señales de Lin Chaoqun, solo podía darse por vencido y regresar a su mesa.

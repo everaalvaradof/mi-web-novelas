@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 531: ¿Estás seguro de que no estás subastando?"
 numero: 531
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Varias horas después, Huang Xiaolong apareció fuera de la casa de subastas.

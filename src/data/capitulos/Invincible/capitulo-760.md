@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 760: Más de diez mil bestias demoníacas del Reino de Dios"
 numero: 760
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los otros dos Grandes Peng Garra Dorada Llameante, Peng Erfei y Peng Xiaofei, dudaron cuando vieron a su hermano mayor saludar a Huang Xiaolong como 'Maestro'.

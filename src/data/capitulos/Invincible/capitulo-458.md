@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 458: ¡Me opongo!"
 numero: 458
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las imágenes de las antiguas bestias míticas rugieron hacia el cielo, envolviendo todo el espacio de la mansión con una presión aterradora.

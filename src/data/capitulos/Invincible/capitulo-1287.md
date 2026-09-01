@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1287: Los Huesos de Buda del Dios Ancestro"
 numero: 1287
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de pensarlo un poco, Huang Xiaolong declinó cortésmente la amable oferta de Guo Jie. No quería involucrarla en este asunto.

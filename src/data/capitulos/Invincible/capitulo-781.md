@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 781: ¿Eres más fuerte que He Feifan?"
 numero: 781
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Jiang Hanzhi vio que la segunda persona que saltó al escenario de batalla era Lu Cong del Instituto del Dragón Azure, la conmoción pasó por su rostro, pero rápidamente recuperó la calma.

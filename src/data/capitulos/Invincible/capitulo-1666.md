@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1666: Raza del Lobo Lunar Aullante"
 numero: 1666
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Una hora después, Huang Xiaolong, Tai Yue y algunos de ellos llegaron sobre el continente ante sus ojos.

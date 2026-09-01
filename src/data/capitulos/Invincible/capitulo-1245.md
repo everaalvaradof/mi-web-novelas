@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1245: Batalla con You Wuxin"
 numero: 1245
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Black Ice Ancestor no tenía forma de refutar las palabras de Blood Knife Ancestor. Para salvarse de la humillación, Black Ice Ancestor dijo fríamente después de una breve pausa: "Si gana el primer lugar en la Batalla de Nuevos Discípulos de este período, definitivamente le pediré al Jefe de Secta que aumente sus beneficios, ¡independientemente de sus sugerencias!"

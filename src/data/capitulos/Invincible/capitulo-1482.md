@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1482: Palacio del Emperador de las Llamas Carmesí"
 numero: 1482
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Arte del Diablo del Dominio de la Oscuridad!"

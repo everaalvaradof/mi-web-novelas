@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 476: Entrando en el Santuario del Dios Bestia"
 numero: 476
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Ante el grupo de atónitos expertos del reino Santo, incluida la Reina Elfa Kelly, numerosas gotas de esencia de agua cayeron desde gran altura. Fue como una llovizna suave y ligera que rugía en una lluvia monzónica un momento después.

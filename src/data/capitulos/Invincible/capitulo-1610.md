@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1610: Entrando en el Infierno"
 numero: 1610
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de familiarizarse con el Trono del Dragón Negro, comenzó a acostumbrarse a la Armadura Divina del Dragón Negro y al Brazalete de Jade Frío del Dragón Negro.

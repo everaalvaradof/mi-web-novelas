@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 234: Herido a mi Xiao’er"
 numero: 234
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿También son los suegros de la familia Guo?" Huang Xiaolong se sorprendió. Pero luego apareció un ceño fruncido en su rostro mientras miraba a los discípulos de la Familia Tie en los caballos, diciendo: "Los discípulos de la Familia Tie realmente se atreven a correr en sus caballos en la Ciudad Imperial, ¿no temen las repercusiones de la ley? ? "

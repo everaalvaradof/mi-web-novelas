@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1272: ¿Me estoy muriendo?"
 numero: 1272
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 '¡¿Ese niño gordo es discípulo del Clan Dragón Antiguo ?!' 'Pero, ¿un dragón azul?'

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 455: Señor Lieja Dios Bestia"
 numero: 455
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Hace unos momentos, hubo un huracán feroz, pero en un abrir y cerrar de ojos, todo se volvió tranquilo y pacífico.

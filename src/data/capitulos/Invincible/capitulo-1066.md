@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1066: ¡Xiaolong, corre rápido!"
 numero: 1066
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aunque se reconoció que Chen Hao era el genio más talentoso de la Secta del Dios Bárbaro en los últimos cien mil años, el número de islas que participaron en la Gran Guerra de Todas las Islas de Fortune Mainland superó los cien mil.

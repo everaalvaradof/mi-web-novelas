@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1717: En Peligro de Morir"
 numero: 1717
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se sorprendió bastante al descubrir que la reputación del Emperador del Resentimiento del Cielo era comparable a la del antiguo antepasado de la Puerta de los Dioses Masacradores, Chu Han.

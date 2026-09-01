@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1770: La reputación toca fondo"
 numero: 1770
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La persona en tercer lugar era Lan Tailong del Palacio del Emperador Del Brillo, y con su puntaje de 1900, no estaba muy lejos de superar a Feng Chan.En

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 100: Yu Ming Desaparecido"
 numero: 100
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿Monstruo de un hombre? Aunque la voz de Chen Caixiu era muy baja, Huang Xiaolong aún captó sus palabras. Impotente, sonrió: ¿debe este Chen Caixiu ser así de directo?

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 274: Matar a Hu Han"
 numero: 274
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Hu Han se quedó allí, con la duda parpadeando en sus ojos. Los Ancianos de la Secta Nueve Demonios que se apresuraron detrás de él también detuvieron sus acciones mirando la extraña escena.

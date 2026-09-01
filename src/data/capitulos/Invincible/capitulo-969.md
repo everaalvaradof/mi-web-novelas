@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 969: Mo Yishi y el Señor de la Facción Bodhisattva"
 numero: 969
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Atacar al grupo de cuatro de Huang Xiaolong fue una de las muchas bestias fantasmas acuáticas en el Mar del Infierno!

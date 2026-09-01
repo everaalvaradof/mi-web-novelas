@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 352: ¡Huang Xiaolong!"
 numero: 352
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La noticia fue inesperada para Li Molin y los demás en el pasillo, hubo personas que se atrevieron a matar al mayordomo del Castellano de la Ciudad del Sol Naciente dentro del área de la ciudad.

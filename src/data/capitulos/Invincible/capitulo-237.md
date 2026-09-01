@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 237: La belleza número uno del continente viento nevado"
 numero: 237
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Un lote de piedras espirituales de grado uno! Los tres hombres de mediana edad intercambiaron miradas entre ellos.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1739: Traidor"
 numero: 1739
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Ataque enemigo!"

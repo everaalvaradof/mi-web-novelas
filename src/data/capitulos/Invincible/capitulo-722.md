@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 722: ¿Quién se atreve a intimidar a mi discípulo?"
 numero: 722
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En una fracción de segundo, Zhuang Yongfeng y Tao Gu atacaron al mismo tiempo.

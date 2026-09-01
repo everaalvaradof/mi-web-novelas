@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 506: Cambios en la Perla del Dragón"
 numero: 506
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de llegar a la ciudad de Asura, el grupo de tres de Huang Xiaolong fue directamente a la mansión Castellan de la ciudad de Asura para encontrarse con el anciano que tenía diecinueve tallos de Hierba del Dios Dragón.

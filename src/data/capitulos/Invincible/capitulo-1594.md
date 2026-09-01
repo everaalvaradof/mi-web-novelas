@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1594: Es mi orden"
 numero: 1594
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Gran Anciano Wu Tianhe, tu Ancestro Han Qing te valora mucho. ¿Escuché que pronto serás ascendido a Maestro Adjunto del Salón? Si es así, ya vale la pena celebrarlo". El antepasado del Palacio del Emperador del Brillo, Peng Xingfei, sonrió y le dijo a Wu Tianhe.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1580: Cómo tratar con Huang Xiaolong"
 numero: 1580
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong dudó por un momento antes de aceptar el colgante de jade de Fang Xuanxuan.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 118: Arrastrarse desde aquí"
 numero: 118
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Una brillante sonrisa cruzó por el rostro del hermano mayor Wu al ver a Huang Xiaolong y Fei Hou ponerse de pie, elogiándolos generosamente: "¡El hermano pequeño realmente es alguien que sabe cómo doblarse donde sopla el viento, un hombre sabio!"

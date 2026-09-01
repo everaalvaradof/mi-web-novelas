@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 772: '¿Será que ya has llegado al Reino de Dios de Novena Orden?'"
 numero: 772
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Sabes de qué me quiere hablar la Maestra?" Huang Xiaolong le preguntó casualmente a su hermano mayor aprendiz mayor, Liu Yun.

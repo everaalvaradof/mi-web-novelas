@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 501: Este camino es mucho mejor"
 numero: 501
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Padre madre!" Al ver a sus padres, Huang Xiaolong se acercó a ellos. Un sentimiento cálido llenó su corazón.

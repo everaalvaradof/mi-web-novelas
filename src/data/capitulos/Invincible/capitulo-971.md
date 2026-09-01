@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 971: Abriendo el Palacio del Rey Demonio"
 numero: 971
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Es eso así?" Huang Xiaolong resopló. Desconocido por otros, un símbolo púrpura brilló en la profundidad de sus ojos y voló directamente al alma de Mo Yishi entre sus cejas.

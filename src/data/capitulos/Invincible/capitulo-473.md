@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 473: La bienvenida del Gran Anciano Elfo"
 numero: 473
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Este hermano, ¿cómo te llamas?" Justo cuando las dos elfas se iban, una voz sonó detrás de Huang Xiaolong.

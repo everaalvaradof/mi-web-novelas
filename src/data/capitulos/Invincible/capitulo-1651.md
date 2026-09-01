@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1651: Llegando a la sede de la Puerta de los Asura"
 numero: 1651
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los ojos de Ren Wokuang eran rojos como la sangre y la imponente intención asesina estalló de su cuerpo. Gritó: "¡Me niego a creer esto! ¡Me niego a creer que Wang Mengqin se enamorará de ti! ¡Es imposible que ustedes dos se casen!"

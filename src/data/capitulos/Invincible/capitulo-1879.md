@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1879: Criaturas fantasmales"
 numero: 1879
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Shi Ming, Chu Han, Chiyou, Lan Chong y otros no se molestaron en ocultar sus movimientos. Las poderosas auras que corrían hacia el Tercer Bosque del Diablo asustaron a todos los demás expertos a retirarse con miedo desde lejos.

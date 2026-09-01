@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 762: ¡Tantos Maestros de la Familia Wan!"
 numero: 762
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cinco discípulos principales de la Familia Wan fueron arrojados repentinamente contra la pared, sangrando por sus siete orificios, lo que provocó el desorden del restaurante. Todos los demás discípulos y clientes de la familia se pusieron de pie de un salto y se hicieron a un lado para evitar verse implicados por la situación.

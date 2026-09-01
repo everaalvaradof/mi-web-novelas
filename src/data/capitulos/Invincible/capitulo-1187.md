@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1187: ¿Huang Xiaolong es el segundo lugar seguro?"
 numero: 1187
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al mirar el puño derecho de Huang Xiaolong cayendo, Tan Lin reveló una expresión maníaca de repente. ¡Dejó escapar un grito espeluznante cuando la sangre de color dorado fluyó de su cuerpo!

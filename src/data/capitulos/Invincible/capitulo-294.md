@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 294: Volver a explorar la falla del tigre rota"
 numero: 294
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras Wang Hai y los guardias de la ciudad huían más lejos, Huang Xiaolong recuperó la mirada y miró a He Yunxiong, realmente no podía entender qué de él le gustaba lo suficiente a He Yunxiong como para recibirlo como discípulo.

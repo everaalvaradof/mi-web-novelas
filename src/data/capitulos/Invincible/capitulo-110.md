@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 110: Transformación del León Kaiser"
 numero: 110
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Yang An llamó a su León Dios del Cielo Rugiente; sintiendo los rostros asombrados, conmocionados y atemorizados de la multitud, mostró un comportamiento de clase alta mientras estaba de pie con ambas manos cruzadas detrás de él y el pecho hinchado. Yang An miró con orgullo a Huang Xiaolong: "¡No digas que no te di una oportunidad, llama a tu espíritu marcial!"

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 464: ¿Nuevo Dios Bestia?"
 numero: 464
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pasaron dos días muy rápido.

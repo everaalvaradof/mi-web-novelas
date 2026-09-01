@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1387: Reino de los Dioses Ancestrales de Segunda Orden"
 numero: 1387
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En el momento en que la fuerza divina del elemento oscuro del Dios Supremo Archidevil de Huang Xiaolong entró en el núcleo de la Estela del Diablo del Ojo de Sangre, la Estela del Diablo del Ojo de Sangre lanzó una luz deslumbrante, y fue tan intensa que el Ancestro de la Ceja Dorada y el Ancestro del Cuchillo de Sangre no pudieron mantener los ojos abiertos.

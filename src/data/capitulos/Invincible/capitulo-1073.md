@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1073: Ciudad Huai del Sur"
 numero: 1073
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Como sabía que había un Loto de Rayo Espiritual de Nueve Pétalos en una isla cerca de la Isla Nube Verde, Huang Xiaolong tuvo que hacer un viaje a esta Isla Dralion sin importar nada.

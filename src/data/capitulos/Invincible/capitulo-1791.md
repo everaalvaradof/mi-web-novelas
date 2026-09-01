@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1791: Interrogatorio a Di Jun"
 numero: 1791
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A medida que el rayo del caos se hizo cada vez más fuerte, todos prácticamente dejaron de respirar bajo la anticipación. Ninguno de ellos se atrevió a parpadear por miedo a perderse el increíble espectáculo que tenían ante sí.

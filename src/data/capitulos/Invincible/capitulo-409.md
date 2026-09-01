@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 409: ¡El Soberano Chen Ganó!"
 numero: 409
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La espada larga del Viento Azur en la mano de Li Molin se balanceó con toda su fuerza, un grito de fénix crujiente hizo eco y una deslumbrante luz de espada azul estalló en el aire cuando una sombra de fénix azul salió volando.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 851: Debes haber visto mal"
 numero: 851
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aunque la clasificación de Huang Xiaolong alcanzó los tres mil primeros y su nombre apareció al final de la lista de clasificación, debido a que su nombre estaba en la parte inferior, nadie notó la aparición de un nuevo nombre.

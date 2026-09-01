@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 953: El Maestro de la Secta Refinadora de Fantasmas"
 numero: 953
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dos respiraciones más tarde, Huang Xiaolong llegó a la entrada de la aldea.

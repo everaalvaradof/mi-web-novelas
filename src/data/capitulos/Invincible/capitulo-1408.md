@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1408: El Clan de la Bestia del Vacío fue eliminado"
 numero: 1408
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Todos de pie!" Xu Baisheng apenas pudo contener su emoción cuando conoció a los tres discípulos del Clan de las Bestias Diabólicas del Vacío. Después de ser reprimido bajo la Montaña de la Prisión del Diablo, se reunió con ellos después de varios miles de millones de años, ya que había estado reprimido bajo la Montaña de la Prisión del Diablo durante mucho tiempo.

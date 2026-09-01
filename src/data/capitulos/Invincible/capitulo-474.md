@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 474: 'Pequeño Gusano”"
 numero: 474
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La cara de Zhu Yu estaba gris ceniza por la conmoción. Aunque no estaba seguro de la identidad de Huang Xiaolong, ser recibido por la Gran Anciana Celine de los elfos fue suficiente para decirle a Zhu Yu que Huang Xiaolong no era alguien a quien pudiera permitirse ofender.

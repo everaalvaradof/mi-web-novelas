@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 598: ¿Eres un idiota?"
 numero: 598
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Entonces puedo ofertar diez mil?" Un Gran Anciano de la fuerza de primer rango escuchó lo que dijo el subastador y preguntó en broma.

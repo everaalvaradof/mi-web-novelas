@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1615: Nuevo Maestro"
 numero: 1615
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong se quedó quieto en el centro de la matriz de formación, el otro lado activó la matriz.

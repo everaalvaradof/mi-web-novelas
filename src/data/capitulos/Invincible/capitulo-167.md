@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 167: ¡La Batalla de la Ciudad Imperial Comienza!"
 numero: 167
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Zhao Wuji estaba tan perplejo como el joven noble sin corazón, Yao Fei. Ella conocía muy bien a la familia a la que pertenecía Yao Fei: la red de inteligencia de la familia Yao se extendía por todo el Imperio Duanren y era conocida como una entidad omnisciente, ¡pero no pudieron encontrar ninguna información sobre la identidad de esas dos personas!

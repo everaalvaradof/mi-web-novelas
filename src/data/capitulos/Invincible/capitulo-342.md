@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 342: Paraliza tus propias dos piernas"
 numero: 342
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿La planta baja o el primer piso son iguales?

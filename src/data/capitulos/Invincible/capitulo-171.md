@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 171: Batalla de la Ciudad Imperial (3)"
 numero: 171
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver que las dos palmas de Bai Shou golpeaban directamente el pecho de Huang Xiaolong, una gran conmoción se extendió por la multitud debajo del escenario.

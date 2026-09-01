@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 89: De vuelta a la Mansión Tianxuan"
 numero: 89
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Entonces papá, ¿qué, qué hacemos ahora?" El rostro de Lin Ke se volvió más y más pálido: la arrogancia y la actitud despótica de antes se desvanecieron sin dejar rastro.

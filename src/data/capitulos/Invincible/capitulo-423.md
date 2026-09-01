@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 423: Llegando a la Ciudad del Tesoro"
 numero: 423
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Hu Guang estaba obsesionado con la venganza. Estaba ideando planes para que su Maestro y su padre enviaran a los expertos de alto nivel de Cosmos God Cult una vez que regresara, desmembrando a ese bastardo en mil pedazos, cuando un repentino ruido del exterior interrumpió sus pensamientos.

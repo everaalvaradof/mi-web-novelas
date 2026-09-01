@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 636: ¡Esta es tu gran bendición!"
 numero: 636
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sin embargo, Yang Yi y Shi Xiaofei notaron la expresión emocionada en el rostro del Anciano de la Luna Ascendente mientras divagaba incoherentemente para sí mismo. La pareja de maestro-discípulo estaba desconcertado y confundido, sin entender por qué el Anciano de la Luna Ascendente exponía tanta emoción y ojos febriles mientras miraba a Huang Xiaolong.

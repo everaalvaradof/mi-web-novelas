@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 818: Ciudad Diablo Carmesí"
 numero: 818
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong examinó su entorno. Solo volutas de energía negra flotaban como un manto de niebla negra, emitiendo un aura intensa y nefasta. Esas volutas de energía negra eran el qi del diablo que envolvía todo el continente del Dominio del Diablo.

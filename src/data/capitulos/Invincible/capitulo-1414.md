@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1414: Quiero a este punk de rodillas"
 numero: 1414
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 'Esta persona tiene un gran tono', pensó Huang Xiaolong mientras sonreía y preguntaba con curiosidad: "¿Y tú lo eres?"

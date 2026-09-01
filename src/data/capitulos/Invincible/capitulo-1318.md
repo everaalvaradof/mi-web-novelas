@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1318: No importa"
 numero: 1318
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En una fracción de segundo, toda la tribu del mar se volvió hostil y una gran tensión llenó el aire.

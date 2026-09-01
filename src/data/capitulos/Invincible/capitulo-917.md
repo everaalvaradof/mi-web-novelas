@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 917: En El Séptimo Piso Está Jiang Xiaosu?"
 numero: 917
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Muchos otros patriarcas y jefes de secta presentes en la plaza se apresuraron a transmitir sus felicitaciones a Mo Dingtian con obvia adulación en sus voces.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 136: ¿Te atreves?"
 numero: 136
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong miró a Mei Pengliang y al número de discípulos del Pabellón Nube Clara y se burló: “Quítense toda la ropa y luego cuélguenlas una por una en los pilares de piedra al otro lado de la calle. Creo que mucha gente estará interesada en ver un espectáculo así ".

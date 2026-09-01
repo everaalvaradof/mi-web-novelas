@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 192: Distrito de Diversiones"
 numero: 192
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong estaba asombrado. Apenas había pasado una hora desde que sucedió el incidente frente al Wind Facing Hall, pero la noticia ya había llegado a Xie Puti. Parece que la influencia de la familia Xie en el Instituto Duanren fue más profunda de lo que parecía en la superficie.

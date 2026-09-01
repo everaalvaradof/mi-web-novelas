@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 788: Etapa de Perfección del Reino de Dios de la Décima Orden"
 numero: 788
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La inmensa fuerza de la gran palma se incineró en un instante al encontrarse con los Fuegos Divinos de la Tortuga Negra y el Pájaro Bermellón.

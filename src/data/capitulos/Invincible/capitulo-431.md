@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 431: ¡Es el Joven Señor!"
 numero: 431
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Chen Xiaofeng llegó al patio de la residencia de Xie Hui, vio a varias sirvientas ayudando a Xie Hui a ponerse una bata de novio de brocado rojo brillante. Al ver esto, la boca de Chen Xiaofeng se abrió y se cerró un par de veces, dudando en sacar el tema.

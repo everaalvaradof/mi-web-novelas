@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1131: La pronta llegada de Huang Xiaolong"
 numero: 1131
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras que la Secta de la Gran Ballena y la Secta Génesis del Elefante esperaban la caída de la Secta del Dios Bárbaro para poder comenzar a dividir sus territorios, el grupo de personas que todavía estaban del lado de la Secta del Dios Bárbaro se vieron atrapados entre la furia y el miedo sin precedentes.

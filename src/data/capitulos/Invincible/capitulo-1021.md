@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1021: El Fuerte de la Familia Lin Bajo Ataque"
 numero: 1021
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras la familia He y las otras tres familias se preparaban para atacar, dentro del Fuerte de la Familia Lin, Huang Xiaolong estaba de pie frente al tesoro. Siguiendo los recuerdos de Lin Chaoqun, formó un sello extraño con sus manos, luego lo envió al círculo en la puerta dorada.

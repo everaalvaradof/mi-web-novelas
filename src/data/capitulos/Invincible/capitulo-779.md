@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 779: Llega la Santa Madre Yao Chi"
 numero: 779
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las audaces palabras del director del Azure Dragon Institute provocaron susurros y jadeos bajos pero indignados de los invitados cercanos. Los antepasados y patriarcas de algunas familias que tenían buenas relaciones con el Feng Yang fruncieron el ceño ante el tono arrogante de Qin Yi.

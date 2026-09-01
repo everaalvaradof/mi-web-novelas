@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1894: Hay un buen espectáculo para ver ahora"
 numero: 1894
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Joder!" Huo Liucheng golpeó el artefacto de jade que sostenía contra el pilar a su lado. En el momento en que el artefacto de jade se estrelló contra el pilar, se rompió en pedazos.

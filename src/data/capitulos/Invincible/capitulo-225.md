@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 225: Conociendo a Shi Fantian"
 numero: 225
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El genio discípulo de Fan Family, Fan Chen, poseía un espíritu marcial promedio de grado catorce ㅡ

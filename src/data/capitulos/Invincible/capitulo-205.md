@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 205: ¿Estás bien?"
 numero: 205
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Guo Zhi se dio la vuelta para ver a la persona que hablaba y luego su cuerpo se puso rígido instantáneamente. La ira en su rostro se disipó como una bocanada de humo, pero no sonrió.

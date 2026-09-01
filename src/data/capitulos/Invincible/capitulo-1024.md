@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1024: Pasando por el Fuerte de la Familia Tie"
 numero: 1024
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 He Cheng escaneó al grupo de personas que regresaban, pero no vio la figura de Huang Xiaolong, lo que provocó que la duda surgiera en su corazón, '¿Ese punk escapó de un golpe de suerte?'

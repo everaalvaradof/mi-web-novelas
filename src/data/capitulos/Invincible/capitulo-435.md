@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 435: Sede de la Cámara de Comercio del Pabellón Dorado"
 numero: 435
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Sí, Joven Señor, da la orden, extermina la Puerta de Asura!" Chen Xiaofeng dio un paso adelante, "¡El odio en nuestros corazones no puede ser sofocado a menos que Huang Xiaolong muera!"

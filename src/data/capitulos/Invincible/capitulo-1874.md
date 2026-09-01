@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1874: Pobre Avaro"
 numero: 1874
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar que Huo Liuyun quería ver a Huang Xiaolong, la anfitriona del burdel, Guo Mengmeng, se puso ansiosa y parecía aún más preocupada. "Príncipe heredero Liuyun, esto, me temo ..." no es apropiado.

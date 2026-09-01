@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 746: Domando a una Bestia Demoníaca del Reino de Dios del Décimo Orden"
 numero: 746
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Volando sobre el río God Burial, Huang Xiaolong miró hacia la superficie aparentemente tranquila del río. De vez en cuando, se podían ver corrientes esporádicas y tenues de energía roja flotando en el aire. Estas tenues corrientes de energía roja tenían temperaturas extremadamente altas. Para probarlo, Huang Xiaolong arrojó una piedra espiritual de grado santo al río.

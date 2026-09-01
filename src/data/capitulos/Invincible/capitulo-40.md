@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 40: ¡El Hermano Menor está en problemas!"
 numero: 40
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Como siempre, Fei Hou se mantuvo en silencio, por lo que fue Huang Xiaolong quien respondió con una mueca, “¿Te atreves a matar a los guardias de tu Duke Mansion? ¿No me digas que deberíamos habernos quedado aquí esperando a que nos mataras? No deberíamos haber movido un dedo en represalia, ¿verdad?

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 105: Encontrándose de nuevo"
 numero: 105
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Tío Liu, realmente fuiste tú!" El rostro de Chen Li se llenó de incredulidad mientras miraba a Liu Mu. Incluso en este momento, ella misma no podía creer que lo que estaba sucediendo fuera real.

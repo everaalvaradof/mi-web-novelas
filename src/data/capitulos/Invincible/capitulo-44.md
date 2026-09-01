@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 44: Robado en nuestra casa de subastas"
 numero: 44
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuatro personas, Huang Xiaolong, Fei Hou y los dos guardias de la Mansión del Mariscal se dirigieron hacia una casa de subastas de técnicas de cultivo y habilidades de batalla (habiendo decidido ir allí antes de dirigirse al mercado inmobiliario).

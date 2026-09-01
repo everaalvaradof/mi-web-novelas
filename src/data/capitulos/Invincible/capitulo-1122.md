@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1122: ¡Descubierto!"
 numero: 1122
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver a un joven de cabello negro entrando en su celda junto con una vaca, la discípula de Fortune Gate luchó aún más, lo que hizo que su vestido se estirara casi hasta el punto de romperse.

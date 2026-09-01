@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 600: Esclavo"
 numero: 600
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong no tardó mucho en llegar a la Residencia Luo Tong desde la matriz de transmisión de la Ciudad del Guerrero Negro.

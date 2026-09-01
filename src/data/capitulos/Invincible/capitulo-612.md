@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 612: Quiero tu tesoro de granizo"
 numero: 612
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver a Jiang Bi liberar toda su fuerza en el Rising Dragon Arena, Feng Yang en el puesto de observación del anfitrión frunció el ceño ligeramente con preocupación. La fuerza de Jiang Bi aumentó más de lo que había estimado después de cultivar las técnicas del budismo y el fantasma.

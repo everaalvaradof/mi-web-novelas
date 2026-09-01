@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 582: No hay prisa"
 numero: 582
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Huang Xiaolong, ¡¿q-qué estás tratando de hacer ?!" Zhao Rui observó con cautela cómo Huang Xiaolong se acercaba, su rostro blanco sin un rastro de sangre. Intentado como lo hizo, Zhao Rui no pudo evitar el temblor de su voz.

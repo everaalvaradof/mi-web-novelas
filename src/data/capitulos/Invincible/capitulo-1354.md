@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1354: ¿Este pedazo de una mejora?"
 numero: 1354
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sin más demora, Guo Jun, Wangu Ziyi, así como Xiang Li y sus compañeros salieron del restaurante para enfrentarse a Huang Xiaolong. Fueron dirigidos por el discípulo de la familia Guo.

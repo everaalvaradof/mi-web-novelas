@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1350: Avanzando con éxito"
 numero: 1350
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pasó una hora...

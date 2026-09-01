@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 568: Los Maestros de la Familia Ying"
 numero: 568
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 '¿Preguntar al Maestro?'

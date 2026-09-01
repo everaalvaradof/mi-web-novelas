@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 235: ¡Joven Noble Huang!"
 numero: 235
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Hermano mayor, ¿tenemos que informar al padre sobre este asunto?" En este momento, Guo Shiyuan planteó una pregunta.

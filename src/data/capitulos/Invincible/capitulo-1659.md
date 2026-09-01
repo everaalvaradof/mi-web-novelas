@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1659: La batalla sin igual"
 numero: 1659
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al igual que los golpes anteriores, el ataque de Jin Yuan y Fan Hui continuó después de destruir a los monstruos aleatorios antes de cargar contra Huang Peng y los antepasados.

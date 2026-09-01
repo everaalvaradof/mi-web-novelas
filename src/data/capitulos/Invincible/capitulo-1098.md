@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1098: ¿Ha salido Tang Hong?"
 numero: 1098
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las nueve almas de dragones se conectaron como un anillo en el cielo, de la cabeza a la cola, exudando olas de qi de dragón abrumadoras como gotas doradas de lluvia revoloteando por el Templo Sagrado del Dragón Dorado de abajo.

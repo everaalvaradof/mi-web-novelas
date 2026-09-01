@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 852: Verdaderamente buenas noticias"
 numero: 852
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La fuerza de este grupo de discípulos de la familia Yelu no fue baja. Los más débiles fueron al menos el Reino de los dioses altos de segundo orden temprano, mientras que el cultivo de los más fuertes fue en el Reino de los dioses altos del tercer orden temprano.

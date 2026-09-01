@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1402: La joven dama Fang Xuanxuan"
 numero: 1402
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong negó con la cabeza después de escuchar la oferta por 'cuarenta millones' de la habitación privada número siete.

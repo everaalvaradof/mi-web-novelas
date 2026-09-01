@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1841: Doce Archidiablos Ancestros"
 numero: 1841
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Sí, Su Majestad. La Torre del Diablo finalmente se desprecintará, y me temo que innumerables genios se apresurarán a tratar de ascenderla". Gao Changran informó.

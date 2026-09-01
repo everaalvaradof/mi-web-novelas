@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1536: La segunda mitad de la estela del diablo del ojo de sangre"
 numero: 1536
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En ese momento, la pequeña vaca giró la cabeza y le habló a Jiang Hong: “Abuela de Kiddo, confío en que podrás ayudar a Kiddo Huang a lidiar con la bestia demoníaca del caos, ¿verdad? Huang Xiaolong todavía está bastante débil... Necesita varios guardaespaldas más del Reino Emperador a su lado ".

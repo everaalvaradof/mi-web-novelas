@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 913: Alarmando al Patriarca del Clan del Diablo"
 numero: 913
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Mo Su en realidad tenía cinco dioses de rango emperador de alto grado!

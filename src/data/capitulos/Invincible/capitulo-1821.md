@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1821: Devorando a Feng Chan"
 numero: 1821
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Feng Chan palideció al escuchar las palabras de Huang Xiaolong. Se tambaleó hacia atrás de manera inestable; aun así, miró ferozmente a Huang Xiaolong y gritó: "¡Cómo te atreves! Soy el discípulo del Emperador Dios Demonio. ¡Si me matas, el Palacio del Emperador Dios Demonio y la Tribu de cadáveres gigantes de nueve Yin nunca te perdonarán!"

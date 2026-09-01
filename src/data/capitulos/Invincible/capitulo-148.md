@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 148: Lin Han ¡Lin Han Aterriza un Golpe!"
 numero: 148
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Poco después, aparecieron Sun Zhang y Xiong Chu, dirigiéndose al escenario principal. Al igual que en competiciones anteriores, cuando llegaban ambos, uno de ellos explicaba brevemente las reglas antes de anunciar el inicio de la competición, era prácticamente una tradición.

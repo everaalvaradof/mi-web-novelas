@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 840: Dame tu lugar"
 numero: 840
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El grupo de Feng Yang pasó otro día viajando antes de llegar a Aeon City.

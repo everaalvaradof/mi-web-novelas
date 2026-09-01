@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 199: Un Pequeño Molesto de la Familia Huang"
 numero: 199
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Boom! Una fuerte explosión resonó.

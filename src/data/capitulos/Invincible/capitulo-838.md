@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 838: Siete años después"
 numero: 838
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar eso, Yelu Tianhao se quedó aturdido por un segundo, luego su rostro floreció de alegría, “¡El hermano mayor tiene razón! Hermano mayor, matar personalmente a Huang Xiaolong sería una profanación de tu fuerza. Nuestra familia Yelu tiene más de cien discípulos participando en el torneo, cualquiera de ellos puede acabar fácilmente con la vida de ese perro ".

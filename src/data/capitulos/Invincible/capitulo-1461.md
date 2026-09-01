@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1461: La Competición de Rankings Termina"
 numero: 1461
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Todos en la sala de exámenes vieron cómo Peng Xiao se acercaba a Huang Xiaolong. Justo cuando estaba a punto de buscar a Huang Xiaolong en busca de su artefacto espacial con sus Frutas Divinas de la Fortuna, Huang Xiaolong extendió la mano y agarró la mano de Peng Xiao. Su mano era pequeña, suave y flexible al tacto, como si pudiera romperla con un poco de fuerza.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 954: Las Puertas de los Demonios Espirituales"
 numero: 954
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver esa figura acelerar hacia él, la frente de Huang Xiaolong se arrugó ligeramente. Ya podía adivinar qué plan estaba tratando de ejecutar el otro lado; estaba claro como el día que la figura quería descargar a esas feroces bestias que lo perseguían en Huang Xiaolong, usando a Huang Xiaolong como escudo para bloquear a esas feroces bestias y poder escapar.

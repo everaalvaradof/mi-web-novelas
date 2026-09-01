@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 24: Proteger a los seres queridos"
 numero: 24
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que Li Mu había hablado, Li Cheng se sentía muy nervioso mientras se dirigía hacia el ataúd empapado en sangre. Su palma golpeó la tapa del ataúd, y este voló, revelando el cadáver de un chico de dieciséis a diecisiete años.

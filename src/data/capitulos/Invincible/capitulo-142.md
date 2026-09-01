@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 142: Ir a la subasta"
 numero: 142
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Subasta de un millón de tesoros?" Huang Xiaolong estaba desconcertado.

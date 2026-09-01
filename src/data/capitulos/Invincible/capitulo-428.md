@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 428: ¿Ni siquiera calificado para llevar sus zapatos?"
 numero: 428
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Xie Hui se sentó en el asiento principal, escuchando los halagos que provenían de las bocas de los Ancianos de la Aplicación. Él sonrió levemente y asintió con la cabeza mientras levantaba su copa de vino en un gesto de brindis. Nadie sabía lo que estaba pasando dentro de la mente de este Joven Lord.

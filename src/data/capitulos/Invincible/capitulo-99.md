@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 99: ¡Este monstruo de hombre!"
 numero: 99
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El clima del día siguiente fue brillante y soleado.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1290: El Ancestro de la Familia Xiao"
 numero: 1290
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Xiao Zhangyu no respondió a Xiao Teng. Se burló mientras miraba fijamente al grupo de Huang Xiaolong, y finalmente se enamoró del rostro seductor de Feng Er.

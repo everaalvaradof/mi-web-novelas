@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1102: ¿Abrogar la posición de Huang Xiaolong?"
 numero: 1102
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡La Tribu Gigante! Huang Xiaolong frunció el ceño levemente ante la conexión inesperada.

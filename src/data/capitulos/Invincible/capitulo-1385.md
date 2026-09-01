@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1385: El despertar de Li Lu"
 numero: 1385
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras Huang Xiaolong estaba refinando la Torre del Dios del Mar, la pequeña vaca no estaba esperando ociosamente a un lado.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1693: El duodécimo piso"
 numero: 1693
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Durante estos dos años de espera afuera, Tai Yue y los demás ocasionalmente fantaseaban con lo bueno que sería si el misterioso genio fuera su maestro...

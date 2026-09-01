@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 842: ¿Pretendiendo ser rico?"
 numero: 842
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Edad ósea: 258.

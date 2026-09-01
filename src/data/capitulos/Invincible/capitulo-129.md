@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 129: La caza de cocodrilos de hierro"
 numero: 129
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿Hermano mayor Huang? Al escuchar el saludo con el que lo llamó Jiang Teng, Huang Xiaolong se sorprendió.

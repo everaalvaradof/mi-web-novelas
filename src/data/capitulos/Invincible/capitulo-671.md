@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 671: El regreso del anciano de la luna ascendente"
 numero: 671
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En este día, Huang Xiaolong estaba practicando sus habilidades de alquimia como de costumbre en el Palacio de los Nueve Salones. ¡Sus manos se agitaron y numerosos elixires volaron en el aire como si tuvieran una mente propia mientras volaban, agrupándose y formando varias bestias divinas antiguas! ¡Estas bestias divinas sumaban exactamente cien!

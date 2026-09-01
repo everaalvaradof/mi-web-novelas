@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 783: Heredero del Legado"
 numero: 783
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Todo sucedió demasiado rápido, nadie de abajo esperaba que Huang Xiaolong, que había estado en la defensa todo este tiempo, atacara repentinamente, convirtiendo al noble Lu Cong en una hamburguesa de carne plana!

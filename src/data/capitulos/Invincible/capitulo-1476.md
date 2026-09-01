@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1476: Mi memoria no es muy buena"
 numero: 1476
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar la explicación de Huang Xiaolong, Bei Xiaomei preguntó feliz: "¿En serio?" Huang Xiaolong respondió con absoluta certeza: "¡De verdad!"

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1537: Refinando la Estela del Diablo del Ojo de Sangre"
 numero: 1537
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando la bestia demoníaca del caos se volvió para mirarlos, una oleada de qi terrible y nefasto surgió hacia ellos.

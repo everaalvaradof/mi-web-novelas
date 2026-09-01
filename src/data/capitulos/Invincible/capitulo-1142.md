@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1142: Torre de Mezcla de Píldoras"
 numero: 1142
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Maestro, al frente!" Xiaoniū gritó emocionada. Antes de que Huang Xiaolong entendiera de qué estaba hablando la pequeña vaca, aceleró hacia la otra Bestia Divina Devoradora de Nubes.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 481: Usaste diez movimientos"
 numero: 481
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Un discípulo aterrorizado corrió hacia la sala en este momento, pero antes de que ese discípulo pudiera decir una palabra, Ao Kun ya le gritó: "¿Qué está pasando afuera?"

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1765: ¿Quién es tu hermano mayor?"
 numero: 1765
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En cuanto a Chen Kaiwen y Yan Kang, su reacción fue peor que la de Mo Xiao cuando escucharon lo que dijo.

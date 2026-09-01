@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1349: Rompiendo con el Reino de los Dioses Ancestrales"
 numero: 1349
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong entró en reclusión para intentar abrirse paso hacia el Reino de Dios Ancestro, tanto la vaca pequeña como la bestia diablo del vacío Xu Baisheng se pusieron en guardia para él como medida de precaución.

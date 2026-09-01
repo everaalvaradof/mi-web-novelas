@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 325: El cuarto piso"
 numero: 325
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dentro del Templo Xumi, Huang Xiaolong estaba estupefacto.

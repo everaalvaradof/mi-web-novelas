@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 714: La Montaña Celestial"
 numero: 714
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que las dos espadas largas de fuego de nieve helada entraron en el cuerpo de Huang Xiaolong, bolas de fuego blancas como la nieve que exudaban una energía fría emergieron a la superficie de su cuerpo, fusionándose gradualmente con otras bolas de fuego blancas en una armadura divina en llamas que cubría a Huang Xiaolong desde el cuello hacia abajo.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 449: Raza Enana"
 numero: 449
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Audaz!" Un anciano elfo bajo y delgado gritó y fue el primero en atacar.

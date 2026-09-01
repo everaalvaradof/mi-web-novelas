@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 175: La batalla de la ciudad imperial (7)"
 numero: 175
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando comenzó el segundo día de competencia, la mitad de la gente subió a sorteo, que también incluía a Huang Xiaolong.

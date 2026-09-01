@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1458: ¿Cincuenta movimientos?"
 numero: 1458
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al entrar en la sala de exámenes, Fang Gan y su grupo descubrieron que el Jefe de Maestros del Salón, Zhao Lei, también estaba presente, agrupado con Gongsun Chi, Zhang Dong y los demás. Todos estaban mirando el espejo de jade frente a ellos.

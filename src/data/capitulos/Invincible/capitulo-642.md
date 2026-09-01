@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 642: No es más que un perro de un dios"
 numero: 642
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Bajo la incondicional opresión de Jiang Yu, los miembros de la Liga de Todos los Dragones de los alrededores se retiraron con asombro y aprensión.

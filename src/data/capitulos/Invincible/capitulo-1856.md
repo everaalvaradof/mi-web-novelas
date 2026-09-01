@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1856: Como quieras"
 numero: 1856
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de ver a Chen Weijian activar su Armadura del Diablo de las Cien Transformaciones e instarlo a atacar, Huang Xiaolong respondió cruelmente: "En ese caso, como desees".

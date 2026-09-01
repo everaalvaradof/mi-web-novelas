@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 511: ¡Aguja de unión de almas!"
 numero: 511
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En el instante en que la Espada de la Muerte Absoluta del otro lado atravesó su carne, ¡Huang Xiaolong sintió un dolor desgarrador viajar desde su corazón! ¡Este tipo de dolor desgarrador era algo que Huang Xiaolong no había sentido en mucho tiempo, desde que su físico fue reformado en el Verdadero Físico del Dragón por la Perla del Dragón!

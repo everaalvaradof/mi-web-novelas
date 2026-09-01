@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1654: Debería ser condenado a muerte inmediatamente"
 numero: 1654
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En la plataforma principal, Huang Peng y los antepasados se sorprendieron cuando vieron a alguien de pie en medio de la ceremonia.

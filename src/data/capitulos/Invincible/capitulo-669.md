@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 669: ¿Problemas?"
 numero: 669
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dentro del gran salón de la mansión de la familia Zhang, el rostro del patriarca de la familia Zhang, Zhang Dongbi, era horriblemente sombrío, una monstruosa intención asesina se reunió a su alrededor en un silencio escalofriante.

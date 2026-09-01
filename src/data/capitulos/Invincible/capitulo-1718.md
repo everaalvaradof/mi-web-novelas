@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1718: Nadie podrá matarlo en el futuro"
 numero: 1718
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong no entró en pánico mientras miraba la flecha negra que volaba hacia él. De repente, un rayo salió disparado desde el medio de sus cejas, cuando apareció una gran piscina de rayos de caos.

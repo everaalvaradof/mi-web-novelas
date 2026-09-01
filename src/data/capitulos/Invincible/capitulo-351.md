@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 351: Garantía de que no puedes dejar de elogiar"
 numero: 351
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando el dueño de la posada se acercó a la mesa de Huang Xiaolong, el mesero le explicó: "Dueño, este es el Joven Noble que tiene la intención de comprar todo el Vino de Origen restante".

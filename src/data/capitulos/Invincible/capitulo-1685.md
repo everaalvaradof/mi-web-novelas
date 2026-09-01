@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1685: ¿Quién es?"
 numero: 1685
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Alguien ya ha llegado al tercer piso! Esto, ¿cómo es esto posible? ¡Ha pasado menos de una hora desde que se abrió la entrada!"

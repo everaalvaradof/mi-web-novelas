@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 85: Dotado para mí"
 numero: 85
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Perdonarlos a todos?" Huang Xiaolong repetidamente con frialdad.

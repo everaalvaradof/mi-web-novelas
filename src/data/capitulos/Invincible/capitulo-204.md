@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 204: Entonces mi apellido no es Guo"
 numero: 204
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Podría haber una manera". Huang Xiaolong se quedó en blanco por un momento y luego la emoción se apoderó de él, "¿De qué manera?"

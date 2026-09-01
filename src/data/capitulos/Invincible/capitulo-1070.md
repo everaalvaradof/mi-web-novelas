@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1070: El Reino de los Dioses Celestiales de la Cuarta Orden"
 numero: 1070
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar la pregunta de Ren Changhai, el Jefe de la Secta Elefante Génesis y los Grandes Ancianos fruncieron el ceño, pero nadie habló.

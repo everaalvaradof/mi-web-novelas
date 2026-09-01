@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 222: Altar del Bendito Buda"
 numero: 222
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Tres días después, Huang Xiaolong partió de Southern Hill Estate, fuera de la Ciudad Imperial de Duanren, en dirección al Imperio del Bendito Buda.

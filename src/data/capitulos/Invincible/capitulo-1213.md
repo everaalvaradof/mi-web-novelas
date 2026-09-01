@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1213: ¡Derrotarlo en tres golpes!"
 numero: 1213
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong, la vaca pequeña y el babuino negro entraron en la tumba número trescientos veinte.

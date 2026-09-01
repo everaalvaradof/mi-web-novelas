@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1684: Reino del Monarca Celestial de Tercera Orden"
 numero: 1684
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡León gigante de la oscuridad!"

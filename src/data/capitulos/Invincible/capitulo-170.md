@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 170: La Batalla de la Ciudad Imperial (2)"
 numero: 170
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Chen Bailu mostró una expresión fea cuando se encontró cara a cara con Xie Puti en el escenario.

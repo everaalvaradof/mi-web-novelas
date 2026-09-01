@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1253: El Pequeño y Precioso Discípulo Long Long"
 numero: 1253
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En los últimos tres años, Cheng Susu había estado explorando fuera de Fortune Gate, y acababa de regresar a Fortune Gate el día en que regresó el grupo de Fortune Gate. Por lo tanto, no estaba al tanto de los resultados de la Gran Guerra de Todas las Islas y de la Batalla de los Nuevos Discípulos de los Cuatro Continentes.

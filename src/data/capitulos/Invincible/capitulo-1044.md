@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1044: Un gran ataúd de escarcha"
 numero: 1044
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La cabeza de Fan Yuan rodó por el suelo cerca de los pies de Chen Xiong, Wang Dafeng y Zhu Wanchen, una expresión de incredulidad, desgana y miedo se congeló en su rostro.

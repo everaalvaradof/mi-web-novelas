@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1324: ¿Podrías ser tú ese Huang Xiaolong?"
 numero: 1324
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Uno de los discípulos de la Secta Ondas de Arena estaba furioso y asustado.

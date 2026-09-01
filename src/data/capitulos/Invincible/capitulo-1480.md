@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1480: Palacio del Emperador Dios Maldito"
 numero: 1480
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Incluso los rostros de Fang Gan, Zhou Chen, Li Shan, Chen Yirong y Zhao Lei se tornaron hoscos al notar el emblema del cráneo de ascuas en la túnica de brocado negro del joven.

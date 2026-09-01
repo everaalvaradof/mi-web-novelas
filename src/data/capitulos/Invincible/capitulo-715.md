@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 715: Piscina de Sangre del Dios Celestial"
 numero: 715
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A la pregunta de Huang Xiaolong, Chen Yu respondió: “Hay un charco de sangre del Dios celestial. La leyenda dice que el charco de sangre se formó a partir de la sangre del maestro Dios celestial caído. Si uno puede cultivar en el charco de sangre incluso por un día, los beneficios son infinitos. Hay historias que dicen que un Gran Anciano del Instituto del Tigre Blanco se había cultivado una vez en el charco de sangre cuando todavía era un discípulo interior, además, ¡permaneció en el charco de sangre durante un mes entero! ¡Después de un mes de práctica, avanzó del Reino de Dios de Segundo Orden al Reino de Dios del Tercer Orden! "

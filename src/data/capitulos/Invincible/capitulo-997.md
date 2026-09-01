@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 997: La isla del volcán"
 numero: 997
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong apagó todo el ruido del exterior después de entrar a la habitación con el número catorce activando la barrera de la habitación. Luego se sentó con las piernas cruzadas en la fría cama de jade, repartiendo los premios que recibió por obtener el primer lugar en la evaluación.

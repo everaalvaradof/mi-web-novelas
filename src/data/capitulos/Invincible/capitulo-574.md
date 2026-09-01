@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 574: Piedra Espiritual Inmortal de Grado Sagrado"
 numero: 574
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A pesar de la espaciosa área de tierra de la Divine Fort Residence, solo tenía no más de treinta habitaciones.

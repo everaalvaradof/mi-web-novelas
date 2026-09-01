@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 256: La sospecha de Chen Xiaotian"
 numero: 256
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Al ver a Huang Xiaolong acercarse, un inexplicablemente frío escalofrío recorrió el corazón de Geng Ken!

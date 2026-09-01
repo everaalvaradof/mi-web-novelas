@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1442: Llegando al Palacio del Emperador de la Fortuna"
 numero: 1442
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las fichas de zorro plateado de Silver Fox Commerce tenían cuatro grados. En la superficie, todas las fichas se veían iguales, sin embargo, había diferencias distintivas entre los cuatro grados de las fichas de zorro plateado.

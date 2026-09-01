@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 725: Llegando a la Galaxia del Pájaro Bermellón"
 numero: 725
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Entrar al Instituto Vermilion Bird para buscar información?" Tanto el Anciano de la Luna Ascendente como Yang Yi estaban desconcertados.

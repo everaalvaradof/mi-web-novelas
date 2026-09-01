@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1241: Arrodíllate y discúlpate"
 numero: 1241
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La brutalidad cruzó por el rostro de Guo Gang mientras veía a sus guardias correr hacia Huang Xiaolong y Luo Yunjie. Aunque Guo Gang sabía que las cosas se pondrían un poco problemáticas si paralizaba a Huang Xiaolong y Luo Yunjie, ya que Fortune Gate no dejaría pasar este asunto, todavía confiaba en que Fortune Gate no se atrevería a dañarlo.

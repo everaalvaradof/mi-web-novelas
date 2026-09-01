@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 950: Su Nombre Es Huang Xiaolong"
 numero: 950
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Wu Gen reflexionó por un momento, luego negó con la cabeza, “No es necesario por el momento. Si realmente es un genio con talento, seguramente también podrá aprobar la segunda parte del examen. En la tercera parte, el Ancestro lo notará de todos modos ".

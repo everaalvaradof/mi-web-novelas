@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 295: Debajo de la Grieta"
 numero: 295
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al salir del Templo Xumi, Huang Xiaolong convocó a Qin Yang, Lifei, Jie Dong y Fan Encheng, diciéndoles que estaría ausente durante los próximos días, y en ese período, deberían quedarse y esperarlo en la residencia. Después de darles ciertas tareas, Huang Xiaolong sacó a Godly Mt. Xumi, controlándolo para volar en dirección a Broken Tiger Rift, salió sigilosamente de la Ciudad de la Miríada de Dioses.

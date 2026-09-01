@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 346: Desgarrando el Reino Santo"
 numero: 346
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El emperador Duanren tuvo una reacción similar a Xie Puti. En lo profundo de una cámara secreta dentro de los terrenos del palacio, el emperador Duaren quedó estupefacto al recibir la noticia.

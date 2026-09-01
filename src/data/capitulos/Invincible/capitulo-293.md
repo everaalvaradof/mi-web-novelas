@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 293: Entonces, fue así"
 numero: 293
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Tu joven señor quiere verme?" Huang Xiaolong echó un vistazo rápido a los dos jóvenes pomposos, "¿Qué pasa si me niego...?"

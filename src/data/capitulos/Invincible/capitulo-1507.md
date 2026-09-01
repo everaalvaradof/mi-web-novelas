@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1507: ¿Cuerpo Inmortal Verdadero?"
 numero: 1507
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Xiang Xun, Xu Baisheng, Feng Er y el resto recobraron el sentido ante el recordatorio de la pequeña vaca. Sus corazones se relajaron y se esparcieron alrededor de Huang Xiaolong para protegerlo.

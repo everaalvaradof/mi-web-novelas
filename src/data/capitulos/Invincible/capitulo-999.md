@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 999: Distribución equitativa"
 numero: 999
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Incapaz de ponerse en contacto con ese discípulo interior puso a Chen Jinzhi en una situación difícil. Buscar a ciegas a Huang Xiaolong en la vasta Isla del Volcán no era una opción, por lo tanto, decidió esperar a Huang Xiaolong en el punto de partida del barco volador.

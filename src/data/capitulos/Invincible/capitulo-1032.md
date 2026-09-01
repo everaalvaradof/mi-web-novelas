@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1032: La Verdadera Identidad de la Vaca Pequeña"
 numero: 1032
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong solo pensó en la pequeña vaca cuando un inesperado 'muuucho' rompió el silencio de la sala del tesoro. El sonido retumbó como un trueno, sorprendiendo a Huang Xiaolong.

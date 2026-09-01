@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1415: Esto es muy justo, ¿verdad?"
 numero: 1415
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar los clamores enojados de la Rama de la Puerta de la Fortuna del Buda Real, Xiang Xun, Xu Baisheng y el resto del grupo de Huang Xiaolong también sintieron que era divertido. No iban a actuar sin la instrucción de Huang Xiaolong, por lo tanto, simplemente miraron a Liang Ming y sus compañeros como si estuvieran viendo payasos saltando.

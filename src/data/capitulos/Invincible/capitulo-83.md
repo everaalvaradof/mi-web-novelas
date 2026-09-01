@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 83: ¡Qué cosa es la Secta de la Espada Grande!"
 numero: 83
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Padre!"

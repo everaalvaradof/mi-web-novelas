@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1755: A la Corte Celestial"
 numero: 1755
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras Zhao Lei, Fang Mingyu y los demás todavía estaban en estado de shock, Huang Xiaolong ya los había sacado de prisión.

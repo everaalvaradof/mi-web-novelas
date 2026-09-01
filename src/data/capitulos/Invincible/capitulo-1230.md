@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1230: Quién es el gran canalla"
 numero: 1230
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El líder del equipo de patrulla policial, Peng Rong, se sorprendió al ver el miserable estado de Ma Yihai, especialmente porque conocía la identidad y el estado de Ma Yihai.

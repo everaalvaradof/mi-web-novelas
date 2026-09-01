@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 534: Primer encuentro con Gudu Leng"
 numero: 534
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La noche dio paso gradualmente al amanecer cuando el sol extendió su luz sobre la tierra.

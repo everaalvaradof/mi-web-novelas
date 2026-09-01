@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1788: Descansa tranquilo, Padre Imperial"
 numero: 1788
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 De hecho, no solo el Discípulo del Emperador del Dios Demonio tuvo ese sentimiento, sino que los discípulos de otros Palacios del Emperador también sintieron lo mismo. Sus rostros palidecieron y sus rodillas se debilitaron. Antes de que comenzara la ronda preliminar, el Palacio del Emperador Dios Demonio había emitido una lucrativa recompensa de cinco millones de piedras espirituales del caos de bajo grado para cualquiera que matara a Huang Xiaolong. Muchos de ellos habían sido tentados.

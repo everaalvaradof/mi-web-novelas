@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1296: La obtención del tesoro del archidiablo de Yellow Springs"
 numero: 1296
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Es esto realmente el agua de Yellow Springs?" Preguntó la pequeña vaca con el ceño fruncido, mientras miraba el agua de color amarillo que corría a ambos lados del camino. Tenía dudas de que se tratara de agua genuina de Yellow Springs.

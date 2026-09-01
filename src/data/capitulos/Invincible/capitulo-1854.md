@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1854: El segundo piso"
 numero: 1854
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Entre los muchos discípulos que lo habían atacado, algunos de ellos estaban en el Reino del Monarca Celestial de la Novena Orden, y otros estaban en el Reino del Monarca Celestial de la Décima Orden. Incluso había algunos que estaban en la cima del Reino monarca celestial de la Décima Orden.

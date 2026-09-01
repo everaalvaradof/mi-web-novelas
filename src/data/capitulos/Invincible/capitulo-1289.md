@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1289: Deshazte de este gilipollas"
 numero: 1289
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Todos los guardias de Meteoric Soar Manor se reunieron rápidamente en la entrada principal, ya que notaron el desacuerdo entre el mayordomo y el grupo de Huang Xiaolong. Todos miraron fijamente a Huang Xiaolong y le advirtieron a través de sus miradas penetrantes que detendrían a su grupo si no entregaba un regalo para mostrar respeto a su maestro.

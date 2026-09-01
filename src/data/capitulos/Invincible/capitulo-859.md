@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 859: Condensando una divinidad"
 numero: 859
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver que el nombre de su discípulo se atenuaba lentamente en la lista de clasificación, Qin Yi gritó con furia, negación y aprensión: "¡N-no, no, imposible, no...!"

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 880: Ceremonia de Instalación"
 numero: 880
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aunque no vinieron más palabras de Wangu Zhi, ¿cómo pudo el grupo de Ancianos del Clan Wangu no detectar el significado subyacente?

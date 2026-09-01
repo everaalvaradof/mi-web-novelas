@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 562: Ocupado por Otro"
 numero: 562
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La gloriosa victoria de Huang Xiaolong sobre Wang Biaoyuan, un Reino de Dios de la Segunda Orden tardía, durante la evaluación de los discípulos externos provocó una gran ola de conmoción en las fuerzas de la galaxia durante casi un mes antes de que finalmente se calmara.

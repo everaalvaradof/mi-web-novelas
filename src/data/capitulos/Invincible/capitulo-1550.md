@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1550: No hay piedad"
 numero: 1550
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al mirar la bola de lluvia de dragón púrpura que flotaba sobre su mano, Huang Xiaolong estaba aún más seguro de que dentro de esta montaña, ¡había una fuente de aura de abuela púrpura!

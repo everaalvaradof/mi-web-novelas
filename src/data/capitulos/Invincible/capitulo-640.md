@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 640: El avance de Jiang Yu"
 numero: 640
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al sentir la mirada aturdida de Zhang Dongbi en su cabeza calva, la ira inexplicablemente se elevó en el corazón de Zhang Fei, enviando a Zhang Dongbi a volar con una patada despiadada.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 982: El Fuerte de la Familia Tie"
 numero: 982
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Como Yan Hai había transmitido previamente el incidente del ataque de la bestia al Fuerte de la Familia Tie a través del talismán de comunicación, no mucho después de que salieron del Bosque Fénix de Sangre, se encontraron con el equipo de guardias de escolta del Fuerte de la Familia Tie.

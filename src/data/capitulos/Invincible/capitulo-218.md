@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 218: Deidades Templarias apareciendo de nuevo"
 numero: 218
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En el mismo momento en que otras personas consideraron esta posibilidad sobre la Ficha Dorada en la mano de Huang Xiaolong, ¡el mismo pensamiento golpeó a Yao Fei! Su corazón se aceleró con inquietud.

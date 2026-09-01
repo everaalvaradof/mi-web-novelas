@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 275: Unificando la Ciudad del Demonio Negro"
 numero: 275
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Hu Han palideció cuando vio que el Dedo de la Tribulación del Diablo descendía sobre él. Era muy consciente de lo poderoso que era el Dedo de Tribulación del Diablo de Jiang Tianhua; si dijera lo que constituye una amenaza para él en la Ciudad del Demonio Negro, entonces sería el Dedo de Tribulación del Diablo de Jiang Tianhua. Confiando en su fuerza actual de la Octava Orden de mediados de Xiantian, recibir un golpe del Dedo de Tribulación del Diablo fue suficiente para causarle heridas graves.

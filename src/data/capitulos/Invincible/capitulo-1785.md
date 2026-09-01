@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1785: La verdadera fuerza de Lan Tailong"
 numero: 1785
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando el discípulo del Emperador del Brillo, Lan Tailong, vio que había obtenido el mismo número que Huang Xiaolong, se quedó atónito por un momento. Pero luego, levantó la cabeza y miró a Huang Xiaolong con un furioso deseo de batalla.

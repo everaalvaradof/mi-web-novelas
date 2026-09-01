@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 149: Esto es como rascarse un picor para mí"
 numero: 149
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En el escenario, Huang Xiaolong tomó toda la fuerza del Gran estilo de puño a la luz de la luna de Lin Han, pero permaneció de pie tan estable como una montaña. El ataque no le afectó en lo más mínimo.

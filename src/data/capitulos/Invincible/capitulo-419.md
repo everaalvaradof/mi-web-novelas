@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 419: Entrega al Asesino"
 numero: 419
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong no pronunció una palabra mientras caminaba hacia el asiento principal y se sentaba. Incluso se podía escuchar una aguja caer en el pesado silencio.

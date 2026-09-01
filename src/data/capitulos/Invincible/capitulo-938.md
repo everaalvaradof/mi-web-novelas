@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 938: Desafiando a Sun Yi"
 numero: 938
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La emoción de la multitud se desbordó después de que Huang Xiaolong logró sobrevivir a la novena ola de rayos de tribulación.

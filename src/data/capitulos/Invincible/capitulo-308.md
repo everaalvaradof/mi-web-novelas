@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 308: Huevo de Dragón de Tierra"
 numero: 308
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El Dominio Fantasma estaba ubicado en la parte norte de las Tierras Bedlam.

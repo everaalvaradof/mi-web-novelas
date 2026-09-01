@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 693: Volviendo al Mundo del Espíritu Marcial"
 numero: 693
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sin embargo, determinar la dirección o la superficie del mundo donde podría estar el Fuego Divino de la Tortuga Negra fue más fácil decirlo que hacerlo...

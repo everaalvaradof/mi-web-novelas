@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1188: Absolutamente Una Cabeza de Dios de Rango Emperador del Elemento Frío"
 numero: 1188
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Wu Qian'er vio que Huang Xiaolong dibujó el mismo número simbólico que ella, su delicado rostro se tensó. Él era la persona contra la que menos quería luchar.

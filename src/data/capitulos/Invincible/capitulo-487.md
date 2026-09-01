@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 487: Viendo de nuevo al Mono Devorador de Espíritus Violeta"
 numero: 487
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Mono devorador de espíritu violeta!

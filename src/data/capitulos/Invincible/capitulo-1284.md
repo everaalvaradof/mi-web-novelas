@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1284: Ya Dije Que Eres Un Idiota, Pero No Lo Crees"
 numero: 1284
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Todos los expertos en la sala se alarmaron por la intensidad de la luz negra. Los más débiles ni siquiera podían abrir los ojos mientras ellos.

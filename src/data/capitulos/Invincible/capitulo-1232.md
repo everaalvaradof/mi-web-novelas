@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1232: El Rey de los Diez Mil Elefantes"
 numero: 1232
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Varios Ancestros sacaron al grupo de discípulos del cuadro de la matriz de transmisión.

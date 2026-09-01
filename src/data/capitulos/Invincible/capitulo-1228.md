@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1228: El Mayor Artefacto Divino: La Antigua Corte Celestial"
 numero: 1228
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La reacción inusual de la pequeña vaca le hizo evidente a Huang Xiaolong que definitivamente sabía qué era el Abismo del Diablo.

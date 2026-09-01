@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 793: Zhu Chu realmente perdió"
 numero: 793
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Zhu Chu estaba hirviendo de ira por dentro, deseando nada más que aplastar a Huang Xiaolong hasta la muerte con la palma de su mano, pero parecía que cuanto más se enojaba, más tranquila se volvía su mente.

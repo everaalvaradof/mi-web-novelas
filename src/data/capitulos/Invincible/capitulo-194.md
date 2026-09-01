@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 194: La técnica de división del cuerpo"
 numero: 194
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Parece que necesito usar la conexión de Duan Ren para ingresar a la división interna". Huang Xiaolong pensó para sí mismo.

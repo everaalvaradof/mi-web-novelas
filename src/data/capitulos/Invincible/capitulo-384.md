@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 384: Doce Formas del Dios Dragón"
 numero: 384
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aunque Huang Xiaolong carecía de la capacidad para oponerse al mamut llamado Deidades Templarias en términos de fuerza general, encontraría formas de frenar la expansión de sus fuerzas. Un brillo agudo parpadeó en sus ojos y convocó a Zhao Shu y Zhang Fu.

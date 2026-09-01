@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1358: ¿Cuál Es Su Intención?"
 numero: 1358
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿Cuál es su relación con Huang Xiaolong?

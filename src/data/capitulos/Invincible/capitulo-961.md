@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 961: Golpeando al Joven Señor de la Secta Refinación Fantasma"
 numero: 961
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Un segundo después, los Grandes Ancianos de la Secta Refinadora de Fantasmas también aparecieron consecutivamente, arrodillándose respetuosamente ante su Maestro de Secta mientras le daban la bienvenida a su regreso.

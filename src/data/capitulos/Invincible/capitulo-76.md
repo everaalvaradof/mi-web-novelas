@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 76: La Sede de la Puerta del Asura"
 numero: 76
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡¿Tú, eres Huang Xiaolong ?!" Sun Zhang y Xiong Chu miraron a Huang Xiaolong con los ojos exageradamente abiertos. ¡Solo habían pasado quince días dentro de la cámara de piedra, pero Huang Xiaolong en realidad creció una cabeza más alto! Su piel, su temperamento y su aura habían cambiado drásticamente.

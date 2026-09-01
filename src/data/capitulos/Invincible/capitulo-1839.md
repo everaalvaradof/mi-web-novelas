@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1839: Trae a tus hombres y sal de mi suspiro"
 numero: 1839
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La ciudad no tenía límites, y fue la primera ciudad construida en el Mundo del Diablo. Era la ciudad más grande y la única de su tipo. También fue el bastión final del Mundo del Diablo.

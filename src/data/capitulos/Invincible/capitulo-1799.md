@@ -1,7 +1,7 @@
 ---
 titulo: "Capitulo 1799: El poder desafiante del cielo de la deidad celestial de Dao"
 numero: 1799
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando las palabras salieron de los labios de Di Jing, una luz aterradora que poseía el poder de un millón de soles llenó la plaza y un poder devastador barrió el área.

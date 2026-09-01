@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1824: ¿Qué quieres decir?"
 numero: 1824
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Otros estaban observando atentamente el lado de Huang Xiaolong y Deng Kang. Esperaban que Deng Kand enviara a Huang Xiaolong volando. En cambio, escucharon a Deng Kang aullar de dolor mientras volaba como una cometa rota, estrellándose contra uno de los picos de la montaña en la distancia.

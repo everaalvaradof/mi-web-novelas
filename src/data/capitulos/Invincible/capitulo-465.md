@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 465: No mato a un rostro sin nombre"
 numero: 465
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La mirada oscurecida de Andrew cayó sobre el Patriarca de la Tribu Beamon, Clay, y el Patriarca de la Tribu Caballo Violento, Charles. Reprimiendo la creciente intención asesina en su corazón, la voz sombría de Andrew sonó en el cuadrado, "Soy muy consciente de que, de acuerdo con el gobierno de nuestras tribus de hombres bestia ortodoxos, solo el que posea el Cetro del Dios Bestia sería reconocido como el Dios Bestia, sin embargo , el Cetro del Dios Bestia ha estado desaparecido durante miles de años. ¡¿Deberíamos seguir disminuyendo debido a la discordia y el conflicto internos mientras esperamos sin esperanza a que aparezca el Cetro del Dios Bestia ?! "

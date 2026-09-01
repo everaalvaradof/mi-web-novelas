@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1602: Cerdo dorado que cae en el tesoro"
 numero: 1602
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 No fue nada extraño que el Rey de grandmist le hiciera esta pregunta a Huang Xiaolong. No importa cuán desafiante fuera el talento de uno, era imposible practicar y alcanzar la tercera etapa del Medio Parásito Grandmista en menos de trescientos años.

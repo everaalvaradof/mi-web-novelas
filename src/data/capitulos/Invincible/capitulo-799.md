@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 799: ¡El Ancestro Fantasma Malvado ha muerto!"
 numero: 799
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Justo cuando los dos hermanos Green Iceman se sintieron tentados por la sugerencia, la palma de Buda de tierra de Huang Xiaolong golpeó de lleno el pecho del Ancestro del Fantasma Maligno. La fuerza budista pura irrumpió en su Cuerpo de Fantasma Infernal, haciéndolo gemir de agonía.

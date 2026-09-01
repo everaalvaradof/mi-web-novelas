@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 356: Sometiendo a los escarabajos del cadáver venenoso"
 numero: 356
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver a los escarabajos del cadáver venenoso liberarse tan fácilmente de su encarcelamiento espacial, Huang Xiaolong se sorprendió genuinamente.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1448: Liu Qin, Fu Feiyu"
 numero: 1448
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al salir de su habitación, Huang Xiaolong reunió a todos en el pasillo y les pidió que lo esperaran dentro de Edge of the World Manor mientras participaba en la competencia de clasificación.

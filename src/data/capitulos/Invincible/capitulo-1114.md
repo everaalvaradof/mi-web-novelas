@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1114: Caparazón de metal Searhino"
 numero: 1114
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En segundos, las dos patas delanteras del gigante marino llegaron a diez metros de la cabeza de Huang Xiaolong. Los corazones de los discípulos de la Secta Dios Bárbaro perdieron un latido al ver esta peligrosa situación. Yao Chi ya estaba mortalmente pálido, llorando en voz alta, "¡Xiaolong!"

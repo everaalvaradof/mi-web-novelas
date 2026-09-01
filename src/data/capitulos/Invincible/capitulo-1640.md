@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1640: Matanza de toda la tribu del escorpión diabólico"
 numero: 1640
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "El discípulo de ese antepasado se llama Wei Hong". Asura King Jin Yuan respondió.

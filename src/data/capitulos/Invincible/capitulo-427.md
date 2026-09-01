@@ -1,7 +1,7 @@
 ---
 titulo: "Capitulo 427: Felicidades, Joven Señor"
 numero: 427
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La criada obedeció respetuosamente, volviéndose en busca de Steward Tan An. Peng Zhuang se sentó y esperó tranquilamente en el salón principal.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1083: Haciendo una montaña de un grano de arena"
 numero: 1083
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Entendiendo de un vistazo que Su Jinqiang estaba apuntando a Haung Xiaolong para desahogar su disgusto, los discípulos centrales cercanos se regodearon interiormente ante la inminente desgracia de 'Tang Hong' mientras miraban.

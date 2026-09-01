@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1635: Aceptando la Herencia"
 numero: 1635
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras esperaban afuera, pasaron otros cinco años.

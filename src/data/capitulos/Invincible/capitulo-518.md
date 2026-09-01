@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 518: Sala de la Espada del Demonio"
 numero: 518
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Por lo tanto, Huang Xiaolong y Xie Puti abandonaron la mansión Xie y caminaron en dirección al Instituto Duanren. Los dos no tardaron mucho en llegar al instituto.

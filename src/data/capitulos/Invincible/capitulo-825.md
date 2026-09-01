@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 825: El paradero del Fuego Divino del Tigre Blanco"
 numero: 825
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se levantó de un salto, sentándose con las piernas cruzadas sobre las piernas gigantes del Rey Bestia de los Cien Espíritus y circuló Asura Tactics mientras comenzaba a refinar la esencia de sangre de las piernas gigantes de abajo.

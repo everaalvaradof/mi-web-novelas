@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 49: ¡Debería ser decapitado!"
 numero: 49
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Usted!" Xing Meiqi estaba tan enojada que no supo cómo responder. De acuerdo con las regulaciones de la Academia, solo el subdirector y superior tenían derecho a revocar a los estudiantes de admisión especial como Huang Xiaolong.

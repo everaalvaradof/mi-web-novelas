@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 588: No se escapará"
 numero: 588
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se convirtió en un rayo de luz, volando hacia un pico más alejado. Diez minutos más tarde, sus pies tocaron el suelo a media montaña.

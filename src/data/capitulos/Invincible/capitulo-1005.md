@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1005: La Batalla de los Gigantes"
 numero: 1005
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El escenario de batalla Submerging Dragon Ranking estaba ubicado en la cima del Submerging Dragon Peak. Huang Xiaolong caminó a su propio ritmo, ni rápido ni lento, y tardó media hora en llegar a la cima. Cuando llegó a su destino, el pico ya estaba lleno de gente.

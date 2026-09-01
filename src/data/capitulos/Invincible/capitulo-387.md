@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 387: Carro de Guerra del Río Sangriento"
 numero: 387
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Ataque!" El anciano de Distinct Void Door gritó y fue el primero en actuar. Su figura parpadeó, se formó un puño mientras apuntaba un puñetazo a Zhao Shu, mientras que otro hombre de mediana edad de la Casa Blanca del Fénix atacaba a Zhang Fu.

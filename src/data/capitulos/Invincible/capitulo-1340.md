@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1340: Diablo del Reino Rey Dios"
 numero: 1340
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dos días después...

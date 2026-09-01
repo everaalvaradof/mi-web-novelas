@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1124: ¿Conoces a Li Lu?"
 numero: 1124
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando se abrió el tesoro de la Tribu Alma, brotaron ráfagas de energía espiritual, inundando a Huang Xiaolong.

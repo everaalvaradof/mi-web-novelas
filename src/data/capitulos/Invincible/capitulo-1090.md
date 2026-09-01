@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1090: ¿Cuándo vamos a hacer nuestro movimiento?"
 numero: 1090
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pensando en sus años de arduo esfuerzo para recolectar más de mil doscientas hierbas solo para que alguien apareciera y tomara su Loto Espiritual Lightning de Nueve Pétalos en la etapa final, la ira y la furia de Liu Zhuo se arremolinaron como un huracán catastrófico.

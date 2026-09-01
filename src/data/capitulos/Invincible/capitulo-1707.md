@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1707: ¡Mi Tao'er!"
 numero: 1707
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Song Litao miró hacia el Salón Celestial. Sus pupilas se dilataron al ver el pilar dorado de runas hexagonales sobre sus cabezas y sintió la abrumadora inundación de poder destructivo.

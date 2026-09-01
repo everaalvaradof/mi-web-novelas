@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 589: Abriendo el Tesoro de Piedra de Granizo"
 numero: 589
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando las cinco personas escucharon a Lu Cong decir que Huang Xiaolong no podría irse a menos que supiera el método secreto para abrir la restricción, su tensión disminuyó ligeramente.

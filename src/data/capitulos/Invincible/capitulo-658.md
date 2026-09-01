@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 658: El Viejo de la Luna Ascendente se va"
 numero: 658
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 No mucho después de que Huang Xiaolong y Xie Puti abandonaran el restaurante, unos pasos atronaron en la premisa, haciendo que el edificio temblara bajo la fuerza. Los discípulos y expertos que patrullaban el Instituto Guerrero Negro pertenecientes a la Familia Li finalmente llegaron al lugar.

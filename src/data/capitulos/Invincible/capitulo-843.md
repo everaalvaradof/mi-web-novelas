@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 843: Aquí hay 500 mil millones"
 numero: 843
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El empleado tenía una expresión en blanco en su rostro mientras miraba a Huang Xiaolong sin moverse, pensando en secreto: '¿Esta persona vino aquí para divertirse? Un discípulo que vino aquí para registrarse para el torneo quiere comprar una residencia en el centro de nuestra Ciudad Aeon, y además, ¡¿la mejor ?! '

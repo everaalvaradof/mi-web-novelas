@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 975: Reinando sobre el Camino del Infierno"
 numero: 975
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Maestra de Secta!"

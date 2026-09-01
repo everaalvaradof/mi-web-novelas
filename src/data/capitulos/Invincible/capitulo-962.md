@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 962: Limpiando el Tesoro de la Secta Refinación Fantasma"
 numero: 962
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong regresó encubiertamente al patio del Ancestro de las Puertas del Demonio Espiritual, y se reunió con el Anciano de la Luna Ascendente y Fan Yuxiao.

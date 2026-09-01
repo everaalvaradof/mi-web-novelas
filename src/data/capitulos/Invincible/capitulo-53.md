@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 53: Apuesta"
 numero: 53
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las cejas de Huang Xiaolong se fruncieron. No obstante, todavía se puso de pie. Li Lu a su lado estaba lleno de preocupación.

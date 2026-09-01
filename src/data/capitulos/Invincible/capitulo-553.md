@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 553: Entrando en el infierno"
 numero: 553
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En ese momento, Huang Xiaolong inmediatamente ejecutó Asura Tactics, intentando convocar las Puertas del Infierno de acuerdo con el método secreto establecido dentro de Asura Tactics.

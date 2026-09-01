@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1382: La risa sonora de la familia Guo"
 numero: 1382
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Hermano Guo Jin, desde que Huang Xiaolong mató a nuestro joven señor Guo Jun, ¡no debemos dejar que muera cómodamente!" Dijo uno de los Grandes Ancianos de la Familia Guo, ya que estaba muy enojado incluso al pensar en Huang Xiaolong.

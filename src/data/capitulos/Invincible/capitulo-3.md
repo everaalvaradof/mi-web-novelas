@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 03: ¿Sólo Xiaolong no consiguió ninguno?"
 numero: 3
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Si otros descubrieran que Huang Xiaolong no solo logró convertir el qi de batalla, sino que también se abrió paso para convertirse en un Guerrero de la Primera Orden en solo unas pocas horas, probablemente los asustaría hasta la muerte.

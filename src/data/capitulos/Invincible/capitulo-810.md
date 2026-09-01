@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 810: Esto es para ti"
 numero: 810
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 White Tiger City era un lugar construido y gobernado por el White Tiger Institute, y también el lugar donde se llevaría a cabo la gran subasta.

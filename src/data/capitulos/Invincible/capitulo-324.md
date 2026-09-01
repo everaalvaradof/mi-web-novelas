@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 324: El tercer piso"
 numero: 324
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dentro del Templo Xumi, el fantasma gigante Feng Yang miró atónito a la Formación de los Diez Budas en el centro, burbujeando con una vigorosa energía budista, incapaz de salir de su desconcierto durante mucho tiempo.

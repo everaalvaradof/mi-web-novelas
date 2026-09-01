@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1212: Es sólo Huang Xiaolong"
 numero: 1212
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La última vez que estuvo en la Isla de la Tribu del Diablo Nefasto, su cultivo era solo un Reino de Dios Celestial de Quinta Orden, ni siquiera a mediados del Reino de Dios Celestial de Quinta Orden. En ese momento, tuvo el doble de cuidado al enfrentarse a estos espesos qi de la muerte, el infame qi y la energía yin de las llanuras de Yama.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 567: Volviendo al Mundo del Espíritu Marcial"
 numero: 567
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Zhao Chen y Xie Hui no deseaban nada más que destrozar a Huang Xiaolong incluso en sus sueños, darse un festín con su carne y beber su sangre, pero ninguno de ellos perdió la razón al notar el emblema de la tortuga negra en el pecho de la túnica de Huang Xiaolong. Ambos quedaron aturdidos por un momento, la creciente intención asesina emitida por sus cuerpos se redujo inmediatamente a la mitad.

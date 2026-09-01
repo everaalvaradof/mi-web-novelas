@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 681: '¡Maestro!'"
 numero: 681
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Temiendo que el grupo de Huang Xiaolong no entendiera la gravedad de la situación, Jia Liang enfatizó la fuerza de la Asociación de Grandes Maestros Alquimistas en Jefe, instando con ansiedad: “En el pasado, hubo un Gran Anciano de una superfamilia que causó algunos problemas en nuestra sede. ¡Simplemente hirió a un Alquimista común, pero nuestro Jefe y varios Ancianos lo ejecutaron en el acto! "

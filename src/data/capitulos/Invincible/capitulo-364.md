@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 364: Arrebatamiento de todos los lados"
 numero: 364
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver al grupo de Li Molin, los nervios de Huang Xiaolong se tensaron, rápidamente convergiendo toda la energía del budismo que fluía desde el piadoso monte Xumi, reduciéndose una vez más a partículas de polvo y cayendo naturalmente al suelo.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1069: Sacudiendo la Isla de la Nube Verde"
 numero: 1069
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuanto más tiempo permaneciera en el cuerpo la maldición de sangre del diablo del corazón, más poderosa se volvería la reacción. A medida que su condición se prolongaba, en menos de una década, la Santa Madre Yao Chi se encaminaba hacia una muerte segura. En ese momento, incluso el antídoto no tendría ningún efecto.

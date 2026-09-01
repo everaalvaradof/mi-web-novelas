@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 145: Noticias de Yu Ming"
 numero: 145
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que se subastó la técnica de cultivo de rango de la Tierra de alto grado, el subastador puso una habilidad de batalla de rango de la Tierra de alto grado.

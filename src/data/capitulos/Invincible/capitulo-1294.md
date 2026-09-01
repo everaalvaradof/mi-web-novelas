@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1294: Fruta del Espíritu del Caos Yin"
 numero: 1294
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los ojos de Huang Xiaolong se iluminaron mientras miraba el hacha negra y le preguntó a Xu Baisheng: "¿Esta es la clave para el tesoro del Archidevil de Yellow Springs?"

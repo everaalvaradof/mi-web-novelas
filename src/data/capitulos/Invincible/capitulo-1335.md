@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1335: Si no saben lo que es bueno para ellos..."
 numero: 1335
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong no consideró necesario asociarse con el grupo de la Puerta del Espíritu Azul, ya que la bestia diablo del vacío Xu Baisheng era un maestro del Reino Rey Dios de Segunda Orden.

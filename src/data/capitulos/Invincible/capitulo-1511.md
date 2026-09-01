@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1511: No serás capaz de pasar el concurso de selección"
 numero: 1511
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sin embargo, antes de partir a la Tierra del Crepúsculo Flotante, Huang Xiaolong todavía quería dar un pequeño 'paseo' por el Campo de Batalla del Diablo Extraterritorial para ver si podía 'toparse' con el aura de la abuela.

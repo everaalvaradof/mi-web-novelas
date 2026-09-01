@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 305: ¿Por qué debería correr?"
 numero: 305
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Originalmente, Zhao Chen había decidido capturar a Huang Xiaolong en el patio de su residencia, pero ahora que Huang Xiaolong había regresado, ¡ muy bien!

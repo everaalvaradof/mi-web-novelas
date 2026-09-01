@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1330: Reino Rey Dios"
 numero: 1330
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Aunque el alma de Li Lu es inestable debido al espíritu maligno en su cuerpo, su cultivo también ha aumentado significativamente debido a ello. Esto puede considerarse como una bendición disfrazada". Blood Knife Ancestor suspiró.

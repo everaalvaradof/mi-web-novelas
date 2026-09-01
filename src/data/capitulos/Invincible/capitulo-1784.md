@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1784: Luchando contra el discípulo del Emperador de la Luminosidad Lan Tailong"
 numero: 1784
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Si la persona que sube al escenario fueras tú, también te habría dejado usar la armadura". Huang Xiaolong le dijo firmemente a Fang Xuanxuan.

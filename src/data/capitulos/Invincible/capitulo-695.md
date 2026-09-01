@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 695: Preocupado por un asunto trivial"
 numero: 695
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras el grupo de Huang Xiaolong se apresuraba, la Ciudad Imperial era un hervidero de actividad. ¡Dentro de las murallas de la Ciudad Imperial de Duanren, había más de mil hornos gigantes ardiendo con un calor intenso!

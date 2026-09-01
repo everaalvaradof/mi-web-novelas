@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 777: Lu Cong"
 numero: 777
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En verdad, Huang Xiaolong tuvo un sentimiento peculiar cuando escuchó que el Ancestro de la Familia Qi quería que Liu Yun le diera una ficha de novia de veinte mil piedras espirituales de alto grado divino antes de que estuviera dispuesto a rescindir el acuerdo matrimonial con la Familia Zhu.

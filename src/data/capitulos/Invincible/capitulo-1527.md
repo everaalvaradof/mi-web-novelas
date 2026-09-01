@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1527: ¿Qué diablos está pasando?"
 numero: 1527
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 “Hace un tiempo comencé a practicar un nuevo arte divino de grado caos, y hoy es una gran oportunidad para probarlo”. El impulso de Nie Bin se disparó cuando dijo eso. Las nubes se movieron y los fuertes vientos aullaron cuando su entorno se convirtió en un mundo de hielo eterno.

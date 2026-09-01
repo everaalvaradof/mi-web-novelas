@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1374: El Gran Mar Sin Límites"
 numero: 1374
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Nadie puede salvarme?" Guo Shi se rió de Huang Xiaolong, lleno de burlas. Se rió con tanta fuerza que le dolía el estómago y tenía lágrimas en las comisuras de los ojos.

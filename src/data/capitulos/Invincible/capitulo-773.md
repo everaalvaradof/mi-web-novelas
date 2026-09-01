@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 773: Banquete de cumpleaños de la Santa Madre Yao Chi"
 numero: 773
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong ya esperaba esta reacción de los tres, pero todavía estaba avergonzado de que lo miraran con miradas tan intensas. Él asintió con la cabeza a Feng Yang, diciendo: "Este discípulo ha sido muy afortunado, se ha encontrado con algunos encuentros fortuitos estos años, y accidentalmente se abrió paso al Reino de Dios de finales del Décimo Orden".

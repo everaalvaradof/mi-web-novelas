@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 926: El shock de Sun Yi"
 numero: 926
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Qué haremos ahora?" Sun Yi emitió una risa siniestra, “El campeón del Torneo de Avance de Highgod no pasó la evaluación de Alquimista elemental de la Unión. Este tipo de buenas noticias, seguramente debemos asegurarnos de que se difundan a lo largo y ancho a la velocidad más rápida, compartir es cuidar después de todo ".

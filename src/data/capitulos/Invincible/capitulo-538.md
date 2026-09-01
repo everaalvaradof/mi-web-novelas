@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 538: Tercer día de evaluación"
 numero: 538
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El tercer día de evaluación.

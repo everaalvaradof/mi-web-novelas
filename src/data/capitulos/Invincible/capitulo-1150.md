@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1150: El Reino de los Dioses Celestiales de la Décima Orden"
 numero: 1150
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Ese dragón de aura de abuela púrpura llegó frente a Huang Xiaolong y la pequeña vaca antes de que cualquiera de ellos pudiera reaccionar. Huang Xiaolong entró en pánico y envió un golpe con la palma por reflejo.

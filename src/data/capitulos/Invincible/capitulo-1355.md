@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1355: ¡Guo Jun está muerto!"
 numero: 1355
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Xiang Li y los otros discípulos del Clan de los Diez Mil Elefantes estaban extremadamente conmocionados.

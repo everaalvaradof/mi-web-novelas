@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 34: Enmarcado"
 numero: 34
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Chen Feng y algunos de los discípulos de la Secta de la Espada de Túnica Púrpura se movieron rápidamente hacia la escena de la pelea; había huellas desordenadas estampadas en el suelo y marcas de espadas en los árboles circundantes.

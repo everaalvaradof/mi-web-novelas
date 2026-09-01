@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1900: Aparece Tan Zhihui"
 numero: 1900
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Lu Xiaoqing estaba estupefacto, mirando la interminable corriente de caos que salía de las cejas de Huang Xiaolong. ¿Funciona esto?

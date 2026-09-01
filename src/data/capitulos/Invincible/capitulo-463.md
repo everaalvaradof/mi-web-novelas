@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 463: ¡Lárgate por mí ahora!"
 numero: 463
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 De vuelta en la Mansión Castellan de la Ciudad Sagrada del Tigre, el Patriarca Chuck de la Tribu Tigre y los Ancianos ya estaban esperando a Huang Xiaolong.

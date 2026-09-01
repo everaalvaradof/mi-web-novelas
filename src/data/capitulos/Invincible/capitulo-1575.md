@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1575: El poder de la línea de sangre del archidiablo"
 numero: 1575
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong vio el número en la mano de Sun Shihai, la mirada de Sun Shihai también cayó sobre el número de lote en la mano de Huang Xiaolong. Cuando se dio cuenta de que tenían el mismo número, una mirada de éxtasis apareció instantáneamente en el rostro de Sun Shihai.

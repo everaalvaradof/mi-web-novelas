@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 819: El Diablo Encarnado"
 numero: 819
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al norte de Crimson Devil City se encontraba una enorme fortaleza oscura.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 748: '¿Podría haberle pasado algo al Maestro?'"
 numero: 748
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Habiendo arrebatado los núcleos de las Bestias Escamas de Fuego, con el espacio circundante bloqueado por el antiguo artefacto divino Dios Restringiendo la Cuerda de Hilo de Seda Dorada que cortaba la caverna subterránea del mundo exterior, a Huang Xiaolong no le preocupaba que la fuerte conmoción alertara a otros. bestias demoníacas. Por lo tanto, comenzó a 'jugar' con las dos Bestias de Escamas de Fuego.

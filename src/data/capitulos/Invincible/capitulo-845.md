@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 845: El Torneo Comienza"
 numero: 845
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Xiang Mingzhi se acercó intencionalmente a Huang Xiaolong, examinándolo de la cabeza a los pies, sacudiendo la cabeza con decepción, “¿Etapa de perfección del Reino de Dios de la Décima Orden de finales de la Décima Orden? Huang Xiaolong, realmente me decepcionas. Después de cultivar durante tantos años, ¿todavía no has llegado al Reino Highgod? Originalmente, pensé que podrías ser una pequeña amenaza para mí en este torneo, pero ahora... "

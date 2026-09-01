@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1472: El Palacio del Tesoro de la Miríada"
 numero: 1472
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los pensamientos de Huang Xiaolong se agitaron al escuchar las conversaciones de estos discípulos. ¿La segunda señorita de Silver Fox Commerce? ¿No significa eso que Bei Xiaomei asistirá a la ceremonia de aprendizaje en un mes?

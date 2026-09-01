@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 580: Granizo continental"
 numero: 580
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aunque fue aclamado como una de las tierras peligrosas de la Galaxia de la Tortuga Negra, el continente de Hailstone era accesible a través de matrices de transmisión. Aún así, uno no pudo llegar al continente de Hailstone desde el continente de Cloudsea con una transferencia directa única. Huang Xiaolong tuvo que pasar por seis matrices de transmisión antes de llegar al continente de Hailstone.

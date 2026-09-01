@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 69: No necesariamente"
 numero: 69
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Ahora, los ganadores de la competencia de clases, por favor den un paso adelante y saquen un palo!" El subdirector Xiong Chu anunció en el escenario.

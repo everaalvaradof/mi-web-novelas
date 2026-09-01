@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1643: Soy el nuevo señor del infierno"
 numero: 1643
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Contrariamente a la norma, el ancestro gao Yu de la Puerta de los Dioses Masacradores miró las grandes matrices de formación defensiva cerradas, y se rió entre dientes de Huang Xiaolong en su lugar. ¿Un mísero noble Asura del Reino Monarca Celestial en realidad tiene la capacidad de hacer que el Ancestro de la Tribu Escorpión Diablo lo reconozca como Maestro? "Tengo mucha curiosidad por saber cómo un mero Reino Monarca Celestial como tú convenció a Shi Yihai?"

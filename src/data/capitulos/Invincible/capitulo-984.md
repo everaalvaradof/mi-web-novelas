@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 984: Dejando el Fuerte de la Familia Tie"
 numero: 984
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Una cosa que asombró a Huang Xiaolong de los libros que leyó fue el hecho de que la vida útil de un Dios celestial era generalmente de alrededor de diez mil años en el Mundo Divino!

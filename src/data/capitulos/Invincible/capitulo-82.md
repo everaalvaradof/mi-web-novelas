@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 82: ¡Rodando aquí!"
 numero: 82
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Peng escuchó las palabras de Huang Xiaolong, sonrió débilmente y realizó un gran esfuerzo para hablar y aún así su voz sonaba pequeña y débil, "Xiaolong, papá está bien, ¡de verdad!"

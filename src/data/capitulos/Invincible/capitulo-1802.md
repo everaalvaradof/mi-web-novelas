@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1802: ¿Por qué no puedo abrirme paso?"
 numero: 1802
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Todos vieron a Huang Xiaolong bloquear la Rueda Yin Yang del Sol y la Luna.

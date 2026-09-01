@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 571: ¿Hablamos durante toda una noche?"
 numero: 571
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Acompañando los chillidos agudos de dos personas había sonidos crepitantes similares a cáscaras de huevo rotas. El anciano gordo y el joven delgado se agarraron la ingle herida y, después de la primera nota, el dolor les robó la voz.

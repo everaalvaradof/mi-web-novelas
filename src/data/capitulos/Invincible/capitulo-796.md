@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 796: Asombrando a innumerables Maestros del Reino de los Dioses Altos"
 numero: 796
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Qué dijiste? ¡¿Huang Xiaolong está reclutando maestros del Reino Highgod ?! "

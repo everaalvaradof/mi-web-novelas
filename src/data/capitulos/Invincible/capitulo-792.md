@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 792: Meramente Calificado Para Llevar Sus Zapatos"
 numero: 792
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Justo cuando los Grandes Ancianos de la Familia Zhu estaban expresando su enojo, el Patriarca de la Familia Zhu que aún no había expresado una palabra de repente habló en un tono pesado, "Seguramente, no vamos a dejar que este asunto termine así, nuestra Familia Zhu no es suave caquis como la familia Jiang o la familia Gudu! Pero, el Huang Xiaolong de hoy ya se ha elevado a un lugar alto. Incluso si ignoramos a su Maestro Feng Yang, todavía está el Anciano de la Luna Ascendente detrás de él, matar a Huang Xiaolong no será una tarea fácil ".

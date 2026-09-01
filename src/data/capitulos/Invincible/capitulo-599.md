@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 599: El reino de los dioses de cuarto orden"
 numero: 599
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Sí." Shi Xiaofei asintió con la cabeza. Al poder adorar a un Reino Highgod como Maestro, ¿cuántas personas soñaron con este tipo de oportunidad? Este tipo de pastel cayendo del cielo, por supuesto que ella no era de las que se negaban.

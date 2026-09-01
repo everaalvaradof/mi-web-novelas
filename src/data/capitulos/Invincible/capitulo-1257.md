@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1257: La Gran Ceremonia del Dios del Mar"
 numero: 1257
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Su fuerza ha mejorado significativamente?" Huang Xiaolong le preguntó a Luo Yunjie.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1298: La Secta Imperial de la Sangre"
 numero: 1298
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong asintió con la cabeza con satisfacción después de probar el poder de Yellow Springs Magic Robe.

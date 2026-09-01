@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 979: Fuerza Suprimida"
 numero: 979
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras Huang Xiaolong inspeccionaba su entorno, se quedó aturdido, sintiéndose deprimido por un momento.

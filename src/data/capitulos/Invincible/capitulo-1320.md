@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1320: ¿Cuál es la última ubicación conocida de Li Lu?"
 numero: 1320
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Golden Brow Ancestor y Blood Knife Ancestor se sorprendieron al ver la determinación inquebrantable en el rostro de Huang Xiaolong.

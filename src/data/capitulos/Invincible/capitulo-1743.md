@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1743: King of Darkness"
 numero: 1743
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Incluso después de diez días y noches, Huang Xiaolong aún no había sometido a la primera bestia!

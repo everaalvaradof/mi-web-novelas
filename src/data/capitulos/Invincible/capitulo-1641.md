@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1641: Parece que todavía tienen algo de inteligencia"
 numero: 1641
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Matar a toda la Tribu del Escorpión diablo?" Al escuchar eso, el Rey Demonio Fan Hui se rió fríamente. "¡Tiene algunas agallas para decir eso!"

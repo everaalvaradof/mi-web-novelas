@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1309: La disposición de los asientos"
 numero: 1309
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿Qué crimen ha cometido Huang Xiaolong?

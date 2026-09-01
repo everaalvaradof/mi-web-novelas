@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1056: Comprensión de las tablas de herencia"
 numero: 1056
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En general, según la velocidad del grupo, Lu Zhuo, Huang Xiaolong y el otro discípulo de la Secta Dios Bárbara tardarían aproximadamente diez días en llegar a las Llanuras Primordiales, pero debido al entusiasmo del Ancestro Lu Zhuo por guiar el cultivo de Huang Xiaolong, su viaje fue un poco más lento, llegando así dos días más tarde de lo estimado.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 780: La Batalla en el Escenario"
 numero: 780
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar el anuncio, todos no pudieron evitar volverse hacia la dirección de la voz.

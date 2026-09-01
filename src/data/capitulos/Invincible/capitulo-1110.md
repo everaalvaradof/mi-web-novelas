@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1110: Matar a través de la marea de bestias marinas"
 numero: 1110
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Dónde está?" Esta pregunta abandonó espontáneamente la boca de Huang Xiaolong. "El campo de batalla extraterritorial del diablo". Xiaoniū respondió.

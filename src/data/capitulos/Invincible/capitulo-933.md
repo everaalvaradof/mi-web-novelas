@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 933: Huang Xiaolong Herido"
 numero: 933
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al salir de la Residencia del Sol y la Luna, Huang Xiaolong se paseó sin hacer nada, pero la sensación de inquietud en su corazón se hizo más fuerte. Por fin, sus pies lo llevaron al mismo restaurante en el que compró el Celestial Blossom Wine.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1661: ¡¿No están huyendo?!"
 numero: 1661
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al igual que lo que uno de los antepasados había mencionado anteriormente, a pesar de que incurrirían en enormes pérdidas al despertar el espíritu del árbol del Árbol Divino de la Oscuridad, Huang Xiaolong y los cuatro emperadores de la Décima Orden definitivamente estarían en posesión de una gran cantidad de tesoros. Podrían compensar sus pérdidas fácilmente.

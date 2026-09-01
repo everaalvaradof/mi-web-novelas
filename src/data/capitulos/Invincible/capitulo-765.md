@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 765: ¡Viejo de la Luna Ascendente aturdido!"
 numero: 765
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Increíble, tan rica energía espiritual ~~~!" El Patriarca del Clan Fénix, Huang Hongtian, exclamó asombrado.

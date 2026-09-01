@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 26: ¿Miedo?"
 numero: 26
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En este momento, Huang Wei miró y su mirada se encontró con la de Huang Xiaolong. La esquina de la boca de Huang Wei se estiró en una mueca desdeñosa, y sus ojos estaban llenos de odio.

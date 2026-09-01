@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 173: Batalla en la Ciudad Imperial (5)"
 numero: 173
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cui Li llegó con un traje elaborado y formal. Tenía un cuello muy ancho y abierto, lo que hacía difícil pasar por alto su profundo desfiladero. Su pequeño y delicado rostro era puro, pero tenía un encanto inexplicable.

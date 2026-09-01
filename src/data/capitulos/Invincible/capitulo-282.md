@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 282: Montaña de los Cuatro Mares"
 numero: 282
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las cuatro direcciones cayeron en un abrupto silencio.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 345: El bosque de origen"
 numero: 345
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Secta legendaria de la Cimitarra?" Huang Xiaolong se sorprendió, había escuchado el nombre antes.

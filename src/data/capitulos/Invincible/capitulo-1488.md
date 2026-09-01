@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1488: ¿Podría ser, Rey de la Divinidad Suprema?"
 numero: 1488
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Fuerza divina suprema!

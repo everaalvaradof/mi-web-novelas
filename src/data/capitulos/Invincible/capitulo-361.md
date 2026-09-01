@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 361: Tumba del Dragón"
 numero: 361
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Jaja, parece que nuestra suerte es bastante buena, encontrando una gran espada del tesoro del Clan Dragón justo cuando entramos en la Ciudad Dragón, el Gran Sable Dragón!" El primer experto en Hombres Bestia se rió de buena gana. De la forma en que lo veía, este Gran Sable Dragón les pertenecía sin lugar a dudas.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1152: Ouyang Yunfei"
 numero: 1152
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dentro de la Mansión Inmortal Celestial en la Ciudad del Dios Bárbaro, Yao Chi se estaba cultivando, absorbiendo la vena espiritual de quinto grado que Huang Xiaolong le había dado cuando, de repente, cinco presencias aterradoras aparecieron sobre la mansión.

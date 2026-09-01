@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 477: Herencia del Dios Bestia"
 numero: 477
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong estaba genuinamente alarmado. ¡La energía que brotaba de debajo de la formación de la matriz era mucho más poderosa y turbulenta que la energía que recorría su cuerpo al refinar los dragones divinos primordiales!

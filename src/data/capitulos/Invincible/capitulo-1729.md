@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1729: Shi Yinyu Recuperado"
 numero: 1729
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "No me gusta repetir mis palabras dos veces". Huang Xiaolong declaró con calma, pero había un destello de intención asesina en sus ojos.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 62: Palma de Sangre Venenosa"
 numero: 62
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong y su grupo no tardaron mucho en llegar a la sede de Green Hawk Gang.

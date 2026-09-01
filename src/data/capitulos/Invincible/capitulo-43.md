@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 43: El Imperio Duanren"
 numero: 43
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Pero irrumpir en el reino de Xiantian es demasiado difícil, demasiado difícil!" Mientras Huang Xiaolong soñaba despierto con sus espíritus marciales avanzando hacia el reino de Xiantian y cuán fuerte sería, Fei Hou sacudía la cabeza, suspirando mientras decía: "Para avanzar al reino de Xiantian, se necesita al menos un espíritu marcial de grado diez". y más para tener alguna oportunidad! "

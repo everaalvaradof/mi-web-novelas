@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 401: ¡Señor Luo Yun!"
 numero: 401
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando esas palabras tamborilearon en los oídos de Gu Feng, sus piernas se ablandaron y se doblaron.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 123: Tesoro celestial: Anillo de unión de Dios"
 numero: 123
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong ya detectó la inminente llegada de Duan Wuhen a través de la presión cada vez más aterradora que emitía y su aura y sus nervios se tensaron. Si Duan Wuhen llegara primero, ¡Huang Xiaolong seguramente moriría!

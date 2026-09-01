@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 260: Cadena del Dios de la Muerte"
 numero: 260
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Vas al Dominio de la Muerte en busca del Bedeviled Spirit Bead?" Huang Xiaolong repitió sorprendido.

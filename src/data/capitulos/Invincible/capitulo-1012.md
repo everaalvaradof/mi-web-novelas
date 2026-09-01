@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1012: Chen Hao"
 numero: 1012
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que Chen Xiong terminó de decir lo que quería, se dio la vuelta y se dirigió a la salida. En su opinión, dado que el punk ya sabía quién era, definitivamente no tendría las agallas para desafiarlo.

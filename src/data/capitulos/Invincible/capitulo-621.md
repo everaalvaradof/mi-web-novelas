@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 621: Deberías Darnos Alguna Compensación"
 numero: 621
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Observando desde un lado, Yang Feiyue temblaba de asombro cuando vio que las llamas de Huang Xiaolong en realidad podían derretir hierro y minerales del Mundo Divino.

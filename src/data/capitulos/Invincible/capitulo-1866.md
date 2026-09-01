@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1866: '¡Tú eres el verdadero traidor del Mundo del Diablo!'"
 numero: 1866
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Justo cuando Huang Xiaolong se alejó a toda velocidad en la Nave Voladora Netherking, la enorme palma de la mano de Shi Ming se volteó con un giro de muñeca, golpeando la Nave Voladora Netherking por tercera vez. Esta vez, el denso qi de la muerte se agitaba frenéticamente, cubriendo más de cien millones de li de radio.

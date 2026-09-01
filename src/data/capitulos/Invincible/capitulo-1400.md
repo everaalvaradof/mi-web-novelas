@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1400: ¡No es lo suficientemente dominante!"
 numero: 1400
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Song Rui se burló, “¡Eso es! Es un idiota por pagar tres millones de piedras espirituales de alto grado siete por varios cientos de piezas de piedras de velocidad espacial. Todo el mundo pensaría que el punk es un gran idiota cuando se corre la voz afuera. Realmente no sé cuál es el joven maestro de la familia que es ese punk, ¡pero sus mayores en su casa morirían de ira cuando se enteren de esto! "

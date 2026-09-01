@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1834: ¡¿Disculparse en público?!"
 numero: 1834
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong y Gao Changran abandonaron la sede de la Puerta de los Seis Inferiores, ninguno de los grandes ancianos o ancianos sabía de su partida.

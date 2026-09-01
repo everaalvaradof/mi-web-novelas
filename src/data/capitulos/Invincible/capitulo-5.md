@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 05: ¿Quieres lisiar mis dos brazos?"
 numero: 5
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Guerrero de la Segunda Orden!

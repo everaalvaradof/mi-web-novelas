@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 996: El arreglo de la habitación"
 numero: 996
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Así es, debe haber manipulado el talismán de jade!"

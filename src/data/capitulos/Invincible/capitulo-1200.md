@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1200: Relámpago de la Tribulación Aterradora"
 numero: 1200
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Myriad Flames Ancestor, Black Ice Ancestor y los demás escucharon que los grandes movimientos se debieron a que Huang Xiaolong se abrió paso hacia el Reino del Dios Antiguo, todos se sorprendieron.

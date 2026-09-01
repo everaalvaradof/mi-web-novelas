@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1825: Llevándose el Tesoro del Palacio del Dios Demonio Emperador"
 numero: 1825
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong ignoró las expresiones de sorpresa en los rostros de los Antepasados a su alrededor. Continuó guiando a todos volando hacia afuera.

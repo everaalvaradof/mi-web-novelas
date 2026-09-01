@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1278: La Mansión Fantasma"
 numero: 1278
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aunque era mediodía con un sol brillante en el cielo, Huang Xiaolong, la vaca pequeña y la bestia diablo del vacío Xu Baisheng sintieron el frío yin qi rozando sus pieles, mientras estaban de pie frente al Bosque de los Fantasmas Odiosos.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 20: La Celebración de Li Mu"
 numero: 20
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Siempre y cuando llegue a la Tercera Orden antes de fin de año?" Una expresión extraña apareció en el rostro de Huang Xiaolong mientras escuchaba a su padre.

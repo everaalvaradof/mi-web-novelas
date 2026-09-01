@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1823: Devolver la Amabilidad con Enemistad"
 numero: 1823
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong miró con indiferencia la sonrisa brillante y encantadora en el rostro de Deng Kang y respondió: "Perdóname, no tengo intención de venderlo. Además, incluso si estoy dispuesto a venderlo, no puedes pagarlo".

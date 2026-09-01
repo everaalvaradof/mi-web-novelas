@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1596: El Clan del Dragón Negro de la Era Desolada El Clan del Dragón Negro de la Era Desolada"
 numero: 1596
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Esta es la superficie desolada del mundo". Dijo Jiang Hong mientras miraba la enorme superficie del mundo. Presentó a Huang Xiaolong en un tono significativo: "¡Esta superficie mundial fue famosa durante la era desolada porque esta superficie mundial era donde vivía uno de los clanes más poderosos, el Clan del Dragón Negro!"

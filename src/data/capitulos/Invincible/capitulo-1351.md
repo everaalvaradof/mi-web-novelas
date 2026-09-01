@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1351: Reino de los Dioses Ancestrales de la Primera Orden"
 numero: 1351
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Reino de Dios Ancestro de Primer Orden Tardío!" La bestia diablo del vacío Xu Baisheng exclamó mientras miraba estúpidamente a Huang Xiaolong.

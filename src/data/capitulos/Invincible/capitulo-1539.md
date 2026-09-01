@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1539: Super Guardaespaldas"
 numero: 1539
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras todos charlaban y reían, Huang Xiaolong echó un vistazo a la bestia demoníaca del caos que actualmente estaba siendo retenida por Jiang Hong.

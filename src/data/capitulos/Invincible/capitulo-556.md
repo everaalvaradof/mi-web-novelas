@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 556: Desafiando a Huang Xiaolong"
 numero: 556
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Un minúsculo ceño frunció las cejas de Huang Xiaolong cuando estas palabras se volvieron crudas y descaradas, pero rápidamente se suavizaron mientras se calmaba.

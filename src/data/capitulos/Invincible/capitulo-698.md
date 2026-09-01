@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 698: Senior, ¿conoces a la familia Li?"
 numero: 698
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿Puertas del sur de la ciudad?

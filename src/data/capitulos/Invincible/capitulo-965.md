@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 965: Huang Xiaolong sufriendo graves heridas"
 numero: 965
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Correcto, soy yo". Al ver que Huang Xiaolong lo reconoció, el Maestro de Secta de Refinación de Fantasmas no se sorprendió.

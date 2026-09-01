@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1738: Alertando a la Tribu del Cadáver Gigante de los Nueve Yin"
 numero: 1738
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de controlar a Shi Yinyu con el gusano abuelo, Huang Xiaolong comenzó a leer los recuerdos de Shi Yinyu.

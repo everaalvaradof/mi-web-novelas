@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 939: Esa persona soy yo"
 numero: 939
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La fría mirada de Huang Xiaolong se volvió aguda por un segundo.

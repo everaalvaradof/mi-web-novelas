@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1678: Plo de Shi Yinyu"
 numero: 1678
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mirando al Qilin Oscuro de la Llama Escarlata en la enorme jaula rodeada de restricciones, asura King Jin Yuan dijo con voz fría: "La familia Dark Roc seguro que es siniestra... No se molestaron en explicar los usos de las restricciones y la forma de abrir la jaula".

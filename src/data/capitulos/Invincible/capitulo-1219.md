@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1219: No hay que temer a Huang Xiaolong"
 numero: 1219
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Ouyang Xuguang estaba alto en el aire mirando la Cordillera del Dragón Dorado a continuación. "¡Ve, haz que el Ancestro de la Puerta del Dragón Dorado y el Jefe de la Puerta vengan a verme!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 90: La Ira del Rey de los Infiernos"
 numero: 90
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Llegó la noche.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1871: La Capital del Imperio de la Pitón Violeta del Rayo de Fuego"
 numero: 1871
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Si Huang Xiaolong hubiera sabido antes que había algo así como la Maldición del Alma Azul en el cuerpo de Lan Bowei, habría restringido a Lan Bowei en lugar de matarlo.

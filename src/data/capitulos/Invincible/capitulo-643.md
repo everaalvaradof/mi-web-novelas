@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 643: El regreso de Huang Xiaolong"
 numero: 643
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Poco después, Huang Peng, Su Yan y los demás recibieron la noticia de que el Emperador Duanren, la Reina Elfa, el Ancestro de la Familia Xie, el Ancestro de la Familia Guo y el resto fueron asesinados por los discípulos de All Dragons League.

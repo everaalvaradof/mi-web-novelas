@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1487: ¿Fuerza divina suprema?"
 numero: 1487
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A medida que el Punto del Dios de la Muerte de Wang Yongsen se acercaba a Huang Xiaolong, Zhao Lei y Fang Gan estaban asustados y nerviosos una vez más.

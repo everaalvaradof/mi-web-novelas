@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 115: ¡Un Tesoro Celestial está a punto de aparecer!"
 numero: 115
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Fei Hou, ve y pregunta sobre este asunto!" Huang Xiaolong se volvió hacia Fei Hou y ordenó en voz baja, apenas por encima de un susurro.

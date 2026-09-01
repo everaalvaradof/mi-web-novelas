@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 657: Una patada, tan fuerte como puedas"
 numero: 657
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Justo cuando los dos guardias se pararon frente a Huang Xiaolong y Xie Puti, una sombra parpadeó y los sonidos de huesos fracturados resonaron simultáneamente con dos gritos trágicos. En el siguiente momento, los dos guardias fueron derribados, rodando hasta los pies de Li Zishuai.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1263: El compromiso de Wang Yu"
 numero: 1263
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong observó a Wang Yu y a los otros discípulos que lo acompañaban, y descubrió que eran fuertes, la mayoría de ellos pertenecían al Reino de Dios Antiguo del Séptimo Orden y superior. Además de eso, ¡los dos que estaban frente al grupo eran incluso más fuertes que Xie Li!

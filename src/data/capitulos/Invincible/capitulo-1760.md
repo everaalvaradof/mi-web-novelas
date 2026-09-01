@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1760: El Palacio del Emperador de los Nueve Dragones encuentra problemas"
 numero: 1760
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡La Terraza del Cielo era una enorme estrella perecedera suspendida en los cielos estrellados!

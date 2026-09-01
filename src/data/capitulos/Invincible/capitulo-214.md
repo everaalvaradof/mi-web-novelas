@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 214: ¡Todos ustedes deben morir aquí!"
 numero: 214
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong, Zhao Shu, Yu Ming y Fei Hou marcharon hacia el Instituto Duanren con un aura asesina visible. ¡Cualquiera que se cruzara en su camino huyó asustado!

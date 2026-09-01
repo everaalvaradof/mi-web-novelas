@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1503: Entrando en el Tesoro de Tianwu"
 numero: 1503
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong estaba de pie en la sala de control del Barco Volador Tiburón Dragón, mirando hacia el vasto y oscuro espacio. Sus pensamientos se dirigieron a su familia en el reino inferior.

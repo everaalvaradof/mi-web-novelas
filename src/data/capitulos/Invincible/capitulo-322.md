@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 322: El poder del fantasma gigante Feng Yang"
 numero: 322
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong llevaba la atmósfera de un antiguo dragón divino primordial con el poder del dragón surgiendo de su cuerpo, perforando los Nueve Cielos.

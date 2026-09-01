@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 883: Genio sin par"
 numero: 883
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al lado de la divinidad del Dios celestial, también había un huevo enorme con pequeños patrones de relámpagos parpadeantes en su superficie.

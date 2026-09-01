@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 833: La Montaña Celestial Llevada"
 numero: 833
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando el mapa del tesoro cayó en el ojo de la formación central, una luz salió volando del mapa, resonando con la formación.

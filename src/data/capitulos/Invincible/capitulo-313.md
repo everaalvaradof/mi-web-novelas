@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 313: Sutra del Rey Fantasma"
 numero: 313
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver que Sun Haoran también lo convenció de que no interfiriera, Huang Xiaolong negó con la cabeza y pensó en secreto: "Como hombre, ¿qué es el miedo y qué hay que temer?" Ni siquiera tenía miedo de las Deidades Templarias, ¡¿se inclinaría ante una mera ciudad de miríadas de dioses

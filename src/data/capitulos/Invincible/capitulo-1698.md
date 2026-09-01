@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1698: Una batalla está a punto de estallar"
 numero: 1698
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Tú, tú, ¿qué dijiste ?! ¡Ese hijo de un d*g despejó el duodécimo piso!" La noticia sonó como un trueno en la mente de Song Litao. Sus ojos perdieron un poco de brillo, luego su cuello se sacudió, mirando la cima de la Montaña Sagrada.

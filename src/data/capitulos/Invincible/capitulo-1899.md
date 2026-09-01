@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1899: Sácalos"
 numero: 1899
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Qué piensas de esto?" El Emperador Devorador del Cielo le preguntó a Jiang Chuchen en su lugar.

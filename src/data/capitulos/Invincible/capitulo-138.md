@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 138: '¡Ve a matar a Huang Xiaolong!'"
 numero: 138
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Ning Wang y Mei Sen saltaron hacia Fei Hou, ambos llamaron a sus espíritus marciales.

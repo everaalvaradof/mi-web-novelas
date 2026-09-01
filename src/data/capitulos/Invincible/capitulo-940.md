@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 940: Al Río Dan"
 numero: 940
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 “Eso es cierto, esta es una gran oportunidad para matarlo, no debemos dejarlo escapar. Si logra huir,

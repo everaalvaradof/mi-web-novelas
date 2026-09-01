@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 841: Probando la edad de los huesos"
 numero: 841
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El joven vestido de azul notó que el discípulo del Clan Wangu encargado de mantener el orden se acercaba y luchó por ponerse de pie con el rostro torcido por la ira. Estaba fijando una mirada venenosa en Huang Xiaolong y se quejó con el discípulo del Clan Wangu: “¡Hermano Jinsong, esta persona me arrebató mi lugar a la fuerza! ¡Incluso me atacó e hirió, le imploro al hermano Jinsong que revoque la calificación de registro de esta persona! "

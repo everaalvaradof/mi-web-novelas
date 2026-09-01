@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 233: De vuelta en la ciudad imperial de Duanren"
 numero: 233
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Justo cuando el borde de la túnica de Huang Xiaolong desapareció en el vacío y el cuerpo de Han Fei cayó al suelo, una figura se acercó corriendo, atravesando el viento.

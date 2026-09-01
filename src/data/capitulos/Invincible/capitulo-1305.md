@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1305: ¿Un seguidor? ¿Un esclavo?"
 numero: 1305
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Qué? ¿Es discípulo de la Puerta de la Fortuna del Mundo de Vientiane? Wang Yu se sorprendió cuando se enteró de esta información.

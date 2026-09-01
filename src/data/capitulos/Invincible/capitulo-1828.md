@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1828: Tierras del Diablo Eterno"
 numero: 1828
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que Huang Xiaolong devoró a los antiguos gusanos del trueno, descubrió que su fuerza en realidad había aumentado. ¿Quién hubiera pensado que estos antiguos gusanos del trueno eran un gran suplemento para él?

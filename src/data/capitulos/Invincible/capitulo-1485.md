@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1485: Todavía puedes arrepentirte"
 numero: 1485
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿Qué debería sacar como estaca? Las cejas de Huang Xiaolong se arrugaron mientras sopesaba sus opciones.

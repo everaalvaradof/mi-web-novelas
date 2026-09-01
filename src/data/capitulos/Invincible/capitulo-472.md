@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 472: Quédate aquí"
 numero: 472
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Franz, ¿qué estás tratando de hacer?" Eric espetó.

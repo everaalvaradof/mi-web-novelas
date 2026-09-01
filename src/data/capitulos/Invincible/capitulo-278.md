@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 278: No esquives si tienes agallas"
 numero: 278
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando las dos personas estuvieron lo suficientemente cerca como para que Huang Xiaolong distinguiera claramente sus rasgos, se sorprendió. El otro lado estaba formado por un hombre y una mujer; si Huang Xiaolong recordaba correctamente, la mujer era la discípula de la Secta de la Sombra Fantasma. Huang Xiaolong la vio una vez cuando llegó por primera vez a Black Demon City. En ese momento, el anciano de la Secta Magi del Cielo, Deng Guangliang, le dijo que esta mujer era muy probablemente la discípula del Patriarca de la Secta Fantasma de la Sombra.

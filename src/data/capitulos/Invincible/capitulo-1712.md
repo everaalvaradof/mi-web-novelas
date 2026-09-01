@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1712: Semilla de Iluminadores"
 numero: 1712
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pasaron dos meses...

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 276: Ciudad de la miríada de dioses"
 numero: 276
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Así es, hermano mayor, Black Demon City debe estar en un lío en este momento, ¡es nuestro momento más oportuno para atacar y capturar Black Demon City como nuestro!" El segundo hermano Liu Ding se hizo eco de los mismos pensamientos.

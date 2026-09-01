@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 606: Refinar un núcleo de bestia de dragón divino de reino alto"
 numero: 606
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Voy a estar esperando." Huang Xiaolong le mostró una brillante sonrisa a Zhu Yu después de escuchar su amenaza.

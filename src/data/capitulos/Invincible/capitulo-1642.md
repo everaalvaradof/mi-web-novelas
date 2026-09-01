@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1642: ¿Qué coño es la Puerta de los Dioses Masacrados?"
 numero: 1642
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El antepasado de otro ancestro de la Puerta de los Dioses Masacradores, Zhang Xiaomeng, también se rió. "Aquí estaba pensando que podría divertirme matando. My Black Phoenix Blade no ha bebido sangre fresca a su contenido durante mucho tiempo. Parece que solo podía esperar la próxima oportunidad".

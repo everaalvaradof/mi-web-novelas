@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1035: ¡Matad a ese animal por mí!"
 numero: 1035
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Hermano mayor, ¿sabes por qué hay recompensas tan extravagantes esta vez?" Chen Xiong preguntó después de superar su asombro.

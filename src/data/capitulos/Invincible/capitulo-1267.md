@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1267: La fruta del demonio de metal de siete colores"
 numero: 1267
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La pequeña vaca gritó con urgencia: "¡CUIDADO!"

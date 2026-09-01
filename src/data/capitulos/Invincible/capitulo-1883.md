@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1883: ¡Exterminando a su raza de osos dragón!"
 numero: 1883
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Junto con la activación completa de la Formación True Dragon, el majestuoso rugido de un dragón originario de la Era Desolada reverberó a través de los cielos.

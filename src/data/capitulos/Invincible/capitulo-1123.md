@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1123: El Tesoro de la Tribu de las Almas"
 numero: 1123
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El rostro de Huang Xiaolong palideció. Reunió sus fuerzas y gritó en voz baja mientras sus manos agarraban a la pequeña vaca y a la discípula de la Puerta de la Fortuna, Cheng Susu, escapando como un genio. ¡Si no corrían ahora, solo la muerte los estaría esperando cuando llegaran otros expertos de la Tribu de Almas!

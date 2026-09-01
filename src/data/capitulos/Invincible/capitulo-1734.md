@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1734: Abriendo la Puerta de los Nueve Yin"
 numero: 1734
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Inesperadamente, Yang Jing miró en dirección a Huang Xiaolong en este momento. Sus ojos de fénix lo miraron ferozmente, pero pronto, las comisuras de sus labios se curvaron en una sonrisa ligeramente burlona.

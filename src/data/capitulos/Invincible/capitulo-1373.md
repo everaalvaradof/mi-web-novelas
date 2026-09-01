@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1373: ¡Nadie puede salvarte hoy!"
 numero: 1373
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aunque todos en el grupo de Fortune Gate estaban enfurecidos por la primera condición de Feng Yingying, ya lo habían anticipado. Sin embargo, la segunda condición de Feng Yingying para entregar a Huang Xiaolong fue realmente inesperada para ellos.

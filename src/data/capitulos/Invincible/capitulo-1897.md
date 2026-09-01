@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1897: Rechazando a Zhao Rou"
 numero: 1897
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Nadie esperaba que Huo Liucheng huyera hacia Zhao Rou y Chen Qin. Sin embargo, en un instante, todos entendieron sus intenciones.

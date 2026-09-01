@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1208: Campo de Duelo"
 numero: 1208
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Meng Yuan se sorprendió por la solicitud de Huang Xiaolong. ¿Quiere realmente comprar tantos líquidos espirituales del caos? ¡Además de eso, también estaba la piedra de refinación del cielo de cinco colores del caos que era difícil de conseguir en mil millones de años!

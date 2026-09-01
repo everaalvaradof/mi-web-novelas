@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 925: ¡Realmente tuvo éxito!"
 numero: 925
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Li Jiang envió inmediatamente a la gente a traer los ingredientes de refinamiento de la píldora que habían preparado anteriormente.

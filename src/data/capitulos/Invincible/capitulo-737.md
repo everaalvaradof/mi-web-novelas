@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 737: Refinando los Brazos Gigantes del Rey Bestia de Cien Espíritus"
 numero: 737
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Varios días después, después de una intensa batalla amarga con la ayuda del Fuego Divino de la Tortuga Negra y el Emperador Dragón Ao Taiyi, Huang Xiaolong finalmente logró romper el cuerpo del Rey Bestia de los Cien Espíritus al destruir el remanente de voluntad contenido en su cabeza.

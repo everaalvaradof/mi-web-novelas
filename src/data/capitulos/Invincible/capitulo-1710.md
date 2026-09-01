@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1710: ¡Eres tú!"
 numero: 1710
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los Ancestros que huían de la alianza de la tríada fueron eliminados por la Ciudad de la Eternidad o el Salón Celestial sin excepción. Esta escena solo hizo que los demás cayeran aún más en el abismo de la desesperación.

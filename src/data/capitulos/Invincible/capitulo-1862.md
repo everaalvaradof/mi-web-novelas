@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1862: Dejando la Ciudad Eterna del Diablo"
 numero: 1862
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El violento archidemonio, los antepasados de la Secta de los Cien Transformaciones y el Jefe de la Secta asesina negra, Cui Huajie, salieron de la sede principal de la Legión del Diablo Sin Cielo con expresiones hoscas.

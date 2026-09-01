@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1798: Imposible de matar"
 numero: 1798
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En comparación con aquellos que cayeron a sus traseros en estado de shock, Zhao Lei, Fang Xuanxuan y los demás no se veían demasiado bien.

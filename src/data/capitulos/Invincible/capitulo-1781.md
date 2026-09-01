@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1781: Esto es una orden"
 numero: 1781
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dos días después, Huang Xiaolong y el grupo del Palacio del Emperador fortuna salieron de la matriz de transmisión de la competencia.

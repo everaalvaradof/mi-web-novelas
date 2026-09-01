@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 500: En primer lugar, aniquilar la Puerta de Asura"
 numero: 500
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡¿Al continente Starcloud ?!

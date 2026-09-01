@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1049: Usted es el que los mató, ¿verdad?"
 numero: 1049
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡El número de Crimson Flame Beads ya había llegado a nueve mil!

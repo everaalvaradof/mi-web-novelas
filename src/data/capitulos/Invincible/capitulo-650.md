@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 650: Rango Cinco Dioses"
 numero: 650
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Lo que realmente sorprendió a Huang Xiaolong fue el hecho de que el efecto de la Píldora Divina de la Luna Ascendente de Marea Creciente podría realmente describirse como milagroso. Después de consumir y refinar a dos de ellos, ¡sus padres y varios más irrumpieron en el reino Santo en la misma noche!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 492: ¡¿Es el Señor Dios Bestia?!"
 numero: 492
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Li Lu!

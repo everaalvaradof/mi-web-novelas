@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 728: ¿Me dices que me vaya?"
 numero: 728
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La prioridad de Huang Xiaolong al llegar al Instituto del Pájaro Bermellón era buscar información relacionada con el Fuego Divino del Pájaro Bermellón, su principal razón para evitar problemas innecesarios. Desafortunadamente, Huang Xiaolong quería evitar problemas, pero había personas que se mostraban inflexibles en molestarlo.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 752: ¡Fuego Divino del Pájaro Bermellón!"
 numero: 752
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Hongtian frunció el ceño, ¿cómo podría no conocer la regla transmitida por sus antepasados desde la antigüedad?

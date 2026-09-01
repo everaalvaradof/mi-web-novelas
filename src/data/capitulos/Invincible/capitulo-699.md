@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 699: ¡Olvídalos!"
 numero: 699
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de destruir su alma, Huang Xiaolong ni siquiera se molestó en mirar, arrojando descuidadamente la cabeza de Ying Changtian, incrustándola en la parte superior de las murallas de la ciudad, dejando media cabeza fuera...

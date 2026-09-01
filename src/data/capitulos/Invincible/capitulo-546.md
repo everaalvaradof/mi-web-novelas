@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 546: Acto imprudente"
 numero: 546
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver a Huang Xiaolong asentir con la cabeza, los nervios del director del instituto Feng Yang se crisparon ligeramente a pesar de su alta tolerancia al impacto.

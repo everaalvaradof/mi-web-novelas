@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 208: Se abre el Pabellón Santo"
 numero: 208
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong llegó a la montaña trasera de la división exterior, notó que la zona de la montaña trasera generalmente animada estaba vacía.

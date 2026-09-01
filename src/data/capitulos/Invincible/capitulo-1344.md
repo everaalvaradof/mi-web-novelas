@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1344: El linaje del Dios del Mar ha despertado completamente"
 numero: 1344
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dos meses después, el grupo de Huang Xiaolong salió de la matriz de transmisión de la superficie Reverence World.

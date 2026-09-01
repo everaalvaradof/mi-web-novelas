@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1617: El Barco Volador Netherking"
 numero: 1617
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Aunque los rumores pueden no ser del todo ciertos, ¿qué hacemos si realmente es el hijo ilegítimo de Jiang Hong?" El gigante desolado Tai Yue frunció el ceño profundamente mientras les preguntaba a los demás.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 47: ¡Soberano invencible en todas partes!"
 numero: 47
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿No tienes espíritus marciales de noveno grado? Huang Xiaolong escuchó el malentendido del mariscal Haotian, negó con la cabeza y sonrió con amargura. Después de pensar por un momento,

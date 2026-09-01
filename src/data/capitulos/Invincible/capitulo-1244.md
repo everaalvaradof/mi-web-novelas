@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1244: No.1 Vs No.1"
 numero: 1244
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las fuerzas de los cuatro continentes habían llegado a la plaza. La batalla que todos habían estado esperando con anticipación estaba a punto de comenzar finalmente.

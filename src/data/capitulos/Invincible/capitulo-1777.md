@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1777: ¿Y qué?"
 numero: 1777
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El grupo del Palacio del Emperador fortuna se puso ansioso, viendo el nombre de Peng Xiao brillando tenuemente como una vela en el viento que podría estallar en cualquier momento. Sus corazones colgaban en sus gargantas.

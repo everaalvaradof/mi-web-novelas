@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 735: Un Espacio Lleno de Qi Demoníaco"
 numero: 735
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong pensó durante mucho tiempo pero no pudo encontrar una solución. No podía actuar como los miembros de los clanes de las bestias demoníacas, masacrando a los humanos sin prejuicios y usando su sangre para estimular algún tipo de reacción del Rey Bestia de los Cien Espíritus para que pudiera encontrar la ubicación sellada, ¿verdad?

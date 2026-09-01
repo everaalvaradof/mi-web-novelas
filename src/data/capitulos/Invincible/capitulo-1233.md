@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1233: Cinco golpes"
 numero: 1233
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Wangu Ziyi también se sorprendió porque Huang Xiaolong había roto fácilmente su ataque sin ninguna acción.

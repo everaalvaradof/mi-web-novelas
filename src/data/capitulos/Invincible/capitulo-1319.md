@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1319: La Entrada del Diablo Sellada"
 numero: 1319
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La expresión asustada y temblorosa de Yao Chi hizo que Huang Xiaolong se riera a carcajadas.

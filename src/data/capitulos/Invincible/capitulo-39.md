@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 39: ¿El Mariscal no está?"
 numero: 39
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El mariscal del Reino de Luo Tong seguía siendo el mismo incluso después de tres generaciones de gobernantes y había salvado al Reino de Luo Tong de los desastres varias veces. Debido a esto, tenía un estatus exaltado y solo seguía la orden de una persona.

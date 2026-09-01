@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1171: El Jefe de la Secta del Buda Fantasma"
 numero: 1171
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En el campo de batalla del diablo extraterritorial, Huang Xiaolong miró a Chen Weiping, Sun Fangliang y varios otros del Culto del Lago Espíritu, ahora muertos, sin ninguna emoción. Con un ligero movimiento de su dedo, reunió todas sus divinidades y anillos espaciales en su Anillo Asura, y con otro movimiento de su dedo, nueve bolas de fuego cayeron sobre los discípulos de Spirit Lake Cult, borrando todo rastro de ellos del mundo.

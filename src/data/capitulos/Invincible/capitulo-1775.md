@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1775: ¡Gudu Canyang-Muerto!"
 numero: 1775
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong sonrió fríamente después de escuchar las palabras de Gudu Canyang. Los miró y preguntó: "¿Cuál de ustedes quiere morir primero?"

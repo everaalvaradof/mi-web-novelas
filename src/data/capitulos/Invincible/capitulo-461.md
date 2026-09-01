@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 461: Entrando en el Valle del Dragón Venenoso"
 numero: 461
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Salió del Templo Xumi después de refinar por completo el dragón blanco divino primordial, consolidar sus nuevos poderes de avance y alcanzar la cima del reino de los Santos de la Séptima Orden.

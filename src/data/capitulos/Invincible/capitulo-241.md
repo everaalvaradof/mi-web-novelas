@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 241: Bajo asedio brutal"
 numero: 241
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong llegó a la escena, ¡Zhao Shu y Zhang Fu estaban luchando contra cuatro personas en el cielo!

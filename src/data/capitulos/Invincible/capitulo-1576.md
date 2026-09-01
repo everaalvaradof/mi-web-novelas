@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1576: ¿Por qué no haces el primer movimiento?"
 numero: 1576
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Un Archidevil de la era de las abuelas!

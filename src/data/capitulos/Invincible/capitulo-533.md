@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 533: Se acerca el día de la evaluación"
 numero: 533
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de comprar los núcleos de bestia del Reino de Dios de medio paso pico, Huang Xiaolong alquiló un patio en una de las posadas de la Ciudad del Guerrero Negro, sumergiéndose en el cultivo. Ahora, quedaban apenas diez meses para el día de la evaluación. Por lo tanto, Huang Xiaolong se limitó a diez núcleos de bestias por día, mientras que el resto del tiempo se dedicó a cultivar su qi de batalla, el arte de las marionetas antiguas y el mandato del alma.

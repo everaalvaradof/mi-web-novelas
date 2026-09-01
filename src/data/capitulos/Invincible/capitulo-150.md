@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 150: Palma de la ilusión del gusano de seda de hielo"
 numero: 150
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se paró con indiferencia a su lado mientras Rongguang y Liu Meijun se observaban con cautela mientras las fluctuaciones del qi de batalla aumentaban en el escenario de batalla.

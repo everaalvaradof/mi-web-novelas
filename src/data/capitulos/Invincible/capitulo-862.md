@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 862: Tres Dioses de Rango Supremo"
 numero: 862
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En un corto período de tiempo, el cultivo de Huang Xiaolong aumentó hasta el pico temprano del Reino de los dioses altos de la Segunda Orden antes de que su verdadera fuerza inmortal y el qi de batalla de dioses se ralentizaran ligeramente.

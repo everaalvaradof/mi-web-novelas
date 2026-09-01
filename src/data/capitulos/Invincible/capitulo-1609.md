@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1609: Demasiado rápido"
 numero: 1609
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 No importa cómo recorrió el espacio en el Brazalete de Jade Frío del Dragón Negro, no pudo encontrar la Armadura Divina del Dragón Negro.

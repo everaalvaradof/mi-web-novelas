@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 227: Buscando el piadoso monte Xumi."
 numero: 227
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Una tras otra, majestuosas estatuas de Buda se elevaban sobre el cielo y la tierra, ¡superando los diez zhang! ¡Alcanzando cien zhang! ¡Varios cientos de zhang!

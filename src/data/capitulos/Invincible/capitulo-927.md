@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 927: Cultivando el principio de división del cielo"
 numero: 927
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se sentó con las piernas cruzadas dentro de la Residencia del Sol y la Luna, haciendo circular los cuatro fuegos divinos. Al mismo tiempo, desde el vacío sobre él, la esperada energía gris brillante fluía continuamente.

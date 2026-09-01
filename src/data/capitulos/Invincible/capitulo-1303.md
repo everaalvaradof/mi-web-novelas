@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1303: Un Patio Destruido"
 numero: 1303
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de un tiempo, Zhu Feng abandonó el Salón de Comercio de los Círculos Infinitos. No mucho después de haberse ido, Wang Wei salió de la oscuridad.

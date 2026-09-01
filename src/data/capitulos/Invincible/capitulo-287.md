@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 287: ¡El arte divino de Xumi resurgió!"
 numero: 287
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Soul Glacier Green Demon!

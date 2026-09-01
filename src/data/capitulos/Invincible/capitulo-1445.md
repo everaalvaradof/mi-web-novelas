@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1445: Una lástima"
 numero: 1445
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El discípulo de la secta interior miró la piedra de prueba con una expresión aturdida durante mucho tiempo.

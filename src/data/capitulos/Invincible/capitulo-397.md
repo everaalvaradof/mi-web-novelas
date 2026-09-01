@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 397: Empresa arcaica de tasación pico"
 numero: 397
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Perro de piel de hierro! ¡Todos los guardias de Aowu Shop! ¡Incluido el supervisor de Aowu Shop, Lin!

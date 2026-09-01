@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 321: Luchando contra Zhao Chen otra vez"
 numero: 321
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong escuchó en silencio a Li Qiuping de Snow Dragon City y los comentarios sarcásticos de los demás en la distancia con una forma estoica...

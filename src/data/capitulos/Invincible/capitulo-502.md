@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 502: ¡Quién se atreve a actuar imprudentemente, buscando la muerte!"
 numero: 502
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El ejecutor de la ley Chen Xiaofeng se unió a la risa de Xie Hui, "Lo que dijo el joven señor es correcto, esta orden de Zhao Shu para que todos los discípulos de la Puerta de Asura se retiren de regreso al territorio del Oblast Central nos ha ayudado a ahorrar mucho tiempo, de lo contrario, dar la vuelta al oblast por oblast para exterminar a sus discípulos sería muy problemático y consumiría mucho tiempo ".

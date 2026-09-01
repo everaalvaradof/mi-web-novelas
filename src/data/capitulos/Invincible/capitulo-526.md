@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 526: Llegando al Campo Estelar Central"
 numero: 526
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El Emperador Dragón Ao Taiyi estaba extremadamente satisfecho mirando la cara de sorpresa de Huang Xiaolong, riendo mientras decía: “¿Ya estás asustado? Este embrión espiritual innato es una existencia muy rara, es difícil encontrar uno en un millón de años y lleva tanto tiempo nutrirlo.

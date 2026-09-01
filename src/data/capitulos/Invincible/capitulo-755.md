@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 755: Usando Una Sola Palma"
 numero: 755
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong y el Emperador Dragón Ao Taiyi llegaron a la sede del Clan Fénix, su Patriarca, Grandes Ancianos y Ancianos se reunieron dentro del salón principal para una discusión.

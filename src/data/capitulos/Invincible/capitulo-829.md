@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 829: Transformación del alma"
 numero: 829
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Ola tras ola de fuerza del alma se elevó en el mar de almas de Huang Xiaolong, cada una más feroz que la anterior. Un resplandor brillante iluminó el mar de su alma similar a innumerables soles reunidos; una luz tan brillante que parecía como si pudiera atravesar el espacio, dejando una huella perpetua de su trayectoria en el universo.

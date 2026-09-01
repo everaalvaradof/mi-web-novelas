@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 190: Los nuevos estudiantes se inscriben"
 numero: 190
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se dio la vuelta para mirar a la persona que lo llamó por su nombre y cuando vio a la otra parte, se sorprendió: "¡Chen Cheng!"

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 726: Entrando en el Instituto Pájaro Bermellón"
 numero: 726
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong decidió intercambiar mil piedras espirituales de grado santo superior porque no quería sobresalir, pero aún así atrajo la atención de los maestros presentes en el salón...

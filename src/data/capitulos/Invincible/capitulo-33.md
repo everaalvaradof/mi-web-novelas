@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 33: Garra del Demonio Asura"
 numero: 33
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong sacó vino del Anillo Asura, luego trituró la vesícula biliar del oso negro para mezclarlo con el vino antes de beber y tragarlo todo. Finalmente consiguió el vino unos días antes, después de matar a un grupo de mercenarios que se llamaban a sí mismos Evil Spirit.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1681: Fruta sagrada"
 numero: 1681
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El Nethersea era el mar más grande del mundo de Asura, y también el mar más grande de los tres mundos del infierno.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1618: ¡Apúrate y reúne a las tropas de la Guardia Inferior!"
 numero: 1618
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Para cuando Gu Zheng y Gu Fei emergieron de la matriz de transmisión, los expertos de la familia Gu los estaban esperando.

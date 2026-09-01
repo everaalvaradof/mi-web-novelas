@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1265: Adelante, haz lo que puedas"
 numero: 1265
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿También recibir un golpe de mi palma?

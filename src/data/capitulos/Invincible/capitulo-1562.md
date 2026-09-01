@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1562: Despliegue las puertas de la ciudad"
 numero: 1562
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que Xiang Xun y el Caos Negro del Caos se pusieron de pie, los rostros de los miembros del Palacio del Emperador del Brillo cambiaron drásticamente.

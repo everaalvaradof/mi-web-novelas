@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 67: La Competencia Anual de la Academia Comienza"
 numero: 67
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A un lado, Li Lu estaba aturdido, clavado en el lugar. Su mirada cayó sobre el cuerpo tembloroso aplastado por Huang Xiaolong en el suelo y no reaccionó durante mucho tiempo.

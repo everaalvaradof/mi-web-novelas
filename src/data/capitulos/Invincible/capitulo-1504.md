@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1504: Al final del laberinto"
 numero: 1504
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Había un rayo de duda en los ojos de Huang Xiaolong. Estaban en la región más profunda del campo de batalla extraterritorial del diablo, y ni un rayo de sol podía penetrar en esta región debido al espeso qi del diablo y al qi de la muerte. Entonces, ¿de dónde vino la luz del sol dentro del Tesoro de Tianwu?

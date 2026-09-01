@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 330: ¡Dios matando a puño!"
 numero: 330
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 He Hui miró a Lu Kai en el centro de la plaza y ladró: "¡De rodillas!" Lu Kai se puso de pie, mirando fríamente al anciano.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1420: ¿Quién se atreve a pujar?"
 numero: 1420
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Chen Xiao vio que las personas sentadas debajo de ellos estaban conmovidas por el precio de la oferta y se rió cuando le dijo a Wang Tong: “Cinco millones de piedras espirituales de bajo grado ocho ya los han asustado mucho. ¿No he dicho ya que la Píldora de Buda y la Pasta de Buda del Rey Dios no son algo que las personas de menor estatus y personajes puedan pagar? ”.

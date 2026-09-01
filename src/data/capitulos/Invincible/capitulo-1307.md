@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1307: ¿Orientación?"
 numero: 1307
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La siguiente escena dejó a todos estupefactos.

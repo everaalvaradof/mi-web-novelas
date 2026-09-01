@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1677: Sometiendo al Qilin Oscuro de la Llama Escarlata"
 numero: 1677
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Todos miraron fijamente al espacio cuando escucharon el alto precio de He Jingyi de veinte millones ochocientos mil. Cuando salió la oferta de tres millones de Huang Xiaolong, todos volvieron la cabeza al unísono para mirarlo.

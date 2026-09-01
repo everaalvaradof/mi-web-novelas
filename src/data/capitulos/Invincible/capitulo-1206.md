@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1206: Sala de Comercio de los Círculos Infinitos"
 numero: 1206
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al mirar la siempre bulliciosa ciudad de la prefectura de Huo, Huang Xiaolong estaba asombrado por dentro.

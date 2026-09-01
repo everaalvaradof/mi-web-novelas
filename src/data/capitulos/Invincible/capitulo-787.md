@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 787: El Torso Sellado del Rey Bestia de los Cien Espíritus"
 numero: 787
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Frente a Huang Xiaolong, el comandante del clan de las bestias demoníacas no luchó, en cambio, se arrodilló en el aire con miedo, suplicando: "¡Señor, ten piedad, ah!"

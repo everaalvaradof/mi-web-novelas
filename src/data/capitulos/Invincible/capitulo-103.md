@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 103: Corriendo hacia los bandidos"
 numero: 103
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La joven y bonita se rió y dijo: “Mayor Fei Hou, ¿lo olvidaste? Hace siete años, me salvaste. Mi nombre es Chen Li ". Señaló las montañas frente a ellos: "¡Ese año, fue en esa zona montañosa que me salvaste!"

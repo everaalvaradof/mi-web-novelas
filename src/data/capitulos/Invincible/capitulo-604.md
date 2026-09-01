@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 604: Más Salvaje Que Una Bestia Feroz Primordial"
 numero: 604
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Parece que la suerte de Huang Xiaolong en este viaje fue muy buena. No mucho después de subyugar a la Bestia Dragón de Piedra Ardiente, se topó con dos bestias demoníacas más del Reino de Dios de la Quinta Orden.

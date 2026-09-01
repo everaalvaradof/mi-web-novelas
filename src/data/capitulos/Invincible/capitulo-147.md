@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 147: Sin Piedad"
 numero: 147
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿El primer lugar de la clase?" Huang Xiaolong se quedó en blanco por un instante antes de sonreír amablemente a Lu Kai, "¡Así es, esta vez también quiero tomar el lugar número uno de la clase!"

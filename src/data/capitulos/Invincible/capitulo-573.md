@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 573: Residencia del Fuerte Divino"
 numero: 573
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las palabras de Huang Xiaolong fueron como un trueno retumbando en los oídos del discípulo. Al escuchar que el invitado de honor, propietario de la tarjeta de invitado supremo más alto, quería ver a su supervisor, sus piernas cedieron y casi se caen al suelo. Su boca se abrió y se cerró como un pez fuera del agua, tratando de decir algo, pero después de una mirada a la expresión tranquila pero fría de Huang Xiaolong, el discípulo sabiamente mantuvo la boca cerrada y fue a buscar al supervisor.

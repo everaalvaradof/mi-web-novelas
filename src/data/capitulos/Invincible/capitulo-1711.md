@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1711: Hacia el Cuartel General del Clan Hormiga Negra"
 numero: 1711
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mao Shu y el resto completaron su juramento, y Huang Xiaolong sintió una ola de alivio barrer su corazón. Luego instruyó a Tai Yue y al resto para que prepararan la fiesta de celebración.

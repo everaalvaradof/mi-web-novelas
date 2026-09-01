@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1889: Hay un lago de hielo"
 numero: 1889
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A pesar de que la fuerza de Huang Xiaolong aumentó explosivamente cuando llegó al Reino monarca celestial de la Décima Orden, todavía tenía que ejercer una inmensa cantidad de esfuerzo para controlar a las criaturas heladas. Fue extremadamente agotador para él, y solo logró controlar a tres de ellos después de diez días.

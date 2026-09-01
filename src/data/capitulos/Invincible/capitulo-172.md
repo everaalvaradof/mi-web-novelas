@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 172: La batalla de la ciudad imperial (4)"
 numero: 172
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong tomó asiento, las miradas de los genios que lo rodeaban estaban llenas de sentimientos complicados. Aquellos que se burlaron y ridiculizaron a Huang Xiaolong antes habían cerrado la boca. Sus ojos ocasionalmente miraban a Huang Xiaolong con reverencia, y escondidos en lo profundo de ellos había débiles rastros de arrepentimiento y temor.

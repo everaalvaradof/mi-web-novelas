@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1105: La Sala Interior del Tesoro de la Secta Zhenyu"
 numero: 1105
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Te matará con sus propias manos!

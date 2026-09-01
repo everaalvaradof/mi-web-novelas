@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 01: Continente de la Nieve del Viento"
 numero: 1
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La noche se instaló lentamente de manera silenciosa y comenzaron a aparecer estrellas brillantes.

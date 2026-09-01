@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 388: Evolución de los escarabajos del cadáver venenoso"
 numero: 388
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Distinto Anciano de la Puerta del Vacío Se retiró presa del pánico.

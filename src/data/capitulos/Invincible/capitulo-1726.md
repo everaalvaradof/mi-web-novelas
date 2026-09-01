@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1726: ¡Es probable que él...!"
 numero: 1726
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong vio a Feng Qi, Chen Bin y los demás irse, luego regresó a la sala de cultivo.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 900: ¡Tú eres Huang Xiaolong!"
 numero: 900
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong ya había visto al grupo del Instituto Dragón Azur. La mirada fría de sus ojos de dragón escarlata los recorrió, pero decidió ocuparse primero de Yelu Chufei. En un parpadeo, llegó justo encima del pico de la montaña donde Yelu Chufei se estrelló antes.

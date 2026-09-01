@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1197: Entrar en la reclusión para abrirse paso"
 numero: 1197
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En un instante, todas las cabezas se volvieron, mirando hacia la entrada por donde entraban las tres personas.

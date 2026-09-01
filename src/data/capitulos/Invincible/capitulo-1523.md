@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1523: Mitad Mitad"
 numero: 1523
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar la presentación de Tong Jiang de sí mismo, Chen Xinde levantó levemente la cabeza y continuó mirando hacia abajo a Huang Xiaolong, el emperador Grandmist Jiang Hong, la vaca pequeña, Xiang Xun, y los demás como un ser superior.

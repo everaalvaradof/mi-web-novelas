@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 729: Entrando en la Biblioteca del Instituto Pájaro Bermellón"
 numero: 729
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver que el grupo de Qi Qianqian todavía estaba allí aturdido en lugar de apresurarse, la ceja de Huang Xiaolong se arqueó con sospecha, poniendo una sonrisa maliciosa, "Niña, si no se van, ¡les voy a quitar los pantalones a todos!"

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 189: ¡Comienza el periodo del Instituto Duanren!"
 numero: 189
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pasaron unos veinte días antes de que comenzara el nuevo mandato del Instituto Duanren. Huang Xiaolong planeaba tragarse el Dan del Espíritu de Grado Siete, así como los dos Dan de Espíritu de Grado Seis de la recompensa de la Batalla de la Ciudad Imperial y cultivar para mejorar su fuerza un poco más antes de que comenzara el período.

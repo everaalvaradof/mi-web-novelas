@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 348: Cetro del Dios Bestia"
 numero: 348
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El aura de Huang Xiaolong se extendió como las olas de un mar sin fin, rodando y salpicando, ahogando todo.

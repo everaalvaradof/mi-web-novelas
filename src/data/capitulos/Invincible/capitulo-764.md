@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 764: ¡Por fin de vuelta!"
 numero: 764
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Ni una sola vez se les ocurrió a Wan Lixiong y Wan Runshan que un cultivador del Reino de Dios tendría seis maestros del Reino de Dioses altos acompañándolo!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1650: ¿Quién se atreve a venir a rescatarte?"
 numero: 1650
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los ojos de Huang Xiaolong brillaron. Después del evento de la Montaña Sagrada, iría a la sede del Clan de hormigas negras y del Clan de los Huesos Demoníacos.

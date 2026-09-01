@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1714: Espérame"
 numero: 1714
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Diez... ¿Diez millones de piedras espirituales del caos de bajo grado? Mayor, ¿eres de verdad?" Tan Zhiming miró a Huang Xiaolong con una mirada incrédula en sus ojos. ¿Podría ser que Huang Xiaolong fuera realmente serio sobre su oferta?

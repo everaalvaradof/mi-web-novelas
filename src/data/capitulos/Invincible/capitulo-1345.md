@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1345: Junior Ignorante"
 numero: 1345
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Chen Wenli miró maliciosamente a Huang Xiaolong por el rabillo del ojo. Su voz tenía un toque de sed de sangre cuando dijo: "Niño pequeño, ¿quién podrías ser?" Pero pronto, su mirada se posó en Feng Er, que estaba un paso detrás de Huang Xiaolong, “¿Esta es tu doncella? Su rostro no está mal, preséntala a este Joven Maestro por un par de días. ¡Te la devolveré después de dos días!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1478: Desafío de combate"
 numero: 1478
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de la llegada del Emperador Dragón Azur, otros Emperadores de las fuerzas de los Palacios Emperadores también llegaron consecutivamente.

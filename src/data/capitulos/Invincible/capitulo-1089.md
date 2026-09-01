@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1089: Arrebatar el Loto Espiritual Relámpago de Nueve Pétalos"
 numero: 1089
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sabiendo que era el Jefe de la Puerta del Dragón Dorado probándolo, Huang Xiaolong actuó con normalidad, como si no hubiera notado la acción del Jefe de la Puerta. Al final del día, este Jefe de la Puerta, Liu Zhuo, era solo un Reino de Dios Antiguo de la Primera Orden tardía, mientras que el Diablo de Granizo de Hielo Verde de Huang Xiaolong, Bing Jiuyi, era un Reino de Dios Antiguo de la Segunda Orden de mediados de la Segunda Orden. Como estaba escondido en el espacio, no había peligro en dejar que el Jefe de la Puerta investigara tanto como quisiera.

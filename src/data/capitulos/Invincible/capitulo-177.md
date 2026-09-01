@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 177: La batalla de la ciudad imperial (9)"
 numero: 177
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras la multitud todavía estaba inmersa en sus emocionadas discusiones, los primeros competidores, Cui Li y Jin Desheng, subieron al escenario.

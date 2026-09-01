@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 769: Jia Xiangtian Enviado Volando"
 numero: 769
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los varios Grandes Ancianos del Instituto del Dragón Azur y el Rey Bestia Cuerno Dorado con sus subordinados se rieron a carcajadas en ridículo al ver a Huang Xiaolong golpeando su palma para contrarrestar el ataque de Jia Xiangtian.

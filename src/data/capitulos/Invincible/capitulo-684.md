@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 684: Comienza el refinamiento"
 numero: 684
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡El Rey Bestia más fuerte del clan de las bestias demoníacas!

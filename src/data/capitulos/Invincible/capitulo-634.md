@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 634: Encuentro con el Anciano de la Luna Ascendente"
 numero: 634
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Un invitado?" Huang Xiaolong encontró eso sorprendente.

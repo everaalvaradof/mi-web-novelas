@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 429: Asalto Frontal"
 numero: 429
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La noche transcurrió sin incidentes.

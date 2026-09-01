@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1346: Ser enterrado con mi discípulo"
 numero: 1346
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Maestría!" Chen Wenli finalmente pudo gritar: “Zheng Guowen, Chen Zheng y los demás han traicionado a la Secta Ondas de Arena. ¡Arrestenlos a todos y castiganlos con la pena de muerte! "

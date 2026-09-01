@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 391: Llegando al Continente Nube Estelar"
 numero: 391
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong estaba genuinamente sorprendido, porque esta táctica de refinamiento de la píldora del dragón dorado registró todos los métodos y recetas de refinamiento de la píldora espiritual divina del Clan Dragón. No solo eso, el manual también registró en detalle las nueve tácticas de refinamiento diferentes del Clan del Dragón Antiguo.

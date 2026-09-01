@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 513: ¿Físico Celestial del Emperador de Jade del Firmamento?"
 numero: 513
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Soberano!"

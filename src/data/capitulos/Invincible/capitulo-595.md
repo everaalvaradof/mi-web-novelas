@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 595: ¡Difícil de Tragar Esta Indignidad!"
 numero: 595
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Desnudado!

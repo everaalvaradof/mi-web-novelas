@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1644: Muertos vivientes"
 numero: 1644
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En los últimos años, dondequiera que pasara la Puerta de los Dioses Masacradores, los Ancestros de las otras fuerzas se inclinaban hacia atrás para adularlos y halagarlos, pero ahora, ¡había alguien diciendo que la Puerta de los Dioses Masacradores no era más que un pedo que soltó!

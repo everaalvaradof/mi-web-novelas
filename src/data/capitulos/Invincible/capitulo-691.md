@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 691: El Terror del Fuego Divino del Dragón Azul"
 numero: 691
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de una noche de cultivo, cuando llegó la mañana, Huang Xiaolong salió del Templo Xumi con la obvia sensación de que su fuerza había aumentado por un gran margen.

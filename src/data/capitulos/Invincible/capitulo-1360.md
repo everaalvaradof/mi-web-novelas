@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1360: ¡Resucitado!"
 numero: 1360
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El antepasado Xiang Hui y el patriarca Xiang Tai fruncieron el ceño profundamente, decepcionados por la repentina interjección de Xiang Xiaojie.

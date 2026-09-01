@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1637: Absolutamente el primero desde tiempos inmemoriales"
 numero: 1637
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Similar al momento en que Huang Xiaolong se abrió paso hacia el Reino del Rey Dios de la Décima Orden, ¡las runas inextinguibles formaron otra capa alrededor de sus tres divinidades supremas!

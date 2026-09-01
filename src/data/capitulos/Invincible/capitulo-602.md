@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 602: Capturar Bestias Demoníacas del Reino de Dios"
 numero: 602
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras los ocho estaban inmersos en una risa desenfrenada, un repentino y abrumador dragón descendió sobre ellos, vasto y profundo, impactando a los ocho maestros del Décimo Reino de Dios. Al darse la vuelta para mirar, ninguno de ellos pudo decir cuando un enorme dragón dorado de cinco garras apareció detrás de ellos.

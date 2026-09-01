@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 774: Un Wang Na horrorizado"
 numero: 774
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 No mucho después de que Huang Xiaolong dejara la mansión de Feng Yang, llegó a la Cordillera de la Inundación Roja.

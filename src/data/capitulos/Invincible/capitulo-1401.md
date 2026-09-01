@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1401: Cuarenta millones"
 numero: 1401
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Anciana, Old Tong sonrió amablemente. "Bien, bien, bien, siempre que te guste, mi pequeña princesa".

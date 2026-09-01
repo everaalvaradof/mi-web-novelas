@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 675: No hay necesidad de arrodillarse"
 numero: 675
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Lin Yanhan se puso eufórico cuando vio que se acercaba el dueño del restaurante.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1428: Accidentalmente herido"
 numero: 1428
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pasaron varios meses en un abrir y cerrar de ojos.

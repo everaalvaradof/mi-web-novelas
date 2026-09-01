@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1466: Primer encuentro con Sun Shihai"
 numero: 1466
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 He Lai y Luo Yun rápidamente agitaron las manos y dijeron: "No, no, no nos atrevemos a aceptar un saludo tan alto".

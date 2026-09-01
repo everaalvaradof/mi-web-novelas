@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1275: Yellow Springs Magic Robe"
 numero: 1275
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aunque la residencia que Huang Xiaolong había comprado en Void Sky City estaba aislada, le costó dos billones de shenbi. Por otra parte, en este momento dos billones no era mucho para él.

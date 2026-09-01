@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1444: Por debajo de 1000 años"
 numero: 1444
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong asintió y aceptó el talismán de comunicación de He Lai.

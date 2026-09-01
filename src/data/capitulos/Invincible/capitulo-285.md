@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 285: Gran Sonido Yin Demoníaco"
 numero: 285
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cui Duojie se burló con frialdad al ver la figura que se iba de Huang Xiaolong. "Huang Xiaolong, ¿verdad?" Un resplandor frío brilló rápidamente en sus ojos.

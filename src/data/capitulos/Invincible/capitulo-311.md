@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 311: Palacio del Rey Fantasma"
 numero: 311
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dentro de la Ciudad Fantasma, un olor muy espeso a sangre se quedó en el aire. Los signos de muerte y masacre aparecieron en cada esquina...

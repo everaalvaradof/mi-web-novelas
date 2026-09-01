@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1766: Rey de los idiotas"
 numero: 1766
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Di Jing realmente no se preocupaba demasiado por Huang Xiaolong. Incluso el Emperador Del Dios Demonio y el Joven Maestro del Palacio del Emperador del Brillo no entraron en su vista; sin mencionar que incluso el Joven Maestro del Emperador Grandmista, Li Junhua, no fue una excepción. Entonces, ¿quién en el mundo era Huang Xiaolong para él?

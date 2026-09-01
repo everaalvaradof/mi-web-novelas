@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1033: La identidad real de la vaquita Wang Dafeng"
 numero: 1033
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Hermana mayor Liu Yan, ¿qué vamos a hacer?" Estaba claro que Lin Hui estaba extremadamente nerviosa cuando preguntó esto.

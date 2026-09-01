@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 679: ¿Quién dijo que pasó la evaluación?"
 numero: 679
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En el segundo siguiente, el dragón largo hecho de hierbas comenzó a moverse, difundiendo un ligero aroma a hierbas.

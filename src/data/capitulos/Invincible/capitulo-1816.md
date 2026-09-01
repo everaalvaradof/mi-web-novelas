@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1816: ¡Eres el Nuevo Señor del Infierno!"
 numero: 1816
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La energía radiante de los dos Ángeles del Resplandor de catorce alas suprimió y bloqueó el violento y nefasto qi rodando desde arriba.

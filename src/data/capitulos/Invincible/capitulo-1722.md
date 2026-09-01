@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1722: Pedazo de mierda Rey Inferior"
 numero: 1722
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La rama dentro de la Ciudad de la Tumba de la Muerte proporcionó a todas las demás ramas de la Organización del Rey del Inframundo en el Mundo de los Espíritus medicinas espirituales. Debido a esto, la rama en la Ciudad de la Tumba de la Muerte era importante.

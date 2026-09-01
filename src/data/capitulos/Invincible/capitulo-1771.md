@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1771: ¿Encontrarte con una suerte de mierda de perro?"
 numero: 1771
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras Gudu Canyang estaba rígido con una fea expresión de incredulidad en su rostro, la multitud en la plaza estaba furiosa.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1258: El Descendiente de Wan Xiang"
 numero: 1258
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cinco años no fue ni un período largo ni corto; pasa en un abrir y cerrar de ojos para los cultivadores.

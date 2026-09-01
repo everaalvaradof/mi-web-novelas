@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1675: Alianza de Tres Lados"
 numero: 1675
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Saludos. Soy Zhang Tianle, y es un honor para mí ser su subastador por hoy". Tan pronto como el subastador llegó al escenario, saludó a todos de manera respetuosa.

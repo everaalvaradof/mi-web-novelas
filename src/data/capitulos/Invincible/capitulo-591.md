@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 591: Odio ser amenazado más"
 numero: 591
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡¿Qué pasó?!" El corazón de Huang Xiaolong también se hundió, teniendo una mala premonición incluso antes de que Zhao Shu hablara.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 284: Secta del Santo Veneno"
 numero: 284
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿Dos mujeres de la familia Cui? Esta oración llamó la atención de Huang Xiaolong.

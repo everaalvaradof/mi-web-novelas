@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1106: Divinidades del Reino de Dios Antiguo"
 numero: 1106
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Esta asombrosa energía espiritual!

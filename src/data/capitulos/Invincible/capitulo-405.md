@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 405: Hemos estado esperando mucho tiempo por ti"
 numero: 405
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡¿Huang Xiaolong ?!" Ese Líder del Dominio se sorprendió, pero saludó con elegancia y luego se retiró del gran salón a toda prisa para notificar a Liu Yang y Li Molin de Deidades Templarias.

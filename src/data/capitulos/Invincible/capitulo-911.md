@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 911: ¡El talento de Zhou Yao es realmente así de asombroso!"
 numero: 911
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Ante los ojos emocionados de la gran multitud, un impactante estallido de demonio qi se liberó del cuerpo de Mo Su, barriendo en todas direcciones.

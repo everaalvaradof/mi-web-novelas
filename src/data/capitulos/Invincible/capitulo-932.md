@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 932: Mo Su Herido"
 numero: 932
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿Crear problemas? Escuchar a Wang Zhe acusándolo de causar problemas llevó la paciencia de Huang Xiaolong al límite. Un brillo afilado cruzó por sus ojos.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 323: Entrar en la Cueva de Cultivo del Rey Fantasma"
 numero: 323
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Inicialmente, el enfoque de Zhao Chen estaba pegado únicamente en Huang Xiaolong solo, pero cuando notó que sus varios subordinados medio santos eran asesinados fácilmente en apenas un respiro, y sintiendo el aura fantasma sin reservas que fluía del cuerpo del gigante, la expresión de su rostro se convirtió en tenso: "¡Fantasma!"

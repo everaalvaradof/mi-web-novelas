@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 93: Prueba de Avance de Clase"
 numero: 93
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong miró fijamente la camada de Perlas del Dragón de Fuego y un pensamiento repentinamente cruzó por su mente: sacó una fruta cícada del Anillo Asura.

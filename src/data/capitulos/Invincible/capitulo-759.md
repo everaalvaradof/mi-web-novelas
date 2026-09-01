@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 759: Subyugando a Tres Grandes Maestros del Reino de los Dioses Altos"
 numero: 759
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Solo el Emperador Dragón Ao Taiyi permaneció imperturbable.

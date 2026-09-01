@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1469: Arreglos de Alojamiento"
 numero: 1469
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Inicialmente, Huang Xiaolong había planeado saltarse la gran ceremonia de aprendizaje de Sun Shihai y Peng Xiao, pero como Zhao Lei lo había dicho, Huang Xiaolong solo pudo cumplir, "Sí, Maestro".

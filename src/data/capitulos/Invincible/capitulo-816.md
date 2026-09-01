@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 816: '¡Es el Rey Píldora Huang Xiaolong!'"
 numero: 816
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar que el siguiente artículo de la subasta era el fragmento de la divinidad del Dios celestial, la espalda de Huang Xiaolong se enderezó un poco.

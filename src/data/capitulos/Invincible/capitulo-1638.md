@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1638: El Corazón del Infierno"
 numero: 1638
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En verdad, no fue solo el Plano Mohe, sino todo el Mundo Asura, no, de hecho, ¡fueron los expertos de los tres mundos del Infierno, quienes sintieron fuertemente que algo fue quitado al mismo tiempo!

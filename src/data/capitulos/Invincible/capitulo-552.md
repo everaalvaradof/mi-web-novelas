@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 552: Invocando las puertas del infierno"
 numero: 552
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sí, después de refinar el embrión espiritual innato, ¡la habilidad que obtuvo Huang Xiaolong fue transformar la energía espiritual pura dentro del vacío en piedras espirituales!

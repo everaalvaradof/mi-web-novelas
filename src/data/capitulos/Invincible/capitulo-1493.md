@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1493: Salida"
 numero: 1493
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Yao Chi estaba perdida en sus pensamientos mientras miraba hacia el Reino Divino de la Fortuna en la distancia.

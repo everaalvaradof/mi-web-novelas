@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1884: ¡Es Cang Mutian! ¡Retírense!"
 numero: 1884
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Cang Yuanzong vio lo que había sucedido, una expresión de horror apareció en su rostro.

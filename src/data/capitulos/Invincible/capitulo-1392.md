@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1392: El Clan Longwu"
 numero: 1392
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ingresar al continente del dragón marcial, Huang Xiaolong inmediatamente sintió un robusto dragón qi que venía de las profundidades del continente.

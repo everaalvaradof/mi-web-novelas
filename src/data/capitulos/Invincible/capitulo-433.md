@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 433: ¡Arte Xumi Divino!"
 numero: 433
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sin las preocupaciones sobre la seguridad de Shi Xiaofei, Huang Xiaolong quería luchar contra este Joven Señor del Culto al Dios del Cosmos. Actualmente no quería usar los escarabajos del cadáver venenoso.

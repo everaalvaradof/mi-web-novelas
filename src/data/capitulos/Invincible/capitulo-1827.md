@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1827: Devorando los Antiguos Gusanos del Trueno"
 numero: 1827
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡El gruñido lívido del Príncipe Celestial Di Jing fue conmovedor, y estaba lleno de profunda falta de voluntad, insatisfacción, odio a la autocompasión y desconcierto!

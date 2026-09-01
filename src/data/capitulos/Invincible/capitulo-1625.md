@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1625: ¡Arrástralo!"
 numero: 1625
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Señor Jia Yuan, ¿cómo deberíamos manejar este asunto?" Uno de los capitanes de la Guardia Inferior preguntó preocupado mientras miraba a Jia Yuan.

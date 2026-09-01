@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 912: La Cabeza de Dios de Mo Su"
 numero: 912
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El entorno del segundo piso era un bosque primitivo, estaba lleno de árboles imponentes que daban sombra al suelo. Cada árbol tenía un tronco tan grueso que se necesitarían diez hombres adultos para abrazarlo, pero lo que es más importante, ¡cada uno de ellos era un árbol de loto negro de fuego escarlata extremadamente raro!

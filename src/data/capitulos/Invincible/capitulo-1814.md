@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1814: Haciendo un agujero a través de un planeta"
 numero: 1814
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Una de las extrañas bestias apuntó directamente su ataque al Emperador del Dios Demonio Feng Chu, mientras que la otra bestia extraña se sumergió en el grupo de los Antepasados del Palacio del Emperador del Dios Demonio. Se produjo una ráfaga de explosiones.

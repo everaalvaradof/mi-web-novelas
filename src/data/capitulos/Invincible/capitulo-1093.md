@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1093: Marioneta diabólica nefasta del Reino de Dios Antiguo"
 numero: 1093
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong asintió con la cabeza después de escuchar la explicación de la vaca.

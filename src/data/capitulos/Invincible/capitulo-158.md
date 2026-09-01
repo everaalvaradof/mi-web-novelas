@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 158: El viaje al Imperio Duanren"
 numero: 158
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar en persona que Huang Xiaolong estaba a medio paso de irrumpir en el reino de Xiantian, tanto Zhao Shu como Yu Ming se sorprendieron enormemente en sus corazones. Pero, de nuevo, Huang Xiaolong no mencionó que su fuerza interna ya había alcanzado un nivel comparable a la fuerza de un experto en el reino Xiantian. Quizás si Zhao Shu y Yu Ming supieran que el Haotian de la Segunda Orden Xiantian ya no era un oponente para Huang Xiaolong y excedía a Fei Hou en fuerza, ¡se quedarían estupefactos como pollos de madera!

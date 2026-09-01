@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 25: La Asamblea Anual del Clan está aquí de nuevo"
 numero: 25
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En la montaña trasera, después de pasar un tiempo practicando Tempestad del infierno, Huang Xiaolong continuó con la Espada Ejecutar Demonio.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1697: Dieciséis Alas"
 numero: 1697
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A medida que la energía de la luz sagrada continuó reuniéndose, se precipitó hacia el cuerpo de Huang Xiaolong, y la energía del elemento de luz dentro de su cuerpo aumentó rápidamente. Su Innumerable Divinidad Suprema de Buda brillaba con un resplandor deslumbrante que nadie podía ver.

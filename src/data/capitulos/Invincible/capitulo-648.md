@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 648: Saludando a la Luna Ascendente Superior"
 numero: 648
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Por primera vez, el terror se apoderó del corazón de Wang Na!

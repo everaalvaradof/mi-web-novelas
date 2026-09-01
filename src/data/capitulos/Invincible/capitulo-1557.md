@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1557: ¡El Gran Rey!"
 numero: 1557
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras los bárbaros lloraban lágrimas de alegría, Huang Xiaolong, que había absorbido todo el rayo divino del caos del elemento tierra, abrió los ojos y exhaló una bocanada de qi turbio.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 947: Tomando el control del Clan del Diablo Antiguo"
 numero: 947
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sometidos a la mirada fría y despiadada de Huang Xiaolong, los maestros restantes del clan diablo sintieron una frígida frialdad envolviendo sus corazones, nadie se atrevió a pronunciar un sonido.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 59: ¿Recibir a Huang Xiaolong como discípulo personal?"
 numero: 59
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong miró a Xiong Meiqi y se burló con frialdad: "La apuesta de evaluación de los nuevos estudiantes, no la has olvidado, ¿verdad?"

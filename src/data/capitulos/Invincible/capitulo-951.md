@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 951: El Camino al Infierno"
 numero: 951
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La vivienda de cultivo del Ancestro de la Puerta de la Fortuna no estaba rodeada de raras hierbas o frutas espirituales. Era simplemente la cabaña de pasto seco más común, construida con madera ordinaria de fácil obtención, simple, sencilla, muy parecida a un Shangri-la escondido.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 935: Li Lu, ¿eres tú?"
 numero: 935
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong apartó la mirada de la terraza principal y recorrió con la mirada al resto de los participantes.

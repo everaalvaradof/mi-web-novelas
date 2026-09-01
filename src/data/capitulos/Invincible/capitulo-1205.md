@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1205: ¿Hu Dan?"
 numero: 1205
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Yo... será mejor que no entre." Mirando la Mansión de los Dioses Miríada, los pies de Li Lu dejaron de moverse y negó con la cabeza.

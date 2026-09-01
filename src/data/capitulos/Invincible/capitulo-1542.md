@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1542: Nos iremos cuando queramos"
 numero: 1542
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Tian Ziyi, Bai Yunxiang y los discípulos que estaban a punto de irse se detuvieron en seco.

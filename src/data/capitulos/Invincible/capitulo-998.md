@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 998: Palma de fuego del corazón de la llama carmesí"
 numero: 998
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Fue a la Isla del Volcán?" La boca de Chen Jinzhi se curvó en una mueca de burla, luego se puso de pie y salió volando de su vivienda de cultivo hacia Winged Tiger City.

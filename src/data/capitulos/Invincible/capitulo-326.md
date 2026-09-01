@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 326: El Rey Fantasma Dan y el Sutra del Rey Fantasma"
 numero: 326
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pero, se demostró que la precaución adicional de Huang Xiaolong era superflua. Viajando en el mar de niebla fantasma, ni una brizna logró filtrarse dentro del Monte Divino Xumi. Media hora después, Huang Xiaolong exhaló aliviado.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1612: Organización del Rey del Mundo de las Tinieblas"
 numero: 1612
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Rey del Inframundo". Los ojos de Huang Xiaolong parpadearon.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1749: ¡Grandes Palabras!"
 numero: 1749
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Huang Xiaolong, agoté mi potencial para cultivar un arte prohibido para poder matarte hoy! ¡Antes de hacerlo, quiero derrotarte personalmente para lavar toda la humillación que me diste!" La intención asesina de Sun Shihai alcanzó su punto máximo, y gruñó: "Huang Xiaolong, haz tu movimiento. ¡No creo que puedas dañar un solo cabello en mi cuerpo!"

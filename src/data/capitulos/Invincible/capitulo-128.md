@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 128: Encuentro con Jiang Teng de nuevo"
 numero: 128
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Un rato después, Sun Zhang y Xiong Chu llegaron al Salón Sagrado.

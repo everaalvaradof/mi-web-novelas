@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 521: Los diez mejores del Instituto Guerrero Negro"
 numero: 521
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Como si sintiera las dudas de Huang Xiaolong, Zhao Shu se encargó de explicar: “Aparte de la selección de admisión de discípulos una vez cada doscientos años, hay otro método para ser admitido dentro del Instituto Guerrero Negro sin pasar por el proceso de selección. Cada Gran Anciano, Subdirector de Instituto y Director de Instituto tiene derechos especiales que les permiten reclutar directamente a un discípulo ".

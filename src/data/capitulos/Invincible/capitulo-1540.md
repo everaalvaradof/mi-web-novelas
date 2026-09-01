@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1540: ¿De qué secta sois?"
 numero: 1540
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Poco después, el Caos Negro del Caos sacó los tesoros que había escondido en el espacio oscuro y se los ofreció a Huang Xiaolong.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 713: Dominando el Fuego Divino de la Tortuga Negra"
 numero: 713
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Durante el tiempo que estuve ausente, ¿estaban bien todos y el Mundo de los Espíritus Marciales?" Preguntó Huang Xiaolong, sin dirigir la pregunta a nadie en particular.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 905: La Torre del Infierno y el Camino al Infierno"
 numero: 905
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Ir a City of Devils puede ayudar a mejorar mi fuerza en poco tiempo?" Huang Xiaolong le preguntó al Anciano de la Luna Ascendente.

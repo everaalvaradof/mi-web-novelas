@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 367: Orden Asura"
 numero: 367
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar la respuesta de Zhao Shu, Huang Xiaolong se sintió aliviado, pero luego, al recordar el asunto de selección de discípulos de las Deidades Templarias, se sintió un poco deprimido por haberlo perdido. Parece que necesitaba pensar en otro método para rescatar a Li Lu.

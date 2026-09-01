@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1361: Gratitud al Maestro"
 numero: 1361
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando el elefante divino miró a Huang Xiaolong, también lo hicieron todos los del grupo del Clan de los Diez Mil Elefantes.

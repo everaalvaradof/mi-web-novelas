@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1082: Tian Juaner"
 numero: 1082
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El élder Zhang Peng terminó de declarar las condiciones para registrarse para la selección de tareas.

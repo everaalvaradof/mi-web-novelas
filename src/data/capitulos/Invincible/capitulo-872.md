@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 872: Encuentro con Wangu Yanhui"
 numero: 872
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras You Wuye observaba a Huang Xiaolong acercándose a cada paso, su rostro se volvió una fracción más pálido. Luego, como si recordara algo, exclamó: "¡¿Tú, eres ese Huang Xiaolong ?!"

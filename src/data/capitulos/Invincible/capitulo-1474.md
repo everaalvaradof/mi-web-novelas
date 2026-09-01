@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1474: La Ceremonia de Aprendizaje"
 numero: 1474
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al mirar la pila de 431,250 piedras espirituales de grado nueve superior en el piso, la risa de Sun Shihai se ahogó en su garganta. También lo hicieron Liu Qin, Fu Feiyu y la risa de los demás.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 827: Atrapados"
 numero: 827
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong no pudo extender su sentido divino más allá de cien zhang. Además de eso, estaba la fuerza gravitacional pesada siempre presente del gas blanco, Huang Xiaolong solo podía avanzar lentamente hacia adelante. Dentro de esta antigua Formación de Tragar Demonio Corazón, necesitaba hacer una pausa después de cada paso que daba.

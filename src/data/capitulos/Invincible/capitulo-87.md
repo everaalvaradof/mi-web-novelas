@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 87: Que Coman en el Piso de Abajo"
 numero: 87
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar esto, el cuerpo de Huang Peng se puso rígido en el acto y, como él, Su Yan también estaba estupefacto; solo los dos pequeños, Huang Min y Huang Xiaohai estaban mirando la carne asada con ojos brillantes. Ninguno de los dos entendió el significado real de las palabras de Huang Xiaolong cuando dijo que la Secta de la Gran Espada había encontrado a la gente de la Mansión del Clan Huang.

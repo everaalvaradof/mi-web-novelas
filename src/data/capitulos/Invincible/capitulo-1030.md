@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1030: El Tesoro de la Secta Zhenyu"
 numero: 1030
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar eso, la alegría apareció en el rostro de Huang Xiaolong mientras cruzaba la distancia hacia la pequeña vaca en unos pocos pasos rápidos.

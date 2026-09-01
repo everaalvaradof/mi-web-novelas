@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1783: Matar a ese Peng Xiao"
 numero: 1783
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Han Qing inmediatamente llamó a su lado al discípulo del Palacio del Emperador Grandmista, Wu Yanxi. Ella exhortó con una cara radiante: "Más tarde, en el escenario de la batalla, debes hacer todo lo posible. Más importante aún, nunca le des a ese Peng Xiao la oportunidad de admitir la derrota.

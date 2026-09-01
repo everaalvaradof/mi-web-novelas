@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1495: Gran Señor"
 numero: 1495
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de separarse de Fang Xuanxuan, Huang Xiaolong voló una vez más a los Jardines del Palacio del Dragón Tigre.

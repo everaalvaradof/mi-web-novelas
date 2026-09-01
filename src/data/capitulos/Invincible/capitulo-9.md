@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 09: Cuchillas de Asura"
 numero: 9
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pasando a la primera página de Asura Tactics, un par de ojos rojo sangre parecieron saltar de la página. Una ilustración humanoide de un Asura de pie con la parte superior del cuerpo al descubierto, revelando músculos tensos y una cabeza de cabello blanco.

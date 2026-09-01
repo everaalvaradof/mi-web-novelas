@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1569: Sun Shihai se apunta"
 numero: 1569
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Senior Huang planea participar en las selecciones?"

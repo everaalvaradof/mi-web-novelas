@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 820: La Cueva del Diablo"
 numero: 820
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se tambaleó una y otra vez debido a la fuerza de la colisión antes de recuperar el equilibrio después de varios li. Cuando lo hizo, un dolor entumecedor recorrió todo su cuerpo. Huang Xiaolong entró en pánico, arrojó rápidamente una Píldora Divina de Cien Vidas de Primavera Otoño en su boca e inició la Recuperación Instantánea para sanar. Solo entonces se sintió un poco mejor.

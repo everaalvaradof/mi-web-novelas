@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 545: ¡¿Ya los has refinado a todos?!"
 numero: 545
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Muy pronto, se difundió la noticia de que el director del Instituto Guerrero Negro recibió a Huang Xiaolong como discípulo personal, enviando grandes olas a la galaxia. Al mismo tiempo, la puntuación final de Huang Xiaolong en la evaluación de nuevos discípulos también se extendió.

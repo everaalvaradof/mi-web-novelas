@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 498: Unificando el Continente de las Diez Direcciones"
 numero: 498
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Todos, salid conmigo!" Li Lu gritó y fue el primero en volar hacia la apertura. Los otros expertos de Deidades Templarias estaban encantados, corriendo rápidamente hacia el desgarro en la matriz para escapar por sus vidas.

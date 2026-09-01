@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 941: Medio Año"
 numero: 941
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver a los dragones qi arremolinándose hacia él, Huang Xiaolong activó su Dios Supremo Archidevil, provocando que corrientes turbulentas de la fuerza divina del elemento oscuridad salieran de su cuerpo y cubrieran toda la longitud del río Dan, formando una Barrera Archidevil.

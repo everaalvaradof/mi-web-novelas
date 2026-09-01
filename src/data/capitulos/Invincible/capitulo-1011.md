@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1011: '¡Te ayudaremos a dar una lección a ese gamberro!'"
 numero: 1011
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong había leído más de una docena de manuales de técnicas de cultivo y arte de batalla cuando la matriz de restricción de su mansión tembló brevemente. Desconcertado, Huang Xiaolong salió a comprobar y vio al Gran Anciano Lin Shen, el Anciano Huang Xiaoming, Jiang Yan y algunos otros parados afuera.

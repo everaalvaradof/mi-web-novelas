@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 812: Quiero devorarte"
 numero: 812
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El dueño de la posada no se atrevió a aceptar la piedra espiritual de grado divino superior de Huang Xiaolong sin importar nada. No bromees, después de presenciar su horrible fuerza, hiriendo a dos maestros del Reino de Dioses Altos de la Primera Orden en un solo movimiento, el dueño de la posada tenía demasiado miedo de aceptar el pago de Huang Xiaolong.

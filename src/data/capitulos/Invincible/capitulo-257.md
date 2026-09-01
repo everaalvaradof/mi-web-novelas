@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 257: ¡Saludando al Joven Señor!"
 numero: 257
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong entendió lo que Du Xin quería decir, pero negó con la cabeza diciendo "No es necesario". Aún no había llegado el momento de actuar.

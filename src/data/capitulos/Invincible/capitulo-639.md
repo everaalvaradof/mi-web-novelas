@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 639: Baldy Zhang"
 numero: 639
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Baldy Zhang, este era el apodo del Anciano de la Luna Ascendente para el Ancestro de la Familia Zhang. El Anciano Ascendente le dio este apodo porque el cuero cabelludo del Ancestro de la Familia Zhang era tan árido como un desierto.

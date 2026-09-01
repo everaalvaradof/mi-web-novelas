@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 775: Encuentro con el Patriarca de la Familia Jiang"
 numero: 775
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Según tu criterio, ¿cuál es la fuerza de Huang Xiaolong ahora?" Wang Na cuestionó con voz sombría.

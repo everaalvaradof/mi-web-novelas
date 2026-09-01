@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1283: Es inútil aunque lo intentes"
 numero: 1283
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Todos, podemos empezar ahora". Mientras la bola de cristal flotaba en el centro de la sala, Feng Er dijo moviendo sus labios rojo cereza.

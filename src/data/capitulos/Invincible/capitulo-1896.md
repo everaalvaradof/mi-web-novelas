@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1896: Nos iremos ahora"
 numero: 1896
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong miró a la criatura helada a su lado, y se quedó atónito por un segundo. ¡Resulta que este tipo es un Dragón de Hielo! No es de extrañar que pueda sentir la línea de sangre de un dragón corriendo por sus venas.

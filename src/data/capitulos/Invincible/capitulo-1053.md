@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1053: Resulta que era una cabeza de dios de alto rango"
 numero: 1053
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El joven sirviente casi gritó, atrayendo la atención de Lu Zhuo y Gu Ling al presente. Sin embargo, sus corazones aún temblaban por la incredulidad que les trajo la noticia de que Huang Xiaolong podría dañar al Reino de Dios Celestial de la Sexta Orden, Cao Feng.

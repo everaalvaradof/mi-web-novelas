@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1747: Huang Xiaolong ha vuelto"
 numero: 1747
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong se apresuraba a regresar al Palacio del Emperador fortuna, Fang Xuanxuan y Peng Xiao se estrellaban contra la barrera de la luz ante ellos con todas sus fuerzas.

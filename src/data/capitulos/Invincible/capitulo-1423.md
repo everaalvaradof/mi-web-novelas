@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1423: Un objeto del infierno"
 numero: 1423
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar eso, Huang Xiaolong enderezó la espalda, ¡un artículo de la era de las abuelas!

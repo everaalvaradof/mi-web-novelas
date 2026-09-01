@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1446: Peng Xiao"
 numero: 1446
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El discípulo de la secta interior se congeló por una fracción de segundo, pero pronto se rió cuando respondió a Huang Xiaolong: “Hay esperanza, pero los Maestros del Salón tienen requisitos extremadamente estrictos al aceptar discípulos personales. Incluso si logra ingresar a los cien primeros rankings, debe tener al menos una deidad de rango superior de emperador para atraer la atención de un Maestro de Salón. Hermano, tienes un físico fuerte, pero tu rango de divinidad está ligeramente por debajo de ese requisito. Por otra parte, si pudieras llegar a los cien primeros puestos con tu talento, entonces podría haber una posibilidad de que un Gran Anciano te aceptara como discípulo personal ".

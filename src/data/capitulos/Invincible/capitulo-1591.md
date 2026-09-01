@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1591: Viniendo a saludar"
 numero: 1591
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al observar las expresiones en los rostros de Zhang Renjie, Han Qing y Wu Tianhe, los expertos de los otros Palacios Emperadores sintieron curiosidad por la identidad del joven Liu Rui.

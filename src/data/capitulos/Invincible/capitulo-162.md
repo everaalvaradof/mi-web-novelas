@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 162: ¿A punto de atravesar el Reino Xiantian?"
 numero: 162
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Todos los Ancianos de la Secta de la Gran Espada en ese salón principal se pusieron pálidos por el miedo, la desesperación y el desaliento.

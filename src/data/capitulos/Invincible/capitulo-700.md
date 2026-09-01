@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 700: Volviendo a la Mansión del Clan Huang"
 numero: 700
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Posteriormente, Huang Xiaolong también escuchó información relacionada con los muchos expertos de las familias Ying y Zhao que vinieron a Martial Spirit World.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 73: La Competición de la Academia Llega a su Fin"
 numero: 73
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Lu Kai estaba asustado al ver los dos grupos de ciclones de la Tempestad del Infierno que lo envolvían. ¡El llanto emitido por ellos hizo que su corazón se estremeciera!

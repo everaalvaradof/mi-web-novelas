@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1500: Kiddo Yang"
 numero: 1500
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Originalmente, Bei Xiaomei había dudado de las palabras de la vaca. Mientras se dirigía a ver a su padre, había dudado en interrumpir la reunión de su padre, pensando si debería volver. Pero ahora, viendo la reacción de su padre…, ¿ podrían ser ciertas las palabras de la vaca? ¿Ella y su padre se conocen realmente?

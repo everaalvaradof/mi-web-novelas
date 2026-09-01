@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 986: La invitación del Fuerte de la Familia Tie"
 numero: 986
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los ojos de Tie Chengdong miraron a su alrededor por un momento, luego se acercaron a Tie Qianyuan y dijeron: “Fort Lord, lo que dijo Tie Yang es razonable. Dado que esta persona puede robar el manual de técnica, es muy probable que haya recibido ayuda desde adentro, y Huang Xiaolong es el mayor sospechoso ".

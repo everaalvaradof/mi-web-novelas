@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1147: Bladeless Gate Young Lord"
 numero: 1147
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La pequeña vaca también reconoció a Hun Dishan y resopló fríamente, con un brillo malicioso en sus ojos.

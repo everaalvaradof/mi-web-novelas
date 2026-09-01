@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1341: Grandmist Aura"
 numero: 1341
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando el cultivo de Huang Xiaolong todavía estaba en el Reino del Dios Antiguo del Octavo Orden, solo podía cortar una docena de qi de cuchillo rojo sangre. Pero ahora, con un solo corte, había más de doscientos qi de cuchillo de sangre.

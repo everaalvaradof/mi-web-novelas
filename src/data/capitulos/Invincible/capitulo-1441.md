@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1441: ¿Cuál es el más barato?"
 numero: 1441
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Fang Xuanxuan miró a Huang Xiaolong con duda. Aunque Huang Xiaolong había demostrado parte de su fortaleza financiera durante la oferta por las Frutas Divinas del Fénix Blanco Llameante, dudaba que él obtuviera una residencia en Ciudad Nevada con un par de millones de piedras espirituales de bajo grado siete.

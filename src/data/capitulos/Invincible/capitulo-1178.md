@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1178: Arte Divino del Dragón de Tierra"
 numero: 1178
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Di Fei recogió el token de registro de todos y, al comprobarlo, notó de inmediato que tanto Huang Xiaolong como Hu Qi estaban clasificados entre los cien primeros en la ronda preliminar. Di Fei frunció el ceño y miró hacia el escenario principal, pero al final no dijo nada.

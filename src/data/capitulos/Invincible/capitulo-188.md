@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 188: La conexión entre Zhao Shu y Duan Ren"
 numero: 188
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al darse cuenta de que Huang Xiaolong lo miraba, Zhao Shu asintió levemente, indicando que debería llamar directamente al Emperador Duanren por su nombre en el futuro.

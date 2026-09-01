@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 976: Volviendo a la Ciudad Divina Dan"
 numero: 976
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Li Lu asintió dócilmente, parándose junto a Huang Xiaolong.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 339: Absorbiendo al Rey Fantasma Dan"
 numero: 339
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Zhao Shu y Zhang Fu estaban estupefactos.

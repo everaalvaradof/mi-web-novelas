@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 42: Guerrero Xiantian"
 numero: 42
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Meng Xia miró el cuerpo de su padre que estaba cayendo mientras la sangre roja brotaba de su garganta. Abrió la boca y dejó escapar el grito más fuerte de toda su vida. Su rostro se puso pálido sin ningún color, sus ojos se pusieron en blanco y una vez más se mojó los pantalones.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 48: Calificación Revocada"
 numero: 48
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Li Lu abrazó a Huang Xiaolong, haciendo que las personas cercanas los miraran.

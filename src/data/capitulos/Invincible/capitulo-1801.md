@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1801: El tesoro de los abuelos"
 numero: 1801
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando la onda de choque de energía se precipitó hacia ellos, incluso los Emperadores de segunda orden sintieron una sensación de miedo creciendo en su corazón.

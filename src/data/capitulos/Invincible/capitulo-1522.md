@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1522: ¡Tienes Unas Agallas De Infierno!"
 numero: 1522
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Poco después, Tong Jiang llegó al palacio de cultivo de su maestro de salón Chen Xinde e informó brevemente del asunto a Chen Xinde.

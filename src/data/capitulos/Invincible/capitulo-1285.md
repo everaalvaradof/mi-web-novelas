@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1285: Heredando la posición de Señor de la Mansión Fantasma"
 numero: 1285
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong vaciló, luego su rostro se retorció y cambió. Volvió a su apariencia original.

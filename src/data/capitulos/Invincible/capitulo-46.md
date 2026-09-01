@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 46: Batalla en la Ciudad Imperial"
 numero: 46
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Registrarse para inscribirse en la Academia Cosmic Star?" Huang Xiaolong estaba aturdido.

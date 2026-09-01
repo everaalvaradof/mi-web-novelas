@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1027: El Reino de Jadeite"
 numero: 1027
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Saludos, joven señor!"

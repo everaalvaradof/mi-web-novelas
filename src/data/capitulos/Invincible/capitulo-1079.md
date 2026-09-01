@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1079: Bestia Emperador del Mar de la Llama Negra"
 numero: 1079
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La primera ciudad en la isla Dralion en la que entró Huang Xiaolong se llamó Joyous Ocean.

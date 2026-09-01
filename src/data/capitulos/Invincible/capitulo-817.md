@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 817: Dominio del Diablo Tierra Firme"
 numero: 817
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡2 billones!

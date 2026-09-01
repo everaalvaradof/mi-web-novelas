@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 426: El paradero de Shi Xiaofei"
 numero: 426
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Treasure City, el jardín trasero de Castellan Manor.

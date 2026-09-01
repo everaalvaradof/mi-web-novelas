@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 65: Regreso a la Ciudad Real"
 numero: 65
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Quién eres exactamente?" Wu Gan estaba asustado mientras miraba al Huang Xiaolong que se acercaba y soltó la pregunta.

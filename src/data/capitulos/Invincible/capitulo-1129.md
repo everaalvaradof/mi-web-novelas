@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1129: La Espada de la Serpiente Celestial Diabólica"
 numero: 1129
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Ancestro, ¿qué hacemos ahora?" Gu Ling parecía preocupado cuando se volvió hacia Lu Zhuo.

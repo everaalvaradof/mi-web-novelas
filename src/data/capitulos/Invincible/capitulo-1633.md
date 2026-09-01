@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1633: Entrando en la Tierra de la Herencia"
 numero: 1633
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "La Montaña Sagrada está a punto de aparecer, ¿no?" Song Litao de repente cambió de tema. Un destello de anticipación brilló en sus ojos.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 438: Gracias Por Su Hospitalidad"
 numero: 438
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Justo cuando el grupo de cuatro de Huang Xiaolong entró en el elegante patio, escucharon risas provenientes del interior del salón. Huang Xiaolong se sorprendió un poco, a juzgar por los sonidos de la risa, había dos personas en el pasillo.

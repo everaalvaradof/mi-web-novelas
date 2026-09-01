@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1025: Su nombre es He Cheng"
 numero: 1025
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 “Eso es así, eso es simplemente una excusa. Incluso si aceptamos sus demandas, no dejarán de buscar problemas ". Otro anciano de la familia Tie declaró con una expresión de preocupación.

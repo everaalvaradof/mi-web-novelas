@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 641: Ataque al Pico del Dragón Dorado"
 numero: 641
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Felicitaciones por avanzar al Reino de Dios del Séptimo Orden, Líder de la Liga!"

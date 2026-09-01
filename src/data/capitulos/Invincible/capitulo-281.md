@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 281: ¿Qué tipo de Palm Power es este?"
 numero: 281
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Qin Yang se paró frente a Huang Xiaolong, mirando a Lifei mientras decía: "Estoy muy decepcionado". Él valoraba más a este discípulo, no es de extrañar que estuviera decepcionado.

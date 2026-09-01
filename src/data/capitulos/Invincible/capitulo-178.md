@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 178: Batalla en la Ciudad Imperial (10)"
 numero: 178
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Yanggang dejó escapar un rugido animal hacia el cielo, y una vez más, una energía oscura entrelazada con un azul helado se extendió en cuatro direcciones desde el cuerpo de Yanggang cuando convocó a su espíritu marcial, la Bestia Celestial Yin.

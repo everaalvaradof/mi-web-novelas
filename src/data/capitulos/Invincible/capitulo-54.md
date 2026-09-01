@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 54: Evaluación de los nuevos estudiantes"
 numero: 54
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong asintió, "¡Tengo un método que te ayudaría a avanzar hacia el reino de Xiantian en cinco años!"

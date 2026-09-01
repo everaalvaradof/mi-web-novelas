@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1752: ¿Gran Señor?"
 numero: 1752
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los rostros de Li Shan y Chen Yirong perdieron todo su color mientras miraban a las cuatro bestias aterradoras.

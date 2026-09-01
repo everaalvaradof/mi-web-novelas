@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1800: La Aparición de las 16 Alas"
 numero: 1800
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 No era de extrañar que incluso Di Jun se conmoviera. ¡Cualquiera que supiera sobre el pasado probablemente reaccionaría de la misma manera!

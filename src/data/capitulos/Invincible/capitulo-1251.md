@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1251: Consecuencias"
 numero: 1251
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong levantó el puño por tercera vez, ya que planeaba romper los órganos internos de Wangu Ziyi, pero el patriarca del clan Wangu, Wangu Rui, que apenas había hablado, dijo de repente: “Mocoso, deberías detenerte antes de ir demasiado lejos. ¿Conoce las consecuencias de hacer esto? "

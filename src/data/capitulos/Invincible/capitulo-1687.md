@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1687: Ganar a esta persona"
 numero: 1687
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Qin Huangzhong se aturdió durante mucho tiempo mientras miraba la fruta sagrada condensada en la entrada que conducía hacia el tercer piso.

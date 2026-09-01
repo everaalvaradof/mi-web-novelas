@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 488: Escritura de la fuerza hercúlea de la deidad simia"
 numero: 488
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Zhou Yunpeng miró la espalda de Huang Xiaolong con incredulidad; ¡este joven no se movió ni un centímetro!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1811: La estrella del rey demonio"
 numero: 1811
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El Emperador del Brillo Lan Zhi calmó a las personas que discutían debajo con una presión de su mano en el aire. Todos inmediatamente dejaron de hablar.

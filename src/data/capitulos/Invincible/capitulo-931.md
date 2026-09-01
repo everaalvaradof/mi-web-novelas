@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 931: Reverencia en disculpa"
 numero: 931
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los discípulos del clan del diablo alrededor de Mo Su estallaron en una risa burlona, que sonó especialmente áspera para los oídos.

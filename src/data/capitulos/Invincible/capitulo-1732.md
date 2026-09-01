@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1732: La Puerta de los Nueve Yin"
 numero: 1732
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Estás represado!" Al escuchar la explicación de Huang Xiaolong, la voz de Yang Jing estaba inmensamente helada mientras pronunciaba cada palabra en un tono grave. Un látigo mágico apareció en su mano, y lo sacó a Huang Xiaolong en un movimiento de muñeca apto.

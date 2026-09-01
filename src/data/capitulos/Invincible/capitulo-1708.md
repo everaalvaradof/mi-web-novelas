@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1708: La crisis de Shi Yinyu"
 numero: 1708
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras que el grito angustiado del Viejo Ancestro chu Han de la Puerta de los Dioses Masacradores alarmó a la secta de arriba a abajo, la voz iracunda del Jefe de la Puerta de los Dioses Masacradores, Chu Gaofei, resonó en los oídos de todos, "¡Todos los Grandes Ancianos y superiores, corran al salón principal de inmediato!"

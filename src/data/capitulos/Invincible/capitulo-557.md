@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 557: Un suspiro"
 numero: 557
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sintiendo el poderoso impulso proveniente de Xie Ning, la multitud espectadora se tensó, incluidos Jiang Shaoze, Luo Kai, Long Fei Jun, Su Guo, Xu Shaoqing, Wu Xiaoshi, Yang Yue, todos los discípulos incluidos en los diez primeros puestos, excepto por Gudu Leng y Wang Biaoyuan, que permanecieron indiferentes. Ambos genios lograron velar la conmoción en sus corazones con la expresión indiferente en sus rostros, debido al creciente impulso de Xie Ning, era seguro decir que su cultivo había alcanzado su punto máximo a finales del Reino de Dios de la Primera Orden.

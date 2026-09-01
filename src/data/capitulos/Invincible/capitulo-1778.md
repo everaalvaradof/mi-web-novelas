@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1778: ¿Mataste a mi discípulo?"
 numero: 1778
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La sangre llovió desde el aire alto, empapando a los dos últimos del grupo.

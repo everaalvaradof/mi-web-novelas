@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 707: ¿Cuánta Gente Tiene El Otro Lado?"
 numero: 707
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras Huang Xiaolong observaba la aparentemente interminable extensión de agua blanca, diminutos pliegues arrugaron sus cejas. Frente a él estaba el Mar del Norte Negro, el mar más grande del Mundo del Emperador de la Paz, y también uno de los mares más fríos de toda la Galaxia Tortuga Negra.

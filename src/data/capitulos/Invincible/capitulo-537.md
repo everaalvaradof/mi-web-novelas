@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 537: Segundo día de evaluación"
 numero: 537
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Décimo lugar, Huang Xiaolong!

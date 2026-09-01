@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 375: Tofu suave"
 numero: 375
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Media hora después, el grupo de tres de Huang Xiaolong llegó a la Ciudad del Bendito Buda.

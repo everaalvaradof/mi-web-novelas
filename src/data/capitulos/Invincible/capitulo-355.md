@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 355: Escarabajos del Cadáver Venenoso"
 numero: 355
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El Castellano de Ciudad del Sol Naciente, Wang Cong, perdió la mitad de su vida al ver escapar a Li Molin y los Ancianos Templarios de las Deidades. Si se habían ido, ¿qué pasa con él? Incluso Yao Fei no era suficiente para que Huang Xiaolong 'jugara' con él. Si Huang Xiaolong quería matarlo, soplar unas cuantas respiraciones fue suficiente para cosechar su vida...

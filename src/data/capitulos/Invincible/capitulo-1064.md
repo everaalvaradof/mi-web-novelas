@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1064: Técnica de Marionetas del Gran Maestro"
 numero: 1064
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver el cuerpo de Zhao Chenyuan convertirse en una escultura de hielo romperse mientras se estrellaba contra el suelo, el corazón de Luo Hua se contrajo, la desesperación grabada en su

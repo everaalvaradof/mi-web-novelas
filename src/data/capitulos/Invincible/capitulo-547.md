@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 547: La Gran Ceremonia de Aprendizaje"
 numero: 547
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los ojos del joven de cabello granate estaban helados mirando a Huang Xiaolong, “Pequeño punk,

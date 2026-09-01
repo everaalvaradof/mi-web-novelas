@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1062: Perseguido por los expertos de las dos sectas"
 numero: 1062
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A Huang Xiaolong no le importó cuando escuchó por primera vez sobre la boda del joven señor de la familia Cao, pero ante la mención de que la novia era alguien del reino inferior y nació con un físico único, su corazón se estremeció un poco.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1875: Hillbilly"
 numero: 1875
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong vio a Huo Liuyun abalanzarse sobre él con el puño balanceándose. Sus tres divinidades supremas giraron, enviando una vigorosa fuerza divina a través de su Verdadero Físico de Dragón y Su Físico del Diablo Ascendente mientras su mano se golpeaba hacia adelante para encontrarse con el puño de Huo Liuyun.

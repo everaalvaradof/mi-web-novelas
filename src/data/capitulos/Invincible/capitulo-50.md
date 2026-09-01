@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 50: ¡Atrévete a herir al Joven Maestro!"
 numero: 50
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que Zhong Yuan terminó de hablar, Xiong Meiqi agregó con entusiasmo: “¡Eso es, papá! ¡Este desperdicio merece la muerte! Y no solo él, los tres guardias detrás de él también. ¡Es solo un desperdicio que depende de sus antecedentes familiares para ingresar a la Academia! "

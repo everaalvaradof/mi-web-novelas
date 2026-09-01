@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 493: Las Tribus y los Clanes Unen sus Manos"
 numero: 493
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se mantuvo erguido en el frente de la Plaza de los Nueve Dragones, con sus ojos agudos escaneando a los diversos patriarcas y expertos que esperaban en la plaza.

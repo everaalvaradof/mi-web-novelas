@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1195: Wangu Ziyi"
 numero: 1195
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Vamos, el Jefe de Secta y varios Ancestros nos están esperando". Al ver a Huang Xiaolong, Zhou Xu y el resto se quedaron aturdidos. Li Chaosheng habló y descendió de la Montaña de los Mil Espíritus.

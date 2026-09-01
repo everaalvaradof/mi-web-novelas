@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1634: Piscina de relámpagos de la Tortuga Negra del Caos"
 numero: 1634
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que los Netherguards títeres del Reino del Emperador entraron en la Ciudad de la Eternidad con Huang Xiaolong, desaparecieron en un parpadeo, y cada uno de ellos regresó a su propio puesto, protegiendo la Ciudad de la Eternidad.

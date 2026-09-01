@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 79: Huang Xiaolong vuelve a casa"
 numero: 79
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Batalla de la Ciudad Imperial!" Una luz parpadeó en los ojos de Huang Xiaolong.

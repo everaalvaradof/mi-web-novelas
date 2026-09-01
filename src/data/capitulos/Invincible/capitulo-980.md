@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 980: Recuperando la Fuerza"
 numero: 980
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong suspiró aliviado, enfocando un hilo de fuerza divina para llevar al pez a la orilla del río.

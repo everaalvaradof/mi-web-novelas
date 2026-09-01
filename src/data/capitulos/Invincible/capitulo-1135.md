@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1135: Subyugando a la Tribu de los Gigantes"
 numero: 1135
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡No tengo la habilidad!

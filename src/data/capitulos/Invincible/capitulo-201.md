@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 201: Los métodos de Chen Qingfeng"
 numero: 201
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Justo ahora fue un malentendido?" La mirada helada de Huang Xiaolong recorrió sus rostros como una tormenta de nieve, sin desacelerar su paso mientras seguía caminando más cerca de los Hermanos Guo.

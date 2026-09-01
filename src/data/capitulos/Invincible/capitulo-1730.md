@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1730: Entrando en la Cordillera de los Nueve Yin"
 numero: 1730
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Sí, joven Señor". El Ancestro de la Tribu de cadáveres gigantes de los Nueve Yin sonrió mientras continuaba, "Hace siete meses, Duwei apareció en la Ciudad de la Tumba de la Muerte". Su voz se volvió helada hablando de esto, "En ese momento, Gao Ning estaba asediando la Rama de organización del Rey del Inframundo de la Ciudad de la Tumba de la Muerte. Nadie esperaba que el punk apareciera de repente en Death Tomb City".

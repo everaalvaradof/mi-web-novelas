@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 903: Unirse, No Irse"
 numero: 903
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La lengua del Anciano del Instituto del Pájaro Bermellón temblaba mientras hablaba, sacudiendo la cabeza, incapaz de ocultar su inquietud, “¡Director del Instituto, que Huang Xiaolong, Huang Xiaolong no murió! ¡¡Él no murió !! "

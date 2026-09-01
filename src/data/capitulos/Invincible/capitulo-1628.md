@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1628: ¿Dos Dioses Supremos?"
 numero: 1628
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los cuatro se miraron y vieron la emoción desenfrenada y la alegría en los ojos del otro.

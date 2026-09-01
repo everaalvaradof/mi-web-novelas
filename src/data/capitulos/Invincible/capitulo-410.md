@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 410: ¡Una fragancia tan agradable!"
 numero: 410
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡El soberano Chen ganó!" "¡Nuestro soberano Chen ganó!"

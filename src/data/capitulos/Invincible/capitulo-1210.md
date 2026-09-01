@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1210: La expansión de la familia Ouyang"
 numero: 1210
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras el grupo de gente de Infinite Circles Commerce Hall elogiaba y suspiraba, el grupo de Huang Xiaolong alcanzó la matriz de transmisión.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 436: Nuestro Presidente no está"
 numero: 436
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La batalla de Cosmos God City hizo que Huang Xiaolong se diera cuenta de que su propia fuerza aún era demasiado inadecuada.

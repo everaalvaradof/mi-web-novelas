@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 434: La Espada del Dios de la Muerte"
 numero: 434
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar la repentina exclamación de Xie Hui, Huang Xiaolong decidió ignorar la confusión que lo rodeaba. Los varios cientos de brazos se movieron, lanzando la segunda ola de ataque justo en medio de los discípulos del Culto del Dios del Cosmos reunidos.

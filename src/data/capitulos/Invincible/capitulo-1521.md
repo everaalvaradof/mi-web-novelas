@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1521: Si Quieres Morir, Te Cumpliré"
 numero: 1521
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Alcanzó la cima del segundo nivel en menos de trescientos años!

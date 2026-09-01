@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1172: El descubrimiento de Li Lu"
 numero: 1172
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al salir del Depósito del Buda Fantasma, Huang Xiaolong descubrió que su posición en el ranking había caído al nonagésimo séptimo lugar al verificar su ficha.

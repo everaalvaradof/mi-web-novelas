@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1541: ¿Quién os ha dejado marchar?"
 numero: 1541
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Tian Ziyi escuchó la risa burlona de los que estaban debajo de él, se enfureció por completo.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 107: ¿Realmente es el Viejo Patriarca?"
 numero: 107
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿Crear problemas?

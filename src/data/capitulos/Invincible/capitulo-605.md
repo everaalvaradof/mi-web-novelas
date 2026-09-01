@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 605: La posesión de nuestra familia Zhu"
 numero: 605
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El Tigre de Resplandor Brillante de nueve colas fue golpeado hasta el punto en que apenas pudo convocar la voluntad para resistir, lo que permitió que la fuerza espiritual de Huang Xiaolong rompiera la barrera del mar del alma y dejara una huella del alma en su interior. Luego, los discípulos de la familia Zhu observaron en silencio mientras el perro muerto Tigre de Resplandor Brillante de Nueve Colas tragaba algunas bolitas desconocidas dadas por Huang Xiaolong, y en el siguiente segundo, su vitalidad regresó, volviéndose viva y enérgica como si nunca hubiera sido herido en la primera. lugar.

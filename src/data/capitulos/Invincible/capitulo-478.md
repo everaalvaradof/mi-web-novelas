@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 478: ¡Haré que te arrepientas de esto!"
 numero: 478
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Castellan Manor de Vermillion City.

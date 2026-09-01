@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 439: De vuelta a la sede de la Cámara de Comercio del Pabellón Dorado"
 numero: 439
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Hermano mayor Huang, ese Shao Dongjiang, ¿nosotros...?" Después de salir de la sede de la Cámara de Comercio del Pabellón Dorado, Shi Xiaofei no pudo resistirse a decir.

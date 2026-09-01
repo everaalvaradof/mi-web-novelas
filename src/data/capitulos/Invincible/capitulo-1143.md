@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1143: ¡Todo es nuestro!"
 numero: 1143
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los ojos de la pequeña vaca se entrecerraron solemnemente, ya que sintió que la persona que ingresaba a la formación era bastante poderosa, al menos un maestro del Reino de Dios Antiguo del Séptimo Orden.

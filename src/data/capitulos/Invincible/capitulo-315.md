@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 315: Espero que puedas pensarlo con claridad."
 numero: 315
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Du Huagang se detuvo ante Huang Xiaolong, dándole una mirada de arriba abajo de la cabeza a los pies mientras negaba con la cabeza, "Mocoso, no fue fácil para ti llegar tan lejos, siendo un pico de la Décima Orden Xiantian tardía significa que tu el talento no es malo. Si puedes seguir a un buen maestro, es posible que tengas un futuro brillante, pero es una lástima que te hayas cubierto bajo el árbol equivocado, ¡por lo tanto, solo puedes morir aquí hoy! "

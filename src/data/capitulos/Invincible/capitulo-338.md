@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 338: Comienza, Refinando el Anillo del Rey Fantasma"
 numero: 338
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Volvamos a la mansión". Huang Xiaolong dijo a la gente presente.

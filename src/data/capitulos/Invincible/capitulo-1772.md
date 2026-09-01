@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1772: Es hora de ponerse serio"
 numero: 1772
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "El rumor de que Huang Xiaolong acaba de avanzar al Reino del Monarca Celestial debe ser falso". El Jefe de la Secta de la Verdadera Divinidad, Wang Haojun, declaró con certeza.

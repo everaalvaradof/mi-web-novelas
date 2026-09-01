@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1321: El Poder del Dios del Mar"
 numero: 1321
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Eso es correcto." Feng Yingying respondió con certeza.

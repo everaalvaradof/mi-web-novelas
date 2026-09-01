@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1632: Rechazo de la Alianza"
 numero: 1632
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver la expresión de Huang Xiaolong, Fan Hui pudo adivinar débilmente los pensamientos que corrían por la cabeza de Huang Xiaolong. Explicó: "Maestro, tiene razón, la Tribu escorpión diablo de la Llama Verde es de hecho una fuerza bajo nuestra Organización del Rey del Inframundo".

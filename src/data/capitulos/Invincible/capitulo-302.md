@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 302: ¿Has oído hablar de los tesoros celestiales?"
 numero: 302
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Manteniendo la Eminente Santidad Alabarda en su cuerpo, Huang Xiaolong caminó hacia la cuarta cabaña cubierta de hierba. Dentro de la cuarta cabaña de pasto, había pinturas de mujeres hermosas colgadas en las paredes y no había nada más aparte de estas pinturas.

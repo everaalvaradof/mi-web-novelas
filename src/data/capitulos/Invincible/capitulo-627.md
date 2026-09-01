@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 627: Pellet Divino del Mar Ascendente"
 numero: 627
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En la práctica anterior a puerta cerrada, Huang Xiaolong había refinado siete núcleos de bestias de dragón divino, decidió refinar los seis núcleos de bestias restantes esta vez. Sin embargo, optó conscientemente por refinar primero los cuatro núcleos de bestias de la bóveda del tesoro de Hailstone, dejando los dos núcleos de bestias del Verdadero Rey Dragón para el final.

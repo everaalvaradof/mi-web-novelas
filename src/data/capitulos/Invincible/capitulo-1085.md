@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1085: ¿Sustitución del miedo?"
 numero: 1085
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong no comenzó a refinar de inmediato como el resto, ya que el Diagrama de Refinación de la Píldora de las Cien Mil Divinas Bestias requería un control extremadamente fino. Antes de comenzar, necesitaba ajustar su mente y estado de ánimo a su condición máxima.

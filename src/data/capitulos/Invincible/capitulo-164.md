@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 164: Segunda capa de la Pagoda del Tesoro Linglong"
 numero: 164
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong infundió qi de batalla en la Pagoda del Tesoro Linglong y estalló en una esfera de luz áurea. Con un destello rápido, los ojos de Huang Xiaolong se nublaron y apareció en un espacio diferente.

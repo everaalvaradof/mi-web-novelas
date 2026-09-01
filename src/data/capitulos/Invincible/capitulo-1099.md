@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1099: El Jefe de la Secta del León Berserk"
 numero: 1099
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Respondiendo al Gran Anciano Liu, este discípulo no vio salir a Tang Hong". El discípulo respondió respetuosamente.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1189: ¿Por qué no has admitido la derrota?"
 numero: 1189
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La técnica Blood Knife solo podría ser cultivada por aquellos que posean una divinidad del elemento frío, solo que podría sacar su poder real.

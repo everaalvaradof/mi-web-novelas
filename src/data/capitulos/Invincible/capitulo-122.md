@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 122: ¡Tesoro Celestial Encontrado!"
 numero: 122
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aunque Huang Xiaolong se transformó usando el Asura Physique, activando la habilidad Wings of Demon y Phantom Shadow para moverse a una velocidad a la par con un guerrero de la Décima Orden, no pudo escapar fácilmente de su perseguidor. Lin Zhiren era un guerrero pico de finales de la Décima Orden con medio paso en el reino de Xiantian. Alcanzó a Huang Xiaolong en poco tiempo.

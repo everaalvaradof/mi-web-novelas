@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1630: Saludos, Maestro"
 numero: 1630
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Tu jefe desea verme?" Huang Xiaolong preguntó con curiosidad.

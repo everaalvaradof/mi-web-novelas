@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 874: Activación de la Formación Central"
 numero: 874
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Toda la persona de Zhou Yao fue enviada volando hacia atrás por la fuerza que trajo la punta de la espada rota, estrellándose contra la pared del palacio detrás de él. Los escombros se deslizaron al suelo mientras el pasillo temblaba.

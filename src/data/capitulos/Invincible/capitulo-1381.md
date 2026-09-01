@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1381: El Discípulo del Emperador de la Puerta de la Fortuna"
 numero: 1381
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Cuándo el cuartel general está reclutando discípulos divinos de rango emperador?" Preguntó Huang Xiaolong. No era mala idea poder entrar en la sede de Fortune Gate.

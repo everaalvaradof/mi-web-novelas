@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1601: El buen discípulo"
 numero: 1601
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar eso, el Rey de la Abuela succionó una bocanada de aire frío. Tartamudeó ligeramente debido a la vacilación, "¿Por tal vez, unos cien mil años?"

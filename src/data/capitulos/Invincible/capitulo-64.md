@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 64: Sólo un Golpe de Espada"
 numero: 64
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong llegó bajo el enorme árbol de cícadas y sus manos se envolvieron con qi de batalla para arañar una fruta de cícadas. Su mano izquierda recibió la fruta cícada que caía, luego se la llevó a la boca y la mordió.

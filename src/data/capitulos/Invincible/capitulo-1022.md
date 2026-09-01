@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1022: ¿Cortar la carne de Huang Xiaolong?"
 numero: 1022
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A medida que más y más guardias y discípulos del Fuerte de la Familia Lin salían con las manos en el aire, rindiéndose, los amos de las cuatro familias vieron a un joven de cabello negro que se dirigía hacia las puertas mientras montaba una vaca pequeña. Lin Hang siguió a este joven.

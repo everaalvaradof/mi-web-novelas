@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 512: La Secta de la Espada de la Estrella"
 numero: 512
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los ojos de Young Noble Absolute Kill eran escarlatas, llenos de violenta intención asesina.

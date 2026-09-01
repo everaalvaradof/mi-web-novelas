@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 616: Los 'Huevos Blandos' Nunca Pueden Ser Más Que Huevos Blandos"
 numero: 616
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de escuchar las palabras de Huang Xiaolong, el subdirector del Dragón Azur soltó una carcajada: “¿Reglas? ¡Las palabras de nuestro Azure Dragon Institute son las reglas! Huang Xiaolong, si te permito matar a Xiang Mingzhi, ¿te atreverías a matar? Su voz estaba llena de ironía.

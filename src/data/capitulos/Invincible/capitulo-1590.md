@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1590: ¿Quién te crees que eres?"
 numero: 1590
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Oso de la Tierra!"

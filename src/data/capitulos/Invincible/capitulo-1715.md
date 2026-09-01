@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1715: Dirigiéndose directamente"
 numero: 1715
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La Llama Escarlata Dark Qilin se sorprendió y exclamó aterrorizada: "Su Majestad, ¿qué tal si olvidamos ir a la sede del Clan de las Hormigas Negras... "

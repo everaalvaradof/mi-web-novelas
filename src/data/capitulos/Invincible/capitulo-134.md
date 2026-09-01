@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 134: La gente del Pabellón Nube Clara"
 numero: 134
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong pudo ver que la pierna derecha de Li Bin estaba inclinada hacia afuera en un ángulo extraño, y por su apariencia, los huesos del interior estaban destrozados. Incluso si se curaba, su movilidad futura no sería tan ágil como antes.

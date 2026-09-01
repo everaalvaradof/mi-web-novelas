@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 584: En las profundidades del bosque de granizo"
 numero: 584
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong sonrió amablemente a He Liuhua en lugar de mostrar enojo al escuchar esas palabras: "¿Crees que son capaces de matarme?"

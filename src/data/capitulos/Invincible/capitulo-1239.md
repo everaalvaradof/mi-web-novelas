@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1239: ¿Sobre veinte cuentas?"
 numero: 1239
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aunque Huang Xiaolong había encontrado más de cuatro mil cuentas de oro, los tesoros espirituales del cielo y la tierra, como las cuentas de oro, nunca se consideraron demasiado. Por lo tanto, Huang Xiaolong decidió buscar más cuentas doradas en otras áreas.

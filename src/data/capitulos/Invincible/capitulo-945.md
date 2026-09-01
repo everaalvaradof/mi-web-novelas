@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 945: ¡Debes morir hoy!"
 numero: 945
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Regresaron a la Ciudad de los Demonios..." Una sonrisa fría tiró de las comisuras de los labios de Huang Xiaolong. Igual de bien, haría un viaje a la Ciudad de los Demonios y descubriría exactamente para qué se usaba la Perla del Diablo.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1620: La única otra opción es la muerte"
 numero: 1620
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Señor Jia Yuan!"

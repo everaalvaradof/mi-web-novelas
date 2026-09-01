@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 871: You Wuye"
 numero: 871
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando el joven llegó a la entrada del palacio, miró con una mirada acalorada las piezas rotas de huesos de dragón relámpago que flotaban en lo alto del salón, loco de alegría, "¡Emitiendo fragancia, estos huesos definitivamente se originan en un dragón relámpago del reino de Dios Celestial! ¡Cosas buenas, cosas absolutamente buenas! ¡Después de refinar estos huesos de dragón relámpago, podré cultivar mi Cuerpo de Elfo Oscuro hasta la etapa de perfección! " Al final de sus palabras, el joven apenas pudo contener el éxtasis que brotaba de su corazón, echando la cabeza hacia atrás y riendo ruidosamente hacia el cielo.

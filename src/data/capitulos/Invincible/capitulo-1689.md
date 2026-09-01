@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1689: Precisamente Diez Días"
 numero: 1689
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En una fracción de segundo, el Leopardo de cola larga del Reino monarca celestial del Reino monarca de la Cuarta Orden fue absorbido por el vórtice del viento, y rugió con furia. Rayas deslumbrantes de rayos envolvieron su cuerpo, rompiendo las capas de restricción del vórtice de viento mientras apuntaba a saltar sobre Huang Xiaolong.

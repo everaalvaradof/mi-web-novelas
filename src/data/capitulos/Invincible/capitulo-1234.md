@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1234: Mar de Sangre"
 numero: 1234
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La incredulidad llevó a You Wuxin a hacer circular la fuerza divina de su Diosa Infernal Oscuro de rango emperador. En un instante, la fuerza divina del elemento oscuridad surgió y los remolinos en sus pupilas se agrandaron, fortaleciendo aún más su ataque contra Huang Xiaolong.

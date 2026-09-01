@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 131: Matar al Castellano de la ciudad de Southern Cliffs"
 numero: 131
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong entendió que este anciano de ochenta años dijo esto por bondad. Por lo tanto, no le importó y simplemente asintió con la cabeza: "Muy bien, lo entiendo".

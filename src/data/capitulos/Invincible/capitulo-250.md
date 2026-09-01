@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 250: Controlando las marionetas gigantes"
 numero: 250
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Y así, Huang Xiaolong se quedó en la mansión de Du Xin y Deng Guangliang y comenzó a cultivar.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 362: Entrar en la Tumba del Dragón"
 numero: 362
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong miró la estela de piedra, haciendo todo lo posible para reprimir la creciente emoción en su corazón. Encontró la ubicación de la Tumba del Dragón, pero la pregunta ahora era cómo entrar.

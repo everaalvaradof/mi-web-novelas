@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1357: ¿Cuál es su relación con Huang Xiaolong?"
 numero: 1357
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La bestia diabólica del vacío Xu Baisheng y el resto se retiraron al borde de la plaza. Xu Baisheng liberó su sentido divino para cubrir todo el cuadrado.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1227: Devil Abyss"
 numero: 1227
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Una fría oscuridad envolvió el Palacio Nueve Nether.

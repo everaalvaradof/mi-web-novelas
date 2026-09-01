@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1116: La Casa de Comercio de los Cuatro Mares"
 numero: 1116
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡El drago ancestral! El placer brilló en los ojos de Huang Xiaolong.

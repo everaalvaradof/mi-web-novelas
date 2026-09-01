@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1471: El Reino de los Dioses Ancestrales de la Décima Orden"
 numero: 1471
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "El avance de la Batalla de la Corte Celestial no es una buena señal". Los surcos de Chen Yirong se profundizaron cuando agregó: "En el pasado, uno difícilmente podía encontrar un genio divino supremo en diez millones de años, pero ahora, de repente, hay un auge de genios divinos supremos,

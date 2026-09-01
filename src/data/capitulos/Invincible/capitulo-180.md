@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 180: La batalla de la ciudad imperial (12)"
 numero: 180
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Culparte?" Huang Xiaolong se sorprendió por un segundo. Sacudió suavemente la cabeza. De hecho, no se planteó este asunto en absoluto.

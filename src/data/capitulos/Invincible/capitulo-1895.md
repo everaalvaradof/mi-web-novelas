@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1895: ¿Has traído a todos tus hombres?"
 numero: 1895
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Chen Qin era un experto en el Reino emperador de la Décima Orden. Tenía una posición extremadamente alta en el Imperio del Dragón del Diablo de Dos Cabezas, y era un confidente cercano del Gran Emperador del Dragón del Diablo de Dos Cabezas. Incluso alguien al nivel de Huo Liucheng tuvo que presentar sus respetos a Chen Qin.

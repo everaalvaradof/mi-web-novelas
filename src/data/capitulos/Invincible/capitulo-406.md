@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 406: ¿Puedes Evolucionar?"
 numero: 406
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El rostro de Huang Xiaolong mantuvo su calma habitual, "Oh, ¿por qué no me atrevería a venir?"

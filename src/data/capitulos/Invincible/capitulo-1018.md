@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1018: ¿Hay un experto protegiéndolo?"
 numero: 1018
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Esta vez, Huang Xiaolong no lo esquivó. Mientras circulaba su fuerza divina, una luz metálica se formó alrededor de su cuerpo de dragón, formando una pared de fuerza divina del elemento metálico supremo que lo protegió.

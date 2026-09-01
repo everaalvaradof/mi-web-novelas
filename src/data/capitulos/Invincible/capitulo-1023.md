@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1023: ¡Los Patriarcas han vuelto!"
 numero: 1023
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 “¿Quieres que nos sometamos a ti? ¡Punk, estás jodidamente soñando despierto! " Uno de los Ancianos de la Familia Zhuang de mal genio estaba indignado.

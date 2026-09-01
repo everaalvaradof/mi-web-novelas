@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1664: Sacudiendo todo el Mundo del Infierno Asura"
 numero: 1664
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mirando a Wei Hong que estaba llorando miserablemente, Ren Wokuang reveló una sonrisa fría cuando rompió los huesos del antebrazo de Wei Hong.

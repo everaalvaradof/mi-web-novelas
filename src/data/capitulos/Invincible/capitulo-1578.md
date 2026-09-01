@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1578: El Poder del Archidemonio de la Era del Grandmist"
 numero: 1578
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A diferencia de Fang Gan, todos sintieron que era un desperdicio para él dejar la competencia. Por supuesto, Zhou Chen fue uno de ellos. Después de todo, había otro discípulo en el Reino Rey Dios de la Décima Orden participando en las selecciones. Si se encontrara con Huang Xiaolong durante una de las rondas, seguro que Huang Xiaolong sufriría.

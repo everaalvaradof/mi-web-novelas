@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 530: Resultado de la prueba"
 numero: 530
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Todos los ojos se enfocaron intensamente en las figuras de talento y fuerza en el altar de prueba. Ante sus ojos, el límite de la tortuga de mil años apenas había comenzado a girar, pero los números de prueba de talento y fuerza se dispararon como un cohete.

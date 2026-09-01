@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 191: Dejaré tu vida de perro"
 numero: 191
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aunque Huang Xiaolong nunca había visto a Yao Fei antes de esto, la presencia de Yanggang y Pang Yu detrás de él instantáneamente delató la identidad de Yao Fei.

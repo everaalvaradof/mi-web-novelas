@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 221: Viajando al Imperio del Bendito Buda"
 numero: 221
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Un leve dolor recorrió el corazón de Huang Xiaolong mientras pensaba en Li Lu!

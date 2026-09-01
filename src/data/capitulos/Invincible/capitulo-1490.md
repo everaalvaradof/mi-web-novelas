@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1490: Puedes tomar la mitad como recompensa"
 numero: 1490
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Fang Gan verificó de inmediato la condición de Fang Xuanxuan usando su sentido divino. Su corazón volvió a su pecho después de confirmar que su hija estaba simplemente inconsciente y no tenía otra secuela negativa.

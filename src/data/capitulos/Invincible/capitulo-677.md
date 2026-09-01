@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 677: ¿La Evaluación Alquimista?"
 numero: 677
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Xiang Mingzhi!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 561: ¿Dijiste que tu Hermano Aprendiz Menor obtuvo el primer lugar?"
 numero: 561
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los discípulos que se enfurecieron con comentarios satíricos a Huang Xiaolong por su vana arrogancia ahora sentían como si un gran trozo de tofu apestoso se les hubiera clavado en la garganta. Toda su rabia e infelicidad se transformó en miedo, asombro y conmoción.

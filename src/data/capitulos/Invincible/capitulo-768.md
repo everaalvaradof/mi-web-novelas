@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 768: ¿Planea Enfrentarse A Mi Golpe De Palma?"
 numero: 768
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dentro de una gran ciudad del Crimson Spring World, no muy lejos del Martial Spirit World, había un hombre de mediana edad con una túnica de brocado dorado. Sus ojos alargados tenían líneas de símbolos minúsculos en las esquinas, dándole un aura inquietante pero dominante.

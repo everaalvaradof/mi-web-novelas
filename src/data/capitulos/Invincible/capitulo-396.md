@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 396: Gran Evento"
 numero: 396
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Perro de piel de hierro y los guardias presenciaron el pecho cóncavo y distorsionado de su supervisor Lin, todo lo que podían sentir era aire helado llenando sus pulmones.

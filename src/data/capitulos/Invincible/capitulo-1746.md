@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1746: ¡¿Realmente eres Huang Xiaolong?!"
 numero: 1746
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Chen Zhao se rió, "Así es".

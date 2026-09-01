@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 740: No es digno de ser mi oponente"
 numero: 740
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Wang Qingjiang siguió a He Feifan y entró en el salón de recepción de invitados. Cuando pasó junto a Huang Xiaolong, se rió disimuladamente: "Punk, no creas que tu Maestro y la Familia Cheng pueden protegerte para siempre, estoy esperando a ver si puedes esconderte dentro del Instituto Vermilion Bird toda tu vida".

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1017: La persecución de Chen Wenyuan"
 numero: 1017
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Qué era exactamente esta energía, Huang Xiaolong no lo sabía. Cuando su sentido divino envolvió a la pequeña vaca para verificar, solo pudo ver un vago rayo púrpura grisáceo y un tenue fuego dorado.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 163: Batalla de Qi - Reino Xiantian"
 numero: 163
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El qi de batalla dentro del cuerpo de Huang Xiaolong era similar a un semental salvaje que escapó de sus riendas, galopando salvajemente. Todas las señales apuntaban a un avance inminente.

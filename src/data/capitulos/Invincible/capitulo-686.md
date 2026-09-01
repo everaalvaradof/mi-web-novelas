@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 686: El Tesoro de Xuanji"
 numero: 686
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se burló de la risa arrogante de Xiang Mingzhi, “¿Estás planeando apostar como la última vez, provocando a un lobo blanco con la mano vacía? Si pierdo, tengo que entregarte el Estandarte Divino de Cinco Colores, la Innumerable Fortuna Kasaya, y el resto de tesoros así como el Tesoro de Granizo, además, tengo que arrodillarme y postrarme mil veces ante ti y llamarte Ancestro. ? Está bien si eres un idiota, ¡pero no creas que todos en el mundo son idiotas como tú! "

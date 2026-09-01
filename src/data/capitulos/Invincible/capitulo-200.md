@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 200: Justo ahora fue un malentendido"
 numero: 200
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Una miserable y pequeña familia Huang que huele mal!

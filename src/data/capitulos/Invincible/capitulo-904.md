@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 904: A la Ciudad de los Demonios"
 numero: 904
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 “Escuché que el número de genios brillantes que murieron en manos de Huang Xiaolong en el Torneo de Avance de Dioses Altos de este período no es pequeño, y uno de ellos era un talento aún mayor que Yelu Chufei, y Beitang Wuji, era el discípulo principal de Fortune Gate Fang Chu ". Qiu Baifei habló solemnemente: "La Puerta de la Fortuna es la superfuerza más poderosa y antigua de la Galaxia Eterna, no mucho más débil en comparación con el actual Clan Wang".

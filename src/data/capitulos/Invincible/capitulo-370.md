@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 370: ¿Jurar lealtad a las Deidades Templarias?"
 numero: 370
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Cancelar nuestra elegibilidad para la prueba?" Huang Xiaolong estaba perplejo, mientras que Zhao Shu y Zhang Fu sonrieron mientras intercambiaban una sonrisa impotente.

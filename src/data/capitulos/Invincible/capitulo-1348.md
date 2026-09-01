@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1348: Refinando el Cristal del Alma del Oso del Firmamento"
 numero: 1348
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡¿El cristal del alma del Firmament Bear ?!" Huang Xiaolong se volvió hacia la vaca con incertidumbre. Era obvio que no había oído hablar del cristal del alma del Firmament Bear.

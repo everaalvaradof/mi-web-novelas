@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 246: ¿Entretendremos a este niño?"
 numero: 246
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al detectar el denso aura de muerte y un fuerte olor a sangre oxidada, Huang Xiaolong disminuyó la velocidad. A medida que se acercaba, el hedor a muerte en el aire se hizo más denso y el olor a sangre sofocante.

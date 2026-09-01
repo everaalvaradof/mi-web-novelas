@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 238: Las tierras del caos"
 numero: 238
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong negó con la cabeza y se rió al escuchar la generosa oferta de Xue Puti, "No es necesario". La sombra de Li Lu apareció en su mente.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1146: Laguna del Rayo del Caos"
 numero: 1146
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de liberarse de la antigua formación que los había estado atrapando durante tanto tiempo, Hun Dishan se enfureció al ver un mar de espíritus malignos y ghouls corriendo hacia ellos. Su fuerza divina se elevó a la cima, haciendo que las nubes negras y turbulentas se reunieran sobre él.

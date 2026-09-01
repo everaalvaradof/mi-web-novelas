@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1261: El Mundo del Cielo Vacío El Mundo del Cielo Vacío"
 numero: 1261
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las luces de la espada iluminaron el valle como fuegos artificiales cuando una poderosa hoja qi chocó con una cortina de espada qi.

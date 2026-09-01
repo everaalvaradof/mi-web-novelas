@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 268: Tomando el control de la escuela Blood Swallow"
 numero: 268
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Perdido, perdí! ¡De hecho perdí!

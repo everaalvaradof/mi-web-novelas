@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 157: El anterior maestro del anillo de unión de dioses"
 numero: 157
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver la fuerte reacción de Zhao Shu y Yu Ming, Huang Xiaolong estaba seguro de que habían escuchado sobre el Anillo de Enlace de Dios.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1786: ¿Derrotado tan rápido?"
 numero: 1786
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Eso es difícil de decir". El élder Fu reflexionó con cautela antes de responder a Bei Xiaomei.

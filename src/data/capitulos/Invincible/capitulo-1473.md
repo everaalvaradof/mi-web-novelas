@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1473: Las Piedras de la Velocidad del Gran Maestro"
 numero: 1473
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong miró furtivamente en la cuadrícula que Sun Shihai estaba mirando y vio que el artefacto espacial en el interior contenía una gran pila de minerales dorados.

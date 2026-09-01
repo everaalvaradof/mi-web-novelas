@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1081: Los Dragones Gemelos de Oro"
 numero: 1081
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El cultivo del discípulo central que iba a personificar tenía que estar en el Reino de Dios Celestial de la Quinta Orden, al igual que él. De esta forma, había menos riesgo de estar expuesto.

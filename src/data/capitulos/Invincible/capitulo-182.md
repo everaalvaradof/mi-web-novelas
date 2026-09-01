@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 182: La batalla de la ciudad imperial (14)"
 numero: 182
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Un segundo espíritu marcial!

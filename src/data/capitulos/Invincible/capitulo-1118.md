@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1118: ¿De qué familia eres?"
 numero: 1118
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Setecientos millones!

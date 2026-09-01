@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1028: Un árbol desconocido"
 numero: 1028
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿Vitalidad agotada? Entonces, ¿por qué querría la vaca pequeña esta rama de árbol?

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 888: Todos los muertos"
 numero: 888
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El discípulo obedeció respetuosamente y salió del gran salón.

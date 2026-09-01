@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1858: Dejando la Torre del Diablo"
 numero: 1858
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando todavía estaba al pie de la montaña, o incluso en el paso ocho mil novecientos noventa y nueve, Huang Xiaolong había imaginado que la cima de la montaña estaba vacía. Pero ahora que estaba parado en la parte superior, ¡en realidad había un pabellón masivo frente a él!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 823: Alarmando a los viejos demonios"
 numero: 823
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Flaming Devil Ruan Ji llegó a la parte más profunda de la Cueva del Diablo, las profundas llamas violetas a su alrededor estallaron repentinamente hacia afuera de su cuerpo, convirtiéndose en un tramo de profundo mar violeta de llamas. Dentro del área de ese profundo mar violeta de llamas, todo ese insidioso qi del diablo se dispersó.

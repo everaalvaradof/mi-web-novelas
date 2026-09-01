@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1723: Volcán de la Muerte"
 numero: 1723
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La luz blanca fue rápida e instantáneamente penetró las cejas del discípulo de la Tribu del Cadáver Gigante de los Nueve Yin.

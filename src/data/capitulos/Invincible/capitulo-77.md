@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 77: Tesoros Celestiales"
 numero: 77
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las cejas de Huang Xiaolong se arrugaron ligeramente; no esperaba tener un hermano mayor.

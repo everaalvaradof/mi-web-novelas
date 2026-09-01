@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1514: 'Devilmen' de la Tierra del Diablo"
 numero: 1514
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Esta era la Tierra del Crepúsculo Flotante!

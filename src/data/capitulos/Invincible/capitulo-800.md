@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 800: Veintitrés Maestros del Reino de los Dioses"
 numero: 800
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los dos Hombres de Hielo Verde permanecieron obedientemente donde estaban detenidos. Cuando vieron aparecer a Huang Xiaolong, inexplicablemente, sus corazones saltaron. Cuando sus miradas cayeron sobre la divinidad negra en la mano de Huang Xiaolong, sus rostros se tensaron y palidecieron, con miedo en sus ojos. Sobre todo eso fue la negación.

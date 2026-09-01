@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 791: Matar a Huang Xiaolong"
 numero: 791
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 No mucho después de que Huang Xiaolong se fuera, apareció en la matriz de transmisión de la Ciudad del Guerrero Negro.

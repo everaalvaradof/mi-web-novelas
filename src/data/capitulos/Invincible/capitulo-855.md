@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 855: No lo defraudó"
 numero: 855
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando los dos discípulos estaban a punto de irse a toda prisa, un joven de cabello negro apareció de repente, bloqueando su camino.

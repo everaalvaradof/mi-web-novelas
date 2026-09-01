@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1688: ¿No es demasiado alto?"
 numero: 1688
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A pesar de que el progreso de Huang Xiaolong se había ralentizado en comparación con el principio, su ritmo seguía siendo sorprendente en comparación con Qin Huangzhong, Shi Yinyu, Song Litao, He Jingyi y los demás.

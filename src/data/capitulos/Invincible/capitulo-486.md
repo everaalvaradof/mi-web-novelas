@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 486: Darle Doble Recompensa"
 numero: 486
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los generales del Violent Lion Temple estaban extremadamente conmocionados. ¡El joven delgado al lado de Ao Kun en realidad obligó a retroceder a su reverenciado e invencible Maestro del Templo!

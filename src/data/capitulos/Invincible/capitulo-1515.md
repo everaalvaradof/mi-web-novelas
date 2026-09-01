@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1515: Ciudades Construidas por Humanos"
 numero: 1515
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Esos varios hombres son mi comida!" "¡Quiero a esa mujer!"

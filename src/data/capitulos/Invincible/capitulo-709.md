@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 709: El Fuego Divino de la Tortuga Negra No Está En El Fondo Del Mar"
 numero: 709
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando el grupo de once de Lu Ruibing llegó al buque naval, se dispersaron de inmediato y rodearon a Huang Xiaolong.

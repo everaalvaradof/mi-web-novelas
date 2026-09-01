@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 266: Ojo de la primavera amarilla"
 numero: 266
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cui Ming era similar a una hoja seca arrastrada por una violenta tempestad, golpeada por la palma de Huang Xiaolong, girando alto en el pasillo antes de estrellarse contra uno de los pilares de piedra y luego deslizarse hacia el suelo...

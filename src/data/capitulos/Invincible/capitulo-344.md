@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 344: Secta cimitarra legendaria"
 numero: 344
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 De vuelta en Southern Hill Estate, Huang Xiaolong simplemente sonrió al escuchar los rumores que flotaban y ya no se molestó con eso. Entró al Templo Xumi, sacó un Ghost King Dan, se lo tragó y comenzó a refinarlo.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 770: El Gran Señor Misterioso"
 numero: 770
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La poderosa fuerza destructiva de la autodestrucción del Rey Bestia Cuerno Dorado se precipitó sobre sus propios subordinados y los Grandes Ancianos del Instituto del Dragón Azur, rompiéndolos en pedazos y dejando solo una mancha de niebla de sangre roja.

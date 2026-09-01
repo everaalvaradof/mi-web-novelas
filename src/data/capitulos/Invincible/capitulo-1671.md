@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1671: Qilin Oscuro de la Llama Escarlata"
 numero: 1671
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "La alianza de la Puerta de los Dioses Masacradores". La cara de Huang Xiaolong se volvió fría.

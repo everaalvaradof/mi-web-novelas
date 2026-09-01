@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1199: Movimiento Un Poco Grande"
 numero: 1199
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Nunca has tenido esta oportunidad?" Tan Lin echó un vistazo rápido a Wang Wei, pero no hizo más preguntas.

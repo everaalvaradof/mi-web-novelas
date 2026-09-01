@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1371: ¡El grupo de la Tribu del Mar ha vuelto!"
 numero: 1371
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Inteligente! Así es, siempre que puedas obtener una Píldora de Buda de un maestro del Reino Rey Dios y dársela a Li Lu, ¡todo lo demás será mucho más fácil! " La pequeña vaca continuó mientras balanceaba su cola, “Para cuando llegues al Reino de Dios Ancestro de alto nivel, podrás expulsar al espíritu maligno de su cuerpo, usando tu fuerza y el apoyo del caos Golden Dragon Lightning

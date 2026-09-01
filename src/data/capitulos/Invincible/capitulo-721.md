@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 721: También podrías quedarte"
 numero: 721
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando llegó el anciano de cabello negro, lo primero que vio fue el cadáver sin cabeza de He Zhi y su expresión se oscureció en un instante. Su mirada fría y penetrante se dirigió a Huang Xiaolong, "Punk podrido, te atreviste a matar al discípulo de este Tao Gu, no me importa quién eres, ¡debes morir hoy!"

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1477: El Emperador del Dragón Azul"
 numero: 1477
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong tomó su asiento, una corriente de maestros de las fuerzas del Palacio del Emperador, Discípulos del Emperador, discípulos y jóvenes señores entraron en el salón.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 160: Fuertemente rodeados por soldados de todas las direcciones"
 numero: 160
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Wei Xiaodong observó a Huang Xiaolong y Fei Hou por un momento antes de caminar hacia ellos con varios discípulos de la Secta de la Gran Espada detrás de él.

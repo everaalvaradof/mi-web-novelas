@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1547: Llegando a las Montañas de la Lluvia de Dragones"
 numero: 1547
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras Huang Xiaolong, Jiang Hong y el resto continuaban disfrutando de su vino tranquilamente y charlando en el restaurante, la noticia de que Feng Shiping había sido expulsado del restaurante se extendió como la pólvora por la ciudad.

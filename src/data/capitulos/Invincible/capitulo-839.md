@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 839: Corriendo a la Galaxia Eterna"
 numero: 839
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Fuera de la mansión del clan Huang, todos los miembros de la familia Huang, Shi Xiaofei, Zhao Shu, Zhang Fu, Xie Puti, el mono devorador del espíritu violeta Huang Xiaoyong, el emperador buda bendecido Shi Fantian, Lil 'Tian y otros estaban enviando a Huang Xiaolong. .

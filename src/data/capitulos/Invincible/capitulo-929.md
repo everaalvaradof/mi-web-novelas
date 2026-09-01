@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 929: ¿Tienes miedo?"
 numero: 929
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong pareció imperturbable a pesar de ser repentinamente el centro de atención, “Ya sea que pueda obtener el primer lugar o no… no parece estar relacionado contigo. ¿Quién eres tú?"

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1853: Superando al Señor Archidemonio Sin Cielo"
 numero: 1853
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Incluso superó a Xing Yinuo!"

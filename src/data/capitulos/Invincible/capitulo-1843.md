@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1843: Tushita Flying Ship"
 numero: 1843
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Incluso después de que Huang Xiaolong desapareció de su vista, nadie se atrevió a hacer un solo sonido. Incluso el líder del Culto al Simio del Diablo, Zhao Chengyu, no pudo abrir la boca.

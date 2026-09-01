@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1502: Reparación del barco volador Tiburón Dragón"
 numero: 1502
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Bei Xiaomei preguntó primero: "Tío, ¿qué te dijo mi padre cuando estabas dentro?"

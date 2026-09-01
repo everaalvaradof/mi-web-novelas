@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1699: Ángel de catorce alas"
 numero: 1699
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El desolado gigante Tai Yue se paró en el aire, mirando fríamente al patriarca shi Wushuang de la tribu de cadáveres gigantes nine Yin y sus aliados.

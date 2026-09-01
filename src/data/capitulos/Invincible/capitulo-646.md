@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 646: ¿Te has enamorado de este viejo?"
 numero: 646
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pero, ¿qué acaba de decir el anciano?

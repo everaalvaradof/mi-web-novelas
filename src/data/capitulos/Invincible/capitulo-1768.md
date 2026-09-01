@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1768: ¿Estás seguro?"
 numero: 1768
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La plaza cayó en silencio en un instante.

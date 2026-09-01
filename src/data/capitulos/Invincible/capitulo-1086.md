@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1086: Grandes Noticias"
 numero: 1086
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El número de miradas intensas centradas en Huang Xiaolong aumentó.

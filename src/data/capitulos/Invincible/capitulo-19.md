@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 19: La Cuarta Etapa de la Escritura de Metamorfosis del Cuerpo"
 numero: 19
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pero los dos ciclones de Tempest of Hell no duraron mucho, zigzaguearon dentro del perímetro del pequeño patio durante aproximadamente una respiración y luego desaparecieron.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 312: ¿Qué pasa si intervengo?"
 numero: 312
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se detuvo por un momento en el aire antes de aterrizar en uno de los muchos techos del palacio.

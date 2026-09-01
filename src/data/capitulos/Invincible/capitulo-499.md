@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 499: ¡Regresa a la Puerta de Asura!"
 numero: 499
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡El que borró los recuerdos de Li Lu fue sin duda el Preceptor del Templo de los Templarios de Deidades, Ying Tian!

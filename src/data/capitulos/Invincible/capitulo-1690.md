@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1690: Puede No Ser Capaz De Pasar"
 numero: 1690
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Diez días!... ¡Pasé del primer al quinto piso en diez días!"

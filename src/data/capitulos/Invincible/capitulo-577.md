@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 577: Sólo romper los brazos"
 numero: 577
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 'Xiang Mingzhi, discípulo personal del director del Instituto Dragón Azur'. Huang Xiaolong pronunció la frase interiormente como un mantra. Alcanzar el Reino de Dios del Cuarto Orden en menos de cien años de cultivo fue de hecho un talento impresionante.

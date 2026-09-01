@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1479: Sun Shihai sobre todo"
 numero: 1479
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Bajo las atentas miradas de todos, Sun Shihai y Zheng Ming caminaron hacia el centro del gran salón.

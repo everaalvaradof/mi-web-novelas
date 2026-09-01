@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1510: La piscina de rayos de la Corte Celestial"
 numero: 1510
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se rió escuchando a la pequeña vaca y dijo: "Espera a que estemos en la Tierra del Crepúsculo Flotante, pronto llegaré al Reino Rey Dios de Cuarto Orden".

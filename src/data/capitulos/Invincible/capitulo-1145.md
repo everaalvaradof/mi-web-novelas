@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1145: Cristal de Fuego Fénix"
 numero: 1145
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 “Este Divino Fénix de Nueve Colores es un tesoro de la cabeza a los pies, especialmente su sangre. Si puedes usarlo para el cultivo, tu fuerza definitivamente aumentará a pasos agigantados ". El tono de la pequeña vaca cambió en este punto, sacudiendo la cabeza, “Sin embargo, su fuego divino innato es demasiado fuerte. Olvídate de extraer sangre de su cuerpo, incluso un maestro del Reino de Dios Antiguo de la Décima Orden se convertiría instantáneamente en cenizas al tocar las llamas divinas que envuelven a este Fénix Divino de Nueve Colores ".

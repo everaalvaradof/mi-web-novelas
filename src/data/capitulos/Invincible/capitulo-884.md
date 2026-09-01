@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 884: El Anciano de la Puerta de la Fortuna"
 numero: 884
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar el cambio repentino en el tono del Patriarca al mencionar a Huang Xiaolong, los Ancianos del Clan Wangu no tuvieron nada que decir.

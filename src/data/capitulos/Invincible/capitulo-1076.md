@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1076: ¿Podría ser una bestia divina suprema?"
 numero: 1076
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mirando la expresión nerviosa de Zhao Wuya, Wei Chao sonrió, “No te preocupes, Viejo Hermano Wuya, espera después de que mate a este punk. Siempre que encuentre una hierba del caos en él, también obtendrás algunos beneficios ".

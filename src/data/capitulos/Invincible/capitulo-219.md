@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 219: Chocando la Mansión Yao"
 numero: 219
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Yu Ming saltó al aire. ¡Una luz centelleante envolvió su cuerpo cuando apareció un gigantesco golem de piedra!

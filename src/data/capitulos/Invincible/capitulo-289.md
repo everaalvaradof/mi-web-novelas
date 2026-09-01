@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 289: El antiguo rey hercúleo"
 numero: 289
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿¡Un trozo de jade dejado por las antiguas Tribus de Dios !?" Huang Xiaolong estaba un poco asombrado. ¿Por qué las reliquias relacionadas con las antiguas Tribus de Dios aparecieron una tras otra últimamente?

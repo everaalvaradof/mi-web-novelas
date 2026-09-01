@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 973: El final del camino para el Maestro de la Secta Refinación de Fantasmas"
 numero: 973
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando varios cientos de cuentas de rayos celestiales explotaron al mismo tiempo, el espacio se sacudió, causando que el polvo espeso y la grava oscurecieran todo mientras una fuerza devastadora de rayos barría en todas direcciones.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 778: El banquete comienza"
 numero: 778
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 De vuelta en su patio, Huang Xiaolong entró en el piadoso monte Xumi, sentado con las piernas cruzadas en el centro del templo Xumi. Luego comenzó a hacer circular las Tácticas Asura.

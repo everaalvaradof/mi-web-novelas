@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1709: Escapando"
 numero: 1709
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Otros aspiraron una bocanada de aire frío viendo esto.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 446: Mi Tío Grande es el Joven Noble Dragón Divino"
 numero: 446
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Snow Dragon City!" Todos palidecieron al escuchar ese nombre.

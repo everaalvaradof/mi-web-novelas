@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 813: El Ancestro de la Familia Zhu"
 numero: 813
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que el grupo de la familia Zhu se fue, Qi Wen corrió al lado de Liu Yun, inquieto y ansioso, "Hermano aprendiz mayor, ¿cómo están tus heridas?"

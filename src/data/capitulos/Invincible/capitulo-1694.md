@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1694: El 'Cielo' apareció"
 numero: 1694
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las doce alas santas y puras de esos Ángeles del Resplandor se marchitaron y pudrieron bajo la corrosión de la fuerza divina de la oscuridad de Huang Xiaolong, similar a una rama seca sin ninguna vitalidad.

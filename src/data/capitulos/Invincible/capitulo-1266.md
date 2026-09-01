@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1266: La Montaña de la Prisión del Diablo"
 numero: 1266
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 '¡¿Qué pasa?!' Huang Xiaolong se sorprendió por el repentino y violento temblor en toda la Ciudad del Cielo del Vacío.

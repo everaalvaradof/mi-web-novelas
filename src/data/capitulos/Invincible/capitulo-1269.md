@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1269: ¡Descubrimos este lugar primero!"
 numero: 1269
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Shi Long, Chen Jianfeng y otros discípulos de Short Blade Gate volaban en dirección a Huang Xiaolong, cuando de repente, la montaña negra emitió una luz deslumbrante y una rica energía espiritual, delante de ellos.

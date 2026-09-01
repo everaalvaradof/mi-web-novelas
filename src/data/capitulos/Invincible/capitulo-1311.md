@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1311: La Ceremonia de Entronización del Dios del Mar"
 numero: 1311
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se quedó aturdido por un segundo ante las palabras de la vaca. De hecho, como había dicho la pequeña vaca, Feng Yingying lo estaba mirando. Sus ojos se parecían a la concentración y las profundidades del mar.

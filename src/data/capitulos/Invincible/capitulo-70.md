@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 70: No estoy dispuesto a tirar la toalla sin luchar"
 numero: 70
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Yang Mingwei se quedó debajo del escenario durante mucho tiempo, sin moverse. Ni siquiera la conmoción entre la multitud pudo atraer su atención mientras miraba fijamente el Anillo Dorado del Rey Brillante Inmóvil en su cuerpo.

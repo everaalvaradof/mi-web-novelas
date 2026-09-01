@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1380: ¿El Cuartel General está reclutando Genios de la Cabeza de Dios de Rango Emperador?"
 numero: 1380
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Qué más puedes hacer?" Replicó el joven Chen Yajie. Li Qunhao guardó silencio ante esta pregunta.

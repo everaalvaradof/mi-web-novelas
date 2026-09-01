@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 835: Un Edicto Del Mundo Divino"
 numero: 835
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Con el paso del tiempo, llegaron y se fueron sesenta años en un abrir y cerrar de ojos.

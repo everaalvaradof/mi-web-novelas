@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 494: Un desperdicio como tú"
 numero: 494
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al agregar al Rey Humano del Trueno a la refriega, el recuento final de patriarcas que se levantaron para desafiar a Huang Xiaolong llegó a cuarenta y seis.

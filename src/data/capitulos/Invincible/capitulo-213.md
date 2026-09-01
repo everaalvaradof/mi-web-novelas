@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 213: Salón sin corazón"
 numero: 213
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong reprimió el éxtasis en su corazón y comenzó a concentrarse en el Mandato del Alma que obtuvo de la Perla del Alma Absoluta.

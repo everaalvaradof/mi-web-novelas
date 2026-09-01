@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1837: Robado"
 numero: 1837
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Zhao Chengyu se quedó en silencio por un momento antes de decir: "¿Cuáles son los pensamientos del Ancestro Archidevil del Señor?"

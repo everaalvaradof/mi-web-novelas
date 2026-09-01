@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 936: Diagrama de las Diez Mil Bestias Divinas"
 numero: 936
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Mira allá! ¡Li Lu de Fortune Gate también es experto en el Diagrama de las Mil Divinas Bestias! " Una voz fuerte sonó en el aire, se vio a una persona señalando hacia algún lugar.

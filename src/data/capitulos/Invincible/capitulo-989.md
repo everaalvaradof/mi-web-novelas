@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 989: Arrebatar las Frutas de Orkhis"
 numero: 989
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dos minutos más tarde, apareció la figura de Tie Chengdong.

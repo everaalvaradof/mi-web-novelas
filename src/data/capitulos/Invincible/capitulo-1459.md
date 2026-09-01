@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1459: ¿Cuántas piedras espirituales quieres?"
 numero: 1459
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cada persona dentro de la sala de exámenes tenía una expresión diferente en sus rostros mientras miraban y esperaban a que Huang Xiaolong, Fu Feiyu y Peng Xiao se cruzaran en el valle.

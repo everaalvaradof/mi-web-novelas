@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 559: ¡La verdadera fuerza de Wang Biaoyuan!"
 numero: 559
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La multitud se quedó estupefacta al ver lo que sucedió ante ellos: ¡Luo Kai perdió! Al igual que Xie Ning antes que él, ¡fue completamente derrotado!

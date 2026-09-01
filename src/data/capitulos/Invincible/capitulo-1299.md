@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1299: Familia Guo de las Tribus del Mar."
 numero: 1299
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡¿Tú... eres Huang Xiaolong ?!" Los dos discípulos de la Secta Imperial de Sangre soltaron al unísono.

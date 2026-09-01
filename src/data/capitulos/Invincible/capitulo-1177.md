@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1177: ¿Quieres impedirle entrar en el Top Cien?"
 numero: 1177
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando el grupo de Huang Xiaolong llegó a la plaza el segundo día, había más discípulos de Fortune Gate parados alrededor de los escenarios de batalla en comparación con el día anterior; por supuesto, también había un mar de espectadores apiñándose fuera de la plaza.

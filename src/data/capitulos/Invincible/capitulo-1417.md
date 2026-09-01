@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1417: El Maestro de Wang Wei, Empíreo Azul"
 numero: 1417
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Un día pasó en un abrir y cerrar de ojos, y un nuevo día fue recibido por una fría mañana.

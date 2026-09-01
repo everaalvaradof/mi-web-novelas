@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1704: Assassinate Again"
 numero: 1704
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Esto, esto, ¿qué tipo de energía de luz es esta? ¡En realidad dispersó el qi del cadáver de Shi Wushuang!" Un antepasado exclamó en estado de shock.

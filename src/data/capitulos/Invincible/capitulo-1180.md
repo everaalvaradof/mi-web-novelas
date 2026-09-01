@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1180: Sigue siendo un fanfarrón"
 numero: 1180
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Hu Qi observó cómo Huang Xiaolong usó el mismo movimiento nuevamente, levantando sus dos puños para enfrentar su ataque de frente. Al ver esto, una risa cruel e indignada escapó de sus labios, "¡Esta vez, voy a pagarlo con interés!"

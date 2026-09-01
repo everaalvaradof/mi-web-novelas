@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1136: Debe encontrar el aura de la abuela"
 numero: 1136
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se separaría de Yao Chi una vez que partiera hacia el campo de batalla extraterritorial del diablo.

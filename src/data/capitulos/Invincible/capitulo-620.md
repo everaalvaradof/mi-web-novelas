@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 620: El Brillante Plan de la Bella Deng"
 numero: 620
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Qué pasó? ¡¿Quién fue el que los hirió a todos ?! " Un hombre, corpulento y de apariencia áspera, que se asemeja a una enorme colina de hierro como su nombre, Jin Tieshan, rugió con furia.

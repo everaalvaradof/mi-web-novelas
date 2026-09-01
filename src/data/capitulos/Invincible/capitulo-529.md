@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 529: La aparición de la frontera de la tortuga"
 numero: 529
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong asintió.

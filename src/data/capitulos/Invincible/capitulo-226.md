@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 226: Entrar en la Caverna de Buda"
 numero: 226
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Mis saludos al Gran Emperador". Huang Xiaolong hizo lo mismo, saltando cortésmente.

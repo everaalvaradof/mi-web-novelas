@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1512: ¿Maestro Archidemonio?"
 numero: 1512
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando miles de espíritus malignos del Reino Rey Dios de la Quinta Orden cayeron como hojas secas, un enorme remolino de relámpagos divinos emergió en el aire sobre la cordillera. La esencia de sangre, la esencia de vida y la fuerza divina de estos espíritus malignos muertos flotaron hacia el torbellino de rayos divinos giratorio y fueron absorbidos por él. En unos segundos, los cadáveres se convirtieron en polvo gris y desaparecieron sin dejar rastro.

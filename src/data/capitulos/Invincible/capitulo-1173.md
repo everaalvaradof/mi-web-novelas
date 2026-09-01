@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1173: ¿Eres tú?"
 numero: 1173
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Huang Xiaolong!

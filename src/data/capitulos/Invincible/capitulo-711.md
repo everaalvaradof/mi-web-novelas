@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 711: Integrarse con el Fuego Divino de la Tortuga Negra"
 numero: 711
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En su raro momento de conciencia vaga, Huang Xiaolong sintió una luz deslumbrante brillando hacia él, haciéndolo abrir los ojos y ponerse de pie mientras inspeccionaba su entorno. Se encontró de pie en la misma gran isla de hielo, pero el iceberg que estaba frente a él antes había desaparecido.

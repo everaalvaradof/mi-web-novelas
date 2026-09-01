@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1396: Las Frutas Divinas del Fénix Blanco en Llamas"
 numero: 1396
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong esperaba nerviosamente la respuesta de Feng Er. Ella sonrió alegremente y respondió respetuosamente: "Señor de la mansión, ¡tenemos noticias de que habrá piedra de velocidad espacial en la subasta!"

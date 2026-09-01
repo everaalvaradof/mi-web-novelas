@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 807: ¿Será ese Señor Misterioso?"
 numero: 807
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Esa noche, un animado banquete iluminó la mansión del clan Huang.

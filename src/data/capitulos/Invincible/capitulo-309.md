@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 309: Refinando el Huevo del Dragón Terrestre"
 numero: 309
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al mirar el huevo gigantesco, los ojos de Huang Xiaolong brillaron intensamente. Sin duda, este era el huevo del Dragón de la Tierra.

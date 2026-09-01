@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1363: Definitivamente fue a hacer turismo"
 numero: 1363
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Pero cómo podemos quedarnos y ver a Li Lu pasar el resto de su vida en coma?" Dijo Blood Knife Ancestor pensativo.

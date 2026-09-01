@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1733: ¿Cómo te intimidó?"
 numero: 1733
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong revisó las opciones disponibles en su cabeza repetidamente y concluyó: para ingresar al tesoro de la Tribu de cadáveres gigantes nine Yin, su mejor apuesta era capturar a Shi Yinyu y rastrear sus recuerdos para obtener el método de ingresar al tesoro.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1833: ¿Dónde está Wu Jingnan ahora?"
 numero: 1833
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Li Tong". La voz fría de Wu Jingnan sonó de repente.

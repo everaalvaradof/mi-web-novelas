@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1220: Destruyendo la Familia Ouyang Hasta el Suelo"
 numero: 1220
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡¿Qué?!" Los expertos de Ouyang Xuguang y Ouyang Family se sorprendieron por un momento y exclamaron con incredulidad.

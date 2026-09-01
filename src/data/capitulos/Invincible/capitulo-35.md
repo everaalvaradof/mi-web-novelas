@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 35: Fortalecimiento del Espíritu Marcial"
 numero: 35
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El joven y la mujer saltaron hacia Huang Xiaolong y el pequeño mono violeta.

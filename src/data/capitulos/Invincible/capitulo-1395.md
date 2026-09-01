@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1395: Ungracious"
 numero: 1395
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se mostró indiferente.

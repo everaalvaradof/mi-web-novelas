@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1587: Llegando al Palacio del Emperador Grandmist"
 numero: 1587
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Unos días después, el Dragon Shark Flying Ship completó su viaje a través de la Galaxia Perfecta.

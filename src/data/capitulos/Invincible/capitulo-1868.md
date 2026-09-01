@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1868: Perdona la vida a tu perro"
 numero: 1868
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los otros tres lobos del Reino emperador, también, estaban surgiendo con furia y odio. Uno de ellos escupió: "Lan Bowei, maldigo tu Raza del León Azul de ojos diabólicos. ¡Nunca obtendrás la Estela del Diablo de Myriad Curses! ¡Te maldecimos, y tu Raza del León Azul de ojos diabólicos perecerá ante el poder de la Estela del Diablo de Myriad Curses!"

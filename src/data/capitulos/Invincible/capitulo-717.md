@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 717: Estragón de la Mazmorra Negra"
 numero: 717
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong y Shi Xiaofei miraron por encima de sus hombros y se sorprendieron. Esa enorme cabeza de bestia estaba simplemente a la mitad de la tierra, sin embargo, ya tenía más de diez li de longitud.

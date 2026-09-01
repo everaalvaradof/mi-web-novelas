@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 398: Tener algo evaluado"
 numero: 398
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Por lo tanto, después de saciar su apetito, el grupo de Huang Xiaolong abandonó el restaurante y pidió direcciones hacia la Firma de Evaluación de Pico Arcaico.

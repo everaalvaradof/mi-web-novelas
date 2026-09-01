@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 809: Tierra Firme de la Divinidad"
 numero: 809
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Estás pensando en tu Maestro otra vez?" Al darse cuenta de la mirada aturdida de Shi Xiaofei, bromeó.

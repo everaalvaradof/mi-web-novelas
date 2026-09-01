@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 267: Físico del Diablo Eterno"
 numero: 267
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Una explosión retumbó sobre el gran salón. En el lugar donde apuntó el Dedo de Tribulación del Diablo de Jiang Tianhua, el espacio se rompió y abrió un gran agujero. Luces diabólicas brillaban alrededor de sus bordes.

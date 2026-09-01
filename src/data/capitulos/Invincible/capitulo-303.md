@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 303: Déjame experimentar la fuerza de un reino medio santo."
 numero: 303
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Observando con calma cómo los dedos de Fenggong estaban a punto de tocar el Monte Divino Xumi, Huang Xiaolong movió la palma de su mano en un movimiento minúsculo, haciendo que los dedos de Fenggong cayeran en el aire vacío.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1773: Nuestro Príncipe Celestial es el verdadero genio indiscutible"
 numero: 1773
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Lan Tailong desapareció en un borrón del lugar y apareció bloqueando el camino de los discípulos del Palacio del Emperador Fortuna.

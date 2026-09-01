@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1161: La Ronda Preliminar"
 numero: 1161
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La Gran Guerra de todas las islas se dividió en la ronda preliminar y la final, y esta vez no fue diferente.

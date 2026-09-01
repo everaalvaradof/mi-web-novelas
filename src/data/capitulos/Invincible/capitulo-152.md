@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 152: La emboscada de los tres ancianos"
 numero: 152
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La expresión de Huang Xiaolong era fría mientras observaba con calma a Zhou Teng corriendo hacia él. Levantando su puño derecho, Huang Xiaolong lanzó un Puño Colapsado con toda su fuerza, enviando a Zhou Teng volando hacia atrás.

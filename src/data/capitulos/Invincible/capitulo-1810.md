@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1810: Unir las manos con el Palacio del Emperador Dios Maldito"
 numero: 1810
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 No mucho después de que Huang Xiaolong se hubiera ido, una luz brilló frente a la puerta de la piscina de rayos de la Corte Celestial, y apareció el dúo de padre e hijo, Di Jun y Di Jing.

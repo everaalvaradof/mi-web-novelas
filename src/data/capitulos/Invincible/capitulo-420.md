@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 420: ¿Cómo te consideras?"
 numero: 420
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿Hacer que Wang Dingzhi entregue al asesino?

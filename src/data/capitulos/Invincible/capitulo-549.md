@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 549: Tarea del nuevo discípulo"
 numero: 549
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong no esperaba que Wang Biaoyuan tuviera la suerte de encontrarse con una pieza de esencia de metal puro, pero a pesar de saber eso, Huang Xiaolong tiró el asunto al fondo de su mente.

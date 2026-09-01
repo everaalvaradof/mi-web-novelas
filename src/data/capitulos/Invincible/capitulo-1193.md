@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1193: No Hay Amenaza"
 numero: 1193
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Deidad de los Cinco Elementos de rango emperador de alto grado!" Zhu Feng se puso de pie de un salto sorprendido, "¿Te refieres a la Deidad de los Cinco Elementos en el puesto cuatrocientos cincuenta y ocho? Zhu Feng no se veía tan bien.

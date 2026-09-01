@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 901: El grupo de la familia Beitang no cree"
 numero: 901
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los Grandes Ancianos del Instituto del Dragón Azur, incluido Ceng Chu, estaban estupefactos mirando a Huang Xiaolong. Sus rostros estaban cenicientos, ahogados por el miedo a la muerte.

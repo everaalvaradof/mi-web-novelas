@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 416: ¿Un Héroe Quiere Salvar a la Bella Damisela en Apuros?"
 numero: 416
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong voló a una velocidad vertiginosa durante todo el camino sin detenerse a descansar.

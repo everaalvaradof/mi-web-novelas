@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 57: ¿Qué clase de talento que desafía al cielo es este?"
 numero: 57
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Jiang Teng aterrizó a dos metros de Huang Xiaolong. Una luz brutal brilló en sus ojos, de repente una palma golpeó el pecho de Huang Xiaolong.

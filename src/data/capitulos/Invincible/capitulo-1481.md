@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1481: Derrotado a fondo"
 numero: 1481
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡¿Si el Palacio del Emperador Fortune se ha ido ?!

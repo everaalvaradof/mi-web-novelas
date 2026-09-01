@@ -1,7 +1,7 @@
 ---
 titulo: "Capitulo 1162: Puedo protegerte"
 numero: 1162
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En el momento en que Huang Xiaolong estuvo fuera del perímetro de la plaza, el qi del diablo, el qi de la muerte y el qi nefasto se apresuraron a sumergirlo.

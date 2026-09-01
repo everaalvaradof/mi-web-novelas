@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1243: El Día De La Batalla De Los Nuevos Discípulos"
 numero: 1243
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Un destello frío cruzó por los ojos de Huang Xiaolong cuando recordó que Wangu Ziyi había comprado deliberadamente todos los líquidos espirituales del caos del Salón de Comercio de los Círculos Infinitos que Huang Xiaolong necesitaba para reparar la Torre de Mezcla de Píldoras.

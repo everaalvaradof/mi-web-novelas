@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1636: Luz Negra"
 numero: 1636
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando las puertas del palacio se abrieron, la luz negra salió lentamente a través de la brecha.

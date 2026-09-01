@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 647: Tan Lleno"
 numero: 647
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al escuchar al anciano soltar más palabras desvergonzadas, Huang Xiaolong se quedó sin habla por enésima vez, su comprensión de la cara gruesa del anciano se había renovado una vez más.

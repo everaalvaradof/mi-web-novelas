@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1184: Batalla Tan Lin"
 numero: 1184
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong, Zhou Xu, Luo Yunjie, Tan Lin y el resto se acercaron para sacar una ficha cada uno.

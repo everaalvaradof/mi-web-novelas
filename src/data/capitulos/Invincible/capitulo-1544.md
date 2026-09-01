@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1544: Tierra de Penalización del Rayo"
 numero: 1544
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras se dirigían a la tribu, Huang Xiaolong le preguntó a Feng Yaozhong: "Hermano Yaozhong,

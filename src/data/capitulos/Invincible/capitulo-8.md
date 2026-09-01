@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 08: Aventura fortuita en el fondo del lago"
 numero: 8
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong miró las varias piezas de fruta Yang, con los ojos encendidos de deseo. Su garganta se convulsionó nerviosamente y luego se volvió hacia el Mono Espíritu Devorador Violeta cuando finalmente entendió por qué este pequeño mono violeta lo trajo.

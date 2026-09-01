@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 873: Entrega la llave"
 numero: 873
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Wangu Yanhui se sorprendió un poco al descubrir que el joven de cabello negro al lado de You Wuye era solo un Reino de los dioses altos de la Segunda Orden tardía. Había asumido que, como alguien que era elegible para actuar junto con You Wuye, sería más fuerte que un simple Reino de Dioses Alto de la Segunda Orden tardía.

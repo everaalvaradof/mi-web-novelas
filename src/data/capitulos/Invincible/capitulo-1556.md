@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1556: Los Bárbaros Llorando de Alegría"
 numero: 1556
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras Huang Xiaolong se concentraba por completo en absorber los relámpagos divinos del caos de los alrededores, los rayos del relámpago divino del caos se dirigieron hacia Huang Xiaolong a una velocidad impactante.

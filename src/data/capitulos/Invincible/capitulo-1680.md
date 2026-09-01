@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1680: Avanzando hacia el Nethersea"
 numero: 1680
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Espejo mágico de nueve Yin! Mi espejo mágico de nueve yin!!!" Shi Ming se puso de pie y gritó de emoción.

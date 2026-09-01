@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1366: ¿Rebelión?"
 numero: 1366
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La bestia diabólica del vacío Xu Baisheng tampoco empleó una pizca de fuerza divina, ni su corrosivo qi diablo. Simplemente usó su fuerza física, pero pateó un poco más fuerte que el elefante divino Xiang Xun.

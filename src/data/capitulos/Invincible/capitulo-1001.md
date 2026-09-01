@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1001: ¡El Reino de los Dioses Celestiales!"
 numero: 1001
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡La tribulación de un Dios celestial fue un castigo dispensado por los cielos!

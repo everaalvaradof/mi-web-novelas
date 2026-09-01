@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 672: Partiendo hacia la Ciudad Píldora Real"
 numero: 672
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aunque la energía contenida dentro de un śarīra de Buda era menos que una divinidad, era muchas veces mejor que los núcleos de bestias del Reino de Dios Alto que Huang Xiaolong había refinado previamente.

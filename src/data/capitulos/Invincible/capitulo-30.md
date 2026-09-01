@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 30: Dejando la Mansión del Clan Huang"
 numero: 30
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Qide y Huang Ming llegaron a la entrada del pequeño patio, Fei Hou extendió su mano para bloquear su camino; solo se permitió la entrada a Huang Peng.

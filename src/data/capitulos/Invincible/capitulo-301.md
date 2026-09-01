@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 301: Sutra de la alabarda de la santidad eminente"
 numero: 301
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuatro días después, el pequeño hombre taoísta fue completamente refinado por Huang Xiaolong, 'su' conciencia fue erosionada lentamente por la Matriz de Revertir el Origen del Cielo y la Tierra.

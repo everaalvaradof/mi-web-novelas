@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 505: Unificando el Continente de la Nube de Estrellas"
 numero: 505
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sede de la Puerta de Asura.

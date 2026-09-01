@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 697: Gran Problema"
 numero: 697
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los otros cinco guardias de la familia Ying también se pusieron de pie con caras furiosas, pero cuando vieron la pasta de carne aplastada pegada al suelo a centímetros de sus pies, sus cuerpos se pusieron rígidos, estaban demasiado asustados para moverse...

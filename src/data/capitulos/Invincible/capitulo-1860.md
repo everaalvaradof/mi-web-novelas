@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1860: ¡¿Qué, es Huang Xiaolong?!"
 numero: 1860
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El viejo ancestro de la tribu de cadáveres gigantes Nine Yin, Shi Ming, estaba envuelto en aterradores cadáveres qi, y se mantuvo en silencio. Uno solo podía ver dos puntos de luz verde que supuestamente eran sus ojos a través del grueso cadáver qi, dando a otros los escalofríos.

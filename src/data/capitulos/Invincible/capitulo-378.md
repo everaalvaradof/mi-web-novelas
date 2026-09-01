@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 378: Al Templo del Bendito Buda."
 numero: 378
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡La casa budista!" Un brillo agudo parpadeó en los ojos de Chen Chen, excusándose ante el Príncipe Tai Gan, "Su Alteza, nos disculparemos primero".

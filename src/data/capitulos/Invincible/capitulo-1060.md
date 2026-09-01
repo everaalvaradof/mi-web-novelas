@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1060: ¿Cuántas Tablas has comprendido?"
 numero: 1060
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El propósito principal de Huang Xiaolong al ingresar a la Secta del Dios Bárbaro fue la Gran Guerra de Todas las Islas, para llegar a Fortune Mainland. Nunca había pensado en reinar en las tres sectas más prominentes de Green Cloud Island.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1293: El Tesoro de las Fuentes Amarillas"
 numero: 1293
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al día siguiente, el grupo de Huang Xiaolong abandonó la Ciudad del Buda de

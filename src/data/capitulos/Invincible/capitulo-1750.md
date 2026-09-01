@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1750: Zhou Chen se ríe a carcajadas"
 numero: 1750
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Maestro... Maestro, ahorra... sálvame, por favor". Sun Shihai, que yacía en el suelo, tartamudeó cuando vio a Zhou Chen.

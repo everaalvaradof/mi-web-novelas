@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 587: Aventurándose en el Tesoro de Hailstone"
 numero: 587
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Poco tiempo después, Huang Xiaolong finalmente alcanzó la fuente de las poderosas fluctuaciones de energía que sintió antes. Los dos grupos de batalla eran como predijo el Emperador Dragón Ao Taiyi, el grupo de seis personas y las bestias demoníacas del Bosque de Hailstone.

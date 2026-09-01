@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 56: ¿Cuatro Respiraciones?"
 numero: 56
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Jiang Teng miró a Li Lu y su voz fría sonó: “¡Perdón, pero siempre he odiado los 'desperdicios' que dependen de los lazos familiares y las personas que se asocian con estos desperdicios! En esta batalla, no me contendré y si quieres culpar a alguien, ¡échale la culpa a ese desperdicio! " Después de que terminó de decir eso, apuntó abruptamente con el dedo a Huang Xiaolong.

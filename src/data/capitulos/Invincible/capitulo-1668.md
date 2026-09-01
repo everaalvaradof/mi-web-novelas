@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1668: Incapaz de resistir un golpe"
 numero: 1668
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Maestro, parece que esa chica debería ser la joven maestra de palacio del Palacio Brumoso, He Jingyi". Tai Yue informó a Huang Xiaolong a través de la transmisión de sonido, " He Jingyi es extremadamente talentoso y también se considera un genio supremo. ¡Junto con el joven maestro de secta de la Puerta de los Dioses Masacradores, Song Litao, y el joven patriarca de la Raza Roc Oscuro, Wu Dengbing, son conocidos como los tres héroes del Mundo Hell Asura!"

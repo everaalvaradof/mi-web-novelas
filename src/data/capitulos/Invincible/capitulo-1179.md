@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1179: La Técnica Antigua de la Secta del Origen del Dragón"
 numero: 1179
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La mirada de Hu Qi estaba fija en Huang Xiaolong frente a él, con ojos feroces. ¡La razón por la que había expuesto su Físico de Bestia de Cobre Dorado tan temprano y recurrió al arte del dragón divino de la Secta Origen del Dragón fue para enviar a Huang Xiaolong fuera del sabio de batalla con las heridas más graves posibles!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 563: Este Chico Va A Quedar Lisiado"
 numero: 563
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong resopló con frialdad. No podía esperar a ver qué gran personaje estaba dentro, con las agallas para hacerse cargo del patio arreglado para él. Pensando en esto, el dedo de Huang Xiaolong señaló el vacío. Al instante, se disparó una poderosa energía.

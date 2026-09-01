@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1813: Feng Chu Tratando De Solicitar A Las Bestias Extrañas?"
 numero: 1813
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El pecho de Huang Xiaolong se apretó ligeramente con tensión, mirando los numerosos brazos gigantes malévolos.

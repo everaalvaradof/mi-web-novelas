@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1378: La llegada del Elefante Divino Xiang Xun"
 numero: 1378
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El grupo de Ancestros y Patriarcas de la tribu del mar vitoreó en voz alta, mientras el Enviado del Señor Nueve Dragones estaba dominando a la bestia diablo del vacío Xu Baisheng y al Ancestro de la Ceja Dorada.

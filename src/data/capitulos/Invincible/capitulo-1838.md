@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1838: Tierras del Diablo Eterno"
 numero: 1838
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Secta del Diablo de Plata!" Una luz helada brilló a través de los ojos de Huang Xiaolong.

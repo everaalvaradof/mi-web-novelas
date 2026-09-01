@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 732: Mundo de la Montaña Dorada"
 numero: 732
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 No mucho después de que Liu Yilong se fuera, mientras Huang Xiaolong contemplaba los diez pisos subterráneos de la biblioteca, He Jing llegó diciendo que Wude lo estaba buscando.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1457: Vamos a echar un vistazo a la sala de examen"
 numero: 1457
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong verificó las clasificaciones a través de su ficha de identidad después de enviar a los discípulos fuera de la vista con un puñetazo, ¡y vio que su posición había subido del segundo lugar al primer lugar!

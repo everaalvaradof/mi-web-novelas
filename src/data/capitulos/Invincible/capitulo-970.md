@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 970: Eres la persona que quería matar"
 numero: 970
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Justo cuando el grupo de Huang Xiaolong se quedó estupefacto después de encontrarse con la batalla entre Mo Yishi y el Bodhisattva Faction Lord, una fluctuación de energía inesperada se extendió en su dirección.

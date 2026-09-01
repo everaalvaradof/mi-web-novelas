@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1552: Encontrando el Aura Púrpura del Gran Maestro"
 numero: 1552
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Qué? ¡Reino Emperador de finales de la Décima Orden, tal vez incluso alcance el Reino de Dios Emperador de finales de la Décima Orden! " Al escuchar a Lei Budong estimar que Jiang Hong podría ser un Reino Emperador tardío de la Décima Orden o tal vez incluso un Reino Emperador de la Décima Orden, Feng Chen, Huo Haibo, Shui Luosheng y Guang Wenfang jadearon de asombro.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 333: ¿Capaz de contender conmigo?"
 numero: 333
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong mostró una leve sonrisa al escuchar a Lu Kai preguntar sobre su fuerza actual, "En tu opinión, ¿cuál es mi fuerza actual?"

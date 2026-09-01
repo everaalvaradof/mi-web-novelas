@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1254: La persona más fuerte del mundo del diablo"
 numero: 1254
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se quedó sin palabras al ver la cola de la pequeña vaca balanceándose de izquierda a derecha mientras disfrutaba cómodamente del sol.

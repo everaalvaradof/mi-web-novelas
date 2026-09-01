@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 706: Buscando el Fuego Divino de la Tortuga Negra"
 numero: 706
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La feroz bofetada de Li Zishuai dejó a Zhao Weitong sin palabras, ¡los otros Grandes Ancianos de la Familia Zhao quedaron estupefactos!

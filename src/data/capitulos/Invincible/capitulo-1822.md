@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1822: Un Artefacto del Tesoro del Grandmist de hecho"
 numero: 1822
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La furia furiosa ardió en Liu Yuan, Zhao Wendan y el pecho de los otros Antepasados del Palacio del Emperador Dios Demonio mientras veían morir a Feng Chan, devorado por Huang Xiaolong.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1776: ¿El Príncipe Celestial Di Jing se rindió?"
 numero: 1776
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 No muy lejos, Gudu Wuyi se llenó de una angustia indescriptible mientras miraba el cuadragésimo lugar en el tablero de clasificación. Su voz hablaba de furia, desesperación, falta de voluntad y negación mientras sollozaba: "¡Mi hijo Canyang!"

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1606: Dejando las Tierras del Grandmist"
 numero: 1606
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Esto..." El rey de los abuelos frunció el ceño.

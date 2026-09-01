@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1878: El Valle del Oso Dragón"
 numero: 1878
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Lan Chong sonrió y asintió con la cabeza, "Mientras podamos matar a Huang Xiaolong, ¿qué pasa si tenemos que unir nuestras manos con Chiyou y Violent Lightning? Creo que el Viejo Ancestro Shi Ming de la Tribu de cadáveres gigantes nine Yin también estaría muy dispuesto a unirse a nuestra pequeña fiesta".

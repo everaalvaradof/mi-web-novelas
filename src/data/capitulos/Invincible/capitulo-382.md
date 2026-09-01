@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 382: ¡Hermano menor!"
 numero: 382
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 “¡Nuestro Gran Emperador está aquí! La Familia Chen es parte de nuestro Imperio del Bendito Buda, cada generación siempre ha sido leal a nuestro Imperio del Bendito Buda, ¡el Emperador definitivamente está aquí para ayudar a la Familia Chen! "

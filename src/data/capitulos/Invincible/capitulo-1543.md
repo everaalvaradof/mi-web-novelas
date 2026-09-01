@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1543: Barbarians"
 numero: 1543
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong miró a Jiang Hong y le preguntó: "Hermano mayor, ¿puedes averiguar qué tan grande es este espacio?"

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 261: Empiece a tragar la escuela del trago de sangre."
 numero: 261
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Más tarde, cuando nuestro Doyen logre una gran finalización en su Físico del Diablo Eterno y el Dedo de la Tribulación del Diablo, matar a Chen Xiaotian no requerirá más que un movimiento de un dedo". Li Yunhua se rió descaradamente.

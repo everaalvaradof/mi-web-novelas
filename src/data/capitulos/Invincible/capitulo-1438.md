@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1438: La Gran Formación Desolada"
 numero: 1438
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong permaneció en la superficie de Vientiane World durante otro mes, antes de partir hacia la sede de Fortune Gate.

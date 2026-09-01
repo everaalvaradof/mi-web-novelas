@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 910: El verdadero genio número uno en decenas de miles de galaxias"
 numero: 910
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver al grupo de discípulos del clan diablo entrar al restaurante, todos los discípulos de la raza humana se callaron. A pesar de la insatisfacción que sentían hacia la arrogancia de los discípulos del clan diablo, nadie habló.

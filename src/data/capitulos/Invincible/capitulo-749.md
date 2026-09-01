@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 749: ¡El Clan Fénix alertado!"
 numero: 749
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando el grupo de Wan Long estaba fuera de la vista, Huang Xiaolong se volvió hacia una dirección y se alejó a toda velocidad, cabalgando en la etapa de perfección del León de Fuego Cornudo del Reino de Dios de la Décima Orden, junto con las bestias demoníacas restantes hacia el Volcán Fénix.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1622: ¡Cómo te atreves a ignorar mi símbolo de transmisión!"
 numero: 1622
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mirando a Gu Cheng que gritaba de angustia, la expresión de Wang Sinan cambió. "¿Qué le pasa a Zheng'er? ¡¿Le pasó algo ?!"

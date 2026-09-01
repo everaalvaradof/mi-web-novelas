@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 230: Practicando en el piadoso monte Xumi"
 numero: 230
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando la luz de la antigua formación sagrada desapareció, el salón del templo volvió a su calma anterior.

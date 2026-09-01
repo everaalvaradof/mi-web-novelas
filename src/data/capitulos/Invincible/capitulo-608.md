@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 608: Una apuesta super grande"
 numero: 608
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de solidificar su reciente avance en el Reino de Dios de la Quinta Orden, Huang Xiaolong ya no se recluye en el cultivo a puerta cerrada. Al salir de su Yard No.1, se dirigió a Black Warrior City.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 822: Buscando la cuenta del diablo demoníaco"
 numero: 822
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Ese diablo qi insidioso era denso y sofocante, incluso algunos cultivadores de demonios del Reino de Dios de alto nivel tendrían dificultades para soportarlo. Sin embargo, para estos cultivadores del diablo que alcanzaron el pico de finales del Reino de Dios de la Décima Orden y más, el demonio demoníaco qi todavía era soportable.

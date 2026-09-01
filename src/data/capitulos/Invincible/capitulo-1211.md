@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1211: Dirigiéndose a la Nefasta Tribu del Diablo de nuevo"
 numero: 1211
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong, Song Chengli y Liu Zhuo ya eran maestros del Reino de Dios Antiguo. Su velocidad de vuelo era más rápida que la de los barcos voladores. Por lo tanto, no consideraron tomar los servicios de barcos voladores de South Huai City desde Green Cloud Island hasta Dralion Island.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1682: La Montaña Sagrada Aparece"
 numero: 1682
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aunque Huang Xiaolong había esperado que la fruta sagrada trajera una serie de beneficios sorprendentes, ¡todavía estaba asombrado al escuchar que la fruta sagrada era comparable a la fruta grandmista que crecía en el Árbol Grandmist en su huerto maestro Rey de Grandmist!

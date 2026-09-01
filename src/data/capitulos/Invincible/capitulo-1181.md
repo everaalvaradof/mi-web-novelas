@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1181: Pity ah, Pity"
 numero: 1181
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Zhu Feng se puso de pie de un salto de repente, paseando de un lado a otro en el pasillo durante un tiempo antes de gritar una orden a Lu Tai: "¡Investiga a este Huang Xiaolong en detalle para mí!"

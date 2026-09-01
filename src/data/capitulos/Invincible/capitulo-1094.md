@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1094: No Se Permite Escoger Otras Tareas"
 numero: 1094
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong inhaló profundamente. En el pasado, incluso con Bing Jiuyi a su lado, necesitaba tener cuidado al infiltrarse en la fuerza hegemónica de una isla, como la Puerta del Dragón Dorado, pero ahora estaba libre de preocupaciones.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1851: Entrando en la Torre del Diablo"
 numero: 1851
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Innumerables cultivadores llenaron el área alrededor de la torre, pero solo levantaron la cabeza para ver varias figuras disparando a su lado.

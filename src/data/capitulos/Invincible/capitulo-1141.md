@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1141: La Calamidad Inminente del Mundo Divino"
 numero: 1141
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Un río de galaxias que da a luz hierbas espirituales del caos?" Los ojos de Huang Xiaolong se abrieron con asombro.

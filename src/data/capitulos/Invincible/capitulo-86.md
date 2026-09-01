@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 86: Huang Ming e Hijos, Asesinados"
 numero: 86
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Estudiante de la Academia Cosmic Star!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 848: Ojos de Perro Ciego"
 numero: 848
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En comparación con Xiang Mingzhi, la clasificación de Huang Xiaolong era peor que la mierda de perro.

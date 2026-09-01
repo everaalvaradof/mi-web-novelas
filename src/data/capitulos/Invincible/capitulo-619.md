@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 619: No lo dejaremos pasar"
 numero: 619
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Entre la risa salvaje y resonante de ese discípulo de élite de All Dragons League, dos puños se encontraron en una poderosa colisión.

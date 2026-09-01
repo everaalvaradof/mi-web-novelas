@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 120: ¡Bestia espiritual!"
 numero: 120
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El Señor del Valle de los Nueve Fénix echó un vistazo a los lugares donde las flores de espada pasaban rozando. Los emblemas de flores florecieron uno tras otro por todo su cuerpo, haciendo que la sangre brotara de ellos.

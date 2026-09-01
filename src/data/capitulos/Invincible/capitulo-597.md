@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 597: Precio Exorbitante que Sacude la Tierra"
 numero: 597
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La cantidad casi conmocionó a algunos de los Grandes Ancianos y Patriarcas de las primeras fuerzas clasificadas hasta su lecho de muerte. Incluso los Grandes Ancianos y Patriarcas de las superfuerzas sentados en las habitaciones privadas de arriba casi se les salen los ojos de las órbitas.

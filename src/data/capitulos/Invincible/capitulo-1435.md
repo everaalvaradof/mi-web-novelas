@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1435: Refinando el Jade del Rey del Mundo de las Tinieblas"
 numero: 1435
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Aunque ahora estaba seguro de que podía controlar la formación central del Estanque Relámpago del Dragón Dorado, Huang Xiaolong no se lanzó imprudentemente a refinar el Jade del Rey del Inframundo. En cambio, se familiarizó con el poder del Golden Dragon Lightning Pool.

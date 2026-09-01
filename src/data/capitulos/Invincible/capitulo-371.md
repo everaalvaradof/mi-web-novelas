@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 371: Poder de batalla de los escarabajos del cadáver venenoso"
 numero: 371
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿Jurar lealtad a las Deidades Templarias?

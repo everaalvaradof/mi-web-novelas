@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 479: No lo mates accidentalmente"
 numero: 479
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Hace unos momentos, en el camino hacia aquí, Zhu Yu estaba pensando en cómo mostrar una buena actuación frente al Patriarca y al Joven Noble Lei cuando atrapó al delincuente.

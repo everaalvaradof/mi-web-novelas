@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1584: La Bestia Galaxial"
 numero: 1584
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Xiaolong, ¿no volveremos al Palacio del Emperador Fortune?" Li Lu preguntó mientras dejaban la Avenida Heavens. El barco volador del tiburón dragón no se dirigía en la dirección de donde venían y Li Lu lo encontró un poco extraño.

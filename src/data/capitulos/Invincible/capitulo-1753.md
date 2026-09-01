@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1753: Devorando a Sun Shihai"
 numero: 1753
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Sun Shihai fue arrastrado ante Huang Xiaolong, ya no pudo ocultar la mirada de miedo en sus ojos. Especialmente cuando miró a las cuatro extrañas bestias detrás de Huang Xiaolong, sus piernas se volvieron suaves y su cuerpo tembló incontrolablemente. Se revoloteó impotente, esperando que ocurriera un milagro.

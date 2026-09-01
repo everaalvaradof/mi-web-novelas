@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 196: Mundo Divino"
 numero: 196
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Hay noticias sobre las Deidades Templarias?" La sorpresa de Huang Xiaolong fue instantáneamente anulada por la alegría.

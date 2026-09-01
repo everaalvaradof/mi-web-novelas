@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1130: Mejor establecer una etapa de competencia marcial"
 numero: 1130
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los labios de Ju Wufei se curvaron en una mueca siniestra, su mirada fija en Lu Zhuo y Gu Ling, así como en los discípulos de la Secta Dios Bárbaro en el suelo de abajo.

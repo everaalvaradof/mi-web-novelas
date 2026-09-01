@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1379: Los Nueve Dragones Volcando el Mar"
 numero: 1379
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong ordenó a Xiang Xun: "¡Mata!" El elefante divino Xiang Xun no dudó y atacó; rugió, y poderosas ondas sonoras perforaron el cielo mientras levantaba una pierna delantera y estampaba en el enviado especial del Palacio del Emperador de los Nueve Dragones.

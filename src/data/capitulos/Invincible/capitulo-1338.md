@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1338: Más gente no significa más poder"
 numero: 1338
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong sintió una sensación de alivio al mirar el tranquilo río Blue Spectre Spring burbujeando tranquilamente dentro de su Anillo de Buda Fantasma. Recuperó la túnica mágica de Yellow Springs en el anillo del Buda fantasma y la dejó empapar en el agua azul del río.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1412: El Clan de la Bestia Celestial"
 numero: 1412
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Xiaoniu, has estado aquí antes, así que lideras el camino". Dijo Huang Xiaolong mientras saltaba sobre el lomo de la vaca. "¡Dirígete primero al mundo del Buda Real!"

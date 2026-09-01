@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 143: Encontrarse con Yang An de nuevo"
 numero: 143
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Yang An!

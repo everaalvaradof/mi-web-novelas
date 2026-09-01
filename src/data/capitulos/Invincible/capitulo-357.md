@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 357: ¡Las Ruinas del Antiguo Clan Dragón, Encontradas!"
 numero: 357
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al sentir la reacción de los espíritus marciales del dragón negro y azul dentro de su cuerpo, ¡el corazón de Huang Xiaolong saltó de alegría!

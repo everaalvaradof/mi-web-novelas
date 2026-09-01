@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1009: Altísimo Pico del Cielo"
 numero: 1009
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Gu Ling emitió un grito frío, y aunque no fue ruidoso, todo el salón pareció caer en un eterno abismo helado.

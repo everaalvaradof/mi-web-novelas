@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 544: Aprendizaje"
 numero: 544
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al ver la expresión atónita y desconcertada del director del instituto, el gran anciano Chan Yu asintió con toda seriedad: "¡Es así, director, que Huang Xiaolong tiene apenas treinta y tantos años!"

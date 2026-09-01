@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1168: Has llegado en el momento adecuado"
 numero: 1168
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡La vivienda de cultivo de Lord Gui Fu!

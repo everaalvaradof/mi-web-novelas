@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 832: Refinando la Formación Central"
 numero: 832
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de rastrear los recuerdos del Rey Bestia Celestial Piercing, una pequeña flecha azul helada salió disparada del dedo de Huang Xiaolong y penetró en su cráneo.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 242: Veneno sin forma"
 numero: 242
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Más de una docena de sucursales de Nine Tripod Commerce estaban bajo un brutal asedio. Al igual que Huang Xiaolong, los presentes en el banquete de bodas adivinaron fácilmente que los autores intelectuales eran la Familia Yao y las Deidades Templarias. Todos en el pasillo permanecieron en silencio ya que nadie se atrevió a interrumpir la contemplación de Huang Xiaolong.

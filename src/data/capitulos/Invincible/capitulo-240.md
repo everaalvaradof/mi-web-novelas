@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 240: ¡Los problemas realmente vinieron!"
 numero: 240
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Pasaron dos días de ajetreados preparativos para la boda.

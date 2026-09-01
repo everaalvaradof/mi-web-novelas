@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1207: Wangu Dongchen"
 numero: 1207
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Punk, ¿estás seguro de que tienes los ojos de un humano y no los de un perro?" La pequeña vaca resopló al discípulo de Infinite Circles Commerce Hall que custodiaba la entrada.

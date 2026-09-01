@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 607: El reino de los dioses de quinto orden"
 numero: 607
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Sentado en una posición con las piernas cruzadas dentro del Templo Xumi, Huang Xiaolong sacó el séptimo núcleo de la bestia dragón divina del Reino Highgod.

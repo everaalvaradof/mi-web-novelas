@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 328: De vuelta en el reino de Luo Tong"
 numero: 328
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El anciano vestido con túnica gris miró con aprecio las heridas cubiertas de sangre en el cuerpo de Lu Kai, una sonrisa se deslizó por su rostro, floreciendo en carcajadas, pero se veía retorcida: "Punk, tienes una boca sobre ti, quieres cortarme. en pedazos y darme de comer a los cerdos? ¿Depender de sus circunstancias actuales? La voz del anciano estaba llena de burla.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 763: ¡Nada más que un tonto!"
 numero: 763
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El alboroto afuera hizo que todos en la mesa de Huang Xiaolong miraran hacia la entrada mientras un gran grupo de personas entraba, un poco más de treinta personas.

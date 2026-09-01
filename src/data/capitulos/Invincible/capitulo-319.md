@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 319: Mandato del Pacto de Sangre"
 numero: 319
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las almas de las criaturas fantasmas no eran diferentes a las de un humano, era el bloque fundamental de su existencia.

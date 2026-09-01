@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 254: ¿Quién te permitió irte?"
 numero: 254
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡¿De verdad lo mataste ?!" Los dos Ancianos restantes de la Secta Mago del Cielo tartamudearon, viendo que la sangre del Anciano se filtraba por el agujero en el medio de su frente.

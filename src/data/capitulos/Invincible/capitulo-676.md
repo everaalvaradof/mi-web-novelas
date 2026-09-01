@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 676: El Fuego Divino del Dragón Azul"
 numero: 676
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Viejo, ¿esa tableta es la tarjeta de privilegio de esta Royal Pill House?" Huang Xiaolong preguntó con curiosidad al ver que la tableta negra del anciano era suficiente para aterrorizar al dueño del restaurante hasta el punto de arrodillarse.

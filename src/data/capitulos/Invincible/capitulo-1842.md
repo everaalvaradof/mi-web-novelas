@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1842: Entremos"
 numero: 1842
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Llegó el día de la subasta y el clima era hermoso. Huang Xiaolong y el resto salieron del patio y se dirigieron al lugar de la subasta.

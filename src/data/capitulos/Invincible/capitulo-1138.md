@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1138: Bestia Espiritual del Caos, Mandril Negro"
 numero: 1138
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Así fue como el campo de batalla extraterritorial del diablo obtuvo su nombre!

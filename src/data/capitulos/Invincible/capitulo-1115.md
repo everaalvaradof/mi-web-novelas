@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1115: La Ciudad de la Tribu del Mar"
 numero: 1115
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Recibir un golpe de las palmas de Bing Jiuyi causó que una gruesa capa de hielo verde cubriera los cuerpos de los dos Metal Carapace Searhinos en un abrir y cerrar de ojos. Sin embargo, lo que Huang Xiaolong no esperaba era que escaparan de convertirse en estatuas de hielo.

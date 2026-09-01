@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1436: Vamos a chispear"
 numero: 1436
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿Reino de Dios Ancestro de la Séptima Orden?

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 94: Pequeño Pueblo Extraño"
 numero: 94
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Mientras Huang Xiaolong caminaba hacia el grupo, todos los estudiantes voltearon la cabeza, mirando en su dirección con emociones complejas evidentes en sus ojos. Después de todo, Huang Xiaolong había avanzado a la Séptima Orden y solicitó una prueba de avance de clase. Ayer, poco después de que Huang Xiaolong regresara a la Mansión Tianxuan, la noticia se había extendido por toda la Academia de la Estrella Cósmica.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1133: ¡Estamos dispuestos a doblarlo!"
 numero: 1133
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La cabeza de la bestia era del tamaño de una pequeña montaña, sus ojos rojo sangre se asemejaban a dos grandes lagos. Su aparición provocó que un aura salvaje y primitiva descendiera sobre la cordillera de la Secta del Dios Bárbaro.

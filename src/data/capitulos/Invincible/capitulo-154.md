@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 154: La fuerza interna rompe el nivel Xiantian"
 numero: 154
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La victoria de Huang Xiaolong en el campeonato general de la Academia permitió a los guardias y sirvientes de la Mansión Tianxuan disfrutar del protagonismo. Todos estaban un poco más altos y más orgullosos.

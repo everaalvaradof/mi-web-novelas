@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 135: ¿Encerrar?"
 numero: 135
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La multitud del Clear Cloud Pavilion observó con cautela mientras Huang Xiaolong se acercaba a Mei Pengliang con malicia, y todos rápidamente rodearon a Mei Pengliang en un círculo protector.

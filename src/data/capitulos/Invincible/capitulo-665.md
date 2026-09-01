@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 665: Promoción a la posición de anciano"
 numero: 665
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Penalizar a Huang Xiaolong?" Liu Yu, Qi Bowen y algunos otros Grandes Ancianos presentes intercambiaron miradas entre ellos, cada uno con dudas.

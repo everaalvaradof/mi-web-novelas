@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1229: ¿A qué sabe el arrepentimiento?"
 numero: 1229
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿Salió temprano en la mañana? "Huang Xiaolong no se lo tomó en serio cuando escuchó eso. Sabía que a Yao Chi le gustaba ir de compras.

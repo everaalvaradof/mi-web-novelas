@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1455: Puedes atacar en cualquier momento"
 numero: 1455
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿Me encontraste por fin? ¿Qué significa eso? ¿Han estado estos discípulos tratando de encontrarlo durante todo este tiempo? Mientras estas dudas pasaban por la mente de Liu Qin, el grupo de discípulos lo alcanzó.

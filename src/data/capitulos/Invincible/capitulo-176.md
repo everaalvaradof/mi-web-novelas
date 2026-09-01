@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 176: Batalla en la Ciudad Imperial (8)"
 numero: 176
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¿Ya no puedes quedarte aquí?" Huang Xiaolong repitió con un ligero surco en la frente.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 251: ¡Un impetuoso esclavo que busca la muerte!"
 numero: 251
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Hacía un hermoso clima soleado al día siguiente!

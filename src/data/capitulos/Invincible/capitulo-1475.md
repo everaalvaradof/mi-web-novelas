@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1475: El encuentro con Bei Xiaomei de nuevo"
 numero: 1475
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se dio cuenta de que el hermano mayor Chen Hao lo había esperado específicamente, lo que lo hizo sentir avergonzado.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1367: Captura y Castigo"
 numero: 1367
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Una vez que el grupo de Huang Xiaolong desapareció del horizonte, He Fang juró lleno de odio: “¡Huang Xiaolong, yo, He Fang me aseguraré de que te expulsen de la Puerta de la Fortuna si es lo último que hago, o renunciaré a mi apellido! "

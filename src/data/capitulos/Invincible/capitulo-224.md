@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 224: ¡Asombrado!"
 numero: 224
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Deslumbrado por el abrupto brillo proveniente del Altar del Bendito Buda, la ruidosa multitud se calmó en un instante. Cada persona miraba en silencio el Altar del Bendito Buda flotante en el aire.

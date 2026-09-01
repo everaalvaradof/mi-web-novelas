@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1170: ¿Acabas de decir Chen Weiping?"
 numero: 1170
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En este momento, Chen Weiping realmente pensó en la primera vez que había matado después de ingresar al Spirit Lake Cult.

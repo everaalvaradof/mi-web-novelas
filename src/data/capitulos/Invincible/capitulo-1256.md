@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1256: La recuperación de Wangu Ziyi"
 numero: 1256
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¿Darle una buena paliza?

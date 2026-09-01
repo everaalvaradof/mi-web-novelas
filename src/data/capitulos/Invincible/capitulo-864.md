@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 864: La morada de cultivo del antiguo dios del rayo"
 numero: 864
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al llegar a la megalópolis, Huang Xiaolong no entró por las puertas de la ciudad. En cambio, voló y se detuvo sobre la ciudad.

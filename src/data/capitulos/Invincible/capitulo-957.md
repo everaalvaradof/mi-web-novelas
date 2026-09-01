@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 957: El Mensajero Fantasma Infernal"
 numero: 957
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dado que el ancestro del antiguo clan diablo Mo Yishi había ido al Mar del Infierno, el curso de acción de Huang Xiaolong era limitado. Primero vino el asunto con la Secta Refinadora del Fantasma, rescatando a su Maestro, luego se ocuparía de Mo Yishi en el Mar del Infierno.

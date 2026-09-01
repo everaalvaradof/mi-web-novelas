@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1501: ¿Suegro?"
 numero: 1501
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Fang Xuanxuan respiró hondo, haciendo un esfuerzo por calmarse de esta reciente conmoción. Sin embargo, después de considerarlo más detenidamente, ¿debería informar de este asunto a su padre? ¿Y también a su tío Zhao?

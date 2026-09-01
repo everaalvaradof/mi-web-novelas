@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 934: Un pacto de cinco años"
 numero: 934
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Las mansiones vecinas a la Residencia del Sol y la Luna de Huang Xiaolong fueron levantadas fácilmente en el aire por la fuerza de la palma del joven de la Secta Refinación Fantasma. Esas mansiones tenían sus propias formaciones defensivas, pero contra la fuerza de la palma del joven que era roja como la sangre, sus efectos eran insignificantes.

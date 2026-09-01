@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 71: Llama a tu espíritu marcial"
 numero: 71
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Una luz deslumbrante salió del cuerpo de Lu Kai cuando una sombra gigantesca emergió sobre él.

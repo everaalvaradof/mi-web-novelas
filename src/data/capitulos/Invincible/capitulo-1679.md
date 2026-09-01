@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1679: Refinando el Espejo Mágico de los Nueve Yin"
 numero: 1679
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong voló varias rondas alrededor de la Mansión Heaven Dome sin restricciones.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 300: Píldora espiritual de grado divino"
 numero: 300
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong parpadeó hasta convertirse en un borrón, aterrizando cerca de las varias chozas de paja...

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1597: La Galaxia Grandmist La Galaxia Grandmist"
 numero: 1597
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cinco días después, el barco volador Dragon Shark se detuvo sobre las ruinas.

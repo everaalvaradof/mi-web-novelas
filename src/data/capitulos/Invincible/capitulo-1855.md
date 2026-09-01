@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1855: Rodar hacia abajo desde aquí"
 numero: 1855
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 A pesar de que Huang Xiaolong había mostrado una fuerza aterradora en el primer piso, Chen Weijian se negó a creer que un mero Monarca Celestial de la Octava Orden pudiera ir en su contra.

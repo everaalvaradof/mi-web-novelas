@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 368: Mundo Emperador de la Paz"
 numero: 368
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡La Orden Asura apareció, provocando una tormenta!

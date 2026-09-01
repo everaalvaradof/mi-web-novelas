@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1155: La Secta del Origen del Dragón"
 numero: 1155
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Para el viaje a Fortune Mainland, Huang Xiaolong no planeaba llevar a demasiada gente con él; Aparte de los Ancestros de las tres sectas y los cuatro discípulos participantes, solo estaban Huang Xiaolong, Yao Chi y la pequeña vaca.

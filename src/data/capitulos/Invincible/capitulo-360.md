@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 360: Gran Sable Dragón"
 numero: 360
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Chen Tianqi corrió hacia el pasillo en un destello rápido, sus ojos agudos escanearon alrededor del espacioso salón y finalmente cayeron en los cuatro lugares donde solían estar los cuatro pilares de cristal antes de que Huang Xiaolong los tomara.

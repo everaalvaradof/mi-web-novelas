@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 943: La quinta sección del Templo Sagrado Dan"
 numero: 943
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de ingresar a la primera sección del Templo Sagrado de Dan, la vista frente a Huang Xiaolong se convirtió en una escena diferente. Llegó a una plaza de refinación de píldoras que estaba completamente vacía excepto por él.

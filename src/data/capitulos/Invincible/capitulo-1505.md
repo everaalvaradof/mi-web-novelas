@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1505: La Formación del Núcleo del Tesoro Tianwu"
 numero: 1505
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al mirar a un grupo de rostros desconcertados, la pequeña vaca sonrió ampliamente y luego comentó: “No esperaba que Kiddo Tianwu hubiera colocado una formación de ilusión tan poderosa al final del laberinto. Si la vista de esta vaca hubiera sido un poco peor, me habría engañado ".

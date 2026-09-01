@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1117: La Tribu de los Peces de Escamas Azules"
 numero: 1117
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong entró en la sala de subastas, solo había unas doscientas o trescientas personas esparcidas en diferentes lugares en la enorme sala.

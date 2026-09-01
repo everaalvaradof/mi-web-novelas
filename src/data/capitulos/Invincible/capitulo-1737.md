@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1737: Controlando a Shi Yinyu"
 numero: 1737
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Emergiendo del cuerpo de Huang Xiaolong, con la Ciudad de la Eternidad, estaban los cien Netherguards títeres no muertos. Impulsada por estos cien Netherguards títeres no muertos, la Ciudad de la Eternidad emitió luces deslumbrantes que eclipsaron todo lo demás en el mundo.

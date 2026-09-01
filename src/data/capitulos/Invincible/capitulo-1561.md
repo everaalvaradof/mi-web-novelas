@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1561: ¿Quieres rodar de nuevo?"
 numero: 1561
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 En poco tiempo, Chen Qinghai, Tian Ziyi, Bai Yunxiang y los demás descubrieron la expresión de miedo en el rostro de Wang Shuchen y Wang Shuyu.

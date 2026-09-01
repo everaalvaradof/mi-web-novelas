@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1433: Yao Chi y Li Lu"
 numero: 1433
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡¿El antepasado y jefe de la secta de la secta del dios bárbaro ?!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 297: Árbol del Mundo Divino"
 numero: 297
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 ¡Nunca hubiera esperado que en el fondo de esta grieta existiera tal tesoro! Incluso con la actitud tranquila de Huang Xiaolong, no pudo evitar emocionarse, además, en este pequeño estanque de primavera fría, detectó dos peces de energía espiritual natural, ¡no uno!

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1050: ¿Qué has dicho?"
 numero: 1050
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los actuales maestros y discípulos de la Secta del Dios Bárbaro estaban inquietos con nerviosismo mirando a Huang Xiaolong.

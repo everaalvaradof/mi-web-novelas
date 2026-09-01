@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 727: Qi Qianqian"
 numero: 727
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Los discípulos de élite del Instituto Vermilion Bird abrieron sus viviendas de cultivo en la cordillera del Fuego Viril de la Superficie del Mundo Vermilion Bird.

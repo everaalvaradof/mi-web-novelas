@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 11: ¿Cómo has llegado a la Primera Orden?"
 numero: 11
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Incluso si Huang Wei posee un espíritu marcial de grado diez, la acción de su padre es demasiado parcial para él!" Su Yan argumentó de una manera insatisfecha. "¿Podría ser al final de la Asamblea del Clan del año nuestro Xiaolong realmente...?" Las palabras se ahogaron en su garganta cuando los ojos de Su Yan se pusieron rojos.

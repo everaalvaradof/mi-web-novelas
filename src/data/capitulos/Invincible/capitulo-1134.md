@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1134: Entrando en la Secta de la Gran Ballena"
 numero: 1134
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Lu Zhuo y Gu Ling se movieron tácitamente. Sus dedos índices apuntaban a la espalda de An Zaixuan y Qiu Bihu, haciendo que dos poderosos rayos de fuerza de los dedos perforaran directamente sus traseros.

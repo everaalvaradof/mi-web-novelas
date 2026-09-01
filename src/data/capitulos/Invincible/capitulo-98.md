@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 98 Alas de demonio"
 numero: 98
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Caminando hacia el salón principal, sus padres, Huang Peng y Su Yan, estaban allí. Aparte de ellos dos, en el salón principal estaba sentada una mujer joven con un vestido largo de color verde pastel. La joven tiene la piel blanca cremosa, labios suaves en flor de cerezo y ojos brillantes que tenían un rastro de picardía y picardía y tenía dos hermosos hoyuelos en sus mejillas, similares a un hada inmortal no manchada por el reino de los mortales.

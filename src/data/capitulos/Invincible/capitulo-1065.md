@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1065: ¡Buscando la Muerte!"
 numero: 1065
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Durante su último encuentro en la ciudad de Pingyi, Huang Xiaolong se rompió todos los huesos de su cuerpo. Solo después de varios meses de curación al consumir una gran cantidad de bolitas divinas, logró recuperarse por completo. ¡Esta fue la mayor humillación de su vida!

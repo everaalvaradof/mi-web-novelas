@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 532: Artefacto Divino"
 numero: 532
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de ser bloqueado, Huang Xiaolong no mostró ningún enojo. Sonriendo levemente, sacó la ficha de jade que Ke Can le había dado el otro día, agitándola frente a ellos, "¿Puedo entrar ahora?"

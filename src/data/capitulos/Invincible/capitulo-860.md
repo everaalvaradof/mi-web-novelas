@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 860: ¿El surgimiento de un tesoro extraordinario?"
 numero: 860
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Cuando Huang Xiaolong absorbió los cuatro fuegos divinos en su cuerpo, emergió el diagrama del Dragón del Tesoro generalmente oculto, absorbiendo la fuerza de la esencia del Fuego Divino del Dragón Azur a una velocidad frenética.

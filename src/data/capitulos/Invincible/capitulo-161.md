@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 161: No hay escape para Huang Xiaolong"
 numero: 161
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Eso es correcto." La admisión de Huang Xiaolong fue distante.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1645: Matar al corazón"
 numero: 1645
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 El ancestro gao Yu y el antepasado Zhang Xiaomeng sintieron que su flujo sanguíneo se había invertido, y un dulce sabor brotó en sus gargantas, ¡entonces puhh-f!

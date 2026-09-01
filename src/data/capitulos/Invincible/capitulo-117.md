@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 117: Duan Wuhen"
 numero: 117
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Negando con la cabeza, Fei Hou dijo: “Nadie sabe cuál es el espíritu marcial de Duan Wuhen; se dijo que nunca muestra su espíritu marcial en público ".

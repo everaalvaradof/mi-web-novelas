@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 690: ¿Estás seguro?"
 numero: 690
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Antes de esto, fue Xiang Mingzhi quien desafió a Huang Xiaolong ante el público, y si Huang Xiaolong perdía tenía que realizar mil reverencias. Además de eso, ¡también tenía que llamar a Xiang Mingzhi Ancestor de ahora en adelante!

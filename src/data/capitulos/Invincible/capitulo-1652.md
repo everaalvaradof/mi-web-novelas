@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1652: Asistiendo a la boda"
 numero: 1652
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Parece que todas estas superpotencias están invitadas por la Puerta Asura. ¿Están celebrando algo?" Preguntó el León de Oro Wan Yutian.

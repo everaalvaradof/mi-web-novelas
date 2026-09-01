@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1167: El Depósito del Buda Fantasma"
 numero: 1167
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Poco tiempo después, Huang Xiaolong había terminado de recorrer los recuerdos de los dos Reyes Asura. No esperaba que estos dos Reyes Asura hubieran llegado al Campo de Batalla del Diablo Extraterritorial después de encontrarse accidentalmente con un agujero negro en el Mundo Asura.

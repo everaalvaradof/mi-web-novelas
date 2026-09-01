@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 141: Subasta del Millón de Tesoros"
 numero: 141
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Después de que Fei Hou se fue, Huang Xiaolong y el mariscal Haotian lo esperaron en el salón principal de Nine Tripod Commerce.

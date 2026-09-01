@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1274: ¿Conoces a mi bisabuelo?"
 numero: 1274
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 La pequeña vaca le dedicó una sonrisa radiante a la bestia diabólica del vacío cuando la llamó 'Pequeña Vaca Azul' y dijo: "¿No parece que puedas darme lo que quiero?" Su tono estaba lleno de provocación.

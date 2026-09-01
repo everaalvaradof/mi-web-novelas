@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 491: Déjate vivir unos días más"
 numero: 491
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Lei Hua estaba sentado junto a su padre, Thunder Human King. Justo cuando llenaba la copa de vino de su padre, el rabillo del ojo vio a Huang Xiaolong. Su acción se detuvo por un segundo debido a la sorpresa antes de ponerse de pie con la intención asesina en su corazón.

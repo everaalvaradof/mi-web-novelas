@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 496: Deities Templar's Li Lu Appears"
 numero: 496
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Una luz brilló en las manos de Huang Xiaolong, revelando las Espadas de Asura.

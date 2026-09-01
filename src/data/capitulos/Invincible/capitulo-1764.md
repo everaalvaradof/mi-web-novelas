@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1764: Mo Xiao presenta sus respetos"
 numero: 1764
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Huang Xiaolong se rió misteriosamente y dijo: "Es un secreto".

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1774: Muy bien"
 numero: 1774
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Jefe de secta, ¿quiere decir que la fuerza de Huang Xiaolong es comparable al Príncipe Celestial Di Jing?" La voz del Ancestro de la Secta de la Divinidad Verdadera tartamudeaba mucho, y no podía hacerse sonar tranquilo sin importar qué.

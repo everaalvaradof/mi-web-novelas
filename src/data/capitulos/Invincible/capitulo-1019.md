@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1019: No he comido carne en mucho tiempo"
 numero: 1019
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Dejando el valle escondido, Huang Xiaolong continuó adelante, montado en la pequeña vaca de cuernos dorados.

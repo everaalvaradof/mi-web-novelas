@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 614: ¡La Arena Hierve! ¡Asombrado!"
 numero: 614
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Al final, bajo la constante incitación de Huang Xiaolong, Xiang Mingzhi se vio obligado a sacar uno tras otro un tesoro antiguo que desafía el cielo. Su corazón sangraba profusamente con cada tesoro que tenía que sacar. Estos tesoros antiguos eran toda su riqueza.

@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 203: Este asunto no será perdonado tan simplemente"
 numero: 203
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡Sí, fue Huang Xiaolong!" ¡Intervino Guo Fei!

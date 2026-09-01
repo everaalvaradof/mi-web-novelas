@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1605: Planeando ir solo"
 numero: 1605
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "Maestro, ¿puede saber cuándo despertarán los tres tipos de línea de sangre archidevil diferente del Hermano Menor?" Mientras las olas se estrellaban en el corazón del rey de la abuela, Jiang Hong no pudo contenerse y preguntó.

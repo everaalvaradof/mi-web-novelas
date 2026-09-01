@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 151: Batalla por el Número Uno de la Academia"
 numero: 151
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 "¡¿Cómo es esto posible?!"

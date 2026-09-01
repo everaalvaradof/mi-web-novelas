@@ -1,7 +1,7 @@
 ---
 titulo: "Capítulo 1369: ¿Podría ser falso?"
 numero: 1369
-novelaId: "Invincible"
+novelaId: "invincible"
 ---
 
 Black Ice Ancestor miró a Gui Yi con horror mientras luchaba por recuperar el equilibrio en la esquina del pasillo.
