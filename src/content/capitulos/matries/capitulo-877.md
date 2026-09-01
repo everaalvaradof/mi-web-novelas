@@ -1,5 +1,5 @@
 ---
-titulo: "Capítulo 877: Sintiendo que estaba siendo atrapada "engañando""
+titulo: "Capítulo 877: Sintiendo que estaba siendo atrapada engañando"
 numero: 877
 novelaId: "matries"
 ---

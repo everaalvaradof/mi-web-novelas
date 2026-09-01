@@ -1,5 +1,5 @@
 ---
-titulo: "Capítulo 348: "El mundo" terminó"
+titulo: "Capítulo 348: El mundo terminó"
 numero: 348
 novelaId: "matries"
 ---

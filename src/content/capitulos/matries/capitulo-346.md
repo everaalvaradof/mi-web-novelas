@@ -1,5 +1,5 @@
 ---
-titulo: "Capítulo 346: Carta de amor "maravillosa""
+titulo: "Capítulo 346: Carta de amor maravillosa"
 numero: 346
 novelaId: "matries"
 ---
