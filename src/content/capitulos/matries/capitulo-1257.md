@@ -1,5 +1,5 @@
 ---
-titulo: "Capítulo 1257: "Seres" desdeñados"
+titulo: "Capítulo 1257: Seres desdeñados"
 numero: 1257
 novelaId: "matries"
 ---

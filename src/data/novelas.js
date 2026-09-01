@@ -39,6 +39,25 @@ export const novelas = [
         
     },
     { 
+        id: "tsihm", 
+        titulo: "Tondemo Skill de Isekai Hourou Meshi", 
+        genero: "Acción, Aventura, Comedia, Fantasía", 
+        anio: "2016", 
+        imagen: "/portada/tsihm.jpg",
+        sinopsis: "Mukouda Tsuyoshi no era nada especial en el Japón moderno, por lo que cuando fue convocado a un mundo de espadas y brujería, pensó que estaba listo para la aventura de su vida. ¡Lástima que el reino que lo convocó solo lo consiguió por error!",
+        totalCapitulos: 141,
+        capitulosPublicados:"Cap 141",
+        categoria: "Actualizadas",
+        pais: "Japonesas",
+        autor: "Eguchi Ren",
+        
+        // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
+        seo: {
+            title: "Leer Tondemo Skill de Isekai Hourou Meshi en Español - Novelas Ligeras",
+            description: "Disfruta de Tondemo Skill de Isekai Hourou Meshi en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
         id: "matries", 
         titulo: "Matrimonio Escondido", 
         genero: "Acción, Drama, Harem, Artes-Marciales, Seinen, Xuanhuan", 
@@ -115,53 +134,14 @@ export const novelas = [
         }
     },
     { 
-        id: "cdmf", 
-        titulo: "La casa de la esposa feliz", 
-        genero: "Action, Fantasy, Martial-Arts, Novela-Ligera, Ranobe",
-        anio: "2023", 
-        imagen: "/portada/cdmf.jpg",
-        sinopsis: "Diez mil años después de su muerte, Ling Han, el legendario Emperador de la Alquimia, renace en el cuerpo de un joven que comparte su nombre. Armado con el Pergamino Celestial Invencible y la sabiduría de su vida pasada, Ling Han regresa para reclamar su lugar en un mundo dominado por genios rivales. Con determinación absoluta, se propone demostrar que, en cualquier era, él es el guerrero más poderoso bajo los cielos.",
-        totalCapitulos: 4929,
-        capitulosPublicados:"Cap 100",
-        categoria: "Terminadas",
-        pais: "chinas",
-        autor: "Shen Jian",
-        
-        // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
-        seo: {
-            title: "Leer El Yerno Millonario en Español - Novelas Ligeras",
-            description: "Disfruta de El Yerno Millonario en Español completa y traducida al español. Lee todos los capítulos online gratis."
-        }
-        
-    },
-    { 
-        id: "umg", 
-        titulo: "URBAN MEDICAL GOD", 
-        genero: "Acción, Aventura, Fantasía, Harem, Artes Marciales, Madura, Xianxia", 
-        anio: "2012", 
-        imagen: "/portada/umg.jpg",
-        sinopsis: "En las peligrosas y lluviosas calles de una metrópolis moderna un joven médico marcado por la tragedia y poseedor de habilidades extraordinarias emerge de las sombras para impartir justicia divina y curación milagrosa desafiando a los poderes fácticos y al inframundo con un bisturí en una mano y el destino de la ciudad en la otra.",
-        totalCapitulos: 7524,
-        capitulosPublicados: "Cap 7524",
-        categoria: "Terminadas",
-        pais: "chinas",
-        autor: "The Wind will Laugh",
-        
-        // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
-        seo: {
-            title: "Leer URBAN MEDICAL GOD en Español - Novelas Ligeras",
-            description: "Disfruta de URBAN MEDICAL GOD en Español completa y traducida al español. Lee todos los capítulos online gratis."
-        }
-    },
-    { 
-        id: "ellm", 
+        id: "eym", 
         titulo: "El Yerno Millonario", 
         genero: "Acción, Aventura, Fantasía, Harem, Artes Marciales, Madura, Xianxia", 
         anio: "2012", 
-        imagen: "/portada/ellm.jpg",
+        imagen: "/portada/eym.jpg",
         sinopsis: "Tras despertar en el cuerpo de un joven campesino...",
-        totalCapitulos: 7000,
-        capitulosPublicados: "Cap 7000",
+        totalCapitulos: 3704,
+        capitulosPublicados: "Cap 3704",
         categoria: "Terminadas",
         pais: "chinas",
         autor: "Señor de las Hojas",
@@ -187,27 +167,8 @@ export const novelas = [
         
         // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
         seo: {
-            title: "Leer El Yerno Millonario en Español - Novelas Ligeras",
-            description: "Disfruta de El Yerno Millonario en Español completa y traducida al español. Lee todos los capítulos online gratis."
-        }
-    },
-    { 
-        id: "tsihm", 
-        titulo: "Tondemo Skill de Isekai Hourou Meshi", 
-        genero: "Acción, Aventura, Comedia, Fantasía", 
-        anio: "2016", 
-        imagen: "/portada/tsihm.jpg",
-        sinopsis: "Mukouda Tsuyoshi no era nada especial en el Japón moderno, por lo que cuando fue convocado a un mundo de espadas y brujería, pensó que estaba listo para la aventura de su vida. ¡Lástima que el reino que lo convocó solo lo consiguió por error!",
-        totalCapitulos: 141,
-        capitulosPublicados:"Cap 141",
-        categoria: "Actualizadas",
-        pais: "Japonesas",
-        autor: "Eguchi Ren",
-        
-        // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
-        seo: {
-            title: "Leer El Yerno Millonario en Español - Novelas Ligeras",
-            description: "Disfruta de El Yerno Millonario en Español completa y traducida al español. Lee todos los capítulos online gratis."
+            title: "Leer king prodigio inmortal en Español - Novelas Ligeras",
+            description: "Disfruta de king prodigio inmortal en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
     }
 ];
