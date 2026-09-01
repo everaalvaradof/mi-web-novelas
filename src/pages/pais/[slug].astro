@@ -3,30 +3,19 @@ import { novelas } from '../../data/novelas.js';
 import Layout from '../../layouts/MainLayout.astro';
 
 // Función para normalizar igual en ambos lados
-const formatSlug = (str) => str.trim().toLowerCase().replace(/\s+/g, '-');
+const formatSlug = (str) => str ? str.trim().toLowerCase().replace(/\s+/g, '-') : '';
 
-export async function getStaticPaths() {
-    const todosLosPaises = new Set();
-    novelas.forEach(n => {
-        n.pais.split(',').forEach(g => {
-            todosLosPaises.add(g.trim().toLowerCase().replace(/\s+/g, '-'));
-        });
-    });
-
-    return Array.from(todosLosPaises).map(slug => ({
-        params: { slug },
-    }));
-}
-
+// Capturamos el slug directamente de la URL de forma dinámica (SSR)
 const { slug } = Astro.params;
 
-// Filtramos comparando la versión normalizada de cada novela
-const novelasFiltradas = novelas.filter(n => 
-    n.pais.split(',').some(g => formatSlug(g) === slug)
-);
+// Filtramos comparando la versión normalizada de cada novela de forma segura
+const novelasFiltradas = novelas.filter(n => {
+    if (!n.pais) return false;
+    return n.pais.split(',').some(g => formatSlug(g) === slug);
+});
 
 // Formateamos el slug para que se vea limpio (ej: "chinas" -> "Chinas")
-const nombrePaisLimpio = slug.charAt(0).toUpperCase() + slug.slice(1).replace(/-/g, ' ');
+const nombrePaisLimpio = slug ? slug.charAt(0).toUpperCase() + slug.slice(1).replace(/-/g, ' ') : 'País';
 ---
 
 <Layout 

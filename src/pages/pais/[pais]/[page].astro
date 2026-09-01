@@ -3,62 +3,76 @@ import MainLayout from '../../../layouts/MainLayout.astro';
 import { novelas } from '../../../data/novelas.js';
 import Ad from '../../../components/Ad.astro';
 
-export async function getStaticPaths({ paginate }) {
-  const pais = ["chinas", "coreanas", "japonesas", "estrenos"];
-  
-  return pais.flatMap((cat) => {
-    const filteredNovelas = novelas.filter(
-      (n) => n.pais.toLowerCase() === cat.toLowerCase()
-    );
-    
-    return paginate(filteredNovelas, {
-      params: { pais: cat },
-      pageSize: 10,
-    });
-  });
-}
+// 1. Capturamos el país y el número de página de la URL de forma dinámica
+const { pais, page: pageParam } = Astro.params;
 
-const { page } = Astro.props;
-const { pais } = Astro.params;
+// Convertimos la página actual a número (por defecto la 1 si no viene)
+const currentPage = parseInt(pageParam || '1', 10);
+const pageSize = 10;
+
+// 2. Normalizamos el país de búsqueda
+const paisBusqueda = pais ? pais.trim().toLowerCase() : '';
+
+// 3. Filtramos las novelas según el país
+const novelasFiltradas = novelas.filter((n) => {
+    const paisNovela = n.pais ? n.pais.trim().toLowerCase() : '';
+    return paisNovela === paisBusqueda;
+});
+
+// 4. Paginación manual
+const totalNovelas = novelasFiltradas.length;
+const lastPage = Math.ceil(totalNovelas / pageSize) || 1;
+const startIndex = (currentPage - 1) * pageSize;
+const paginatedData = novelasFiltradas.slice(startIndex, startIndex + pageSize);
+
+// Construcción de URLs anterior y siguiente
+const basePath = `/pais/${pais}`;
+const prevUrl = currentPage > 1 ? (currentPage === 2 ? basePath : `${basePath}/${currentPage - 1}`) : null;
+const nextUrl = currentPage < lastPage ? `${basePath}/${currentPage + 1}` : null;
+
+const paisLimpio = pais ? pais.toUpperCase() : 'PAÍS';
 ---
 
 <MainLayout>
-  <h1>Categoría: {pais.toUpperCase()}</h1>
-  
-  <div class="novelas-grid">
-    {page.data.map((n) => (
-      <a href={`/novela/${n.id}`} class="card-link">
-        <div class="card">
-          <div class="image-container">
-            <img src={n.imagen} alt={n.titulo}>
-            <span class="year">{n.anio}</span>
-          </div>
-          <div class="card-info">
-            <h3>{n.titulo}</h3>
-            <h3>{n.capitulosPublicados}</h3>
-          </div>
-        </div>
-      </a>
-    ))}
-  </div>
-
-  <!-- Aquí se inserta el anuncio antes de la paginación -->
-  <div class="ad-container" style="margin: 20px 0; text-align: center;">
-    <Ad />
-  </div>
-
-  <!-- Paginación -->
-  <nav class="pagination">
-    {page.url.prev ? <a href={page.url.prev}>⬅️ Anterior</a> : null}
+    <h1>País: {paisLimpio}</h1>
     
-    <span>Página {page.currentPage} de {page.lastPage}</span>
-    
-    {page.url.next ? <a href={page.url.next}>Siguiente ➡️</a> : null}
-  </nav>
+    <div class="novelas-grid">
+        {paginatedData.length > 0 ? (
+            paginatedData.map((n) => (
+                <a href={`/novela/${n.id}`} class="card-link">
+                    <div class="card">
+                        <div class="image-container">
+                            <img src={n.imagen} alt={n.titulo}>
+                            <span class="year">{n.anio}</span>
+                        </div>
+                        <div class="card-info">
+                            <h3>{n.titulo}</h3>
+                            <h3>{n.capitulosPublicados}</h3>
+                        </div>
+                    </div>
+                </a>
+            ))
+        ) : (
+            <p>No se encontraron novelas de este país.</p>
+        )}
+    </div>
+
+    <!-- Aquí se inserta el anuncio antes de la paginación -->
+    <div class="ad-container" style="margin: 20px 0; text-align: center;">
+        <Ad />
+    </div>
+
+    <!-- Paginación -->
+    <nav class="pagination">
+        {prevUrl ? <a href={prevUrl}>⬅️ Anterior</a> : null}
+        
+        <span>Página {currentPage} de {lastPage}</span>
+        
+        {nextUrl ? <a href={nextUrl}>Siguiente ➡️</a> : null}
+    </nav>
 </MainLayout>
 
 <style>
-  .pagination { display: flex; gap: 1rem; margin-top: 2rem; justify-content: center; }
-  .pagination a { padding: 0.5rem 1rem; border: 1px solid #ccc; text-decoration: none; }
+    .pagination { display: flex; gap: 1rem; margin-top: 2rem; justify-content: center; align-items: center; }
+    .pagination a { padding: 0.5rem 1rem; border: 1px solid #ccc; text-decoration: none; border-radius: 4px; }
 </style>
-
