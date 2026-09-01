@@ -5,6 +5,7 @@ export default defineConfig({
   site: 'https://novelasligeras.netlify.app',
   output: 'server',
   adapter: netlify({
-    imageCDN: false
+    imageCDN: false,
+    builders: false
   }),
 });
