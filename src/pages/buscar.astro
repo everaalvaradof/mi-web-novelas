@@ -70,7 +70,7 @@ const listaGeneros = Array.from(generosSet).sort((a: any, b: any) => a.localeCom
             <div class="novelas-grid">
                 {novelas.map((n) => (
                     <a 
-                        href={`/novela/${n.id}`} 
+                        href={`/ver/${n.id}`} 
                         class="card-link novel-item"
                         data-status={n.categoria ? n.categoria.toLowerCase().trim() : ''}
                         data-genre={n.genero ? n.genero.toLowerCase() : ''}
