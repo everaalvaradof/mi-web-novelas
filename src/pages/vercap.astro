@@ -42,8 +42,10 @@ const capSiguiente = capNum < totalCapitulos ? `/vercap?id=${novelaId}_${capNum 
 ---
 
 <!-- El título incluye el nombre de la novela, el capítulo y el sitio -->
-<MainLayout title={`${nombreNovela} - ${titulo} - Novelas Ligeras`}>
+<MainLayout noSidebar={true} title={`${nombreNovela} - ${titulo} - Novelas Ligeras`}>
+    
     <div class="lector-wrapper">
+        
         <div class="lector-box" id="lector-box">
             <div style="display: flex; gap: 10px; margin-bottom: 20px;">
                 <button class="btn-tool btn-menos">-</button>
@@ -70,7 +72,8 @@ const capSiguiente = capNum < totalCapitulos ? `/vercap?id=${novelaId}_${capNum 
             </div>
 
             <!-- El título principal del capítulo -->
-            <h1 class="titulo-capitulo">{titulo}</h1>
+             
+            <h1 class="titulo-capitulo">{nombreNovela} - {titulo}</h1>
             
             <div id="main-content">
                 <Ad />

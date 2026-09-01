@@ -120,7 +120,7 @@ export const novelas = [
         genero: "Acción, Aventura, Fantasía, Harem, Artes Marciales, Madura, Xianxia", 
         anio: "2012", 
         imagen: "/portada/lhp.jpg",
-        sinopsis: "Al adentrarse en otro mundo, Zhang Xuan se convierte en un maestro honorable. Junto con su trascendencia, aparece una misteriosa biblioteca en su mente. Siempre que vea algo, ya sea un humano o un objeto, se compilará automáticamente un libro sobre sus debilidades en la biblioteca. Así, se vuelve formidable."
+        sinopsis: "Al adentrarse en otro mundo, Zhang Xuan se convierte en un maestro honorable. Junto con su trascendencia, aparece una misteriosa biblioteca en su mente. Siempre que vea algo, ya sea un humano o un objeto, se compilará automáticamente un libro sobre sus debilidades en la biblioteca. Así, se vuelve formidable.",
         totalCapitulos: 2200,
         capitulosPublicados:"Cap 2200",
         categoria: "Terminadas",
