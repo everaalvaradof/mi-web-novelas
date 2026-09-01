@@ -1,27 +1,35 @@
 ---
-import { getCollection, render } from 'astro:content';
 import MainLayout from '../../layouts/MainLayout.astro';
 import Ad from '../../components/Ad.astro';
 
-// 1. Capturamos el slug directamente de la URL en modo SSR
+// 1. Capturamos el slug de la URL
 const { slug } = Astro.params;
 
-// 2. Cargamos los capítulos de forma segura
-const rawCapitulos = await getCollection('capitulos');
+// 2. Cargamos los archivos markdown usando glob de forma ligera (sin consumir RAM con Content Collections)
+const capitulosFiles = import.meta.glob('../../content/capitulos/**/*.md', { eager: true });
 
-// 3. Buscamos el capítulo exacto que coincide con la URL actual
-const entry = rawCapitulos.find(c => c.id.replace('.md', '') === slug);
+// Convertimos el objeto en un array manejable
+const rawCapitulos = Object.entries(capitulosFiles).map(([path, file]: [string, any]) => {
+    // Extraemos la ruta relativa limpia, por ejemplo: "novela-1/capitulo-1"
+    const relativeId = path.split('/content/capitulos/')[1].replace('.md', '');
+    return {
+        id: relativeId,
+        data: file.frontmatter || file.getFrontmatter?.() || {},
+        compiledContent: file.compiledContent,
+        Content: file.default
+    };
+});
 
-// Si no existe, mandamos un error 404 limpio
+// 3. Buscamos el capítulo actual
+const entry = rawCapitulos.find(c => c.id === slug);
+
 if (!entry) {
     return Astro.redirect('/404');
 }
 
-const { Content } = await render(entry);
-
 const novelaActual = entry.id.split('/')[0];
 
-// Ordenamos los capítulos de esta novela específica para los botones de anterior/siguiente
+// Ordenamos los capítulos de esta novela específica
 const capitulosDeEstaNovela = rawCapitulos
     .filter(c => c.id.startsWith(novelaActual))
     .sort((a, b) => (a.data.numero ?? 0) - (b.data.numero ?? 0));
@@ -29,13 +37,14 @@ const capitulosDeEstaNovela = rawCapitulos
 const currentIndex = capitulosDeEstaNovela.findIndex(c => c.id === entry.id);
 const prev = capitulosDeEstaNovela[currentIndex - 1] || null;
 const next = capitulosDeEstaNovela[currentIndex + 1] || null;
+
+const ContentComponent = entry.Content;
 ---
 
-<!-- Integrado el SEO aquí: usa el título del capítulo y un fragmento de descripción -->
 <MainLayout 
     noSidebar={true} 
-    title={`${entry.data.titulo} - Novelas Ligeras`} 
-    description={`Lee el ${entry.data.titulo} de la novela en español en línea de forma gratuita.`}
+    title={`${entry.data.titulo || 'Capítulo'} - Novelas Ligeras`} 
+    description={`Lee el capítulo de la novela en español en línea de forma gratuita.`}
 >
     <article class="lector-novela">
         <div class="toolbar">
@@ -46,9 +55,9 @@ const next = capitulosDeEstaNovela[currentIndex + 1] || null;
         </div>
 
         <div class="nav-bar">
-            {prev ? <a href={`/novela/${prev.id.replace('.md', '')}`} class="btn-nav">ANTERIOR</a> : <span class="btn-nav disabled">ANTERIOR</span>}
+            {prev ? <a href={`/novela/${prev.id}`} class="btn-nav">ANTERIOR</a> : <span class="btn-nav disabled">ANTERIOR</span>}
             <a href={`/novela/${novelaActual}`} class="btn-home">🏠</a>
-            {next ? <a href={`/novela/${next.id.replace('.md', '')}`} class="btn-nav">SIGUIENTE</a> : <span class="btn-nav disabled">FIN</span>}
+            {next ? <a href={`/novela/${next.id}`} class="btn-nav">SIGUIENTE</a> : <span class="btn-nav disabled">FIN</span>}
         </div>
 
         <h1>{entry.data.titulo}</h1>
@@ -57,7 +66,7 @@ const next = capitulosDeEstaNovela[currentIndex + 1] || null;
             <Ad />
 
             <div id="cuerpo-capitulo">
-                <Content />
+                <ContentComponent />
             </div>
 
             <div id="ad-medio" style="display:none; margin: 20px 0;">
@@ -68,9 +77,9 @@ const next = capitulosDeEstaNovela[currentIndex + 1] || null;
         </div>
 
         <div class="nav-bar">
-            {prev ? <a href={`/novela/${prev.id.replace('.md', '')}`} class="btn-nav">ANTERIOR</a> : <span class="btn-nav disabled">ANTERIOR</span>}
+            {prev ? <a href={`/novela/${prev.id}`} class="btn-nav">ANTERIOR</a> : <span class="btn-nav disabled">ANTERIOR</span>}
             <a href={`/novela/${novelaActual}`} class="btn-home">🏠</a>
-            {next ? <a href={`/novela/${next.id.replace('.md', '')}`} class="btn-nav">SIGUIENTE</a> : <span class="btn-nav disabled">FIN</span>}
+            {next ? <a href={`/novela/${next.id}`} class="btn-nav">SIGUIENTE</a> : <span class="btn-nav disabled">FIN</span>}
         </div>
     </article>
 </MainLayout>
