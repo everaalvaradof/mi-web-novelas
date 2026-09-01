@@ -3,62 +3,72 @@ import MainLayout from '../../../layouts/MainLayout.astro';
 import { novelas } from '../../../data/novelas.js';
 import Ad from '../../../components/Ad.astro';
 
-export async function getStaticPaths({ paginate }) {
-  // 1. Extraer todos los géneros únicos de todas las novelas
-  // Asumiendo que 'genero' es un string con géneros separados por comas: "Xianxia, Fantasy"
-  const allGeneros = [...new Set(novelas.flatMap(n => 
-    n.genero.split(',').map(g => g.trim().toLowerCase())
-  ))];
-  
-  // 2. Crear las rutas para cada género encontrado
-  return allGeneros.flatMap((gen) => {
-    const filteredNovelas = novelas.filter(
-      (n) => n.genero.toLowerCase().includes(gen.toLowerCase())
-    );
-    
-    return paginate(filteredNovelas, {
-      params: { genero: gen },
-      pageSize: 10,
-    });
-  });
-}
+// 1. Capturamos el género y el número de página de la URL de forma dinámica
+const { genero, page: pageParam } = Astro.params;
 
-const { page } = Astro.props;
-const { genero } = Astro.params;
+// Convertimos la página actual a número (si no viene o es inválida, por defecto es la 1)
+const currentPage = parseInt(pageParam || '1', 10);
+const pageSize = 10;
+
+// 2. Normalizamos el género de la URL para compararlo bien
+const generoBusqueda = genero ? genero.trim().toLowerCase() : '';
+
+// 3. Filtramos las novelas que pertenecen a este género
+const novelasFiltradas = novelas.filter((n) => {
+    const generosNovela = n.genero.split(',').map(g => g.trim().toLowerCase());
+    return generosNovela.includes(generoBusqueda);
+});
+
+// 4. Calculamos la paginación manual
+const totalNovelas = novelasFiltradas.length;
+const lastPage = Math.ceil(totalNovelas / pageSize) || 1;
+const startIndex = (currentPage - 1) * pageSize;
+const paginatedData = novelasFiltradas.slice(startIndex, startIndex + pageSize);
+
+// URLs anterior y siguiente para la paginación
+const basePath = `/genero/${genero}`;
+const prevUrl = currentPage > 1 ? (currentPage === 2 ? basePath : `${basePath}/${currentPage - 1}`) : null;
+const nextUrl = currentPage < lastPage ? `${basePath}/${currentPage + 1}` : null;
+
+const generoLimpio = genero ? genero.charAt(0).toUpperCase() + genero.slice(1) : 'Género';
 ---
 
 <MainLayout>
-  <h1>Género: {genero.charAt(0).toUpperCase() + genero.slice(1)}</h1>
-  
-  <div class="novelas-grid">
-    {page.data.map((n) => (
-      <a href={`/novela/${n.id}`} class="card-link">
-        <div class="card">
-          <div class="image-container">
-            <img src={n.imagen} alt={n.titulo}>
-            <span class="year">{n.anio}</span>
-          </div>
-          <div class="card-info">
-            <h3>{n.titulo}</h3>
-            <h3>{n.capitulosPublicados}</h3>
-          </div>
-        </div>
-      </a>
-    ))}
-  </div>
+    <h1>Género: {generoLimpio}</h1>
+    
+    <div class="novelas-grid">
+        {paginatedData.length > 0 ? (
+            paginatedData.map((n) => (
+                <a href={`/novela/${n.id}`} class="card-link">
+                    <div class="card">
+                        <div class="image-container">
+                            <img src={n.imagen} alt={n.titulo}>
+                            <span class="year">{n.anio}</span>
+                        </div>
+                        <div class="card-info">
+                            <h3>{n.titulo}</h3>
+                            <h3>{n.capitulosPublicados}</h3>
+                        </div>
+                    </div>
+                </a>
+            ))
+        ) : (
+            <p>No se encontraron novelas en este género.</p>
+        )}
+    </div>
 
-  <div class="ad-container" style="margin: 20px 0; text-align: center;">
-    <Ad />
-  </div>
+    <div class="ad-container" style="margin: 20px 0; text-align: center;">
+        <Ad />
+    </div>
 
-  <nav class="pagination">
-    {page.url.prev ? <a href={page.url.prev}>⬅️ Anterior</a> : null}
-    <span>Página {page.currentPage} de {page.lastPage}</span>
-    {page.url.next ? <a href={page.url.next}>Siguiente ➡️</a> : null}
-  </nav>
+    <nav class="pagination">
+        {prevUrl ? <a href={prevUrl}>⬅️ Anterior</a> : null}
+        <span>Página {currentPage} de {lastPage}</span>
+        {nextUrl ? <a href={nextUrl}>Siguiente ➡️</a> : null}
+    </nav>
 </MainLayout>
 
 <style>
-  .pagination { display: flex; gap: 1rem; margin-top: 2rem; justify-content: center; }
-  .pagination a { padding: 0.5rem 1rem; border: 1px solid #ccc; text-decoration: none; }
+    .pagination { display: flex; gap: 1rem; margin-top: 2rem; justify-content: center; align-items: center; }
+    .pagination a { padding: 0.5rem 1rem; border: 1px solid #ccc; text-decoration: none; border-radius: 4px; }
 </style>
