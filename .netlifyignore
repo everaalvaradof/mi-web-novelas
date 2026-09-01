@@ -1,0 +1,6 @@
+node_modules/
+.astro/
+src/data/audios/
+src/data/videos/
+*.mp4
+*.mp3
