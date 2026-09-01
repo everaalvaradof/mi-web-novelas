@@ -23,7 +23,7 @@ const terminadas = novelas.filter(n => n.categoria === 'Terminadas');
         </div>
         <div class="novelas-grid">
             {estrenos.slice(0, 10).map(n => (
-                <a href={`/novela/${n.id}`} class="card-link">
+                <a href={`/ver/${n.id}`} class="card-link">
                     <div class="card">
                         <div class="image-container">
                             <img src={n.imagen} alt={n.titulo}>
@@ -45,7 +45,7 @@ const terminadas = novelas.filter(n => n.categoria === 'Terminadas');
         </div>
         <div class="novelas-grid">
             {terminadas.slice(0, 10).map(n => (
-                <a href={`/novela/${n.id}`} class="card-link">
+                <a href={`/ver/${n.id}`} class="card-link">
                     <div class="card">
                         <div class="image-container">
                             <img src={n.imagen} alt={n.titulo}>
@@ -60,6 +60,7 @@ const terminadas = novelas.filter(n => n.categoria === 'Terminadas');
             ))}
         </div>
     </section>
+
     <section class="seccion-actualizadas">
         <div class="section-header">
             <h2>Novelas Actualizadas</h2>
@@ -67,7 +68,7 @@ const terminadas = novelas.filter(n => n.categoria === 'Terminadas');
         </div>
         <div class="novelas-grid">
             {actualizadas.slice(0, 10).map(n => (
-                <a href={`/novela/${n.id}`} class="card-link">
+                <a href={`/ver/${n.id}`} class="card-link">
                     <div class="card">
                         <div class="image-container">
                             <img src={n.imagen} alt={n.titulo}>

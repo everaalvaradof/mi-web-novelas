@@ -142,7 +142,7 @@ export const novelas = [
         sinopsis: "Tras despertar en el cuerpo de un joven campesino...",
         totalCapitulos: 3704,
         capitulosPublicados: "Cap 3704",
-        categoria: "Terminadas",
+        categoria: "Estrenos",
         pais: "chinas",
         autor: "Señor de las Hojas",
         

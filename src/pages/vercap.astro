@@ -1,0 +1,247 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+import MainLayout from '../layouts/MainLayout.astro';
+import Ad from '../components/Ad.astro';
+import { novelas } from '../data/novelas.js';
+
+const id = Astro.url.searchParams.get('id');
+
+if (!id) {
+    return Astro.redirect('/404');
+}
+
+const partes = id.split('_');
+const novelaId = partes[0];
+const capNum = parseInt(partes[1], 10);
+
+const novela = novelas.find(n => n.id === novelaId);
+const totalCapitulos = novela ? novela.totalCapitulos : 9999;
+
+const filePath = path.join(process.cwd(), 'src', 'data', 'capitulos', novelaId, `capitulo-${capNum}.md`);
+
+if (!fs.existsSync(filePath)) {
+    return Astro.redirect('/404');
+}
+
+const fileContent = fs.readFileSync(filePath, 'utf-8');
+
+const matchTitle = fileContent.match(/titulo:\s*"([^"]+)"/) || fileContent.match(/titulo:\s*([^\r\n]+)/);
+const titulo = matchTitle ? matchTitle[1].replace(/['"]/g, '').trim() : `Capítulo ${capNum}`;
+
+const cleanMarkdown = fileContent.replace(/---[\s\S]*?---/, '').trim();
+const htmlContent = cleanMarkdown
+    .split('\n')
+    .map(parrafo => parrafo.trim() ? `<p>${parrafo}</p>` : '')
+    .join('');
+
+const capAnterior = capNum > 1 ? `/vercap?id=${novelaId}_${capNum - 1}` : null;
+const capSiguiente = capNum < totalCapitulos ? `/vercap?id=${novelaId}_${capNum + 1}` : null;
+---
+
+<MainLayout title={`${titulo} - Novelas Ligeras`}>
+    <div class="lector-wrapper">
+        <div class="lector-box" id="lector-box">
+            <div style="display: flex; gap: 10px; margin-bottom: 20px;">
+                <button class="btn-tool btn-menos">-</button>
+                <button class="btn-tool btn-mas">+</button>
+                <button class="btn-tool btn-modo">🌙</button>
+                <button id="leer-btn" class="btn-tool">🔊</button>
+            </div>
+
+            <!-- Navegación Superior -->
+            <div class="navegacion-capitulos">
+                {capAnterior ? (
+                    <a href={capAnterior} class="nav-btn">← Anterior</a>
+                ) : (
+                    <span class="nav-btn disabled">← Anterior</span>
+                )}
+                
+                <a href={`/ver/${novelaId}`} class="nav-btn btn-home">🏠 Índice</a>
+
+                {capSiguiente ? (
+                    <a href={capSiguiente} class="nav-btn">Siguiente →</a>
+                ) : (
+                    <span class="nav-btn disabled">Siguiente →</span>
+                )}
+            </div>
+
+            <h1>{titulo}</h1>
+            
+            <div id="main-content">
+                <Ad />
+
+                <div id="cuerpo-capitulo" set:html={htmlContent} />
+
+                <div id="ad-medio" style="display:none; margin: 20px 0;">
+                    <Ad />
+                </div>
+
+                <Ad />
+            </div>
+
+            <!-- Navegación Inferior -->
+            <div class="navegacion-capitulos">
+                {capAnterior ? (
+                    <a href={capAnterior} class="nav-btn">← Anterior</a>
+                ) : (
+                    <span class="nav-btn disabled">← Anterior</span>
+                )}
+                
+                <a href={`/ver/${novelaId}`} class="nav-btn btn-home">🏠 Índice</a>
+
+                {capSiguiente ? (
+                    <a href={capSiguiente} class="nav-btn">Siguiente →</a>
+                ) : (
+                    <span class="nav-btn disabled">Siguiente →</span>
+                )}
+            </div>
+        </div>
+    </div>
+
+    <style>
+        .lector-wrapper {
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        .lector-box {
+            padding: 2rem;
+            background: #1e293b;
+            border-radius: 8px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+            color: #e2e8f0;
+        }
+        .btn-tool {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            border: none;
+            background: #0d3b66;
+            color: white;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        .btn-tool:hover { background: #1d4ed8; }
+        
+        .nav-btn {
+            background: #2a9d8f;
+            color: white;
+            padding: 12px 18px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: bold;
+            display: inline-flex;
+            justify-content: center;
+            align-items: center;
+            flex: 1;
+            text-align: center;
+            min-width: 110px;
+        }
+        .nav-btn:hover { background: #21867a; }
+        .nav-btn.disabled {
+            background: #475569;
+            opacity: 0.5;
+            pointer-events: none;
+        }
+        .btn-home {
+            background: #0d3b66;
+        }
+        .btn-home:hover {
+            background: #1d4ed8;
+        }
+
+        .navegacion-capitulos {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 30px 0;
+            padding: 1rem 0;
+            border-top: 1px solid #334155;
+            border-bottom: 1px solid #334155;
+            gap: 10px;
+        }
+
+        /* Diseño responsivo para pantallas pequeñas (móviles) */
+        @media (max-width: 640px) {
+            .navegacion-capitulos {
+                flex-direction: column;
+                gap: 12px;
+            }
+            .nav-btn {
+                width: 100%;
+                flex: none;
+            }
+        }
+
+        h1 { color: #f8fafc; font-size: 2rem; margin-bottom: 1.5rem; }
+        #main-content { font-size: 1.2rem; line-height: 1.8; color: #cbd5e1; }
+        #main-content p { margin-bottom: 1.5rem; }
+    </style>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const btnLeer = document.getElementById('leer-btn');
+            const cuerpoCapitulo = document.getElementById('cuerpo-capitulo');
+
+            btnLeer?.addEventListener('click', () => {
+                window.speechSynthesis.cancel();
+                const texto = cuerpoCapitulo?.innerText || "";
+                const speech = new SpeechSynthesisUtterance(texto);
+                speech.lang = 'es-ES';
+                window.speechSynthesis.speak(speech);
+            });
+
+            const adMedio = document.getElementById('ad-medio');
+            if (cuerpoCapitulo && adMedio) {
+                const parrafos = cuerpoCapitulo.querySelectorAll('p');
+                if (parrafos.length > 0) {
+                    const indiceMedio = Math.floor(parrafos.length / 2);
+                    parrafos[indiceMedio].after(adMedio);
+                    adMedio.style.display = 'block';
+                }
+            }
+
+            const container = document.getElementById('main-content');
+            const paragraphs = container?.querySelectorAll('p');
+            const btnMas = document.querySelector('.btn-mas');
+            const btnMenos = document.querySelector('.btn-menos');
+
+            if (paragraphs && paragraphs.length > 0) {
+                const savedSize = localStorage.getItem('fontSize');
+                if (savedSize) paragraphs.forEach(p => p.style.fontSize = savedSize + 'px');
+                
+                btnMas?.addEventListener('click', () => {
+                    let size = parseInt(window.getComputedStyle(paragraphs[0]).fontSize);
+                    size += 2;
+                    paragraphs.forEach(p => p.style.fontSize = size + 'px');
+                    localStorage.setItem('fontSize', size.toString());
+                });
+                
+                btnMenos?.addEventListener('click', () => {
+                    let size = parseInt(window.getComputedStyle(paragraphs[0]).fontSize);
+                    size -= 2;
+                    paragraphs.forEach(p => p.style.fontSize = size + 'px');
+                    localStorage.setItem('fontSize', size.toString());
+                });
+            }
+
+            const btnModo = document.querySelector('.btn-modo');
+            const box = document.getElementById('lector-box');
+            
+            if (localStorage.getItem('darkMode') === 'false') {
+                document.body.style.backgroundColor = '#f1f5f9';
+                document.body.style.color = '#1e293b';
+                if (box) box.style.backgroundColor = '#ffffff';
+            }
+
+            btnModo?.addEventListener('click', () => {
+                const isDark = document.body.style.backgroundColor !== 'rgb(241, 245, 249)';
+                document.body.style.backgroundColor = isDark ? '#f1f5f9' : '#0f172a';
+                document.body.style.color = isDark ? '#1e293b' : '#e2e8f0';
+                if (box) box.style.backgroundColor = isDark ? '#ffffff' : '#1e293b';
+                localStorage.setItem('darkMode', isDark ? 'false' : 'true');
+            });
+        });
+    </script>
+</MainLayout>
