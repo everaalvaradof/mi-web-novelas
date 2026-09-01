@@ -39,7 +39,7 @@ const categoriaLimpia = categoria ? categoria.toUpperCase() : 'CATEGORÍA';
     <div class="novelas-grid">
         {paginatedData.length > 0 ? (
             paginatedData.map((n) => (
-                <a href={`/novela/${n.id}`} class="card-link">
+                <a href={`/ver/${n.id}`} class="card-link">
                     <div class="card">
                         <div class="image-container">
                             <img src={n.imagen} alt={n.titulo}>

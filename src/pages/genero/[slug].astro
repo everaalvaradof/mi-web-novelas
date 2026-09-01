@@ -26,7 +26,7 @@ const nombreGeneroLimpio = slug ? slug.charAt(0).toUpperCase() + slug.slice(1).r
     <div class="novelas-grid">
         {novelasFiltradas.length > 0 ? (
             novelasFiltradas.map(n => (
-                <a href={`/novela/${n.id}`} class="card-link">
+                <a href={`/ver/${n.id}`} class="card-link">
                     <div class="card">
                         <div class="image-container">
                             <img src={n.imagen} alt={n.titulo}>
