@@ -1,43 +1,50 @@
 ---
-import { novelas } from '../../data/novelas.js';
-import Layout from '../../layouts/MainLayout.astro';
+export const prerender = false;
 
-// Función para normalizar igual en ambos lados
-const formatSlug = (str) => str.trim().toLowerCase().replace(/\s+/g, '-');
+import MainLayout from '../../../layouts/MainLayout.astro';
+import { novelas } from '../../../data/novelas.js';
+import Ad from '../../../components/Ad.astro';
 
-export async function getStaticPaths() {
-    const todasLasCategorias = new Set();
-    novelas.forEach(n => {
-        n.categoria.split(',').forEach(g => {
-            todasLasCategorias.add(g.trim().toLowerCase().replace(/\s+/g, '-'));
-        });
-    });
+// 1. Capturamos el parámetro dinámico (puede llamarse genero o categoria según tu estructura de carpetas)
+const { genero, categoria, page: pageParam } = Astro.params;
+const catOrGen = genero || categoria || '';
 
-    return Array.from(todasLasCategorias).map(slug => ({
-        params: { slug },
-    }));
-}
+// Convertimos la página actual a número (si no viene o es inválida, por defecto es la 1)
+const currentPage = parseInt(pageParam || '1', 10);
+const pageSize = 10;
 
-const { slug } = Astro.params;
+// 2. Normalizamos para compararlo bien
+const busqueda = catOrGen.trim().toLowerCase();
 
-// Filtramos comparando la versión normalizada de cada novela
-const novelasFiltradas = novelas.filter(n => 
-    n.categoria.split(',').some(g => formatSlug(g) === slug)
-);
+// 3. Filtramos las novelas que pertenecen a esta categoría/género
+const novelasFiltradas = novelas.filter((n) => {
+    const campo = n.genero || n.categoria || '';
+    const elementos = campo.split(',').map(e => e.trim().toLowerCase());
+    return elementos.includes(busqueda);
+});
 
-// Formateamos el slug para que se vea limpio en el título y el H1 (ej: "accion-fantasia" -> "Accion Fantasia")
-const nombreCategoriaLimpio = slug.charAt(0).toUpperCase() + slug.slice(1).replace(/-/g, ' ');
+// 4. Calculamos la paginación manual
+const totalNovelas = novelasFiltradas.length;
+const lastPage = Math.ceil(totalNovelas / pageSize) || 1;
+const startIndex = (currentPage - 1) * pageSize;
+const paginatedData = novelasFiltradas.slice(startIndex, startIndex + pageSize);
+
+// Determinamos dinámicamente si estamos bajo /genero/ o /categoria/
+const folderName = genero ? 'genero' : 'categoria';
+const basePath = `/${folderName}/${catOrGen}`;
+
+const prevUrl = currentPage > 1 ? (currentPage === 2 ? basePath : `${basePath}/${currentPage - 1}`) : null;
+const nextUrl = currentPage < lastPage ? `${basePath}/${currentPage + 1}` : null;
+
+const tituloLimpio = catOrGen ? catOrGen.charAt(0).toUpperCase() + catOrGen.slice(1) : 'Categoría';
 ---
 
-<Layout 
-    title={`Novelas de la categoría ${nombreCategoriaLimpio} - Leer Online`}
-    description={`Explora el catálogo completo de novelas bajo la categoría ${nombreCategoriaLimpio}. Encuentra tus historias favoritas y léelas gratis.`}
->
-    <h1>Novelas de la categoría: {nombreCategoriaLimpio}</h1>
+<MainLayout>
+    <h1>Categoría / Género: {tituloLimpio}</h1>
     
     <div class="novelas-grid">
-        {novelasFiltradas.length > 0 ? (
-            novelasFiltradas.map(n => (
+        {paginatedData.length > 0 ? (
+            paginatedData.map((n) => (
                 <a href={`/novela/${n.id}`} class="card-link">
                     <div class="card">
                         <div class="image-container">
@@ -46,12 +53,28 @@ const nombreCategoriaLimpio = slug.charAt(0).toUpperCase() + slug.slice(1).repla
                         </div>
                         <div class="card-info">
                             <h3>{n.titulo}</h3>
+                            <h3>{n.capitulosPublicados}</h3>
                         </div>
                     </div>
                 </a>
             ))
         ) : (
-            <p>No se encontraron novelas en esta categoría.</p>
+            <p>No se encontraron novelas en esta sección.</p>
         )}
     </div>
-</Layout>
+
+    <div class="ad-container" style="margin: 20px 0; text-align: center;">
+        <Ad />
+    </div>
+
+    <nav class="pagination">
+        {prevUrl ? <a href={prevUrl}>⬅️ Anterior</a> : null}
+        <span>Página {currentPage} de {lastPage}</span>
+        {nextUrl ? <a href={nextUrl}>Siguiente ➡️</a> : null}
+    </nav>
+</MainLayout>
+
+<style>
+    .pagination { display: flex; gap: 1rem; margin-top: 2rem; justify-content: center; align-items: center; }
+    .pagination a { padding: 0.5rem 1rem; border: 1px solid #ccc; text-decoration: none; border-radius: 4px; }
+</style>

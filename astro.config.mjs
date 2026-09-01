@@ -3,8 +3,11 @@ import sitemap from '@astrojs/sitemap';
 import netlify from '@astrojs/netlify';
 
 export default defineConfig({
-  site: 'https://novelasligeras.netlify.app', // ⚠️ Tu dominio real de Netlify que vi en la captura
-  output: 'server', // <--- Esto activa el modo dinámico (SSR) para que no queme memoria compilando 6000+ archivos
-  adapter: netlify(),
+  site: 'https://novelasligeras.netlify.app',
+  output: 'server',
+  adapter: netlify({
+    // Forzamos a que el bundle de la función sea lean (ligero) y no empaquete de más
+    imageCDN: false
+  }),
   integrations: [sitemap()],
 });

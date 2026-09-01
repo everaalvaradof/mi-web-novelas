@@ -2,5 +2,7 @@ node_modules/
 .astro/
 src/data/audios/
 src/data/videos/
+dist/
+src/content/capitulos/
 *.mp4
 *.mp3
