@@ -2,6 +2,7 @@ export const novelas = [
     { 
         id: "mmpp", 
         titulo: "MARTIAL PEAK", 
+        titulo2: "Wǔ Liàn Diān Fēng, 武 炼 巅峰",
         genero: "Acción, Aventura, Fantasía, Harem, Artes Marciales, Madura, Xianxia", 
         anio: "2012", 
         imagen: "/portada/mmpp.jpg",
@@ -19,8 +20,30 @@ export const novelas = [
         }
     },
     { 
+        id: "mbp", 
+        titulo: "Mi bellísima presidenta", 
+        titulo2: "My extremely beautiful president, 我的极品美女总裁",
+        genero: "Novela-Ligera, Ranobe, Romance, Xianxia", 
+        anio: "2012", 
+        imagen: "/portada/mbp.jpg",
+        sinopsis: "Cuando desperté, la bella esposa del director general, como una reina, estaba allí. Tengo una casa, un auto y una esposa. ¿Qué? ¿Estás coqueteando con mi esposa? ¡Estoy buscando la muerte! Primero come el cactus, luego recibe el rayo de mi palma y te enviaré a encontrarte con el Rey del Infierno. ¡Mira, terminarás igual si te atreves a tocar a mi mujer!",
+        totalCapitulos: 3495,
+        capitulosPublicados: "Cap 3495",
+        categoria: "Terminadas",
+        pais: "chinas",
+        autor: "Three and a half meters",
+        
+        
+        // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
+        seo: {
+            title: "Leer MARTIAL PEAK en Español - Novelas Ligeras",
+            description: "Disfruta de MARTIAL PEAK en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
         id: "inve", 
         titulo: "invencible", 
+        titulo2: "Invincible",
         genero: "Acción, Drama, Harem, Artes-Marciales, Seinen, Xuanhuan",
         anio: "2023", 
         imagen: "/portada/inve.jpg",
@@ -41,6 +64,7 @@ export const novelas = [
     { 
         id: "tsihm", 
         titulo: "Tondemo Skill de Isekai Hourou Meshi", 
+        titulo2: "Acampando y Cocinando en Otro Mundo con mi Habilidad Absurda, Campfire Cooking in Another World with My Absurd Skill, とんでもスキルで異世界放浪メシ",
         genero: "Acción, Aventura, Comedia, Fantasía", 
         anio: "2016", 
         imagen: "/portada/tsihm.jpg",
@@ -60,6 +84,7 @@ export const novelas = [
     { 
         id: "matries", 
         titulo: "Matrimonio Escondido", 
+        titulo2: "Hidden Marriage, Chọc Tức Vợ Yêu - Mua Một Tặng Một",
         genero: "Acción, Drama, Harem, Artes-Marciales, Seinen, Xuanhuan", 
         anio: "2026", 
         imagen: "/portada/matries.jpg",
@@ -78,7 +103,8 @@ export const novelas = [
     },
     { 
         id: "shmrh", 
-        titulo: "Soy el Heredero más Rico de la Humanidad", 
+        titulo: "I AM THE RICHEST HEIR OF MANKIND", 
+        titulo2: "Soy el Heredero más Rico de la Humanidad, 我是首富继承人",
         genero: "Ranobe, Romance, Urban-Life", 
         anio: "2008", 
         imagen: "/portada/shmrh.jpg",
@@ -98,6 +124,7 @@ export const novelas = [
     { 
         id: "lotgs", 
         titulo: "LEGEND OF THE GREAT SAGE", 
+        titulo2: "La leyenda del gran sabio",
         genero: "Acción, Aventura, Fantasía, Harem, Artes Marciales, Madura, Xianxia", 
         anio: "2012", 
         imagen: "/portada/lotgs.jpg",
@@ -117,6 +144,7 @@ export const novelas = [
     { 
         id: "lhp", 
         titulo: "Library of Heaven’s Path", 
+        titulo2: "Biblioteca del Camino Celestial",
         genero: "Acción, Aventura, Fantasía, Harem, Artes Marciales, Madura, Xianxia", 
         anio: "2012", 
         imagen: "/portada/lhp.jpg",
@@ -136,6 +164,7 @@ export const novelas = [
     { 
         id: "eym", 
         titulo: "El Yerno Millonario", 
+        titulo2: "the millionaire son-in-law, Charlie Wade",
         genero: "Acción, Aventura, Fantasía, Harem, Artes Marciales, Madura, Xianxia", 
         anio: "2012", 
         imagen: "/portada/eym.jpg",
@@ -155,6 +184,7 @@ export const novelas = [
     { 
         id: "kpi", 
         titulo: "king prodigio inmortal", 
+        titulo2: "King, the Immortal Prodigy",
         genero: "Xianxia, Venezuela", 
         anio: "2021", 
         imagen: "/portada/kpi.jpg",
@@ -163,7 +193,7 @@ export const novelas = [
         capitulosPublicados:"Cap 181",
         categoria: "Estrenos",
         pais: "Coreanas",
-        autor: "Shen Jian",
+        autor: "Ever A Alvarado F",
         
         // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
         seo: {

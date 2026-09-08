@@ -29,6 +29,7 @@ for (let i = 1; i <= novela.totalCapitulos; i += 100) {
 <MainLayout 
     noSidebar={true} 
     title={seoTitle} 
+    
     description={seoDescription} 
     image={novela.imagen}
 >
@@ -53,7 +54,7 @@ for (let i = 1; i <= novela.totalCapitulos; i += 100) {
                     ))}
             </p>
             <p><strong>Autor:</strong> {novela.autor}</p>
-            
+            <p><strong>Nombres asociados:</strong>{novela.titulo2.toUpperCase()}</p>
             <div class="sinopsis">
                 <h3>Sinopsis:</h3>
                 <p>{novela.sinopsis}</p>
@@ -75,7 +76,7 @@ for (let i = 1; i <= novela.totalCapitulos; i += 100) {
                         </div>
 
                         <div class="ad-container" style="margin: 20px 0; text-align: center;">
-                            <Ad />
+                            
                         </div>
                     </details>
                 ))}
