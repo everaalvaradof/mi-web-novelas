@@ -185,7 +185,3 @@ En este momento, los guerreros que originalmente apoyaban a Zhang Fansheng se pu
 Después de escuchar estas palabras de todos, el primer anciano parecía estar un poco avergonzado. Instintivamente quería persuadir a Chen Mo, pero después de dudar por un momento, optó por guardar silencio porque en su corazón sabía que incluso si intentara persuadir a Chen Mo, sería inútil.
 
 Chen Mo giró lentamente la cabeza para mirar a las personas que estaban hablando, y luego dijo sin comprender: “No importa quién me bloquee hoy, mataré a esta persona, si no está convencido, levántese”. ahora, ¡y te pediré que entierres a Zhang Fansheng contigo!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

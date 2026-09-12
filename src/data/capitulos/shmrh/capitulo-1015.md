@@ -137,7 +137,3 @@ dijo Li Juncheng con una sonrisa.
 “¡Está bien, gracias!”
 
 Chen Mo simplemente respondió y luego colgó el teléfono.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

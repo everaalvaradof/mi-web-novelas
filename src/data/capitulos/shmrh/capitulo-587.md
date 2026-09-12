@@ -101,7 +101,3 @@ Preguntó Li Baiqiang en voz baja después de ver que Li Zixi no había hablado.
 Li Zixi sacudió la cabeza sin poder hacer nada.
 
 Li Baiqiang suspiró impotente mientras miraba la expresión de Li Zixi, y no supo qué decir por un momento, ahora solo puede sentarse esperando aquí.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -109,7 +109,3 @@ Lu Xiangyang asintió levemente.
 Tao Ye dudó un momento, luego tomó el teléfono y salió corriendo del pasillo.
 
 Y Huang Zhiming se quedó estupefacto, con una expresión muy nerviosa en su rostro. Nunca imaginó que las cosas terminarían así.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

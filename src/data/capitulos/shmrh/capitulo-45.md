@@ -121,7 +121,3 @@ Wei Jiaqi miró a Chen Mo, puso los ojos en blanco y dijo con un tono desdeñoso
 Chen Mo ignoró a Wei Jiaqi y entró al bar por su cuenta.
 
 Debido a que Meng Liang y Liu Rui entraron primero al bar, no escucharon la conversación entre Chen Mo y Wei Jiaqi.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

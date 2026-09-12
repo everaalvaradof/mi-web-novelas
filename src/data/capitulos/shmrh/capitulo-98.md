@@ -145,7 +145,3 @@ La expresión de Meng Liang parecía aún más sorprendida cuando escuchó esto.
 Pero en ese momento, ¿Mingmei vino a buscar a Chen Mo?
 
 Meng Liang no pudo evitar murmurar suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

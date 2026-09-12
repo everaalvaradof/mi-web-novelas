@@ -201,7 +201,3 @@ Todos los presentes sabían en sus corazones que este incidente iba a ser grande
 El guardaespaldas fue muy rápido y corrió detrás de Chen Mo en un abrir y cerrar de ojos, y luego corrió hacia la ropa de Chen Mo y la agarró.
 
 Pero en este momento, una figura salió corriendo y agarró la muñeca del guardaespaldas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

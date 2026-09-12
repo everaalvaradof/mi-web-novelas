@@ -133,7 +133,3 @@ dijo Li Taibai a la ligera.
 “Pero ahora estoy peleando con Dali todos los días, ¿cuándo me convertiré en un verdadero guerrero?”
 
 Chen Mo gritó impotente, luego miró a Li Taibai y continuó: “Viejo, ¿tienes algún gran kung fu en tus manos, me puedes enseñar?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

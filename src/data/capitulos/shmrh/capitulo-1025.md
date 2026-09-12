@@ -93,7 +93,3 @@ Sin embargo, la concubina Qi Ye en realidad tiene sus propios pensamientos. No v
 Después de todo, la apariencia de Chen Mo no es mala, las condiciones deberían estar bien, Qi Ye Fei piensa que no es imposible darle una oportunidad a Chen Mo.
 
 En cuanto al hecho de que Chen Mo ya tiene una prometida, una chica como la concubina Qi Ye no se lo tomará en serio. Después de todo, una prometida significa que aún no está casada. Como no está casada, aun hay muchas posibilidades.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

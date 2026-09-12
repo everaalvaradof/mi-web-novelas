@@ -121,7 +121,3 @@ Después de escuchar las palabras de Zhang Ping, todos quedaron atónitos y las 
 “Zhang Ping, no hables de este tipo de bromas a la ligera. Todos somos compañeros de clase. ¿Eres gracioso?”
 
 Wei Mengmeng no pudo escuchar más, así que se puso de pie y Gritó Zhang Ping.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

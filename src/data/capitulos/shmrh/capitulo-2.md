@@ -175,7 +175,3 @@ El capitán de seguridad le preguntó a la sexy belleza en un tono perplejo.
 “Este niño fue al piso veintisiete donde está el presidente Wang. El presidente Wang dijo que nadie puede subir al piso veintisiete sin su permiso”. El capitán de seguridad miró hacia el ascensor y dijo impotente.
 
 La belleza sexy se congeló por un momento después de escuchar esto, luego apretó los dientes plateados y dijo: “Entonces espérame aquí y bloquea todas las puertas del edificio. ¡No creas que este bastardo no puede bajar hoy!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

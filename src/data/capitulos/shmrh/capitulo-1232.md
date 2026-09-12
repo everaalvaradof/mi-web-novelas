@@ -97,7 +97,3 @@ Dijo rápidamente Fan Meihua.
 “Estas cosas son justo lo que quieres, no lo que yo quiero. ¡Eres tan egoísta y me da vergüenza tener una madre como tú!”
 
 Las palabras de Su Mubai atravesaron el corazón de Fan Meihua como un cuchillo afilado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

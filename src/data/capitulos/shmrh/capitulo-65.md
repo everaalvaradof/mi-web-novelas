@@ -137,7 +137,3 @@ Sun Miao no pudo evitar mirar a Chen Mo de arriba abajo y suspiró en su corazó
 Chen Mo no preguntó cuánto y qué tan grande era la villa. Su tono era casual, como si estuviera comprando verduras en un mercado de verduras.
 
 Después de que Sun Miao escuchó las palabras de Chen Mo, se quedó atónita nuevamente y sus ojos estaban conmocionados excepto por el shock.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

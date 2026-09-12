@@ -101,7 +101,3 @@ Después de que Yue Chengnan escuchó las palabras de Chen Mo, un rastro de mied
 Chen Mo no pudo evitar burlarse, luego giró la cabeza para mirar a Sun Chuan y le dijo a Sun Chuan con la cara en blanco: “Por favor, explícale, ¿entendí mal a Yue Xuan?”
 
 Sun Chuan asintió rápidamente, luego caminó frente a Yue Chengnan y dijo en voz baja: “El joven maestro Chen tiene razón, Yue Xuan lo discutió conmigo al principio, vino a enojar deliberadamente al joven maestro Chen y lo dejó”. Chen Gongzi le hará algo, y luego puedo hacérselo a Chen Gongzi, y convertir directamente a Chen Gongzi en una persona lisiada, o matarlo a golpes, pero nadie pensó que las habilidades de Chen Mo serían tan poderosas, no lo soy. El oponente de Chen Gongzi en absoluto, luego sucedieron las últimas cosas”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

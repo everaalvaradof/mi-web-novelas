@@ -219,7 +219,3 @@ Zhang Zicheng dijo emocionado.
 Dijo Zhang Zicheng descuidadamente.
 
 Song Zheng sonrió y colgó el teléfono.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

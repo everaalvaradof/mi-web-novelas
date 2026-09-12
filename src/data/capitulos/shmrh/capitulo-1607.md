@@ -109,7 +109,3 @@ Dijo Qin Yibing con frialdad.
 Chen Mo abrió la boca para hablar.
 
 Qin Yibing no le dio a Chen Mo la oportunidad de continuar y simplemente colgó el teléfono.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -121,7 +121,3 @@ Chen Mo sintió que la figura de Su Mubai era la perfección entre las perfeccio
 Chen Mo bajó lentamente la cabeza y besó a Su Mubai, y Su Mubai también comenzó a responderle a Chen Mo.
 
 En este momento, Su Mubai todavía estaba muy sensible y su cuerpo temblaba ligeramente. Chen Mo besó a Su Mubai y extendió la mano para tocar los botones de su ropa interior.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

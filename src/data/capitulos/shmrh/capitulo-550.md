@@ -121,7 +121,3 @@ Y Zhao Lei no dijo mucho después de entender lo que Chen Mo quería decir, y se
 “Hermanos, ¿vosotros dos vencisteis al príncipe?”
 
 En este momento, el joven llamado Wei Ge se adelantó y le sonrió. Chen Mo y Zhao Lei gritaron.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

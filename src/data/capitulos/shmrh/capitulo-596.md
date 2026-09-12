@@ -97,7 +97,3 @@ Li Baiqiang vio que Wang Xiaochuan no quería decir nada, así que, naturalmente
 Wang Xiaochuan tenía miedo de continuar quedándose y hacer una filtración, lo que ofendería a Chen Mo. Si ese es el caso, entonces es una pequeña pérdida, así que después de decir esto, se dio la vuelta y se preparó para irse.
 
 Li Baiqiang realmente quería quedarse con Wang Xiaochuan en este momento e invitó a Wang Xiaochuan a comer. Después de todo, poder conocer a un hombre tan grande como Wang Xiaochuan también sería de gran beneficio para sus familia li.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

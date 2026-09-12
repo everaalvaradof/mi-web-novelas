@@ -137,7 +137,3 @@ Chu Lan pensó por un momento y dijo suavemente: “Bueno, te llevaré a un luga
 Chen Mo asintió apresuradamente.
 
 Chen Mo sintió que sin importar a dónde fuera, era mucho mejor que quedarse aquí así, si se quedaba así, estaría loco.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

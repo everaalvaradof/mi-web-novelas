@@ -83,7 +83,3 @@ Dijo Li Baiqiang rápidamente, y luego continuó para agregar: “Si realmente n
 Li Zixi giró la cabeza para mirar a Zhao Ziyi, sabía que la única forma ahora era para darse prisa y hacer que Chen Mo viniera, de lo contrario, Zhao Ziyi nunca se rendiría.
 
 Entonces Li Zixi suspiró suavemente, sacó su teléfono, se dio la vuelta y salió de la villa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

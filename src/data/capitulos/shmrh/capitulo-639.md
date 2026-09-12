@@ -93,7 +93,3 @@ Bai Zhibing solo reaccionó en este momento, Su Bai debería haber sido invitada
 Al pensar en esto, la expresión en el rostro de Bai Zhibing parece estar un poco preocupada. Después de todo, Bai Zhibing conoce la relación entre Chen Mo y Su Bai en su corazón. No sé cómo explicarlo. para mi madre.
 
 Wei Chen, Jiang Feifei, Yang Manqi y otros estaban muy felices en este momento, pensando que sabían que pronto habría un buen espectáculo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

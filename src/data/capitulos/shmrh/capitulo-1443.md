@@ -125,7 +125,3 @@ continuó preguntando Chen Mo.
 respondió Tian Haixi.
 
 Chen Mo sonrió con impotencia y luego dijo a la ligera: “No conoces a Feng Xing, y no conoces a Feng Xing, entonces, ¿por qué debería cooperar contigo? ¿Qué puedo obtener de ti? ¿Puedes ayudarme? ¿Es porque eres hermosa? ¿Te ayudaré si tienes una mejor figura? durante dos segundos, dijo en voz baja: “Joven maestro Chen, realmente no puedo hacer lo que dijiste, ¡pero puedo darte un mensaje muy importante!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

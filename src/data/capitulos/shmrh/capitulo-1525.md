@@ -117,7 +117,3 @@ Chen Mo no pudo evitar quedarse atónito cuando escuchó las palabras de Jiang X
 “Joven maestro Chen, creo que también deberíamos darnos por vencidos. Después de todo, ha hecho todo lo posible, pero realmente no hay salida ahora. No es su culpa que no pueda ponerse en contacto con ¡Maestro Li!”
 
 Tian Haixi lo siguió apresuradamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

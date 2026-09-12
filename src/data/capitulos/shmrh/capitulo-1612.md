@@ -125,7 +125,3 @@ Chen Mo frunció el ceño y le preguntó a Zhang Ziqing.
 “¡Por supuesto, solo espera mi venganza!”
 
 Zhang Ziqing respondió directamente a Chen Mo sin dudarlo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

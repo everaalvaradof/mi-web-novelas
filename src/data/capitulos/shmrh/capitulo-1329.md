@@ -127,7 +127,3 @@ Y Chen Mo sonrió con impotencia después de ver a Li Yan borracha y dijo en voz
 Duan Chenjie Vi a Chen Mo así Arrogante, y aún más enojado en mi corazón.
 
 Si hubiera sabido que la capacidad de bebida de Chen Mo era tan buena, habría encontrado algunas personas más, pero ahora es obviamente demasiado tarde para arrepentirse.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

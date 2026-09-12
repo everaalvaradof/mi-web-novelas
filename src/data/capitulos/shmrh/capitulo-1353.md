@@ -111,7 +111,3 @@ Feng Hao dijo muy casualmente.
 “Sr. Feng, Xue Yuqi puede ser considerada como una de las estrellas femeninas más populares recientemente. ¿De verdad invitó a Xue Yuqi? ¿Está demasiado orgulloso?”,
 
 dijo Jiang Qiwei en estado de shock.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -107,7 +107,3 @@ Y el hombre que se había acercado a la bella mujer estaba tirado en el suelo co
 En la ciudad de Nanyang, no es fácil meterse con Du Tianhao, y Qi Lixiao es aún más difícil.
 
 Al mismo tiempo, Chen Mo no sabía que el peligro se acercaba gradualmente a él, y todavía estaba pasando el rato con Su Mubai, Su Muyu y otros en el centro comercial.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -113,7 +113,3 @@ Chen Mo corrió hacia el rostro de Yan She y dijo con voz entrecortada: “Herma
 “Yo Estoy aquí. Tu familia solo vive unos días. Si sales y alquilas una casa, será demasiado problema. Tendré que mudarme en ese momento. No te preocupes, solo vivo unos días. ¡y no te afectará ni nada!”
 
 Yan Ella se sentó en el sofá con gracia y dijo con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

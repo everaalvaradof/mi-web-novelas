@@ -99,7 +99,3 @@ Aunque Chen Mo robó el protagonismo de Xu Feng en la ceremonia de apertura hace
 Xu Feng saludó brevemente a todos, luego entrecerró los ojos para mirar la posición de Chen Mo, una mirada extraña brilló en sus ojos.
 
 Antes, Xu Feng no creía que Chen Mo realmente participara en los cuatro proyectos, pero en este momento, después de ver a Chen Mo, supo que debería ser cierto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

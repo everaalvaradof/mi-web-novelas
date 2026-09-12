@@ -99,7 +99,3 @@ Luo Qiu instintivamente quería alejar a Chen Mo, pero Chen Mo no le dio ninguna
 Luo Qiu siempre había estado enredada, pero cuando sintió que Chen Mo la estaba abrazando, ya no controló sus emociones. Puso sus manos directamente alrededor del cuello de Chen Mo, sus labios sexys se abrieron ligeramente y se encontró con Chen. Mo con fuerza.
 
 Después de que Chen Mo sintió la respuesta de Luo Qiu, la sangre en su cuerpo parecía estar hirviendo, y los movimientos de sus manos gradualmente se hicieron más grandes, y los dos estaban abrazados y acostados en el sofá.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

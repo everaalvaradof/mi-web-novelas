@@ -167,7 +167,3 @@ Originalmente, cuando Chen Mo fue a ver a Elina hoy, planeó preguntarle algunas
 Aunque no encontré ninguna pista sobre Yupei, Chen Mo entendió el asunto de la compañía de Su Mubai, así que no es una pérdida de tiempo dejarlo ir hoy.
 
 Cuando Chen Mo regresó al hotel, descubrió que Su Mubai ya había regresado. Estaba sentado en el sofá mirando la computadora portátil y la expresión de su rostro no parecía muy feliz.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

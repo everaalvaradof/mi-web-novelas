@@ -171,7 +171,3 @@ Xu Jiao no pudo evitar quedarse atónita cuando escuchó esto, y luego susurró:
 Gao Feifei asintió rápidamente.
 
 Xu Jiao levantó la cabeza y miró a Gao Feifei a la ligera, una mirada extraña brilló en sus ojos, pero al final extendió la mano y detuvo un taxi, y luego llevó a Gao Feifei al automóvil.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

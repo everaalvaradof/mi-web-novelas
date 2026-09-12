@@ -101,7 +101,3 @@ Incluso Su Bai se sorprendió en este momento. Parecía que incluso el propio Su
 Chen Mo entrecerró los ojos ante la posición de Bai Zhennan con una expresión muy tranquila en su rostro.
 
 Después de todo, Chen Mo es diferente a los demás. Conoce a Bai Zhibing desde hace muy poco tiempo y no sabe mucho sobre Bai Zhibing, por lo que definitivamente no está tan sorprendido como Wei Chen y otros en esta vez.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

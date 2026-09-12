@@ -107,7 +107,3 @@ Bai Xue escribió con la boca pequeña gritó.
 Y Su Mubai no quería escuchar las tonterías de estas dos personas aquí, así que sacó su teléfono móvil y se preparó para llamar a Chen Mo.
 
 Pero en ese momento, un autobús azul venía lentamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

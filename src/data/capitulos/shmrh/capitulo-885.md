@@ -109,7 +109,3 @@ Chen Mo frunció el ceño y gritó.
 “Los guerreros deben hacer la ceremonia de aprendizaje”
 
 Li Taibai le dijo solemnemente a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

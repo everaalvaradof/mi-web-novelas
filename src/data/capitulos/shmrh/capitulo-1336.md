@@ -123,7 +123,3 @@ Duan Chenjie se quedó allí durante dos segundos y vaciló, luego respiró hond
 Después de escuchar las palabras de Duan Chenjie, todos se giraron para mirar la posición de Chen Mo, como si nadie hubiera pensado que Chen Mo ganaría.
 
 Nunca se imaginó que Duan Chenjie aún perdería ante Chen Mo a pesar de que le pidió ayuda a Shen Qing.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

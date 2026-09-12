@@ -111,7 +111,3 @@ Después de ver la reacción de Wei Pingping, todos entendieron de inmediato lo 
 Gritó Chen Xingfa, y luego corrió hacia Wei Pingping pasando rápidamente por la posición.
 
 Chen Lixin gritó de repente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

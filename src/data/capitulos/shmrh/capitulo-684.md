@@ -123,7 +123,3 @@ Luo Qiu abrió la boca para hablar.
 Zhang Daoyu dijo con seriedad.
 
 Después de que Luo Qiu escuchó las palabras del director Zhang, había una pizca de vacilación en sus ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -111,7 +111,3 @@ Como dijo Yan She, la herida en la pierna de Chen Mo en realidad sanó milagrosa
 Y Yan She no rompió su promesa y accedió directamente a la licencia de Chen Mo.
 
 ¡Y Chen Mo también va a la ciudad de Yaoyuan a buscar las hierbas medicinales que dijo Li Taibai!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -181,7 +181,3 @@ Zhang Wanghai dio Chen Mo una mirada ligera, luego le susurró a Chen Mo: “¿S
 “Mi maestro es mi maestro, soy yo, tú y yo no tenemos agravios ni enemistad, no quiero matarte, ¡así que te persuado para que te quites del camino!”
 
 dijo Chen Mo sin expresión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

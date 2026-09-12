@@ -115,7 +115,3 @@ Chen Mo respondió con una sonrisa.
 “¡No importa si no hay salario!”
 
 Zhang Guangde apretó los dientes y susurró en respuesta, ¿dónde está de humor para preocuparse por el salario o no, entonces él puede conservar su pierna Ya estaba muy bien.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

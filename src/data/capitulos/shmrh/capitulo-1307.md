@@ -105,7 +105,3 @@ Y todos los demás parecían reconocer que el Príncipe Fei estaba allí. Todos 
 En un instante, todos los presentes comenzaron a gritar frenéticamente el nombre de Wang Zifei, las expresiones en sus rostros estaban extraordinariamente emocionadas.
 
 Y Shen Lingdie realmente sabía lo aterradora que era la fuerza de Wang Zifei. Un rastro de preocupación brilló en sus ojos, y le preguntó suavemente a Zhao Jinyu: “Primo, ¿puedes vencer a esta persona?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

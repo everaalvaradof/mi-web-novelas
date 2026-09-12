@@ -95,7 +95,3 @@ Ren Bin le dijo a Chen Mo con una sonrisa.
 Ding Shuo lo siguió rápidamente.
 
 Y Chen Mo estaba un poco sorprendido después de escuchar lo que dijeron Ren Bin y Ding Shuo. Nunca imaginó que sus tres compañeros de cuarto acudirían a él, y estaban tan entusiasmados.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

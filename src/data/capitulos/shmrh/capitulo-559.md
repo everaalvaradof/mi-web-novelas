@@ -109,7 +109,3 @@ Después de que Chen Mo se quedó atónito por un rato, tartamudeó de vuelta.
 “¿Estás aquí para la fiesta de cumpleaños?”
 
 Después de escuchar las palabras de Chen Mo, la belleza en su rostro parecía aún más sorprendida.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

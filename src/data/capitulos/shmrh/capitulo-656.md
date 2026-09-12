@@ -105,7 +105,3 @@ dijo Ma Chi con una sonrisa.
 “Estas personas son realmente demasiado débiles, aburridas, ¿hay algo más emocionante?”, Gritó el hermano Wang descuidadamente.
 
 Y después de escuchar las palabras de Ma Chi, Zhou Yue susurró: “Hay un lugar para el boxeo negro al frente, y los boxeadores deberían ser más poderosos”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -115,7 +115,3 @@ En un instante, la expresión en el rostro de Li Xiaochuan se volvió fea y mir�
 Pero Huang Zhijie no podía hablar en absoluto en este momento, porque no quería que Tao Yiran supiera que él también estaba involucrado en este asunto.
 
 Justo cuando Li Xiaochuan estaba un poco desesperado, sonó una voz.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

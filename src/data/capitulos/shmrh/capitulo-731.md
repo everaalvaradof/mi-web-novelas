@@ -113,7 +113,3 @@ Esta es también la razón por la que Chen Mo se quedó en la Universidad de Nan
 Yan Ella le dijo a Chen Mo en un tono muy tranquilo.
 
 Después de escuchar las palabras de Yan She, Chen Mo no pudo evitar morderse los dientes, luego señaló los juguetes sexuales sobre la mesa y gritó: “¿No te acabo de ver comprando estas cosas? ¿Por qué las mujeres ¿Tan tacaño? ¡Le expliqué que no era mi intención!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

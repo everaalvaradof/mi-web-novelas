@@ -203,7 +203,3 @@ En este momento, Chen Mo estaba a punto de entrar al valle, y todos miraban la p
 Todos comenzaron sentir pena por Ye Xian’er.
 
 Y el joven agitó su mano derecha de repente, y un grupo de llamas carmesí voló directamente hacia la posición de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

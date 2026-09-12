@@ -137,7 +137,3 @@ Tang Qingqing le recordó suavemente a Chen Mo.
 Chen Mo dijo impotente.
 
 La cara de Su Muyu se rompió aún más cuando escuchó esto, ¡porque nunca había visto al pianista que ni siquiera podía leer la partitura!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

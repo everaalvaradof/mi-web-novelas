@@ -187,7 +187,3 @@ La mujer astuta fingió ser inocente y dijo con delicadeza.
 Gritó Yin Ziyu con lágrimas en los ojos.
 
 “¿Es útil una disculpa?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

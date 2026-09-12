@@ -183,7 +183,3 @@ Por otro lado, Chen Mo y Ye Xian’er tomaron el avión durante todo el día y l
 En el camino, Ye Xian’er parece no existir. Mientras Chen Mo no le hable, no molestará a Chen Mo. La azafata lo llevará a comer. De Por supuesto, también traerá uno para Chen Mo, pero Chen Mo nunca ha comido.
 
 Después de que los dos bajaron del avión, Chen Mo descubrió que Ye Xian’er en realidad planeaba seguirlo todo el tiempo. Finalmente no pudo soportarlo más. Se detuvo y miró a Ye Xian’er y dijo: “¿Qué vas a hacer? ¡Sígueme y nunca estaré de acuerdo!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

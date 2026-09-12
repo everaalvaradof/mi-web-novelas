@@ -163,7 +163,3 @@ Wei Xiaole, que originalmente estaba jugando al póquer, no pudo evitar congelar
 “Lo siento, ¡tal vez mis zapatos estén sucios esta vez!”
 
 Chen Mo miró a Wei Xiaole y sonrió con calma.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

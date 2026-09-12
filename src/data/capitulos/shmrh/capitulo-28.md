@@ -117,7 +117,3 @@ Chen Mo se quedó atónito por un momento y le preguntó suavemente a Su Mubai.
 “Puedo casarme contigo, pero tengo algunas condiciones. ¡Siempre y cuando cumplas con estas condiciones, podemos casarnos en cualquier momento!”
 
 dijo lentamente Su Mubai.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

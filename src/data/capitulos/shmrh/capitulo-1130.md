@@ -139,7 +139,3 @@ Después de subir al avión, Chen Mo estaba tan cansado que cerró los ojos y de
 Y Zhou You ni siquiera quería huir, se sentó en silencio junto a Chen Mo todo el tiempo.
 
 Unas cuatro horas después, Chen Mo y Zhou You llegaron a la ciudad de Xifeng.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

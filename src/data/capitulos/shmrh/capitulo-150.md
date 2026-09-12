@@ -135,7 +135,3 @@ Sin embargo, las palabras de Xiaofang tienen Aún no había terminado, Chen Mo H
 Cuando Xiao Fang vio pasar a Chen Mo, pisoteó y gritó en voz baja.
 
 Pero Chen Mo parecía no haber escuchado las palabras de Xiaofang y siguió caminando hacia adelante.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

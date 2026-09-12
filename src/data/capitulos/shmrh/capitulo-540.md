@@ -127,7 +127,3 @@ Chen Mo volvió la cabeza y miró a Li Juncheng. Después de que Li Juncheng ent
 “¿De verdad no se conocen?”
 
 Chen Mo entrecerró los ojos y preguntó a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -103,7 +103,3 @@ Y el resto de las personas presentes también mostraron expresiones de miedo.
 “Creo que esta elección también es la más fácil para ti. Después de todo, solo sacrificas a una de tus novias, pero a cambio de la seguridad de todos ustedes, ¿qué piensan?”
 
 preguntó Wang Zijing con una mueca de desdén, como si fuera un demonio.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -109,7 +109,3 @@ Tao Yiran miró a Chen Mo, puso los ojos en blanco y respondió con un tono desd
 Chen Mo respondió con impaciencia, y luego directamente se dio la vuelta y se fue.
 
 Los ojos de Tao Yiran brillaron un poco después de escuchar el nombre.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -111,7 +111,3 @@ En este momento, Li Zixi parece estar poniendo todas sus esperanzas en Chen Mo. 
 Unos minutos después, Li Zixi regresó a la villa.
 
 Después de entrar en la villa, Li Zixi descubrió que Li Beijiang se había ido y que Li Baiqiang estaba sentado solo en el sofá viendo la televisión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

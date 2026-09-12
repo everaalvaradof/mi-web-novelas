@@ -119,7 +119,3 @@ Fan Meihua no siguió observando la situación afuera, porque ella sintió que h
 Su Mubai le gritó a Fan Meihua con una expresión muy nerviosa.
 
 Fan Meihua no pudo evitar congelarse cuando vio a Su Mubai frente a ella, y había una pizca de confusión en sus ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

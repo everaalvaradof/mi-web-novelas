@@ -109,7 +109,3 @@ Frente a Chen Mo, era como un palo de madera, que Chen Mo rompió fácilmente.
 Los ojos de todos se abrieron como platos y no sabían cómo describir sus sentimientos. Incluso Li Haoran no pensó que Chen Mo realmente se atrevería a atacar a Yue Xuan.
 
 Li Haoran miró la posición de Chen Mo con una expresión increíble.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

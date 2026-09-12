@@ -181,7 +181,3 @@ El golf es de hecho el deporte favorito de Elina, pero siente que lo que acaba d
 A los ojos de Elina, los chinos siempre han sido muy modestos, por eso le gusta hacerse amiga de los chinos.
 
 Pero Elina no vio tal cualidad en Chen Mo, y en ese momento incluso se arrepintió de haberlo invitado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

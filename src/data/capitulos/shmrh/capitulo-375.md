@@ -105,7 +105,3 @@ Aunque Chen Mo parece tener una expresión muy tranquila en su rostro ahora, en 
 Li Juncheng también pareció ver el nerviosismo en los ojos de Chen Mo, pero no dijo mucho.
 
 Porque a los ojos de Li Juncheng, la verdadera potencia debería ser sin escrúpulos para lograr sus objetivos. Si Chen Mo ni siquiera puede hacer esto bien, entonces es imposible para él tratar con los comerciantes de plata.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

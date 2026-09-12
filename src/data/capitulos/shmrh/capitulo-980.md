@@ -115,7 +115,3 @@ Chen Mo preguntó con una sonrisa.
 Chen Xing’an respondió en una voz baja
 
 Chen Mo sonrió con desdén y luego dijo a la ligera: “Está bien, no finjas, si no fuera porque has estado malversando fondos del Grupo Chen en secreto, ¡ahora el valor de mercado del Grupo Chen puede haber superado los 5 mil millones!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

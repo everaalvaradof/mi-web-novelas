@@ -119,7 +119,3 @@ Porque Chen Mo no ha dicho una palabra desde el comienzo de este incidente.
 Su Chengkai estaba lleno de emoción. Cuando su yerno vio que estaba en un accidente, no podía esperar para esconderse, pero fue el yerno de su hermana quien se puso de pie.
 
 ¡La diferencia es demasiado obvia!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

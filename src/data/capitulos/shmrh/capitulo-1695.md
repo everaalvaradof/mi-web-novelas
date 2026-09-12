@@ -113,7 +113,3 @@ Si Chen Mo pasó el pasado por sí solo, es muy probable que sea un callejón si
 Entonces, después de pensarlo brevemente, Chen Mo decidió buscar algunos ayudantes.
 
 Pero desafortunadamente, esta es la Capital Mágica, no la ciudad de Beihang ni la ciudad de Nanyang, por lo que Chen Mo puede encontrar muy pocos ayudantes por el momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

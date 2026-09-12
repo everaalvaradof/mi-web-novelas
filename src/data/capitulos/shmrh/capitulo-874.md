@@ -93,7 +93,3 @@ Qian Ping se rió a carcajadas, con una expresión muy feliz en su rostro.
 Y Li Yulong miró a Qian Ping con un destello de desdén en sus ojos. De hecho, Li Yulong despreciaba mucho a personas como Qian Ping. En términos de fuerza y ​​​​estado en la provincia de Jiyuan, Qian Ping y Li Yulong no están en el mismo nivel en absoluto.
 
 Por supuesto, hay una razón más importante por la que Li Yulong escuchó que Tang Ying también vendría hoy, así que vino a Tang Ying hoy.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

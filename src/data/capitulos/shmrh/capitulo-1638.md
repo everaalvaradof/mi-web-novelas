@@ -129,7 +129,3 @@ Chen Dijo Mo con una sonrisa.
 “¡Por supuesto que no me importa!”
 
 Zhang Ziqing negó suavemente con la cabeza hacia Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

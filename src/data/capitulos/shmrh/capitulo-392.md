@@ -111,7 +111,3 @@ Después de estacionar el auto, Chen Mo entró directamente a la oficina de vent
 Pero antes de que Chen Mo entrara a la oficina de ventas, vio a un hombre gordo de mediana edad con un traje negro parado frente a Wang Yaoyao, regañando a Wang Yaoyao con una expresión muy emocionada, y sus insultos fueron anormalmente duros.
 
 Cuando Chen Mo vio esta escena, un rastro de ira brilló en sus ojos, abrió la puerta de la oficina de ventas y entró a la oficina de ventas a grandes zancadas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -133,7 +133,3 @@ Chen Mo se quedó estupefacto cuando vio a Wen Ruoxi que estaba tan loco, ¡porq
 “Esta mujer no tiene la intención de violarme, ¿verdad? Dijo que quería agradecerme hace un momento, ¿así que no puedes agradecerme así?”
 
 Chen Mo no pudo t ayudar a gritar en su corazón.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -125,7 +125,3 @@ Al segundo siguiente, el cuerpo de Shi Wulong voló boca abajo.
 Bajo la atención de todos, Shi Wulong voló boca abajo casi diez metros en el aire y luego se estrelló contra la pared.
 
 Hasta las paredes fueron rotas por Shi Wulong.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

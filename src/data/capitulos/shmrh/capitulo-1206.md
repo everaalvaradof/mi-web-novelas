@@ -99,7 +99,3 @@ Bai Zhibing miró la posición de Chen Mo y suspiró en secreto en su corazón: 
 Y Su Bai, Wei Chen y otros también están desconcertados, porque ellos dos realmente no entienden por qué la suerte de Chen Mo siempre es tan buena, Ye Xueqi la ayudó cuando estaban en la ciudad de Nanyang, y Su Mi también la ayudó. Chen Mo, ahora que está en la ciudad de Beihang, es aún más exagerado. Chen Mo incluso se reunió con la princesa mayor de la familia Tao.
 
 Su Bai piensa que aunque Chen Mo se ve bien, no es un chico súper guapo ¿Por qué la relación de Chen Mo con las mujeres es tan buena?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

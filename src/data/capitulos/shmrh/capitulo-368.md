@@ -93,7 +93,3 @@ Chen Mo se separó de la mano de Li Juncheng mientras hablaba, y luego salió de
 Pero justo cuando Chen Mo estaba a punto para salir de la oficina de Li Juncheng En ese momento, Li Juncheng de repente abrió la boca y gritó a la posición de Chen Mo.
 
 Cuando Chen Mo escuchó las palabras de Li Juncheng, se quedó atónito por un momento, su pie derecho que ya había salido se retrajo lentamente, luego se volvió para mirar a Li Juncheng y preguntó: “¿Qué acabas de decir?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

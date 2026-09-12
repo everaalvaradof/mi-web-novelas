@@ -125,7 +125,3 @@ Pero antes de que Wang Zijing diera dos pasos, un dolor sin precedentes recorri�
 Después de que Wang Zijing gritara, cayó directamente al suelo.
 
 Li Juncheng miró a Wang Zijing tendido en el suelo, la expresión de su rostro seguía siendo muy tranquila.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -121,7 +121,3 @@ Debido a que la velocidad de Chen Mo era tan rápida, esos guardaespaldas ni siq
 En menos de medio minuto, siete u ocho guardaespaldas ya habían caído al suelo.
 
 En el momento en que Haixi abrió los ojos ese día, sintió que todo lo que veía en ese momento era tan irreal.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

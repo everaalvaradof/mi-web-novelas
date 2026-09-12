@@ -147,7 +147,3 @@ Chen Mo suspiró impotente.
 La relación entre Su Mubai y yo se ha relajado un poco debido a la inversión de la última vez. Si Su Mubai ve estas fotos en este momento, es posible que realmente no pueda lavarse si salta al río Amarillo. claro
 
 Chen Mo respiró hondo y luego salió corriendo del aula con su teléfono móvil.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

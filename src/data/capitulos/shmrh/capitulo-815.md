@@ -137,7 +137,3 @@ Ye Xueqi respondió suavemente una oración.
 “Está bien, está bien, estaba muerta de preocupación hace un momento”
 
 La chica se palmeó el pecho y dejó escapar un largo suspiro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

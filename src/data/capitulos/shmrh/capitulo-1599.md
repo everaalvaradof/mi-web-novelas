@@ -127,7 +127,3 @@ Ahora Chen Mo está jugando. Quiere ver si Zhang Xize realmente tiene la intenci
 Como dice el refrán, el veneno de tigre no se come a sus hijos, Chen Mo todavía no cree que Zhang Xize sea tan cruel, incluso la vida de su hija puede ser ignorada.
 
 Unos segundos después, el auto de Wang Yan también se detuvo al costado del camino.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

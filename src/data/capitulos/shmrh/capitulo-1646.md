@@ -95,7 +95,3 @@ Unos segundos después, Ren Jian dejó escapar un grito y el guardia de segurida
 Después de que los guardias de seguridad echaran a Ren Jian, todo el casino quedó en silencio.
 
 Aunque la forma en que Chen Mo trata con Ren Jian hoy es un poco cruel, también está aprovechando esta oportunidad para matar pollos y dar ejemplo. Después de todo, acaba de tomar el control del casino. Ahora debe haber Chen Mo no convenció a muchas personas, pero después de este incidente, Chen Mo sintió que en el futuro esas personas en el casino deberían ser mucho más honestas, lo que haría que la administración de Qin Yibing fuera más conveniente en el futuro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

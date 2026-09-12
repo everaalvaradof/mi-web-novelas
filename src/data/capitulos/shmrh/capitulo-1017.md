@@ -105,7 +105,3 @@ La chica lleva una falda corta de Chanel, lo que le da a la gente una sensación
 “Esta chica es la diosa Shen Lingdie de nuestra clase”
 
 Ding Shuo le dijo a Chen Mo en un tono muy emocionado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

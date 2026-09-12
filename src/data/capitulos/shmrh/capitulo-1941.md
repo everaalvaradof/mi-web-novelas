@@ -129,7 +129,3 @@ Con el aliento entregado por Qing Yaozhu, las heridas de Chen Mo comenzaron a sa
 En ese momento, Bi Chengan se dio cuenta de repente de que el aliento de Chen Mo se había recuperado, un rastro de duda brilló en sus ojos, frunció el ceño y preguntó: “Muchacho, ¿cómo recuperó el aliento? Justo ahora ¿Qué ¿Lo haces?”
 
 Chen Mo no prestó ninguna atención a Bi Chengan en absoluto, sino que corrió hacia la posición de Bi Chengan en un instante.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

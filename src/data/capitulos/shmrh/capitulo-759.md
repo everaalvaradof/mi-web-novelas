@@ -117,7 +117,3 @@ En este momento, una pregunta brilló nuevamente en la mente de Chen Mo.
 Es decir, ¿quién es Yan She?
 
 ¡Tanto las habilidades de Yan She como la botella de medicina que Yan She le dio a Chen Mo le dicen a Chen Mo que los antecedentes de identidad de Yan She definitivamente no son tan simples como ella imaginaba!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

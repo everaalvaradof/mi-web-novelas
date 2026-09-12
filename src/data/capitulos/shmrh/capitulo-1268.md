@@ -111,7 +111,3 @@ dijo Wang Xiao rápidamente.
 “Si realmente tienes la intención de vengar al jefe de la familia Wen, ¿por qué no acudiste a mí cuando estaba en la familia Wen? ¿Por qué no acudiste a mí cuando estaba en la ciudad de Beihang?” , me sucedió en este momento, ¿es todo esto realmente una coincidencia?”
 
 Chen Mo hizo una pausa por un momento, luego no le dio a Wang Xiao la oportunidad de hablar y dijo sin comprender: ” Tú Ahora es solo porque ves a alguien que quiere tratar conmigo, así que te pones de pie y no estás vengando a la cabeza de la familia Wen, solo quieres obtener esas propiedades de la familia Wen. Si no me equivoco, tú De hecho, ya se ha discutido con Wen Wangchuan, ¿verdad?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

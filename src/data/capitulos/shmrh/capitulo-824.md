@@ -129,7 +129,3 @@ Chen Mo frunció el ceño y gritó.
 “¡Entendido, Sr. Chen!”
 
 Tan Pingren respondió rápidamente en voz alta.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -115,7 +115,3 @@ Zhang Wei le preguntó a An Xiaowu con una expresión de frustración.
 “¡Todo es culpa de Chen Mo!”
 
 Dijo An Xiaowu con fiereza.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

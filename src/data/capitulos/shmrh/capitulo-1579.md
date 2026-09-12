@@ -119,7 +119,3 @@ Después de todo, es probable que la posición del jefe de la familia Yan recaig
 “Yan She, ¿esta persona es tu novio?”
 
 Sin embargo, en ese momento, Yan Xiao tomó la iniciativa de preguntarle a Yan She.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

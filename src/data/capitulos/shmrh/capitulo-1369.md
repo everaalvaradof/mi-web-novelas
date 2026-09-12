@@ -119,7 +119,3 @@ Preguntó Xue Yuqi con ingenuidad.
 “No es una sucursal, acabo de tomar el control del Club Tianyun, así que planeo realizar una ceremonia de apertura para promocionarlo bien”
 
 dijo Chen Mo con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

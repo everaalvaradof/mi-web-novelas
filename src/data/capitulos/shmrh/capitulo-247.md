@@ -125,7 +125,3 @@ Su Muyu hizo un puchero con su pequeña boca, luego cerró la boca y no habló.
 Una mirada extraña brilló en los ojos de Tang Qingqing, y rápidamente miró a Chen Mo con sus hermosos ojos nuevamente.
 
 La visión de Su Mubai, Tang Qingqing todavía tiene cierta comprensión, ¡pero ella realmente no puede entender por qué una mujer como Su Mubai con ojos en la parte superior encuentra un prometido como Chen Mo!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

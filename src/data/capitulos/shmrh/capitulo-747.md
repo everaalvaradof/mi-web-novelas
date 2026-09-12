@@ -109,7 +109,3 @@ El gerente Wang miró a Su Bai y asintió con la cabeza sin poder hacer nada, lu
 Chen Mo volvió la cabeza y miró a Yan She, luego sacó la tarjeta de membresía y se la entregó con una expresión de impotencia. Gerente Wang.
 
 Después de que el gerente Wang se hiciera cargo de la tarjeta de membresía de Chen Mo, la miró brevemente, un rastro de desdén brilló en sus ojos y luego caminó con gracia frente a la computadora con tacones altos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

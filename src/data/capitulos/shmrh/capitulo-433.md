@@ -115,7 +115,3 @@ Shi Xinxin preguntó en voz baja.
 “¿Has venido a la ciudad de Nanyang? ¿Dónde estás? ¡Te recogeré ahora mismo!”, gritó la otra parte emocionada después de enterarse de que Shi Xinxin llegó a la ciudad de Nanyang.
 
 Shi Xinxin mostró una sonrisa muy orgullosa después de ver la reacción de la otra parte.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

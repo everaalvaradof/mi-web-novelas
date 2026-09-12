@@ -99,7 +99,3 @@ Después de que Wang Yaoyao humillara a Zhang Guangzhi, un rastro de ira brilló
 Gritó Zhang Guangzhi, y luego levantó su mano derecha para correr hacia el rostro de Wang Yaoyao.
 
 Pero antes de que la mano de Zhang Guangzhi golpeara la cara de Wang Yaoyao, Chen Mo extendió la mano y agarró directamente la muñeca de Zhang Guangzhi.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

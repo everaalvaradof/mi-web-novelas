@@ -117,7 +117,3 @@ Luo Qiu miró a Chen Mo frente a él, sus ojos llenos de felicidad.
 Ella realmente ama a Chen Mo. No importa si Chen Mo es una persona común o una rica segunda generación, Luo Qiu está dispuesta a dedicar todo a Chen Mo.
 
 Luo Qiu es diferente de muchas mujeres. Cuando conoció a Chen Mo, a sus ojos, Chen Mo era un niño pobre, así que incluso si Luo Qiu conocía la verdadera identidad de Chen Mo en este momento, los sentimientos de Luo Qiu por Chen Mo ¡Nada ha cambiado!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

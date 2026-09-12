@@ -111,7 +111,3 @@ Y Su Mubai tomó la mano de Chen Mo y planeó irse.
 Después de que Fan Meiyan vio a Su Mubai y Chen Mo tomados de la mano, la expresión de su rostro se volvió aún más extraña y rápidamente preguntó: “Detente, ¿cuál es tu relación con este niño?”
 
 Su Mubai no pudo evitar quedarse atónita después de escuchar esto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

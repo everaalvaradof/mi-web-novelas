@@ -101,7 +101,3 @@ Porque Lin Fei sintió que si Li Linger hablaba en este momento, podría hacer q
 Li Linger respiró hondo, una pizca de impotencia en sus hermosos ojos, pero al final no dijo nada más.
 
 En este momento, la puerta de la caja se abrió desde el exterior y Li Bufan entró en la caja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

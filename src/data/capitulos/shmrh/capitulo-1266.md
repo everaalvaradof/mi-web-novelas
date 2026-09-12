@@ -97,7 +97,3 @@ Yue Chengnan respiró hondo, luego miró a Fan Yuanze y continuó: “Sr. Fan, h
 “También siento pena por lo que le sucedió al Sr. Yue, Yue. ¡Jefe, haz lo que quieras!”
 
 Dado que Fan Yuanze ya ha aceptado regalos de otros, no hay razón para detenerlo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

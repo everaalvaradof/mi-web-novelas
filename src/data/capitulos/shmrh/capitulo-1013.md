@@ -113,7 +113,3 @@ Y la belleza de ojos grandes extendió su mano y arrastró a Yueyue, y le gritó
 “No sé cuán rara es la oportunidad de entrevista de Uniasia Group”
 
 Chen Mo negó con la cabeza suavemente, luego continuó Dijo: “Pero sé que este incidente de hoy se debe a mi auto, entonces, ¿por qué no le doy este auto directamente a ella para compensar su pérdida? ¿Qué piensas?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

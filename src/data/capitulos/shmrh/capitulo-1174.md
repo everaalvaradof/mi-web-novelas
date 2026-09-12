@@ -123,7 +123,3 @@ Chen Mo respondió muy superficialmente, después de todo, no quería involucrar
 “¿Realmente no hay nada malo? ¿Por qué siento que algo anda mal con el monitor hoy? Si tienes algo que decirme, definitivamente te ayudaré”
 
 Ren Bin miró Chen Mo en serio y dijo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

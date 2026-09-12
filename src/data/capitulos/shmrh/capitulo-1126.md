@@ -123,7 +123,3 @@ Wen Ruoxi dejó escapar un largo suspiro y luego continuó: “Chen Mo, no sabes
 “¿Cómo no podría despertarme?”
 
 Chen Mo sonrió levemente y luego continuó pregunte: “¿Ha pasado algo recientemente?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

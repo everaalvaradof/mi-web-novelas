@@ -115,7 +115,3 @@ Las personas presentes quedaron estupefactas cuando vieron que Chen Mo estaba de
 Debido a que el camino que atraviesa la montaña mencionado por Wang Zifei es realmente muy famoso, básicamente mientras los entusiastas de las carreras en la ciudad de Beihang conozcan este camino, las condiciones del camino de este camino son muy complicadas, y todas ellas son carreteras de montaña, En los últimos años, la gente a menudo subía a las carreras de resistencia, pero la tasa de mortalidad era muy alta. Básicamente, diez personas subieron y solo cinco personas sobrevivieron.
 
 Más tarde, el gobierno bloqueó este camino directamente, y nadie lo tomó en absoluto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

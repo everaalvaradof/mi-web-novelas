@@ -113,7 +113,3 @@ Chen Mo observó brevemente el ambiente en la casa club. La casa club es muy tra
 Estoy acostumbrado al ajetreo y el bullicio de una gran ciudad, y de repente llegar a un lugar así es realmente diferente.
 
 En ese momento, una hermosa mujer con un cheongsam se acercó a Jiang Qiwei y luego dijo con una sonrisa: “¡Señorita Jiang, la señorita Liu está esperando adentro!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

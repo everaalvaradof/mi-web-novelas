@@ -167,7 +167,3 @@ Por otro lado, Chen Mo rompió continuamente las tres barreras frente a Zhang Wa
 Zhang Wanghai le dijo a Chen Mo sin expresión.
 
 Chen Mo miró a Zhang Wanghai y respiró hondo, luego corrió hacia la posición de Zhang Wanghai nuevamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

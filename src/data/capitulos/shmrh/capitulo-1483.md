@@ -123,7 +123,3 @@ Por supuesto, lo que Chen Mo ha hecho hoy en Beiqing Villa se extenderá por tod
 Después de todo, la derrota de Chen Mo sobre Qiu Feng ya había causado un gran revuelo en el mundo de las artes marciales de la isla de Hong Kong.
 
 Sin embargo, hoy Chen Mo derrotó a Shi Wulong nuevamente. Esta noticia es probablemente más increíble que la derrota de Chen Mo sobre Qiu Feng.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

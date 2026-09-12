@@ -101,7 +101,3 @@ Su Ling, que era tan arrogante en este momento, obviamente estaba estupefacto en
 “Abuelo, ¿qué dijiste? Me pediste que se lo diera a esa basura”
 
 Antes de que terminaran las palabras de Su Ling, Su Lieheng se giró. Una bofetada fue directamente a la cara de Su Ling y lo abofeteó, luego lo miró fijamente y gritó: “Te pedí que te disculparas con el joven maestro Chen, no me escuchaste, ¿verdad?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

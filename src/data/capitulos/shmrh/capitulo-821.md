@@ -101,7 +101,3 @@ Ning Shasha te miró, y luego rápidamente abrió la boca y le gritó a Tan Ping
 Pero antes de que Ning Shasha dijera estas palabras, descubrió que alguien se acercó. y tiró de tomar un momento para ti mismo.
 
 Chen Mo se acercó a Ning Shasha y dijo con la cara en blanco: “Él dedujo tu salario por tres meses, tienes que agradecerle, ¿no es demasiado intimidante?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

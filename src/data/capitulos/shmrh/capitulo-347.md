@@ -103,7 +103,3 @@ Zhao Zhengbin Asintiendo suavemente, luego caminó hacia la computadora.
 “¡No pierdas el tiempo, ahora puedo probar que no hay nada malo en este video!”
 
 Pero en este momento, Chen Mo gritó de repente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

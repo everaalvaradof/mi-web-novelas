@@ -165,7 +165,3 @@ Esta es la regla de los mercaderes de plata. No importa quiénes sean, serán re
 Después de unos diez minutos de lanzar, Fei Wang finalmente entró en la sala de conferencias.
 
 Se puede decir que la decoración en la sala de conferencias es extremadamente lujosa, y los otros tres de los cuatro reyes ya están esperando en la sala de conferencias en este momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

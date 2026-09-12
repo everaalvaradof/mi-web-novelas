@@ -111,7 +111,3 @@ Todos gritaron hacia la posición de Chen Lixin.
 “¡Cállense la boca por mí!”
 
 Chen Lixin lo miró a los ojos y gritó, luego continuó: “Ya he decidido sobre este asunto, dejen de decir tonterías, si no ¡No estoy de acuerdo, sal de aquí!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

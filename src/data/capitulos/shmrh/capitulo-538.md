@@ -147,7 +147,3 @@ Chen Mo respondió a la ligera.
 Luo Qiu gritó confundido.
 
 Luo Qiu miró el rostro de Chen Mo con una expresión muy impotente, sin saber qué decir.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

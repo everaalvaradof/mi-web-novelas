@@ -125,7 +125,3 @@ En un instante, Todos en la familia Zhang quedaron en estado de shock, y las exp
 Zhang Fansheng hizo todo lo posible por calmarse y le preguntó al joven en voz baja.
 
 El joven miró a Zhang Fansheng y dudó por un momento, luego susurró: “Sí, el hermano mayor Chenghua fue asesinado por Chen Mo, el hermano mayor Chenghua no era el oponente de Chen Mo, y finalmente fue asesinado por Chen Mo. Asesinado por Chen Mo”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

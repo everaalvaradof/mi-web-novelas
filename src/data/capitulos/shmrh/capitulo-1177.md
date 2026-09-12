@@ -105,7 +105,3 @@ Y Chen Mo miró a Tao Yiran y dudó durante dos segundos, luego dijo en voz baja
 Tao Yiran vio a Chen Mo Después de estar de acuerdo, asintió felizmente.
 
 Aunque el propio Chen Mo es muy resistente a cosas como ir de compras, pero para evitar que Tao Yiran continúe causando problemas como este, no tiene más remedio que ir de compras con Tao Yiran.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

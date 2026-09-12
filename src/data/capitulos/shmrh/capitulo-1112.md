@@ -111,7 +111,3 @@ El Valle Brumoso tiene la mayor cantidad de materiales medicinales en China, y m
 Además, la gente de Misty Valley tiene poco contacto con el mundo exterior, lo que hace que Misty Valley sea aún más misterioso.
 
 Entonces, si Chen Mo quiere encontrar Misty Valley, solo puede elegir seguir a Zhou You. Después de todo, mientras Zhou You deje la ciudad de Yuancang, definitivamente regresará a Misty Valley.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

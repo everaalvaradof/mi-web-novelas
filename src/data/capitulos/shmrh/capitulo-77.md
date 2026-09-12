@@ -143,7 +143,3 @@ Chen Mo abrió la boca para hablar.
 De repente encontró una explosión de fragancia, Mingmei en realidad extendió la mano y puso sus brazos alrededor del cuello de Chen Mo, y sus delicados labios rojos corrieron hacia los labios de Chen Mo y la besaron.
 
 Chen Mo no se dio cuenta de lo que estaba pasando, ¡así que Mingmei lo besó!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

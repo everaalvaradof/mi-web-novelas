@@ -91,7 +91,3 @@ Zhao Ziyi sonrió con desdén y luego dijo a la ligera: “¿Cómo puedo ser des
 “Zhao Ziyi, deberías morir, incluso si muero en mi vida, no lo haré con una persona como tú”
 
 Li Zixi miró fijamente sus grandes ojos llorosos y gritó en un tono muy emocionado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

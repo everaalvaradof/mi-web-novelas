@@ -125,7 +125,3 @@ En este momento, el tío Li estaba un poco sorprendido. No esperaba que Chen Mo 
 “¡Parece que el novio de la señorita de hecho no es una persona ordinaria!”
 
 El tío Li suspiró para sus adentros, luego se dio la vuelta y se fue.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -105,7 +105,3 @@ En este momento, la dama de bienvenida en la puerta gritó repentinamente.
 “¿Cómo podría alguien como Zhou Qiantu venir a nosotros?”
 
 Después de escuchar el nombre de Zhou Qiantu, todos los presentes estaban alborotados y sus expresiones eran muy increíbles.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

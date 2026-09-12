@@ -105,7 +105,3 @@ Shu Ziyu miró a Chen Mo y estaba atónito.
 Chen Mo le dijo a Shu Ziyu con un tono frío.
 
 Después de escuchar las palabras de Chen Mo, Shu Ziyu se congeló en su lugar, con una expresión muy avergonzada en su rostro, porque Shu Ziyu nunca pensó que Chen Mo le daría tanto la cara.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

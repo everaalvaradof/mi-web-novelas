@@ -125,7 +125,3 @@ Bai Xue dio un paso adelante y dijo apresuradamente.
 Gritó Bai Xue con la boca pequeña.
 
 Yang Fang y Su Chengkai se congelaron después de escuchar estas palabras, sus expresiones en sus rostros eran increíbles.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

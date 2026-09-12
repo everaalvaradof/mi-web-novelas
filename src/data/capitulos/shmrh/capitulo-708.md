@@ -115,7 +115,3 @@ La expresión en el rostro de Meng Liang y Liu Rui era increíble, y no sabía c
 “Chen Mo, ¿cuándo te volviste tan poderoso?”
 
 Luo Qiu no pudo evitar exclamar, su hermoso rostro estaba lleno de sorpresa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

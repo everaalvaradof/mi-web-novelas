@@ -99,7 +99,3 @@ Wang Tianshi se quedó estupefacto cuando escuchó las palabras de Sun Yuqing, y
 ¡Y el hecho de que Luo Qiu robó el anillo puede considerarse como la verdad completa en este momento!
 
 Liu Yingying se quedó parada en el lugar con una expresión desesperada en su rostro. ¡Quería explicar, pero no sabía cómo explicar estas cosas!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

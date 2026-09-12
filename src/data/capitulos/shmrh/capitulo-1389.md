@@ -103,7 +103,3 @@ Qin Yibing se burló, luego dijo a la ligera: “¿Cómo puede ¿Te perdono?”
 Chen Mo dijo rápidamente.
 
 Y Qin Yibing miró a Chen Mo y no supo qué hacer. En primer lugar, Chen Mo no lo hizo a propósito. Chen Mo también entró en el salón porque estaba preocupado de estar en peligro, y ahora esto ha sucedido. ¿Qué pasa si Qin Yibing no perdona a Chen Mo?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -137,7 +137,3 @@ Pero si Su Muyu interpretó el solo de violín, obviamente sería demasiado solo
 La selección de canciones de Su Muyu es muy famosa.
 
 Pero lo que Su Muyu no esperaba era que incluso si miraba a toda la escuela, no había forma de encontrar a alguien que pudiera jugar con ella.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

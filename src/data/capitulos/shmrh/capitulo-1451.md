@@ -123,7 +123,3 @@ Zhang Wei le preguntó apresuradamente a An Xiaowu.
 An Xiaowu respondió con indiferencia.
 
 Después de dudar por un momento, Zhang Wei rápidamente siguió a An Xiaowu fuera del auto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -119,7 +119,3 @@ Los hermosos ojos de Jiang Xi brillaron con un rastro de perplejidad.
 “An Zhenbei mató a Guan Yifan y luego me echó la culpa a mí. En este caso, Guan Qiankun haría todo lo posible para tratar conmigo, y no tendría ningún gerente para tratar con él. Fue planeado por ¡Un Zhenbei!”
 
 Chen Mo analizó sin expresión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

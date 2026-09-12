@@ -119,7 +119,3 @@ El conductor asintió levemente.
 Li Haoran continuó preguntándole al conductor.
 
 El conductor parecía vacilante.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

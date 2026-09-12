@@ -249,7 +249,3 @@ Después de todo, Chen Mo es el mayor enemigo del comerciante de plata, por lo q
 “Está bien, no tienes que preocuparte por esto ahora, porque no importa si tu banquero realmente tiene la intención de salvarme o no, no iré allí. Tengo cosas más importantes esperándome ahora”. ¡Hazlo!”
 
 Chen Mo dijo tranquilamente al rey.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

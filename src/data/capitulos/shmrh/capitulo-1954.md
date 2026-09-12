@@ -161,7 +161,3 @@ Zheng Shishi estaba tan molesto por las palabras de Chen Mo que no sabía qué d
 Después de que todos ingresaron al bosque, descubrieron que el ambiente en el interior era realmente muy duro, y se podían ver todo tipo de insectos voladores, serpientes venenosas y arañas en todas partes, pero Zheng Shishi y otros no tenían miedo de estas cosas. pero tuvieron mucho cuidado, porque una vez que te lastiman estos venenos, me temo que no hay posibilidad de salvarte la vida.
 
 Lo que no entendieron fue que esos venenos no parecían estar interesados ​​en Chen Mo y Ye Xian’er en absoluto, y ni siquiera se acercaron a ellos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

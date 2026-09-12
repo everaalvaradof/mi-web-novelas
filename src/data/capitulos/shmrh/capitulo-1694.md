@@ -119,7 +119,3 @@ Lo que Chen Mo está pensando ahora es proteger a Chu Lan. Seguridad, pase lo qu
 “No te preocupes, mientras no nos juegues una mala pasada, aún podemos garantizar la seguridad de esta mujer”
 
 Dijo el secuestrador a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

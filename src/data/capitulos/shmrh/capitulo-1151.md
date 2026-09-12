@@ -107,7 +107,3 @@ En este momento, Liu Xuanxuan también se dio cuenta de que había tomado una de
 En este momento, Liu Xuanxuan miró a Chen Mo como si estuviera mirando a un demonio, pero Liu Xuanxuan no se atrevió a resistirse en absoluto, porque sabía en su corazón lo terrible que era el hombre frente a ella. era Resistir es morir.
 
 Chen Mo también pareció ver el miedo y la preocupación en los ojos de Liu Xuanxuan, así que dijo suavemente: “No tienes que mirarme así, aunque quiero usar a tu padre, pero no fue mi intención lastimarlo, solo quería encontrar algunas personas a través de él”.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

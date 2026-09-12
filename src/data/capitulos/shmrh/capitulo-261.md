@@ -127,7 +127,3 @@ Esta es también la primera vez que Chen Mo Capítulo ganó la afirmación de ot
 “¡Chen Chen Mo, la señorita Gu Qing, la señorita Gu y el joven maestro Zhou An y Zhou te dejaron subir las escaleras para encontrarlos!”
 
 En este momento, la actitud de Su Hongfei hacia Chen Mo obviamente fue mucho mejor Chen Mo se inclinó a su lado y dijo con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

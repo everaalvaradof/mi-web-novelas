@@ -97,7 +97,3 @@ Cuando Yan She escuchó las palabras de Su Mi, todo su cuerpo se derrumbó. Desp
 Su Mi se dirigió agresivamente a Yan She, gritó almizcle.
 
 Yan Ella frunció el ceño y miró a las personas a su alrededor viendo la diversión, sus ojos se posaron directamente detrás de Chen Mo, se mordió el labio y susurró: “¡La persona que me gusta es él!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

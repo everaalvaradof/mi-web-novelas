@@ -195,7 +195,3 @@ En este momento, la plataforma de transmisión en vivo voló a través de un eno
 ¡Y Wen Ruoxi miró los regalos en su sala de transmisión en vivo, la expresión en su rostro también estaba muy sorprendida y sus grandes ojos estaban llenos de increíble!
 
 ¡No podía entender quién era tan generosa y se daba a sí misma más de 20.000 regalos!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

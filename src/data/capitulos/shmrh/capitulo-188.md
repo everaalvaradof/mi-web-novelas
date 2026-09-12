@@ -145,7 +145,3 @@ Luo Qiu dijo en el auto que quería cuidar de Chen Mo, y luego hizo una apuesta 
 ¿Es demasiado obvio para insinuarlo?
 
 Chen Mo realmente no puede entender qué tipo de suerte ha tenido recientemente, ¡y puede ser visto por una celebridad de Internet con millones de fanáticos como Luo Qiu!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

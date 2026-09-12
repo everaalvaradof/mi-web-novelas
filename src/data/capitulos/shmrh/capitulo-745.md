@@ -107,7 +107,3 @@ Chen Mo miró a Su Bai sin expresión y no pudo evitar burlarse en su corazón. 
 “Su Bai, ¿qué quieres decir?”
 
 Lu Zhengzhi miró fijamente a Su Bai y gritó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

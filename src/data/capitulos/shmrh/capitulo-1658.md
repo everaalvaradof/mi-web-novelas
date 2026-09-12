@@ -115,7 +115,3 @@ En este momento, Jiang Xi gritó de repente.
 Chen Mo volvió la cabeza para mirar a Jiang Xi.
 
 “Joven maestro de secta, si no está seguro de si lo que dijo esta persona es verdadero o falso, aquí tengo una solución”, dijo suavemente Jiang Xi.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

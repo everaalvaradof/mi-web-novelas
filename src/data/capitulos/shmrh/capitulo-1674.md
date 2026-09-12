@@ -127,7 +127,3 @@ Shui Ziyou miró a Chen Mo y dijo.
 “No estoy preocupado por esto. Mientras pueda participar en la licitación, y la licitación sea absolutamente justa, no importa si gasto un poco más de dinero, definitivamente obtendré esto tierra!”
 
 Chen Mo le dijo a Shui Ziyou en un tono serio.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

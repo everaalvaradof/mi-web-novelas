@@ -111,7 +111,3 @@ Zhang Ming dijo impotente.
 “¡Porque tu cuenta ha sido congelada!”
 
 Chen Mo se quedó atónito cuando escuchó esto, y la expresión de su rostro era increíble.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

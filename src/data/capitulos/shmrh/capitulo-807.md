@@ -123,7 +123,3 @@ El hombre de mediana edad y el joven se miraron, pero ninguno de los dos habló.
 “No estoy familiarizado con esa persona. Incluso si desaparezco, no llamará a la policía. ¡No se preocupen, ustedes dos!”
 
 En este momento, Ye Xueqi habló de nuevo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

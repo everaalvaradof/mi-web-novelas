@@ -111,7 +111,3 @@ Por supuesto, Chen Mo puede discutir este asunto solo con Li Juncheng. Después 
 Pero Chen Mo decidió celebrar una junta general de accionistas, y su propósito era muy simple. Quería que todos en la empresa supieran que su supuesto presidente no era una condecoración. Chen Mo iba de poco a poco en contacto con la empresa.
 
 ¡Chen Mo no está tratando de arrebatarle el poder a Li Juncheng, sino que la gente de la empresa se dé cuenta de quién es el jefe de la empresa!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

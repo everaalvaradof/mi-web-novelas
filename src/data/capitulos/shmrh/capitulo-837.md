@@ -105,7 +105,3 @@ Chen Mo fingió estar sorprendido cuando vio el Mercedes-Benz y dijo con una son
 Ning Tao no presumió ante Chen Mo, dijo descuidadamente.
 
 Chen Mo sonrió levemente después de escuchar las palabras de Ning Tao, no dijo mucho y siguió a Ning Tao y a los demás al auto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -109,7 +109,3 @@ Chen Mo sintió que Lin Fei, Ningtao, Li Linger y los demás también deberían 
 Li Bufan asintió rápidamente, luego se dio la vuelta y se fue.
 
 Después de ver salir a Li Bufan, Chen Mo se quedó allí durante dos segundos y dudó durante dos segundos, y luego gritó sin expresión: “¡No te escondas, sal!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

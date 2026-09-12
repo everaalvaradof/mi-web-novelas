@@ -117,7 +117,3 @@ Ning Shasha le gritó a Chen Mo con un tono entrecortado.
 Chen Mo abrió la boca para hablar, pero en este momento, hubo un sonido de pasos.
 
 Después de escuchar los pasos, todos levantaron la cabeza y miraron hacia adelante. Li Juncheng caminó rápidamente a la sala de conferencias con algunos accionistas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

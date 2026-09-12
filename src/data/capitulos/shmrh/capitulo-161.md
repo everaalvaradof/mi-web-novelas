@@ -137,7 +137,3 @@ Chen Mo miró a la mujer y gritó sorprendido.
 “¿Qué? ¿Te sorprende verme?”
 
 La esquina de la boca de la mujer levantó una sonrisa siniestra.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

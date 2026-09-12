@@ -125,7 +125,3 @@ Entonces, si Guan Qiankun hizo lo mejor que pudo en este momento, ¿qué tan ate
 Liu Rui suspiró en secreto en su corazón.
 
 Aunque Liu Rui es el mayor de la secta Tianshan, por lo general tiene muchos artistas marciales, pero esta es la primera vez que Capítulo juega contra el maestro de artes marciales, por lo que está muy sorprendido.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

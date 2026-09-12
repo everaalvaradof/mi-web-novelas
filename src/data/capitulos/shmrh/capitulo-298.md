@@ -107,7 +107,3 @@ Su Lieheng gritó emocionado.
 Su Mubai estaba emocionado y gritó esta oración directamente.
 
 La voz cayó, y toda la sala se quedó en silencio.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -95,7 +95,3 @@ Liu Xuanxuan asintió y luego continuó: “Por supuesto, este terreno no es sol
 Chen Mo asintió levemente.
 
 “Chen Gongzi, si realmente puedes seguir mi plan, entonces las personas que viven en esta comunidad de villas deben pasar la verificación de identidad, y el área de la villa tendrá más de 500 metros cuadrados, y también está equipada con internacional La decoración de primera clase y la mejor empresa inmobiliaria, necesitamos esta comunidad para hacer la reputación de nuestra empresa, ven esta ubicación, nuestra comunidad está frente a la vista del río, y la distancia de la calle comercial también es muy cercana, entonces nosotros también construiré un complejo comercial fuera del complejo de villas, ¡todo esto está en mi plan!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

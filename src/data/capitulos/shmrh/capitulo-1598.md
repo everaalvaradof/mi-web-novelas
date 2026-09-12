@@ -123,7 +123,3 @@ Li Kunpeng, que conducía, gritó emocionado,
 “¿Distrito de la ciudad?”
 
 Wang Yan no pudo evitar fruncir el ceño levemente después de escuchar las palabras de Li Kunpeng.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

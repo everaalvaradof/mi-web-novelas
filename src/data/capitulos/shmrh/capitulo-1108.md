@@ -111,7 +111,3 @@ Originalmente, Chen Mo planeó ayudar, pero después de escuchar las palabras de
 La chica sabía que no era rival para el hombre de mediana edad, y después de dudar por un momento, sacó su pistola y disparó dos tiros en la posición del hombre de mediana edad.
 
 La pistola en la mano de la niña está equipada con un silenciador, y dado que la mayoría de la audiencia ahora está entrando al escenario, está muy lejos de Chen Mo y otros, por lo que no mucha gente puede escuchar los disparos. Incluso si alguien pudiera escucharlo, nunca pensaría que fue un disparo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

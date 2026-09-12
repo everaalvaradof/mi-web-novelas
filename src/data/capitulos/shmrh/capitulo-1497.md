@@ -123,7 +123,3 @@ Después de escuchar las palabras de An Xiaowu, el niño no pudo evitar mirar a 
 An Xiaowu no pudo evitar reír cuando escuchó esto, luego señaló con el dedo a An Zhenbei y dijo: “¿Sabes cómo le llamo a esa persona?”
 
 Preguntó el chico con tono perplejo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

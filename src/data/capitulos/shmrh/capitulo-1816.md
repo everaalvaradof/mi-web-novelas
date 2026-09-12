@@ -169,7 +169,3 @@ Porque sabía que si el horno de alquimia explotaba, significaría que Chen Mo f
 “¡Joven maestro Chen!”
 
 Fuyao gritó después de reaccionar, y luego comenzó a buscar a Chen Mo entre los escombros.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

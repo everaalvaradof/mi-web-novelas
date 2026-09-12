@@ -201,7 +201,3 @@ Yan Miró a Chen Mo y gritó.
 “Casi muero a manos de ese maestro de secta, pero mi vida era relativamente grande, ¡así que sobreviví!”
 
 Chen Mo explicó a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

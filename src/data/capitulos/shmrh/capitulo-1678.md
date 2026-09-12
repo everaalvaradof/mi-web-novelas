@@ -117,7 +117,3 @@ Para saber lo que el gerente realmente necesita hacer, solo mire al carnicero y 
 Así que el gerente definitivamente estará de acuerdo.
 
 Chen Mo miró al gerente y sonrió, luego salió del hotel.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

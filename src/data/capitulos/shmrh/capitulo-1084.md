@@ -93,7 +93,3 @@ Pero Yan Lulu sabía lo que estaba pasando en ese momento. Después de todo, ell
 Después de un tiempo, Chen Mo y Su Mubai abandonaron el Club Nanxuan.
 
 Después de subirse al automóvil, Su Mubai volvió la cabeza para mirar a Chen Mo y luego le preguntó suavemente a Chen Mo: “Chen Mo, ¿qué está pasando hoy? ¿Por qué golpeaste a Jiang Qiwei? ¿Por qué la hermana Xuanxuan la actitud hacia ti cambió tanto, y ¿qué pasó con ustedes dos en el patio trasero?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

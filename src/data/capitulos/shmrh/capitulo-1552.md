@@ -129,7 +129,3 @@ Qin Yibing se negó rápidamente.
 Chen Mo respondió en voz baja, luego colgó el teléfono directamente.
 
 Qin Yibing tenía una expresión muy impotente en su rostro cuando vio que colgaron el teléfono, y secretamente suspiró que su jefe estaba demasiado entusiasmado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

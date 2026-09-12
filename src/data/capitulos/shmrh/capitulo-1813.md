@@ -181,7 +181,3 @@ Zhao Chenlang asintió rápidamente después de escuchar esta oración.
 “Maestro Chen, soy Xu Hongyi, el maestro de Zhao Chenlang. Lo que Chenlang hizo hoy es realmente inapropiado. ¡Hay muchas ofensas y espero que me pueda ayudar!”
 
 Dijo Xu Hongyi a Chen Mo muy cortésmente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

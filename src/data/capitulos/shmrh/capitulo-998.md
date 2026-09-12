@@ -133,7 +133,3 @@ Ling Shi miró a Chen Mo y dijo.
 Después de escuchar lo que dijo Ling Shi, Chen Mo sacó rápidamente su tarjeta de identificación y se la entregó a Ling Shi, se dio la vuelta y corrió hacia el hospital.
 
 Ling Shi se sentó sola en el auto y miró la espalda de Chen Mo. Él sonrió con impotencia y suspiró con la boca pequeña: “Esta dama parece haber perdido a su amor”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

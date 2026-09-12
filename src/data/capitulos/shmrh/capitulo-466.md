@@ -99,7 +99,3 @@ En un entorno tan familiar, y también hay un hijo del vicealcalde como pretendi
 Xue Ru vio que Chen Mo y Jiang Feifei se llevaban bastante bien, y ella estaba en una situación muy buen humor Feliz, le dijo a Chen Mo con una sonrisa.
 
 Chen Mo asintió levemente y estuvo de acuerdo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

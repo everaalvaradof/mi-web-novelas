@@ -111,7 +111,3 @@ Para conocer la información sobre la villa, Su Mubai tomó la iniciativa de lla
 exclamó Su Mubai con una expresión muy increíble.
 
 Las palabras que Chen Mo le dijo antes destellaron en su mente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

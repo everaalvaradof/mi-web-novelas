@@ -117,7 +117,3 @@ Cai Zhuang no pudo evitar quedarse atónito cuando escuchó las palabras de Chen
 Cai Zhuang se señaló la nariz con el dedo. Pensó que había oído mal en este momento, pero no esperaba lo que dijo Chen Mo. dijo que era cierto. Con estas palabras, se dio la vuelta y le gritó a Wei Chen y a los demás: “¿Escucharon lo que dijo este niño hace un momento? Este niño en realidad dijo que yo no era su oponente, y un simple cinturón amarillo incluso parecía abajo en mi cinturón negro. Se ha ido”
 
 Todos se quedaron sin palabras cuando escucharon las palabras de Cai Zhuang. Se preguntaron dónde Chen Mo tuvo el coraje de decir estas palabras.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

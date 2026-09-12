@@ -145,7 +145,3 @@ Todos en la oficina de ventas quedaron atónitos cuando escucharon las palabras 
 Todos comenzaron a tener envidia en sus corazones, ¡envidia de quién tiene tanta suerte de poder conseguir una villa que vale seis millones por nada!
 
 En este momento, Chen Mo gritó de repente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

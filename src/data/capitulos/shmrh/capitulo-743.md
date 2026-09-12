@@ -95,7 +95,3 @@ Yan Ella originalmente pensó que Lu Zhengzhi se enojaría después de ver a Che
 El asunto entre él y Lu Zhengzhi ha terminado.
 
 Pero nadie hubiera pensado que Lu Zhengzhi fuera tan generoso, no solo no ahuyentó a Chen Mo, sino que también tomó la iniciativa de invitar a Chen Mo a cenar.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

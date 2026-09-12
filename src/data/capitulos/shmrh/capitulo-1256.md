@@ -95,7 +95,3 @@ Un hombre que puede hacer que una mujer como An Qi se enamore, ¿cómo podría s
 An Qi sonrió levemente.
 
 Y Li Haoran parece estar inmerso en la amenaza de Chen Mo. Él nunca ha sido amenazado y, naturalmente, nunca ha experimentado tal sentimiento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

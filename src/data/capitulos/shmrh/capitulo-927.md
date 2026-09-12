@@ -109,7 +109,3 @@ Meng Liang gritó con una expresión rota.
 “No parece que pueda serlo”
 
 Justo después de que Meng Liang terminó de decir esto, Pei Zi respondió de repente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

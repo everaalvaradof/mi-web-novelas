@@ -107,7 +107,3 @@ Chen Mo giró la cabeza y miró a Liu Xuanxuan, y le dijo suavemente a Liu Xuanx
 Liu Xuanxuan sonrió levemente.
 
 En realidad, Liu Xuanxuan ya había organizado algunos servicios especiales para esperar a Chen Mo, porque sintió que Chen Mo no estaba interesado en su última vez porque la situación era especial, pero ahora no representa una amenaza para Chen Mo. Si Chen Mo vio una belleza sexy acostada desnuda frente a él, ¿cómo podría no conmoverse?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

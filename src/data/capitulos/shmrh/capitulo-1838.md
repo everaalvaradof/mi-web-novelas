@@ -183,7 +183,3 @@ La velocidad de Zhang Zhentang era tan rápida que Xu Chengping no se dio cuenta
 “Zhang Zhenye, ¿te atreves a matarme, el anciano de la secta Shangqing?”
 
 Xu Chengping rugió enojado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

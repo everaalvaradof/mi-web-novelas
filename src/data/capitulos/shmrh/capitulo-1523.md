@@ -133,7 +133,3 @@ Chen Mo no está de humor para explicar demasiado a Li Juncheng, solo puede habl
 “Así es, voy a encontrar al Maestro Li ahora mismo, Maestro Chen, ¡no se preocupe!”
 
 Li Juncheng le susurró a Chen Mo y luego colgó el teléfono.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

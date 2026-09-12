@@ -129,7 +129,3 @@ Chen Mo abrió la boca para responder.
 Las palabras de Chen Mo tienen no se ha dicho Después de terminar, Yang Fang gritó apresuradamente.
 
 Y después de que Yang Fang dijo estas palabras, la atmósfera en el auto cayó instantáneamente al punto de congelación.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

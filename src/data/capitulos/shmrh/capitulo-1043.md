@@ -127,7 +127,3 @@ Chen Mo sabía que el oponente debía ser un guerrero, así que no dejó espacio
 El joven no se dio cuenta de lo que estaba pasando, así que salió volando hacia atrás.
 
 Después de que Su Mubai, que estaba sentado en el auto, vio esta escena, rápidamente se tapó la boca y exclamó: “Chen Mo, ¿qué increíble?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

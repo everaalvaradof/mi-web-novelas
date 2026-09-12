@@ -125,7 +125,3 @@ Qiao Ying dijo con una expresión en blanco.
 Dijo Qiao Ying muy agresivamente.
 
 “Yingying, enfrentaré una gran cantidad de daños y perjuicios por cancelar las actividades allí. ¡Será mejor que lo hable con el Sr. Jiang!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

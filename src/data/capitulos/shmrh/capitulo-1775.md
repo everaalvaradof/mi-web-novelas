@@ -181,7 +181,3 @@ Una pizca de sorpresa brilló en los ojos de Wang Zhi.
 Wang Zhi miró a Chen Mo y dudó durante dos segundos, luego dijo en voz baja: “Está bien, de todos modos, te estoy vendiendo mi vida ahora, tú”. ¡Puedes irte cuando quieras!”
 
 Chen Mo se giró para mirar a Zhong Jun después de ver la promesa de Wang Zhi, y luego le preguntó suavemente a Zhong Jun: “¿Te gustaría venir conmigo?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

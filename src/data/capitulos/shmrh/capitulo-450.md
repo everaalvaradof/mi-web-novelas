@@ -95,7 +95,3 @@ Li Yiyi sonrió con desdén cuando vio a Chen Mo entrar al comunidad, luego gir�
 Shi Xinxin respondió suavemente, y luego entró en la comunidad a grandes zancadas.
 
 Pero justo cuando Chen Mo estaba a punto de entrar a la comunidad, dos guardias de seguridad de repente salieron corriendo de la sala de seguridad y le gritaron emocionados a Chen Mo: “¿Quién eres? ¿Qué haces aquí?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

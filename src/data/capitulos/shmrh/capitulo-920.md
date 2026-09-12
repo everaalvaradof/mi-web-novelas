@@ -115,7 +115,3 @@ Zhao An’an realmente no puede entender por qué un estudiante común como Chen
 Por supuesto, las personas más ocupadas en este momento eran en realidad los líderes de la escuela.
 
 Después de todo, estos talentos acaban de asentarse en Fang Beihang, y ahora hay otro Bi Yuquan que ha patrocinado directamente a 500 000. Los líderes de la escuela corrieron frenéticamente hacia la puerta de la escuela, por temor a ser descuidados.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

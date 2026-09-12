@@ -161,7 +161,3 @@ Y esta persona es el maestro Ouyang Fan que Chen Mo quiere encontrar.
 “Hermano, fuiste el primero en ser arrestado. ¿Sabes por qué nos arrestaron aquí?”
 
 En ese momento, un joven tomó la iniciativa de hablarle a Ouyang Fan.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

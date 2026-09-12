@@ -175,7 +175,3 @@ Nunca pensó que Zhang Ziqing sabía todo lo que sucedió ese año. ¡Durante ta
 “Ziqing, solo trátalo como una tía rogándote, por favor déjame ir, ¿de acuerdo? ¡Realmente sé que estoy equivocado!”
 
 Guo Fanghua se arrodilló directamente frente a Zhang Ziqing, su expresión muy Le gritó a Zhang Ziqing con entusiasmo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

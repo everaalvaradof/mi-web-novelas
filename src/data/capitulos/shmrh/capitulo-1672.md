@@ -127,7 +127,3 @@ Chen Mo explicó apresuradamente.
 “Olvídalo, ¿cómo te gusta llamarlo? Estoy esquiando en los Alpes. Si tienes algo que decir, date prisa y habla”
 
 Chu Lan parece estar realmente No estoy de humor para decir tonterías con Chen Mo. Dijo sin rodeos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

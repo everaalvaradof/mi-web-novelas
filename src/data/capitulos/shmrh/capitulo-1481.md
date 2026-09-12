@@ -123,7 +123,3 @@ Y la mujer sexy tenía un rastro de desdén en sus ojos después de escuchar las
 “¿Eres en realidad de la secta Tianshan?”
 
 Un rastro de ira brilló en los ojos de Shen Jifan, y luego gritó en voz alta: “Ustedes, los La secta Tianshan es realmente valiente. Los guerreros entre la isla de Hong Kong y el continente ya han establecido reglas. No debes interferir en los asuntos entre los guerreros de la isla de Hong Kong. Ahora tu secta Tianshan los ha enviado. Tantos discípulos vienen aquí, ¿qué ¿Eso significa? ¿Podría ser que tu secta de Tianshan tiene la intención de romper las reglas dejadas atrás?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

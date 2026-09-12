@@ -97,7 +97,3 @@ La expresión de Zhang Fansheng en su rostro era un poco feo cuando escuchó las
 “Abuelo, será la fiesta de cumpleaños de Chu Lan en dos días. Iré a la fiesta de cumpleaños de Chu Lan en ese momento. ¡Puedo ir y probar lo que significa Chu Lan!”
 
 En esta vez, Zhang Zicheng dijo de repente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

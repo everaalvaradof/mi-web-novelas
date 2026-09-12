@@ -119,7 +119,3 @@ Esto también lleva al hecho de que no importa la hora que sea, las personas en 
 Si sigue así, es imposible que Chen Mo trate con el comerciante de plata, porque no sabes quién es tu enemigo y no puedes obtener ninguna noticia sobre el comerciante de plata.
 
 ¡Pero en este momento, este proyecto de metro es el mejor avance!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

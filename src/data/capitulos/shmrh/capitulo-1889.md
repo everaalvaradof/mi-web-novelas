@@ -203,7 +203,3 @@ Xu Chengping asintió y luego continuó: “Descubrí que la familia Shen había
 Yan She preguntó emocionada.
 
 Xu Chengping miró a Yan She y preguntó con cautela: “Señorita Yan, ¿cuál es su relación con la familia Shen?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -119,7 +119,3 @@ Y Gu Linger es una belleza muy famosa en la ciudad de Zhonghai. Tiene conocimien
 Pero ahora estas personas saben que Gu Linger se va a casar con Tang Le, aunque no están dispuestos, pero no pueden hacer nada. Después de todo, la familia Tang es la familia líder en la ciudad de Zhonghai. Si alguien ofende a la Familia Tang, entonces no es diferente de cortejar a la muerte.
 
 En este momento, no sé cuántas personas tienen envidia de Tang Le, el tonto que está babeando mientras camina. Incluso piensan que pueden no ser tan buenos como un tonto. Después de todo, un tonto todavía puede casarse con una mujer tan magnífica para ser nuera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

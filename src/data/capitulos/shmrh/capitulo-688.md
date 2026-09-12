@@ -109,7 +109,3 @@ Después de escuchar las palabras del director Zhang, los ojos de Luo Qiu brilla
 “No te preocupes, la productora de la que hablo es una mujer, no es lo que piensas, esta productora ha estado buscando a la heroína de mi próxima obra, pero la “La productora es muy exigente. Le he presentado a algunas personas antes, pero no ha quedado muy satisfecha. Creo que eres muy adecuado para este papel, así que esperaré un momento. Te llevaré a conocer a esta productora”.
 
 El director Zhang miró a Luo Qiu y explicó en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

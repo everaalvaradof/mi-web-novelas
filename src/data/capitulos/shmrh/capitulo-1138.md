@@ -103,7 +103,3 @@ Lu Xiangyang asintió rápidamente.
 Chen Mo miró la posición del joven, y sabía en su corazón que sus propios asuntos deberían haberse extendido a Misty Valley, por lo que esas personas en Misty Valley deben estar muy nerviosas ahora, tratando de encontrar una manera de lidiar. con Chen Mo.
 
 Zhou Parecías saber lo que estaba pasando, pero no dijiste mucho.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

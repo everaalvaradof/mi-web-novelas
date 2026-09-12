@@ -113,7 +113,3 @@ Chen Mo miró a Yan She y respiró hondo, luego dijo con impotencia: “Está bi
 Yan Musk le dijo a Chen Mo con una sonrisa.
 
 Chen Mo se sorprendió al escuchar las palabras de Yan She, luego sacó su teléfono móvil y llamó a Du Tianhao.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

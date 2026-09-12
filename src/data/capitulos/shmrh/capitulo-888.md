@@ -89,7 +89,3 @@ Después de colgar el teléfono, Chen Mo estaba acostado solo en la cama, con un
 Después de pensar un rato, Chen Mo finalmente encontró el número de teléfono móvil de Yan She y lo marcó.
 
 Chen Mo sabía que Yan She podría ser su última esperanza. Si Yan She podía ayudar, él mismo le rogaría a Yan She. Si Yan She no ayudaba, entonces no habría otra manera. Es un esfuerzo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

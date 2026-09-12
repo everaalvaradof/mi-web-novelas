@@ -125,7 +125,3 @@ Chen Mo miró fijamente la posición del escenario. En este momento, todavía no
 “Pero no te preocupes, no le diré a mi prima sobre esto, pero debes dejarle claro a Luo Qiu. No quiero que mi prima esté triste por tus cosas en el futuro”.”
 
 Su Muyu miró a Chen Mo y continuó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

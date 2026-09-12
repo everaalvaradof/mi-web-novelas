@@ -123,7 +123,3 @@ Li Kai, Gao Feifei y los demás miraron a Ming Mei, con el corazón rompiéndose
 ¿Un Bai Fumei, que quiere tener apariencia y cuerpo, en realidad tomó la iniciativa de confesarse a un pobre diaosi como Chen Mo en este momento?
 
 ¡Las expresiones en los rostros de los estudiantes en el restaurante eran como si hubieran visto un fantasma!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

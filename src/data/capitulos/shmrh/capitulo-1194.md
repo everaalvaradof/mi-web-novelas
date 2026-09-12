@@ -147,7 +147,3 @@ Los ojos de Chen Mo brillaron con sorpresa después de escuchar esto.
 Lin Qing dijo lentamente.
 
 “¿Son precisas las noticias?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

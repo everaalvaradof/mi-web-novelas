@@ -181,7 +181,3 @@ Zhang Wanghai miró a Chen Mo y suspiró suavemente, luego continuó: “Pero no
 “¡Resultó ser el arma mágica antigua legendaria, la Lanza Fantasma Negro!”
 
 Zhao Wanqiu se quedó estupefacto cuando escuchó a Zhang Las palabras de Wanghai.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

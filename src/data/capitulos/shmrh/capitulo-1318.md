@@ -135,7 +135,3 @@ Chen Mo sabía en su corazón que si se apresura a hablar con Qiao Ying ahora, d
 Así que Chen Mo planea seguir a Qiao Ying al hotel primero y luego encontrar la oportunidad de hablar con Qiao Ying a solas.
 
 Después de todo, existen algunas contradicciones entre Chen Mo y Qiao Ying, por lo que estas contradicciones se pueden resolver conversando a solas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -133,7 +133,3 @@ Chen Mo piensa que Wen Ruoxi se ve bien, incluso si realmente está conspirando 
 Chen Mo llamó suavemente a la puerta.
 
 Wen Ruoxi abrió suavemente la puerta y dijo con una sonrisa: “¿Estás aquí? ¡Entra rápido!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

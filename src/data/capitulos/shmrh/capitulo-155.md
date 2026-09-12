@@ -135,7 +135,3 @@ Yan Señaló a Zhou Xuan y dijo.
 Después de escuchar las palabras de Yan She, Zhou Xuan se congeló en el lugar, la expresión de su rostro colapsó anormalmente y su corazón estaba lleno de amargura.
 
 Y las expresiones en los rostros de los invitados que la rodeaban también estaban muy sorprendidas en este momento. ¡Nadie pensó que Yan She, una mujer hermosa y sexy, tendría un temperamento tan dominante, y era completamente irrazonable!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

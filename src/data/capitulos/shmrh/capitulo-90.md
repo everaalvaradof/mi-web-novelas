@@ -107,7 +107,3 @@ Wen Ruoxi sintió que no hay muchos amigos alrededor, y las únicas personas que
 Dado que Zhang Feng ahora ha dicho que no conoce a Wei Xiaole en absoluto, entonces Chen Mo es el único candidato que queda, y con la actitud actual de Wei Xiaole hacia Chen Mo, Wen Ruoxi siente que esto es 100% hecho por Chen Mo Sí, ¡pero ahora hay un hermano adicional, Hao!
 
 Y Chen Mo miró a Wen Ruoxi frente a él con una expresión vacilante y dudó si decirle la verdad a Wen Ruoxi.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

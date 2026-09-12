@@ -163,7 +163,3 @@ Chen Mo miró Aung San dudó un momento y luego preguntó suavemente: “¿Enton
 “No sé esto muy bien!”
 
 Aung San negó con la cabeza a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

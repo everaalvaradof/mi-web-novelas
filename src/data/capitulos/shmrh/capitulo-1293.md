@@ -131,7 +131,3 @@ Su Mubai miró a Chen Mo de arriba abajo, podía sentir que Chen Mo realmente no
 “¡Hola, soy Qiao Ying!”
 
 Justo cuando Chen Mo estaba hablando con Su Mubai, Qiao Ying ya se había acercado a Chen Mo y lo señaló con arrogancia, dijo Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

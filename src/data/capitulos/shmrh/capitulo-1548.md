@@ -101,7 +101,3 @@ Chu Lan dudó por un momento, y luego dijo a la ligera: “Mi idea es similar a 
 Allen parecía poco dispuesto a decir.
 
 Chen Mo sacudió directamente la cabeza hacia Alan.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -111,7 +111,3 @@ El director Zhang le dirigió a Wang Tianshi una mirada nerviosa.
 Y Wang Tianshi no pudo evitar burlarse después de escuchar las palabras del director Zhang, y luego dijo a la ligera: “Director Zhang, ¿no es muy útil su cerebro? ¿Qué tipo de cosa es usted? ¿Ah? ¿Por qué debería dar frente a alguien como tú?”
 
 Después de escuchar las palabras de Wang Tianshi, el director Zhang se quedó estupefacto al instante y se quedó allí aturdido, con una expresión en su rostro muy desesperada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

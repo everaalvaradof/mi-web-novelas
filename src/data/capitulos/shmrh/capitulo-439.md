@@ -125,7 +125,3 @@ Wang Shuo fingió preguntar.
 “¡Parece que nadie ha pagado por esta comida todavía!”
 
 dijo Shi Xinxin con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

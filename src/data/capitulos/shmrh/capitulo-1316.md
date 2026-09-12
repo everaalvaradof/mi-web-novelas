@@ -135,7 +135,3 @@ Zhao Xicheng dudó durante dos segundos después de escuchar el nombre y luego d
 Zhao Jinyu gritó emocionado.
 
 Después de que Zhao Xicheng vio que Zhao Jinyu estaba tan emocionado, supo en su corazón que lo que Zhao Jinyu estaba buscando para él hoy debería estar relacionado con este Club Tianyun, por lo que tomó la iniciativa de preguntar: ” Jinyu, ¿tienes algo que ver con eso? ¿Qué pasa?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

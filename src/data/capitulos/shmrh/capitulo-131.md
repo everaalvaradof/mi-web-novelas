@@ -125,7 +125,3 @@ Chen Mo no pudo evitar exclamar en su corazón después de escuchar esto, e inme
 Su Muyu gritó rápidamente cuando vio que Chen Mo quería irse.
 
 Y Chen Mo ignoró por completo a Su Muyu, caminó rápidamente hacia la puerta de la sala de conferencias, extendió la mano y abrió la puerta de la sala de conferencias.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

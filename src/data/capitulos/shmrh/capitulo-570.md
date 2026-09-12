@@ -99,7 +99,3 @@ Había una mirada extraña en los ojos de Zhao Lei, luego giró la cabeza y le d
 Zhao Lei no habla mucho y su inteligencia emocional también es muy baja. Si es normal, definitivamente no está dispuesto a entrometerse en sus propios asuntos.
 
 Pero Zhao Lei puede sentir que Chen Mo parece preocuparse por estas dos chicas, y Li Zixi y Xu Feifei son muy buenos con Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

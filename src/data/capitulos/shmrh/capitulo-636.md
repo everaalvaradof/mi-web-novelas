@@ -105,7 +105,3 @@ En ese momento, Chen Mo parecía haber cambiado de personalidad y tomó la inici
 La expresión en el rostro de Yang Manqi se volvió aún más enojada, hizo un puchero y dijo: “¿Qué está pasando con Xiao Rou? ¿Puede ser más reservada? Mire su estado actual, casi se desnuda y se pone en Chen Mo, ¿a ella también le gustó ese Chen Mo?”
 
 Después de que Jiang Feifei escuchó esta oración, una mirada extraña brilló en sus ojos, pero no dijo mucho.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

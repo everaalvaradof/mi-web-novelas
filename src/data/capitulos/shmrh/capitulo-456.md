@@ -95,7 +95,3 @@ Shi Xinxin frunció el ceño y le gritó a Wang Shuo.
 Wang Shuo dijo a la multitud con un rostro sombrío.
 
 Después de escuchar las palabras de Wang Shuo, todos se congelaron en el lugar, sus ojos llenos de dudas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

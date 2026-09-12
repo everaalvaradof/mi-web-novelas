@@ -105,7 +105,3 @@ Chen Mo miró a Yan She frente a él con una expresión muy impotente en su rost
 “Pequeño Chen Mo, no le cuentes a nadie sobre el asunto entre nosotros dos, y no tienes que dejar que Li Juncheng, Du Tianhao y los demás investiguen mi identidad, porque según sus métodos, no hay manera de investigarlo. Sí, en cuanto al asunto entre tú y yo, ¡no quiero que le digas a Li Juncheng y Du Tianhao!”
 
 Yan Ella continuó después de ver que Chen Mo estaba silencioso.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

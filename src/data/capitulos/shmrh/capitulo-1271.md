@@ -113,7 +113,3 @@ Jin Xuezheng siguió a Li Juncheng directamente al lado de Chen Mo, y luego le d
 Todos miraron la posición de Chen Mo y hablaron en voz baja.
 
 La expresión en el rostro de Yue Chengnan era obviamente bastante fea. Nunca esperó que Chen Mo todavía tuviera una carta oculta como esa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

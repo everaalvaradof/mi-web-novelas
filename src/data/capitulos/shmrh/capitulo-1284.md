@@ -123,7 +123,3 @@ No hay un odio profundo entre Chen Mo y Yue Chengnan, por lo que siente que Yue 
 Así que Chen Mo le preguntó suavemente a Yue Chengnan: “Su hijo me incriminó deliberadamente y luego me provocó una y otra vez, le rompí las piernas y las manos, para que siempre recordara esta lección, ¿tiene alguna insatisfacción?” ?”
 
 El tono de Chen Mo era muy tranquilo, lo que hizo que la gente se sintiera un poco aterrorizada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

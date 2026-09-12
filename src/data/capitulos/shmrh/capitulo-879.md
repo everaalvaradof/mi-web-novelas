@@ -107,7 +107,3 @@ Después de ver a Chen Mo hace un momento, Qian Ping descubrió que Chen Mo era 
 Pero no esperaba que Chen Mo fuera tan arrogante, llamándose a sí mismo perro frente a tanta gente.
 
 Qian Ping definitivamente no podía tomar este respiro, y no planeaba volver a decir tonterías con Chen Mo. Iba a tomar un arma y darle una lección a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

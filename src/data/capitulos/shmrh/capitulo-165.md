@@ -139,7 +139,3 @@ Gao Feifei le preguntó emocionado a Chen Mo.
 “¡Por supuesto que es verdad!”
 
 Chen Mo asintió nuevamente con una expresión muy tranquila en su rostro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

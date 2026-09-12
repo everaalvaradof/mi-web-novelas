@@ -111,7 +111,3 @@ Chen Mo entrecerró los ojos ante la posición de Yan She, y la expresión de su
 Después de todo, Yan She siempre ha sido una reina, y siempre ha sido muy indiferente, pero en este momento, Chen Mo descubrió que la frente de Yan She había comenzado a sudar.
 
 Es muy difícil ver a Yan. ¡Parece tan nerviosa!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

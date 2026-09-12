@@ -117,7 +117,3 @@ Sentía que todo lo que estaba haciendo era realmente una tontería. Si no vení
 Pero en ese momento, Wen Ruoxi realmente estuvo de acuerdo con Zhang Feng debido a su enojo.
 
 Después de que Zhang Feng vio que Wen Ruoxi realmente se prometió a sí mismo, volvió la cabeza hacia Chen Mo con una expresión provocativa y luego se alejó con Wen Ruoxi.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

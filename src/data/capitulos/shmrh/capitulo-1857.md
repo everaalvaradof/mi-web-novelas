@@ -169,7 +169,3 @@ Yan Ella miró a Chen Mo y dijo.
 “Puede haber muchas cosas en este mundo que están más allá de nuestro conocimiento. Después de todo, cuando yo era solo una persona común, no tenía absolutamente ninguna forma de creer que una persona poseería un poder tan aterrador. Sí, pero creo que ahora es normal, es solo porque tenía muy poco conocimiento al principio, y algunas cosas no son accesibles para mí en absoluto, hasta que un día realmente entres en contacto con ellas, podrás creer eso ¡todo esto es cierto!”
 
 Chen Mo dijo lentamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

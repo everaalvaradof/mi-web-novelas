@@ -141,7 +141,3 @@ Zhang Ziqing estaba realmente preocupada por la situación de Chen Mo, así que 
 Un destello de orgullo brilló en los ojos de Zhang Zicheng, y luego comenzó a caminar afuera.
 
 Zhang Ziqing dudó un momento y se fue con Zhang Zicheng.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

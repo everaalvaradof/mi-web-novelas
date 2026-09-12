@@ -125,7 +125,3 @@ Chen Mo dijo a la ligera.
 Xu Jiao se sentó en la cama y vaciló durante dos segundos, luego se mordió el labio y asintió levemente.
 
 En este momento, Xu Jiao solo podía optar por comprometerse. Después de todo, Chen Mo ya tenía la evidencia de que había impreso estas fotos. Una vez que se le pidió a Chen Mo que entregara estas evidencias a la policía, las consecuencias sería desastroso.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

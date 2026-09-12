@@ -121,7 +121,3 @@ Así que Chen Mo ya lo ha pensado, no importa quién venga esta vez, será expul
 Y los demás se detuvieron al ver el coche de la niñera, con un dejo de duda en los ojos.
 
 Después de todo, este auto niñera es mucho más común que esos autos de lujo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

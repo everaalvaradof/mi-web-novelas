@@ -135,7 +135,3 @@ Liu Liu giró la cabeza y le gritó El camarero.
 Y cuando los meseros escucharon esto, corrieron hacia la posición de Chen Mo nuevamente.
 
 Pero en este momento, hubo un grito repentino de la multitud.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

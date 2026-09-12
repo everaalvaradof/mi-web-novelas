@@ -109,7 +109,3 @@ Después de ver la armadura de Guan Yifan, los guerreros en el interior Todos co
 Las expresiones en los rostros de los guerreros en la isla de Hong Kong también eran muy vergonzosas. Después de todo, dijeron que no dejarían que Chen Mo tomara la píldora medicinal. Ahora Guan Yifan lleva una armadura, e incluso toma Con el cuchillo Qingyun, esto es un poco irrazonable.
 
 Pero la expresión en el rostro de An Zhenbei es muy orgullosa. No le importa en absoluto si es justo o injusto. Solo hay un pensamiento en su mente, es decir, Guan Yifan debe derrotar a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

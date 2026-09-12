@@ -163,7 +163,3 @@ Song Zheng se sorprendió instintivamente después de ver esta escena, y de repe
 Pero lo que Song Zheng nunca esperó fue que en el momento en que la daga tocó el cuerpo de Chen Mo, una fuerza muy poderosa atacó a Song Zheng.
 
 Song Zheng no se dio cuenta de lo que estaba pasando en absoluto, y fue expulsado directamente por el poder que brotó del cuerpo de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

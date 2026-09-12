@@ -113,7 +113,3 @@ Chen Mo dudó un momento y luego le preguntó a Luo Qiu con una sonrisa.
 “Oh, no tienes conciencia, hermana, amablemente te di la mitad, ¡pero ahora te vas a tragar el dinero sola!”
 
 Luo Qiu miró fijamente al grandullón acuoso Sus ojos le gritaron a Chen Mo con entusiasmo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

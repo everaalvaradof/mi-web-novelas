@@ -95,7 +95,3 @@ Porque el nivel médico de su hospital no tiene forma de curarlos.
 De hecho, esta oración es básicamente equivalente a anunciar la sentencia de muerte de Yue Xuan.
 
 Este hospital en la ciudad de Jiuhai sigue siendo muy famoso. Si no tiene nada que ver con este hospital, entonces solo puede ir al extranjero para probarlo, pero el efecto no debería ser muy bueno.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

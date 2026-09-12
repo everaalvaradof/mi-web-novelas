@@ -135,7 +135,3 @@ Chen Mo no pudo evitar girar la cabeza y mirar a Luo Qiu cuando escuchó esto, d
 Luo Qiu le dijo a Chen Mo con una media sonrisa pero sin una sonrisa.
 
 Después de que Chen Mo escuchó estas tres palabras, se congeló en su lugar.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

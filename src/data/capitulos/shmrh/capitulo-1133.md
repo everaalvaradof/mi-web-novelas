@@ -105,7 +105,3 @@ Chen Mo y los demás se van a descansar de nuevo.
 Pero cuando Chen Mo y Zhou You, el conductor, entraron al hotel, descubrieron que el hombre rico de segunda generación que conocieron en la estación de servicio anterior en realidad llegó al hotel un paso por delante de ellos esta vez.
 
 Y el joven, naturalmente, estaba muy emocionado cuando se encontró con Zhou You nuevamente, porque no esperaba volver a encontrarse con Zhou You.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

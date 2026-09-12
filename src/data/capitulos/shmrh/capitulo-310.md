@@ -117,7 +117,3 @@ Al pensar en esto, Zhao Wu no pudo evitar girar la cabeza para mirar la posició
 En ese momento, las puertas de todos los autos se abrieron casi simultáneamente.
 
 La atención de todos está en la posición de la puerta, ¡quieren ver quién está dando una batalla tan grande!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -129,7 +129,3 @@ Wang Baishi gritó en voz baja.
 Cuando todos escucharon las palabras de Wang Baishi, las expresiones en sus rostros parecían aún más sorprendidas.
 
 ¡En este momento, el sonido de los pasos parecía ser aún más pronunciado!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

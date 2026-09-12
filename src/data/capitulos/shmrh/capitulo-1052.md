@@ -121,7 +121,3 @@ Su Lieheng gritó emocionado.
 “Esta es la ciudad de Nanyang. Sé que la otra parte puede ser muy poderosa, pero la ciudad de Nanyang es mi territorio. ¿Cómo debería elegirlo?”
 
 Chen Mo miró a Su Lieheng con dijo un tono tranquilo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

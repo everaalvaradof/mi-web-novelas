@@ -137,7 +137,3 @@ Después de escuchar las palabras de Chen Mo, el hombre de mediana edad mostró 
 dijo Chen Mo con una sonrisa.
 
 El hombre de mediana edad y Ye Xueqi quedaron atónitos después de escuchar las palabras de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

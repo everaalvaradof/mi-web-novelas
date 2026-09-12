@@ -107,7 +107,3 @@ La belleza parece estar acostumbrada a ser cortejada sin importar a dónde vaya,
 En este momento, la chica con un vestido blanco sonrió y le dijo a Chen Mo.
 
 Chen Mo respondió a la ligera, y luego se sentó directamente en su asiento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

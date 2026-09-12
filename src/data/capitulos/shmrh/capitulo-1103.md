@@ -139,7 +139,3 @@ Unos minutos después, Zhou You colgó el teléfono, la expresión en su rostro 
 “¿Podría Chen Mo ser su descendiente?”
 
 Zhou You murmuró para sí mismo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -177,7 +177,3 @@ Mientras Chen Mo admiraba la figura perfecta de Lin Qiushui, Lin Qiushui sacó d
 “¡Chen Mo, duerme conmigo, todo el dinero es tuyo!”
 
 Lin Qiushui ordenó a Chen Mo como una reina.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

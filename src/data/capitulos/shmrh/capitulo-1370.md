@@ -111,7 +111,3 @@ Después de ver a esta mujer, todos esperaron hasta sus ojos, y las expresiones 
 “¿Qiao Ying está aquí?”
 
 Uno de los reporteros reconoció a Qiao Ying de un vistazo y gritó en voz alta.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

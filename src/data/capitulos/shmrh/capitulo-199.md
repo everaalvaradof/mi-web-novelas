@@ -133,7 +133,3 @@ Un aluvión inusualmente frío apareció en el medio de la pantalla.
 ¡Luo Qiu, que solo estaba por delante de menos de 200,000, fue superado por 200,000 en este momento!
 
 Los ojos de Luo Qiu brillaron con desesperación después de ver este aluvión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

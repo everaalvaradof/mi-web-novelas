@@ -115,7 +115,3 @@ Y la expresión de Wang Tianshi en su rostro también estaba muy enojada en este
 “Realmente no robé el anillo”
 
 Luo Qiu se sentó en el suelo y gritó impotente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

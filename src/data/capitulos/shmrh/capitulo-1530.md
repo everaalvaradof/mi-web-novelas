@@ -123,7 +123,3 @@ Pero esta vez fue diferente. Estas piedras volaron hacia Li Taibai desde todas l
 Después de ver esta escena, todos los guerreros presentes mostraron expresiones de asombro.
 
 Porque saben en el fondo que se necesita mucha energía para mover tantas piedras al mismo tiempo, y se estima que solo Guan Qiankun puede hacerlo, de lo contrario es difícil para otros maestros de artes marciales. para hacerlo hasta este punto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

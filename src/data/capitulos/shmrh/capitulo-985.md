@@ -123,7 +123,3 @@ Naturalmente, Gu Yuanhong no está de humor para ser cortés con Tang Xiangqiu. 
 Tang Xiangqiu miró a Gu Yuanhong y continuó.
 
 Gu Yuanhong no pudo evitar burlarse cuando escuchó las palabras de Tang Xiangqiu, y luego dijo a la ligera: “¿Será tu familia Tang tan amable? No sigas dañar a mi hijo. Ya estoy agradecido, será mejor que no llore aquí y sea amable”.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

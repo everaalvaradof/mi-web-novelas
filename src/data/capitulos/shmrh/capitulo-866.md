@@ -117,7 +117,3 @@ Tang Ying volvió la cabeza para mirar a Ning Tao y a los demás, y dijo con una
 “Hermana Tang, todavía cenamos con una gran estrella una vez Capítulo, así que estaba un poco nervioso.”
 
 Ning Tao le dijo a Tang Ying con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

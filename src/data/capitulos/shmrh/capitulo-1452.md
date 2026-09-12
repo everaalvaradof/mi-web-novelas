@@ -141,7 +141,3 @@ An Xiaowu le gritó a Chen Mo con grandes ojos llorosos.
 “No estoy diciendo tonterías, puedo darle a esta persona una última oportunidad ahora, siempre y cuando se arrodille y me pida disculpas, entonces el asunto de hoy habrá terminado, si no se disculpa, entonces Solo puedo elegir hacerlo.”
 
 Chen Mo dijo con mucha calma.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -121,7 +121,3 @@ Si Chen Jie continuara discutiendo con Chen Mo durante este período, definitiva
 Pero si se le pidió a Duan Chenjie que aportara 500 millones, realmente no podría hacerlo.
 
 Duan Chenjie miró a Chen Mo y respiró hondo, luego apretó los dientes y gritó: “Yo, Duan Chenjie, quiero comer carne de cisne, no estoy digno de Qiao Ying!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -127,7 +127,3 @@ Después de unos segundos, Luo Qiu abrió suavemente los ojos y luego le dijo a 
 Chen Mo escuchó esto, como si hubiera recibido Like any. orden, empezó a volverse loco.
 
 Luo Qiu miró a Chen Mo en su cuerpo y sus ojos estaban llenos de amor.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

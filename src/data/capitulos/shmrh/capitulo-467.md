@@ -83,7 +83,3 @@ La decoración interior de la villa sigue siendo elegante, estilo típico chino,
 Después de que Chen Mo ingresó a la villa, encontró a un hombre de mediana edad con anteojos sentado en el sofá viendo la televisión, y este hombre de mediana edad no era otro que el padre de Jiang Feifei, Jiang Ruhai.
 
 Aunque Chen Mo tiene una muy buena impresión de Xue Ru, no tiene ninguna impresión favorable de Jiang Ruhai.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -147,7 +147,3 @@ Gao Feifei no pudo evitar escuchar esto Se burló, luego frunció los labios y d
 “¿Quién dijo que yo era un pobre bastardo?”
 
 Chen Mo rugió con una explosión, en este momento finalmente no pudo controlar la ira en su corazón, quería revelar su identidad, y luego abofeteó a Gao Feifei con fuerza en la cara para hacerle entender con quién estaba hablando ahora.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

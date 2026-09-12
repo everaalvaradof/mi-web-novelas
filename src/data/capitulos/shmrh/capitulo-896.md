@@ -119,7 +119,3 @@ Chen Mo simplemente miró frente a él y descubrió que varias chicas estaban pr
 Entre estas chicas, hay una chica que es la más hermosa, con un rostro juvenil y hermoso, una cola de caballo capaz y un tirante negro en la parte superior del cuerpo. Se delinean los picos dobles y la cintura esbelta, el los picos dobles en el pecho tiemblan ligeramente con la respiración, y la parte inferior del cuerpo lleva un par de pantalones cortos de mezclilla, con caderas apretadas y curvas sensuales, un par de piernas delgadas y claras. Un par de zapatillas blancas da una sensación muy dinámica.
 
 Quizás fue porque estaba inactivo y aburrido, por lo que Chen Mo observó a esta chica.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

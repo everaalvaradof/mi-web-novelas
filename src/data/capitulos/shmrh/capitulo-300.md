@@ -115,7 +115,3 @@ Porque Su Mubai estaba de pie frente a su puerta con un pijama de encaje negro, 
 Chen Mo le preguntó a Su Mubai con un tono desconcertado.
 
 “¡Quizás tenga que dormir contigo esta noche!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -105,7 +105,3 @@ Ren Bo se quedó estupefacto, con una expresión increíble en su rostro.
 “El presidente Xu es demasiado poderoso, ¿no?”
 
 El monitor de la primera clase también gritó, y la expresión de su rostro también fue muy increíble.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -119,7 +119,3 @@ En este momento, varios compañeros de clase masculinos ya estaban parados detr�
 “Lo que acabo de decir está muy claro. O bebe la copa de vino o admite que tomó la medicina y se disculpa con Wei Mengmeng. ¿No puedes entender lo que quiero decir?”
 
 Chen Mo dijo sin expresión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

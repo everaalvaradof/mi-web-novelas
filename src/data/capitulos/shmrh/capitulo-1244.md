@@ -101,7 +101,3 @@ Después de que Fan Meihua escuchara las palabras del anciano, un rastro de tens
 Porque este anciano es el padre de Fan Meihua.
 
 Fan Meihua respiró hondo y dijo en voz baja: “No sabía que Su Mubai había hecho un contrato de matrimonio con otra persona en ese momento. Si lo supiera, incluso si me dieras un cien coraje, todavía no me atrevería a ocultar esto, es demasiado tarde cuando lo sé”.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

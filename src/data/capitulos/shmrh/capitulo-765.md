@@ -93,7 +93,3 @@ Zhao Lei y Fuyao asintieron al unísono, luego se dieron la vuelta y regresaron 
 Chen Mo también regresó a su habitación, dispuesto a esperar hasta mañana para probar suerte en la subasta, pero Chen Mo sabe que la subasta no es muy esperanzadora, y estima que será difícil completarla. Li Taibai le había dado la tarea.
 
 Pero afortunadamente, estos materiales medicinales no son los más críticos, siempre y cuando Chen Mo pueda obtener los materiales medicinales en la cueva Guihu esta vez, en cuanto a otros materiales medicinales, Chen Mo puede dejar que Li Juncheng los recoja de otros lugares.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

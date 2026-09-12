@@ -107,7 +107,3 @@ Su Bai gritó sin pensar.
 Después de que Bai Zhibing escuchara las palabras de estas dos personas, la expresión de su rostro era un poco desesperada.
 
 Originalmente, siempre se había preguntado cómo Chen Mo entró en la subasta, pero ahora, al escuchar las palabras de Su Bai y del director Wang, Bai Zhibing no sabía qué hacer.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -109,7 +109,3 @@ Básicamente no puedes ver lo que puedes ver en una casa familiar moderna.
 Después de un rato, la criada se detuvo frente a una puerta y le dijo suavemente a Chen Mo: “Maestro Chen, el maestro está en la habitación, ¡por favor entre!”
 
 Chen Mo miró a la sirvienta con una leve sonrisa, luego estiró su mano y abrió la puerta.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

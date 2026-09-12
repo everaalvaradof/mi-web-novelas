@@ -259,7 +259,3 @@ En este momento, el tiempo parece haberse detenido.
 Luo Qiu miró a Chen Mo en silencio, y Chen Mo también miró a Luo Qiu en silencio.
 
 Todos alrededor estaban atónitos, como si nadie excepto Mei Wang supiera lo que estaba pasando.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

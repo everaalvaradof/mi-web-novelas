@@ -109,7 +109,3 @@ Uno de los mejores amigos no pudo evitar suspirar suavemente.
 “Sí, Xiaomi parece estar chateando con esta persona en este momento. ¡La relación entre los dos definitivamente no es fácil!”
 
 Otra novia lo siguió.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

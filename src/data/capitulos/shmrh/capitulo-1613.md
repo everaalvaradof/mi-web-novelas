@@ -125,7 +125,3 @@ Zhang Ziqing miró a Chen Mo y parpadeó con sus grandes ojos llorosos con una e
 Chen Mo miró a Zhang Ziqing y continuó persuadiéndolo después de dudar.
 
 Zhang Ziqing asintió levemente, luego miró a Chen Mo y dijo: “Puedo devolverte tu unidad flash USB, siempre que me ayudes a matar a dos personas. ¡Puedo devolverte tu unidad USB!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -167,7 +167,3 @@ Chen Mo respondió a la ligera, una oración.
 Ye Xian’er dijo después de dudar un momento.
 
 Chen Mo volvió la cabeza y miró a Ye Xian’er a la ligera, pero no habló.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

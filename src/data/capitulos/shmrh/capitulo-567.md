@@ -105,7 +105,3 @@ Y Chen Mo miró a Su Mi con cara de perplejidad y preguntó en voz baja: “Herm
 “¡Ve, ve y encuéntrame!” Su Mi dijo descuidadamente a Chen Mo.
 
 “¿Conoces a alguien?” Chen Mo se quedó atónito por un momento, luego preguntó con un tono desconcertado: “¿Quién es?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

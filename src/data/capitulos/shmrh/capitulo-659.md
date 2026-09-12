@@ -125,7 +125,3 @@ Li Juncheng respondió impotente.
 Du Tianhao suspiró suavemente, luego miró a Li Juncheng y preguntó: “¿Qué debemos hacer ahora? No podemos mantener a tanta gente aquí todo el tiempo”. ¡Solo espera!”
 
 Bai Zhennan dudó después de escuchar las palabras de Du Tianhao, y luego dijo a la ligera: “Si realmente no funciona, subamos primero, no podemos dejar que tanta gente espere aquí !”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -111,7 +111,3 @@ Tian Haixi se burló y luego dijo a la ligera: “Ya es esta vez, ¿todavía pla
 “Realmente no te mentí, todo esto fue idea de Feng Xing, ¡fue Feng Xing quien quería ocupar a tu madre!”
 
 Dijo Qi Yongying en voz alta.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

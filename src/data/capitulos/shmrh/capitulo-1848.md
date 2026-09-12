@@ -189,7 +189,3 @@ En este momento, Li Wangtian miró a Chen Mo con miedo en sus ojos. Era el tipo 
 “¿Podemos los dos tener una buena charla ahora?”
 
 Chen Mo preguntó a Li Wangtian sin expresión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

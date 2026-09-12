@@ -205,7 +205,3 @@ Vi una gema negra volar lentamente hacia la mano de Li Wangtian.
 Cuando Li Wangtian agarró la gema negra, todos los discípulos de Beimingzong detuvieron sus movimientos heridos, como si hubieran recuperado sus sentidos en este momento, y miraron en dirección a Chen Mo.
 
 Chen Mo también podía sentir que estos discípulos habían recuperado sus sentidos, por lo que no continuó atacando a estas personas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -101,7 +101,3 @@ La sala de impresión de Hongding Group es muy grande. En este momento, muchas p
 Ning Shasha rápidamente insertó su unidad flash USB en la computadora y luego comenzó a imprimir archivos.
 
 Ning Shasha estaba a cargo de la impresión, mientras que Chen Mo estaba a cargo de encuadernar los documentos, y los dos estaban ocupados trabajando juntos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

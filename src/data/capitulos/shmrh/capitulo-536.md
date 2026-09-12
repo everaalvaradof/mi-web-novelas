@@ -113,7 +113,3 @@ Chen Mo dejó escapar un largo suspiro, luego presionó el botón de ENCENDIDO y
 dijo Luo Qiu en un tono nervioso.
 
 Chen Mo se quedó atónito cuando escuchó las palabras de Luo Qiu.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

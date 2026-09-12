@@ -36,8 +36,6 @@ Wen Ruoxi miró a Chen Mo y explicó en un tono muy serio.
 
 “¿Por qué saliste corriendo de la casa?” Chen Mo se quedó atónito por un momento y preguntó en voz baja.
 
-“¡No es nada!”
-
 Wen Ruoxi respondió casualmente, luego miró a Chen Mo y dijo: “Está bien, no hables de mí, habla de ti, todavía no lo sé. ¿Cuál es tu nombre?”
 
 Chen Mo se presentó brevemente y luego habló sobre él y Gao Feifei.
@@ -66,8 +64,6 @@ A los ojos de Chen Mo, su directora universitaria es una mujer como un hada.
 
 Media hora más tarde, Chen Mo corrió rápidamente al salón de clases y descubrió que la clase ya había comenzado, por lo que Chen Mo llamó suavemente a la puerta.
 
-“¡Adelante!”
-
 Sonó una voz agradable.
 
 Chen Mo estiró la mano y abrió la puerta de la clase, luego miró con impotencia a la mujer parecida a un hada en el podio.
@@ -86,15 +82,11 @@ La glamorosa y atractiva Yan She miró de arriba abajo a Chen Mo y preguntó con
 
 Zhang Biao gritó en voz alta.
 
-“Hahaha”
-
 Los estudiantes de la clase estallaron en carcajadas al instante.
 
 “¿Te lo pregunté? ¿Por qué le debes tanto a tu boca?”
 
 La directora, Yan She, giró la cabeza y miró a Li Kai, regañando con frialdad.
-
-“
 
 Li Kai rápidamente cerró la boca cuando escuchó esto. Se dice que los antecedentes de Yan She son muy grandes y que los estudiantes comunes no se atreverían a meterse con ella.
 
@@ -103,8 +95,6 @@ Li Kai rápidamente cerró la boca cuando escuchó esto. Se dice que los anteced
 Chen Mo miró a Yan She y dijo.
 
 “¡Sal y ponte de pie, si hay otro momento, simplemente cuelga!”, Dijo Yan She sin expresión.
-
-“¡Oh!”
 
 Chen Mo asintió levemente, luego se dio la vuelta y salió del salón de clases.
 
@@ -115,8 +105,6 @@ Este sentimiento hizo que Chen Mo se sintiera un poco extraño y un poco irreal.
 “¡No sé qué pensaría Gao Feifei si supiera que tengo tanto dinero!”
 
 Chen Mo no pudo evitar suspirar suavemente en su corazón.
-
-“ding bell bell”
 
 La campana sonó después de clase, y Yan She salió de la clase con sus tacones altos, luego miró de arriba abajo a Chen Mo, entrecerró los ojos y dijo suavemente, “Chen Mo, fui a la Oficina de Asuntos Académicos a las 3 en punto de esta tarde para ayudarme a llevar algunas cosas y llevarlas a mi dormitorio, ¿entiendes?”
 
@@ -142,12 +130,4 @@ Chen Mo no estaba de humor para contarle a Liu Ruimengliang y a los demás sobre
 
 “Esa perra Gao Feifei parece ser una persona diferente desde que siguió a Li Kai. Es muy arrogante. Escuché que llamó a la otra parte directamente, pero no esperaba que la otra parte tuviera tal un fondo!” Liu Rui hizo lo mismo.
 
-“Haha”
-
 Chen Mo no pudo evitar sonreír cuando escuchó esto, pero no habló.
-
-leer I AM THE RICHEST HEIR OF MANKIND en Español Capitulo 9
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

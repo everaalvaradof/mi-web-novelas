@@ -103,7 +103,3 @@ En este momento, Tang Qingqing vio a Chen Mo salir del garaje en un Mercedes-Ben
 Al mismo tiempo, el aeropuerto de la ciudad de Nanyang.
 
 Un vuelo de Magic Capital a Nanyang aterrizó lentamente, y una mujer sexy que instantáneamente atrajo la atención de innumerables hombres cargaba una bolsa LV de edición limitada y bajaba lentamente del avión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

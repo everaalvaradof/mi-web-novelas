@@ -129,7 +129,3 @@ Al día siguiente a las siete de la mañana.
 Chen Mo y Tian Haixi simplemente empacaron y se fueron del hotel.
 
 Según la presentación de Tian Haixi, la villa de la familia Qi no se encuentra en el centro de la ciudad más próspera de la isla de Hong Kong, sino en una zona montañosa relativamente remota. En aquel entonces, la familia Qi compró toda la montaña en la cima de su gloria Y también construyó una villa muy lujosa en la cima de una colina, donde aún vive la familia Qi.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

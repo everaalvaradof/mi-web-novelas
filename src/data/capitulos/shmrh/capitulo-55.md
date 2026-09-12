@@ -111,7 +111,3 @@ Las palabras de Chen Mo fueron como una bomba lanzada al salón de clases. Los e
 Incluso Liu Di nunca pensó que Chen Mo contaría esta historia.
 
 Toda la persona parecía encantada, de pie frente a Chen Mo como una piedra.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

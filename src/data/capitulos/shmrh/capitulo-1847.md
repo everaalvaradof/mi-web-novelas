@@ -179,7 +179,3 @@ Yao Qing no tuvo más remedio que usar su aliento para ayudar a Qiu Ting a resis
 “¡El aura de un fantasma verde!”
 
 Xu Chengping frunció el ceño después de ver el aura azul en el cuerpo de Qiu Ting.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

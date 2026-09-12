@@ -131,7 +131,3 @@ Y después de respirar hondo, Su Mubai se volvió hacia Chen Mo y le preguntó: 
 Chen Mo le susurró a Su Mubai.
 
 Su Mubai confía completamente en Chen Mo, sabe que no importa lo que haga Chen Mo, no se hará daño a sí misma.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

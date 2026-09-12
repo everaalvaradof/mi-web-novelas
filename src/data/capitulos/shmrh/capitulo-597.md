@@ -93,7 +93,3 @@ Li Zixi, Li Baiqiang y otros miraron la expresión arrodillada de Zhao La cara d
 “Cancele sus calificaciones, pero no cancele la membresía de su padre, ¿qué tipo de castigo para su familia Zhao?”
 
 Wang Xiaochuan resopló con frialdad y luego continuó: “No estoy en el estado de ánimo para escuchar tus tonterías aquí. Si no me sueltas, meteré directamente a tu familia Zhao en la lista negra de nuestro club de emperadores. En ese momento, puede ser más que cancelar tu membresía. Horror”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

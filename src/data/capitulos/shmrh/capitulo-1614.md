@@ -117,7 +117,3 @@ La parte donde todos cortaron el pastel después de que se entregaron los regalo
 Debido a que había tantos invitados hoy, el pastel de Chu Lan era muy alto, de casi dos metros de altura. Era la primera vez que Capítulo veía un pastel tan grande.
 
 Chu Lan comenzó a pedir un deseo y luego comenzó a cortar el pastel.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

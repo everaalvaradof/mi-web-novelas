@@ -151,7 +151,3 @@ Unos minutos después, sonó un motor rugiente.
 Después de escuchar el sonido del motor, todos voltearon a mirar hacia la intersección, y un Bugatti Veyron negro se acercó lentamente.
 
 Después de escuchar lo que Xie Yu le dijo a Zhao Jinyu, Chen Mo sabía muy bien que Zhao Jinyu obviamente había sido engañado por Xie Yu.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

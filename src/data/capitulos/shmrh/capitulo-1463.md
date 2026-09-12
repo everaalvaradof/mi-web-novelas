@@ -101,7 +101,3 @@ La larga espada blanca exudaba escalofríos, y no se sabía cuántas personas ca
 Después de que la familia Qi vio la espada de Qiu Feng, gritaron con entusiasmo.
 
 En este momento, los ojos de Qiu Feng también brillaron con una intención asesina, porque pudo sentir que Chen Mo no se tomó a sí mismo en serio desde el principio hasta el final.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

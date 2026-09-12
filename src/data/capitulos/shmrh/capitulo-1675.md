@@ -105,7 +105,3 @@ En este caso, Chen Mo Company ahora tiene solo tres accionistas.
 Chen Mo posee el 60 % de las acciones, Shui Ziyou el 30 % y Liu Xuanxuan el 10 %.
 
 Y Liu Xuanxuan es el representante legal de la empresa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

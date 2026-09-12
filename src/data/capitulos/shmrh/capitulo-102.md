@@ -93,7 +93,3 @@ Después de escuchar el grito de la niña, un hombre pequeño y gordo salió cor
 La niña parecía apenada cuando vio que todas sus faldas estaban salpicadas de leche de cabra, gritó.
 
 El hombrecito gordo escuchó las palabras de la niña y rápidamente levantó la cabeza para mirar a Chen Mo frente a la niña.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

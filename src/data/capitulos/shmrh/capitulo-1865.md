@@ -173,7 +173,3 @@ El anciano miró a Chen Mo y se burló, secretamente desdén por la arrogancia d
 Si el líder de la Secta Fantasma Celestial realmente resucitó, entonces su fuerza es probablemente más aterradora que la de un maestro de artes marciales de tres estrellas. ¿Cómo podría un maestro de artes marciales de dos estrellas en el distrito de Chen Mo ser el líder? ¿adversario?
 
 Es solo que el anciano no dijo mucho, porque ahora ha logrado su objetivo, siempre y cuando pueda retrasar al líder por el tiempo suficiente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

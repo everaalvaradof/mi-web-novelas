@@ -119,7 +119,3 @@ Y Tang Ying caminó hacia adelante, pero en este momento, los que habían acosad
 Después de ver a la mujer, los ojos de Tang Ying brillaron un poco, frunció el ceño y gritó: “Hermana Sun, ¿por qué estás aquí?”
 
 “Mi Tang Da Miss, realmente quieres matar antes de que estés dispuesto? Te dije que hay una cena hoy, ¿por qué saliste de todos modos? Y todavía estás sumergiéndote en las aguas termales aquí, ¿qué estás tratando de hacer? mujer gritó con una expresión muy impotente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

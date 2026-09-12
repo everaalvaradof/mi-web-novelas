@@ -159,7 +159,3 @@ Hubo un fuerte estruendo entre el cielo y la tierra.
 En un instante, las cenizas desaparecieron en un radio de 100 metros, la villa se derrumbó instantáneamente e innumerables guardaespaldas quedaron enterrados bajo el impacto de esta energía aterradora.
 
 Incluso Xia Xingze no se salvó, e instantáneamente se convirtió en cenizas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

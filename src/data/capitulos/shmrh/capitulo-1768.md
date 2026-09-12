@@ -169,7 +169,3 @@ Chen Mo no pudo evitar quedarse atónito después de escuchar esto, luego miró 
 “¡Gracias por los asuntos de hoy!”
 
 Chen Mo miró a Elina, sonrió y dijo suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

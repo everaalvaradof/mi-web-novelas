@@ -127,7 +127,3 @@ Zhang Ziqing negó con la cabeza suavemente.
 “Bueno, hablemos del asunto serio. ¿Qué estás buscando con tanta prisa?”
 
 Chen Mo le preguntó suavemente a Zhang Ziqing.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

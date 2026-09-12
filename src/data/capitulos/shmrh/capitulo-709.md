@@ -109,7 +109,3 @@ En este momento, la encantadora risa de Liu Yingying interrumpió el silencio or
 En este momento, la expresión en el rostro de Liu Yingying era muy feliz, las ramas de la flor risueña temblaban, el imponente cofre también temblaba ligeramente, y le dijo a Luo Qiu en un tono despectivo: “Luo Qiu, No esperaba a este hombre derrochador tuyo. Mis amigos son bastante graciosos, e incluso en este momento, todavía pueden hacer una broma así”.
 
 Cuando Luo Qiu escuchó las palabras de Liu Yingying, una mirada extraña brilló. en sus ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

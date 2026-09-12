@@ -95,7 +95,3 @@ Después de escuchar esta oración, todos se volvieron hacia la posición de Jia
 Después de todo, Jiang Qiwei es de hecho el más guapo a los ojos de todos. Por supuesto, Su Bai se ve muy bien, pero Su Bai no participó en la licitación, y Su Bai y Jiang Qiwei son ligeramente mejor en comparación.
 
 Además, Jiang Qiwei dijo antes que quería ganar el Club Tianyun, por lo que la oferta definitivamente será muy alta y el precio especial está absolutamente en línea.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

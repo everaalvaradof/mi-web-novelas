@@ -119,7 +119,3 @@ Ning Tao y Lin Fei estaban naturalmente muy asustados en este momento, pero los 
 Es solo que los dos sabían que sus habilidades podrían no ser tan buenas como las de Li Linger.
 
 Pero justo cuando esos hombres fuertes estaban a punto de correr frente a Li Linger, una figura salió corriendo de repente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

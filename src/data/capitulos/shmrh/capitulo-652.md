@@ -115,7 +115,3 @@ Aunque la palabra es cuidar, pero el significado también es muy obvio.
 Chen Mo originalmente planeó negarse, pero Li Juncheng, Du Tianhao y otros persuadieron a Chen Mo para que se quedara con la niña. Después de todo, él no está familiarizado aquí, así que incluso si Chen Mo no tiene otras ideas, todavía puede ser utilizado como guía turístico.
 
 Chen Mo lo pensó y mantuvo a la chica a su lado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

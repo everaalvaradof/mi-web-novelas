@@ -79,7 +79,3 @@ Esta noticia debería ser muy útil para Bai Zhennan, al menos puede permitirle 
 Y Chen Mo también sabía que Shu Ziyu había consumido una gran parte de los fondos de la familia Shu para tratar a su padre. Ahora que Chen Mo recibió mil millones en efectivo, la cadena de capital de la familia Shu definitivamente tiene un problema muy grande. que también puede brindarle a Bai Zhennan una muy buena oportunidad.
 
 Cuando el padre de Shu Ziyu se recupere, el estado de la familia Shu se volverá muy pasivo, y el lado de Bai Zhennan podrá tomar mucha iniciativa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

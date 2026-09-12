@@ -107,7 +107,3 @@ En este momento, se dieron cuenta de que lo más aterrador no era la relación e
 Wei Mengmeng se quedó estupefacto, con una expresión impactante en su rostro.
 
 En un instante, la atmósfera en el bar también se volvió extraña, y todos se concentraron solo en Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

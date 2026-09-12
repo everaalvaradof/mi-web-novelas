@@ -24,8 +24,6 @@ Qin Yi Bing preguntó con desconfianza.
 
 Tao Yiliang apretó los dientes.
 
-“
-
 Qin Yibing no sabe mucho sobre la vida emocional de Chen Mo, pero sabe que Chen Mo tiene una buena relación con Tao Yiran de la familia Tao, por lo que no atreverse a actuar precipitadamente ahora, después de todo, ella no puede realmente ofender al cuñado de su jefe.
 
 “¿Qué? Llamaré al Sr. Chen ahora y le preguntaré al Sr. Chen cómo planea manejar este asunto”
@@ -41,8 +39,6 @@ Qin Yibing miró a Tao Yiliang con un dejo de impotencia en los ojos y sacó su 
 “Hermana Bingbing, ya que Tao Yiliang quiere una explicación, déjale una explicación. ¡No tienes que preocuparte por esto!”
 
 Chen Mo sabía que Qin Yibing iba a dar Lo llamé para sí mismo, así que no seguí escondiéndolo, sino que me puse de pie directamente y grité sin expresión.
-
-“
 
 Qin Yibing no pudo evitar congelarse por un momento después de escuchar las palabras de Chen Mo, luego giró la cabeza para mirar a Chen Mo inconscientemente y gritó con una expresión increíble: ” Joven maestro Chen, ¿estás aquí?”
 
@@ -94,8 +90,6 @@ Después de ver a Chen Mo, los ojos de Tao Yiliang estaban llenos de emoción, y
 
 Chen Mo escuchó las palabras de Tao Yiliang Después de eso “, se quedó sin palabras. Él y Tao Yiran eran solo amigos comunes. Ahora Chen Mo ayudó a Tao Yiliang a darle un favor a Tao Yiran. Por cierto, podría darle una lección a Duan Chenjie, pero Tao Yiliang se consideraba a sí mismo como su hermano en- Ley. ¿Qué pasa?
 
-“¿Cuñado?”
-
 Los ojos de Xue Yuqi brillaron con dudas después de escuchar las palabras de Tao Yiliang.
 
 Debido a que Qiao Ying es la novia de Chen Mo, y este joven llama al cuñado de Chen Mo, ¿no significa eso que Qiao Ying y este Tao Yiliang son hermanos?
@@ -133,9 +127,3 @@ Xue Yuqi también gritó y luego continuó: “¿Esta persona no está llamando 
 En ese momento, un joven dijo.
 
 Y todos se quedaron en silencio por un momento.
-
-leer I AM THE RICHEST HEIR OF MANKIND en Español Capitulo 1343
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

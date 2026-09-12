@@ -137,7 +137,3 @@ Chen Mo dudó un momento y luego miró a Chu Lan y preguntó: “¿Entonces qué
 “Realmente no puedes resolver mi problema de insomnio, pero puedes quedarte conmigo, no duermas si no duermo, así no me aburriré tanto. Cuando pueda dormirme ¡Puedes irte!”
 
 Chu Lan le dijo suavemente a Chen Mo después de pensar por un momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -155,7 +155,3 @@ La otra parte dijo lentamente.
 Lin Qiushui gritó muy emocionado
 
 Apenas salió de la oficina, Chen Mo escuchó las palabras de Lin Qiushui y no pudo evitar suspirar en su corazón: “No es de extrañar que este Lin Qiushui tenga tan mal genio. Resultó que lo instaron a casarse por sus padres!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

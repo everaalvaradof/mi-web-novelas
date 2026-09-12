@@ -125,7 +125,3 @@ Preguntó Luo Qiu con un tono desconcertado.
 “¡Debido a la pobreza!”
 
 Dijo Chen Mo a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

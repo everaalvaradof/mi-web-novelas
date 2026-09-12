@@ -105,7 +105,3 @@ Y se dice que hay casi 100 guardias de seguridad en el Casino Jinsheng. Estos gu
 Se dice que había un hombre que tenía un anciano en el Golden Saint Casino al principio, y luego el guardia de seguridad lo golpeó directamente hasta matarlo. Después de ese incidente, nadie se atrevió a hacer un anciano aquí. Después de todo, nadie estaba dispuesto a tomarlo. ¡Apuesta con tu vida!
 
 Por supuesto, también hay una situación especial en el Golden Saint Casino, es decir, la gente del Golden Saint Casino gana su propio dinero. Nadie puede descubrir esta situación y nadie la investigará. ¡Es el propio territorio de la gente!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

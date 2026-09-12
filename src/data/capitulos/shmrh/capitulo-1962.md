@@ -197,7 +197,3 @@ Wang Wanku dijo con el ceño fruncido.
 Dijo Wu Cang sin expresión.
 
 Después de escuchar las palabras de Wu Cang, todos respiraron profundamente y miraron hacia la posición de Chen Mo. Nadie siguió hablando.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

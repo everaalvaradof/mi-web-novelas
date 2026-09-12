@@ -167,7 +167,3 @@ Zhang Qicheng asintió rápidamente y luego continuó: “Joven maestro Chen, es
 “¿Quiere que todas estas personas de la secta Shangyuan se unan a la secta Tianshan?”
 
 Chen Mo frunció el ceño ligeramente después de entender lo que quería decir Zhang Qicheng.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

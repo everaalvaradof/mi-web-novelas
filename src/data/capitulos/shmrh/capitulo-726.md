@@ -101,7 +101,3 @@ Chen Mo miró a Li Taibai y respiró hondo, luego le susurró a Li Taibai: “Es
 Li Taibai finalmente reaccionó cuando escuchó las palabras de Chen Mo. Volvió la cabeza y lo miró con una sonrisa. Chen Mo miró.
 
 Chen Mo se sintió extremadamente impotente cuando vio la reacción de Li Taibai y lo regañó en secreto: “Aficionado a la fortuna, si no mencionas el dinero, no me traerás para hablar conmigo”.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

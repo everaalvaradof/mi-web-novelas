@@ -125,7 +125,3 @@ Después de dudar un momento, Zuo Qingna se arrodilló directamente frente a Che
 Chen Mo le dio a Zuo Qingna una ligera mirada después de escuchar las palabras de Zuo Qingna.
 
 Zuo Qingna respiró hondo, mostró una sonrisa encantadora pero amarga a Chen Mo y dijo en voz baja: “Maestro Chen, mientras pueda dejar ir a mi abuelo, estaré a su disposición. !”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -123,7 +123,3 @@ Pero la otra parte está apagada.
 Chen Mo susurró, y luego comenzó a mirar la hora en el teléfono para esperar a que terminara la salida de la clase… En este momento, también tenía mucha curiosidad. Sí, ¿fue Wang Yaoyao quien vino a buscarla?
 
 Si realmente era Wang Yaoyao, Chen Mo decidió aclarar la situación con Wang Yaoyao. Después de todo, ya no quería estar involucrado con ninguna otra mujer.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

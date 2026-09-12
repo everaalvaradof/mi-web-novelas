@@ -135,7 +135,3 @@ Su Bai respiró hondo, luego se levantó y siguió a Wei Chen.
 Por otro lado, después de que el hombre de mediana edad se llevara a Zhao Ziqian, tomó el ascensor directamente al último piso del hotel.
 
 En este momento, Zhao Ziqian todavía estaba muy nervioso, porque no sabía qué le esperaba a continuación, y no sabía cómo Chen Mo planeaba tratar con él.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

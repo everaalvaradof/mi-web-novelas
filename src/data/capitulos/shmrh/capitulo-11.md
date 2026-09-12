@@ -127,7 +127,3 @@ Después de unos minutos, Wei Xiaole finalmente dejó de reír, luego miró a Ch
 Después de escuchar las palabras de Wei Xiaole, Chen Mo miró directamente a Wei Xiaole.
 
 Por un momento, toda la habitación privada pareció estar en silencio.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -113,7 +113,3 @@ En ese momento, Zuo Qingna comenzó a dudar si Guan Qiankun realmente tenía la 
 Zuo Qingna respiró hondo, luego dio un paso adelante y dijo respetuosamente: “¡Abuelo Guan, Qingna ha venido a verte!”
 
 Guan Qiankun escuchó esto y abrió lentamente los ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

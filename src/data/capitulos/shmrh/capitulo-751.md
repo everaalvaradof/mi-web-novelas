@@ -105,7 +105,3 @@ Chen Mo preguntó a Capítulo que tenía dos dudas. en su mente.
 “La familia Lu donde vive Lu Zhengzhi no es tan simple como crees. Lu Zhengzhi es muy discreto por algunas razones. Además, el abuelo de Lu Zhengzhi ayudó a mi abuelo, y él es el benefactor de nuestra familia Yan”
 
 Yan Miró a Chen Mo y explicó en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

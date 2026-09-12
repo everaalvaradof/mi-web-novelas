@@ -117,7 +117,3 @@ Gao Feifei quería explicar por teléfono, pero Chen Mo colgó el teléfono. sol
 El teléfono se deslizó de la mano de Gao Feifei.
 
 La expresión en el rostro de Gao Feifei era extremadamente desesperada. En este momento, ¡finalmente entendió la decisión equivocada y estúpida que había tomado al romper con Chen Mo!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

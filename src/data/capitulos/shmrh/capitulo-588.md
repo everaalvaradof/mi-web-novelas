@@ -105,7 +105,3 @@ No mucho después de que los guardaespaldas se fueran, un joven vestido con un t
 Pero antes de que pudiera terminar su oración, encontró a una muy joven y hermosa Li Zixi sentada en el sofá prolijamente vestida.
 
 Después de ver a Li Zixi, el joven se quedó estupefacto al instante y no entendió lo que estaba pasando.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

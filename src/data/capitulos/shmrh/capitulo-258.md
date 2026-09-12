@@ -111,7 +111,3 @@ Unos minutos después, Chen Mo, Su Mubai, Su Muyu y otros llegaron al tercer pis
 Después de subir las escaleras, Chen Mo muy caballerosamente dejó que Zhao Xiaoyou jugara primero.
 
 Y Zhao Xiaoyou no fue cortés, se sentó directamente frente al piano y puso sus manos sobre las teclas blancas y negras, lista para comenzar su actuación.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

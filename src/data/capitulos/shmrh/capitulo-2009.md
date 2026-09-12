@@ -217,7 +217,3 @@ En ese momento, Chen Mo ya estaba en la cúspide de las artes marciales y conoc�
 Después de ingresar al tesoro secreto, Qing Guiyuan lo saludó apresuradamente y luego le preguntó emocionado a Chen Mo: “¿Has encontrado una manera de eliminar la maldición de la sangre?”
 
 Chen Mo asintió levemente y luego entregó directamente el antídoto a Qing Guiyuan.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

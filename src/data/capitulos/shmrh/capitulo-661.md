@@ -99,7 +99,3 @@ Incluso Wang Hongli junto a Chen Mo tenía un dejo de envidia en los ojos y dijo
 “Esta velocidad es demasiado lenta.”
 
 Pero justo después de que Wang Hongli terminó de hablar, Chen Mo susurró.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

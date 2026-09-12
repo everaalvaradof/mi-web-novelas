@@ -129,7 +129,3 @@ Jiang Qiwei miró la posición de Chen Mo y respiró hondo. Sabía en su corazó
 Originalmente, Jiang Qiwei pensó que podía revertir la situación confiando en la apariencia de Wang Zhenqing, pero ¿cómo pudo haber imaginado que Chen Mo sería tan despiadado e incluso llamó a alguien como Zhao Xicheng directamente?
 
 Si desea conocer el efecto de la apariencia de Zhao Xicheng, puede aplastar directamente a todos los invitados presentes.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

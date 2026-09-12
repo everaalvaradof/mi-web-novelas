@@ -285,7 +285,3 @@ De hecho, en la batalla anterior, Ayton descubrió que ni Shirya ni Hausen diero
 Después de todo, la fuerza de Chen Mo es tan aterradora que un pequeño descuido puede resultar en lesiones graves.
 
 Así que esta gente tiene su propio pequeño ábaco.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

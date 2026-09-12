@@ -107,7 +107,3 @@ Su Lieheng, Su Liefa, Su Lieguang y Su Lieguang, ¡los ojos de las tres personas
 “Chen Mo conoce a Li Juncheng, y Wang Long es un hombre bajo las manos de Li Juncheng. Es posible que Wang Long venga a complacer a Chen Mo, pero ¿qué tiene que ver Du Hongtao con Li Juncheng? ¿Por qué también vino a complacer a Chen Mo?”
 
 Pero en este momento, Su Ling gritó de repente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

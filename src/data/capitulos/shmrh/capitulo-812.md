@@ -105,7 +105,3 @@ El francotirador en la azotea opuesta vio un destello de ira en sus ojos despué
 Ye Xueqi miró fijamente a Chen Mo, que la abrazaba con fuerza, con sus grandes ojos llorosos y una expresión muy nerviosa en el rostro.
 
 Y Chen Mo ha estado observando el entorno circundante con una expresión cautelosa. ¡Le preocupa que los francotiradores y los cómplices disparen desde otras direcciones!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

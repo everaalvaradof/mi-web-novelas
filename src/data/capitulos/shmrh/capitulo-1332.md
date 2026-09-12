@@ -137,7 +137,3 @@ Qiao Ying respondió con una sonrisa.
 “¡Está bien, entonces cantemos!”
 
 Y Qiao Ying tomó la iniciativa de tomar la mano de Chen Mo y corrió hacia el escenario.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

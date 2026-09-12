@@ -195,7 +195,3 @@ Liu Chengping asintió levemente.
 “¿Chen Mo corrió hacia tu familia Liu para qué?”
 
 Xia Qingfeng continuó preguntando rápidamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

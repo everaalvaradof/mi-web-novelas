@@ -111,7 +111,3 @@ Pero en este momento Sun Kai puede no saber lo feliz que se ríe ahora y lo trá
 Después de que Su Mubai vio que estas personas se estaban riendo de Chen Mo, un rastro de ira brilló en su hermoso rostro, y dio un paso adelante para hablar, pero Chen Mo de repente extendió la mano para detener a Su Mubai, y luego entrecerró los ojos. Miró a Sun Kai y preguntó: “¿Su gerente general de Hongtao Securities es una persona llamada Du Hongtao?”
 
 Sun Kai se quedó atónito cuando escuchó las palabras de Chen Mo. Volviendo al mismo lugar, miró a Chen Mo con ojos desconcertados.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

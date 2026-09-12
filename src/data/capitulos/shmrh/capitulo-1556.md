@@ -109,7 +109,3 @@ Yan Ella gritó con voz ahogada.
 “¿Hay alguna otra manera? Ya he usado los métodos que se pueden usar. ¡A menos que pueda convertirme en un maestro de artes marciales, no puedo aferrarme al cuerpo de un maestro de artes marciales!”
 
 Yan Niancheng negó con la cabeza y luego continuó: “En realidad, mi vida vale la pena, cuántas personas envidian mi vida, y aún puedes estar a mi lado cuando sea viejo, realmente estoy muy contento, así que no hay necesidad de seguir tirando, todo sigue la corriente”.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

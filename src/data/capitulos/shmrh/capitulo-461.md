@@ -103,7 +103,3 @@ Una pizca de impotencia brilló en los ojos de Li Yiyi, no sabía qué decir.
 “¡Resérvame un boleto ahora, quiero irme a casa!”
 
 Shi Xinxin le gritó a Zhou Xiaobao con una expresión muy emocionada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

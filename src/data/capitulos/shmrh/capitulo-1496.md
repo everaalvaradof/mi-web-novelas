@@ -127,7 +127,3 @@ Y esta mujer no es otra que Zuo Qingna.
 Zuo Qingna, como jefe de la división de negocios bancarios, cuyo negocio más importante es controlar el mundo subterráneo de la isla de Hong Kong.
 
 Es por eso que estos supuestos jefes tratan a Zuo Qingna con tanto respeto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

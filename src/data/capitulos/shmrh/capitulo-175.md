@@ -125,7 +125,3 @@ La chica se quedó estupefacta al instante.
 Chen Mo apretó los dientes y le dijo a la chica palabra por palabra.
 
 Y esas personas alrededor del restaurante también miraban a Chen Mo con ojos atónitos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

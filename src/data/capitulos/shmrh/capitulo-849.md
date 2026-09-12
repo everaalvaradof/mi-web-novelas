@@ -93,7 +93,3 @@ Después de todo, Li Juncheng es el hombre más rico de la provincia de Jiangnan
 “Las cuatro reuniones provinciales que mencionaste en realidad se llevan a cabo todos los años, y el objetivo principal es resolver algunos problemas en los negocios del inframundo. El jefe de tu ciudad de Nanyang es Du Tianhao, y el mismo Li Juncheng es no es un miembro del inframundo. La gente, la gente es gente de negocios seria, así que solía ver la emoción”
 
 Li Bufan hizo una pausa por un momento, luego continuó: “Fui a esa fiesta con mi padre, el jefe de Li Juncheng, el hombre más rico de la provincia de Jiangnan, de hecho ha fallecido”.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

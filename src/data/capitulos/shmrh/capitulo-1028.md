@@ -85,7 +85,3 @@ Song Xinxin dudó un momento y luego caminó hacia Ren Bin y le dijo suavemente 
 dijo Song Xinxin con el ceño fruncido.
 
 La cara de Ren Bin se enredó cuando escuchó esto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

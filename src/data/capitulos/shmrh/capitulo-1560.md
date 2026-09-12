@@ -121,7 +121,3 @@ Chen Mo miró a Ren Jian y no habló.
 Ren Jian le gritó a Chen Mo con impaciencia.
 
 Chen Mo miró a Ren Jian a la ligera, luego dijo con una sonrisa: “¿Qué tal diez mil millones de dólares?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

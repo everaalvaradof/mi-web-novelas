@@ -265,7 +265,3 @@ Ayton asintió levemente, luego agitó su mano derecha de repente y una enorme b
 Chen Mo aplastó la bola de fuego con un solo golpe y luego se acercó a Shirya.
 
 Chen Mo sabía en su corazón que si Shirya no se resolvía, la batalla probablemente duraría mucho tiempo y su cuerpo definitivamente no sería capaz de soportar una batalla tan larga y de alta intensidad. Lo importante para Chen Mo ahora es resolver primero el problema de Shirya.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -105,7 +105,3 @@ Y Tang Bingbing pudo sentir que Chen Mo, que estaba parado frente a él en este 
 “Así es, soy la esposa de Gu Ying, ¿qué te pasa?”
 
 Tang Bingbing respiró hondo, ajustó sus emociones brevemente y dijo con calma. Una oración de vuelta.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

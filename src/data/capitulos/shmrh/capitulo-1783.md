@@ -183,7 +183,3 @@ Wang Tao miró la posición de Chen Mo y suspiró suavemente.
 “Parece que este es el único camino a seguir.”
 
 Zhou Yu asintió impotente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

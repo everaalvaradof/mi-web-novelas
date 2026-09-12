@@ -125,7 +125,3 @@ Luo Qiu gritó emocionado.
 Chen Mo respondió honestamente y luego colgó el teléfono.
 
 Aunque Chen Mo sabía que podría ser un poco despiadado, sintió que era mejor mantenerse alejado de Luo Qiu, porque esta mujer era demasiado peligrosa y ya había demasiadas mujeres a su alrededor. cerrar definitivamente no es bueno para Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

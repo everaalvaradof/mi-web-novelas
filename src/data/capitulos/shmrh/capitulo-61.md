@@ -129,7 +129,3 @@ Cuando Chen Mo vio a Wei Xiaole, se quedó atónito por un momento. Nunca pensó
 Pero si Wei Xiaole lo ve, Wei Xiaole definitivamente tomará la iniciativa de hablar con él, y su identidad puede quedar expuesta debido a esto. Después de todo, Wen Ruoxi acaba de ingresar a la comunidad.
 
 ¡Chen Mo no supo qué hacer por un tiempo!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

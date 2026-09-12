@@ -129,7 +129,3 @@ Entonces, después de que Liu Di lo pensó, apretó los dientes y dijo: “¡Est
 Chen Mo colgó el teléfono cuando escuchó esto, sintiendo algo avergonzado, Liu Di, que solía despreciarla mucho, ahora preferiría abrir una habitación con ella solo por los 40,000 yuanes.
 
 A veces, el dinero realmente puede cambiar muchas cosas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

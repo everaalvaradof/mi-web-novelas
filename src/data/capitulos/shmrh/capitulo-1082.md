@@ -111,7 +111,3 @@ Chen Mo miró a Liu Xuanxuan con una leve sonrisa. Sabía que Liu Xuanxuan lo ha
 Y Chen Mo dejó la vida de Liu Xuanxuan para lidiar con Liu Jin. Chen Mo no tenía forma de garantizar que Liu Xuanxuan fuera obediente, así que se preparó con anticipación.
 
 Chen Mo extendió su mano y agarró la barbilla de Liu Xuanxuan.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

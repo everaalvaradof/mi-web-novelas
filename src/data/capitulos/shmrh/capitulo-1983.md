@@ -279,7 +279,3 @@ Chen Mo preguntó suavemente al Rey de los Estados Unidos.
 “Es muy simple, ¡deja que te vayas del país M lo antes posible!”
 
 El rey de los Estados Unidos no parecía tener la intención de ocultarle nada a Chen Mo, y respondió muy directamente
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

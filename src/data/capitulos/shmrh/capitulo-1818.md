@@ -193,7 +193,3 @@ Chen Mo miró directamente a la posición de Li Juncheng cuando escuchó esto, l
 “No, he estado lidiando con los problemas de nuestras cuatro principales empresas provinciales, y hace algún tiempo, Wang Liang despidió a todos de nuestro Grupo Huiding, por lo que soy responsable de hacer un seguimiento con nosotros. El vicepresidente que ¡El Sr. Liu se ha puesto en contacto y aún no ha regresado!”
 
 Li Juncheng miró a Chen Mo y dijo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

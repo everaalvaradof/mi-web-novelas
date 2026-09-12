@@ -121,7 +121,3 @@ Los ojos de Yan Niancheng brillaron con sorpresa después de escuchar las palabr
 “¡Así es, ahora soy un 3er dan!”
 
 Chen Mo asintió levemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

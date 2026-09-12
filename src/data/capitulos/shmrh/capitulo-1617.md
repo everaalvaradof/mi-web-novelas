@@ -133,7 +133,3 @@ Chen Mo preguntó con algunas dudas.
 Chu Lan casi apretó los dientes y dijo esta frase.
 
 Chen Mo se quedó estupefacto cuando vio a Chu Lan, y la expresión de su rostro también era muy nerviosa, porque no esperaba que la reacción alérgica de Chu Lan se convirtiera en insomnio.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

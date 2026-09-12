@@ -189,7 +189,3 @@ Aquellos estudiantes que originalmente estaban presentes ya tenían a Yan She, q
 Después de escuchar las palabras de Yan She, Zhao Yiwen no pudo evitar quedarse atónita por un momento y luego dijo rápidamente: “Señorita Yan, sé que es posible que no me conozca, pero lo estuve hace unos días. Te he visto una vez, desde el momento en que vi tu Capítulo supe que eras la mujer que estaba buscando, realmente espero que puedas darme una oportunidad, podemos comenzar como amigos”
 
 Zhao Yiwen parece haber esperado que sucediera tal situación, por lo que la actuación de Zhao Yiwen es relativamente natural en este momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

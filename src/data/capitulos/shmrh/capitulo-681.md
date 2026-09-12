@@ -119,7 +119,3 @@ El director Zhang continuó preguntando.
 “No todos, simplemente no entiendo dónde ofendí a Liu Yingying, ¿por qué siempre me apunta y me avergüenza?”
 
 Luo Qiu frunció el ceño a Zhang, preguntó el guía.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -181,7 +181,3 @@ Chen Mo miró a Zhang Fansheng sin comprender, había luchado contra Zheng Qiank
 La diferencia de fuerza entre Chen Mo en ese momento y Chen Mo ahora sigue siendo muy grande, por lo que ahora Chen Mo sintió que su fuerza ha mejorado mucho, y con la ayuda de la Daga de los Cinco Elementos, tal vez él realmente puede igualar a Zhang Fansheng luchó.
 
 Pero lo que Chen Mo nunca imaginó fue que todavía no tenía la capacidad de resistir frente a Zhang Fansheng. La brecha entre los dos es realmente demasiado grande y nada puede compensarla.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

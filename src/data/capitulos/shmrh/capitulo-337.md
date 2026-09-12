@@ -105,7 +105,3 @@ Después de que Zhao Anan vio salir a Wang Yaoyao, la expresión de su rostro pa
 El bondadoso Zhao Anan, Chen Mo, está hablando con estas personas en la oficina de ventas en este momento. broma.
 
 Chen Mo sonrió levemente cuando escuchó las palabras de Zhao An’an, y luego dijo sin comprender: “¡No haré una broma de tan bajo nivel!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

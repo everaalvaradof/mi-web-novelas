@@ -213,7 +213,3 @@ Porque Yin Chengyuan nunca antes había visto a Chen Mo.
 “¿Quién es el líder de la división?”
 
 Chen Mo miró a la multitud y preguntó en un tono tranquilo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

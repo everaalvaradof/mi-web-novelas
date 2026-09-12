@@ -115,7 +115,3 @@ dijo Chen Mo a la ligera.
 Xu Feng le dijo a Chen Mo en un tono sombrío.
 
 Y Chen Mo volvió la cabeza y miró a Xu Feng a la ligera, pero no habló.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

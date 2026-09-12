@@ -147,7 +147,3 @@ Chen Mo no pudo evitar burlarse cuando vio la posición del hombre.
 Y el hombre también pareció ver a Chen Mo, parado allí en silencio sin moverse.
 
 Chen Mo sabía que si quería correr en este momento, sería demasiado tarde, por lo que solo podía elegir pelear con uno.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

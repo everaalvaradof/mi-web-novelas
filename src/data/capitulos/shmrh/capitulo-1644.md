@@ -111,7 +111,3 @@ Alrededor de una hora después, Chen Mo finalmente vio a Qin Yibing salir de la 
 Es solo que Qin Yibing todavía estaba acompañado por un miembro del personal en este momento, y las expresiones en sus rostros aún eran muy serias, deberían estar lidiando con algo.
 
 Chen Mo también sabía que estaban sucediendo muchas cosas en el casino ahora, y Qin Yibing definitivamente no estaba de humor para cuidarlo, por lo que Chen Mo no tomó la iniciativa de hablar con Qin Yibing.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

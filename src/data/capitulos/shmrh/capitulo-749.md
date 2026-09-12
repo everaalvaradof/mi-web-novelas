@@ -113,7 +113,3 @@ Chen Mo respondió con una expresión en blanco.
 Cuando Lu Zhengzhi escuchó las palabras de Chen Mo, un rastro de confusión brilló en sus ojos y luego conversó con Chen Mo muy cortésmente.
 
 La actuación de Chen Mo en este momento ha cambiado por completo la opinión de Lu Zhengzhi sobre Chen Mo. Él piensa que Chen Mo definitivamente no es una persona común, por lo que incluso si Lu Zhengzhi tiene diez mil coraje, Lu Zhengzhi nunca se atreverá a ofenderlo Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

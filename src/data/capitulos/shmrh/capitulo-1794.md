@@ -211,7 +211,3 @@ Después de dudar un momento, Chen Mo caminó hacia el lado de Lu Fangze y luego
 Lu Fangze levantó la cabeza y miró a Chen Mo, y preguntó nerviosamente: “Si matamos a alguien aquí, ¿aún podemos escapar?”
 
 Chen Mo asintió levemente, luego caminó directamente hacia la ventana y estiró su mano para abrirla.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

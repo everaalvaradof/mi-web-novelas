@@ -111,7 +111,3 @@ Bai Zhibing Al ver que Chen Mo no lo hizo estuvo de acuerdo de inmediato, su est
 Y Chen Mo se iba a encontrar de nuevo esta noche muy vigorosamente, pero sintió que dado que Bai Zhibing estaba celebrando su cumpleaños y su relación con Bai Zhibing no era mala, solo se dio un día libre, así que estaba vacilante Después de un rato, asintió levemente y dijo: “Está bien, iré a tu fiesta de cumpleaños esta noche”
 
 Cuando Bai Zhibing vio que Chen Mo estaba de acuerdo, su gritó el tono muy emocionado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

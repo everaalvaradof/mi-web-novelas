@@ -201,7 +201,3 @@ Una pizca de confusión brilló en los ojos de Chen Mo.
 El hombre miró a Chen Mo y preguntó.
 
 Chen Mo dudó un momento y luego extendió su mano izquierda hacia el hombre.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

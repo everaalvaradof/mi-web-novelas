@@ -195,7 +195,3 @@ Li Juncheng detuvo rápidamente a Chen Mo y le dijo ansiosamente a Chen Mo.
 “Sí, ve al hospital, ve al hospital”
 
 Toda la persona de Chen Mo parece ser estúpida, y sigue repitiendo esta frase en su boca.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

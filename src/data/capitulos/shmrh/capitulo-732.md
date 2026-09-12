@@ -105,7 +105,3 @@ Chen Mo le preguntó suavemente a Yan She.
 Yan Dudó durante dos segundos, se mordió los labios sexys y le preguntó suavemente a Chen Mo.
 
 Después de escuchar las palabras de Yan She, Chen Mo se levantó de repente y le gritó a Yan She con una expresión emocionada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

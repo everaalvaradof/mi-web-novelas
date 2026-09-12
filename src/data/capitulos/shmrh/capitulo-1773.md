@@ -165,7 +165,3 @@ Chen Mo no sabía si Su Mubai podría durar hasta ese momento.
 Wang Siyuan miró en Chen Mo Un suave recordatorio.
 
 Chen Mo respondió en voz baja, la expresión en su rostro parecía un poco desesperada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

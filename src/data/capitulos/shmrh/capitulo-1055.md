@@ -101,7 +101,3 @@ Chen Mo miró a Su Chengkai y dijo a la ligera.
 Y Su Chengkai miró a Chen Mo frente a él y dudó durante dos segundos, luego apretó los dientes y dijo: “Si lo digo, nos dejarás ir, ¿verdad?”
 
 “¡Mu Bai es de hecho la hija de Fan Meihua!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

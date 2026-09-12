@@ -95,7 +95,3 @@ Chen Mo miró a Wen Ruoxi frente a él con una mirada de impotencia en sus ojos.
 En realidad, la razón por la que Wen Ruoxi estaba tan ansiosa por dejar que Chen Mo pretendiera ser Zhang Feng era simplemente porque no quería que sus amigos continuaran sin entender.
 
 En el pasado, Wen Ruoxi dio tantos obsequios en la sala de transmisión en vivo de Wen Ruoxi, ¡y los amigos de Wen Ruoxi sintieron que debían cuidarla!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

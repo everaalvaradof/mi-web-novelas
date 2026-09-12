@@ -85,7 +85,3 @@ Si Duan Chenjie está enamorado de una mujer, a menudo elegirá la forma más f�
 Después de todo, si una mujer común es una mujer común, es completamente incapaz de resistir la tentación del dinero. Ya sea ropa, joyas o bolsos, son muy atractivos para las chicas comunes.
 
 Sin mencionar a las mujeres en la industria del entretenimiento, aunque no les falta dinero, ¡les faltan recursos!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

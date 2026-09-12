@@ -101,7 +101,3 @@ Chen Mo asintió levemente.
 Ling Shi llamó a Chen Mo con la mentalidad de intentarlo, pero nunca pensó que Chen Mo realmente estaría de acuerdo. Originalmente pensó que Chen Mo no estaría de acuerdo con ella.
 
 Ling Shi en realidad tenía otro propósito al traer a Chen Mo a la fiesta, es decir, sintió que si podía traer a un chico guapo como Chen Mo a su lado, sus amigos definitivamente la envidiarían mucho. Sí, después de todo, Chen Mo es muy bueno en términos de fuerza de fondo y apariencia.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

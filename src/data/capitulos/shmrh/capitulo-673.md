@@ -101,7 +101,3 @@ Después de escuchar el número de Chen Mo, todos quedaron atónitos en el lugar
 ¡Nadie pensó que el apetito de Chen Mo sería tan grande!
 
 ¡Una ganancia directa del 70%!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

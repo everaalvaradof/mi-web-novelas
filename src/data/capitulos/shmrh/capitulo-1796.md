@@ -175,7 +175,3 @@ El puño de Chen Mo se estrelló contra el pecho de Zhou Da con fiereza.
 Zhou Da retrocedió dos pasos seguidos y luego cayó al suelo con un ruido sordo.
 
 En ese momento, Zhou Da pudo sentir que el golpe de Chen Mo rompió directamente todos sus meridianos. Instintivamente quería ponerse de pie, pero no podía moverse en absoluto porque los meridianos estaban completamente rotos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

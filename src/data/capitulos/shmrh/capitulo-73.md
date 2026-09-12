@@ -135,7 +135,3 @@ Después de que Wang Zhongqiang y Zhang Ming escucharon que Du Yan iba a llamar 
 “Joven maestro Chen Chen, de lo contrario, creo que es mejor olvidarse de esto hoy. ¡No se debe meter con la familia Du! Debería dejarlos ir”
 
 Zhang Ming también dijo en este momento Asustado, tartamudeó y le dijo a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

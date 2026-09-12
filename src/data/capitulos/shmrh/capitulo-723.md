@@ -97,7 +97,3 @@ Después de escuchar las palabras de Chen Mo, Wang Bo no pudo evitar congelarse 
 Chen Mo escuchó las palabras de Wang Bo. Esta oración no pudo ayuda, pero sonrió impotente. En este momento, Chen Mo se dio cuenta. Resultó que este Wang Bo vino a disculparse consigo mismo es falso, ¡pero es cierto que envía mujeres hermosas!
 
 Después de que Wang Bo terminó de hablar, miró a Zhao Zijing y Zhao Zirou detrás de él, y luego planeó dar la vuelta e irse.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

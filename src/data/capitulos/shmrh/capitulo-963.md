@@ -85,7 +85,3 @@ Chen Mo abrió la boca para negarse.
 Pero antes de que se pronunciaran las palabras de Chen Mo, sonó una voz.
 
 Y el joven que tomó la iniciativa vio a Ling Shi sosteniendo el brazo de Chen Mo, la expresión de su rostro fue instantáneamente incorrecta y le preguntó a Ling Shi en voz baja: “Shi Shi, ¿qué está pasando? ?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

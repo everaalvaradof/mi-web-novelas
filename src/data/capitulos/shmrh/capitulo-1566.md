@@ -125,7 +125,3 @@ Feng Hao le gritó a Chen Mo con desesperación.
 Chen Mo dijo sin expresión.
 
 Feng Hao miró a Chen Mo frente a él con desesperación en sus ojos. En este momento, no sabía qué hacer.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

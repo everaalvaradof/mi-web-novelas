@@ -105,7 +105,3 @@ Obviamente, en este momento, Zhou You y el anciano Wang tenían una cara negra y
 En cuanto a la promesa de Zhou You a Chen Mo, todas las condiciones son en realidad promesas vacías. Una vez que Chen Mo ya no sea útil, estas personas definitivamente se desharán de Chen Mo en poco tiempo.
 
 Las expresiones en los rostros de los guerreros presentes que miraban la posición de Chen Mo eran muy envidiosas. La tentación de unirse al Misty Valley sigue siendo muy grande. No sé cuántas personas solo quieren unirse a Misty. Valle En el valle, pero desafortunadamente no tienen esta oportunidad en absoluto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

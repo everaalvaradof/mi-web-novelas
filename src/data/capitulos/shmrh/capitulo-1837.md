@@ -205,7 +205,3 @@ El taxista respondió con una sonrisa cuando vio que Chen Mo era tan generoso, y
 A lo largo del camino, Chen Mo ha estado mirando el paisaje fuera de la ventanilla del coche.
 
 Al principio, se podían ver algunas luces de la calle, pero después de que el taxi entró en la montaña, las luces se hicieron cada vez menos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

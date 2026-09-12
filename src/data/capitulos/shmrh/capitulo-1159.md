@@ -135,7 +135,3 @@ Por otro lado, Tao Yiran estaba de muy mal humor después de separarse de Chen M
 “¿Por qué este maldito Huang Zhiming no tiene rostro?”
 
 Tao Yiran lo regañó ferozmente, luego sacó su teléfono móvil y llamó a Huang Zhiming.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

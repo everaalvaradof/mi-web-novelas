@@ -133,7 +133,3 @@ Chen Mo le dijo a Su Muyu un poco avergonzado.
 Su Muyu gritó desgarradoramente.
 
 Chen Mo no tuvo más remedio que darse la vuelta y salir de la habitación de Su Mubai, y luego susurró en voz baja: “Parece que alguien quiere verte.”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

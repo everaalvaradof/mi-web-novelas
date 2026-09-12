@@ -117,7 +117,3 @@ Chen Mo dijo con calma.
 “¿Entonces quieres decir que eres un león?”
 
 Wei Mengmeng preguntó con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

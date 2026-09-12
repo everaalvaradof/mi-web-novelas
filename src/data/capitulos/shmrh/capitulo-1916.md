@@ -181,7 +181,3 @@ Ye Qingyou respondió a Chen Mo sin pensar, y luego posó hacia Ye Xian’er det
 Ye Xian’er caminó directamente frente a Chen Mo y levantó suavemente la gasa blanca frente a ella.
 
 Cuando Chen Mo vio la apariencia de Ye Xian’er, quedó atónito al instante, y la expresión de su rostro también fue muy sorprendida.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

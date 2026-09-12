@@ -119,7 +119,3 @@ Chen Mo preguntó con un tono de sorpresa.
 La concubina Qi Ye asintió. y luego Continuó: “Solía ​​ser una niña sencilla, también añoraba mi propio amor, y también espero encontrar a alguien a quien realmente le guste, y a mí también me gusta”
 
 “Pero luego poco a poco descubrí que no importa lo que sea, debe construirse sobre una base material, porque si no hay una base material, entonces todo es solo una burbuja, y el viento se la llevará en cualquier momento, por eso cuando yo elegir un novio, solo elegiré a los ricos y de fondo. Puedes pensar que soy material, pero ¿a ustedes también no les gusta ser hermosos? No creo que haya nada de malo en esto”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -141,7 +141,3 @@ Luo Qiu débilmente Después de explicar una oración, hice clic dos veces con e
 En este momento, la pantalla de la sala de transmisión en vivo se dividió en dos partes, un hermoso presentador a la izquierda y otro hermoso presentador a la derecha, y los dos estaban transmitiendo al mismo tiempo.
 
 Pero cuando Chen Mo vio el ancla a la derecha, se quedó atónito y gritó con una expresión de sorpresa: “¡En realidad es ella!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

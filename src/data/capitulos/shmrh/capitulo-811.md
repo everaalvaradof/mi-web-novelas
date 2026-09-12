@@ -95,7 +95,3 @@ Chen Mo asintió levemente.
 “Ahora, estas grandes familias de la ciudad de Nanyang han pagado mucho dinero y recursos materiales por esta línea de metro, y si al final no obtienen esta línea de metro, la pérdida será muy grande. De lo contrario, la localidad no usaría medios tan groseros para tratar conmigo”.
 
 En este momento, agregó Ye Qi nuevamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

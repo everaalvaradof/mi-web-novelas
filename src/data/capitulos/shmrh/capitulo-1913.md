@@ -165,7 +165,3 @@ Esos guerreros que originalmente estaban reunidos en la cima de la montaña Shan
 “Sí, ¿al Sr. Chen realmente no le importan nuestras artes marciales chinas? ¿Lo es?”
 
 Todos no pudieron evitar comenzar a adivinar cuál era el significado desconocido detrás de lo que Chen Mo dijo hace un momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

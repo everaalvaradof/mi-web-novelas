@@ -113,7 +113,3 @@ Pase lo que pase, Wang Long es considerado una gran figura en la ciudad de Sujia
 Wang Long agitó su mano suavemente y luego usó sus pequeños ojos para escanear brevemente la situación en el pasillo. vio a Chen Mo, había un destello de emoción en sus ojos, caminó directamente hacia Chen Mo y corrió hacia él.
 
 Cuando Chen Mo vio que Wang Long se acercaba, ¡gritó en su corazón!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

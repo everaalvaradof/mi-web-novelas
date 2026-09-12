@@ -199,7 +199,3 @@ Zhang Ziqing dijo con voz fría.
 “No te preocupes por esto, todos somos personas civilizadas, definitivamente no haré demandas excesivas”
 
 Chen Mo sonrió y luego miró a Zhang Ziqing de arriba abajo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

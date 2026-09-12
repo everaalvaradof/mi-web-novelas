@@ -115,7 +115,3 @@ Chen Mo sintió que Lin Qingqian y Liu Jin deberían trabajar juntos dentro y fu
 En ese momento, la provincia de Tianyuan, la provincia de Jiangnan y la isla de Hong Kong estarán controladas por el Grupo Huiding de Chen Mo. Estas dos provincias serán la garantía más beneficiosa de Chen Mo contra Xia Qingfeng.
 
 Al colgar el teléfono, Chen Mo siguió pensando en su mente a quién iba a traer a Magic City.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

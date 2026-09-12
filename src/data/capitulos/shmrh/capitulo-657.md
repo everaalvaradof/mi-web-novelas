@@ -111,7 +111,3 @@ Si el dinero realmente existe, Chen Mo cree que sería mejor entregárselo a Zho
 Ma Chi le dijo a Chen Mo: mirando amablemente.
 
 Cuando Chen Mo escuchó las palabras de Ma Chi, volvió la cabeza y miró a Ma Chi a la ligera, y luego preguntó sin comprender: “¿Crees que eres rico?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

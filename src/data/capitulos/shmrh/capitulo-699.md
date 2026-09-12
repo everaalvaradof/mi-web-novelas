@@ -129,7 +129,3 @@ Y Sun Yuqing se giró directamente para mirar la posición de Liu Yingying.
 “Querido, este es Yuqing, mi buen amigo”
 
 Liu Yingying caminó hacia el lado de Sun Yuqing, levantó a Sun Yuqing y dijo sin expresión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -209,7 +209,3 @@ La bala no penetró el brazo de Chen Mo, simplemente lo limpió, así que inclus
 Toda la cabina se convirtió instantáneamente en un desastre.
 
 Los gritos eran interminables.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

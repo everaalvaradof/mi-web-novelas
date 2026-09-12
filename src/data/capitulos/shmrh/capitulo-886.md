@@ -125,7 +125,3 @@ Así que Chen Mo solo puede hablar después de comer y tener fuerzas para irse a
 Después de más de diez minutos, trajo vigorosamente un tazón de fideos a Chen Mo.
 
 Chen Mo tenía algo de fuerza en ese momento, por lo que de mala gana se comió todos los fideos él solo y luego continuó descansando en la cama.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

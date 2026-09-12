@@ -111,7 +111,3 @@ Más de diez minutos después, Chen Mo recibió un mensaje de texto de Li Junche
 Después de que Chen Mo vio el mensaje de texto, simplemente se lavó y luego corrió al hotel con Zhao Lei.
 
 En cualquier caso, Chen Ou no verá a Gu Linger casarse con un tonto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

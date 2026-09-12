@@ -109,7 +109,3 @@ En este momento, Gu Yuanhong solo puede poner todas sus esperanzas en Chen Mo so
 Después de que Chen Mo salió del hospital, no se apresuró a tratar con la familia Tang, ni eligió regresar con la familia Chen, sino que regresó solo al hotel.
 
 Chen Mo planea volver mañana con la familia Chen. En cuanto al asunto de la familia Tang, Chen Mo no se lo toma en serio, porque si quiere tratar con una pequeña familia Tang, será muy fácil.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -127,7 +127,3 @@ Chen Mo sintió como si lo hubiera atropellado un camión en este momento, y la 
 Y Luo Qiu cayó de los brazos de Chen Mo en este momento.
 
 Chen Mo luchó por ponerse de pie con todas sus fuerzas y luego abrazó a Luo Qiu.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

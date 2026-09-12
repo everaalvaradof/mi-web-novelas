@@ -93,7 +93,3 @@ Sun Miao miró a Chen Mo y preguntó.
 “Puedo comprar esta villa hoy, pero como Wang Yaoyao acaba de decir que si no tengo el dinero para comprar esta villa, ella elige renunciar, pero si compro esta villa, tú deberías… debería hacer?” Chen Mo miró a Sun Miao y preguntó.
 
 Sun Miao se sorprendió cuando escuchó las palabras de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

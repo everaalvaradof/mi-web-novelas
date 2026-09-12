@@ -101,7 +101,3 @@ Esta es la primera vez que Chen Mo Capítulo observa a esta mujer sexy tan de ce
 Chen Mo no esperaba que la Secta Tianshan tuviera una discípula tan hermosa.
 
 La parte superior del cuerpo de la mujer sexy es una chaqueta de cuero ajustada para mujer. Los picos dobles en el pecho son altos, lo que da la sensación de estar lista para salir, mientras que la parte inferior del cuerpo es un par de pantalones ajustados. pantalones de cuero, y las piernas esbeltas se delinean en los pantalones de cuero La parte inferior es anormalmente recta, y las nalgas también delinean un arco muy encantador. Una delicada cara de semilla de melón se combina con hermosos rasgos faciales, y un largo cabello azul claro agrega un un poco de encanto para Rao Yao.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

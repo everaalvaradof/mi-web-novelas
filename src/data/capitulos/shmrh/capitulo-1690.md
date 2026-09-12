@@ -129,7 +129,3 @@ Unos segundos después, Qin Yibing llegó a la puerta y la abrió.
 Después de ver a Qin Yibing, Chu Lan le dio un fuerte abrazo a Qin Yibing.
 
 Y Qin Yibing obviamente estaba perdido, y tartamudeó a Chu Lan y le preguntó: “Chu Lan, ¿no estás en el extranjero? ¿Cómo llegaste a la capital mágica? ¿Y cómo supiste que yo?” ¿Estoy aquí?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

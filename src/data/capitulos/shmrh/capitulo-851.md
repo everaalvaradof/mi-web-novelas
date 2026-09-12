@@ -105,7 +105,3 @@ Las personas presentes quedaron estupefactas nuevamente después de escuchar est
 Li Bufan abrió la boca para seguir hablando cuando de repente vio que la puerta del palco se abría, Chen Mo y Ning Tao Los dos entraron en la caja.
 
 Cuando Li Bufan vio a Chen Mo, quedó atónito al instante.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

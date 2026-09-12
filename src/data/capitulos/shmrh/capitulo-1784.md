@@ -175,7 +175,3 @@ Julei Dan y Chen Mo’s Borrowing God Pill son en realidad lo mismo, lo que pued
 Originalmente, Wang Tao y Zhou Yu estaban listos para ayudar, pero cuando vieron que Sun Chuang se había comido Juleidan, abandonaron la idea.
 
 Pronto, truenos y relámpagos comenzaron a aparecer alrededor del cuerpo de Sun Chuang, dando a las personas la sensación de estar electrocutados. La electricidad fluía en el cuerpo de Sun Chuang como sangre.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

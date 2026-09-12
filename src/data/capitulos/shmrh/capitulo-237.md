@@ -119,7 +119,3 @@ Después de escuchar las palabras de Su Mubai, los ojos de Chen Mo brillaron un 
 En realidad, ya había adivinado que el jarrón en el hotel no debería ser barato, pero dado que Sun Kai quería entrometerse en sus propios asuntos, Chen Mo, naturalmente, no diría mucho. Quería que Sun Kai pagara un precio por fingir.
 
 Pero en este momento, Sun Kai no resolvió el problema del jarrón, lo que significa que el valor del jarrón debe exceder la tolerancia de Sun Kai, por lo que Chen Mo dudaba un poco en su corazón si debía presentarse. ayudar.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

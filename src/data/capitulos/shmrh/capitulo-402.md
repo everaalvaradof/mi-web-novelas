@@ -103,7 +103,3 @@ Wei Donghe revisó el contrato en su mano, y después de confirmar que no había
 Cuando todos escucharon las palabras de Wei Donghe, quedaron estupefactos de nuevo.
 
 ¡Quién hubiera pensado que en menos de unos minutos cambiaron al jefe!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

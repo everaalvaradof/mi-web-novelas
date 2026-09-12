@@ -151,7 +151,3 @@ Ye Xian’er parecía increíble.
 “¿Cuánto sabes sobre este Bu Jingzhi?”
 
 Chen Mo volvió la cabeza para mirar a Ye Xian’er y le preguntó suavemente a Ye Xian’er.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

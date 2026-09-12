@@ -199,7 +199,3 @@ El mesero caminó frente a Chen Mo y le preguntó suavemente a Chen Mo.
 El mesero llevó a Chen Mo directamente a una caja.
 
 Después de entrar en la caja, Chen Mo descubrió que Zhang Ziqing estaba dentro. En ese momento, Zhang Ziqing estaba jugando con el juego de té en la mano.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

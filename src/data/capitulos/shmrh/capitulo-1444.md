@@ -131,7 +131,3 @@ Chen Mo dijo con calma.
 “Si no te hubiera mentido, ¿realmente me darías el antídoto?”
 
 Después de dudar un momento, Tian Haixi le preguntó a Chen Mo en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

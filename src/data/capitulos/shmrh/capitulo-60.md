@@ -121,7 +121,3 @@ Pero después de leer todos los materiales, Chen Mo se sorprendió al descubrir 
 “Entonces, ¿por qué no es la persona que estoy buscando?”
 
 Chen Mo miró la información en su mano y murmuró con una expresión de perplejidad.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

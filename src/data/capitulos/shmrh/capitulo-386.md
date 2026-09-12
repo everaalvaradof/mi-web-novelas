@@ -89,7 +89,3 @@ Chen Mo se quedó allí y dudó durante dos segundos, luego dijo en voz baja: �
 “¿Dejo que tú lo resuelvas?”
 
 Xu Yan se congeló en su lugar después de escuchar las palabras de Chen Mo, con una expresión muy perpleja en su rostro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

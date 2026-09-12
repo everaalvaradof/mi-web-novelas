@@ -141,7 +141,3 @@ Ren Bin miró a Chen Mo y respiró hondo, y luego le contó todo a Chen Mo.
 La historia de lo que sucedió en realidad es similar a lo que dijo Zhang Yi, pero solo anoche, Niu Fei llevó a la gente a Ren Bin y su dormitorio y golpeó a Ren Bin y a los tres. ¡Entonces apareció la policía!
 
 Chen Mo tembló de ira después de saber lo que pasó, porque sintió que este Niu Fei estaba un poco engañando.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

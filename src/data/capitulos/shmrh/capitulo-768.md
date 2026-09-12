@@ -107,7 +107,3 @@ Los ojos de todos los presentes cambiaron cuando vieron a Chen Mo. Estas persona
 Por un momento, todos los presentes se quedaron en silencio.
 
 ¡En este momento, se puede considerar que estas personas han conocido a personas realmente ricas!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

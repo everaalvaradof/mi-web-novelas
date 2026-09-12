@@ -179,7 +179,3 @@ Después de que Elina entró en el pasillo, miró a todos con una leve sonrisa.
 “Sí, señorita Elina, falta media hora para que comience la subasta, ¡así que no llega tarde!”
 
 Las personas presentes hablaron en sucesión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

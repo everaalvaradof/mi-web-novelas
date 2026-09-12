@@ -103,7 +103,3 @@ Chen Mo miró la cara bonita y atractiva de Wen Ruoxi, y la expresión de su ros
 En este momento, Wen Ruoxi miró a Chen Mo y continuó.
 
 Después de que Chen Mo escuchó las palabras de Wen Ruoxi, quedó atónito al instante y miró a Wen Ruoxi frente a él con una expresión increíble.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

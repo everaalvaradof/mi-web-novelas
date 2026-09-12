@@ -119,7 +119,3 @@ Li Haoran respiró hondo y luego dijo sin expresión: “Chen Mo, estaba equivoc
 Chen Mo preguntó a la ligera.
 
 El rostro de Li Haoran estaba extremadamente enojado, pero aun así apretó los dientes y dijo: “Realmente sé que estoy equivocado, espero que puedas ignorar a los villanos y dejar que ve. Pásame”.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

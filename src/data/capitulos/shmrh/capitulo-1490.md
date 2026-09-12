@@ -131,7 +131,3 @@ Después de escuchar esta oración, el hombre de mediana edad mostró un rastro 
 “Sí, si tienes pastillas medicinales, ¡también puedes tomarlas!”
 
 Otros siguieron su ejemplo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

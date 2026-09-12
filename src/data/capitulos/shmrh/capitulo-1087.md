@@ -119,7 +119,3 @@ Chen Mo miró a Li Taibai y dudó durante dos segundos, luego apretó los diente
 Li Cuando Taibai escuchó las palabras de Chen Mo, miró a Chen Mo con impotencia y luego susurró: “¿Qué quieres hacer con Samsara Dan?”
 
 Chen Mo vio que la actitud de Li Taibai había cambiado, y rápidamente puso el asunto de Su Mubai sobre la mesa y le dijo a Li Taibai uno por uno.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

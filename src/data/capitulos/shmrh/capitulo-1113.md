@@ -107,7 +107,3 @@ En este momento, muchos guerreros en el salón ya habían reconocido la identida
 Había dos personas detrás del élder Wang, una de ellas era Wen Wangchuan de la familia Wen y la otra era Wen Zhenhai.
 
 Debes saber que el llamado Anciano Wang tiene un estatus muy alto en el Valle Brumoso, por lo que incluso Wen Wangchuan trata al Anciano Wang con mucho respeto, y los guerreros en el salón, naturalmente, no necesitan haberlo dicho. eso, tomaron la iniciativa de saludar al élder Wang.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

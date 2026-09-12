@@ -123,7 +123,3 @@ Chen Mo, Meng Liang y Liu Rui conversaron casualmente durante unos minutos, al v
 Pero justo cuando Chen Mo se levantó, su teléfono celular sonó de repente.
 
 Chen Mo se quedó atónito por un momento, luego sacó su teléfono móvil y lo miró, ¡y descubrió que la persona que llamaba a Chen Mo no era otra que su propia prometida, Su Mubai!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

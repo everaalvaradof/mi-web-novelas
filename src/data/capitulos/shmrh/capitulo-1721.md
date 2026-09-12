@@ -183,7 +183,3 @@ Zhang Ziqing de repente le preguntó a Chen Mo con frialdad. voz.
 “¿Qué quieres decir con eso?”
 
 Preguntó Chen Mo con el ceño fruncido.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

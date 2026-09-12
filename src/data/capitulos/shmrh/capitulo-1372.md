@@ -113,7 +113,3 @@ En este momento, todavía había muchos invitados entrando al lugar, y estas per
 “Tienes razón, ¿qué pasa si hay dos estrellas femeninas del lado de Chen Mo? Ahora, mientras las personas con ojos perspicaces puedan verlo, es más animado aquí”
 
 dijo Jiang Qiwei en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

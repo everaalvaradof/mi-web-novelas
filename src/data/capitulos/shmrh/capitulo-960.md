@@ -101,7 +101,3 @@ Chen Mo miró a Gu Yuanhong frente a él, respiró hondo y no siguió preguntand
 Pero Gu Yuanhong no lo dijo, eso no significa que Chen Mo no pudiera investigar.
 
 Chen Mo solo necesita llamar a Li Juncheng ahora, y todo lo relacionado con Gu Ying puede ser investigado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

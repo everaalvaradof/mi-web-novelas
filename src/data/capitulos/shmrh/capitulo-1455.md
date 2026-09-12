@@ -133,7 +133,3 @@ Por supuesto, todos los hermanos menores traídos por Zhang Yan conocían a Zhao
 “¿Cómo es posible? Esta mujer realmente conoce a Zhao Qingquan. ¿Quién es ella?”
 
 An Xiaowu también suspiró con sus grandes ojos llorosos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

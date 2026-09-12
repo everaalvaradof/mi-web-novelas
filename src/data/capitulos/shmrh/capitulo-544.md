@@ -131,7 +131,3 @@ Chen Mo asintió levemente.
 Yan Ella le preguntó a Chen Mo de repente.
 
 Chen Mo se quedó atónito cuando escuchó las palabras de Yan She.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

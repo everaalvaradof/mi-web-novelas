@@ -191,7 +191,3 @@ La mayor preocupación de Chen Mo ahora puede ser la seguridad de Chu Lan.
 Bill asintió, luego le dijo a la persona que estaba a su lado: “¡Trae a esa mujer aquí!”
 
 Los hombres de Bill estuvieron de acuerdo, luego dieron media vuelta y entraron al almacén.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -99,7 +99,3 @@ Obviamente, Vulture también estaba muy interesado en Luo Qiu.
 Hu Zi sonrió feliz después de escuchar esto, y luego continuó entrecerrando los ojos a la salida del hotel.
 
 Matar a Chen Mo y pasar una buena noche con una belleza como Luo Qiu hizo que Hu Zi se sintiera excitado con solo pensar en ello.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

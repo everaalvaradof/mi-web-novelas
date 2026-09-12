@@ -111,7 +111,3 @@ Li Zixi dudó. No puedo evitar girar la cabeza para mirar a Chen Mo.
 “Oh, ¿cuánto tiempo han estado con nosotros la hermana Xixi y Chen Mo? Puedes hablar de cualquier cosa, tal vez los dos podamos ayudarte a encontrar una manera, no es tan malo que sigas evitándolo. ¡Qué pasa!”
 
 Xu Weiwei frunció el ceño y le gritó a Li Zixi.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

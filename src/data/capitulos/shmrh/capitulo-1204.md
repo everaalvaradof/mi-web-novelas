@@ -95,7 +95,3 @@ Chen Mo tenía un poco de hambre, así que se acercó a la mesa para buscar algo
 Pero en este momento, solo estaba Chen Mo frente a la mesa, y los demás parecían no estar interesados ​​en la comida en absoluto. Después de todo, todos vinieron aquí por negocios serios, no por comida en absoluto. todos.
 
 Jiang Qiwei, que estaba charlando con Su Bai, Zhao Ziqian y otros, vio a Chen Mo que estaba comiendo de un vistazo, y había un toque de crueldad y desdén en sus ojos, y luego caminó directamente hacia Lado de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

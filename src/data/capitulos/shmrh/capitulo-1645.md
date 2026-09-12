@@ -117,7 +117,3 @@ Ren Jian lo miró fijamente y le gritó a Chen Mo en un tono muy sorprendido.
 “Pelea, ¿qué puedes hacer?”
 
 Chen Mo miró a Ren Jian y preguntó con indiferencia.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

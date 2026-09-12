@@ -107,7 +107,3 @@ Zhang Wei le preguntó suavemente a Chen Mo.
 “Entonces, ¿tienes amigos en la isla de Hong Kong? Si no tienes amigos, puedes contratarme como guía turístico, siempre y cuando proporciones comida y alojamiento”
 
 Zhang Wei miró a Chen Mo y continuó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

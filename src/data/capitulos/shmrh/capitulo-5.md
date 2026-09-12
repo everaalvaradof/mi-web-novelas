@@ -163,7 +163,3 @@ Esto equivale a gastar más de 50.000 yuanes. La expresión del rostro de Li Kai
 Chen Mo se giró para mirar a Li Kai y preguntó en voz baja.
 
 “Jeje, ¿por qué me siento mal? ¡No son más que decenas de miles de dólares, una bagatela!”, tartamudeó Li Kai, y luego miró su teléfono de vez en cuando, como si estaba a punto de empezar ¡Encuentra a alguien que te preste dinero!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

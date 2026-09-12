@@ -117,7 +117,3 @@ En este momento, Su Bai ha renunciado por completo a la idea de tratar con Chen 
 Y Chen Mo no tenía tiempo para preocuparse por estas cosas, porque puso toda su atención en Li Taibai y Zheng Qiankun.
 
 ¡Chen Mo sabe que esta espada es la clave de la batalla!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

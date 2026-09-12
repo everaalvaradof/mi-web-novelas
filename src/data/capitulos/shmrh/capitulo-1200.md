@@ -135,7 +135,3 @@ Chen Mo le preguntó a Liu Xuanxuan en voz baja.
 “No, mi padre dijo que Feng Xing está a cargo de este asunto, ¡y el comerciante de plata otorga gran importancia a este club!”
 
 Liu Xuanxuan respondió directamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

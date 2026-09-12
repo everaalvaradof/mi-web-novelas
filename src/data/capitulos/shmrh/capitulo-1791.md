@@ -201,7 +201,3 @@ Chen Mo miró a la hermosa chica frente a él con una pizca de perplejidad, porq
 “Fangze, ¿por qué no vuelvo con ustedes dos, así puedo proteger su seguridad?”
 
 Un joven se acercó a Lu Fangze y le dijo suavemente a Lu Fangze.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

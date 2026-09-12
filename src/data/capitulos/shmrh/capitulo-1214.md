@@ -125,7 +125,3 @@ Chen Mo asintió directamente.
 Chu Lan vio que Chen Mo había aceptado, un destello de orgullo brilló en sus ojos, y luego rápidamente giró la cabeza y le dijo a Qin Yibing: “Bingbing, apúrate y trae el contrato, quiero firmar un contrato con Chen Mo”
 
 Qin Yibing asintió, luego se dio la vuelta y comenzó a preparar el contrato.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

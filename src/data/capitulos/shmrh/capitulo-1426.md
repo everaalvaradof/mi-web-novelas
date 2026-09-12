@@ -123,7 +123,3 @@ dijo Su Muyu con una cara perpleja.
 Zhao Yan también tuvo la misma idea en este momento, sintió que Chen Mo no podía amenazarlo en absoluto.
 
 Y Chen Mo estaba desconcertado después de escuchar la conversación entre los dos, frunció el ceño y le preguntó a Tang Qingqing: “Hermana Qingqing, ¿de qué están hablando ustedes dos? ¿Qué diablos me trajiste aquí?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

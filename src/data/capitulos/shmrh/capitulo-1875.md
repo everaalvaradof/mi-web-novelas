@@ -173,7 +173,3 @@ Chen Mo dijo suavemente.
 Yan She susurró a Chen Mo, luego se dio la vuelta y salió de la habitación.
 
 Unos minutos después, Yan She llevó a Aung San ya los demás a la habitación de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

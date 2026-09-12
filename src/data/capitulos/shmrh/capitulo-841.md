@@ -123,7 +123,3 @@ Ning Tao se quedó estupefacto cuando vio esos coches de lujo conducidos por Su 
 El Mercedes-Benz de Ning Tao se colocó frente a estos autos, era un poco demasiado bajo.
 
 Incluso los ojos de Qi Ya brillaron un poco extraños, porque no esperaba que estos amigos de Chen Mo fueran tan ricos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

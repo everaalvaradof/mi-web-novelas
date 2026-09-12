@@ -99,7 +99,3 @@ Su Muyu miró a Bai Xue cuando escuchó esto, pero sabía que no podía vencer a
 En este momento, la dama de bienvenida gritó repentinamente.
 
 Su Lieheng dejó escapar un largo suspiro cuando escuchó estas palabras y luego susurró: “¡Esta vez es real!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -101,7 +101,3 @@ Chen Mo preguntó con frialdad.
 “¡Entendido, Sr. Chen!”
 
 Todos se sorprendieron por las palabras de Chen Mo y respondieron rápidamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

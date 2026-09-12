@@ -119,7 +119,3 @@ Preguntó Li Juncheng con tono de sorpresa.
 Chen Mo respondió a la ligera.
 
 Y Li Juncheng al otro lado del teléfono preguntó en voz baja después de dudar por un momento: “Entonces Maestro Chen, ¿qué puedo hacer por usted ahora?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

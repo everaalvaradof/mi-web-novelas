@@ -87,7 +87,3 @@ Pero Chen Mo solo miró a Xu Weiwei y asintió suavemente. Después de todo, est
 Después de escuchar esto, Li Zixi suspiró con impotencia, luego se mordió los dientes plateados y dijo en voz baja: “Ya he seguido estos asuntos. Mi padre lo dijo, y Le pedí especialmente a alguien que investigara la información de Zhao Ziyi, pero mi padre no parecía haberla visto. Dijo que toda esta información era falsa. Sé que mi padre y mi abuelo también conocen a la persona de Zhao Ziyi. pero no hay De hecho, ¡mi abuelo solo quería que me casara con Zhao Ziyi!”
 
 “¿Por qué?” Xu Weiwei realmente no tenía forma de entender estos comportamientos de la familia Li.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

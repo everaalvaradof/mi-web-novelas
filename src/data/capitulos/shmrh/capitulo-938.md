@@ -107,7 +107,3 @@ Su Bai dudó un momento y luego dijo lentamente.
 “¿Tiene antecedentes?”
 
 Su Bai se quedó atónito por un momento, una pizca de confusión brilló en sus ojos y luego frunció el ceño y dijo: “¿Qué antecedentes tiene este Chen?” Mo tener?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

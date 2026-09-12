@@ -123,7 +123,3 @@ Qiao Ying frunció el ceño y regañó.
 Después de escuchar las palabras de Qiao Ying, todos cerraron la boca obedientemente y escucharon en silencio.
 
 Aunque la canción de Chen Mo no es una experiencia, es muy suave y puede traer las emociones de las personas, como si estuviera contando una historia.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -147,7 +147,3 @@ Chen Mo dijo emocionado.
 “¡No te preocupes, dejaré este asunto a mí!”
 
 Chu Lan respondió con una sonrisa, y luego continuó: “Sucedió que quería salir por un caminar durante este tiempo. Yo me encargaré de eso por ti”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

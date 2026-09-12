@@ -195,7 +195,3 @@ Chen Mo no tenía nada que hacer más que cerrar los ojos y descansar.
 Cuando Chen Mo volvió a abrir los ojos, habían pasado más de tres horas.
 
 Chen Mo instintivamente giró la cabeza para mirar a Su Mubai y descubrió que Su Mubai todavía estaba trabajando.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

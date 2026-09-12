@@ -141,7 +141,3 @@ Ma Tianshi dijo a la ligera.
 En este momento, Chen Mo gritó repentinamente, y luego estiró la mano y abrazó el delgado cuerpo de Luo Qiu. cuerpo La cintura suave abraza a Luo Qiu en sus brazos.
 
 Todos estaban alborotados cuando vieron esta escena, y los ojos y la boca de todos se abrieron como platos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

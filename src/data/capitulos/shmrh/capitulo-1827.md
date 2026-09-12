@@ -185,7 +185,3 @@ Pero Zhao Wenzhuo sintió que algo andaba mal, extendió la mano para detener a 
 “Realmente no tengo acciones en el Grupo Zhao ahora, y no tengo ningún puesto, pero espera. Después de que termine esta reunión de la junta, no será seguro”.
 
 Zhao Yiwen respondió a Zhao Wenzhuo sin expresión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

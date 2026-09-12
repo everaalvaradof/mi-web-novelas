@@ -99,7 +99,3 @@ Chen Mo volvió la cabeza y miró a Fu Yao, y respondió suavemente.
 “Así es, Sr. Chen, ella es la famosa Shu Ziyu, su abuelo es un hombre de negocios adinerado muy famoso en el sudeste asiático, y según la información que he investigado, parece que los materiales medicinales en el toda la ciudad de Yaoyuan es de Shu Ziyu. ¡Esta mujer Ziyu lo compró todo!”
 
 Fuyao respondió rápidamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

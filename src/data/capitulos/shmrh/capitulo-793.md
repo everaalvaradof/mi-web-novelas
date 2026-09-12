@@ -103,7 +103,3 @@ Chen Mo respondió a la ligera.
 “Comparado con su gracia salvadora, Sr. Chen, esto no es nada”
 
 Wang Baishi respondió rápidamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -109,7 +109,3 @@ Tang Ying se preguntó de dónde procedía la confianza de Chen Mo.
 Li Linger pareció vacilar y susurró algo a Chen Mo.
 
 Chen Mo escuchó esta oración, sonrió levemente y luego dijo sin comprender: “Quédate, recuerda, eres mi amigo de Chen Mo, así que de ahora en adelante, no importa lo que hagas bien o no. No lo harás”. ¡Necesito disculparme con alguien! ¡Porque estas personas no están calificadas para pedirte disculpas!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -93,7 +93,3 @@ Feng Xing se quedó atónito por un momento después de escuchar las palabras de
 Chen Mo le dijo a Feng Xing sin expresión.
 
 Feng Xing miró a Chen Mo de arriba abajo y luego dijo en voz baja: “¿Sabes que tu padre, Chen Yuanpeng, es de nuestro comerciante de plata?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -109,7 +109,3 @@ Un momento después, una figura salió de la cueva.
 ¡Pero lo que hace que todos se sientan increíbles es que el hombre en la cueva no es un gran monstruo, sino un anciano delgado con una altura de solo 1,6 metros!
 
 Después de ver al anciano, todos mostraron una expresión extraña y sus ojos estaban llenos de confusión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

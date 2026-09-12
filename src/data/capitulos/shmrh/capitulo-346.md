@@ -125,7 +125,3 @@ Chen Mo asintió levemente, luego continuó sentado en la silla en silencio, sin
 De todos modos, Chen Mo y Wang Liangyi ya están en un estado de hostilidad. Chen Mo siente que no hay necesidad de que finja ser una buena persona.
 
 Poco después, Wang Liangyi entró en la sala de conferencias. Cuando Wang Liangyi entró en la sala de conferencias, miró directamente a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

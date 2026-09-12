@@ -143,7 +143,3 @@ En ese momento, He Shishi finalmente supo de dónde provenía la confianza de Ch
 Luo Qiu miró a Chen Mo con grandes ojos llorosos. Estaba extremadamente sorprendido, y la forma en que miraba a Chen Mo también cambió mucho.
 
 ¡Luo Qiu descubrió que sabía muy poco sobre Chen Mo!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

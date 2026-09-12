@@ -117,7 +117,3 @@ El cuerpo de Jiang Qiwei no pudo ayuda, pero comienza a temblar un poco. Debido 
 Es solo que Jiang Qiwei nunca pensó que Chen Mo era en realidad Chen Gongzi.
 
 Este resultado hizo que Jiang Qiwei se desesperara un poco.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

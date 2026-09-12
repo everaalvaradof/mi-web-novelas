@@ -119,7 +119,3 @@ Y Chen Mo también tenía un poco de curiosidad acerca de quién era el jefe de 
 “Está bien, no te venderé nada. ¡Luego, le pediré al jefe de nuestro Tianyun Club que suba al escenario y les cuente a todos sobre la transferencia de nuestro club!”
 
 Qin Yibing Xiao Yingying gritó esta frase y luego tomó la iniciativa de retirarse al fondo del escenario.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

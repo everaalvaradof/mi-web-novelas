@@ -137,7 +137,3 @@ Jiang Feifei parecía estar aún más desconcertado en este momento.
 “¿Mil Su Bais no son tan buenos como un Chen Mo?”
 
 Después de que Jiang Feifei escuchó esto, se quedó completamente estupefacta.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

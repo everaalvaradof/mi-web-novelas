@@ -119,7 +119,3 @@ Unos minutos más tarde.
 Chen Mo y los demás finalmente llegaron al hotel. En este momento, había cuatro personas de mediana edad paradas en la puerta del hotel, dos de ellos eran los padres de Su Mubai y los otros dos eran Bai. Los padres de Xue.
 
 Las cuatro personas de mediana edad esperan con ansias que lleguen Su Mu, Bai Baixue y otros.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

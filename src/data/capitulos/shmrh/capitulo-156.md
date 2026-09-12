@@ -125,7 +125,3 @@ Después de decir esto, Yan She torció directamente su pequeño trasero y se ba
 Chen Mo sabía que Yan She debía estar escapando de sus propios problemas en este momento, así que se dio la vuelta y salió del bar. Sabía que la gente de Du Tianhao lo había estado esperando afuera del bar, y él estaba Voy a encontrar a Du Tianhao Pregunta por Yan She.
 
 Zhou Xuan es el hermano menor de Du Tianhao. Dado que Zhou Xuan puede conocer la identidad de Yan She, ¡entonces Du Tianhao también debe conocer la identidad de Yan She!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

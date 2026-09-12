@@ -111,7 +111,3 @@ Preguntó el hombre fuerte en voz baja. voz
 En este momento, la cara bonita de Gao Feifei estaba llena de escritura Temía, tartamudeó. espalda.
 
 El hombre fuerte no pudo evitar burlarse cuando escuchó esto, y luego dijo sin comprender: “¿Estás seguro de que cobrarás este dinero después de un tiempo? Gao Feifei, ¿Cuántas veces me has dicho esta frase? ¿Cuánto tiempo te he dado? Pero ¿dónde está tu dinero, dime?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

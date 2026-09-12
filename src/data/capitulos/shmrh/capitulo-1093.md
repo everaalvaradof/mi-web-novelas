@@ -95,7 +95,3 @@ Chen Mo miró a Guo Biao y sacudió la cabeza con impotencia.
 “Sí, la ciudad de Nanyang es tan grande que es muy normal que no se conozcan”
 
 Guo Biao perdió interés en Chen Mo inmediatamente después de ver que Chen Mo no conocía a Chen Gongzi, y luego comenzó a hablar con Wan Los dos conversaron, pero la mayor parte de la conversación no tenía nada que ver con los artistas marciales. Hablaban sobre cuánto dinero ganaron y cuánto dinero ganaron.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

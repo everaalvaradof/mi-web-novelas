@@ -105,7 +105,3 @@ Porque los Tigres siguen siendo muy famosos, aunque la escala de los Tigres no e
 “Y el padre de Sun Chuan también es el comandante de cierta región militar”
 
 En ese momento, Li Haoran continuó hablando.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

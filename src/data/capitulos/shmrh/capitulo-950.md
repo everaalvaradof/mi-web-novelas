@@ -105,7 +105,3 @@ Y Hua Xiaowu estaba sentada frente a la mesa mirando la computadora portátil fr
 Después de dudar un momento, Zhao He, afuera de la puerta, le recordó suavemente a Hua Xiaowu.
 
 Después de escuchar las palabras de Zhao He, Hua Xiaowu levantó lentamente la cabeza y miró a Chen Mo, luego se puso de pie y le dijo a Chen Mo con una sonrisa: “¡Joven maestro Chen, hola!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

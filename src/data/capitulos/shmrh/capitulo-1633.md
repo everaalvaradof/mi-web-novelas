@@ -117,7 +117,3 @@ Pero ahora que sucedió, es inútil que se arrepienta.
 “Está bien, si no tienes nada que hacer, solo vete, ¡debería descansar!”
 
 Yan Niancheng le dijo a Chen Mo con voz cansada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

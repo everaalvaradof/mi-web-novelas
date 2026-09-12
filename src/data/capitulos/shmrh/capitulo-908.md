@@ -135,7 +135,3 @@ En este momento, una chica dijo con una sonrisa.
 “Lo que dije es verdad, esa persona parece ser un estudiante de segundo año”
 
 Todos comenzaron a hablar.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

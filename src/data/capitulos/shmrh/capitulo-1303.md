@@ -123,7 +123,3 @@ Chen Mo entendió de inmediato lo que Yan She quiso decir después de escuchar l
 Yan Ella asintió levemente y luego continuó: “El abuelo de Shen Lingdie es la última provincia de la provincia de Tianyuan. Miembro del Comité Permanente, y el tío de Shen Lingdie es el vicegobernador de la provincia de Tianyuan, así que si puedes conseguir a Shen Lingdie y dejar que el tío de Shen Lingdie asista a tu ceremonia de apertura, el efecto definitivamente será mejor que el que tú y yo encontramos. ¡Esas personas son mucho más fuertes!”
 
 Chen Mo no pudo evitar respirar hondo después de escuchar esto, y la expresión en su rostro también estaba muy sorprendida.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

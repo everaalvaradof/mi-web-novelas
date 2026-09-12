@@ -95,7 +95,3 @@ Shi Xinxin dijo en voz baja.
 Wang Shuo miró a Shi Xinxin frente a él, una mirada extraña brilló en sus ojos, porque en ese momento finalmente entendió por qué Shi Xinxin lo llamó.
 
 Wang Shuo parpadeó con sus ojos de soya. Sintió que este asunto también era bueno para él, así que le preguntó suavemente a Shi Xinxin: “¿Estás seguro de que este chico es un estudiante de nuestra Universidad de Nanyang? ¿No es así? eso?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

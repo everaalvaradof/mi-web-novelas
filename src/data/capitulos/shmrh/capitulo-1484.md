@@ -123,7 +123,3 @@ Y Zuo Qingna no habló.
 “¡Los llamé a los tres aquí hoy para preguntarles qué quieren decir y ver si los tres tienen alguna buena manera de lidiar con este Chen Mo!”
 
 An Zhenbei habla una vez más arriba.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

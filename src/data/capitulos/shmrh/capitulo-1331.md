@@ -121,7 +121,3 @@ dijo Chen Mo con una sonrisa.
 Qiao Ying miró a Chen Mo y dudó durante dos segundos, luego dijo en voz baja: “¡Si no puedes hacerlo, ve a cantar conmigo!”
 
 Chen Mo no pudo evitar quedarse atónito cuando escuchó las palabras de Qiao Ying, luego frunció el ceño y dijo: “Qué, canto desafinado, ¿estás seguro de que quieres que cante?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

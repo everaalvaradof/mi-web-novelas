@@ -113,7 +113,3 @@ Liu Liu le preguntó a Chen Mo muy desconcertado.
 “Por supuesto que no nos quedaremos aquí, ¡pero tienes que quedarte aquí!”
 
 Chen Mo miró a Liu Liu con calma y dijo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -113,7 +113,3 @@ Después de ver que Chen Mo estaba de acuerdo, Bai Zhibing decidió irse sin siq
 Pero antes de que Chen Mo y Bai Zhibing caminaran hacia la puerta del salón, Zhao Ziqian lo persiguió y le gritó a Chen Mo.
 
 Después de escuchar esto, los ojos de Bai Zhibing brillaron con desesperación, sin saber cómo intentarlo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -113,7 +113,3 @@ Como si todos los presentes nunca hubieran imaginado que el poder de combate del
 ¡Por supuesto, la persona que estaba más sorprendida en este momento era el propio Ma Chi!
 
 La expresión en el rostro de Ma Chi era muy fea en este momento, porque nunca pensó que Sun Tao realmente había derrotado a Wang Qichuan.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

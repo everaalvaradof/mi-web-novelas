@@ -91,7 +91,3 @@ Dijo Li Juncheng rápidamente.
 Chen Mo no pudo evitar quedarse atónito cuando escuchó lo que dijo Li Juncheng y preguntó con un tono desconcertado.
 
 Él no sabe nada sobre este club del emperador en absoluto. Si no fuera por Li Juncheng para hablar de eso, ni siquiera sabría que existe tal club.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

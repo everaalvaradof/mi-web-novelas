@@ -105,7 +105,3 @@ Qiao Ying vio que algo andaba mal. Estaba insatisfecha en este momento porque Ch
 “Liu Ziyang, olvídate de esto, ¡simplemente encontraré a otro transeúnte!”
 
 Qiao Ying le dijo apresuradamente a Liu Ziyang.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

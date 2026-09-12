@@ -10,8 +10,8 @@ const {
     image = "/logo.png" 
 } = Astro.props;
 
-// 1. Contar géneros
-const conteoGeneros = {};
+// 1. Contar géneros con tipado explícito para evitar errores TS7053
+const conteoGeneros: Record<string, number> = {};
 novelas.forEach(n => {
     if (n.genero) {
         n.genero.split(',').forEach(g => {
@@ -21,8 +21,8 @@ novelas.forEach(n => {
     }
 });
 
-// 2. Contar categorías
-const conteoCategoria = {};
+// 2. Contar categorías con tipado explícito
+const conteoCategoria: Record<string, number> = {};
 novelas.forEach(n => {
     if (n.categoria) {
         const cat = n.categoria.trim();
@@ -89,7 +89,6 @@ novelas.forEach(n => {
         </nav>
 
         <form action="/buscar" method="GET" class="search-box">
-           
             <button type="submit">🔍</button>
         </form>
     </header>
@@ -141,7 +140,7 @@ novelas.forEach(n => {
         <slot />
     </main>
 </div>
-<script async="async" data-cfasync="false" src="https://pl30413545.profitableratecpmnetwork.com/9f5e4e1f3685f92f4df5369edba41eea/invoke.js"></script> <div id="container-9f5e4e1f3685f92f4df5369edba41eea"></div>
+
     <footer class="main-footer">
         <div class="footer-content">
             <p>© 2026 Novelas Ligeras - Tu portal de novelas ligeras.</p>

@@ -159,7 +159,3 @@ Chen Mo también pareció notar a Ming Mei que estaba parada a su lado, y pregun
 “Chen Mo, ¿puedo agregarte en WeChat?”
 
 Mingmei dudó un momento y dijo esta oración, lo que hizo que Chen Mo se sintiera amargamente a gusto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

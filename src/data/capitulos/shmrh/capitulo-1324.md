@@ -109,7 +109,3 @@ Qiao Ying explicó rápidamente.
 “¡Está bien, sé que debes estar usando maquillaje!”
 
 Xue Yuqi se rió y bromeó, luego giró la cabeza para mirar a Chen Mo inconscientemente, una pizca de sorpresa brilló en sus ojos. Luego, le preguntó a Qiao Ying con voz suave: “Ying Ying, ¿quién es este chico guapo? Creo que nunca lo había visto antes, ¡así que por favor danos una buena presentación!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

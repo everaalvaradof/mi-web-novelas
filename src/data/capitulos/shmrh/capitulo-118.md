@@ -147,7 +147,3 @@ Chen Mo, quien siempre ha sido considerado por todos como un pobre idiota que pu
 Diente por diente, ojo por ojo.
 
 La humillación de un día será devuelta multiplicada por diez.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

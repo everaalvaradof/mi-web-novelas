@@ -209,7 +209,3 @@ Chen Mo no entendía por qué la recepción simplemente no conocía a Li Junchen
 continuó preguntando Chen Mo.
 
 Xiao Chen negó con la cabeza directamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

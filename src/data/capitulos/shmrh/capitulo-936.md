@@ -97,7 +97,3 @@ Chen Mo miró a Ye Xueqi con impotencia, no dijo mucho y siguió a Ye Xueqi hast
 Pero cuando Chen Mo llegó a la puerta del hotel, de repente se dio cuenta de un problema muy serio.
 
 Es decir, ¡no tiene invitaciones!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

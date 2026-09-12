@@ -125,7 +125,3 @@ Hua Xiaowu miró a Chen Moyi Face y dijo con seriedad.
 Y Chen Mo no parecía pensar que Hua Xiaowu ya había visto a través de su propio propósito, estaba algo sorprendido, y después de estar en silencio durante dos segundos, dijo a la ligera: “Está bien, ya que la señorita Hua ha ya hablado. En este punto, tengo algunas cosas que necesito que hagas, mientras puedas hacer estas cosas bien, ¡puedo darte el proyecto!”
 
 Una pizca de impotencia brilló en los ojos de Hua Xiaowu, y en secreto suspiró que Chen Mo era realmente un poco codicioso, pero dijo con calma: “¡Joven maestro Chen, dímelo!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

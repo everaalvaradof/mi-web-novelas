@@ -131,7 +131,3 @@ Ye Xueqi respiró hondo y luego dijo inexpresivamente: “Está bien, ya lo sé,
 “¡Gracias, señorita Ye, gracias, señorita Ye!”
 
 El hombre de mediana edad escuchó las palabras de Ye Xueqi Después de esta oración, hubo un destello de emoción en sus ojos, y luego no quiso levantar directamente el cuerpo de su hermano, luego se dio la vuelta y salió corriendo de la habitación.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

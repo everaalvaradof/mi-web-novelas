@@ -113,7 +113,3 @@ La prometida de Li Gongzi en realidad hizo tal cosa con un hombre extraño en el
 Para ese momento, ¡la cara de Fan puede estar perdida!
 
 Después de todo, incluso si las dos familias, la familia Fan y la familia Li, tuvieran que mirar a toda China, eran una de las familias más grandes, por lo que el impacto de tal incidente fue muy aterrador.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

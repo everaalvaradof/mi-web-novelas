@@ -181,7 +181,3 @@ dijo Chen Mo a la ligera.
 “¿Discípulo del maestro de secta de la secta Beiyin?”
 
 Ouyang Fan quedó atónito después de escuchar las palabras de Chen Mo, y la expresión de su rostro era muy increíble.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

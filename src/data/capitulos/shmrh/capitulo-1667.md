@@ -115,7 +115,3 @@ Pero cuando Chen Mo y los demás salieron del vestíbulo del aeropuerto, todos e
 “Chen Chen Mo, ¿estos autos vienen a recogernos?”
 
 Ren Bin tartamudeó y le preguntó a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

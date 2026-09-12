@@ -105,7 +105,3 @@ Justo ahora, Wang Tianshi le dio el anillo a Liu Yingying frente a tanta gente. 
 Pero menos de una hora después, el anillo fue robado.
 
 Si este asunto se extiende, ¿no sería completamente deshonrado el rostro de Wang Tianshi?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

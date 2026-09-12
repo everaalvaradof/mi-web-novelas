@@ -113,7 +113,3 @@ Chen Mo negó con la cabeza sin pensar.
 Después de que todos vieron la actitud resuelta de Chen Mo, una pizca de impotencia brilló en sus ojos, porque podían sentir que a Chen Mo realmente no le faltaba dinero, y no había forma de impresionar a Chen Mo con dinero.
 
 Después de un tiempo, la gente alrededor de Chen Mo comenzó a disminuir.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

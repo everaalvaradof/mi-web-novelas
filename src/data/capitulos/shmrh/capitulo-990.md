@@ -87,7 +87,3 @@ En este momento, el resentimiento de Chen Mo hacia la familia Chen parece ser mu
 Y Chen Mo finalmente entendió por qué la actitud de Chen Lixin hacia sí mismo había cambiado tanto.
 
 Las acciones de Chen Lixin en el pasado no solo pueden proteger los intereses de la familia de Chen, sino también la seguridad de Chen Mo. Esta ya es la mejor opción, y Chen Mo no tiene intención de culpar a Chen Lixin.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

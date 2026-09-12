@@ -301,7 +301,3 @@ Esto también hizo que Shirya se sintiera un poco sorprendida.
 Es solo que Shirya aún no ha perdido por completo su efectividad en el combate.
 
 Una luz dorada envolvió el cuerpo de Shirya.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

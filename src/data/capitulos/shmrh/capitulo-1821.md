@@ -183,7 +183,3 @@ Chen Mo tomó la taza de té y la bebió Con un sorbo de té, dijo en un tono mu
 “¡Hermano Xu, es hora de que actúes!”
 
 Zhao Rongguang tranquilamente dejó la taza de té en su mano y gritó con una cara inexpresiva.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

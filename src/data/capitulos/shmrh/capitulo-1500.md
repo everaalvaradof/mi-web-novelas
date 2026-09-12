@@ -143,7 +143,3 @@ Jiang Xi repitió con una expresión de impotencia.
 “¡No te preocupes, ese Guan Yifan no puede ser mi oponente!”
 
 Dijo Chen Mo en un tono muy confiado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -149,7 +149,3 @@ Chen Mo no estaba de humor para hablar con Lin Qiushui, y finalmente tocó el bo
 Pero en este momento, el teléfono móvil dentro de la ropa de Chen Mo de repente sonó.
 
 Chen Mo y Lin Qiushui se congelaron al mismo tiempo después de escuchar el timbre del teléfono móvil.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

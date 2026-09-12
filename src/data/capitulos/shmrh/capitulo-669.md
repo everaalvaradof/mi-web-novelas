@@ -115,7 +115,3 @@ En este momento, solo Xu Yan y Zhou Yue conocían a Chen Mo, por lo que todos re
 Todos voltearon a mirar a Zhou Yue cuando escucharon esto.
 
 Zhou Yue vaciló por un momento y luego dijo en voz baja: “Solo conocí al Sr. Chen hoy y no sé mucho sobre el Sr. Chen, pero el Sr. Chen vino con las dos personas en el ring”. !”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

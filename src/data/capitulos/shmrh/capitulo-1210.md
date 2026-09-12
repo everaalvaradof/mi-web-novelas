@@ -119,7 +119,3 @@ Chen Mo dijo impotente.
 “Esta es la etiqueta básica de la clase alta. ¡Si no sabes bailar, se reirán de ti!”
 
 Dijo Chu Lan con seriedad.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -105,7 +105,3 @@ Shu Ziyu le gritó a Chen Mo en voz alta.
 “¡Lo siento, siempre he hecho este negocio!”
 
 Chen Mo miró a Shu Ziyu y sonrió.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

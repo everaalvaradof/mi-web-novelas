@@ -115,7 +115,3 @@ En este momento, algunos personajes grandes aparecieron repentinamente en la sal
 Seguido de la cuenta regresiva hasta las 60:00.
 
 Cuando llega este momento, comienza oficialmente el PK entre Wen Ruoxi y Qingqing.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

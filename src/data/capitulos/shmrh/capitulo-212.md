@@ -127,7 +127,3 @@ Chen Mo vaciló por un momento y preguntó a la ligera.
 He Cai respondió con una cara misteriosa, y luego caminó hacia adelante con Chen Mo.
 
 Y Chen Mo miró a He Cai con desdén, no hizo más preguntas y siguió adelante con He Cai.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -163,7 +163,3 @@ Qin Yibing le preguntó a Chen Mo con sus grandes ojos llorosos.
 “Sí, contacté a la hija de Zhao Xicheng, ¡el problema no debería ser un gran problema!”
 
 Dijo Chen Mo a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

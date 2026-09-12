@@ -145,7 +145,3 @@ Después de hablar, Xu Jiao y Gao Feifei arrastraron a Zhao An’an fuera del au
 Y después de dudar un rato, Li Kai siguió a algunas chicas fuera de la clase.
 
 Después de que Zhao An’an y los demás se fueran, Zhao Hongtao era el único que quedaba en la clase.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -93,7 +93,3 @@ Wang Xiaochuan sonrió con desdén después de escuchar las palabras de Zhao Ziy
 Después de que Zhao Ziyi se dio cuenta de que había dicho algo malo, rápidamente se inclinó profundamente ante Wang Xiaochuan y gritó en un tono muy respetuoso.
 
 Li Zixi y Li Baiqiang miraron fijamente la tarjeta de membresía en la mano de Wang Xiaochuan, por un momento no podían creer que lo que sucedió en ese momento fuera cierto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

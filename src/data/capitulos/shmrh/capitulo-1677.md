@@ -141,7 +141,3 @@ Es solo que Chen Mo todavía tiene muchas cosas que no puede entender. Según el
 Cuanto más pensaba Chen Mo en ello, más sentía que algo andaba mal.
 
 Pero, lamentablemente, ahora el carnicero ha perdido la memoria, por lo que Chen Mo no puede encontrar la respuesta en esta persona.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

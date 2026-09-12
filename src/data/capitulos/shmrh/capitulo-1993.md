@@ -317,7 +317,3 @@ Sin embargo, en este momento, la voz de Chen Mo sonó.
 Después de escuchar las palabras de Chen Mo, el rey Mei se dio cuenta de que Chen Mo podría atacar a Owen en cualquier momento, por lo que se apresuró a decirle a Chen Mo: “Sr. Chen, déjeme este asunto a mí. Resolvámoslo, después de todo”. tu propósito esta vez es tratar con el Señor de la Oscuridad, si revelas tu identidad ahora, ¡puede causarte algunos problemas innecesarios!”
 
 Chen Mo escuchó esta oración Después de hablar, miró al Rey Mei a la ligera. Sintió que lo que dijo el Rey Mei era muy razonable, por lo que no dijo mucho, solo asintió levemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

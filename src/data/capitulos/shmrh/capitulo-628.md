@@ -101,7 +101,3 @@ Su Mi asintió levemente y luego continuó: “No importa qué, Su Bai también 
 “Entonces, si quiero darle una lección a Su Bai, ¿qué vas a hacer?”
 
 Chen Mo se quedó atónito por un momento, luego le sonrió. Su Mi preguntó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -175,7 +175,3 @@ Pero quién hubiera pensado que Chen Mo ayudó a Wang Cheng sin darse cuenta, y 
 Es solo que incluso si Wangcheng murió, no completó su venganza contra el comerciante de plata.
 
 Y ahora este coraje ha caído sobre los hombros de Chen Mo. Chen Mo siente que aunque ha sido engañado, pase lo que pase, este es su destino. Estas cosas han estado condenadas desde hace mucho tiempo. quería escapar, los mercaderes de plata no lo dejaban ir.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

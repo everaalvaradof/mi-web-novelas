@@ -175,7 +175,3 @@ Zhou Xiong y Li Minghua miraron de mala gana a Chen Mo y no hablaron.
 “Está bien, casi he terminado con la comida de hoy. Gracias, jefe Zhou, por su hospitalidad. ¡Si hay algo en el futuro, los contactaré a ustedes dos!”
 
 Chen Mo eligió la comida a un lado La servilleta se limpió la boca y luego salió directamente del restaurante.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

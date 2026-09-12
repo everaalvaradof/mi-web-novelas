@@ -129,7 +129,3 @@ Chen Mo no pudo evitar congelarse por un momento.
 “Joven maestro Chen, ¿debe saber que Luo Qiu está en manos del presidente An en este momento?”
 
 Zuo Qingna miró a Chen Mo y preguntó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

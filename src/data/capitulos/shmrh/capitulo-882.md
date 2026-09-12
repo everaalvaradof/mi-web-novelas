@@ -123,7 +123,3 @@ Ning Tao de repente giró la cabeza para mirar a Chen Mo y le preguntó a Chen M
 Chen Mo respondió con una sonrisa.
 
 Ning Tao asintió levemente y no dijo nada más.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -135,7 +135,3 @@ Wei Jiaqi le gritó a Ming Mei con cierta confusión.
 Mingmei respondió con una expresión en blanco.
 
 Después de escuchar las palabras de Ming Mei, Wei Jiaqi se congeló en su lugar, con una expresión muy perpleja en su rostro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

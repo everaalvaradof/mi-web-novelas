@@ -143,7 +143,3 @@ Chen Mo preguntó después de estar atónito por un rato.
 Shui Ziyou sacudió suavemente la cabeza, luego se dio la vuelta y se fue.
 
 Los ojos de Chen Mo brillaron con una pizca de impotencia después de ver a Shui Ziyou irse, pero también sabía que Shui Ziyou no debería hacerle daño, y Chen Mo también tenía mucha curiosidad sobre la misteriosa persona que quería verlo. Así fue, así que extendió la mano y empujó la puerta para abrirla y entró en la habitación.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

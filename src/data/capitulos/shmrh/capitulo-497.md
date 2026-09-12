@@ -105,7 +105,3 @@ Su Mi miró a Chen Mo frente a ella y estaba a punto de hablar, pero no esperaba
 ¡Los labios de Chen Mo se besaron directamente en los labios de Su Mi!
 
 Su Mi sintió como si una corriente eléctrica recorriera su cuerpo. Un sentimiento sin precedentes recorrió el corazón de Su Mi. Sabes, este fue el primer beso de Su Mi, y no le gustaban los hombres en absoluto. Pero no he estado enamorado de una mujer, ¡así que no sé lo que es besar!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

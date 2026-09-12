@@ -125,7 +125,3 @@ Cuando Chen Mo vio la reacción de Gao Feifei, un rastro de confusión brilló e
 Se preguntó por qué Gao Feifei parecía ser una persona diferente en este momento ¿Podría ser que alguien instruyó a Gao Feifei en estos asuntos?
 
 De lo contrario, según el coeficiente intelectual de esta estúpida mujer, Gao Feifei, ¡nunca debería haber pensado en estas cosas!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

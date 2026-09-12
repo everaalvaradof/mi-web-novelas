@@ -119,7 +119,3 @@ Chen Mo miró a Yan She y luego preguntó con impotencia: “Entonces no puedes 
 “¿Todavía no? ¡Hora!”
 
 Yan Ella dijo a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

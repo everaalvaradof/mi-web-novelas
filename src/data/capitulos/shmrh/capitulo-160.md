@@ -111,7 +111,3 @@ Cuando Lin Qiushui vio el número en el teléfono, una mirada extraña brilló e
 Yan Ella simplemente arregló su ropa y dijo a la ligera.
 
 Lin Qiushui mostró una pizca de vacilación en sus ojos y finalmente presionó el botón de conexión para conectar el teléfono.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

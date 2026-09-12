@@ -145,7 +145,3 @@ Feng Xiao Leng suplicó con una expresión muy emocionada.
 “¡Hoy quiero ver quién tiene las agallas!”
 
 ¡Pero el aluvión de Chen Mo destruyó directamente todas las esperanzas en el corazón de Feng Xiao Leng!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

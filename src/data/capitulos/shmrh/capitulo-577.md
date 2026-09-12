@@ -83,7 +83,3 @@ Y Chen Mo sonrió levemente después de escuchar esta oración, y no continuó d
 Pero más tarde, Li Zixi también pensó que Chen Mo era el guardaespaldas de Li Juncheng y que debería haber visto muchas cosas importantes en el mundo, por lo que es normal no sorprenderse en este momento.
 
 Pero es posible que ella no sepa que tal villa no es una villa lujosa a los ojos de personas como Chen Mo. Comparada con el Palacio No. 1 de Chen Mo, esta villa es realmente demasiado insoportable para mencionarla.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

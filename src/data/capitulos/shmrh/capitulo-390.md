@@ -103,7 +103,3 @@ Xu Yan miró a Chen Mo frente a ella con grandes ojos llorosos, con una expresi�
 Zhang Guang le dijo a Chen Mo con una sonrisa.
 
 La expresión en el rostro de Pan Ying era muy tranquila en este momento, porque ella sabía que como Chen Mo dijo que él era el dueño del auto, entonces Chen Mo debe ser el dueño del auto. había tanta gente presente, solo Pan Ying conocía la verdadera identidad de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

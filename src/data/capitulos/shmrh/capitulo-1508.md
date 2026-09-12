@@ -139,7 +139,3 @@ An Zhenbei no pudo evitar jadear, luego giró la cabeza para mirar a las persona
 Después de dudar por un momento, Zuo Qingna rápidamente siguió el ritmo de An Zhenbei, porque Zuo Qingna sabía muy bien que una vez que Chen Mo derrotara a Guan Yifan, definitivamente planearía tratar con ellos. Estas personas pertenecen a los comerciantes de plata. por lo que salir en este momento es el plan más sensato.
 
 Y esos guerreros en el interior estallaron en vítores cuando vieron a Chen Mo, y las expresiones en sus rostros eran inusualmente emocionadas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

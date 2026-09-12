@@ -125,7 +125,3 @@ Debido a que este Qinglan Club es un sistema de membresía, y hay muy pocos miem
 “¡Estoy aquí para encontrar a alguien!”
 
 Chen Mo respondió suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

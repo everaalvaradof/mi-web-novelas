@@ -151,7 +151,3 @@ Pero lo que hace que Yan Bei se sienta un poco desesperado es que la velocidad d
 Y debido a que Yan Bei deseaba demasiado derrotar a Chen Mo, Yan Bei ya había consumido la mayor parte del aliento de su cuerpo, lo que provocó que la velocidad de Yan Bei se redujera gradualmente.
 
 Pero Chen Mo no tuvo ninguna influencia, estuvo tranquilo de principio a fin.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

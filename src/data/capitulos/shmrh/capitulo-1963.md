@@ -193,7 +193,3 @@ Aunque la fuerza de Zhang Bo es incomparable a la de Chen Mo y otros, incluso en
 Pero si el tío Zhang quisiera matar a gente común como ellos, sería muy fácil.
 
 Entonces, la expresión de Yang Zijia en su rostro era obviamente más tranquila después de escuchar las palabras del tío Zhang, y luego miró la posición de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -209,7 +209,3 @@ dijo Chen Mo a la ligera.
 “¡Entonces deshazte de ellos rápidamente!”
 
 Dijo Zhang Ziqing nerviosamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

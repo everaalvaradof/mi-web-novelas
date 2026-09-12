@@ -109,7 +109,3 @@ De hecho, si no fuera por la presencia de Zhang Xize, ella no podría dar doscie
 “Doscientos millones es realmente muy poco, entonces no hay necesidad de que sigamos hablando”.
 
 Chen Mo respondió a la ligera, luego se levantó y planeó irse.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

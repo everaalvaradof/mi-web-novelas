@@ -211,7 +211,3 @@ En este momento, Qi Wei también se dio cuenta de que el joven que apareció fre
 “¡Te aconsejo que respondas mi pregunta con sinceridad, de lo contrario te golpearé directamente!”
 
 Qi Wei parecía incapaz de soportar el aura aterradora en su cuerpo en este momento. Con una expresión muy fea en su rostro, le preguntó a Chen Mo con gran dificultad: “¿Quién diablos eres?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -175,7 +175,3 @@ Después de escuchar las palabras de Aung San, todos asintieron apresuradamente.
 Es solo que estas personas todavía están muy asustadas en este momento. Después de todo, todos saben lo aterradora que es la fuerza del God Eater. Les preocupa que si el God Eater comienza a matar, pueden morir. Garantizado.
 
 Sin embargo, Aung San ya ha dado una orden. Incluso si tienen 10.000 de coraje, ¡nunca se atreverán a desobedecer los deseos de Aung San!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

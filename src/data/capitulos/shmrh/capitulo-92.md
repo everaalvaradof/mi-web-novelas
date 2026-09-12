@@ -123,7 +123,3 @@ Wen Ruoxi miró a Chen Mo y gritó, luego levantó su ropa está a punto de corr
 ¡Chen Mo miró la posición de Wen Ruoxi y su corazón colapsó!
 
 Era obvio que anoche quisiste hacerme ese tipo de cosas, pero lo rechacé, ¿y ahora el malvado se va a quejar primero?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

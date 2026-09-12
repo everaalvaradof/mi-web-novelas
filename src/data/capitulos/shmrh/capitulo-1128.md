@@ -125,7 +125,3 @@ Pero en este momento, Chen Mo dijo de repente.
 Después de que Wen Ruoxi escuchó esta oración, todavía estaba muy conmovida.
 
 Después de que Wen Wangchuan escuchó las palabras de Chen Mo, se quedó sin palabras al instante.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -113,7 +113,3 @@ Lu Xiangyang preguntó después de ver a Chen Mo hablar con el conductor.
 “¡Algo anda mal con el automóvil, es posible que deba repararse!”
 
 Chen Mo giró la cabeza y miró a Lu Xiangyang, y respondió con impotencia.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

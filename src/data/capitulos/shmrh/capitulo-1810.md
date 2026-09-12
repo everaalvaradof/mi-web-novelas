@@ -193,7 +193,3 @@ Originalmente, debido a que Chen Mo no ha estado en la provincia de Jiangnan rec
 “¿No sé cuáles son los planes de la señorita Hua ahora?”
 
 En este momento, un hombre de mediana edad se acercó a Hua Xiaowu y le preguntó suavemente a Hua Xiaowu.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

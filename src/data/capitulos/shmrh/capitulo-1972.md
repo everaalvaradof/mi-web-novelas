@@ -263,7 +263,3 @@ Vi un aura dorada que voló directamente hacia Wutian Road como un rayo.
 Wu Tianlu miró el aura dorada que venía hacia él, hubo un destello de sorpresa en sus ojos, y rápidamente levantó su mano derecha, tratando de usar su aliento para resistir el ataque de Chen Mo.
 
 Pero en este momento, aunque Chen Mo resultó gravemente herido, de hecho, debido a la existencia de Qingyaozhu, su aliento todavía estaba en el apogeo, y Wu Tianlu ya lo había consumido después de usar la técnica Aiki. del aliento en su cuerpo lo hizo incapaz de detener el ataque de Chen Mo en absoluto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

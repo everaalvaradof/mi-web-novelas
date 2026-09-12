@@ -111,7 +111,3 @@ Chen Mo sabía que si las dos personas de mediana edad fueran secuestradores ord
 Debido a lo difícil que es tratar con la gente en el negocio de la plata, Chen Mo es muy claro en su corazón.
 
 Si Ye Xueqi estuviera realmente en peligro debido a Chen Mo, Chen Mo se sentiría muy culpable.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

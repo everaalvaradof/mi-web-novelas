@@ -131,7 +131,3 @@ El hombre de preguntó suavemente el otro lado del teléfono.
 “¡Soy Wang Zhongqiang, el gerente general de la oficina de ventas de Jinxiu Manor!”
 
 Después de escuchar esto, Su Mubai, Se congeló en su lugar, sus ojos brillaron con confusión, ¡porque no podía entender por qué el gerente general de la oficina de ventas la estaba llamando ahora!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

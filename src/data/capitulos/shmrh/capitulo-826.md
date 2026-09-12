@@ -101,7 +101,3 @@ Tan Ping se quedó estupefacto cuando escuchó las palabras de Li Juncheng, y se
 Un hombre de mediana edad miró a Chen Mo y gritó, y luego dijo con cara inexpresiva: “Ya que insiste en hacer esto, Sr. Chen, ¡entonces di que me voy a ir!”
 
 Después de que el hombre de mediana edad dijo estas palabras, todos los presentes quedaron atónitos y se giraron para mirar la posición del hombre de mediana edad.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -197,7 +197,3 @@ Y todos también reaccionaron en este momento. Todo esto fue planeado por Zhao C
 “Zhao Chenlang, ¿estás loco? Si todos nosotros morimos en tus manos hoy, incluso si tienes a la familia Zhao detrás de ti, no podrás deshacerte de ella. En ese momento, estarás muerto.”
 
 Hua Xiaowu no esperaba que Zhao Chenlang estuviera tan enojado, y gritó emocionado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

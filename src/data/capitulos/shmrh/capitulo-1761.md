@@ -177,7 +177,3 @@ Su Mubai podía sentir que las emociones de Chen Mo no eran del todo correctas, 
 “¿Comprar este colgante de jade?”
 
 Su Mubai no pudo evitar quedarse atónito cuando escuchó las palabras de Chen Mo, y luego preguntó rápidamente: “Chen Mo, no quieres comprar este colgante de jade por mi negocio, ¿verdad?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

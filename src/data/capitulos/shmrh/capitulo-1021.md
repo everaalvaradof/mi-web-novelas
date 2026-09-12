@@ -115,7 +115,3 @@ Seguida por la belleza sexy en el podio, ella sonreía a dijeron los estudiantes
 ¡Así es, la belleza que apareció en el podio en este momento no era otra que Yan She!
 
 Chen Mo miró a la sexy y encantadora Yan She, la expresión de su rostro colapsó anormalmente, no pudo evitar morderse los dientes y susurró: “¿Por qué esta mujer está aquí en la ciudad de Beihang?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

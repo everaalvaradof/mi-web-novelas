@@ -125,7 +125,3 @@ Cuando Chen Mo vio esto, se quedó estupefacto al instante y tartamudeó: “Sr.
 “¿Quién está afuera?”
 
 En este momento, Yan She pareció escuchar el movimiento afuera, y gritó en un tono frío.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

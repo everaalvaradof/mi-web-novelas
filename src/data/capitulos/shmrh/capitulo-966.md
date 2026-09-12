@@ -113,7 +113,3 @@ Después de que Chen Lang vio a Chen Mo mirar hacia atrás, estaba aún más seg
 La razón por la que Chen Lang estaba tan emocionado en este momento no era porque Chen Lang se preocupara por Chen Mo, sino porque no quería afectar la relación entre la familia Chen y la familia Tang. debido a los asuntos de Chen Mo.
 
 Después de que Tang Hu supo que Chen Mo era de la familia Chen, la expresión de su rostro fue obviamente aliviada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -131,7 +131,3 @@ Luo Qiu respondió suavemente.
 “¿Qué quieres?”, preguntó Chen Mo.
 
 Luo Qiu inmediatamente dejó su teléfono celular cuando escuchó esto, y luego miró a Chen Mo con interés.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

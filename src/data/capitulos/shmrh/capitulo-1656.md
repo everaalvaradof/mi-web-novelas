@@ -113,7 +113,3 @@ El segundo anciano parece para estar mirando Fuera de las preocupaciones de Jian
 “¿Cómo puede estar seguro? Incluso el segundo anciano, no puedes detener este movimiento, ¿cómo podría detenerlo el joven maestro?”
 
 El segundo anciano quería persuadir a Jiang Xi, pero antes de que pudiera decirlo, escuchó el rugido de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

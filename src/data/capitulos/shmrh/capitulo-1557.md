@@ -103,7 +103,3 @@ Yan Miró su teléfono con una expresión de enojo maldijo.
 Y Yan Ella también sabía que su abuelo aún debería tener un poco de tiempo para ser dado de alta del hospital, por lo que no siguió llamando a Chen Mo. Después de que Yan Niancheng fue dada de alta del hospital, ya era demasiado tarde. para que ella se ponga en contacto con Chen Mo.
 
 ¡Lo único que preocupa a Yan She es si Chen Mo accederá a ayudarlo!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

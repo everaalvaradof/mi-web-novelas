@@ -117,7 +117,3 @@ Debido a que Chen Mo y Su Hongxiao se conocían, Su Hongxiao despejó una mesa e
 Fan Liang pensó tontamente que Su Hongxiao lo reconoció y se estaba dando la cara, por lo que tomó la iniciativa de intercambiar algunas palabras con Su Hongxiao.
 
 Pero puede que no lo sepa, ¡Su Hongxiao ni siquiera sabe quién es!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

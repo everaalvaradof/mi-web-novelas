@@ -107,7 +107,3 @@ Meng Liang y Liu Rui miraron a Chen Mo con simpatía. Ahora ambos saben lo que s
 “Señorita, no merezco estar con la maestra Yan, ¿no debería decidir?”
 
 Chen Mo caminó hacia Su Mi con voz fría. Le dijo a Su Mi.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

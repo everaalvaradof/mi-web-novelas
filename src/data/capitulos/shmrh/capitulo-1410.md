@@ -123,7 +123,3 @@ Lin Jiaxu frunció el ceño.
 Las habilidades de actuación de Zhang Ping siguen siendo muy buenas, si Chen Mo no hubiera visto a Zhang Ping tomar la medicina con sus propios ojos, podría creer lo que dijo Zhang Ping.
 
 Lin Jiaxu parecía impotente cuando miró la cara de Zhang Ping. Después de todo, ahora Wei Mengmeng dijo que Zhang Ping había tomado medicamentos, pero no pudo presentar ninguna evidencia.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

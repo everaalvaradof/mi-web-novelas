@@ -163,7 +163,3 @@ El anciano respondió a la ligera a Chen Mo.
 “¿El rey asiático comerciante de plata?”
 
 Chen Mo se burló después de escuchar las palabras de Bi Cheng’an, y luego continuó: “¿Estás aquí para salvar a Xia Qingfeng?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -105,7 +105,3 @@ Debido a que Chen Mo tuvo una llamada telefónica con Su Mubai anoche, Su Mubai 
 Pero hoy Su Mubai no pudo ponerse en contacto. Todo esto sucedió demasiado repentinamente, lo que tomó a Chen Mo por sorpresa.
 
 Chen Mo solo puede orar en silencio en su corazón ahora, Su Mubai no está en peligro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

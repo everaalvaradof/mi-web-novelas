@@ -141,7 +141,3 @@ Otros que apoyaron a Zhang Fansheng hicieron lo mismo.
 “Si el joven maestro Chen no tiene la fuerza para derrotar al gran maestro Zhang, ¿por qué desafiaría al gran maestro Zhang?”
 
 En este momento, un artista marcial de la ciudad de Nanyang preguntó de repente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

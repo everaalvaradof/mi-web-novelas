@@ -89,7 +89,3 @@ Su Mubai respiró hondo cuando escuchó esto.
 Li Juncheng dijo de repente.
 
 Su Mubai se quedó atónito por un momento y preguntó con una expresión de perplejidad.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

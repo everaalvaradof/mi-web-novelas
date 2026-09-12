@@ -113,7 +113,3 @@ Pero la mujer que yacía en el suelo en este momento rápidamente gritó: “Est
 Chen Mo dudó después de escuchar las palabras de la mujer, luego se detuvo, caminó hacia el lado de la mujer y le preguntó en voz baja: “¿Estás bien?”
 
 La mujer respondió rápidamente a Chen Mo y luego se levantó lentamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

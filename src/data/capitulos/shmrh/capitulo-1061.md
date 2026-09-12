@@ -129,7 +129,3 @@ Jin Lele no le dio a Yan She ninguna cara, y simplemente se mantuvo fría. El so
 Pero antes de que Jin Lele caminara al lado de Chen Mo, Yan She detuvo a Jin Lele y pronunció estas tres palabras en un tono muy frío.
 
 Jin Lele no pudo evitar quedarse atónita cuando escuchó las palabras de Yan She.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -193,7 +193,3 @@ Todavía no saben cuál es el estado financiero del Grupo Zhao.
 Pero pase lo que pase, los fondos del Grupo Zhao definitivamente no son suficientes para compensar a estas personas.
 
 Entonces, una vez que estas personas realmente acuerden retirar sus acciones, solo pueden dividir el Grupo Zhao en dos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

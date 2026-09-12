@@ -117,7 +117,3 @@ Liu Xuanxuan miró a Chen Mo y dijo.
 Chen Mo miró a Liu Xuanxuan y no habló.
 
 En realidad, Chen Mo sabía en su corazón que Liu Xuanxuan no podía creer que fuera normal. Después de todo, de acuerdo con la identidad y los antecedentes actuales de Chen Mo, no importa qué tipo de mujer esté buscando, siempre y cuando Mientras hablaba Chen Mo, estas mujeres estarían locas. Quitándose la ropa y arrastrándose en su cama, nadie creería que Chen Mo apareció aquí debido a Su Mubai.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

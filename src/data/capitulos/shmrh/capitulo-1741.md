@@ -161,7 +161,3 @@ Guo Fanghua dijo a la ligera.
 “¡Es realmente el más venenoso pero el corazón de una mujer!”
 
 Chen Mo miró a Guo Fanghua y se burló.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -119,7 +119,3 @@ dijo Chen Mo en voz baja.
 Wen Ruoxi asintió, luego se dio la vuelta y se fue.
 
 Y Chen Mo miró la espalda de Wen Ruoxi, dudó durante dos segundos y luego salió de la comunidad.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

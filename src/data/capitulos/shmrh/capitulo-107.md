@@ -143,7 +143,3 @@ Qian Guangfa volvió la cabeza para mirar a Zhao Hongtao y preguntó en voz baja
 Zhao Hongtao continuó gritando.
 
 Después de escuchar esta oración, todos los estudiantes de la clase miraron la posición de Zhao Hongtao con expresiones de sorpresa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

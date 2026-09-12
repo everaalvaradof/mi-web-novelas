@@ -117,7 +117,3 @@ Chen Mo le dijo a Zhou Yue un poco avergonzado.
 “Entonces, ¿cómo debo pagarte?”
 
 Zhou Yue parpadeó con sus grandes ojos llorosos y preguntó con un tono desconcertado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

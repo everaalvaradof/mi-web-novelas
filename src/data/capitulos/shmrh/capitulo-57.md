@@ -91,7 +91,3 @@ Incluso Li Kai y Zhao Hongtao mostraron sonrisas sin palabras, porque en sus ojo
 Liu Di fue víctima de este incidente. Incluso si Liu Di realmente quisiera tomar la iniciativa de tener sexo con Chen Mo, ¿cómo podría Liu Di admitir eso cuando Chen Mo preguntó esta oración frente a tanta gente? ? Paño de lana?
 
 Pero Liu Di, que estaba sentada en la mesa esperando la disculpa de Chen Mo, instantáneamente tembló de miedo después de escuchar esta oración, y un atisbo de desesperación brilló en sus hermosos ojos, sin saber qué hacer consigo misma. Responder La pregunta de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -125,7 +125,3 @@ Pero justo cuando Chen Mo entraba en el pasillo, varios rostros familiares apare
 La expresión de Su Hongfei cambió instantáneamente después de ver a Chen Mo, y gritó emocionado con los ojos bien abiertos.
 
 Bai Xue y Zhang Qinger estaban junto a Su Hongfei con un dejo de ira en los ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

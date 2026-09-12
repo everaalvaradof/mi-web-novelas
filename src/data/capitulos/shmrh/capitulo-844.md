@@ -117,7 +117,3 @@ El joven respondió con calma. Dai Hao dijo una palabra.
 “Gracias, hermano Li, gracias, hermano Li”
 
 Un destello de emoción brilló en los ojos de Dai Hao, y luego rápidamente le dijo a Su Bai y a los demás: “Joven maestro Su y el joven maestro Wei, este soy yo “Li Bufan, el joven maestro Li”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

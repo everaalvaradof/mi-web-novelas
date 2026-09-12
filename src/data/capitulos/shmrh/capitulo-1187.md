@@ -135,7 +135,3 @@ Yan Miró a Liu Jin a la ligera, luego se levantó y siguió a Chen Mo hacia el 
 Liu Jin estaba sentado solo en la cama, con una expresión muy enojada en su rostro, pero no tenía nada que hacer, porque toda su evidencia estaba en manos de Chen Mo, una vez que Chen Mo realmente entregó toda la evidencia. Entonces él realmente podría estar muerto.
 
 Así que ahora Liu Jin solo tiene una opción, es seguir la solicitud de Chen Mo y hacer todo lo posible para que Chen Mo se reúna con Feng Xing.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

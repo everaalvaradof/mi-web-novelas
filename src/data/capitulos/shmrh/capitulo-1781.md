@@ -175,7 +175,3 @@ El joven no parecía saber que Chen Mo había tomado el fruto del rejuvenecimien
 Cuando Chen Mo y Hu Biao salieron de la cueva, Chen Mo le susurró a Hu Biao: “Corre rápido, creo que estas personas también están corriendo por el fruto de la resurrección. Si se ha ido, definitivamente vendrán”. detrás de nosotros.”
 
 Hu Biao asintió hacia Chen Mo, y luego corrió hacia adelante.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -101,7 +101,3 @@ La expresión en el rostro de Bai Zhibing también era muy ansiosa, y rápidamen
 Chen Mo estaba muy tranquilo. De regreso a Bai Zhibing.
 
 Jiang Feifei miró la posición de Chen Mo con una expresión inusualmente muda en su rostro, sin saber qué decir.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

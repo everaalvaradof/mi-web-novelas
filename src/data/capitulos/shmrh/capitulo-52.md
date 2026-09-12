@@ -113,7 +113,3 @@ Chen Mo se paró en la puerta de la habitación de Wen Ruoxi, observando cómo g
 Wen Ruoxi también pareció notar a Chen Mo que estaba a su lado, y rápidamente le gritó a Chen Mo: “Chen Mo, ¿qué estás haciendo parado ahí? ¡Ven y ayuda!”
 
 Chen Mo no pudo evitar sonreír cuando escuchó las palabras de Wen Ruoxi.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

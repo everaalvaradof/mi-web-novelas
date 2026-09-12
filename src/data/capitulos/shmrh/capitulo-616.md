@@ -101,7 +101,3 @@ Todos comenzaron a suspirar en sus corazones.
 Después de todo, ya sea que estas chicas sean Bai Zhibing u otras, todas son muy ricas en la familia. Aunque no se puede decir que sean particularmente ricas, definitivamente no son comparables con la gente común. También es muy normal. despreciar a Chen Mo a veces.
 
 La hermosa chica que se llamaba Hermana Rou vaciló por un momento, luego dijo en voz baja: “Bingbing es joven e ignorante ahora, en realidad es bastante normal enamorarse de un chico así, pero no podemos ver él y ella siendo engañados de esta manera, si tengo una oportunidad en el futuro, ¡tendré una buena conversación con Bingbing y la persuadiré!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -127,7 +127,3 @@ Chen Mo abrió la puerta y dijo sin expresión.
 Liu Di gritó apresuradamente después de escuchar el nombre de Wei Xiaole, y luego entró en la habitación temblando.
 
 Después de ver a Liu Di entrar en la habitación, Chen Mo gritó sin ninguna tontería.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

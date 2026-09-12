@@ -103,7 +103,3 @@ Chen Mo no pudo evitar quedarse atónito cuando escuchó esto, y preguntó con u
 “Hermana, dejemos de causar problemas, ¿de acuerdo? ¿Qué edad tiene esto? ¿Sigue siendo el esclavo del amo?”
 
 Chen Mo se había derrumbado por completo en este momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

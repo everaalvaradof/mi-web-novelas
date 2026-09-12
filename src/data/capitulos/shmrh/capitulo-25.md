@@ -103,7 +103,3 @@ Un rastro de desdén brilló en los ojos de la pequeña belleza, y ella gritó c
 Siete u ocho guardias de seguridad corrieron hacia la posición de Chen Mo después de ver a la pequeña belleza irse.
 
 En este momento, el teléfono celular de Chen Mo sonó de repente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

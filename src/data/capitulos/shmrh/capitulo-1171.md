@@ -93,7 +93,3 @@ Huang Zhiming no parecía reconciliarse con perder todo esto, por lo que corrió
 “Huang Zhiming, te advertí que te mantuvieras alejado de Chen Mo, pero nunca me escuchaste. Ahora todo es culpa tuya y yo también lo salvaré. !”
 
 Tao Yiran dejó caer la frase con frialdad, luego se dio la vuelta y se fue.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -131,7 +131,3 @@ Chen Mo dijo rápidamente.
 Dijo Su Mubai muy feliz.
 
 Chen Mo asintió y colgó el teléfono.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -89,7 +89,3 @@ Li Juncheng miró a Chen Mo y dijo lentamente.
 ¡Resulta que todo esto es gracias a la gente del mercader de plata!
 
 ¡Como si todo esto estuviera destinado a ser!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

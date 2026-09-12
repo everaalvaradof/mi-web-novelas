@@ -155,7 +155,3 @@ Chen Mo se quedó allí y vaciló durante dos segundos, luego caminó directamen
 “¡Hoy te dejaré ver si soy un hombre!”
 
 Chen Mo gruñó, luego estiró la mano y levantó directamente a Lin Qiushui, que solo vestía ropa interior. y volteo a correr Ir al dormitorio.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

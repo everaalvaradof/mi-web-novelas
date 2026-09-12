@@ -95,7 +95,3 @@ Como si Chen Mo no hubiera escuchado las palabras de estas personas, caminó dir
 Zhao Xiaoyou estaba muy enojado por las palabras de Chen Mo, pero Chen Mo no solo no tenía intención de admitir la derrota, sino todo lo contrario. todavía sentía que podía ganar. Zhao Xiaoyou realmente no podía entender de dónde venía la confianza de Chen Mo.
 
 Su Mubai y los demás no podían entender, ya es así, Chen Mo todavía cree que puede ganar, ¡esto es solo un sueño!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

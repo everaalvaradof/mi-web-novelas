@@ -113,7 +113,3 @@ En este momento, el Zhang Shao mencionado por Ning Tao es un rico de segunda gen
 “Maldita sea, ¿qué es Zhang Jiantong? ¿Conoces a Zhang Jiantong?”
 
 Pero nadie esperaba que el joven se mostrara desdeñoso después de escuchar el nombre, girando la cabeza para mirarse a sí mismo. La gente detrás gritó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

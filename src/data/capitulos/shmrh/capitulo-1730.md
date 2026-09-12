@@ -173,7 +173,3 @@ Chen Mo respiró hondo, llevó los dos cuerpos a otra habitación y luego corri�
 Después de que se abrió la habitación, Chen Mo llegó a la nueva habitación con Zhang Ziqing, quien ya estaba inconsciente.
 
 En cuanto a los cadáveres de Daniel y Xiao Niu, Chen Mo no está preocupado en absoluto. Zhang Zicheng es lo último que quiere que la policía lo vea, así que mientras Zhang Zicheng sepa que los dos ellos han fallado en su misión, entonces Capítulo definitivamente será asesinado. Es hora de ocuparse de los cuerpos de estas dos personas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

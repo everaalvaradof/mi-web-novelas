@@ -93,7 +93,3 @@ Chen Mo respiró hondo, luego miró al joven y continuó preguntando: “Entonce
 El joven miró Chen Mo y sacudió la cabeza, luego dijo inexpresivamente: “Soy un asesino de una organización asesina, soy Todas las tareas que recibí me fueron asignadas por superiores, así que solo sabía a quién iba a matar, pero no lo hice”. ¡No sé quién quería matarte!”
 
 Los ojos de Chen Mo brillaron mientras miraba al joven un poco indefenso.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -105,7 +105,3 @@ Los ojos de Zuo Qingna brillaron impotentes después de escuchar esto, pero no d
 “Creo que ustedes dos son demasiado cuidadosos. La persona que atrapamos esta vez es el antiguo amante de Chen Mo. ¿Qué edad tiene ese chico, Chen Mo? Debe haber sido por impulsividad. De nuestro lado, ahora se estima que se arrepiente de haber venido.”
 
 Dijo He Yuan con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

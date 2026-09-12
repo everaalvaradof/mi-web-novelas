@@ -107,7 +107,3 @@ Dijo el anciano en un tono muy tranquilo.
 Después de escuchar las palabras del anciano, la mujer asintió levemente y no dijo nada más.
 
 Cuando Du Tianhao vio que nadie se atrevía a desafiarlo por un tiempo, tomó la iniciativa y comenzó a desafiar a otros peces gordos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

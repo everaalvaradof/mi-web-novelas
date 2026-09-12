@@ -117,7 +117,3 @@ La recepcionista saludó a Chen Mo muy cortésmente.
 dijo Chen Mo directamente.
 
 Después de escuchar las palabras de Chen Mo, la señora de la recepción mostró una mirada extraña en sus ojos, pero aun así dijo con una sonrisa: “¡Señor, por favor muestre su carta de invitación!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

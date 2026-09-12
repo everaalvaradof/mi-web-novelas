@@ -145,7 +145,3 @@ Chen Mo He sonrió y le preguntó a Guan Yifan.
 “¡Porque no tienes ninguna posibilidad de vencerme!”
 
 Guan Yifan respondió con frialdad.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

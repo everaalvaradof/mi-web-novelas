@@ -139,7 +139,3 @@ respondió Wei Mengmeng.
 “Está bien, si tengo tiempo hoy, iré allí”
 
 Chen Mo dudó un momento y luego asintió levemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

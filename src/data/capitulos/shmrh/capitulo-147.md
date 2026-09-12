@@ -171,7 +171,3 @@ Gao Feifei siempre ha estado resentido con la creación de Chen Mo Li Kai se arr
 Chen Mo puso el plato de frutas y el vino extranjero en la mesa de café. No quería prestar atención a Gao Feifei, Li Kai y otros, así que se dio la vuelta y quería irse.
 
 Pero en este momento, un joven que estaba sentado en el sofá de repente le gritó a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

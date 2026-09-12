@@ -171,7 +171,3 @@ Dijo Liu Xuanxuan emocionado.
 “¡No planeo publicar esta evidencia ahora, quiero publicarla en el momento más crítico!”
 
 Chen Mo respondió en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

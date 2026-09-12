@@ -247,7 +247,3 @@ El anciano vestido de negro, Chang Xiangdao, caminó frente a Chen Mo, luego se�
 Chen Mo miró al Maestro Kutuo a la ligera. Aunque este hombre era delgado y delgado, su aura era tan tranquila como una montaña, y este hombre nunca abrió los ojos de principio a fin, y siempre estaba en un estado de ojos cerrados y recuperación. entre.
 
 En este momento, estas seis personas ya han presentado sus identidades. Chen Mo no sabe mucho sobre estas personas en artes marciales, por lo que, naturalmente, no sabe que las seis personas que están frente a él en esta vez son Qué influencia aterradora en el mundo de las artes marciales.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -131,7 +131,3 @@ Chen Mo le gritó a Chu Lan con algo de emoción.
 “Debería haberte recordado esto hace mucho tiempo. De todos modos, debes darte prisa para encontrar un candidato adecuado. Nunca te daré Qin Yibing”.
 
 Chu Lan le dijo a Chen Mo con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

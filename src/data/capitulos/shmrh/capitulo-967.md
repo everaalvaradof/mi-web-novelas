@@ -109,7 +109,3 @@ Las personas presentes no parecían entender lo que estaba pasando, por lo que T
 Chen Mo miró a Tang Hu que estaba arrodillado frente a él, su tono era tranquilo y natural, pero todos podían escuchar un rastro de aura asesina.
 
 Todo el salón quedó en silencio por un momento, y todos solo podían escuchar los dolorosos gemidos de Tang Hu.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

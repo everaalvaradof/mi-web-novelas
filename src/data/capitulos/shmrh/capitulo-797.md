@@ -93,7 +93,3 @@ Wang Baishi dijo con seriedad.
 “Qué pasa, mi promesa a Chen Mo es solo un acuerdo verbal, este tonto nunca firmó un contrato conmigo y no hay ningún abogado presente, no tiene ninguna prueba para probar que se lo prometí, así que ¿Qué puede hacerme incluso si no le doy el 10% de las acciones? Incluso si va a los tribunales a demandarme, ¡no tengo miedo!”
 
 Como hombre de negocios, Shu Ziyu Naturalmente, sabía que ahora mismo lo que le dijo a Chen Mo no tenía ningún beneficio legal, por lo que incluso si se arrepintiera de Chen Mo, no tendría nada que ver con ella.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

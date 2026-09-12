@@ -209,7 +209,3 @@ Chen Mo miró ligeramente la tarjeta de presentación en la mano del joven, y lu
 “No sé qué que hacer, si quieres confiar en la señorita Yin para ascender a la cima, ¡he visto a mucha gente!”
 
 El joven frunció el ceño y lo regañó, luego se dio la vuelta y se fue.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

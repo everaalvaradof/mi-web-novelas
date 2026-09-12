@@ -95,7 +95,3 @@ Después de que Chen Mo dejó la oficina de Yan She, había estado pensando en e
 Y Li Juncheng y Du Tianhao no pudieron encontrar nada.
 
 “¿Cómo puedo hacer que Yan She hable sobre su relación con Lei Zhenyuan?” Chen Mo no pudo evitar murmurar suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -123,7 +123,3 @@ Antes de ver a Su Mubai, Chen Mo había estado fantaseando sobre cómo se vería
 ¿Pero Chen Mo nunca imaginó que su prometida sería una belleza soberbia?
 
 En primer lugar, heredó billones de herencias, y también le dio una belleza soberbia como esposa. Chen Mo sintió que lo que estas personas experimentaron fue como un sueño, irreal y un poco aterrador.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

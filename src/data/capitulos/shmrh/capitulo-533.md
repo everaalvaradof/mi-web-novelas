@@ -125,7 +125,3 @@ Podía sentir que Luo Qiu estaba muy serio cuando dijo estas palabras, ¡como si
 “¿Realmente te gusto?”
 
 Chen Mo le preguntó a Luo Qiu en un tono sospechoso.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

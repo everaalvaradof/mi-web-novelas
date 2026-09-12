@@ -131,7 +131,3 @@ Bai Zhibing sintió que todo lo que sucedió antes de este momento podía explic
 “Hermano Chen Mo, ¿por qué no me lo dijiste antes? ¡Si me lo hubieras dicho antes, no estaría tan preocupado por ti!”
 
 Bai Zhi Bing de repente sonrió muy felizmente
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

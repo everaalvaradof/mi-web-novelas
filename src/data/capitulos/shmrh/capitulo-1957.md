@@ -187,7 +187,3 @@ Este anciano es también uno de los cuatro grandes maestros del país F. Es cono
 “Viejo Huotou, ¿qué edad crees que tienes? ¿Qué estás haciendo para unirte a la diversión?”
 
 dijo Wang Wanku con la boca fruncida.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

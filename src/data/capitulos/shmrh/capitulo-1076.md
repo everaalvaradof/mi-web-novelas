@@ -127,7 +127,3 @@ Chen Mo preguntó con mucha calma.
 El aura de Liu Xuanxuan era asombroso Dijo a Chen Mo.
 
 Chen Mo se quedó atónito por un momento, un rastro de desdén brilló en sus ojos y le preguntó suavemente a Liu Xuanxuan: “¿Vas a matarme hoy?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -99,7 +99,3 @@ Ya es esta vez, Su Chengkai siente que no es tan importante perder la cara.
 “Un pequeño jarrón de imitación cuesta 20 millones de yuanes. Jefe He, ¿tu apetito seguramente será demasiado grande?”
 
 Sin embargo, justo después de que Su Chengkai encontró al Sr. Su hablando por teléfono y estaba a punto de llamarlo En ese momento, una voz resonó entre la multitud.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -177,7 +177,3 @@ Zhang Ziqing preguntó con el ceño fruncido.
 Chen Mo hizo una pausa y luego continuó: “Te conozco ¿Por qué estás en mi cama?”
 
 Zhang Ziqing preguntó muy perplejo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

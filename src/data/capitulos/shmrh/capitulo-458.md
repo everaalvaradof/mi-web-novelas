@@ -105,7 +105,3 @@ Shi Xinxin miró por la ventana y descubrió que había cinco o seis hombres fue
 “¡Chen Mo, veré si puedes ser tan arrogante como ahora cuando te enfrentes al guardia de seguridad!”
 
 Wang Shuo miró a Chen Mo y se burló antes de darse la vuelta. Corre a la ubicación de la puerta de la villa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

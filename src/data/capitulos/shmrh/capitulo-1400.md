@@ -115,7 +115,3 @@ Es solo que a Chen Mo no le importa lo que digan estas personas. Después de tod
 Así que Chen Mo solo sonrió levemente, luego levantó la copa de vino y bebió el vino tinto de una vez.
 
 Después de que todos vieron a Chen Mo beber, las expresiones en sus rostros parecían ser aún más desdeñosas, porque pensaban que Chen Mo era solo un paleto del campo, ¿cómo podría alguien beber así?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

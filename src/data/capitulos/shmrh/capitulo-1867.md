@@ -175,7 +175,3 @@ En ese momento, el anciano caminó hacia el frente de la jaula nuevamente y desc
 El joven y la niña se sentaron en el lugar, sus cuerpos temblaban constantemente, como si no se atrevieran a salir de la jaula.
 
 Ouyang Fan se puso de pie y salió después de dudar por un momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

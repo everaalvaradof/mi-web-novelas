@@ -257,7 +257,3 @@ Después de todo, incluso han realizado una misión de 100 millones de dólares 
 “¡Son cincuenta millones para cada uno de nosotros!”
 
 Susurró el hombre de mediana edad.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

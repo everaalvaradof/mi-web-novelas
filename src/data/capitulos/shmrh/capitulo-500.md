@@ -113,7 +113,3 @@ Chen Mo preguntó en voz baja después de ver que algo andaba mal con los ojos d
 “Hermano, ¿cuándo conociste a Luo Qiu?”
 
 Liu Rui le gritó emocionado a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

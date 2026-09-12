@@ -173,7 +173,3 @@ Chen Mo miró a Xia Qingfeng y repitió a la ligera.
 Xia Qingfeng miró lentamente a Chen Mo y luego tartamudeó: “Chen Mo, escúchame, sé que hay un pequeño malentendido entre nosotros dos. pero realmente no es lo que piensas, ¡no te hará ningún bien si me matas ahora!”
 
 Chen Mo miró a Xia Qingfeng y no habló.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

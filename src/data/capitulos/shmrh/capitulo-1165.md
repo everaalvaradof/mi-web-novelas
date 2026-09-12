@@ -133,7 +133,3 @@ Chen Mo abofeteó a Li Xiaochuan directamente en la cara.
 Li Xiaochuan retrocedió dos pasos antes de levantarse y luego miró a Chen Mo con una expresión increíble.
 
 ¡Quién hubiera imaginado que Chen Mo se atrevería a vencer a alguien primero!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

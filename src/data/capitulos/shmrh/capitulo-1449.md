@@ -115,7 +115,3 @@ Especialmente Li Kun, cuya mano derecha fue interrumpida antes por Chen Mo, tamb
 Después de ver la parada del autobús, Li Kun gritó en dirección al autobús con una voz muy expresión emocionada.
 
 Los pasajeros en el autobús inmediatamente cayeron en pánico después de escuchar las palabras de Li Kun. Después de todo, este lugar es una zona montañosa, por lo que a menudo ocurren varios crímenes viciosos. Estos gánsteres hacen cosas. También tienen muy claro el estilo, y nadie sabe si estas personas incluso limpiarán con ellos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

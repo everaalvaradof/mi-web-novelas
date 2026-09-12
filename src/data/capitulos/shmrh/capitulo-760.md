@@ -125,7 +125,3 @@ Yan Miró a Chen Mo y siguió preguntando.
 “¡Está bien, eres despiadado!”
 
 Chen Mo apretó los dientes y le susurró a Yan She, luego se dio la vuelta y caminó hacia la cocina.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

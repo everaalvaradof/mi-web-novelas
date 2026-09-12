@@ -111,7 +111,3 @@ En cualquier caso, Ye Xueqi también es la gerente general del Grupo Ye, y su va
 Antes de la acción, los dos todavía estaban muy preocupados, pero después de que realmente lo hicieron, los dos se dieron cuenta de que en realidad era muy fácil secuestrar a Ye Xueqi, porque Ye Xueqi no tenía guardaespaldas.
 
 Y Ye Xueqi estaba acostada en la cama, muy desesperada en su corazón. No sabía cuál era el propósito de estas dos personas, y también sabía que nadie podía salvarla ahora.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -163,7 +163,3 @@ Entre los invitados presentes en este momento, algunos de ellos tienen una buena
 “Lamento mucho haberlos hecho esperar tanto hoy. De hecho, ya les mencioné antes que la razón por la cual nuestra Secta Shangqing celebró el banquete de hoy es en realidad para dar la bienvenida a un miembro extremadamente honorable. invitado, por cierto, ¡presentaré a este invitado a todos!”
 
 Xu Chengping dijo a la multitud con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

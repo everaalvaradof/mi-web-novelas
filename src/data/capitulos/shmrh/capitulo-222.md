@@ -115,7 +115,3 @@ En este momento, Zhang Qinger habló de repente. gritó.
 Después de escuchar esto, Su Mubai no pudo evitar quedarse atónita por un momento. En ese momento solo entendió por qué Bai Xue insistió en seguirlo. Resultó que el prometido de Bai Xue también había venido.
 
 Antes de que Su Mubai pudiera reaccionar, un auto deportivo Lamborghini negro condujo hacia Baixue, Zhang Qinger y otros a una velocidad extremadamente asombrosa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

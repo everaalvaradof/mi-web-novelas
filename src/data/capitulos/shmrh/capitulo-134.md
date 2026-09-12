@@ -113,7 +113,3 @@ Zhang Ze miró a Su Mubai con una expresión muy perpleja en su rostro, porque n
 Su Mubai sabía que si no retiraba las acciones de estas personas hoy, definitivamente no se rendirían, así que no importa si Chen Mo podría ayudarlo a descubrir que al final Inversionistas, ella tiene que devolver las acciones a estas personas.
 
 En cuanto al paquete de indemnización, si Chen Mo puede encontrar un inversor, entonces será lo mejor, si no, entonces Su Mubai solo puede pensar en una forma.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -121,7 +121,3 @@ Chen Mo asintió con una mueca de dientes.
 “¡Lo siento, no puedo ayudarte!”
 
 El rostro de Yan She cambió repentinamente y se negó sin expresión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

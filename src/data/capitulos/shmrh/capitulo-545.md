@@ -131,7 +131,3 @@ Li Juncheng es dijo muy directo.
 Chen Mo dejó escapar un largo suspiro y luego dijo a la ligera: “Está bien, entiendo, ¡llámame cuando quieras!”
 
 Li Juncheng colgó el teléfono después de estar de acuerdo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

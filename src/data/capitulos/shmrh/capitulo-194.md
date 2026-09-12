@@ -147,7 +147,3 @@ Y esos amigos del agua que apoyan a Wen Ruoxi no tienen nada que hacer en este m
 En un instante, el pasado barrió la palabra perra.
 
 Chen Mo miró la pantalla de la computadora sin expresión, con un rastro de ira en sus ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -121,7 +121,3 @@ Wen Zhentian obviamente estaba muy interesado en la píldora mágica prestada de
 Chen Mo se quedó estupefacto. Esta fue la primera vez que Capítulo escuchó el nombre de la píldora prestada, porque cuando Li Taibai le dio la píldora a Chen Mo, no le dijo a Chen Mo cómo se llamaba.
 
 Pero ahora Chen Mo no tiene ganas de pensar en estas cosas, porque su mayor secreto ha sido descubierto por Wen Zhentian, por lo que la situación actual de Chen Mo es muy peligrosa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -177,7 +177,3 @@ Chen Mo piensa que lo que dijo el anciano es bastante razonable, sin mencionar q
 Chen Mo dijo muy feliz.
 
 El anciano comenzó a dejar que el alma de Chen Mo se deshiciera gradualmente del control de su cuerpo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

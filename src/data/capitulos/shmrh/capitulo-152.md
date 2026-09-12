@@ -157,7 +157,3 @@ Unos segundos después, Lin Qiushui y otros bajaron del segundo piso.
 Pero cuando Lin Qiushui vio que la persona parada frente a Zhou Wei era Chen Mo, ¡se congeló en el lugar!
 
 “¿Está loco Chen Mo? ¿Cómo puede siquiera atreverse a vencer a Zhou Wei? ¿Qué puedo hacer ahora?”, gritó en secreto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

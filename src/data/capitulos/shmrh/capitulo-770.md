@@ -105,7 +105,3 @@ Fuyao se volvió rápidamente. para mirar, Chen Mo echó un vistazo, luego llev�
 Después de entrar al patio, Fuyao abrió la boca para presentar la identidad de Chen Mo, pero antes de que Fuyao pudiera hablar, el hombre de mediana edad tomó la iniciativa de preguntarle a Chen Mo: “¿Vas a la cueva Guihu?”
 
 Chen Mo se quedó atónito cuando escuchó las palabras del hombre de mediana edad, y la expresión de su rostro estaba muy perpleja, porque se preguntaba cómo sabía el hombre de mediana edad el propósito de la venida de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

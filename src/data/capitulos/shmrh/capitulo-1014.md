@@ -129,7 +129,3 @@ Los amigos alrededor de Yueyue también parecían envidiosos, después de todo, 
 “No sé si este coche pertenece a ese niño.”
 
 Pero en este momento, la belleza de ojos grandes gritó de repente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

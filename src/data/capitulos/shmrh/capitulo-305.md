@@ -109,7 +109,3 @@ Chen Mo sabía que Su Mubai no se lo diría, así que volvió la cabeza y le gri
 Su Muyu también parecía estar un poco asustada por Chen Mo. Después de estar atónita por un momento, señaló directamente a un joven que estaba parado no lejos de Su Mubai y susurró: “Chen Mo, este es el uno. Alguien golpeó a mi primo, justo ahora”
 
 Chen Mo no esperó a que Su Muyu terminara sus palabras, caminó directamente hacia el joven y luego le preguntó al joven sin expresión: “Justo ahora golpeaste mi novia, ¿tú no?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

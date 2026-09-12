@@ -119,7 +119,3 @@ Después de que la niña entró al restaurante, Mei Mu miró brevemente la situa
 “¿La prometida del pequeño Chen Mo?”
 
 La niña sonrió levemente, luego caminó hacia Su Mubai con sus zapatos de tacón alto ceñidos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

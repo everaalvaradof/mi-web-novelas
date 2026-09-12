@@ -101,7 +101,3 @@ Respondió tímidamente la pequeña belleza.
 “¡Dios mío, ni siquiera sabes quién es el Sr. Chen!”
 
 Todas las bellezas presentes mostraron expresiones de asombro, mientras que Chen Mo se volvió para mirarlas Belleza, de hecho, también tenía un poco de curiosidad por lo que dirían estas bellezas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

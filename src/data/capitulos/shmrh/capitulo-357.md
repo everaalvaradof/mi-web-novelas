@@ -99,7 +99,3 @@ Wang Liangyi gritó con una expresión irritada.
 Wang Liangyi respondió con una mueca.
 
 En este momento, sonó el teléfono celular de Li Juncheng.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

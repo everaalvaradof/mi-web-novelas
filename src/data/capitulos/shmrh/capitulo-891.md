@@ -127,7 +127,3 @@ Yan Se quedó sin palabras después de escuchar las palabras de Chen Mo, y susur
 Chen Mo respondió con una sonrisa.
 
 Ahora, para Chen Mo, mientras el proyecto del metro pueda resolverse, resolverá uno de sus mayores dolores de cabeza, y otras cosas son triviales para Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

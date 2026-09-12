@@ -135,7 +135,3 @@ Chen Mo y Zhao Lei salieron del taxi.
 “Joven maestro Chen, ¿necesitas que vaya contigo y le enseñe una lección a ese niño?”
 
 Zhao Lei le dijo a Chen Mo inexpresivamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

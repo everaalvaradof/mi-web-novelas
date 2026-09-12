@@ -97,7 +97,3 @@ Porque Wang Yaoyao originalmente pensó que Chen Mo simplemente salió a llamar 
 Pero los ojos de Wang Yaoyao también brillaron con un rastro de duda, porque de repente se dio cuenta de que Chen Mo se había quedado sin dinero. Entonces, ¿de dónde sacó el dinero para estos guardias de seguridad?
 
 Era demasiado tarde para que Wang Yaoyao le preguntara a Chen Mo sobre este asunto. Cinco o seis autos negros estacionaron directamente en la puerta de la oficina de ventas. Un gran grupo de personas saltó de los autos y corrió directamente a la oficina de ventas La ubicación vino.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

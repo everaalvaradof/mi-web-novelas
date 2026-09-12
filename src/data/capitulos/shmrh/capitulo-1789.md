@@ -209,7 +209,3 @@ Chen Mo no quería decirlo directamente.
 “¿No vas a pensar en eso? Si soy un mal tipo, si me ayudas a revivir, entonces podrías meterte en un gran problema”.
 
 El anciano dijo con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

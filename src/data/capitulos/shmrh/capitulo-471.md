@@ -101,7 +101,3 @@ Se puede decir que la actual Gao Feifei no tiene un centavo. Al final, no hay ot
 El dinero que debe Gao Feifei no tiene nada que ver con Xu Jiao, porque Xu Jiao nunca participó en juegos de azar. Hay pocos beneficios, por lo que ahora Xu Jiao tiene algo de dinero en la mano, pero el dinero definitivamente no es suficiente para pagar la cuenta!
 
 Gao Feifei dudó durante mucho tiempo, finalmente respiró hondo y luego sacó su teléfono móvil, lista para contactar a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -109,7 +109,3 @@ Wang Xiao le dijo nerviosamente a Yue Chengnan.
 Después de que Yue Chengnan escuchó esta oración, una pizca de impotencia brilló en sus ojos, y luego dijo suavemente: “Hermano Wang, todas mis esperanzas están ahora puestas en la familia Li. Si no hay nada que mi familia pueda hacer, entonces no hay nada que pueda hacer ahora.”
 
 Después de escuchar esto, Wang Xiao estaba atónito, y su rostro estaba atónito. La expresión era inusualmente sin palabras.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

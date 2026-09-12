@@ -119,7 +119,3 @@ El camarero abrió la boca para explicar cuando escuchó una voz muy majestuosa.
 Un hombre de mediana edad entró en la habitación privada.
 
 Chen Mo se quedó sin palabras después de ver a este hombre de mediana edad, porque la persona que entró no era otra que He Cai, ¡el gerente general del hotel!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

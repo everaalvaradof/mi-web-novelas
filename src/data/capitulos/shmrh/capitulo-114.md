@@ -125,7 +125,3 @@ Zhao Hongtao miró fijamente a Chen Mo, no sabía cómo describir su estado de �
 Chen Mo entrecerró los ojos y le dijo suavemente a Zhao Hongtao.
 
 En este momento, la identidad de Chen Mo ha conmocionado por completo a Zhao Hongtao, un rastro de miedo brilló en sus ojos y durante un tiempo hubo cierta confusión. para enfrentar a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

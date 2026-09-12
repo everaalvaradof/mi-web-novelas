@@ -117,7 +117,3 @@ Yan Xiao respiró hondo y le preguntó a Chen Mo en voz baja: “Chico, ¿quiere
 “Sí, si puedes proporcionar un lugar ¡Puedo compararme contigo!”
 
 Chen Mo asintió levemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

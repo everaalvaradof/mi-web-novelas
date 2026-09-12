@@ -123,7 +123,3 @@ Chen Mo preguntó a Su Mi con curiosidad.
 “Está bien. Cuando era joven, debido a mi abuelo, a menudo participaba en varias subastas, por lo que todavía tengo cierta comprensión de las antigüedades, y les digo que la subasta de hoy no solo aparecerán solo antigüedades, y también habrá muchos tesoros mágicos, ¡esos tesoros son tesoros invaluables!”
 
 Chen Mo no pudo soportar escuchar esta oración Se quedó atónito por un momento, luego frunció el ceño y preguntó: “¿Qué tipo de método mágico?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

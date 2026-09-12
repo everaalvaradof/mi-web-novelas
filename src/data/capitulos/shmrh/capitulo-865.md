@@ -125,7 +125,3 @@ Ning Tao respondió rápidamente.
 Tang Ying sonrió e inmediatamente se preparó para fichar a Ning Tao.
 
 Pero en este momento, un gran grupo de personas irrumpió repentinamente en el restaurante, y cuando Tang Ying vio entrar a estas personas, una pizca de impotencia brilló en sus ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

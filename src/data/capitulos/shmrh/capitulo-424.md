@@ -83,7 +83,3 @@ Pero Chen Mo no podía entender, solo bebió una copa de vino anoche, ¿cómo po
 Chen Mo y Wen Ruoxi bebieron casi diez botellas de cerveza esa noche. Chen Mo aún podía mantener su cordura, pero estaba tan borracho anoche que pensó que Wang Yaoyao era Su Mubai, y Chen Mo era simplemente bebiendo un cóctel. Creo que esto es realmente increíble.
 
 Wang Yaoyao se estaba mordiendo el labio con fuerza en este momento, y la expresión de su rostro estaba muy afligida. Después de todo, ella solo tuvo una relación con Chen Mo anoche. Chen Mo usó este tono para cuestionarla cuando ella se despertó Cualquier mujer podría encontrarlo insoportable.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -99,7 +99,3 @@ Pensando en esto, la expresión en el rostro de Su Mubai se volvió aún más pe
 Porque ella realmente no podía entender quién era Chen Mo y por qué conocía a tanta gente importante.
 
 Su Mubai sintió que no podía encontrar la respuesta aquí, así que se levantó y caminó hacia la habitación de Chen Mo con sus tacones altos. Planeaba encontrar a Chen Mo y resolver el problema preguntar claramente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

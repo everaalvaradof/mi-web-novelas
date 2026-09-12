@@ -301,7 +301,3 @@ Pero desafortunadamente, Alexander tuvo dos oportunidades para matar a Chen Mo, 
 Si Alexander supiera que fácilmente podría matar a Chen Mo cuando Chen Mo mató a De Lun, ¡me pregunto cómo se sentiría Alexander en su corazón!
 
 Aunque la expresión en el rostro de Chen Mo era de mucha confianza en este momento, Mei Wang no pudo evitar preocuparse por Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

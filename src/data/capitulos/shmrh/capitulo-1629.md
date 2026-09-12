@@ -87,7 +87,3 @@ Y los ojos de Zhang Zicheng brillaron con un dejo de impotencia después de escu
 Después de dudar un rato, dijo suavemente el lobo venenoso, preguntó Zhang Zicheng.
 
 Zhang Zicheng respiró hondo y luego susurró: “Es muy probable que este Chen Mo abandone la capital después de un tiempo. Si esperas a que este Chen Mo abandone la capital, no es como si quisieras continuar. tratar con Chen Mo. Es fácil, ¡así que debes matar a Chen Mo antes de que abandone la capital!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -117,7 +117,3 @@ Lin Fei se quedó atónito por un momento y preguntó con un tono desconcertado.
 Ning Tao miró a su izquierda mientras hablaba.
 
 Y todos la siguieron, y vieron a una mujer con lentes de sol mirando su teléfono, con algunos platos frente a ella, pero no se movió en absoluto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -157,7 +157,3 @@ Chen Mo levantó lentamente su mano derecha y dijo con la cara en blanco: “¡X
 Después de decir esto, Chen Mo directamente puso su mano sobre el pecho de Wu Tianlu.
 
 Wu Tianlu se quedó atónito por un momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

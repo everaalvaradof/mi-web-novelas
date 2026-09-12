@@ -109,7 +109,3 @@ Chen Mo, Zhao Lei, Fuyao y tres personas estaban sentados en un automóvil. Orig
 Zhang Liren se sentó en el vehículo todoterreno delantero y fue responsable de liderar el camino.
 
 Había unas veinte personas y cinco vehículos todoterreno corriendo hacia las afueras de la ciudad de Yaoyuan.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

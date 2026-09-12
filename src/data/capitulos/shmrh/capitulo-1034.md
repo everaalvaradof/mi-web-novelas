@@ -119,7 +119,3 @@ Yan Gritó apresuradamente cuando vio que Chen Mo se iba.
 “No, no me lo comeré”
 
 Chen Mo respondió apresuradamente, luego abrió la puerta y salió corriendo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

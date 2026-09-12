@@ -105,7 +105,3 @@ Chen Mo podría conocer a He Cai, el jefe de Bitianya Villa, a una edad muy temp
 “Chen Mo, eres un gran mentiroso, estás fanfarroneando hasta tal punto, incluso le dijiste a mi primo que conoces al gerente general de Bitianya Villa, solo eres un pobre diaosi, ¿cómo podrías ¡Conoce a ese tipo de persona!”
 
 Su Muyu de repente señaló a Chen Mo y gritó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

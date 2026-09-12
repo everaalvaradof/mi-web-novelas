@@ -117,7 +117,3 @@ Zhao Lei no parecía entender el enfoque de Chen Mo, así que le gritó a Chen M
 “Sé que tienes comida seca en tu mano, pero si tienes fideos instantáneos gratis ahora, primero debes comer los fideos instantáneos gratis. Cuando no haya fideos instantáneos para comer en el futuro, será no sea demasiado tarde para que comamos comida seca”
 
 Chen Mo miró a Zhao Lei y dijo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

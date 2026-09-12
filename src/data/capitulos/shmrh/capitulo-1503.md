@@ -141,7 +141,3 @@ Zuo Qingna preguntó en voz baja.
 “¡Lo dejaré hacer algo!”
 
 An Zhenbei no explicó nada y respondió a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

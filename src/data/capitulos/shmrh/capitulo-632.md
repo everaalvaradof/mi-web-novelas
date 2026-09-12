@@ -143,7 +143,3 @@ La expresión de Chen Mo se derrumbó cuando escuchó las palabras del anciano.
 “Así es, tus calificaciones son muy bajas, no puedo aceptarte como discípulo”
 
 El anciano le dio a Chen Mo una mirada ligera y dijo con calma.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -151,7 +151,3 @@ Chen Mo asintió levemente.
 “¡Pero este casino también tiene una función muy importante!”
 
 Chu Lan agregó suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

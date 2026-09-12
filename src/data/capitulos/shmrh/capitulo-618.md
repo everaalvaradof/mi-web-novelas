@@ -105,7 +105,3 @@ Xu Feng no pudo evitar burlarse cuando escuchó las palabras del joven, y luego 
 Respondió Xu Feng sin expresión.
 
 En este momento, el joven de repente levantó la cabeza y miró hacia la ubicación de la entrada del hotel, y descubrió que Su Bai estaba corriendo agresivamente hacia el pasillo con dos hombres.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

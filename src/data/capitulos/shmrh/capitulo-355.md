@@ -95,7 +95,3 @@ Wang Liangyi vio a Su Mubai Después de no hablar, frunció la boca y gritó.
 De hecho, Wang Liangyi también estaba muy nervioso en este momento. Estaba un poco preocupado de que si Su Mubai realmente pudiera probarlo, sería problemático.
 
 Su Mubai levantó lentamente la cabeza y miró a Chen Mo, se mordió el labio y dijo: “¡Puedo presentar pruebas!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

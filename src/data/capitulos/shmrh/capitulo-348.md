@@ -97,7 +97,3 @@ Chen Mo miró a Li Juncheng con una expresión de perplejidad.
 “Joven maestro Chen, ¿por qué lo estoy engañando? Si no tengo una carta de triunfo, ¿por qué estoy aquí para decirle estas cosas? También podría ir y ganarme el favor de esos Wang Liangyi”.
 
 Chen Mo miró a Li Juncheng frente a él con una expresión vacilante, porque sintió que lo que dijo Li Juncheng era algo razonable, por lo que no pudo evitar mirar a Li Juncheng y preguntó: “¿Qué tipo de cartas tienes en tu mano?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

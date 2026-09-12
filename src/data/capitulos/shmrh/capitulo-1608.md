@@ -105,7 +105,3 @@ Después de todo, la unidad flash USB de Feng Xing todavía está en manos de Zh
 Debe saber que puede ser cien veces más difícil recuperar la memoria USB de la mano de la mujer de Zhang Ziqing que robar la memoria USB de la habitación secreta de Zhang.
 
 Así que Chen Mo sintió que no podía seguir esperando así. Iba a esperar a que terminara la fiesta de cumpleaños de Chu Lan para encontrar la oportunidad de conocer a Zhang Ziqing.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

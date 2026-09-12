@@ -127,7 +127,3 @@ Chen Mo nunca imaginó que la actitud de Qin Yibing cambiaría tanto, solo miró
 “¡Si no quieres irte, puedo llamar a la policía!”
 
 Qin Yibing respondió a Chen Mo en un tono frío.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -151,7 +151,3 @@ El hombre de mediana edad dio un paso adelante Una boca se estrelló contra la c
 Los compañeros de clase miraron a Li Kai con expresiones muy impotentes en sus rostros. Después de todo, habían conocido a Li Kai durante tanto tiempo y nunca habían visto a Li Kai tan avergonzado.
 
 Y Li Kai fue abofeteado en la cara por su padre frente a toda la clase. Naturalmente, se sintió muy avergonzado. Contó todo esto en la cabeza de Chen Mo. Si no fuera por Chen Mo hoy, ¡Cómo podría Li Kai ser tan vergonzoso!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

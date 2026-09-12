@@ -89,7 +89,3 @@ Todos bajaron la cabeza y no se atrevieron a hablar.
 Sin embargo, en este momento, Fan Qingqing dijo: “Abuelo, aunque este Chen Mo es muy poderoso, ¿qué podemos hacer? Chen Mo no tomará represalias contra nuestra familia Fan por estas cosas. El agua de nuestro pozo no hacer agua del río, incluso si no existe una persona como Chen Mo, ¿nuestra familia Fan sigue siendo la familia Fan? No nos afectará de ninguna manera”.
 
 Y todos escucharon las palabras de Fan Qingqing Después hablando, todos asintieron con la cabeza en acuerdo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

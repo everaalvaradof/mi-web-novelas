@@ -113,7 +113,3 @@ Así que Mingmei no planea continuar persuadiendo a Chen Mo.
 En ese momento, hubo un repentino sonido de pasos en la puerta de la oficina de ventas.
 
 Un hombre de mediana edad entró agresivamente a la oficina de ventas con varios guardaespaldas vestidos de negro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

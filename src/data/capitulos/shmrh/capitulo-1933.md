@@ -153,7 +153,3 @@ En circunstancias normales, Wu Tang no habría sacado fácilmente este cuchillo.
 Pero ahora no es normal. Wu Tang sabe en su corazón cuán aterradora es la fuerza de Chen Mo, por lo que no se atreve a ser descuidado. Hay una pequeña posibilidad, pero esta posibilidad puede ser muy pequeña.
 
 Sin embargo, después de ver a Wu Tang sacar el cuchillo, la expresión de Chen Mo seguía siendo muy tranquila y caminó hacia adelante.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

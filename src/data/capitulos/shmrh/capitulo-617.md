@@ -101,7 +101,3 @@ Se dice que Su Bai una vez rompió la pierna de un niño que a menudo se envolv�
 Después de que este asunto se extendió en este círculo, incluso si a muchas personas les gusta Bai Zhibing en secreto, no tienen el valor de competir con Su Bai.
 
 Porque todos sabían en sus corazones que si ofendían a Su Bai, ¡sería un callejón sin salida!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

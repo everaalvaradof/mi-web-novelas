@@ -179,7 +179,3 @@ El Sr. Zhang miró a la multitud y dudó durante dos segundos, luego dijo en voz
 “Sí, ¿cómo podría estar muerto el joven maestro Chen?”
 
 Después de escuchar las palabras del Sr. Zhang, todos mostró una expresión de asombro, como si no creyeran del todo lo que Zhang siempre decía.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

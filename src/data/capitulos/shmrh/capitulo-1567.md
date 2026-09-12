@@ -119,7 +119,3 @@ Feng Hao le susurró a Chen Mo.
 Chen Mo estaba atónito después de escuchar las palabras de Feng Hao, y la expresión de su rostro también estaba muy sorprendida.
 
 Porque Chen Mo no esperaba que la Secta Shangyuan estuviera involucrada en este asunto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

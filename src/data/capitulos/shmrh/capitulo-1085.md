@@ -107,7 +107,3 @@ Chen Mo preguntó apresuradamente.
 “En realidad, hay una forma de curar los síntomas, pero no la causa raíz”
 
 Después de pensarlo un rato, el médico miró a Chen Mo y dijo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -121,7 +121,3 @@ Wang Zhongqiang negó suavemente con la cabeza.
 “¡No me dirás quién me lo envió, no puedo firmar este contrato y no pediré la villa!”
 
 Después de decir esto, Su Mubai directamente Le arrojó el contrato a Wang Zhongqiang, luego se levantó y salió corriendo de la sala de conferencias.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

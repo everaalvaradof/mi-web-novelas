@@ -125,7 +125,3 @@ Pero en este momento, hubo un golpe repentino en la puerta.
 Qiao Ying interrumpió directamente a Chen Mo, luego se puso las gafas de sol y el sombrero y caminó hacia la puerta para abrirla.
 
 Cuando se abrió la puerta, Chen Mo se quedó estupefacto al instante, porque descubrió que la policía realmente había venido.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -107,7 +107,3 @@ Chen Mo vio que Luo Qiu se decía esto a sí mismo con tanta seriedad que dudó 
 Cuando Chen Mo escuchó la presentación de Li Juncheng sobre la herencia que necesitaba heredar, de hecho, varias grandes compañías de entretenimiento en China tienen sus propias acciones, y Luo Qiu ha crecido bien y tiene un número muy grande. de fanáticos, junto con los recursos en manos de Chen Mo, no debería ser un problema hacer que Luo Qiu sea popular.
 
 Luo Qiu se sorprendió cuando escuchó las palabras de Chen Mo y miró a Chen Mo con grandes ojos llorosos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

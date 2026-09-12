@@ -95,7 +95,3 @@ Chen Mo quería casarse con Su Mubai porque había un requisito en su testamento
 Ambas partes toman lo que quieren, y no hay duda de quién siente pena por el otro.
 
 Chen Mo acaba de demostrar que no le importaba la codicia por el dinero, pero de hecho era solo para encubrir su identidad. Después de todo, Su Mubai ahora le da a Chen Mo 10.000 yuanes al mes, que no es nada. A los ojos de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

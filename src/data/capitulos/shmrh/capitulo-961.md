@@ -117,7 +117,3 @@ Chen Mo se quedó atónito por un momento, luego preguntó con un tono desconcer
 Tang Qingqing dijo lentamente.
 
 Después de que Chen Mo escuchó las palabras de Tang Qingqing, la expresión de su rostro parecía estar aún más emocionada, porque si realmente era la llamada de Su Mubai a Tang Qingqing, entonces se puede determinar que Su Mubai ahora debería estar vivo, no asesinado
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

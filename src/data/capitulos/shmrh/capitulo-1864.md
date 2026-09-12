@@ -185,7 +185,3 @@ Es solo que Chen Mo habla mandarín, y muchos discípulos no entienden lo que di
 “¿De qué está hablando? ¿Qué quiere decir?”
 
 La multitud gritó en pánico.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

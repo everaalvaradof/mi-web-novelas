@@ -111,7 +111,3 @@ Chen Mo se quedó sin palabras cuando miró a Li Taibai. Miró a Li Taibai y gri
 Li Taibai respondió a Chen Mo con confianza.
 
 Cuando Chen Mo escuchó las palabras de Li Taibai, se quedó sin palabras y no supo cómo refutarlas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

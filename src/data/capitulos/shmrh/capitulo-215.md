@@ -105,7 +105,3 @@ Porque no esperaba que Liu Liu se cambiara de ropa en el salón en este momento.
 Belleza Liu La figura perfecta de Liu estaba expuesta a la vista de Chen Mo, con piernas esbeltas y un pecho alto, como una obra de arte, impecable.
 
 Chen Mo no pudo evitar tragar saliva. No había manera de que la figura de Liu Liu fuera demasiado buena.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

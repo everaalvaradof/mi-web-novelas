@@ -97,7 +97,3 @@ Chen Mo gritó emocionado después de escuchar la voz de la mujer.
 “¿Por qué, la tía Xue no puede darte un número de teléfono? Voy a la ciudad de Nanyang. ¿Te gustaría conocer a la tía?”
 
 La mujer rió suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

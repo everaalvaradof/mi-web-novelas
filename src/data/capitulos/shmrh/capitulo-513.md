@@ -139,7 +139,3 @@ Luo Qiu frunció el ceño y le gritó a Fan Liang.
 “Creo que está bien, ¿no es solo un pequeño millón?”
 
 Fan Liang respondió con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

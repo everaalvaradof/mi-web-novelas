@@ -121,7 +121,3 @@ Pero en este momento, una voz fría resonó entre la multitud.
 Después de escuchar esta oración, todos quedaron atónitos en el lugar, con expresiones de perplejidad en sus rostros.
 
 El sonido de tacones altos golpeando el suelo sonó, y la multitud se dispersó lentamente como una marea.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

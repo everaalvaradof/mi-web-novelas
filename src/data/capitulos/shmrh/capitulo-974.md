@@ -129,7 +129,3 @@ Tang Bingbing respondió rápidamente.
 “¡Este joven maestro Chen es realmente dominante!”
 
 Tang Xiangqiu sonrió irónicamente y luego pareció decir: “¡Pero tiene un capital dominante!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

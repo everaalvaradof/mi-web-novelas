@@ -101,7 +101,3 @@ Si fuera en cualquier otro momento, Chen Mo no se sentiría particularmente emoc
 ¡Porque Chen Mo asistirá al banquete de cumpleaños del abuelo Su Mubai!
 
 Mientras pensaba que vería a Su Mubai de inmediato, su estado de ánimo se volvió muy emocionado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

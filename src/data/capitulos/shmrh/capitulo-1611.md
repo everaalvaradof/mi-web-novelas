@@ -133,7 +133,3 @@ Dijo Chu Hanshan en un tono frustrado.
 Chu Lan le dijo suavemente a Chu Hanshan después de dudar un rato.
 
 Después de escuchar las palabras de Chu Lan, Chu Hanshan respiró hondo y dijo en voz baja: “No le diré a nadie lo que sucedió en ese entonces, también deberías querer saber qué sucedió en ese entonces. ¿Qué?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -93,7 +93,3 @@ Li Juncheng sonrió levemente y luego dijo suavemente: “Joven maestro Chen, si
 Chen Mo se sorprendió después de escuchar esta oración, ¿cómo podría haber pensado que este comerciante de plata sería tan poderoso, controlando el 65% de las acciones de Tengxun?
 
 Chen Mo no tenía idea de este comerciante de plata antes, ¡pero ahora finalmente entiende qué tipo de existencia es este comerciante de plata!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

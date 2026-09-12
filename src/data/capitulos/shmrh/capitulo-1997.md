@@ -257,7 +257,3 @@ Sin embargo, en este momento, el Jiaolong negro ya se había precipitado frente 
 Un rastro de desdén brilló en los ojos de Chen Mo, y luego agitó repentinamente su mano derecha, y una luz dorada se convirtió en un largo dragón dorado, dirigiéndose directamente a la posición del dragón.
 
 El dragón dorado chocó con el Jiaolong negro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

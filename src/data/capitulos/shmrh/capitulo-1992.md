@@ -255,7 +255,3 @@ Owen asintió sin poder hacer nada.
 Qiao Ying se volvió y se fue.
 
 Y Owen miró la espalda de Qiao Ying y se burló, porque en sus ojos, ya que Qiao Ying había prometido asistir a la recepción con él, significaba que ya había tenido éxito la mayor parte del tiempo. Qiao Ying solo está jugando difícil de atrapar
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

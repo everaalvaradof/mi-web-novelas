@@ -115,7 +115,3 @@ Su Lieheng preguntó con una mirada ligeramente perpleja en sus ojos.
 “Papá, ¿cuál es tu relación con Wang Long? Nadie en todo el pueblo de Sujia no lo sabe, ¿cómo pudo venir aquí para desearte un buen cumpleaños? Creo que debe haber algo mal con el contenido de esta caja de regalo!” Su Chengguang susurró explicó.
 
 Su Lieheng se dio cuenta de repente después de escuchar esta oración, luego miró a Wang Long y gritó: “Está bien, Wang Long, vas a usar las Cosas para humillarme, ¿no es así? ¿Tu corazón es demasiado vicioso?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

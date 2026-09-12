@@ -189,7 +189,3 @@ Yan She Said en un tono muy firme.
 “Xiaoyan, sé lo que quieres decir, pero dado que esas personas pueden destruir a nuestra familia Shen sin saberlo, demuestra que estas personas son muy capaces. Realmente no quieres. ¡Pelea con estas personas!”
 
 Dijo Liu Yue con el ceño fruncido.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

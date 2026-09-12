@@ -117,7 +117,3 @@ Chen Mo dijo impotente.
 El taxista miró a Chen Mo y suspiró levemente, luego no dijo nada más y condujo en silencio.
 
 En circunstancias normales, estos taxistas son conductores veteranos y, naturalmente, no se mencionan sus habilidades de conducción. Además, los taxis en la carretera son muy comunes, por lo que la gente de Liu Jin simplemente no habría notado un taxi. detrás de ellos todo el tiempo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

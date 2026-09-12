@@ -199,7 +199,3 @@ Zhao Wenzhuo de repente levantó la cabeza y miró a Chen Mo, su rostro estaba m
 “¡Te daré el último minuto para pensarlo!”
 
 Gritó Chen Mo directamente después de ver que Zhao Wenzhuo no hablaba.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

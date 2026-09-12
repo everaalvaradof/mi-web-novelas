@@ -93,7 +93,3 @@ Pero hace algún tiempo, después de que Xu Li supo que Ling Shi había regresad
 Los jóvenes que rodean a Xu Li son ejecutivos de un grupo que figura en la lista, con un salario anual de más de un millón de yuanes y perspectivas de futuro ilimitadas, por lo que Xu Li quiere usar a su novio para controlar bien a Ling Shi.
 
 Después de ver a Chen Mo hace un momento, Xu Li sintió que Chen Mo era un poco familiar, y se preguntó si Chen Mo era la persona que escuchó de sus amigos, pero cuando descubrió que Chen Mo era de Ling Shi Amiga, inmediatamente se sintió mucho aliviada, porque sintió que era absolutamente imposible que Ling Shi conociera a un hombre tan grande.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

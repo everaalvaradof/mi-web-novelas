@@ -119,7 +119,3 @@ dijo Chen Mo a la ligera.
 Dijo Tang Xiangqiu apresuradamente.
 
 Chen Mo giró lentamente la cabeza para mirar a Tang Bingbing y dijo con el rostro en blanco: “La razón por la que Gu Ying se ha vuelto así es por esta mujer. de ahora en adelante, se arrodillará frente a la sala de Gu Ying y le rezará a Gu Ying, ¿cuándo se despertará Gu Ying y cuándo podrá despertarse?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -119,7 +119,3 @@ Sí, no un hombre, sino un mono salió volando.
 El mono pateó a Guan Qiankun directamente en la cara.
 
 Guan Qiankun soltó instintivamente a Chen Mo y luego retrocedió dos pasos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

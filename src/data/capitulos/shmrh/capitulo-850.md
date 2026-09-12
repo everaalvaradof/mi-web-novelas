@@ -83,7 +83,3 @@ Después de todo, a los ojos de estas personas, Li Juncheng puede considerarse u
 Dado que no hay forma de obtener más información sobre Chen Mo en este momento, ¡preguntar sobre su apariencia también puede satisfacer sus chismes!
 
 Y Chen Mo fuera de la caja ni siquiera sabía que estas personas estaban hablando de él y, afortunadamente, Chen Mo no reveló demasiada información sobre sí mismo al principio, de lo contrario, todos en la sala podrían conocer a Chen. La identidad de Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -119,7 +119,3 @@ La boca de la concubina Qi Ye mostró una sonrisa, que era muy encantadora bajo 
 Chen Mo miró a Qi Yefei con dijo un tono tranquilo.
 
 La concubina Qi Ye sonrió y no rechazó a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

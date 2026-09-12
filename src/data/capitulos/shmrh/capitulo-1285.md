@@ -103,7 +103,3 @@ Además, Wen Wangchuan no puede sacar mucho dinero ahora.
 Chen Mo le preguntó a Wen Wangchuan sin expresión.
 
 Wen Wangchuan respiró hondo después de escuchar las palabras de Chen Mo, luego apretó los dientes y dijo: “No me equivoco, fuiste tú quien mató al jefe de nuestra familia Wen, quiero continuar con Estás en desacuerdo, tarde o temprano me vengaré, espérame”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

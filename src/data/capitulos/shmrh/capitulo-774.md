@@ -101,7 +101,3 @@ Zhang Liren sabía que los antecedentes de Lu An no eran simples, por lo que res
 Lu An ahora ha puesto su vida en riesgo para ganar el corazón de Shu Ziyu. precio, listo para acompañar a Shu Ziyu a la cueva Guihu.
 
 Chen Mo no pudo evitar sonreír después de escuchar las palabras de Lu An, y luego suspiró en su corazón: “No esperaba que el encanto de este Shu Ziyu fuera tan grande, incluso sabiendo que su vida está en peligro”. todavía quiere Seguir el pasado, ¡esto realmente va a matar la belleza!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -111,7 +111,3 @@ Yan Ella sonrió y sacudió la cabeza.
 “Si no fuera por su diseño que expuse mi identidad, no podría quedarme en la Universidad de Nanyang, ¿cómo podría venir a la ciudad de Beihang?”
 
 Chen Mo dijo emocionado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

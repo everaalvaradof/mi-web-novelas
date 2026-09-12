@@ -141,7 +141,3 @@ En cuanto a Ren Bin, Ding Shuo, Xiao Nan y otros, después de ver a Qin Yibing, 
 “Joven maestro Chen, ¿estás aquí?”
 
 Qin Yibing se inclinó levemente hacia Chen Mo y dijo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -111,7 +111,3 @@ Al aumentar más la tasa de interés, Fan Liang se dio por vencido a pesar de la
 “Maestro Fan, ¿todavía quiere pedir dinero prestado?”
 
 Su Hongxiao le preguntó a Fan Liang con una sonrisa después de ver que Fan Liang no había hablado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

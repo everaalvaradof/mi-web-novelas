@@ -105,7 +105,3 @@ Chen Mo le dijo suavemente a Qian Guanglin.
 Qian Guanglin sonrió levemente después de escuchar las palabras de Chen Mo y luego dijo suavemente: “Sé que hoy está aquí por el Sr. Shen, el Sr. Shen, que ha estado esperando en la villa durante mucho tiempo. ¡Aquí, por favor!”
 
 Después de decir esto, Qian Guanglin hizo un gesto de invitación directamente a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

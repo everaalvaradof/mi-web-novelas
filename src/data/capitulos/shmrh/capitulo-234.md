@@ -109,7 +109,3 @@ La razón por la que Bai Xue nunca se acostó con Sun Kai fue porque le preocupa
 Justo cuando Sun Kai estaba secretamente emocionado de que finalmente había conseguido a Bai Xue, un Mercedes-Benz negro se detuvo frente al hotel.
 
 Después de que el auto se detuviera, He Cai abrió directamente la puerta y salió del auto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

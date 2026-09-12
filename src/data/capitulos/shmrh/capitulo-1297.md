@@ -101,7 +101,3 @@ Fan Xihong le gritó emocionado a Chen Mo.
 “Si no fuera por el hecho de que Mu Bai está relacionado con tu familia Fan, ¡no querría el 50 %!”
 
 dijo Chen Mo a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

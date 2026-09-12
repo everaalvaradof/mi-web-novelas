@@ -179,7 +179,3 @@ Pavilion Song Yun miró al carnicero y dijo con el rostro en blanco: “¡No esp
 “No ¡No conozco mi reino!”
 
 El carnicero respondió a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

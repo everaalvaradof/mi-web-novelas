@@ -107,7 +107,3 @@ Su Mubai se quedó atónita cuando escuchó esto, porque ahora parecía escuchar
 “¡Entonces, sigue hablando!”
 
 Su Mubai le dijo a Chen Mo en un tono serio.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

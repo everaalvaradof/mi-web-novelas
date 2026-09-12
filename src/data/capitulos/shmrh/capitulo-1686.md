@@ -97,7 +97,3 @@ Dijo Chen Mo con una expresión en blanco.
 Qiqi miró a Chen Mo y suspiró suavemente, luego dijo con coquetería: “Entonces esperaré a que te ocupes del asunto y tengamos una buena charla. ¿Te gusta?”.
 
 Chen Mo negó suavemente con la cabeza.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

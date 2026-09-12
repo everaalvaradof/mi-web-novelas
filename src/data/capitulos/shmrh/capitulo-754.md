@@ -109,7 +109,3 @@ Chen Mo miró a Yan Ella no sabía qué decir.
 Yan Ella arrastró a Chen Mo a la distancia mientras hablaba.
 
 Chen Mo era obstinada, pero Yan She solo podía caminar hacia adelante.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

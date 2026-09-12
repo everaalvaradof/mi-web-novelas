@@ -117,7 +117,3 @@ Chen Mo estaba preocupado de que hubiera alguien en la habitación, así que se 
 Después de observar durante unos minutos, Chen Mo descubrió que el dueño de esta habitación no estaba en la habitación, por lo que Chen Mo salió de detrás de la cortina.
 
 Chen Mo miró brevemente la situación en la habitación. Esta habitación debería ser la habitación de una niña, y hay una foto en la mesita de noche.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

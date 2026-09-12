@@ -185,7 +185,3 @@ Chen Mo le dijo suavemente a Zhang Ming.
 Zhang Ming asintió y luego tomó la iniciativa de llevar a Chen Mo al lugar de estacionamiento.
 
 En este momento, a Chen Mo no le importaba lo que le sucediera a Gao Feifei después de obtener los 10 millones, porque sabía que Gao Feifei moriría con los 10 millones tarde o temprano. Chen Mo es el más ansioso. que hacer ahora Solo para explicarle a Su Mubai estas cosas entre él y Gao Feifei, ¡ahora Chen Mo todavía no sabe si Su Mubai lo perdonará!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

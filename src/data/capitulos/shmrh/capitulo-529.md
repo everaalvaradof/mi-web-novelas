@@ -105,7 +105,3 @@ dijo Chen Mo a la ligera.
 Luo Qiu tartamudeó en respuesta a Chen Mo, y luego no dijo nada.
 
 Afortunadamente, la distancia entre los dos lados de Nanyang no es muy grande, a lo sumo unos 300 metros, por lo que Chen Mo puede cruzar a nado incluso si está sosteniendo a Luo Qiu. Todos están muriendo en el río.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

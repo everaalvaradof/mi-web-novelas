@@ -109,7 +109,3 @@ Chen Mo preguntó a Li Taibai con un tono desconcertado.
 “Esta pastilla medicinal se llama Divine Quenching Pill, y su función principal es mejorar el físico de una persona. Debido a que ha estado desnutrido todo el tiempo, más su talento y estupidez, no es adecuado para practicar artes marciales. Pero si tomas esta pastilla para apagar, tu cuerpo mejorará enormemente, y en ese momento la aptitud de tu cuerpo mejorará enormemente, incluso si no me adoras como maestro, te ayudará a mejorar tu propio poder de combate. también es beneficioso, y no debería ser un gran problema tratar con gente común o incluso con guerreros de bajo nivel”.
 
 Li Taibai miró a Chen Mo y explicó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -125,7 +125,3 @@ Pero como dice el refrán, atrapa al ladrón y atrapa al sucio, si Chen Mo sube 
 Unos minutos después, Wei Mengmeng y la niña regresaron a la caja.
 
 Zhang Ping se sentó en el lugar y dudó durante dos segundos, luego caminó hacia Wei Mengmeng con una sonrisa y dijo suavemente: “Mengmeng, ¿has vuelto?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -115,7 +115,3 @@ Pero este hombre de mediana edad vio la información en las manos de Chen Mo e i
 Los otros accionistas miraron a Chen Mo y Ning Sasha con enojo y murmuraron suavemente.
 
 ¡Ning Shasha se quedó estupefacta, con sus hermosos ojos llenos de tensión y desesperación!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -113,7 +113,3 @@ Zhang Xize se sintió un poco familiar después de escuchar la voz de Chen Mo, p
 “Jefe Zhang, no me olvidaste tan pronto, ¿verdad? ¿No uniste fuerzas con la familia Xia para tratar conmigo?”
 
 dijo Chen Mo con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

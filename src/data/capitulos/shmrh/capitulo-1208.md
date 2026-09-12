@@ -101,7 +101,3 @@ Cuando todos escucharon las palabras de Chu Lan, las expresiones en sus rostros 
 “Señorita Chu, ¿cuál es el precio que dijo?”
 
 Jiang Qiwei le preguntó a Chu Lan en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

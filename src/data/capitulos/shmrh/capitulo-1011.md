@@ -127,7 +127,3 @@ Chen Mo respondió a la ligera.
 Lin Qingqian asintió rápidamente, luego sacó la llave del auto y abrió la puerta.
 
 Chen Mo no fue cortés y eligió sentarse en el asiento del copiloto, mientras que Lin Qingqian se sentó en el asiento del conductor de manera muy sensata y tomó la iniciativa de conducir el auto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

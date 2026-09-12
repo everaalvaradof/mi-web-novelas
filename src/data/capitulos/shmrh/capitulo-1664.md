@@ -119,7 +119,3 @@ Chen Mo miró a Qin Yibing y dijo.
 “¿La razón? ¿Qué razón?”
 
 Qin Yibing miró a Chen Mo y preguntó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

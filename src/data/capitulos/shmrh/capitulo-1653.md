@@ -103,7 +103,3 @@ En este momento, la idea de Chen Mo es muy simple. Aunque la fuerza de Zhang Che
 El puño de Chen Mo y el puño de Zhang Chenghua chocaron ferozmente, y un aura incomparablemente poderosa salió de sus cuerpos, y las cosas circundantes fueron instantáneamente arrastradas por estas auras.
 
 Feng Xing no pudo evitar respirar hondo después de ver esta escena. Sabía en su corazón que el poder de un guerrero estaba simplemente más allá de lo que la gente común podía imaginar.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

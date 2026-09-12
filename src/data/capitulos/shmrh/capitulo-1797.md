@@ -177,7 +177,3 @@ Después de que Chen Mo obtuviera el poder del anciano, su reino era comparable 
 “¿Quién diablos eres tú? ¿Eres Li Taibai?”
 
 Feng Jiuyang podía sentir que Chen Mo lo estaba reprimiendo de principio a fin, pero incluso si miraba todo de China, ¿cuántas personas pueden hacer esto para reprimirse?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

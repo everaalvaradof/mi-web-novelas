@@ -187,7 +187,3 @@ Después de escuchar las palabras del hombre de mediana edad, Chen Mo estaba má
 Chen Mo dijo en voz baja.
 
 La expresión en el rostro del hombre de mediana edad todavía parecía un poco vacilante.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

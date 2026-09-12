@@ -119,7 +119,3 @@ Incluso los medios apuntaron a la puerta del auto deportivo, esperando que el du
 Feng Hao incluso invitó a varias celebridades de Internet con una gran cantidad de fanáticos para transmitir en vivo, lo que significa que no importa lo que suceda a continuación, esas personas en Internet verán Capítulo por un tiempo, por lo que el impacto aún es espantoso.
 
 Después de unos segundos, el auto deportivo se detuvo lentamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

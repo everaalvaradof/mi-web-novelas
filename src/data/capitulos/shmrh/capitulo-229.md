@@ -113,7 +113,3 @@ Sun Kai vaciló y preguntó en voz baja.
 Después de escuchar las tres palabras de Chen Gongzi, todos quedaron atónitos y las expresiones en los rostros de todos estaban muy perplejas.
 
 El rostro de Chen Mo se derrumbó. Lo ocultó durante tanto tiempo, ¡pero ahora ha sido expuesto por un pequeño mesero!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

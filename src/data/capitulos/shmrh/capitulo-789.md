@@ -101,7 +101,3 @@ Lu An y los demás miraron la posición de Chen Mo y tartamudearon.
 Lu An nunca ha puesto a Chen Mo en sus ojos, pero ¿cómo podría haber imaginado que Chen Mo sería tan poderoso? Si Lu An sabía que Chen Mo era tan poderoso, incluso si le diera a Lu An diez mil coraje, no se atrevería a ofender a Chen Mo!
 
 Por supuesto, la expresión más interesante en el rostro en este momento no es otra gente, ¡sino Shu Ziyu!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

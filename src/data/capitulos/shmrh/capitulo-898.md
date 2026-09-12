@@ -113,7 +113,3 @@ Meng Liang asintió levemente cuando escuchó las palabras de Liu Rui, y luego d
 Pero, por otro lado, las dos chicas parecían estar un poco impacientes con estos ricos enredos de segunda generación, y el mejor amigo de Pei Zi finalmente no pudo evitarlo y gritó en voz alta: “¿Qué hacen, chicos? ¿No ha terminado? Zizi lo ha dejado muy claro, si continúas enredándote así, ¡llamaremos a la policía!”
 
 chica Después de decir estas palabras, de repente miró hacia atrás.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -125,7 +125,3 @@ Su Mubai lo reprendió suavemente, luego miró a Chen Mo y dijo: “Chen Mo, ere
 Chen Mo preguntó en voz baja.
 
 El corazón de Su Mubai brilló un poco cuando escuchó las palabras de Chen Mo, y se tragó las palabras que originalmente quería culpar a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

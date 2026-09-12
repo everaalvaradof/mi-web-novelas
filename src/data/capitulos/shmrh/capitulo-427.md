@@ -79,7 +79,3 @@ Wang Yaoyao se acurrucó en los brazos de Chen Mo y le preguntó suavemente a Ch
 Después de escuchar las palabras de Chen Mo, los ojos de Wang Yaoyao brillaron con un poco de extrañeza, y luego asintió levemente sin decir más qué.
 
 Después de todo, para Wang Yaoyao, ser el amante de Chen Mo, ya es muy feliz.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

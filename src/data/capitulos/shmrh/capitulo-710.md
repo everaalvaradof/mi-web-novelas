@@ -109,7 +109,3 @@ En este momento, Wang Tianshi finalmente entendió lo que el guardaespaldas quis
 Y el resto de los guardaespaldas miraban atónitos la posición de Chen Mo, y las expresiones en sus rostros estaban muy sorprendidas.
 
 ¡Nadie pensó que la fuerza de Chen Mo sería tan grande!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

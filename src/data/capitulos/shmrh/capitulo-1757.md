@@ -211,7 +211,3 @@ Liu Xuanxuan también fue muy sensato, tomó el menú y salió de la caja, dejan
 “Joven maestro Zhao, principalmente hablé con usted sobre la cooperación esta vez, ¡así que no planeo andar en círculos con usted!”
 
 Chen Mo dijo suavemente a Zhao Yiwen.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

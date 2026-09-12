@@ -115,7 +115,3 @@ Qian Guangfa rápidamente estuvo de acuerdo, luego se dio la vuelta y salió cor
 Después de limpiar a Qian Zelin y Qian Guangfa, Chen Mo está listo para comenzar a limpiar a Zhao Hongtao, Li Kai, Gao Feifei y los demás.
 
 En este momento, Chen Mo comenzó a tener algunas expectativas en su corazón. Cuando toda la verdad salió a la superficie, ¿cómo reaccionarían Gao Feifei, Li Kai y otros?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -121,7 +121,3 @@ Pero en este momento, Su Mubai salió corriendo por detrás y le gritó a Chen M
 “Mubai, ¿por qué estás aquí?”
 
 Chen Mo preguntó con una expresión ligeramente perpleja después de ver a Su Mubai.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

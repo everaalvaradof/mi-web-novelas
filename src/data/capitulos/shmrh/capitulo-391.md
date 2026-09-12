@@ -123,7 +123,3 @@ Chen Mo se quedó atónito cuando escuchó las palabras de Xu Yan.
 “¿Qué diablos está pasando con el auto de Chen Mo? ¡Si no me dices la verdad ahora, llamaré a la policía y dejaré que la policía venga!”
 
 Xu Yan extendió la mano mientras hablaba. Sacó su teléfono celular, como si realmente quisiera llamar a la policía.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -117,7 +117,3 @@ Chen Mo no pudo soportarlo más, así que se puso de pie y le dijo algo a Zhang 
 Aunque Zhang Ping no sobresalía en la clase en ese momento, su personalidad era muy arrogante. Después de que Chen Mo le dijo algunas palabras, no pudo contener su rostro, por lo que regañó a Chen Mo. como huérfano.
 
 Chen Mo luchó directamente contra Zhang Ping debido a esta oración. Zhang Ping no era el oponente de Chen Mo en absoluto, por lo que fue golpeado por Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

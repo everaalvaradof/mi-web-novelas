@@ -115,7 +115,3 @@ Li Juncheng dijo rápidamente.
 Chen Mo sabe que mañana es sábado, y de todos modos no tiene nada que hacer, y recientemente ha estado muy interesado en las artes marciales. Interesado, así aprovecho para echarle un vistazo.
 
 Li Juncheng estuvo de acuerdo con una sonrisa y luego colgó el teléfono.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

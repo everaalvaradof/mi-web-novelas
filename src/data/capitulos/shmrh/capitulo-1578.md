@@ -85,7 +85,3 @@ En este momento, todos estaban muy sorprendidos. Habían asistido a bastantes ce
 En media hora, estas personas de la familia Yan obviamente comenzaron a sentirse un poco mareadas, pero Chen Mo no hizo nada y su rostro nunca cambió. Esta situación es realmente extraña.
 
 Es solo que estas personas vinieron aquí hoy con el propósito de emborrachar a Chen Mo, por lo que no tenían la intención de detenerse y continuaron brindando por Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -95,7 +95,3 @@ Zhang Guangyao respondió con impotencia, luego apartó directamente la mano de 
 Después de unos segundos, el coche de policía desapareció de la vista de todos.
 
 Chen Mo entrecerró los ojos y miró a Wang Zijing, que ya estaba desplomado en el suelo, y le gritó a Lei Zhenyuan en un tono muy casual: “¡Comencemos!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

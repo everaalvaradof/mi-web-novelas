@@ -73,7 +73,3 @@ Después de escuchar esto, Zhao Zhengbin no pudo evitar girar la cabeza para mir
 Li Juncheng miró a Zhao Zhengbin durante dos segundos y luego sacudió la cabeza con desesperación.
 
 Después de que Chen Mo escuchó esto, miró a Li Juncheng ligeramente, pero no habló. Sabía que Li Juncheng había hecho lo mejor que podía esta vez.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -181,7 +181,3 @@ Después de escuchar las palabras del Rey Mei, Ya Wang no pudo evitar respirar h
 “También tengo mucha curiosidad acerca de este Chen Mo ahora, y creo que debería tener la oportunidad de ponerme en contacto con él yo mismo. ¡Este Chen Mo, mira quién es este Chen Mo!”
 
 El rey mostró una sonrisa misteriosa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

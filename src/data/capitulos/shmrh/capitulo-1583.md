@@ -115,7 +115,3 @@ El Capítulo en el Cuadro de Honor parece haber estado intacto durante muchos a�
 Después de todo, Chen Mo fue Capítulo que participó en este tipo de competencia una vez, y nunca antes había participado en un entrenamiento sistemático. Si a Chen Mo realmente se le permitiera entrenar bien, entonces Chen Mo definitivamente podría romper este récord.
 
 Los ojos de todos los presentes en Chen Mo han cambiado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

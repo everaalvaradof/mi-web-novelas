@@ -129,7 +129,3 @@ Chen Mo caminó hacia la mesa de café y quería dejar la bebida en su mano, per
 Chen Mo rápidamente levantó la vista cuando escuchó esta oración.
 
 Encontré que Su Mubai estaba sentado en el sofá con una expresión de sorpresa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -127,7 +127,3 @@ Su Muyu sabía que Chen Mo estaba de mal humor, así que ella no lo hizo ¿Qué 
 “¡Envíame al aeropuerto!”
 
 Después de dudar un momento, Chen Mo susurró.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

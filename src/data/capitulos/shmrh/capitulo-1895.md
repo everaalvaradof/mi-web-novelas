@@ -179,7 +179,3 @@ Chen Mo preguntó apresuradamente.
 “No sé exactamente qué es, pero Ziqing dijo que hay un video en el teléfono, ¡y me pidió que te mostrara el video!”
 
 Después de decir esto, Yu Xiaoxi le entregó directamente el teléfono a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

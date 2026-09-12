@@ -103,7 +103,3 @@ El Maestro Sun lo miró fijamente a los ojos y gritó con gran emoción.
 Dijo Zhou You con una sonrisa.
 
 Y Chen Mo miró a las dos personas frente a él con una expresión muy impotente en su rostro, porque Chen Mo no conocía el método de la alquimia en absoluto, y de acuerdo con la solicitud de Li Taibai, Chen Mo no podía decirles a los dos Debido a su relación, Li Taibai definitivamente no proporcionará el método de la alquimia, por lo que incluso si estas dos personas ofrecen condiciones atractivas, Chen Mo no tiene forma de estar de acuerdo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

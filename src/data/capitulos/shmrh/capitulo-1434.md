@@ -117,7 +117,3 @@ La mayoría de estos estudiantes no han cambiado.
 Al ver a estas personas, Chen Mo no pudo evitar recordar lo que le sucedió en la Universidad de Nanyang.
 
 Tal vez un gran número de estos estudiantes han intimidado a Chen Mo, y ahora Chen Mo no está de humor para preocuparse por esas cosas con estas personas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

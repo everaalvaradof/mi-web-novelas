@@ -173,7 +173,3 @@ No estoy dispuesto a perder ante alguien como Chen Mo.
 “Li Kai, no nos arrodillaremos hoy, ¡no puedo creer lo que Chen Mo puede hacerte!”
 
 Justo cuando Li Kai dudaba, Gao Feifei desapareció repentinamente del multitud Salió corriendo y le gritó a Li Kai con una expresión emocionada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

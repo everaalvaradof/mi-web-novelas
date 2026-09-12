@@ -151,7 +151,3 @@ Después de que Chen Mo se sentó con Chu Lan, Chu Lan comenzó a pedir vino.
 En menos de cinco minutos, la mesa de café frente a Chen Mo ya estaba llena de vino. Aunque a Chen Mo no le gusta beber y no suele ir a clubes nocturnos, sabe que los precios de estos Los vinos ordenados por Chu Lan no deberían ser baratos, el vino en esta mesa debe ser de al menos varios cientos de miles.
 
 En este momento, Chen Mo no podía entender lo que Chu Lan se proponía hacer aquí.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

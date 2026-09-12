@@ -143,7 +143,3 @@ La mujer no pudo evitar hacer una mueca cuando escuchó esto, y luego dijo a la 
 “¿Quién te dijo que la gente como yo no puede pagar una casa?”
 
 Chen Mo miró a la mujer y preguntó en un tono muy tranquilo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

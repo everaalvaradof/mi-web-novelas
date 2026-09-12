@@ -127,7 +127,3 @@ Chen Mo accedió apresuradamente.
 Tenía muy claro en su corazón que aunque Chu Lan no reveló directamente la identidad de Shui Ziyou, Chen Mo sintió que dado que Chu Lan trajo a Shui Ziyou, significaba que Shui Ziyou definitivamente no era una persona común. Chu Lan debe tener sus intenciones para hacer esto.
 
 Tan pronto como Chu Lan se fue, Qin Yibing se acercó a Chen Mo y le dijo suavemente a Chen Mo: “Sr. Chen, consultaré con usted sobre el proceso de inauguración y veré si hay cualquier cosa ¡Qué necesita ser cambiado!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

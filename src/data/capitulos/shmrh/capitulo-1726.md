@@ -205,7 +205,3 @@ exclamó Zhang Ziqing, instintivamente queriendo apartar su mano.
 “Ahora que te pones las gafas de sol y el sombrero, es posible que la gente de Zhang Zicheng no pueda reconocerte, y entonces pensarán que tú y yo somos una pareja que vinimos al bar a jugar, y tú están lejos de mí. Puedo protegerte un poco más cerca, para que sea más seguro”.
 
 Chen Mo le recordó suavemente a Zhang Ziqing.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

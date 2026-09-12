@@ -123,7 +123,3 @@ Guan Yifan lo miró fijamente y gritó con una expresión muy emocionada.
 “Maestro Guan, lo siento, el Sr. An me dijo que si pierde ante Chen Mo hoy, debe morir aquí y dejar que todos sepan que Chen Mo lo mató. ¡Sí!”
 
 Después de decir esto, He Yuanfa arrojó directamente a Guan Yifan de su espalda.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

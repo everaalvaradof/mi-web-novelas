@@ -123,7 +123,3 @@ El auto de Chen Mo desapareció instantáneamente y todos se concentraron en la 
 Wang Zifei es un dios del automóvil invicto, por lo que no debe haber ningún problema con sus habilidades de conducción. Además, el automóvil de Wang Zifei es un emperador, y Chen Mo solo conduce un Lamborghini modificado normal. Hay una última razón clave, es decir, Chen Mo obviamente estaba atrasado cuando comenzó.
 
 Aunque Chen Mo solo se retrasó por uno o dos segundos en este momento, puede crear una distancia de liderazgo de casi 100 metros en solo uno o dos segundos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

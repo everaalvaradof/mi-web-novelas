@@ -85,7 +85,3 @@ Después de que Chen Mo respiró hondo, se tumbó directamente en el sofá y lue
 Después Wang Yaoyao escuchó las palabras de Chen Mo, sus ojos originalmente borrosos instantáneamente se volvieron sobrios, giró la cabeza para mirar a Chen Mo ligeramente y dijo suavemente: “Chen Mo, yo también te amo”
 
 Después de decir esto, Wang Yaoyao se inclinó directamente hacia los brazos de Chen Mo y dijo suavemente: “Chen Mo, realmente te amo, siempre que pueda estar contigo, ya estoy muy satisfecho, realmente no puedo nada, siempre y cuando estés a mi lado”.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

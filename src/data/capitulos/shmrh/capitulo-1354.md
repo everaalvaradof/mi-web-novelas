@@ -109,7 +109,3 @@ Chen Mo miró su teléfono y descubrió que había recibido un mensaje de texto 
 Qiao Ying se ha ido de la ciudad de Beihang, pero cuando abra Chen Mo, Qiao Ying rechazará todos los anuncios y vendrá a participar en la inauguración.
 
 Chen Mo respondió brevemente a la hora y el lugar, y luego entró al baño para lavarse.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -77,7 +77,3 @@ Yan She es una mujer que puede sacar el mayor encanto de una mujer en cualquier 
 Chen Mo miró a la incomparablemente sexy Yan She sobre Jiang Tian con una expresión muy impotente en su rostro.
 
 Porque Chen Mo originalmente planeó regresar a la escuela antes que la clase de Yan She, pero llegó tarde.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

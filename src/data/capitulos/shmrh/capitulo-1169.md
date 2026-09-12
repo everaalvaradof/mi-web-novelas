@@ -113,7 +113,3 @@ Cuando Lu Xiangyang y Lu Niannian siguieron a Chen Mo fuera del salón, todos lo
 Aunque la voz de Chen Mo a Lu Xiangyang no era muy fuerte en este momento, ¡las personas presentes la escucharon claramente!
 
 En ese momento, ¡todos se dieron cuenta de que la identidad de Chen Mo podría no ser tan simple como pensaban!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -129,7 +129,3 @@ Y Guan Qiankun retrocedió tres pasos seguidos para estabilizar su cuerpo.
 Debes saber que el Segundo Anciano anterior no podía sacudir a Guan Qiankun sin importar cuánto ejerciera su fuerza, pero el golpe de hace un momento hizo que Guan Qiankun retrocediera tres pasos. Terrible lugar.
 
 Sin embargo, el segundo anciano parecía indefenso en este momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

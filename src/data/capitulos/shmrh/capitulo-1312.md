@@ -105,7 +105,3 @@ Pero Wang Zifei no se rindió en absoluto, y aun así siguió de cerca a Chen Mo
 Chen Mo sostenía el volante con fuerza con ambas manos, mirando al frente con una expresión muy seria.
 
 Y Zhao Jinyu giró la cabeza y miró a Chen Mo inconscientemente, y hubo un repentino destello de extrañeza en sus ojos, pero rápidamente pensó en el asunto de que Chen Mo la amenazó en este momento, así que todo la extrañeza en sus ojos brilló y luego, fue reemplazada por ira y resentimiento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

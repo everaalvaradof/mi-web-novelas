@@ -83,7 +83,3 @@ Zhao Zirou dijo nerviosamente.
 “¿Zhao Yuancheng es tan poco humano?”
 
 Chen Mo miró a Zhao Zirou y realmente no supo qué decir, porque no esperaba que Zhao Yuancheng estuviera tan enojado, incluso su esposa e hijos no lo dejarán ir.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

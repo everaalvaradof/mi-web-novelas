@@ -143,7 +143,3 @@ Porque Chen Mo descubrió que Qin Yibing no fue secuestrado en absoluto, por el 
 Por supuesto, esto no es lo que más sorprendió a Chen Mo.
 
 Lo que más sorprendió a Chen Mo fue que Qin Yibing estaba durmiendo desnuda, y Qin Yibing apartó todas las colchas de su cuerpo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

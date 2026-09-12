@@ -123,7 +123,3 @@ Después de que Wang Yaoyao vio que Sun Miao estaba de acuerdo, le dijo suavemen
 Chen Mo asintió levemente, luego caminó hacia el exterior de la oficina de ventas.
 
 Pero en ese momento, una hermosa mujer con un vestido negro entró en la oficina de ventas. Cuando la hermosa mujer vio a Chen Mo, instintivamente gritó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

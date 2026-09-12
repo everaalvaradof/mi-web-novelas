@@ -127,7 +127,3 @@ Dijo Qi Yongying con el ceño fruncido.
 Por un momento, todos en la familia Qi no pudieron evitar respirar.
 
 “Ahora solo podemos pedirles a estos guardaespaldas de nuestra familia que detengan a Chen Mo y ayuden a demorar un rato. Se estima que la gente del Sr. Feng estará aquí pronto”.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

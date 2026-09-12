@@ -111,7 +111,3 @@ Las personas presentes también comenzaron a discutir en voz baja.
 “Ustedes ni siquiera conocen a Lei Zhenyuan, así que no les presentaré más. Ahora “Solo puedo decirles que este Lei Zhenyuan irá a la posición más alta en el ejército en el futuro, y su futuro no tiene límites. Además, la familia Lei donde se encuentra Lei Zhenyuan es aún más notable. En el mundo militar, no uno puede igualarlo. Es una persona como el secretario Wang. ¡No necesariamente te atreves a ofender a alguien como Lei Zhenyuan!”
 
 Esta frase del tercer hijo de Bai no tenía paralelo, y todos los presentes tenían comprensión clara de la fuerza de Lei Zhenyuan.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -133,7 +133,3 @@ Pero tan pronto como Chen Mo abrió la puerta, vio que la extremadamente sexy Ya
 Después de ver a Yan She, la expresión de Chen Mo colapsó anormalmente. Frunció el ceño y preguntó: “Hermana mayor, ¿por qué sigues en mi casa?”
 
 Yan Ella escuchó las palabras de Chen Mo Más tarde, él miró a Chen Mo y luego dijo a la ligera: “Algo anda mal con la habitación que renové, ¡así que no puedo moverla por el momento!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

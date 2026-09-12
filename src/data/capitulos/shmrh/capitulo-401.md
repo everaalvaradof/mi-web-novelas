@@ -115,7 +115,3 @@ Xiao Li rápidamente miró a Chen Mo después de ver que Chen Mo lo detuvo, y lu
 Chen Mo sonrió levemente y luego continuó: “Pero lo pensé hace un momento, parece que no tiene sentido golpear a Zhang Quande, después de todo, no tengo ningún odio profundo hacia él, ¿por qué no lo golpeas?”
 
 ¡Chen Mo señaló a Zhang Guangzhi que estaba de pie a un lado mientras hablaba!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

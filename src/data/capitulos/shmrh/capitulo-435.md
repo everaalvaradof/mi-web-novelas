@@ -89,7 +89,3 @@ Después de todo, en el contacto de ahora, Wang Shuo podía sentir que Chen Mo e
 ¡Esto obviamente va a poner un pie en la cara de Chen Mo!
 
 Y Wen Ruoxi, naturalmente, ignoró a Wang Shuo, con una expresión muy impotente en su rostro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

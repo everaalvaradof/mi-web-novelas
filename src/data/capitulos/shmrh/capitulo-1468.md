@@ -109,7 +109,3 @@ Chen Mo no pudo evitar quedarse atónito cuando escuchó esto, y luego dijo con 
 “Joven maestro Chen, ¿no entiendes lo que quiero decir?”
 
 Tian Haixi caminó con gracia mientras hablaba, Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

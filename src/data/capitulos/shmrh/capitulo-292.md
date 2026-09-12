@@ -89,7 +89,3 @@ Los jefes presentes, incluidos Zhou Qiantu y otros, se giraron para mirar la pos
 Zhou Yangcheng suspiró emocionado, luego caminó rápidamente hacia Chen Mo y se inclinó profundamente ante Chen Mo. Gritó en voz alta: “¡Hola, joven maestro Chen!”
 
 Todos los jefes del restaurante se pusieron de pie, luego se inclinaron ante Chen Mo al unísono y gritaron: “¡Joven maestro Chen!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

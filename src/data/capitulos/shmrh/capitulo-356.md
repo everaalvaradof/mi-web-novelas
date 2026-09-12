@@ -93,7 +93,3 @@ Tang Qingqing sacó su teléfono celular y dijo en voz baja: “A las nueve en p
 Zhao Zhengbin extendió la mano y tomó el teléfono celular de Tang Qingqing, luego lo miró detenidamente y luego entregó el teléfono celular a los otros abogados del equipo legal.
 
 Después de un tiempo, Zhao Zhengbin le devolvió el teléfono a Tang Qingqing, luego miró a Tang Qingqing y le preguntó: “Señorita Tang, ¿tiene alguna otra evidencia además de este registro de llamadas?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

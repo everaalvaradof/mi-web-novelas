@@ -107,7 +107,3 @@ La mayoría de la gente prestó atención a las hermosas piernas de Tian Haixi, 
 Después de esperar en la sala de facturación VIP del aeropuerto durante casi media hora, Chen Mo y Tian Haixi finalmente subieron al avión.
 
 Debido a que Li Juncheng reservó un boleto de primera clase, no había muchas personas en la cabina, y la mayoría de ellos eran personas ricas, por lo que nadie prestó atención a Chen Mo y Tian Haixi. sus teléfonos
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

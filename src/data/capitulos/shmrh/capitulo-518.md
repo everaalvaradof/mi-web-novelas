@@ -115,7 +115,3 @@ Pero en este momento, Fan Liang gritó de repente.
 “Señor Fan, ¿qué sucede?”
 
 El crupier le preguntó suavemente a Fan Liang.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

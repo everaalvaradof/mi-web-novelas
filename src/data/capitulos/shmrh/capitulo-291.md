@@ -107,7 +107,3 @@ Su Chengkai respondió rápidamente.
 Su Mubai asintió con entusiasmo, luego colgó el teléfono y miró a Chen Mo a su lado, agarró la mano de Chen Mo y gritó: “Chen Mo, yo, el abuelo y los demás ¡Realmente te he hecho daño, Du Hongtao resultó ser cierto!”
 
 Chen Mo se sintió impotente cuando escuchó las palabras de Su Mubai, sin saber qué decir.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

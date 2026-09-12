@@ -105,7 +105,3 @@ Al principio todos pensaron que la batalla había terminado, pero nadie pensó q
 Todos levantaron la cabeza y miraron a la persona que disparó. El que acaba de disparar a Chen Mo en el aire era un hombre de mediana edad. El hombre de mediana edad vestía un traje blanco de tai chi, con un Apariencia gentil y ojos inusuales. Miraron con calma la posición de Chen Mo.
 
 Si no hubieras visto a esta persona derribar a Chen Mo con tus propios ojos, sería difícil para alguien creer que esa persona posee un poder tan aterrador.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

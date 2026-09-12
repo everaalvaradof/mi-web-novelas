@@ -141,7 +141,3 @@ El mesero se negó rápidamente.
 Chen Mo ni siquiera lo pensó, sacó dos monedas de su ropa y las arrojó frente al mesero, luego agarró la rosa y corrió a la habitación privada 303.
 
 Después de que el mesero tomó el dinero arrojado por Chen Mo, hubo un destello de perplejidad en sus ojos, y dijo con la boca fruncida: “¿Por qué está tan emocionado cuando confiesa?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

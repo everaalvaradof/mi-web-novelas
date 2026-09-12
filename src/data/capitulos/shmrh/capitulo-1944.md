@@ -171,7 +171,3 @@ Bi Chengan no sabe cuál es el verdadero poder del alma. En este momento, solo e
 Entonces, mientras Chen Mo pueda matar a Bi Chengan antes de que su alma abandone su cuerpo y evitar que Bi Chengan continúe proporcionando energía a su alma, puede ser asesinado por completo.
 
 Gritó Chen Mo en su corazón.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

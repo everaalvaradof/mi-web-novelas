@@ -109,7 +109,3 @@ En este momento, Xu Feng también estaba extremadamente desconcertado, no podía
 “¡Fui invitado por mi compañero de clase Chen Mo!”
 
 Bi Yuquan respondió con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -83,7 +83,3 @@ Cuanto más tiempo ha estado Chen Mo en contacto con Yan She, más siente Chen M
 Yan Pareció ver a través de los pensamientos de Chen Mo en un instante, y le susurró a Chen Mo. dijo.
 
 Después de escuchar las palabras de Yan She, Chen Mo no pudo evitar levantar lentamente la cabeza y mirar a Yan She. No sabía si debía decirle la verdad a Yan She.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

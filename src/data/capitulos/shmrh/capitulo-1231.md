@@ -115,7 +115,3 @@ Chen Mo susurró a Su Mubai.
 El tono de Su Mubai era muy serio hacia Chen Mo. gritó.
 
 Chen Mo miró a Su Mubai y dudó un momento, luego susurró: “¡Entonces iré contigo!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

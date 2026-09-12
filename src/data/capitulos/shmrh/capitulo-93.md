@@ -141,7 +141,3 @@ Así que Chen Mo se dio la vuelta y estaba a punto de entrar al hotel, pero ya e
 “¡Chen Mo, detente por mí!”
 
 Su Muyu gritó en voz alta con grandes ojos llorosos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

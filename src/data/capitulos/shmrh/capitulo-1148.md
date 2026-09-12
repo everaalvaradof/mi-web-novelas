@@ -133,7 +133,3 @@ Li A trace La culpa brilló en los ojos de Taibai cuando miró a Chen Mo. Despu�
 Chen Mo sonrió a Li Taibai mientras le enseñaba los dientes.
 
 No pretende culpar a Li Taibai en absoluto. Después de todo, si no fuera por Li Taibai, Chen Mo nunca habría recibido la píldora Samsara.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

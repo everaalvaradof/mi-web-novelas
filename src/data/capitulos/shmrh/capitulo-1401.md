@@ -141,7 +141,3 @@ El camarero miró a la multitud y explicó en voz baja.
 “Sí, todos lo tomamos prestado hoy. La luz del Maestro Zhang, si no fue por el Maestro Zhang, ¿cómo pudimos haber comido un plato tan bueno?”
 
 Después de escuchar las palabras del mesero, todos mostraron expresiones emocionadas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

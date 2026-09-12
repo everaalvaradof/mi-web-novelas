@@ -91,7 +91,3 @@ Incluso la expresión de Li Taibai en su rostro después de ver esta escena es i
 Li Taibai le susurró a Guan Qiankun.
 
 Y Guan Qiankun no pudo evitar burlarse después de escuchar las palabras de Li Taibai, y luego dijo a la ligera: “Mientras pueda derrotarte, incluso si arriesgo mi vida, valdrá la pena”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

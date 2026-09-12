@@ -127,7 +127,3 @@ Parece que Mizuko Yu también fue sostenida como Capítulo una vez, así que tod
 Chen Mo caminó hacia el ascensor.
 
 Shui Ziyou escondió su cabeza directamente frente al pecho de Chen Mo. En ese momento, estaba muy preocupada por conocer a alguien que conocía.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -115,7 +115,3 @@ Ye Xueqi le dio a Chen Mo una mirada encantadora y dijo suavemente y con coquete
 Y Chen Mo miró a Ye Xueqi, sonrió y no habló. Anoche, Chen Mo no vio muy claramente, pero en este momento, Chen Mo sintió que Ye Xueqi parecía ser más hermoso y encantador que anoche.
 
 ¡Chen Mo no esperaba haber salvado accidentalmente a una mujer hermosa!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

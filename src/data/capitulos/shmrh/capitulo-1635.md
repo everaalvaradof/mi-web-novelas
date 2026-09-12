@@ -131,7 +131,3 @@ Si Shui Ziyou fuera una chica ordinaria, sería un poco mejor, pero la identidad
 En ese momento, Mizuki estaba muy preocupada de haberse encontrado con un conocido, y eso sería demasiado vergonzoso.
 
 Después de escuchar las palabras de Shui Ziyou, los ojos de Chen Mo brillaron con impotencia, y no podía pensar en una buena manera en este momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

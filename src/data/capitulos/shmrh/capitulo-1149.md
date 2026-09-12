@@ -129,7 +129,3 @@ Chen Mo vio que era Su Mubai quien llamaba con un destello de emoción en los oj
 Su Mubai dijo en voz baja.
 
 “Mu Bai, ¿has ido a Estados Unidos?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

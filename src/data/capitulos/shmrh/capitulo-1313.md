@@ -127,7 +127,3 @@ Zhao Jinyu dijo muy serio.
 Chen Mo sonrió levemente cuando escuchó esto, luego asintió y dijo: “Está bien, no te preocupes, ¡no lo diré!”
 
 Zhao Jinyu obviamente se sintió aliviada cuando vio el acuerdo de Chen Mo, y luego cerró los ojos y descansó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

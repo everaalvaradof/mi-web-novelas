@@ -201,7 +201,3 @@ Li Juncheng no pudo evitar fruncir el ceño levemente después de ver a este jov
 “Se convirtió en el gerente general de Huiding Group a una edad tan temprana. ¿Puede manejar todos los negocios de Huiding Group?”
 
 dijo Chen Mo en un tono desdeñoso.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

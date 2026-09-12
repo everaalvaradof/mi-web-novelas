@@ -149,7 +149,3 @@ Ya estaba lloviendo mucho en este momento. La figura de Chen Mo estaba sola bajo
 Una sorpresa cruzó los hermosos ojos de Zhang Ziqing.
 
 No podía imaginar cómo alguien que cayó directamente desde tal altura podría ponerse de pie y seguir luchando inmediatamente, incluso si fuera una guerrera, lo encontraría increíble.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

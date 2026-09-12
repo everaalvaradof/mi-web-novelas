@@ -199,7 +199,3 @@ Chen Mo le preguntó suavemente a Yin Chengyuan.
 “No, todo lo que dije es verdad, realmente no te mentí, solo déjame ir”
 
 Gritó Yin Chengyuan con una expresión muy dolorosa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

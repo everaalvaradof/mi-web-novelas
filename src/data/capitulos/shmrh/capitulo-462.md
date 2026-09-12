@@ -83,7 +83,3 @@ Chen Mo siente que es muy normal que Wen Ruoxi no crea en sí misma. ahora. Es u
 “¿Demuéstralo? ¿Cómo vas a probarlo?”
 
 Wen Ruoxi se paró en el lugar y le gritó a Chen Mo emocionado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

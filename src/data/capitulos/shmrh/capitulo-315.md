@@ -133,7 +133,3 @@ Chen Mo solo dijo esta oración Después de eso, un Una luz deslumbrante se ilum
 Todos giraron la cabeza para mirar.
 
 Un poderoso convoy corrió hacia la posición de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -101,7 +101,3 @@ En ese momento, Chen Mo se dio cuenta de que el llamado Valle Brumoso era en rea
 “¿Este es tu Valle Brumoso?”
 
 Chen Mo volvió la cabeza para mirar a Zhou You y le preguntó a Zhou You en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

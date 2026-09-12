@@ -117,7 +117,3 @@ Es decir, ¡hay un asiento menos en la sala privada!
 Originalmente, solo había ocho posiciones en esta sala privada, pero en este momento había diez personas.
 
 Yang Fang le pidió al mesero que agregara un asiento a Su Mubai, pero nadie agregó un asiento a Chen Mo, y el espacio en la sala privada era limitado, por lo que incluso si lo hiciera, no había forma de hacerlo. añadir un asiento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

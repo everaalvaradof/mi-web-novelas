@@ -171,7 +171,3 @@ Al final, sin importar quién gane o pierda, es lo mismo para la familia Zhao.
 Zhao Rongguang suspiró para sus adentros.
 
 Xu Wangchuan suspiró suavemente y no habló.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

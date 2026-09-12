@@ -131,7 +131,3 @@ Chen Mo sacudió directamente a Luo Qiu y luego caminó hacia Ma Tianshi.
 Ma Tianshi también estaba completamente estupefacto en este momento, porque no esperaba que Chen Mo regresara solo por sus propias palabras.
 
 Chen Mo no pudo evitar burlarse y luego dijo a la ligera: “Quiero que sepas si te duele recoger basura y golpearte”. ¡o no!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

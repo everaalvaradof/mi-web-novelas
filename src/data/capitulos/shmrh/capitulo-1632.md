@@ -137,7 +137,3 @@ En este momento, Yan Niancheng dijo de nuevo.
 Después de escuchar las palabras de Yan Niancheng, todos se dieron la vuelta y se fueron, y Yan She también se fue después de dudar un rato.
 
 En este momento, solo Chen Mo y Yan Niancheng quedaron en el patio trasero.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

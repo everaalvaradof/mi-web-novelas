@@ -197,7 +197,3 @@ Gao Feifei explicó suavemente.
 “Parece que después de tantos años, todavía no has cambiado tu carácter. A veces no está mal que una mujer sea materialista, ¡pero debes prestar atención a los medios para obtener material!”
 
 Chen Mo susurró Said a Gao Feifei.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

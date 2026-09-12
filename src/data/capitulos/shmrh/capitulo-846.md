@@ -89,7 +89,3 @@ Ning Tao regresó a la habitación mientras pensaba en estas cosas y luego tomó
 Qi Ya no pudo evitar burlarse después de escuchar las palabras de Ning Tao, y luego dijo en un tono muy desdeñoso: “Ning Tao, ¿no tienes espacio o solo preguntas?”
 
 Ning Tao se quedó atónito cuando vio a Qi Ya.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -125,7 +125,3 @@ Lu Xiangyang preguntó muy preocupado.
 Después de escuchar esto, Lu Xiangyang asintió rápidamente y luego tomó la iniciativa de llevar a Chen Mo de regreso.
 
 Lv Niannian miró a Zhou You con una expresión insatisfecha, pero no se atrevió a decir nada más, después de todo, su esperanza de sobrevivir ahora es Zhou You.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

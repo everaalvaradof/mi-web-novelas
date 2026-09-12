@@ -111,7 +111,3 @@ El tono de Xu Jiao Algunos gritaron emocionados a Chen Mo.
 “Lo dije antes, ¡no tienes que preocuparte por estas cosas!”
 
 Chen Mo respondió a Xu Jiao en un tono muy indiferente, luego se dio la vuelta y corrió en la distancia.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

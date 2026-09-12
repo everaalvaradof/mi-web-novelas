@@ -177,7 +177,3 @@ Por supuesto, esto también tiene un gran impacto en Chen Mo. Después de todo, 
 “¡No esperaba que estuvieras vivo!”
 
 El líder miró la posición de Chen Mo y suspiró suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

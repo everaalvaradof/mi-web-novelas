@@ -213,7 +213,3 @@ Liu Xue respondió impotente.
 Liu Chengping miró el rostro de Liu Xue con una expresión muy fea y preguntó en voz baja: “¿Ya sabía Chen Mo que era la mano de nuestra familia Liu?”
 
 Liu Xue le dijo a Liu Chengping con una expresión de impotencia.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

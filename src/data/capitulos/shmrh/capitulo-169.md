@@ -141,7 +141,3 @@ Y Chen Mo se sorprendió en ese momento, porque la foto de Chen Mo durmiendo con
 “¿No es una coincidencia?”
 
 Chen Mo mostró una sonrisa amarga y suspiró impotente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -111,7 +111,3 @@ Fan Liang en el automóvil BMW parecía estar aún más enojado después de verl
 “Todo tiene la culpa de este maldito Chen Mo. ¡Si no fuera por este Chen Mo, Luo Qiu podría haber estado conmigo!”
 
 Fan Liang murmuró en un tono frío, y luego empezó a hablar El coche buscó un arma.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

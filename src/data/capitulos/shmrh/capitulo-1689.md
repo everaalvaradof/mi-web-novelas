@@ -159,7 +159,3 @@ Dijo el conductor impotente.
 Dijo la mujer en voz baja.
 
 El conductor no dijo mucho después de escuchar las palabras de la mujer y siguió conduciendo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

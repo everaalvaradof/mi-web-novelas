@@ -133,7 +133,3 @@ Yan lo regañó directamente.
 “No te preocupes, no dejaré que me ayudes en vano. ¡Si te gusta algo, lo pagaré todo!”
 
 dijo Chen Mo con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

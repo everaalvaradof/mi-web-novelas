@@ -117,7 +117,3 @@ Lu Wen abofeteó a Chen Mo directamente, y la sangre fluyó de la comisura de su
 “¡Di que puedo, si te atreves a mencionar a mis padres, te partiré la boca!”
 
 Chen Mo le dijo a Lu Wen en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

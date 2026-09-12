@@ -139,7 +139,3 @@ Los amigos del agua en la sala de transmisión en vivo de Wen Ruoxi comenzaron a
 Y Chen Mo escribió lentamente esta línea de palabras en el teléfono y la envió.
 
 Wen Ruoxi miró las palabras de Chen Mo, una sensación de seguridad sin precedentes surgió en su corazón, abrió la boca para agradecer al pasado por el viento, pero antes de que pudiera decir algo, vio el pasado que Suifeng ya había hecho. retirado de la sala de transmisión en vivo!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

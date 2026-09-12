@@ -117,7 +117,3 @@ Chen Mo sonrió levemente y luego presionó directamente las manos de Su Mubai e
 En este momento, las posturas de los dos seguían siendo muy ambiguas. Su Mubai incluso podía sentir la respiración de Chen Mo, por lo que obviamente los latidos de su corazón se habían acelerado.
 
 Después de todo, nadie puede mantener la calma en una situación así.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

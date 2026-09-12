@@ -129,7 +129,3 @@ Los ojos de Feng Hao brillaron con sorpresa.
 “Sí, los miembros de la familia Qi y Qiu Feng solo están probando la fuerza de Chen Mo. Planeo dejar el resto a la persona a cargo en la isla de Hong Kong para que lo maneje”.
 
 Feng Xing dijo suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

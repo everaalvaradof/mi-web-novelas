@@ -95,7 +95,3 @@ Shi Xinxin preguntó rápidamente.
 Wang Shuo dijo lentamente.
 
 Chen Mo no pudo evitar girar la cabeza para mirar a Wang Shuo después de escuchar esto. En este momento, entendió por qué Wang Yaoyao estaba tan emocionado cuando se vendió esta villa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

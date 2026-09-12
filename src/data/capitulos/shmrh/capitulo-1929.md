@@ -179,7 +179,3 @@ Después de escuchar las palabras del capitán de la guardia personal, todos rá
 En ese momento, estas personas sabían en sus corazones que tal vez no podrían matar a Chen Mo si disparaban, pero también sabían que si no había manera de detener a Chen Mo ahora, podrían ser ellos. que murió, por lo que no tienen nada más que hacer ahora.
 
 El rifle en la mano del guardaespaldas arrojó llamas e innumerables balas volaron hacia la posición de Chen Mo nuevamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

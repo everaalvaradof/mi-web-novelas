@@ -131,7 +131,3 @@ Yan She estaba indefensa después de escuchar las palabras de Chen Mo, y dijo en
 Chen Mo le dijo a Yan She con una sonrisa.
 
 Yan Miró a Chen Mo con una expresión muy impotente en su rostro, sin saber qué decir.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

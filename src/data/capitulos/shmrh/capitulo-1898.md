@@ -141,7 +141,3 @@ Zhao Wanqiu gritó sin expresión.
 Obviamente, Zhao Wanqiu todavía apoyaba a Zhang Fansheng en su corazón en este momento.
 
 Después de todo, Chen Mo representa a la generación más joven de guerreros, y Zhang Fansheng representa a los ancianos que han vivido recluidos durante muchos años.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

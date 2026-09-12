@@ -111,7 +111,3 @@ Los antecedentes de Guan Yifan y Shen Lingdie también son muy aterradores, así
 “No te preocupes, nadie se atreve a despedir a Yan She, están aquí para disculparse con Yan She”
 
 Pero en este momento, Chen Mo dijo de repente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

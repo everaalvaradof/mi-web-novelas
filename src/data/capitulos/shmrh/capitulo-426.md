@@ -75,7 +75,3 @@ Después de escuchar lo que dijo Wang Yaoyao, los ojos de Chen Mo brillaron con 
 Wang Yaoyao hizo una pausa por un momento, y luego Continuó: “Pero esos acreedores vienen a pedir dinero todos los días, y me usaron para amenazar a mi madre. Al final, mi madre realmente no tuvo otra opción. Ella eligió ser una señorita, porque ella es una mujer, hay sin cultura, ¡solo puedes elegir esta forma de ganar dinero y pagar tus deudas!”
 
 Chen Mo de repente levantó la cabeza y miró a Wang Yaoyao cuando escuchó estas palabras, y hubo un indicio de sorpresa en sus ojos!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

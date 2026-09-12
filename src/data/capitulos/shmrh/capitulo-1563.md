@@ -89,7 +89,3 @@ Aunque Chen Mo ha hecho todo lo posible por controlarlo, hay algunas cosas que C
 “Chen Mo, levanta un poco las piernas, arrastraré este lugar y terminaré”.
 
 En este momento, Qin Yibing caminó hacia el lado de Chen Mo y dijo suavemente a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

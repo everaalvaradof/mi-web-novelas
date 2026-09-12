@@ -91,7 +91,3 @@ Las acciones de Wei Chen contra Chen Mo no fueron para ayudar a Su Bai. Wei Chen
 Chen Mo entrecerró los ojos y miró la posición de Wei Chen, con una expresión muy impotente en su rostro, porque el propio Chen Mo nunca pensó que había ofendido a tanta gente sin querer.
 
 Cuando todos vieron que Wei Chen ya había hablado, naturalmente estaban más seguros de que Chen Mo era un ladrón.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

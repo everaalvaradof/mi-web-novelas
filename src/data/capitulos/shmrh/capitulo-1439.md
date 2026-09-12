@@ -155,7 +155,3 @@ susurró el otro lado.
 “Está bien, entiendo.”
 
 Feng Hao rápidamente estuvo de acuerdo y luego colgó el teléfono.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

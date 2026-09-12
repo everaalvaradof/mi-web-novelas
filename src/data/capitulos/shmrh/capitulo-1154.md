@@ -109,7 +109,3 @@ Zhao Yueyue gritó muy emocionado y luego le gritó a Liu Xuanxuan: “Señorita
 Dijo Liu Xuanxuan a la ligera.
 
 Después de escuchar las palabras de Liu Xuanxuan, los ojos de Zhao Yueyue brillaron un poco de confusión nuevamente, pero no dijo mucho.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

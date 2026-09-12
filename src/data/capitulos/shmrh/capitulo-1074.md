@@ -125,7 +125,3 @@ Su Mubai le dijo a Chen Mo con una sonrisa.
 Chen Mo asintió, luego se dio la vuelta, Ren Bin, Ding Shuo y otros explicaron, Ren Bin y los demás naturalmente no dijeron mucho.
 
 Chen Mo siguió a Su Mubai al Maserati y desapareció directamente de la vista de todos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

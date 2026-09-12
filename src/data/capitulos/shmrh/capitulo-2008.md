@@ -201,7 +201,3 @@ Después de que estas delgadas líneas brotaran del cuerpo de Di Long, volaron d
 Chen Mo no tuvo oportunidad de prepararse en absoluto. En menos de medio segundo, todos estos hilos estaban atados al cuerpo de Chen Mo.
 
 Chen Mo instintivamente quería liberarse de los grilletes del hilo de seda, pero subestimó un poco la dureza del hilo de seda. No importa cuánto se esforzara Chen Mo, estos hilos permanecerían inmóviles.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

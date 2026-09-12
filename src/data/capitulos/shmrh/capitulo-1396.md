@@ -125,7 +125,3 @@ Wei Mengmeng no pudo evitar preguntar en voz baja después de ver que nadie reac
 “Mengmeng, si no lo dices, realmente no reconoceremos a esta persona como Chen Mo”
 
 “Chen Mo, ¿qué te pasa? ¿Por qué no nos contactaste después de que te cambiaras de escuela?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

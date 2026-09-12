@@ -125,7 +125,3 @@ Liu Yingying se ríe Yingying dijo.
 “Hermana Yingying, ¿es cierto lo que dijiste?”
 
 Después de que Sun Yuqing escuchó estas palabras, su rostro se emocionó al instante.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -103,7 +103,3 @@ Porque no podía entender por qué Chen Mo estaba tan ansioso.
 “¿Por qué Chen Mo siempre se siente raro últimamente?”
 
 Wen Ruoxi no pudo evitar susurrar mientras miraba la espalda de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

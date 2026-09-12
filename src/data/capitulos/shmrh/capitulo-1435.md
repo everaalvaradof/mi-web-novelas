@@ -137,7 +137,3 @@ Después de que todos escucharon el nombre, hubo un estallido de vítores.
 Chen Mo le dijo a Su Muyu con una expresión indiferente.
 
 Mientras Su Muyu estaba allí, la expresión de su rostro parecía un poco nerviosa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

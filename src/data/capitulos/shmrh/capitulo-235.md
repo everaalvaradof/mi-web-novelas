@@ -121,7 +121,3 @@ Mientras Sun Kai miraba a He Cai, estaba completamente estupefacto, no podía en
 “Chica, puedes irte si quieres, ¡pero por favor págame el dinero del jarrón!”
 
 En este momento, He Cai gritó de repente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -125,7 +125,3 @@ Shu Ziyu inconscientemente miró a la persona que acababa de pasar junto a ella,
 Shu Ziyu miró fijamente sus grandes ojos llorosos y gritó con entusiasmo.
 
 Chen Mo respondió con indiferencia a Shu Ziyu.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -113,7 +113,3 @@ Pero en este momento, Chen Mo de repente escuchó pasos.
 Chen Mo quedó atónito por un momento, luego rápidamente corrió hacia la puerta de hierro y la cerró suavemente, luego puso su oído en la puerta de hierro.
 
 Chen Mo podía escuchar pasos y conversaciones.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

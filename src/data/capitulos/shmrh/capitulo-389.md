@@ -103,7 +103,3 @@ Pan Ying le preguntó suavemente al capitán de seguridad.
 Pan Ying respondió a la ligera, y luego inconscientemente miró la posición de Chen Mo.
 
 Pero cuando Pan Ying vio a Chen Mo, se quedó atónita y la expresión de su rostro era extremadamente sorprendida.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

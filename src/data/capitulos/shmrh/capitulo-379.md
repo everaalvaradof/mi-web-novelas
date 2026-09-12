@@ -115,7 +115,3 @@ Después de salir de la habitación, Chen Mo le dijo suavemente al conductor de 
 Xiao Chen respondió con una sonrisa, luego miró a Wang Zijing que ya había llegado a la puerta y dijo suavemente: “Maestro Chen, esta mujer ¿Planeas llevártelo?”
 
 Chen Mo asintió levemente, luego caminó directamente al lado de Wang Zijing y se estiró para abrir la puerta.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

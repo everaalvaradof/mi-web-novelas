@@ -211,7 +211,3 @@ Zhang Zicheng dijo con desdén.
 Guo Fanghua dijo con el ceño fruncido.
 
 Zhang Zicheng se quedó en silencio después de escuchar las palabras de Guo Fanghua.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -113,7 +113,3 @@ Los ojos de Tang Ying brillaron con impotencia, sacó su teléfono móvil y quer
 Hermana Sun gritó emocionada.
 
 Los ojos de Tang Ying brillaron con impotencia, no sabía qué decir.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

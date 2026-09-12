@@ -169,7 +169,3 @@ Chen Mo respondió en voz baja, y luego comenzó a usar su respiración para con
 “¡Chen Mo, aunque puedes lastimarme, no puedes vencerme hoy!”
 
 Bi Cheng’an se burló e inmediatamente estimuló su respiración.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

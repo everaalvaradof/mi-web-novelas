@@ -123,7 +123,3 @@ Después de que Chen Mo, Mengliang, Liu Rui y otros corrieron hacia la puerta de
 El niño respondió en voz baja.
 
 Chen Mo, Mengliang, Liu Rui y los tres se sorprendieron casi al mismo tiempo cuando escucharon las palabras del niño, ¡y las expresiones en sus rostros estaban muy sorprendidas!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

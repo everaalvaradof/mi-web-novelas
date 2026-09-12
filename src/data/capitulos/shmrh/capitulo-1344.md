@@ -121,7 +121,3 @@ Ahora Duan Chenjie tiene 10,000 giros en su corazón, porque no tiene forma de c
 “Se acabó disculparse, ¿verdad? Te acabo de decir que si te arrodillas y te inclinas ante mí ahora, te dejaré ir, ¡de lo contrario, este asunto nunca terminará!”
 
 Tao Yiliang es muy arrogante, le gritó a Duan Chenjie.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

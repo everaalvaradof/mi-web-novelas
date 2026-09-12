@@ -119,7 +119,3 @@ Acababa de escapar de un Wei Xiaole cuando llegó un Wang Yaoyao.
 Chen Mo sabía que si quería ocultarse ahora, sería demasiado tarde.
 
 Mientras Wang Yaoyao hable sola, Wen Ruoxi definitivamente podrá sentir que algo anda mal, por lo que Chen Mo no puede ocultarlo aunque quiera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

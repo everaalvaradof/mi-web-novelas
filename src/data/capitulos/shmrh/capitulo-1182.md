@@ -99,7 +99,3 @@ Por otro lado, mirando a Yan She, la expresión en el rostro de Yan She era muy 
 La razón también es muy simple. Yan She intercambió fichas de 100.000 yuanes en el casino hace un momento, pero menos de media hora después, las fichas en la mano de Yan She ya habían perdido casi.
 
 Aunque a Yan no le gusta mucho apostar, es una mujer muy fuerte. No importa lo que haga, es muy seria. No tiene forma de aceptar que es inferior a los demás.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

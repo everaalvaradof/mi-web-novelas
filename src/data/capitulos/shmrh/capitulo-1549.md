@@ -101,7 +101,3 @@ Allen miró a Chu Lan frente a él y se derrumbó en un instante, porque Chu Lan
 Y Chen Mo ya estaba un poco estupefacto en este momento. Fue Capítulo quien vio a su tía tan dominante.
 
 En este momento, Chu Lan obviamente estaba amenazando a Allen, y Allen no tenía nada que ver con Chu Lan, porque sabía que lo que acaba de decir Chu Lan no era una broma.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

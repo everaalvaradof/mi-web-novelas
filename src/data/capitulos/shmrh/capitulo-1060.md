@@ -109,7 +109,3 @@ La chica rápidamente se inclinó ante Chen Mo y dijo emocionada.
 “Todos son asuntos triviales, no tienes que preocuparte por ellos”
 
 Chen Mo respondió a la ligera a la chica, y luego siguió caminando hacia adelante.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -127,7 +127,3 @@ Meng Liang continuó preguntando después de ver que Chen Mo estaba en silencio.
 “¡Debes hacer lo que quieras!”
 
 Chen Mo volvió la cabeza y miró a Meng Liang, y dijo con impotencia.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

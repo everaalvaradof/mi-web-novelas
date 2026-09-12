@@ -129,7 +129,3 @@ Chen Mo miró a Yan She y parpadeó, la expresión de su rostro era muy impotent
 “Está bien, no te quedes aquí estúpidamente, ¡te llevaré a conocerlos!”
 
 Yan She dijo suavemente a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

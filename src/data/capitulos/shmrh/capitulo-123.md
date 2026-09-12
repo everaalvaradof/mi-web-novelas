@@ -99,7 +99,3 @@ Una idea audaz pasó repentinamente por la mente de Lin Qiushui.
 “Si ese es el caso, ¿mi madre no tendrá que obligarme a casarme de nuevo?”
 
 Los hermosos ojos de Lin Qiushui brillaron con un toque de astucia y suspiró suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

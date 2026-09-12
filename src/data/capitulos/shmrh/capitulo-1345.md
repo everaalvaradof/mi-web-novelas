@@ -111,7 +111,3 @@ La expresión de Duan Chenjie se suavizó mucho después de saber que eran ellos
 “¡Un millón por persona!”
 
 Respondió el hombre de mediana edad.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

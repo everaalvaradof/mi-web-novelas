@@ -115,7 +115,3 @@ Si este incidente es descubierto por otros, entonces Chen Mo realmente puede con
 Así que Chen Mo planea saltar el muro cuando haya menos gente.
 
 Chen Mo casualmente encontró un lugar remoto y esperó en silencio.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

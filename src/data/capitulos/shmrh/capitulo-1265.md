@@ -85,7 +85,3 @@ Su Mubai también miró a Chen Mo con una expresión de asombro. No sabía por q
 Fan Xihong le gritó a Chen Mo con una expresión muy enojada.
 
 “Esta persona es demasiado, saca a esta persona de mí rápidamente”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

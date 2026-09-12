@@ -93,7 +93,3 @@ Hua Manting también parecía impotente, respiró hondo y preguntó en voz baja:
 Hua Xiaowu preguntó directamente.
 
 Después de escuchar las palabras de Hua Xiaowu, Hua Manting movió la muñeca y todo el té que debería haberse vertido en la taza se derramó sobre la mesa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

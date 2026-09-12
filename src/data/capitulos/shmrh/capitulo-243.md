@@ -97,7 +97,3 @@ Yang Fang se burló y no dijo nada.
 “Veamos las noticias en vivo. A las 8:00 de esta mañana, Wei Dongshuo, el director del museo de nuestra ciudad, llegó al Hotel Hongxing en la ciudad de Sujia, y He Cai, el gerente general del Hotel Hongxing, lo conocí en persona”
 
 Después de escuchar las noticias, Su Mubai y Su Chengkai se giraron rápidamente para mirar la televisión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -93,7 +93,3 @@ Wang Bo tiene más de diez hijos ilegítimos, y cualquiera que saque es mejor qu
 Un hijo ha fallecido y Wang Bo aún puede encontrar otros sucesores.
 
 Pero si debido a esto, me convierto en una persona común y pierdo todas mis propiedades actuales, será más incómodo que matar a Wang Bo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

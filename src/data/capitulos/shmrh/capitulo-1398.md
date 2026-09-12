@@ -115,7 +115,3 @@ Chen Mo ha estado sentado en el mismo lugar y escuchando en silencio, pero Chen 
 Chen Mo no pudo evitar suspirar suavemente.
 
 Después de todo, Zhang Ping es solo un pasante en la sucursal de Huiding Group, ni siquiera un pasante en la sede, entonces, ¿cómo puede Zhang Ping saber sobre Chen Mo, lo que les dijo a todos? Todo es solo un rumor.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

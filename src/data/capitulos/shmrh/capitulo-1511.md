@@ -129,7 +129,3 @@ Dijo An Hong impotente.
 “Todas las acciones de nuestra Anjia ahora están en UBS. Una vez que Chen Mo complete el traspaso con UBS, nuestra Anjia realmente no tendrá nada”.
 
 Dijo An Yan con el ceño fruncido.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

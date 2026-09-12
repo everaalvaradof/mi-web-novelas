@@ -217,7 +217,3 @@ El quinto anciano se quedó estupefacto al ver esta escena, porque en un princip
 El quinto anciano sabía que no podía ser el oponente de Chen Mo en absoluto, así que se levantó y se preparó para huir.
 
 Pero Chen Mo no le dio ninguna oportunidad de escapar, corrió frente al quinto anciano en un instante y luego lo golpeó en el pecho.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

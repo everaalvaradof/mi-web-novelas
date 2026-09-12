@@ -125,7 +125,3 @@ Dijo Li Taibai a la ligera.
 “Entonces yo iré primero”
 
 Chen Mo saludó a Li Taibai con la mano y luego corrió directamente fuera del patio.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

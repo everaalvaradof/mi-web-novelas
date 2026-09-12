@@ -131,7 +131,3 @@ Qian Zelin instintivamente levantó la cabeza y miró, luego inmediatamente se c
 Y después de ver a la persona que entró, Qian Guangfa también quedó atónito y había un toque de sorpresa en sus ojos.
 
 Solo Chen Mo seguía sentado en silencio en la silla, porque ya sabía quién entraba.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

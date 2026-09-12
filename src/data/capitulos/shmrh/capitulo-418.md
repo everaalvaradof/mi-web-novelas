@@ -129,7 +129,3 @@ Wei Jiaqi finalmente se dio cuenta de lo que estaba pasando y corrió frente a C
 Wei Jiaqi abofeteó directamente a Chen Mo.
 
 ¡Esto hizo que Chen Mo, que había estado completamente inmerso en el municipio de Wenrou, recuperara la sobriedad en un instante!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

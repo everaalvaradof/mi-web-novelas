@@ -141,7 +141,3 @@ Después de tomar la tarifa, El taxista le dijo suavemente a Chen Mo.
 Chen Mo asintió y luego se acercó directamente.
 
 Chen Mo salió del auto y caminó durante unos diez minutos, cuando de repente vio a un gran grupo de personas reunidas, e innumerables autos deportivos estaban estacionados al costado de la carretera en silencio. Es una existencia. vale decenas de millones, y el rugido ensordecedor hace que la gente se sienta un poco mareada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

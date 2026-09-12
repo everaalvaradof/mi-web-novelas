@@ -119,7 +119,3 @@ Después de todo, a los ojos de Chen Mo, si no hay problema, no debería haber r
 Chen Mo sintió que él y Zhao Yueyue eran una niña Está el destino, y Chen Mo siente que Zhao Yueyue realmente no debería querer hacer este trabajo, por lo que debe tener algo que ocultar.
 
 Dado que poder encontrarse dos veces seguidas también es el destino, Chen Mo siente que si tiene la habilidad, está dispuesto a ayudar a esta chica.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

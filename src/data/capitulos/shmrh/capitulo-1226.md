@@ -125,7 +125,3 @@ Y Chen Mo no siguió perdiendo el tiempo con estas personas, y entró en la vill
 El guardaespaldas le gritó a Chen Mo en voz baja.
 
 Chen Mo respondió a la ligera, y luego siguió caminando hacia el interior.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

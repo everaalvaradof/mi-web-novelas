@@ -141,7 +141,3 @@ Luo Qiu no se olvidó de burlarse de Fan Liang, luego pisó tacones altos y se p
 “¡Chico, te atreves a jugar conmigo!”
 
 Pero en este momento, Fan Liang de repente le gritó a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

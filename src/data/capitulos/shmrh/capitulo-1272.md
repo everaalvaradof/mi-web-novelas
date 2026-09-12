@@ -113,7 +113,3 @@ Como era de esperar, el secretario Zhang decidió no sentarse después de hablar
 Después de que Yue Chengnan y Wang Xiao vieron esta escena, las expresiones en sus rostros estaban muy emocionadas, porque cuando Jin Xuezheng apareció hace un momento, los dos sintieron vagamente que algo andaba mal, pero cuando este Secretario Zhang apareció, instantáneamente rompió sus preocupaciones.
 
 No importa cuán poderoso sea Chen Mo, no importa cuán poderoso sea, ¿qué puede hacer?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

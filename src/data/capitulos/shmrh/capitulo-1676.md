@@ -115,7 +115,3 @@ Chen Mo gritó con cierto colapso.
 El hombre de mediana edad sacó una foto amarillenta de su ropa después de dudar un rato. La persona en la foto era Chen Mo, pero Chen Mo solo tenía cinco o seis años en ese momento.
 
 La expresión de Chen Mo en su rostro se sorprendió aún más después de ver esta foto tomada por el hombre de mediana edad, y rápidamente le preguntó al hombre de mediana edad: “¿De dónde sacaste esta foto?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

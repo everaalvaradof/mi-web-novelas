@@ -105,7 +105,3 @@ Wei Jiaqi, naturalmente, podía entender lo que Pan Ying quería decir con esta 
 Después de decir esto, Wei Jiaqi se fue felizmente.
 
 ¡Va a ver el programa de nuevo más tarde!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

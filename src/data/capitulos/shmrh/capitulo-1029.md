@@ -89,7 +89,3 @@ Li Gongzi no dudó en absoluto y trajo a la multitud. directamente frente a Chen
 Antes de que terminaran las palabras del Sr. Li, Chen Mo levantó lentamente la cabeza y miró al Sr. Li.
 
 Después de ver la apariencia de Chen Mo, el joven maestro Li se quedó atónito al instante en el lugar y no continuó diciendo las palabras en su boca. La expresión de su rostro estaba tan sorprendida.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

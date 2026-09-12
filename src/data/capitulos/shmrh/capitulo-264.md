@@ -121,7 +121,3 @@ Después de todo, Gu Qing solo quería que Chen Mo viniera a trabajar en su club
 ¡Ni siquiera saben cómo describir su estado de ánimo ahora!
 
 Zhou An, el favor de Zhou Gongzi, ¡qué cara!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

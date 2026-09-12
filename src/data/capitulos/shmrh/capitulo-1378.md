@@ -119,7 +119,3 @@ Originalmente, Huang Zhiming vino aquí hoy para ver algo animado, pero no esper
 Es solo que Jiang Qiwei prometió que Huang Zhiming dejará que Huang Zhiming sea el gerente general del Royal Dragon Club después de la apertura del Royal Dragon Club.
 
 Así que Huang Zhiming no se atreve a ofender a Jiang Qiwei ahora, solo puede seguir las instrucciones de Jiang Qiwei.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

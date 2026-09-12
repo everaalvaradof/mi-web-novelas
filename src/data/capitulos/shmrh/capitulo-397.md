@@ -105,7 +105,3 @@ Gritó Zhang Quande con los ojos bien abiertos.
 “Está bien, entonces te convenceré hoy, te daré esta oportunidad, ¡puedes llamar!”
 
 Chen Mo siempre ha sido claro acerca de una verdad, frente a una persona. como Zhang Quande, o no lo hagas. Si lo hace, debe ser sometido en un momento. Después de que Zhang Quande escuche el nombre de Chen Mo, temblará involuntariamente, de lo contrario, Zhang Quande puede causar problemas en el futuro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

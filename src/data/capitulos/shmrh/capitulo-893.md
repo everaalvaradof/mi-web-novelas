@@ -109,7 +109,3 @@ Los ojos de Meng Liang brillaron de ira después de escuchar lo que todos decía
 “¡Sí, Ah, por qué Chen Mo no recoge algunas botellas más y recoge la matrícula para el próximo semestre!”
 
 Los chicos de la clase replicaron apresuradamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

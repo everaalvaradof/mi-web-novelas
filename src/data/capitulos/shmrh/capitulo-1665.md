@@ -115,7 +115,3 @@ Chen Mo miró a Qin Yibing y asintió suavemente.
 Qin Yibing rápidamente liberó a Chen Mo después de descubrir que no tenía ropa en su cuerpo, y luego comenzó a ponerse ropa en su cuerpo, le dijo a Chen Mo mientras vestía ropa: “Chen Mo, fui yo la última noche. Si no controlas tus emociones, sé que ya tienes novia, y no es mi intención destruir a tu familia. Lo que pasó anoche es como si nada, no te molestaré, no te preocupes. !”
 
 Chen Mo sonrió impotente después de escuchar las palabras de Qin Yibing, luego extendió su mano y abrazó a Qin Yibing por detrás, y le dijo suavemente a Qin Yibing: “Ahora eres mi mujer. Seré responsable de ¡tú!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

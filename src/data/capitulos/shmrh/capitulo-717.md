@@ -85,7 +85,3 @@ Entonces, Wang Tianshi ya había tomado una decisión en este momento, incluso s
 Wang Bo gritó enojado después de ver dónde estaba parado Wang Tianshi.
 
 Wang Tianshi apretó los dientes y susurró en respuesta.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

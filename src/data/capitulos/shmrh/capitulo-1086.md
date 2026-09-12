@@ -133,7 +133,3 @@ Chen Mo preguntó emocionado.
 “Por supuesto, el efecto de Samsara Dan es muy poderoso. ¡No solo puede ayudar a la señorita Su a recuperar su memoria, sino también a reparar el daño cerebral causado por la cirugía de la señorita Su!”
 
 Fuyao dijo con gran certeza.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

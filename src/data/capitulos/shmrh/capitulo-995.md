@@ -105,7 +105,3 @@ Ling Shi se quedó sin habla, no podía entender cómo era ser una pequeña dire
 “Hermano Guo, escuché que algo importante le sucedió a su Grupo Uniasia hace algún tiempo. Me pregunto si lo sabe”. preguntó Ning.
 
 Guo Ning se sorprendió cuando escuchó las palabras de Wei Beiyan, luego entrecerró los ojos y dijo: “Hermano Wei, ¿usted también sabe eso?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

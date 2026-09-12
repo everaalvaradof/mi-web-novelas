@@ -151,7 +151,3 @@ Qian Xiong dijo directamente.
 Qian Xiong dijo muy directamente.
 
 Chen Mo miró a Qian Xiong sin hablar.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

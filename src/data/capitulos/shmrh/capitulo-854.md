@@ -101,7 +101,3 @@ Jiang Feifei miró con desconfianza la posición de Chen Mo.
 Wei Chen, Su Bai y otros parecen haber notado esto también. ¡Podían ver que Li Bufan miraba a Chen Mo de manera muy extraña!
 
 ¡Esto también hace que la gente sienta que este asunto se está poniendo cada vez más mal!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

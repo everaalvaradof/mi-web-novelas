@@ -117,7 +117,3 @@ Nunca imaginó que Chen Mo no se mintió a sí mismo en este momento, que Chen M
 “Dapeng, no eres demasiado tímido ahora. ¿Sabes quién es el Sr. Chen? Te atreves a ofender al Sr. Chen. Creo que estás cansado de vivir, ¿no?”
 
 Du Tianhao, naturalmente, sabía lo que estaba pasando, por lo que no fue cortés y lo regañó con voz fría.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

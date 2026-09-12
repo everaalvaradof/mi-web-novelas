@@ -131,7 +131,3 @@ Ahora, obviamente, todas estas personas están siendo utilizadas por la familia 
 Chen Mo respiró hondo, luego miró a Guo Qi y Li Meng y dijo: “Ya que les expliqué que no se detendrían, entonces no tengo nada que hacer, incluso si Li Ming y Guo Biao están ambos lo maté, ¿qué puedes hacer?”
 
 Guo Qi se burló, luego susurró: “¡Entonces mata por tu vida!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

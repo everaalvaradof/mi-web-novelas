@@ -105,7 +105,3 @@ Li Zixi miró a Chen Mo con una expresión de alivio.
 Chen Mo le preguntó a Li Zixi con algunas dudas.
 
 Li Zixi negó con la cabeza suavemente y no siguió diciendo nada a Chen Moduo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

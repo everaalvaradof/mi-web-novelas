@@ -115,7 +115,3 @@ Chen Mo se enfrentó a estos cuatro hombres fuertes con una expresión muy tranq
 Yan Lulu sonrió levemente, luego continuó: “Es muy simple, ¡solo quiero acostarme contigo!”
 
 Chen Mo sonrió con desdén y luego dijo suavemente : “No es necesario preparar a tanta gente para ir a la cama, ¿verdad?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

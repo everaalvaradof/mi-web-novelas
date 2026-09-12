@@ -147,7 +147,3 @@ Su Mubai también miró a Chen Mo con los ojos muy abiertos.
 Mírense el uno al otro.
 
 ¡El estado de ánimo de Chen Mo comenzó a complicarse un poco!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

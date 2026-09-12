@@ -107,7 +107,3 @@ Debido a que había tanta gente, Sun Yuqing no se atrevió a hablar demasiado di
 Liu Yingying preguntó en voz baja.
 
 Liu Yingying sintió que Sun Yuqing no debería estar bromeando con ella, así que después de saludar al hombre que estaba a su lado, se dio la vuelta y se fue con Sun Yuqing.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -155,7 +155,3 @@ Xia Xingze preguntó en voz baja.
 “De todos modos, no puedo pensar en una mejor manera ahora”
 
 dijo Xia Qingfeng sin expresión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

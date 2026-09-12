@@ -121,7 +121,3 @@ preguntó Pei Zi apresuradamente.
 “Porque ya no soy el que solía ser. Nadie se atreve a hacerme nada ahora. No importa lo que haga, ¡no necesito ser tímido!”
 
 Chen Mo dijo con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -149,7 +149,3 @@ Wen Ruoxi parpadeó y preguntó con un tono desconcertado.
 Dijo Zhang Feng con una sonrisa.
 
 Wen Ruoxi se sorprendió cuando escuchó las palabras de Zhang Feng, un rastro de nerviosismo brilló en sus hermosos ojos, ¡porque nunca pensó que Zhang Feng la llevaría a abrir una habitación!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

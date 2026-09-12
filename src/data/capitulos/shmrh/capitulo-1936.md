@@ -177,7 +177,3 @@ Bi Chengan dijo en voz baja.
 Chen Mo miró a Bi Chengan sin hablar.
 
 En este momento, los dioses de la tierra en la boca de Bi Chengan son en realidad una alianza formada por aquellos guerreros que están en la cima de las artes marciales. Estas personas controlan a todos los guerreros de la tierra y disfrutan egoístamente de lo más preciado. El aura del cielo y la tierra queda para los guerreros. Y todavía hay muchos maestros de artes marciales de tres estrellas entre los dioses de la tierra. Estos maestros de artes marciales de tres estrellas son obedientes a esos picos de artes marciales. El propósito es obtener el reconocimiento de los aterriza dioses un día y conviértete en el verdadero pico de las artes marciales.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

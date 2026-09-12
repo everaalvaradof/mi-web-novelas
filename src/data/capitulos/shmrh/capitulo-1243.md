@@ -133,7 +133,3 @@ Después de escuchar las palabras de Fan Meiyan, todos se miraron con extrañas 
 Fan Meiyan dijo a la ligera.
 
 Todos quedaron atónitos por un momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

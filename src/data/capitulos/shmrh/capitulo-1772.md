@@ -205,7 +205,3 @@ Chen Mo volvió la cabeza y miró a Fuyao sin hablar.
 Fuyao sabe que Chen Mo no está de buen humor ahora, por lo que no tiene intención de continuar. para molestarlo.
 
 Chen Mo asintió hacia Fuyao sin hablar.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

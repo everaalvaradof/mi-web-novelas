@@ -191,7 +191,3 @@ Chen Mo miró a Feng Jiuyang y preguntó con calma.
 Feng Jiuyang gritó emocionado, porque recordaba claramente que había interrumpido los meridianos del cuerpo de Chen Mo. En ese momento, Chen Mo ya estaba un lisiado, y luego Zhou Yu y otros lo arrojaron desde el acantilado de 10,000 metros.
 
 Bajo tales circunstancias, incluso un maestro de artes marciales no tendría posibilidad de sobrevivir.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

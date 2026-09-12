@@ -199,7 +199,3 @@ Después de que Zheng Shishi vio al anciano de cabello blanco, sus hermosos ojos
 “¿Maestro de artes marciales Samsung de tres estrellas?”
 
 Después de ver al anciano, los ojos de Wu Cang brillaron con sorpresa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

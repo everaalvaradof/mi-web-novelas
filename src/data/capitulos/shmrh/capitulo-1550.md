@@ -121,7 +121,3 @@ Y Qin Yibing sabía que el estado de ánimo de Chen Mo debería ser muy bueno de
 dijo Chen Mo con una sonrisa.
 
 Chen Mo miró a Qin Yibing con una expresión de sorpresa y luego dijo en voz baja: “¡No esperaba que adivinaras con precisión, y ganaste 13 mil millones!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

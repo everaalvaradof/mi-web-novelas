@@ -275,7 +275,3 @@ Vi una niebla negra que venía directamente hacia ellos dos.
 Chen Mo corrió directamente a la posición de la niebla sin dudarlo, y luego levantó el puño para aplastar la niebla.
 
 Gritó Qing Guiyuan, luego extendió la mano y agarró a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

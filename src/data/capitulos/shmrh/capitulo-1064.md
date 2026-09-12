@@ -103,7 +103,3 @@ En este momento, un joven gritó de repente.
 Después de escuchar esta oración, todos miraron hacia atrás y un Land Rover con números de cola cuatro y ocho condujo lentamente frente a todos.
 
 Después de que se abrió la puerta, un joven apuesto y apuesto salió del auto y una mujer hermosa salió del copiloto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

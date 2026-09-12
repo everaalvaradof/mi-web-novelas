@@ -135,7 +135,3 @@ Chen Mo gritó impotente.
 Luo Qiu respondió a la ligera, y luego soltó la mano de Chen Mo.
 
 Chen Mo siguió a Luo Qiu con una mirada de impotencia, porque realmente no podía entender qué iba a hacer Luo Qiu ahora.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

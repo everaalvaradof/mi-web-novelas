@@ -113,7 +113,3 @@ Después de hacer todo esto, Chen Mo detuvo directamente un taxi y subió al aut
 Y Zhao Yueyue miró la espalda de Chen Mo y no pudo evitar recordar lo que sucedió en el Club Nanxuan. Ahora, mientras piensa que Chen Mo ha visto su cuerpo, Zhao Yueyue está bastante sonrojada.
 
 Un momento después, Zhao Yueyue entró sola al hospital y encontró la sala de su madre.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

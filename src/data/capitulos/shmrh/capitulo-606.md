@@ -113,7 +113,3 @@ Chen Mo asintió y colgó el teléfono.
 Chen Mo y Zhao Lei esperaron más de diez minutos cuando vieron a Yan She salir del supermercado con dos bolsas de compras y luego caminar hacia el dormitorio con su pequeño trasero torcido.
 
 Tengo que decir que la espalda de Yan She sigue siendo muy encantadora, especialmente hoy Yan She lleva un cheongsam, sus piernas delgadas y claras son particularmente tentadoras bajo la luz, pero en este momento Chen Mo no está en el estado de ánimo en absoluto Mirando estas cosas, la expresión de su rostro era muy nerviosa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

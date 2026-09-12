@@ -131,7 +131,3 @@ Todos los presentes miraban al centro de la sala, con expresiones extremadamente
 Porque todos saben en sus corazones que Yan She es una mujer cuya fuerza es definitivamente más alta que la de los maestros de artes marciales. Es muy afortunado para estos artistas marciales poder ver pelear a dos maestros de artes marciales. “Después de todo, este es el caso. La escena no es algo que todos puedan encontrar”.
 
 Las expresiones en los rostros de todos eran muy nerviosas, incluso Chen Mo, porque Chen Mo no sabía si Yan She era el oponente de Wen Zhentian.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

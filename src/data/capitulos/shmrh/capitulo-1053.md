@@ -117,7 +117,3 @@ Sin embargo, Chen Mo pronto se dio cuenta de que era probable que Fan Meihua jug
 Fan Meihua pareció ver lo que Chen Mo estaba pensando y le dijo directamente a Chen Mo.
 
 Chen Mo se sorprendió aún más cuando vio la expresión en el rostro de Fan Meihua, porque nunca imaginó que Fan Meihua tendría tanta confianza, e incluso dejó que Chen Mo eligiera el lugar. de tasación.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

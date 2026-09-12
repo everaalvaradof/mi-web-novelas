@@ -177,7 +177,3 @@ Su Muyu miró ferozmente a Chen Mo, luego susurró: “Eres realmente desvergonz
 Su Muyu parecía estar aún más enojada cuando escuchó las palabras de Chen Mo, con la mirada llorosa Los grandes ojos regresaron una sentencia.
 
 Chen Mo estaba atónito, con una expresión perpleja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

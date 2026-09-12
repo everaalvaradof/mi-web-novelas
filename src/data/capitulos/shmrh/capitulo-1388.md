@@ -117,7 +117,3 @@ Chen Mo respiró hondo y dijo en voz baja: “¡Hermana Bingbing, creo que deber
 Qin Yibing sonrió con desdén y luego dijo a la ligera: “¿Vas a decirme que no viste nada? ¿No lo dijiste en serio?”
 
 Chen Mo abrió la boca. hablar.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

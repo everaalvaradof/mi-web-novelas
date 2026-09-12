@@ -137,7 +137,3 @@ Feng Xing le preguntó a Chen Mo con voz temblorosa.
 “Aunque los dos conocimos a Capítulo una vez, de hecho, tú pensaste en incriminarme no una o dos veces, y también comenzaste a atacar a las personas que me rodean, así que lo que quiero hacer es lo que tú deberías en tu corazón. ¡Está muy claro!”
 
 Chen Mo respondió a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

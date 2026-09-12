@@ -191,7 +191,3 @@ Pero cuando supo que Chen Mo planeaba tratar con todo el comerciante de plata, s
 “Sabrás quién soy en un momento. Ahora tienes que decirme todo lo que sabes sobre Xia Qingfeng y Yinshang, ¡y luego te contaré sobre mí!”
 
 Chen Mo dijo sin expresión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -143,7 +143,3 @@ Chen Mo asintió levemente.
 Zhang Ziqing no dijo mucho y le dijo directamente a Chen Mo el lugar y la hora. de la reunion.
 
 Chen Mo asintió y colgó el teléfono.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -113,7 +113,3 @@ Chen Mo respondió de mala gana.
 “Eso es diferente. No me importa si los extraños lo saben, ¡siempre y cuando mi abuelo y mi madre no lo sepan!”
 
 Su Mi respondió a la ligera a Chen Mo, luego se puso de pie. Se levantó y corrió directamente hacia el exterior de la habitación privada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

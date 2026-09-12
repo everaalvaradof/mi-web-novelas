@@ -139,7 +139,3 @@ Después de ver la apariencia de Chen Mo, Yan She no pudo evitar sonreír encant
 Yan Ella estiró la mano y palmeó la cama junto a ella mientras hablaba.
 
 Después de que Chen Mo escuchó las palabras de Yan She, instantáneamente se congeló en su lugar, su rostro obviamente estaba un poco abrumado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

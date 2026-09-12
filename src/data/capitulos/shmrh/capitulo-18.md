@@ -115,7 +115,3 @@ Y el disgusto en los hermosos ojos de la chica parecía ser más intenso despué
 Zhang Li gritó en voz alta.
 
 Cuando Chen Mo escuchó las palabras de Zhang Li, no pudo evitar mirar a Zhang Li, sus ojos estaban tranquilos y no habló.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

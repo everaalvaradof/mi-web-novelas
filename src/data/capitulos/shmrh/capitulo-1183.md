@@ -101,7 +101,3 @@ Chen Mo miró a Youyou y preguntó.
 Youyou miró a Chen Mo de frente de ella con una leve sonrisa, su tono respondió con mucha calma.
 
 Después de escuchar las palabras de Youyou, Chen Mo parecía sentir aún más curiosidad por la chica que tenía delante, así que sacó algunas fichas y las colocó frente a Youyou, y luego dijo inexpresivamente: “Inactivo es inactivo”. cuéntame tu historia, mientras me parezca maravillosa tu historia, estas son todas tuyas”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

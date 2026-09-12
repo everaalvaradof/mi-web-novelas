@@ -167,7 +167,3 @@ Zhang Fansheng no pudo evitar burlarse después de escuchar las palabras de Zhan
 “Las habilidades de Chen Mo no son fáciles, si queremos deshacernos de este Chen Mo a través de asesinos, puede que no sea tan fácil. ¡Cosas!”
 
 Zhang Xize suspiró suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

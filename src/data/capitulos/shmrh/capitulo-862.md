@@ -99,7 +99,3 @@ Los ojos de Chen Mo brillaron mientras miraba el fondo de Jiang Feifei. Después
 Pero en este momento, Jiang Feifei, que ya había caminado casi cincuenta metros, de repente se volvió y señaló a Chen Mo, gritó.
 
 Chen Mo miró lentamente a Jiang Feifei y preguntó con un tono desconcertado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

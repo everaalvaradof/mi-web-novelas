@@ -119,7 +119,3 @@ La chica miró con los ojos muy abiertos, le gritó Zi Zi a Chen Mo con una expr
 Las chicas alrededor también los perseguían en este momento, persuadiéndolos con expresiones de enojo.
 
 Chen Mo levantó la cabeza y miró a la chica en su cuerpo, sin saber cómo describir su estado de ánimo actual.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

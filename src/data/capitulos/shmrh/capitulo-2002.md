@@ -297,7 +297,3 @@ Porque sintieron que la efectividad de combate de Chen Mo hoy era muy, muy aterr
 Los guerreros presentes comenzaron a discutir.
 
 Parece que a los ojos de estas personas, la batalla de hoy ha terminado y Chen Mo no tiene ninguna posibilidad de ganar.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

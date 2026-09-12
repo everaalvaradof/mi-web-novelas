@@ -103,7 +103,3 @@ Ning Shasha miró a Chen Mo y siguió preguntando.
 Chen Mo respondió apresuradamente y luego agregó: “Pero Hermana Sasha, no le digas a Ning Tao mi verdadera identidad”
 
 Ning Shasha parpadeó y preguntó con un tono desconcertado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

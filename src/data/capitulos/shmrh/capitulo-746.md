@@ -95,7 +95,3 @@ Su Bai giró la cabeza y miró a Chen Mo, luego dijo en un tono muy desdeñoso: 
 “¿Qué es este lugar?”
 
 Chen Mo miró a Su Bai y preguntó con indiferencia.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

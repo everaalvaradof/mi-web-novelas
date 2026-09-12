@@ -123,7 +123,3 @@ Dijo el segundo anciano en un tono tranquilo.
 El gran anciano vaciló por un momento y luego dijo en voz baja.
 
 El segundo anciano asintió suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -185,7 +185,3 @@ Chen Mo volvió la cabeza para mirar a Feng Jiuyang y le preguntó a Feng Jiuyan
 Preguntó Feng Jiuyang con una sonrisa.
 
 Chen Mo miró a Feng Jiuyang sin hablar.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

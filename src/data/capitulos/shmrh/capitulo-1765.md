@@ -195,7 +195,3 @@ Elina estaba obviamente atónita después de escuchar las palabras de Chen Mo, y
 “¡Porque creo que este colgante de jade tiene algo que ver conmigo!”
 
 dijo Chen Mo a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

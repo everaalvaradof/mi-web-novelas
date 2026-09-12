@@ -101,7 +101,3 @@ Chen Mo le dijo suavemente a Wang Zijing.
 “¿Te ayudaré a tener un hijo?”
 
 Wang Zijing se quedó atónito después de escuchar las palabras de Chen Mo, y la expresión de su rostro era increíble.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

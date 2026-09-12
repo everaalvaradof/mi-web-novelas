@@ -109,7 +109,3 @@ Chen Mo rápidamente le guiñó un ojo a He Cai y le pidió que se llevara la bo
 Pero He Cai no parecía entender lo que quería decir Chen Mo, pensando que Chen Mo quería que se fuera rápidamente, por lo que He Cai sonrió levemente, luego se dio la vuelta y salió de la habitación privada.
 
 Cuando Chen Mo vio que He Cai se había ido, la expresión de su rostro se volvió aún más muda.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

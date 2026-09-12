@@ -103,7 +103,3 @@ En este momento, Chen Mo puede entender que este Zhao Lei es obviamente un belic
 “¿Cómo diablos te atreves a pegarme?”
 
 El guardaespaldas que fue pateado por Zhao Lei se sentó en el suelo y gritó con una expresión muy dolorosa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

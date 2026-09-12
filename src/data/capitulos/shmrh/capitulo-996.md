@@ -113,7 +113,3 @@ Xu Li rápidamente se puso de pie y le gritó a Chen Mo cuando vio que algo anda
 Ling Shi también sintió que algo andaba mal, y rápidamente caminó al lado de Chen Mo y preguntó en voz baja.
 
 Pero Chen Mo, como si no hubiera escuchado las palabras de Ling Shi, le preguntó a Guo Ning en voz baja: “Dígame, ¿cómo se llama el presidente de su Grupo Uniasia?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

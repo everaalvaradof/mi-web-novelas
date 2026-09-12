@@ -145,7 +145,3 @@ Li Sisi le gritó a Chen Mo con ojos desesperados.
 “No necesito saber quién es él, ¡pero sabrás quién soy yo en un rato!”
 
 Chen Mo respondió con una expresión en blanco.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

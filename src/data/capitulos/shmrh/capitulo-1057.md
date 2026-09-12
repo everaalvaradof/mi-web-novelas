@@ -127,7 +127,3 @@ Su Mubai miró a Chen Mo y preguntó.
 “No es nada, solo quiero asegurarme de que te has ido, puedes irte”
 
 Chen Mo le dijo a Su Mubai muy feliz.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -99,7 +99,3 @@ Además, Chen Mo siempre ha querido hacer algo por sí mismo, y Chen Mo realment
 “Hace unos días, de repente recibí la noticia de que el propietario del Tianyun Club parece estar planeando transferir este club, y también incluye Tianyun Bar, Tianyun Business y Tianyun Hotel. Después de conversar con el presidente Li, El presidente Li piensa que esta es una muy buena oportunidad, ¡así que déjeme discutirlo con usted y ver qué piensa!”
 
 Lin Qingqian continuó después de ver los latidos del corazón de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

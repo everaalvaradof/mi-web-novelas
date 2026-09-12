@@ -105,7 +105,3 @@ Chen Mo sonrió y volvió a la carretera.
 Su Mubai dijo muy feliz.
 
 Chen Mo asintió y estuvo de acuerdo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

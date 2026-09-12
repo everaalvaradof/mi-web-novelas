@@ -115,7 +115,3 @@ Después de que Pan Ying vio que Chen Mo realmente estaba de acuerdo, su rostro 
 ¡Chen Mo nunca imaginó que caería en las manos de Pan Ying de esta manera!
 
 Y Pan Ying también parecía tener algunos efectos de drogas en este momento, sus ojos se veían muy borrosos, y ahora tenía una cosa más en mente, es decir, apresurarse a la caja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

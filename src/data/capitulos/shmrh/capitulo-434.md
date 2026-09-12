@@ -123,7 +123,3 @@ Aunque el Hotel Huazhong no se puede comparar con una gran villa como Bitianya, 
 En ese momento, un joven con un traje blanco estaba parado en la puerta del hotel.
 
 Chen Mo se quedó atónito cuando vio a este joven.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

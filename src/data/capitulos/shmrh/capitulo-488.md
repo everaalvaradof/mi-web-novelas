@@ -107,7 +107,3 @@ Chen Mo respondió con una sonrisa.
 “No sé por qué Du Yunfei te dejó ir, pero creo que las cosas definitivamente no son tan simples. ¡Iré a Du Yunfei ahora y le pediré una aclaración!”
 
 Jiang Feifei siente que lo que sucedió hoy fue realmente extraño, y gritó emocionado, luego se dio la vuelta y entró en el club nocturno Longhao.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -185,7 +185,3 @@ Wen Ruoxi se quedó estupefacto nuevamente después de escuchar la conversación
 “¿Estas personas no están aquí para ayudar a Zhang Feng?”
 
 tartamudeó Wen Ruoxi.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

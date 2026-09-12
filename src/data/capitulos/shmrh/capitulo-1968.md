@@ -167,7 +167,3 @@ Wang Nanyuan, Wu Tianlu y otros también estaban llenos de sorpresa, porque ambo
 “¡Xuantian Zhenwuquan, Diez Reinos del Dharma!”
 
 En este momento, Chen Mo rugió.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

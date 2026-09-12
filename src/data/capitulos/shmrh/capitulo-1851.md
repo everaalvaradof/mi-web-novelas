@@ -189,7 +189,3 @@ Chen Mo respondió a la ligera.
 “Pero creo que algo anda mal. Cuanto más recta es la Secta Fantasma Celestial, más aterradora es. Si no estuvieran 100% seguros, ¿cómo podrían ser tan descarados frente a la gente de ¿Ciudad de Yangjing?”
 
 Yan Ella dijo lentamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

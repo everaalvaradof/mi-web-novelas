@@ -103,7 +103,3 @@ Chen Mo preguntó sin palabras.
 gritó Wei Jiaqi con impaciencia.
 
 Chen Mo se sorprendió cuando escuchó las palabras de Wei Jiaqi, porque no sabía por qué Wei Jiaqi lo llamó en ese momento, ni cómo Wei Jiaqi sabía su número de teléfono.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

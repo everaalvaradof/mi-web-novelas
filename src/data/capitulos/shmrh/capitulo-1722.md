@@ -179,7 +179,3 @@ Chen Mo sonrió y luego dijo a la ligera: “Pero está bien si me rechazas, sim
 Zhang Ziqing le preguntó a Chen Mo en voz baja.
 
 Chen Mo negó con la cabeza y luego dijo con una sonrisa: “En realidad, este asunto es bastante simple, siempre que se quite la ropa y luego se acueste en el cama y coopere conmigo. Una noche es suficiente. Después de todo, tengo que arriesgar mi vida para protegerla. Si puedo acostarme con una mujer como usted, señorita Zhang, creo que vale la pena morir, y también debe pagar Qué precio más alto, después de todo, este tipo de cosas es la naturaleza humana, no puedes seguir buscando a un hombre todo el tiempo, ¿verdad?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

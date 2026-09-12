@@ -183,7 +183,3 @@ Chen Mo respondió a la ligera. y luego continuó Dijo: “Es solo que Zhao Rong
 “Tu mejora de fuerza es realmente sorprendente, y mucho menos a esos forasteros, ¡incluso yo no puedo entender de qué se trata todo esto ahora!”
 
 Yan Ella giró la cabeza y miró a Chen Mo, le dijo suavemente a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

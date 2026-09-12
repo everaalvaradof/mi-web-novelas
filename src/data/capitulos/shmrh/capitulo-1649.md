@@ -123,7 +123,3 @@ Debes saber que Chen Mo todavía estaba muy nervioso en este momento. Después d
 Después de que el timbre sonó dos veces, la puerta de la villa se abrió lentamente.
 
 Un joven que parecía un guardaespaldas apareció frente a Chen Mo. Después de mirar de arriba abajo a Chen Mo, dijo en voz baja: “Tú deberías ser Chen Mo, ¿verdad?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

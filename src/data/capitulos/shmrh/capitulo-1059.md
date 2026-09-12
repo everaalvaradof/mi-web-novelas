@@ -113,7 +113,3 @@ Originalmente, Chen Mo no tenía la intención de entrometerse en sus propios as
 Justo aquí En ese momento, un gran -La mujer de pechos con sombra de ojos se untó la garganta y gritó.
 
 Y la chica que fue golpeada se apresuró a rogar después de escuchar esto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

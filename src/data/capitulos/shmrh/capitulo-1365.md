@@ -133,7 +133,3 @@ Chen Mo sonrió levemente cuando escuchó las palabras de Qin Yibing, y luego di
 Qin Yibing abrió la boca y quiso hablar.
 
 Pero Chen Mo salió del hotel a grandes zancadas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

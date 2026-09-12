@@ -205,7 +205,3 @@ Xu Wangchuan también arrojó una bocanada de sangre y salió volando con la cab
 “¿Cómo es esto posible?”
 
 Zhao Rongguang se puso de pie de repente, mirando fijamente la posición de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

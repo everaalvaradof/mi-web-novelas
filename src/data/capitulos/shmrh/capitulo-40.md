@@ -121,7 +121,3 @@ Chen Mo dudó un momento y luego siguió rápidamente a Yan She fuera del salón
 Después de salir del salón de clases, Chen Mo descubrió que Yan She no tenía la intención de detenerse, sino que caminó hacia su dormitorio con tacones altos.
 
 Chen Mo miró las atractivas piernas de Yan She con medias negras y se preguntó en su corazón, ¿dónde ofendió a Yan She y por qué no podía decir nada en el pasillo? ¿Ir al dormitorio?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

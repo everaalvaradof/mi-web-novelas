@@ -109,7 +109,3 @@ Chen Mo pensó en la identidad de esta mujer en su mente, pero Chen Mo realmente
 Chen Mo no pudo evitar preguntarse en su corazón.
 
 La expresión en el rostro de Zhang Ziqing mirando la posición de la mujer también es muy desconcertada, no parece saber quién es esta mujer.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

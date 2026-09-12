@@ -127,7 +127,3 @@ Chen Mo está muy enojado con Li Juncheng ahora, después de todo, cuando firmó
 Li Juncheng sonrió torpemente, luego miró a Chen Mo y dijo: “Joven maestro Chen, en realidad tengo algo muy importante que decirle esta vez”.
 
 Chen Mo vio que los ojos de Li Juncheng no estaban del todo bien, así que giró la cabeza y preguntó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

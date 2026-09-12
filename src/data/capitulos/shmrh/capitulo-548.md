@@ -101,7 +101,3 @@ En este momento, Zhao Lei aprovechó al máximo su carácter de hombre recto y d
 Y la expresión de Chen Mo en su rostro se quedó sin palabras después de escuchar la gratitud de Zhao Lei. Originalmente, Chen Mo sintió que su EQ ya era muy bajo, pero no esperaba que el EQ de Zhao Lei fuera incluso más bajo que el suyo. Si Xu Weiwei toma la iniciativa de hablar contigo, ¿qué pasa si solo le das un favor?
 
 Xu Weiwei miró a Zhao Lei con una mirada de vergüenza, no supo cómo responder a Zhao Lei por un tiempo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

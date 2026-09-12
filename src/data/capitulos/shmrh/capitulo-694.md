@@ -129,7 +129,3 @@ Wei Jiaqi le gritó a Chen Mo con la boca pequeña.
 “¡Jiaqi, no digas unas pocas palabras!”
 
 Meng Liang frunció el ceño y lo regañó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

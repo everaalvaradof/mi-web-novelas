@@ -135,7 +135,3 @@ Luo Qiu fue muy atenta y le compró tops, pantalones y zapatos nuevos a Chen Mo,
 ¡Pero Chen Mo descubrió un problema muy serio!
 
 ¡Eso es porque Luo Qiu se olvidó de comprar la ropa interior de Chen Mo!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

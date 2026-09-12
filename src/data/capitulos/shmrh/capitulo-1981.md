@@ -237,7 +237,3 @@ Cuando la enorme palma roja voló hacia la posición de Chen Mo, el helicóptero
 “¿No esperaba que la fuerza de este Edward fuera tan aterradora?”
 
 Chen Mo no pudo evitar suspirar suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

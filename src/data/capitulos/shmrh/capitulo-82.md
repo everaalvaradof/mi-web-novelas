@@ -137,7 +137,3 @@ El gerente Zhang respondió suavemente.
 Después de escuchar las palabras del Gerente Zhang, Zhang Feng sintió que había sido golpeado por cinco rayos. Ahora no puede obtener mil yuanes de todo su cuerpo, pero tiene que pagar cien mil yuanes en este momento. ¡multa!
 
 ¡Esto literalmente está matando a Zhang Feng!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

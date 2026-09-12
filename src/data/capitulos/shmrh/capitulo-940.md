@@ -115,7 +115,3 @@ Si las cosas realmente empeoran, ni siquiera Ye Xueqi podrá salvar a Chen Mo.
 Su Bai estaba muy orgulloso de ver esta escena, después de todo, este era el efecto que quería ver.
 
 En este momento, Su Bai sabía que no necesitaba hacer nada en absoluto, y que solo podía ver la diversión en silencio. Según el personaje de Zhao Ziqian, este asunto definitivamente no ha terminado hoy.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -107,7 +107,3 @@ El cuerpo del capitán de la guardia personal salió volando y luego se estrell�
 En este momento, Qi Yongying finalmente salió de la villa con todos los miembros de la familia Qi.
 
 Cuando todos en la familia Qi vieron a los guardaespaldas que habían sido derribados por Chen Mo, las expresiones en sus rostros estaban muy sorprendidas, porque no esperaban tal resultado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -129,7 +129,3 @@ Chen Mo preguntó con los dientes apretados.
 Dijo Yan Ella a la ligera.
 
 Chen Mo miró a Yan She frente a él y no supo qué decir.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

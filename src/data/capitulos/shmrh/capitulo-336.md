@@ -93,7 +93,3 @@ Gerente Niu Hearing esto, se quedó atónito por un momento, luego volvió la ca
 El gerente Niu también ha estado en ventas durante muchos años, y todavía es muy humano. Elegante, pudo ver de un vistazo que la relación entre Chen Mo y Zhao An’an era inusual, por lo que no necesitaba ser recordó en absoluto, e inmediatamente comenzó a disculparse con Zhao An’an.
 
 Y Zhao An’an se quedó allí, completamente estupefacto, mirando fijamente la posición de Chen Mo, con una expresión increíble en su rostro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -103,7 +103,3 @@ Du Tianhao tomó mientras hablaba Se le entregó un documento a Chen Mo.
 Chen Mo no pudo evitar quedarse atónito después de escuchar esto, y luego extendió la mano y tomó la información.
 
 Cuando Chen Mo vio la foto en el documento, se quedó atónito por un momento, luego sonrió con impotencia y dijo suavemente: “Realmente conozco a esta persona”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -93,7 +93,3 @@ Chen Mo miró a Wen Ruoxi y asintió levemente, luego se levantó y siguió a We
 Wen Ruoxi giró la cabeza y susurró suavemente. Después de exhortar a sus amigos, pisó tacones altos y siguió a Chen Mo fuera de la villa.
 
 Después de salir de la villa, Chen Mo se detuvo en la puerta de la villa, luego cerró la puerta suavemente, giró la cabeza y le dijo a Wen Ruoxi: “Ruoxi, incluso si no me buscas, También intentaré dejarte claro, de hecho, te he estado mintiendo durante tanto tiempo”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

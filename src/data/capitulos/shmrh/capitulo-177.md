@@ -111,7 +111,3 @@ Chen Mo miró a Gao Feifei y sonrió, luego salió directamente del restaurante.
 Cuando Gao Feifei vio que Chen Mo realmente se iba a ir, un rastro de pánico brilló en sus ojos. No esperaba que Chen Mo preferiría dejarla seguir causando problemas en lugar de darle dinero, así que Gao Feifei se levantó rápidamente y miró Emocionado, gritó: “Chen Mo, no creas que no sé que tienes una prometida. Si tu prometida ve estas cosas, ¿cómo se sentirá?”
 
 Chen Mo escuchó a Gao Feifei con estas palabras, se congeló en el lugar y había un toque de sorpresa en sus ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

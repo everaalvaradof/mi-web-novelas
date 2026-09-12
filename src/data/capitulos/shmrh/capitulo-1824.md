@@ -175,7 +175,3 @@ Zhao Rongguang miró a Chen Mo con ojos sombríos y una expresión muy impotente
 Chen Mo Mirando a Zhao Rongguang, dijo.
 
 Zhao Rongguang giró lentamente la cabeza y miró a Xu Wangchuan, luego asintió con la cabeza impotente y dijo en voz baja: “Está bien, ¡haré que alguien prepare un contrato para ti ahora!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

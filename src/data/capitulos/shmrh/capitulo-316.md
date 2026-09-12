@@ -125,7 +125,3 @@ Li Juncheng se inclinó profundamente ante Chen Mo, luego gritó sin expresión:
 Todos estaban alborotados.
 
 ¡Todos se quedaron estupefactos, las expresiones en sus rostros eran increíbles!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

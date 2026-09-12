@@ -119,7 +119,3 @@ Aunque Wen Wangchuan trató a Chen Mo con mucha cortesía, siempre sintió que h
 “Está bien, Chen Mo, ¡déjame llevarte al departamento de limpieza para arreglar una habitación para ti!”
 
 En este momento, Wen Ruoxi le gritó a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

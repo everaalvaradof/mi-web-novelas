@@ -117,7 +117,3 @@ Después de escuchar las palabras de Bai Zhennan, todos no pudieron evitar jadea
 ¡Si este asunto se extiende, definitivamente causará un gran terremoto en la ciudad de Nanyang!
 
 ¡Y qué gran hombre aterrador podría hacer que tanto Li Juncheng como Bai Zhennan lo sirvieran!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

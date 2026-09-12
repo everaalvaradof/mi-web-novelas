@@ -135,7 +135,3 @@ Feng Hao volvió la cabeza y miró a Jiang Qiwei, luego dijo sin comprender: “
 Los ojos de Jiang Qiwei brillaron con una pizca de duda, y luego dijo con impotencia: ¡No sé qué debilidad tiene este Chen Mo!”
 
 “¿Qué pasa con sus amigos?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

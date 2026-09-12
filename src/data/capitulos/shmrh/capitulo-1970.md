@@ -143,7 +143,3 @@ Pero lo que nadie nunca imaginó fue que, incluso en este momento, Yunhan Wang N
 “No te preocupes, Lord God Eater nunca perderá.”
 
 Los guerreros presentes comenzaron a discutir en voz baja, y las expresiones en sus rostros eran muy nerviosas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

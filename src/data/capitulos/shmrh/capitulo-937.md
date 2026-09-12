@@ -107,7 +107,3 @@ Entre estos jóvenes están Wei Chen, Su Bai, Zhao Ziqian, quien tuvo algunos co
 Este joven también es el mejor amigo de Su Bai, llamado Zheng Xiuming.
 
 Y este Zheng Xiuming también es un hijo muy famoso en las cuatro provincias principales. Su carácter y comportamiento son similares a los de Zhao Ziqian, y no es una buena persona.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

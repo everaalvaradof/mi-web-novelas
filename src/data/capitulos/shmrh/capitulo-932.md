@@ -105,7 +105,3 @@ Chen Mo bajó la cabeza y miró su teléfono móvil. Cuando vio el nombre en él
 Hubo un destello de emoción en los ojos de Chen Mo, porque Tang Qingqing no se había puesto en contacto con Chen Mo durante tanto tiempo, y contactar a Chen Mo en este momento probablemente fue porque había noticias de Su Mubai.
 
 Así que Chen Mo tomó rápidamente el teléfono y conectó la llamada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

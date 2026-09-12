@@ -119,7 +119,3 @@ Debido a que no sabían que Qi Yongying tenía tanto dinero, ni siquiera toda la
 Chen Mo no pudo evitar reírse cuando escuchó las palabras de Qi Yongying y dijo a la ligera: “Deberías saber mi identidad, ¿crees que me gustaría tu dinero?”
 
 Qi Yongying se quedó atónito por un momento, sabía que a Chen Mo no le faltaba dinero en este momento, por lo que rápidamente cambió sus palabras y dijo: “Sr. Chen, todas las mujeres de nuestra familia Qi, como mientras puedas verlos, puedo hacerlo. Te los mando, tengo tres hijas, todas ellas son bellezas deslumbrantes, te garantizo tu satisfacción”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -163,7 +163,3 @@ Chen Mo no conocía a esta rica segunda generación, y no estaba de humor para p
 Y Ye Xian’er se sentó junto a Chen Mo.
 
 Después de sentarse, Chen Mo entró directamente en el estado de cultivo, y Ye Xian’er también cerró los ojos y descansó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

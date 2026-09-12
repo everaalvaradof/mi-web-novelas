@@ -123,7 +123,3 @@ El mesero trajo algunas botellas de Moutai.
 Duan Chenjie tomó la iniciativa de servirse una copa de vino, luego levantó la copa y dijo: “Eso es, todos los hombres en la sala beben algo de blanco y las damas pueden hacer lo que quieran”.
 
 Todos estuvieron de acuerdo y comenzaron a servir vino.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

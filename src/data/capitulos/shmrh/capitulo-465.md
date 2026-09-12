@@ -97,7 +97,3 @@ Después de que Jiang Feifei escuchó las palabras de Xue Ru, instantáneamente 
 Respondió Jiang Feifei con la boca pequeña.
 
 Xue Ru suspiró con impotencia y no dijo mucho.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

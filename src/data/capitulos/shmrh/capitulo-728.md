@@ -123,7 +123,3 @@ Chen Mo tenía algo de curiosidad después de ver esta escena, así que caminó 
 En este momento, Chen Mo de repente vio dos figuras familiares, y Liu Rui estaba arrastrando a Meng Liang hacia la multitud.
 
 ¡Meng Liang y Liu Rui se volvieron para mirar la posición de Chen Mo después de escuchar las palabras de Chen Mo!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -117,7 +117,3 @@ Se preguntó cuál era la relación entre la mujer llamada Su Mubai y Chen Mo, �
 Por otro lado, Su Mubai ha regresado a su hogar.
 
 Pero ella no sabía que Chen Mo había comprado esta villa y se la había dado. En este momento, todavía estaba preocupada por el dinero para comprar la villa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

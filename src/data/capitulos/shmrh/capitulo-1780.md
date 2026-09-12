@@ -209,7 +209,3 @@ De lo contrario, no sabría cómo explicar la habilidad de Chen Mo para usar el 
 Hu Biao no pudo evitar tartamudear.
 
 Quizás debido al efecto disuasorio de Tianlei, todos esos lobos de hielo dejaron de atacar a Chen Mo y miraron la posición de Chen Mo con pavor.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

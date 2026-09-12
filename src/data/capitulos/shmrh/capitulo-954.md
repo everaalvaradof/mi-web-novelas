@@ -105,7 +105,3 @@ Después de dudar un rato, Chen Mo le preguntó a Hua Xiaowu en voz baja.
 “¡Shu Zhengyun, el jefe de la familia Dongnanyang Shu!”
 
 Hua Xiaowu miró a Chen Mo y respondió.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

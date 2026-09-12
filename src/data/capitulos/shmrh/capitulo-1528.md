@@ -137,7 +137,3 @@ Guan Qiankun miró a Li Taibai y preguntó.
 Preguntó directamente Li Taibai.
 
 respondió Guan Qiankun.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

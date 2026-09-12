@@ -125,7 +125,3 @@ Unos minutos después, Fan Xihong preparó un contrato.
 Su Mubai y Fan Yuanze firmaron un contrato.
 
 Después de firmar el contrato, significa que Su Mubai es el jefe más grande detrás de la familia Fan. Después de todo, incluso Fan Yuanze solo controla el 13% de las acciones de la familia Fan, pero Su Mubai posee el 50% de las acciones. Comparte.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -85,7 +85,3 @@ En un abrir y cerrar de ojos, es fin de semana otra vez.
 Chen Mo comenzó a pensar si debería ir a la ciudad de Suhe para conocer la situación del lado del Grupo Li. Después de todo, Chen Mo fue un poco apresurado.
 
 Pero antes de que Chen Mo pudiera pensar en ello, recibió una llamada en su teléfono celular.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

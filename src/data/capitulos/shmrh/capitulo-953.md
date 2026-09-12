@@ -109,7 +109,3 @@ Hua Xiaowu le preguntó delicadamente a Chen Mo.
 “¡Te di una oportunidad, pero no supiste cómo apreciarla!”
 
 Chen Mo le susurró a Hua Xiaowu, y luego siguió corriendo hacia Hua Xiaowu.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

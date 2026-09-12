@@ -101,7 +101,3 @@ Después de ver esta escena, los ojos de Liu Xuanxuan se abrieron de nuevo, y su
 En ese momento, Liu Xuanxuan no tenía forma de creer que lo que veía era cierto.
 
 Debes saber que estos asesinos son cuidadosamente seleccionados por Liu Xuanxuan. Si eliminas a cualquiera de ellos, tendrán un poder de combate increíble. Diez personas comunes pueden no ser solo sus oponentes, pero en este momento estas personas colocadas frente a Chen Mo son como papel, tan vulnerables, y Chen Mo no tiene ningún movimiento elegante, solo esquivar y golpear, puede golpear un poder tan grande.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

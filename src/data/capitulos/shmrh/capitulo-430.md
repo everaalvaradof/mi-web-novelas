@@ -115,7 +115,3 @@ En ese momento, Wen Ruoxi tomó la iniciativa de saludar a todos y dijo.
 Shi Xinxin gritó apresuradamente.
 
 Wen Ruoxi y Chen Mo se sorprendieron casi al mismo tiempo después de escuchar las palabras de Shi Xinxin.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

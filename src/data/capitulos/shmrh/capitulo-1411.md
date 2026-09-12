@@ -113,7 +113,3 @@ Zhang Ping ahora es pasante de Huiding Group, mientras que Su Mubai es la novia 
 Entonces, en este momento, la expresión de Zhang Ping en su rostro todavía era muy fea. Seguía mirando las posiciones de Su Mubai y otros, sin saber qué hacer.
 
 El gerente del bar, Lin Jiaxu, también estaba desconcertado, como si no supiera lo que estaba pasando.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

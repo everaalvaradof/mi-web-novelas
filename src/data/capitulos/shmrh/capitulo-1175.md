@@ -101,7 +101,3 @@ Después de que Tao Yiran dijo estas palabras, casi todos los estudiantes presen
 ¡En un instante, el mundo entero se quedó en silencio!
 
 Y Chen Mo estaba completamente estupefacto. Miró fijamente a Tao Yiran frente a él. La expresión de su rostro era además de sorpresa. Nunca pensó que Tao Yiran lo encontraría hoy para hablar con él. di esto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

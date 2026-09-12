@@ -109,7 +109,3 @@ Wen Ruoxi sintió que algo andaba mal con Zhang Feng, y rápidamente miró hacia
 Antes de que Wen Ruoxi dijera estas palabras, se sintió mareada en su cerebro.
 
 ¡En ese momento, Wen Ruoxi se dio cuenta de que Zhang Feng podría haber puesto medicina en el agua!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

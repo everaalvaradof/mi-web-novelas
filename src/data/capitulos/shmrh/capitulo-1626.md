@@ -131,7 +131,3 @@ El lobo venenoso no pudo evitar quedar atónito al escuchar las palabras del jov
 Después de decir esto, el lobo venenoso se dio la vuelta y se fue.
 
 Y todos se fueron con el lobo venenoso.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

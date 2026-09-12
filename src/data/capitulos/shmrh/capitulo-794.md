@@ -101,7 +101,3 @@ Chen Mo asintió levemente, en ese momento Chen Mo ya entendió lo que estaba pa
 “Más tarde encontramos a un médico genio, quien dijo que si podía hacer una píldora de rejuvenecimiento, podría curar la enfermedad del Sr. Shu, así que encontramos a un maestro alquimista, y el alquimista dijo: Lo más importante ingrediente medicinal en la Píldora de Rejuvenecimiento es Qinglong Ginseng, ¡por eso volvimos aquí!”
 
 Dijo Wang Baishi rápidamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

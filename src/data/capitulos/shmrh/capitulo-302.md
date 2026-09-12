@@ -127,7 +127,3 @@ El joven se sentó en el lugar, mirando lascivamente las nalgas redondas de la m
 “¡Chen Mo, Chen Mo, tarde o temprano te mataré con mis propias manos!”
 
 Unos minutos después, el joven suspiró suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

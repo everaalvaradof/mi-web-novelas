@@ -119,7 +119,3 @@ Chen Mo no pudo evitar reírse cuando escuchó las palabras de Yan She, y luego 
 Yan Ella dijo suavemente.
 
 Chen Mo no pudo evitar reírse cuando escuchó esto, y luego dijo a la ligera: “¿Por qué debería estar nervioso por este tipo de cosas? De todos modos, incluso si la actuación es mala, no tiene nada que ver con yo, estoy muy nervioso. Deberías ser tú, ¿verdad?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

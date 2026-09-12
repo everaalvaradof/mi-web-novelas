@@ -103,7 +103,3 @@ Wei Jiaqi y Li Lingling vieron que Pan Ying parecía realmente querer ahuyentarl
 “¿Qué diablos le pasó a mi prima hoy? Realmente no le gustará este Chen Mo, ¿verdad?”
 
 Wei Jiaqi no pudo evitar susurrar después de darse la vuelta.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

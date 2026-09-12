@@ -119,7 +119,3 @@ Después de unos minutos, la música finalmente se detuvo lentamente.
 El maestro Qin aplaudió emocionado y luego le dijo a Su Muyu con una sonrisa: “Xiaoyu, ustedes dos cooperaron muy bien”.
 
 Su Muyu estaba adentro Después de escuchar las palabras del maestro Qin, un extraña mirada brilló en sus hermosos ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

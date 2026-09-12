@@ -117,7 +117,3 @@ En este momento, Chen Mo de repente le gritó a Zhang Guangyao.
 Zhang Guangyao giró la cabeza y miró a Chen Mo, luego gritó sin comprender: “Si alguien se atreve a evitar que nos llevemos a estas dos personas hoy, será tratado como una obstrucción. ¡Asunto oficial!”
 
 Chen Mo, Du Tianhao, Li Juncheng y otros escucharon las palabras de Zhang Guangyao, ¡y al mismo tiempo se congelaron en su lugar!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -121,7 +121,3 @@ En un instante, todo el patio trasero cayó en un silencio mortal.
 Esos asesinos no se atrevieron a atacar a Chen Mo en absoluto, porque sabían en sus corazones que incluso si atacaban a Chen Mo ahora, sería un callejón sin salida.
 
 Después de todo, dada la brecha en la fuerza absoluta, nadie está dispuesto a correr riesgos en este momento. Si realmente mueren en manos de Chen Mo, será una gran pérdida.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

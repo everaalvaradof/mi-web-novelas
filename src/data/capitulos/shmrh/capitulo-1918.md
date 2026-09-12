@@ -165,7 +165,3 @@ Ye Xian’er le sonrió a Chen Mo.
 “Ya que a tus discípulos de la Secta Beiyin no se les permite casarse ni tener hijos, ¿por qué tu maestro te dejaría quedarte conmigo?”
 
 Chen Mo miró a Ye Xian’er y preguntó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -141,7 +141,3 @@ Zhang Xichuan parecía desconcertado.
 Zhang Fansheng vaciló por un momento, luego dijo sin expresión: “Parece que solo podemos esperar, Chu Lan no es una mujer simple, si tuviéramos que matar a Chen Mo frente a ella habrá un problema en el futuro!”
 
 Después de escuchar las palabras de Zhang Fansheng, Zhang Xichuan suspiró con impotencia y no dijo nada más.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

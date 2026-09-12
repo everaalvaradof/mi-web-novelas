@@ -151,7 +151,3 @@ De lo contrario, de acuerdo con la situación normal, un experto en artes marcia
 En este momento, Chen Mo gritó de repente.
 
 Song Zheng de repente levantó la cabeza y miró a Chen Mo, y Chen Mo corrió hacia la posición de Song Zheng como un rayo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

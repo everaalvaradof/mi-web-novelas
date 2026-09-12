@@ -165,7 +165,3 @@ dijo Zhang Ziqing muy serio.
 “Por supuesto que tengo miedo”
 
 Zhang Ziqing asintió y luego continuó: “Pero creo que Es solo una persona común y nada de esto tiene mucho que ver conmigo, pase lo que pase, Li Taibai también es un maestro de las artes marciales, ¡así que no creo que me haga nada!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

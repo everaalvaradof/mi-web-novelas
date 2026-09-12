@@ -107,7 +107,3 @@ En este caso, Chen Mo ya no será Chen Gongzi de la provincia de Jiangnan, y Su 
 Incluso ellos sintieron que tal vez no tenían que esperar hasta que lo hicieran ellos mismos. Una vez que Li Taibai muriera, entonces Guan Qiankun definitivamente se desharía de Chen Mo.
 
 Así que Wei Chen y Su Bai eran las pocas personas presentes que esperaban que Li Taibai perdiera ante Guan Qiankun.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

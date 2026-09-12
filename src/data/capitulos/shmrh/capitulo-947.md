@@ -111,7 +111,3 @@ Chen Mo directamente dijo.
 Ye Xueqi gritó emocionado después de escuchar esto.
 
 En realidad, Ye Xueqi no tiene ninguna posibilidad de obtener este proyecto de metro. Después de todo, no puede tratar con los comerciantes de plata, pero si Chen Mo realmente accede a comprar materiales de construcción de su empresa, entonces para su empresa. También es una gran cosa buena, de esta manera, no solo se pueden recuperar las pérdidas anteriores, sino que su empresa también puede ganar mucho dinero.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -101,7 +101,3 @@ Li Juncheng no dijo tonterías y lo dijo muy directamente.
 “¿Cómo podría no haber esperanza?”
 
 Chen Mo sintió que Li Juncheng no debería estar bromeando, había una pizca de duda en sus ojos y preguntó con el ceño fruncido.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

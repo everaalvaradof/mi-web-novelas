@@ -99,7 +99,3 @@ Después de que Li Juncheng escuchó el número. No pudo evitar quedarse atónit
 “¿Quieres adquirir una empresa?”
 
 Li Juncheng no pudo evitar congelarse por un momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

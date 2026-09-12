@@ -99,7 +99,3 @@ Y cuando Chen Mo vio que las chicas eran tan activas y entusiastas, naturalmente
 Justo cuando Chen Mo y Ming Mei estaban charlando animadamente, un grupo de personas entró en el bar.
 
 El líder no es otro que Li Kai, quien ha sufrido varias pérdidas por parte de Chen Mo en los últimos días, mientras que Gao Feifei, Liu Di, Xu Jiao y varios otros compañeros de clase siguen a Li Kai. detrás de Kai.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

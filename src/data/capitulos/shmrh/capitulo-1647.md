@@ -107,7 +107,3 @@ Qin Yibing sacó su teléfono móvil y miró en eso, luego le preguntó a Chen M
 “Hermana Bingbing, lo que dije antes era solo una broma, no se lo tome en serio, después de todo, debe ocuparse de las cosas en ambos lados de la casa club y el casino, incluso si llega tarde y vete temprano No importa”,
 
 Chen Mo explicó rápidamente con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -119,7 +119,3 @@ Shi Xinxin de repente miró a Chen Mo y luego dijo suavemente: “Si entras así
 “¿Hay alguna prueba de esto? Que Chen Mo es un pobre idiota. Supongo que mientras revele su identidad, estará asustado y estúpido en el acto, tal vez incluso hablar. No diré nada”, dijo Wang Shuo con una sonrisa.
 
 Shi Xinxin le dio a Wang Shuo una mirada de impotencia, sin saber qué decir.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

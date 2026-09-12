@@ -101,7 +101,3 @@ Pero en este momento, Chen Mo de repente abrió los brazos y puso a Wang Yaoyao 
 Cuando Chen Mo abrazó a Wang Yaoyao, su delicado cuerpo tembló levemente.
 
 Wang Yaoyao anhelaba este abrazo desde hace mucho tiempo, pero no esperaba que apareciera de esa forma.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

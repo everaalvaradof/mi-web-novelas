@@ -103,7 +103,3 @@ El gerente Zhang inconscientemente giró la cabeza y miró a Ning Shasha, luego 
 “La junta directiva está a punto de comenzar, pero estos dos empleados de su departamento ni siquiera han preparado esos documentos. Afortunadamente, el presidente Chen no vino antes hoy. Si hubiera venido antes, He visto a estos dos. Dime, ¿qué pasa con alguien que pone archivos aquí?”
 
 Tan Ping lo miró fijamente y gritó en un tono muy emocionado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

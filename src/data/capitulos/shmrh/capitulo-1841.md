@@ -195,7 +195,3 @@ Xu Chengping caminó apresuradamente hacia Chen Mo después de ver salir a Chen 
 Chen Mo miró brevemente a las personas detrás de Xu Chengping, no solo todos los ancianos de la Secta Shangqing habían venido aquí, sino detrás de estas personas también seguido por decenas de discípulos.
 
 Chen Mo sintió que era suficiente tratar con el mismo Shang Qingzong, pero sería un poco engorroso traer a tanta gente para ir allí.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

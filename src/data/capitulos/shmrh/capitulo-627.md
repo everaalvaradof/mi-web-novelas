@@ -105,7 +105,3 @@ Al principio, todos pensaron que Bai Zhibing fue engañado por Chen Mo, pero aho
 Y Bai Zhibing no parecía haberse dado cuenta de lo que estaba pasando, su hermoso rostro estaba lleno de sorpresa, ¿cómo podría haber imaginado que las cosas cambiarían tan rápido?
 
 Hace un segundo, estaba preocupada por si Chen Mo estaría en peligro. Al siguiente segundo, ¡Chen Mo abofeteó a todos en la cara!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -121,7 +121,3 @@ Chen Mo dijo en voz baja después de pensar por un momento.
 “¿No estás demasiado lejos?”
 
 Yan Ella le gritó a Chen Mo con enojo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

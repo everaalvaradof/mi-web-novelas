@@ -103,7 +103,3 @@ Después de escuchar la conversación entre Chen Mo y Qian Ping, las expresiones
 En este momento, Chen Mo lo llamó perro frente a tanta gente, ¡y no se atrevió a refutarlo!
 
 ¡Esta escena es demasiado extraña a los ojos de todos!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

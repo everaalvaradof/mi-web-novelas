@@ -165,7 +165,3 @@ En este momento, Chen Mo de repente agitó su mano derecha y otra luz dorada vol
 Los ojos de Qiu Ting también brillaron con un rastro de tensión, y rápidamente agitó la espada relámpago en su mano.
 
 Un trueno del cielo negro golpeó directamente la luz dorada. Originalmente, todos pensaron que el trueno del cielo de Qiu Ting podría bloquear la luz de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

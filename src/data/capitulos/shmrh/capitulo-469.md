@@ -115,7 +115,3 @@ Esto mejoró mucho la imagen de Jiang Feifei en el corazón de Chen Mo.
 Chen Mo miró a Jiang Feifei, dijo.
 
 Jiang Feifei se quedó atónita después de escuchar las palabras de Chen Mo, y había una pizca de sorpresa en sus ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

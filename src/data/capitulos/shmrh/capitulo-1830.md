@@ -165,7 +165,3 @@ Todos no se atrevieron a desobedecer las intenciones de Chen Mo, y sacudieron la
 Chen Mo asintió levemente, luego se puso de pie y salió corriendo de la sala de conferencias.
 
 Después de ver a Chen Mo irse, Zhao Yiwen rápidamente siguió a Chen Mo fuera de la sala de conferencias.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

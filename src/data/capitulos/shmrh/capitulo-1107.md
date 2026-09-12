@@ -107,7 +107,3 @@ Tang Ying rápidamente se quitó las gafas de sol de la cara y le gritó a Chen 
 Y Chen Mo miró el rostro delicado y bonito de Tang Ying, la expresión de su rostro se quedó sin palabras, porque no esperaba poder conocer a Tang Ying.
 
 Naturalmente, Tang Ying estaba muy emocionada después de volver a ver a Chen Mo. Después de todo, Tang Ying sabía muy bien que la razón por la que pudo volver a ser popular nuevamente fue por Chen Mo, porque ella estaba en el resort. la última vez. Para complacer a Chen Mo, muchos peces gordos en la industria del entretenimiento piensan que Tang Ying y Chen Mo son amantes. Para complacer a Chen Mo, estas personas naturalmente hacen todo lo posible para complacer a Tang Ying.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

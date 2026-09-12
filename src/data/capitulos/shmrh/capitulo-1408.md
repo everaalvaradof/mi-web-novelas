@@ -129,7 +129,3 @@ Un destello de desesperación brilló en los ojos de Wei Mengmeng.
 Unos segundos después, el guardia de seguridad en el bar entró corriendo a la caja con una expresión extremadamente enojada en su rostro.
 
 Gritó el guardia de seguridad.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

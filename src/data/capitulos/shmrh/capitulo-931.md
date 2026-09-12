@@ -99,7 +99,3 @@ Y Chen Mo está ocultando su identidad ahora porque no quiere esperar hasta el d
 Para decirlo sin rodeos, ¡esta es solo una forma de que Chen Mo se proteja a sí mismo!
 
 Cuantas menos personas conozcan la identidad de Chen Mo ahora, si Chen Mo realmente pierde la calificación de herencia en el futuro, tendrá menos impacto en su vida futura.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

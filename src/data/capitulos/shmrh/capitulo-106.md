@@ -159,7 +159,3 @@ Meng Liang preguntó con una expresión de perplejidad.
 “¿Nuestra clase tiene un ladrón?”
 
 Meng Liang Después Al escuchar esto, se quedó atónito y había una pizca de confusión en sus ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -125,7 +125,3 @@ Su Mubai miró a Li Guangru profundamente, profundamente Él respiró hondo y lu
 Li Guangru asintió levemente y luego continuó: “Escuché que tú y este Chen Mo también tienen un contrato de matrimonio, ¿verdad?”
 
 “¡Sí, Chen Mo es mi prometido!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

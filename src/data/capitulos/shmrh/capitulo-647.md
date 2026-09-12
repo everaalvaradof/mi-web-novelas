@@ -109,7 +109,3 @@ Pero no dejó sus palabras demasiado claras en este momento, pero cambió de tem
 Alrededor de media hora más tarde, Bai Zhennan envió al Sr. Zhang fuera de la villa y luego regresó a casa con una cara sombría.
 
 En este momento, tanto Bai Zhennan como Wang Xia tenían expresiones extremadamente feas en sus rostros, porque ambos sentían que Chen Mo definitivamente le había robado este colgante de jade a otra persona.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

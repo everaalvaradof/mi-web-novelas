@@ -87,7 +87,3 @@ Chen Mo no estaba interesado en este tipo de escolta. Después de todo, Chen Mo 
 Chen Mo respondió con indiferencia mientras miraba a la hermosa mujer frente a él.
 
 Tengo que decir que la belleza que tengo frente a mí en este momento es realmente muy buena en apariencia y figura, y tiene una atmósfera natural y seductora, incluso si está ubicada en la Universidad de Beihang, debería ser La existencia del nivel de belleza de la escuela, el temperamento, la apariencia y la figura son suficientes para estar a la par con el nivel de belleza de Qi Yefei.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

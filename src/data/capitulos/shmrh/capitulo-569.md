@@ -99,7 +99,3 @@ dijo Su Mi a la ligera.
 Chen Mo se quedó atónito cuando escuchó estas palabras, y la expresión de su rostro se quedó sin palabras.
 
 Chen Mo no esperaba que Su Mi hablara tan directamente, y Chen Mo no supo cómo responder por un momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

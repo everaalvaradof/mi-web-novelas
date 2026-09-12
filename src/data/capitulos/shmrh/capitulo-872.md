@@ -95,7 +95,3 @@ El hermano menor miró la posición de Chen Mo y gritó con una expresión muy e
 Y Chen Mo no estaba de humor para decir tonterías. Levantó la pierna y pateó el estómago de su hermano pequeño directamente, y el hermano pequeño salió volando.
 
 Todos los presentes se quedaron en silencio.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

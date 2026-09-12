@@ -81,7 +81,3 @@ En este momento, Li Baiqiang estaba sentado en el sofá con una expresión muy e
 Por supuesto, el punto más importante es que Chen Mo no se llevó las acciones que dejaron en casa, sino que se las dio todas a Li Zixi, lo que definitivamente es un gran negocio para la familia Li.
 
 Después de que Li Baiqiang vio regresar a Li Zixi, se levantó rápidamente y le dijo a Li Zixi con una sonrisa: “Bingbing, esta vez realmente resolviste un gran problema para nuestra familia Li”.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

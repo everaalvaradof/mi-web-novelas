@@ -123,7 +123,3 @@ La pequeña belleza no pudo evitar hacer una mueca cuando escuchó las palabras 
 “¿Tienes que pedirle al gerente del restaurante que me despida?”
 
 Chen Mo se quedó sin habla cuando vio a la pequeña belleza frente a él, sin saber qué decir.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

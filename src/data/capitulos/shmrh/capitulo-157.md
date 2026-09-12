@@ -131,7 +131,3 @@ El conductor Xiao Li accedió rápidamente y encendió el auto.
 Yan Se paró frente a la ventana de la habitación privada con una postura provocativa, entrecerrando sus hermosos ojos Danfeng al paisaje fuera de la ventana.
 
 Después de ver partir el auto de Du Tianhao, Yan sacudió la copa en su mano con mucha gracia y luego susurró: “Pequeña Chen Mo, parece que realmente te subestimo, hermana, para poder sentarte en Du Tianhao. ¡Parece que todavía tienes algunas habilidades!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -105,7 +105,3 @@ La mujer vestía una falda corta roja ajustada con envolturas en la cadera, y su
 “¡No esperaba que este mundo fuera tan pequeño!”
 
 Chen Mo miró la posición de la mujer, y la expresión en su rostro era además de sorpresa, porque no No esperes que él esté aquí Puedes encontrarte con conocidos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

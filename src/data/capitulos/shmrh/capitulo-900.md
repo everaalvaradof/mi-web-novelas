@@ -97,7 +97,3 @@ Pero lo que nadie esperaba era que Chen Mo no reaccionara en absoluto cuando se 
 Él no es un diamante, por el contrario, es solo una persona común. Si se golpea el brazo de repente antes, incluso si no rompe el brazo de Chen Mo, Chen Mo definitivamente lo hará. insoportable sentir el dolor, pero ahora Chen Mo descubrió que no tenía mucha reacción.
 
 Y el joven con el bate de béisbol parecía estar en esa situación una vez para Capítulo. Sus ojos estaban llenos de conmoción e incredulidad, y miró a Chen Mo aturdido.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

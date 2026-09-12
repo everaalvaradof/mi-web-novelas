@@ -127,7 +127,3 @@ En este momento, había varios actores en el automóvil. Estos actores no son mu
 Las expresiones en los rostros de las actrices en el auto eran de mucha emoción en este momento, pues sabían que hoy era una muy buena oportunidad.
 
 Si tienes suerte, incluso puedes cambiar tu vida.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

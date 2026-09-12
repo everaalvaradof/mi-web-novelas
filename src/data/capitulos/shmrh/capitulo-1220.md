@@ -119,7 +119,3 @@ A los ojos de Chen Mo, el dinero no es más que un número.
 Además, Chen Mo no solo está tirando dinero en este momento. El propósito de lo que hizo es decirles a todos en la provincia de Tianyuan que es más difícil meterse con el Tianyun Club actual que antes, sin importar quién sea. es, mientras te atrevas a provocar al Club Tianyun, no habrá un buen final.
 
 Chen Mo puede aplastar a cualquiera con dinero. Esta es la confianza en sí mismo de Chen Mo y su confianza.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

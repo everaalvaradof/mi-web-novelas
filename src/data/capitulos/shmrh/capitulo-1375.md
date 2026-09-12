@@ -121,7 +121,3 @@ Jiang Qiwei se adelantó y le preguntó a Chen Mo en un tono muy arrogante.
 Dijo Chen Mo con el rostro en blanco.
 
 “Debería ser que te subestimé. Originalmente planeé aprovechar esta oportunidad para abofetearte en la cara, pero no esperaba que fueras un poco hábil, y has invitado a muchos grandes gente. pero en comparación conmigo, ¡todavía eres un poco peor!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

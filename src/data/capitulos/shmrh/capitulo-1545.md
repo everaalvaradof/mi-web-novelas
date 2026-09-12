@@ -143,7 +143,3 @@ Chu Lan miró a Chen Mo de arriba abajo y luego preguntó con la boca pequeña: 
 Chen Mo le gritó a Chu Lan con cierto colapso.
 
 Chu Lan mostró una expresión muy desdeñosa y dijo a la ligera: “¿Lo hiciste a propósito o no?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

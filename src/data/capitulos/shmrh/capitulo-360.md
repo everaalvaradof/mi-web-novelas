@@ -101,7 +101,3 @@ Zhao Zhengbin respondió suavemente.
 Chen Mo, Li Juncheng, Su Mubai y los demás tenían una mirada extraña en sus ojos cuando escucharon las palabras de Zhao Zhengbin, porque ese método de votación obviamente no era bueno para Chen Mo y los demás.
 
 Si hay una votación, Wang Liangyi todavía puede garantizar que tiene cinco votos, ¡pero Chen Mo no tiene forma de garantizarlo!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

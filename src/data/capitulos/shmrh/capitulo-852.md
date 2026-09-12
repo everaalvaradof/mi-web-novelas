@@ -89,7 +89,3 @@ Qi Ya giró la cabeza para mirar a Ning Tao a la ligera y dijo con la boca peque
 En este momento, Qi Ya ya había decidido que rompería con Ning Tao después de la cena y luego se quedaría con Dai Hao, por lo que, naturalmente, no tenía escrúpulos en su corazón y no le puso cara a Ning Tao cuando habló.
 
 Ning Tao no esperaba que Qi Ya le respondiera así, y se quedó estupefacto de inmediato.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -111,7 +111,3 @@ Jiang Xi dudó durante dos segundos cuando escuchó las palabras de Chen Mo, y l
 Chen Mo asintió directamente, luego encontró papel y bolígrafo, escribió el párrafo y se lo entregó a Jiang creek.
 
 Jiang Xi también puede ser considerado como un genio en la Secta Tianshan, de lo contrario no se habría convertido en un experto en artes marciales a una edad tan temprana, por lo que con su ayuda, Chen Mo entendió rápidamente el significado de las palabras.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

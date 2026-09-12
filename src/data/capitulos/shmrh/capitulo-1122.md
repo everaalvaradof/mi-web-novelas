@@ -117,7 +117,3 @@ Los ojos de Wen Ruoxi brillaron un poco cuando escuchó las palabras de Chen Mo,
 Wen Wangchuan extendió su mano y arrastró a Wen Ruoxi directamente a su lado.
 
 Wen Ruoxi miró la posición de Chen Mo con desesperación en sus ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

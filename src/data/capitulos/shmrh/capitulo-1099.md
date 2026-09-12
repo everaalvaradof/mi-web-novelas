@@ -123,7 +123,3 @@ Wen Ruoxi tenía una expresión muy desconcertada en su rostro después de ver a
 “Si hay una pelea dentro de un tiempo, ustedes dos deberían protegerse.”
 
 Chen Mo le susurró a Wen Ruoxi.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

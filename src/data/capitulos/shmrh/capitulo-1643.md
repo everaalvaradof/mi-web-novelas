@@ -101,7 +101,3 @@ Gritó Chen Mo, y luego estiró la mano y abofeteó directamente a Qin. Yibing s
 Qin Yibing gritó instintivamente.
 
 Nunca pensó que Chen Mo sería tan valiente, y directamente arrebató la colcha de su cuerpo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

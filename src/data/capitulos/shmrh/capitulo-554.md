@@ -101,7 +101,3 @@ Debido a que Zhang Wei acaba de decir que el nieto de Sun Beiyang es la segunda 
 Después de escuchar el nombre, los ojos de Li Zixi brillaron un poco extraños.
 
 Incluso los ojos de Xu Weiwei estaban un poco apagados.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

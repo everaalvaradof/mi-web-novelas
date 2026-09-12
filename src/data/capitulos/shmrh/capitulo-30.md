@@ -129,7 +129,3 @@ Zhang He no pudo evitar burlarse después de escuchar esto, y luego dijo sin com
 Li Kai no pudo evitar quedarse atónito después de escuchar esto, y se dio cuenta de que era por Chen Mo.
 
 “Por cierto, el joven maestro Zhang también fue implicado por usted, y su tarjeta de membresía dorada también fue cancelada por nuestro restaurante, ¡así que ahora no es elegible para comer aquí!”, continuó Zhang He.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

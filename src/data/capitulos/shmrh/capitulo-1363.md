@@ -93,7 +93,3 @@ Chen Mo respondió con una sonrisa.
 “Oh, no gracias, todos somos compañeros de clase”
 
 Song Xinxin dijo muy feliz.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

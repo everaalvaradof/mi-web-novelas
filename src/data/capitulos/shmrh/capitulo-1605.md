@@ -153,7 +153,3 @@ Los tres capitanes de los guardaespaldas de la familia Zhang fueron asesinados p
 ¡Debes saber que Wang Yan es el hijo del tercer anciano de la Secta Shangyuan!
 
 Así que este asunto tiene un gran impacto tanto en la familia Zhang como en la secta Shangyuan.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

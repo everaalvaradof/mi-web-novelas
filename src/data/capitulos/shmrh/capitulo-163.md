@@ -139,7 +139,3 @@ En este momento, hubo un golpe repentino en la puerta fuera de la casa.
 “¡El hermano Xuan finalmente está aquí!”
 
 Un destello de emoción brilló en los ojos de Sun Bo, y luego caminó directamente hacia la puerta y corrió hacia ella.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

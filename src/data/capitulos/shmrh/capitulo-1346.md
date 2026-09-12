@@ -143,7 +143,3 @@ Qiao Ying respiró hondo y no habló.
 Al mismo tiempo, un auto negro se detuvo no muy lejos.
 
 Cuando Duan Chenjie en el auto vio a Chen Mo y Qiao Ying, sus ojos estaban muy emocionados y dijo en voz alta: “¡Se considera que este par de perros y niñas han sido encontrados!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

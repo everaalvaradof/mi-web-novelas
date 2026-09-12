@@ -141,7 +141,3 @@ Chen Mo se quedó atónito por un momento, luego miró hacia atrás rápidamente
 Cuando entré en el automóvil hace un momento, Chen Mo había estado observando a Meng Liang y a los demás, por lo que no miró la situación en el automóvil y, naturalmente, no descubrió que había otro. persona en el coche!
 
 ¡En este momento, Chen Mo está sentado sobre las piernas delgadas y blancas de una mujer!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

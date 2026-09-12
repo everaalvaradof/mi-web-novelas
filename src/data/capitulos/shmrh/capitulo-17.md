@@ -125,7 +125,3 @@ Chen Mo respondió en voz baja.
 “¿Qué? ¿Soy mi yerno?”
 
 Cuando Chen Mo escuchó las palabras de Li Juncheng, gritó con una expresión increíble.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

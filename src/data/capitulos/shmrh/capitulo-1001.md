@@ -107,7 +107,3 @@ Chen Mo miró a Tao Yiran y sonrió ligeramente.
 Cuando Tao Yiran escuchó las palabras de Chen Mo, sintió que Chen Mo debería decir esto para evitar la vergüenza, por lo que su afecto por Chen Mo aumentó mucho al instante.
 
 Unos minutos después, Chen Mo pudo sentir que el avión ya estaba comenzando a aterrizar, lo que indicaba que pronto podría llegar a la ciudad de Beihang.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -113,7 +113,3 @@ Todos quedaron estupefactos cuando escucharon las palabras de Chen Mo. Todos mir
 “¿Eres Chen Chen Mo?”
 
 Tan Ping tartamudeó y le preguntó a Chen Mo cuando escuchó las palabras de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -111,7 +111,3 @@ Fuyao volvió la cabeza y miró al Maestro Zhang, luego preguntó en voz baja: �
 El Maestro Zhang dijo lentamente.
 
 Chen Mo Fuyao se quedó atónito cuando escuchó las palabras del Maestro Zhang, y la expresión de su rostro estaba muy perpleja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -127,7 +127,3 @@ Chen Mo respondió con entusiasmo una frase.
 Liu Xuanxuan asintió apresuradamente y luego colgó el teléfono.
 
 Aunque parece que Chen Mo nunca ha tomado la iniciativa de tomar medidas contra Feng Xing, de hecho, Chen Mo le ha dado a Liu Jin mucha información sobre Feng Xing, e incluso Liu Jin sigue enviando gente a Siga a Feng Hao, como se esperaba. Durante el período en que Chen Mo llegó a la isla de Hong Kong, Feng Xing y Feng Hao todavía mostraban sus piernas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

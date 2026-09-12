@@ -117,7 +117,3 @@ Su Mubai le preguntó nerviosamente a Chen Mo.
 “Es un área urbana ahora, y hay demasiados autos en la carretera. Si se conduce demasiado rápido, es probable que tenga un accidente automovilístico y es fácil atropellar a las personas. Ahora Voy a los suburbios para ver si puedo o no deshacerme de esta gente”.
 
 Después de dudar por un momento, Chen Mo lo analizó en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

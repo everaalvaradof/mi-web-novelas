@@ -113,7 +113,3 @@ He Cai se quedó atónito por un momento, luego asintió rápidamente, luego gir
 “¡Ella viene conmigo!”
 
 Chen Mo respondió con una expresión en blanco, y luego caminó directamente hacia el exterior de Longfengchi.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

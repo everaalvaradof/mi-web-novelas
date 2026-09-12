@@ -113,7 +113,3 @@ Chen Mo le dijo a regañadientes a Pan Ying.
 Chen Mo respondió de mala gana.
 
 Después de que Pan Ying dudó un momento, caminó directamente hacia la pista de baile.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

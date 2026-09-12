@@ -125,7 +125,3 @@ Chen Mo respondió sin ser humilde o arrogante.
 Bai Zhennan escuchó esto, y había una pizca de decepción en sus ojos.
 
 Originalmente pensó que si Chen Mo se atrevía a decirle la verdad, podría darle una oportunidad a Chen Mo, pero no esperaba que Chen Mo fuera tan débil que ni siquiera se atreviera a admitir estas ¡cosas!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

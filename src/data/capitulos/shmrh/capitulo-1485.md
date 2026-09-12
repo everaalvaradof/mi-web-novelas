@@ -107,7 +107,3 @@ Zuo Qingna respiró hondo y susurró: “Presidente An, entiendo Quieres decir, 
 “¡Solo haz tu mejor esfuerzo!”
 
 a Zuo Qingna con una leve sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

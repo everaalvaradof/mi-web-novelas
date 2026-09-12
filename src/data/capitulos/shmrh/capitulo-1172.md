@@ -107,7 +107,3 @@ Y después de que Tao Yiran salió del hotel, Capítulo vino a la casa de su abu
 El abuelo de Tao Yiran, Tao Fengyuan, puede considerarse una figura muy legendaria en la provincia de Tianyuan. La actual familia Tao controla al menos diez empresas que cotizan en bolsa y los activos ya superan los 10 mil millones.
 
 Pero Tao Fengyuan siempre ha tenido un problema cardíaco, y es que nunca ha encontrado un heredero adecuado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

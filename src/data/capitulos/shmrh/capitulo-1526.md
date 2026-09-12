@@ -151,7 +151,3 @@ Originalmente, Jiang Feifei había salido de los asuntos de Chen Mo, pero en est
 “¿Por qué puedes encontrarte con este Chen Mo sin importar a dónde vayas?”
 
 Su Bai no pudo evitar suspirar con los dientes apretados.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

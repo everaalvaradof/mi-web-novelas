@@ -107,7 +107,3 @@ Zhang Jiantong le susurró a Ning Tao.
 Ning Tao finalmente se dio cuenta de la gravedad de este incidente y respondió con un tono entrecortado.
 
 Lin Fei, Ding Wen y otros miraron la posición de Ning Tao con desesperación en sus ojos, sin saber qué podían hacer.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

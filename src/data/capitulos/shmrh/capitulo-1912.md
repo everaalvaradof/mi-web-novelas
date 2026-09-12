@@ -151,7 +151,3 @@ Después de unos segundos, Zhang Wanghai perdió completamente el aliento.
 Después de que Zhang Fansheng sintió desaparecer el aliento de Zhang Wanghai, rápidamente gritó: “¡Padre! ¡Padre, despierta!”
 
 Pero Zhang Fansheng gritó varias veces seguidas Después de eso, Zhang Wanghai todavía no respondió.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

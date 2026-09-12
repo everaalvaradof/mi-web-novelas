@@ -135,7 +135,3 @@ Chen Mo le dijo a Zhang Ziqing en un tono muy serio.
 “¡A quién le importa tu dinero, solo me preocupa que después de regresar a la casa de Zhang, la familia Zhang siga creyéndome!”
 
 Dijo Zhang Ziqing en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

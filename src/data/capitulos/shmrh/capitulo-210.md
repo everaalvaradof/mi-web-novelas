@@ -139,7 +139,3 @@ El lado de Su Muyu Después de ver a Chen Mo se había ido, los amigos que estab
 Su Muyu respondió a la ligera.
 
 Y sus amigos quedaron atónitos después de escuchar las palabras de Su Muyu, y las expresiones en sus rostros eran increíbles.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

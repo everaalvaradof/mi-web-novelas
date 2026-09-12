@@ -115,7 +115,3 @@ Chen Mo miró a Luo Qiu a la ligera, no estaba de humor para decir tonterías co
 En este momento, Luo Qiu de repente le gritó a Chen Mo.
 
 Chen Mo se sorprendió cuando escuchó las palabras de Luo Qiu.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

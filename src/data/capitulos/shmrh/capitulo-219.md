@@ -117,7 +117,3 @@ Chen Mo se quedó atónito cuando escuchó esto, y luego no pudo evitar mirar de
 “Sí, Sr. Chen, salvó la vida de mi madre. Puede hacer lo que quiera que haga. Sé que no estoy calificada para ser su novia, pero incluso si me pide que sea su amante, no podré hacerlo. ¡No me arrepiento!”
 
 Zhang Xiaobei ya no estaba nerviosa en este momento, quería pagarle a Chen Mo de buena gana.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

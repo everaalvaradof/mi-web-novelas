@@ -177,7 +177,3 @@ Ye Xian’er ha estado protegiendo a Ouyang Fan con su propio aliento, evitando 
 Después de que Chen Mo golpeó, agitó su mano derecha ligeramente y una luz dorada envolvió los cuerpos de Ye Xianer y Ouyang Fan.
 
 Ye Xian’er podía sentir que el impacto del poder en su cuerpo era significativamente menor.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

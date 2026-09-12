@@ -121,7 +121,3 @@ Liu Rui estaba naturalmente muy feliz en este momento y gritó con una sonrisa: 
 Los estudiantes de la clase gritaron felices.
 
 Yan Vio que estos estudiantes estaban tan felices, una sonrisa brilló en sus ojos, pero no dijo mucho.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -107,7 +107,3 @@ Yuecheng le preguntó a Chen Mo sin expresión.
 “¡Sí, solo desprecio a tu familia Yue y nunca me tomo en serio a tu familia Yue!”
 
 Chen Mo asintió con mucha calma.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

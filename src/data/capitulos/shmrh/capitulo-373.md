@@ -113,7 +113,3 @@ preguntó suavemente Pan Ying.
 “Entonces es así, primo, ¿estás planeando ver a Chen Mo hacer el ridículo?”
 
 Wei Jiaqi de repente se dio cuenta de lo que dijo Pan Ying y gritó de emoción.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -107,7 +107,3 @@ Capítulo es una chica llamada Zhang Yi. La apariencia de Zhang Yi puede ser lig
 Las dos chicas del Capítulo se llaman Wang Zihui. Esta chica, Wang Zihui, usa un par de anteojos con montura negra, lo que hace que las personas se sientan muy amables y tranquilas.
 
 En cuanto a la última chica, ella es la más hermosa entre estas chicas, llamada Concubine Qi Ye.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

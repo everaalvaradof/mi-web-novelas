@@ -137,7 +137,3 @@ Chen Mo regresó solo a casa, tal vez por los asuntos de Mingmei, o por lo que S
 Chen Mo, que estaba distraído, subió las escaleras y estaba a punto de entrar a la casa cuando de repente descubrió que la puerta de la habitación de Wen Ruoxi estaba abierta, y Wen Ruoxi estaba sentado en el sofá conversando con un joven apuesto. con una expresión muy feliz en su rostro sonrisa.
 
 Chen Mo se quedó atónito cuando vio la apariencia del joven.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

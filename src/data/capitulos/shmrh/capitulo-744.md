@@ -95,7 +95,3 @@ La hermosa gerente en el vestíbulo se acercó a Lv Zhengzhi con tacones altos y
 Lu Zhengzhi sacó una tarjeta de membresía plateada directamente de su billetera y se la entregó a la hermosa gerente con una orgullosa sonrisa en su rostro.
 
 La hermosa gerente puso la tarjeta de membresía de Lu Zhengzhi en el lector de tarjetas, y la computadora mostró rápidamente la información de la tarjeta de membresía de Lu Zhengzhi y el saldo en la tarjeta de membresía, lo que también es conveniente para el personal Identificar el servicio al cliente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

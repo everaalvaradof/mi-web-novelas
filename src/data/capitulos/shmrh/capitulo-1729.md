@@ -203,7 +203,3 @@ Zhang Ziqing lo pensó por un momento y sintió que no podía dormir de todos mo
 Y después de un día de dar vueltas, Chen Mo ya estaba un poco cansado, así que realmente se acostó en la cama y descansó.
 
 Después de que Zhang Ziqing descubriera que Chen Mo se había quedado dormido, una pizca de impotencia brilló en sus ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

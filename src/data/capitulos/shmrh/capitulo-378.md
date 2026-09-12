@@ -85,7 +85,3 @@ Chen Mo le preguntó a Wang Zijing con calma mientras estaba parado en la puerta
 Wang Zijing se sentó en el suelo y dudó durante dos segundos, luego, de repente, levantó la cabeza para mirar a Chen Mo y dijo en voz baja: “Acepto ser tu mujer, pero no me importaba”. ¡Eres un niño!”
 
 Después de que Chen Mo escuchó las palabras de Wang Zijing, la expresión de su rostro era inconcebible.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

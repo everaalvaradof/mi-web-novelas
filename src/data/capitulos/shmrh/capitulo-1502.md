@@ -121,7 +121,3 @@ Chen Mo miró a Guan Yifan y sonrió, y preguntó en un tono desdeñoso.
 Guan Yifan gritó emocionado.
 
 Sintió que cuando su puño golpeó el cuerpo de Chen Mo hace un momento, fue como golpear algodón. No importa qué tan fuerte fuera, no afectaría a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -93,7 +93,3 @@ Aunque Chen Mo sabía que si vencía a Duan Chenjie, definitivamente se metería
 Qiao Ying le dijo ferozmente a Chen Mo.
 
 Chen Mo dudó después de escuchar las palabras de Qiao Ying, y luego susurró: “Señorita Qiao, debe saber que este Duan Chenjie no es una persona común. Si golpeo a Duan Chenjie, definitivamente no se rendirá en el futuro.”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

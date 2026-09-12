@@ -103,7 +103,3 @@ Y todos comenzaron a conversar, pero el contenido de los chats de estas personas
 Todos comenzaron a hablar en voz alta, y de vez en cuando revelaban la información que tenían a otros.
 
 Por ejemplo, algunos proyectos relacionados con el desarrollo inmobiliario y proyectos creados por la comunidad empresarial definitivamente no son accesibles para la gente común.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

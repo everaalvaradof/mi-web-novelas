@@ -113,7 +113,3 @@ Debes saber que aunque el cuarto rango de un artista marcial ya no es un poderos
 Así que Sun Chengzhong no podía aceptar tal humillación en absoluto.
 
 Tian Haixi miró a Chen Mo con un dejo de impotencia en los ojos y suspiró suavemente: “¿No podemos charlar? ¿Por qué tenemos que hacerlo?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

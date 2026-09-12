@@ -121,7 +121,3 @@ dijo Chen Mo con firmeza.
 “¡Imposible, creo que eres el mentiroso!”
 
 Su Mubai negó directamente con la cabeza a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -117,7 +117,3 @@ Chen Mo miró fijamente a Li Taibai y gritó.
 “¿Entonces vas a ir o no?”
 
 Preguntó Li Taibai a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

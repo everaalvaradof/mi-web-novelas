@@ -175,7 +175,3 @@ En ese momento, la persona a cargo de otra gran familia también gritó.
 En un abrir y cerrar de ojos, siete u ocho representantes de familias importantes han elegido ponerse del lado de Zhao Chenlang.
 
 Obviamente, estas personas deberían haber sido compradas por Zhao Chenlang por adelantado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

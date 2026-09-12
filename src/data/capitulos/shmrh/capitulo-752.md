@@ -103,7 +103,3 @@ Había una mirada extraña en los ojos de Yan She.
 Después de dudar un rato, Chen Mo sacó su teléfono móvil y caminó hacia el frente del elevador, encontró el botón de emergencia y lo presionó suavemente.
 
 El trabajo de seguridad de Paradise Clubhouse siempre ha estado en su lugar. En circunstancias normales, siempre que presione el botón de socorro, puede comunicarse con el personal a cargo del ascensor y luego dejar que alguien venga a tratar. con el problema
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -133,7 +133,3 @@ El joven se arrodilló en el suelo y tartamudeó y le preguntó a Chen Mo.
 “¿Qué estás haciendo aquí? ¿Te estás entregando?”
 
 Chen Mo le preguntó suavemente a Duan Chenjie.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

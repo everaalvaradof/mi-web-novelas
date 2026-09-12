@@ -131,7 +131,3 @@ Luo Qiu abrió la boca para hablar.
 Chen Mo respondió a Luo Qiu con mucha indiferencia.
 
 Y Luo Qiu se quedó atónito cuando escuchó las palabras de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

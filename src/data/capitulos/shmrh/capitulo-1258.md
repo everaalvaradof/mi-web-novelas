@@ -117,7 +117,3 @@ Después de que Fan Yuanze se sentó, Fan Xihong le preguntó a Fan Yuanze.
 Fan Yuanze dudó por un momento, luego giró lentamente la cabeza para mirar la posición de Fan Chong y le dijo a Fan Chong con el rostro en blanco: “Cuéntame sobre el incidente de hoy de principio a fin, no. Si necesitas para mezclar tus emociones, solo di lo que es, ¿entiendes?”
 
 Fan Chong no se atrevió a decir tonterías después de escuchar las palabras de Fan Yuanze, y se apresuró a poner la pieza de hoy Se ha dicho de principio a fin.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

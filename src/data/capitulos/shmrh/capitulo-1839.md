@@ -165,7 +165,3 @@ Después de escuchar esta oración, el rostro de Yan She obviamente estaba sin p
 Como sabía que Chen Mo tenía razón, en una batalla así, ella, una experta en artes marciales, realmente no podía ayudar mucho.
 
 En este momento, Zhang Zhenye gritó de repente y luego corrió hacia Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

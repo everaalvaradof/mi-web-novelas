@@ -293,7 +293,3 @@ La expresión en el rostro de Alexander era muy sorprendida, como si hubiera vue
 En este momento, Mei Wang estaba muy arrepentida en su corazón, porque ya conocía la noticia de que Di Long había llegado a la cima de las artes marciales, pero estaba demasiado emocionada en este momento, por lo que se olvidó de recordárselo. Chen Mo.
 
 Si el rey pudiera contarle esto a Chen Mo con anticipación, entonces Chen Mo todavía tendría tiempo para irse de aquí.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

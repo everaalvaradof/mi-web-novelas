@@ -121,7 +121,3 @@ Fan Meihua dijo de nuevo.
 “¿Ir a Estados Unidos?”
 
 Su Mubai estaba atónito.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

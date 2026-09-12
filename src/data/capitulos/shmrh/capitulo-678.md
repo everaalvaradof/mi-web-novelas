@@ -143,7 +143,3 @@ dijo Li Taibai a la ligera.
 Cuando Chen Mo escuchó esta oración, la expresión de su rostro era muy impotente.
 
 Si quieres convertirte en discípulo de Li Taibai, primero debes derrotar a Dali, pero según el nivel actual de Chen Mo, ¡es simplemente imposible derrotar a Dali!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

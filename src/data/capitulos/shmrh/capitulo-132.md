@@ -139,7 +139,3 @@ El hombre de mediana edad que fue golpeado por Chen Mo también estaba aturdido,
 “Chen Mo, ¿estás loco?”
 
 Su Mubai le gritó a Chen Mo con una expresión anormalmente colapsada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

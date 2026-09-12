@@ -85,7 +85,3 @@ El guardaespaldas miró a Yan She frente a él y asintió levemente.
 “Está bien, ¿dónde está tu jefe, llévame allí?”
 
 Yan Deliberadamente fingió ser una fanática de las finanzas, guardó todas sus fichas y luego se levantó. Planeo irme con el guardaespalda.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

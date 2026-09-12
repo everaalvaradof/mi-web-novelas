@@ -127,7 +127,3 @@ Chen Mo todavía estaba perplejo.
 “¿Quiero cuidar de ti?”
 
 Chen Mo miró a Lin Xi completamente estupefacto y se quedó allí aturdido, sin saber qué decir.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -145,7 +145,3 @@ Pero en ese momento, la bocina de un auto sonó repentinamente detrás de Chen M
 Chen Mo instintivamente se congeló por un momento, y cuando miró hacia atrás, encontró que un Mercedes-Benz negro estaba estacionado a su lado.
 
 La ventanilla del automóvil Mercedes-Benz bajó lentamente, revelando un rostro delicado y bonito, luego agitó su pequeña mano hacia Chen Mo y gritó en voz alta: “¡Sube al automóvil y vete a casa conmigo!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

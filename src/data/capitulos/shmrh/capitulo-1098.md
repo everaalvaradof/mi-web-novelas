@@ -125,7 +125,3 @@ En este momento, Xia Ying de repente suspiró.
 dijo Wen Ruoxi impotente.
 
 Xia Ying suspiró con impotencia después de escuchar las palabras de Wen Ruoxi y no dijo nada más.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

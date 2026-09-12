@@ -247,7 +247,3 @@ En menos de diez minutos, Chen Mo derrotó a decenas de clones de Di Long y a cu
 La razón es muy simple. En la batalla de ahora, Chen Mo aún consumía demasiado aliento, por lo que todos sintieron que no debería haber más aliento en el cuerpo de Chen Mo en este momento. Si se enfrentaba a Dillon, Chen Mo no tendría ninguna posibilidad de ganar en absoluto.
 
 En ese momento, Chen Mo era como un dios de la matanza, con solo una intención asesina infinita en sus ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

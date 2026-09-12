@@ -191,7 +191,3 @@ La torre que era del tamaño de una palma ahora se ha convertido en una torre re
 “¡Sí, qué poder tan aterrador!”
 
 Todos los presentes mostraban expresiones de horror, porque sabían que si fueran golpeado por esta torre de destrucción, no habría posibilidad de supervivencia en absoluto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

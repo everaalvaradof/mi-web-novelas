@@ -117,7 +117,3 @@ Bai Zhennan estaba solo, con una expresión increíble en su rostro.
 “¿De verdad estoy pensando demasiado? ¿Tal vez a Chen Mo realmente no le gusta Bingbing?”
 
 Bai Zhennan no pudo evitar suspirar suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

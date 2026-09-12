@@ -109,7 +109,3 @@ Y Xiaoyun giró la cabeza para mirar a Xiao Rou a la ligera y dijo suavemente: �
 Xiao Rou abrió la boca hablar, pero ella Pero no había forma de decir la identidad de Chen Mo frente a tanta gente.
 
 Si no se revela la identidad de Chen Mo, entonces este asunto no se explicará con claridad.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

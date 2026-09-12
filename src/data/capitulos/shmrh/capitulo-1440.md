@@ -123,7 +123,3 @@ Chen Mo no pudo evitar quedarse atónito después de escuchar el nombre, y habí
 “Joven maestro Chen, no tenga curiosidad, soy de China, pero mi madre es del país R, así que tengo ese nombre, ¡pero he vivido en China desde que era muy joven!”
 
 Tian Haixi pareció ver las dudas de Chen Mo y tomó la iniciativa de explicar.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

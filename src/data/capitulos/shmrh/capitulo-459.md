@@ -115,7 +115,3 @@ El capitán de seguridad miró a Chen Mo con una sonrisa avergonzada, luego se d
 Después de decir esto, el capitán de seguridad dio grandes pasos y estaba a punto de salir de la villa.
 
 Wang Shuo se quedó estupefacto. Incluso en ese momento, Wang Shuo todavía no parecía entender lo que estaba pasando. Rápidamente extendió la mano para detener al capitán de seguridad y le gritó con una voz muy fuerte. expresión emocionada. Dijo: “No, ¿qué quieres decir? ¿Por qué todavía te vas?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

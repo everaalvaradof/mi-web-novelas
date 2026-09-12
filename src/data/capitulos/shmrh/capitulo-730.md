@@ -119,7 +119,3 @@ Yan Ella le dio a Chen Mo una mirada encantadora, y un indicio de impotencia bri
 Chen Mo le preguntó a Yan She con una sonrisa.
 
 Cuando Yan She escuchó las palabras de Chen Mo, una pizca de vergüenza brilló en sus hermosos ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -177,7 +177,3 @@ Yan Giró la cabeza y miró a Chen Mo, luego dijo en voz baja: “¡Espero que h
 Chen Mo sonrió y no dijo nada.
 
 Alrededor de una hora después, Chen Mo y Yan She finalmente llegaron frente a una casa con patio.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

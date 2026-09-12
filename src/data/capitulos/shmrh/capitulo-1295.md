@@ -117,7 +117,3 @@ Liu Ziyang no pudo evitar suspirar en su corazón.
 Y Qiao Ying también se sorprendió en este momento. Después de todo, ella también sabía cuán aterradora era la fuerza de la familia Fan. Si Chen Mo conocía a la familia Fan, la fuerza definitivamente no era simple.
 
 En este momento, Fan Yuanze salió del automóvil con la ayuda de Fan Qingqing, luego caminó directamente frente a Chen Mo, se inclinó suavemente hacia Chen Mo y dijo en voz baja: “Maestro Chen, Antes, nuestra familia Fan no estaba bien entretenida, ¡espero que me perdonen!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

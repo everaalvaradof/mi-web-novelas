@@ -101,7 +101,3 @@ Sun Yurou siempre ha estado muy celosa de Luo Qiu, por lo que de vez en cuando p
 Si no fuera por la provocación de Sun Yurou, la relación entre Luo Qiu y Liu Yingying nunca hubiera sido así.
 
 Después de dudar un rato, Sun Yurou eligió directamente seguir al Director Zhang y Luo Qiu para ver qué iban a hacer.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -111,7 +111,3 @@ Tercero Bai respondió directamente.
 Todos asintieron después de escuchar lo que dijo Bai Laosan.
 
 Porque sienten que la declaración de Bai Laosan es muy creíble.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

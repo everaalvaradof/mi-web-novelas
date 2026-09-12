@@ -105,7 +105,3 @@ Cuando Chen Mo escuchó las palabras de Liu Xuanxuan, un rastro de tensión bril
 En el segundo siguiente, sonaron dos disparos uno tras otro.
 
 Cuando Liu Xuanxuan escuchó el disparo, un destello de orgullo brilló en sus hermosos ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

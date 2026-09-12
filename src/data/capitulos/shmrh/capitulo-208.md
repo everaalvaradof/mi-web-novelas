@@ -119,7 +119,3 @@ Chen Mo dudó un momento y le preguntó suavemente a Su Mubai.
 “¿Eres un rico de segunda generación?”
 
 Su Mubai se quedó atónito por un momento, una pizca de confusión brilló en sus ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

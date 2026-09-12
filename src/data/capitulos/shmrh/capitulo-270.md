@@ -105,7 +105,3 @@ En este momento, el jefe, Zhou Chengguang, se puso de pie y dijo una opinión qu
 “La sugerencia del tío es buena. Creo que si Chen Mo puede disculparse con Zhou Gongzi, ¡Zhou Gongzi debería poder perdonarme!”
 
 Su Hongfei asintió con satisfacción, luego se giró para mirar Chen Mo, hizo un puchero y dijo: “¡Simplemente no sé si alguien está dispuesto a ir y disculparse!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

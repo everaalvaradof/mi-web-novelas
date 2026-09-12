@@ -117,7 +117,3 @@ Chen Mo miró a Su Mubai y continuó.
 “¿Aún puedes conseguir un helicóptero?”
 
 Su Mubai dijo en un tono algo sorprendido.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

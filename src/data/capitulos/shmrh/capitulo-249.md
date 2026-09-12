@@ -87,7 +87,3 @@ Su Muyu miró a Chen Mo y dijo con tono de disgusto.
 Y Su Mubai fulminó con la mirada a Su Muyu, luego se acercó a Chen Mo y dijo: “Chen Mo, vamos a ir al club Guqin con la hermana Qingqing, ¿quieres? ¿Ven con nosotros?”.
 
 Chen Mo se congeló en el lugar después de escuchar estas cuatro palabras, una mirada extraña brilló en sus ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

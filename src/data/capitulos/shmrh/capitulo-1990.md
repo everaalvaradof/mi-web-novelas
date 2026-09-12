@@ -277,7 +277,3 @@ Un hombre de mediana edad le preguntó a Lincoln con una expresión emocionada.
 “Por supuesto que lo es.”
 
 Lincoln asintió levemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

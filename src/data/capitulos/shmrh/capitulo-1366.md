@@ -125,7 +125,3 @@ Como dice el refrán, el enemigo de tu enemigo es tu amigo.
 Tanto Huang Zhiming como Jiang Qiwei tienen una disputa sangrienta con Chen Mo, por lo que es muy normal que los dos se conecten.
 
 Y Huang Zhiming miró inconscientemente la posición de Chen Mo, y luego dijo con un tono ligeramente desconcertado: “Oh, ¿por qué el Sr. Chen está aquí? ¿El Sr. Chen también vino a asistir a la ceremonia de apertura del Sr. Jiang?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

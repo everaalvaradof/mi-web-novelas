@@ -197,7 +197,3 @@ Después de dudar un momento, Chu Lan preguntó.
 “No digas eso, realmente tengo algo que decirte”
 
 Preguntó Chu Lan casualmente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

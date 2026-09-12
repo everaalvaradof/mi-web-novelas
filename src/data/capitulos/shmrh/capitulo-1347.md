@@ -125,7 +125,3 @@ Chen Mo no pudo evitar quedarse atónito cuando escuchó las palabras de Qiao Yi
 “Cuando los dos Capítulo nos conocimos, había una chica a tu lado. Si supuse correctamente, esa chica debería ser tu novia, ¿verdad?”
 
 Qiao Ying estaba llena de sonrisas, preguntó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

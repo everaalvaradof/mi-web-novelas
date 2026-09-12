@@ -205,7 +205,3 @@ Yan Ella parpadeó y preguntó con una expresión desconcertada.
 “La fuerza de la Secta Fantasma Celestial es muy aterradora. Solo las tres ramas de la Secta Fantasma Celestial tienen tantos grandes maestros. Si es el líder de la Secta Fantasma Celestial, la fuerza es probablemente aún más fuerte ¡La gente de la secta Tianshan está involucrada, es decir, los están enviando a la muerte!”
 
 explicó Chen Mo en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

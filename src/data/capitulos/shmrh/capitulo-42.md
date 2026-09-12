@@ -151,7 +151,3 @@ Feng Zixu dijo a la multitud con una sonrisa.
 Después de escuchar esto, Chen Mo quedó atónito al instante, porque si todo lo que decía Feng Zixu era cierto, entonces las conjeturas anteriores de Chen Mo también eran correctas.
 
 Alguien debe haber robado la cuenta de Chen Mo y luego se hizo pasar por Chen Mo para engañar a Wen Ruoxi por dinero y sexo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

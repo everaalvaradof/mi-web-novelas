@@ -125,7 +125,3 @@ Shi Wulong gritó en la posición de Chen Mo, y luego corrió hacia Chen Mo.
 Obviamente, en este momento, la fuerza y ​​la velocidad de Shi Wulong han mejorado mucho.
 
 Este tipo de mejora puede ser incluso más aterradora que la mejora de los dioses.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -89,7 +89,3 @@ Por otro lado, en cierta mansión en Modu.
 Esta mansión puede ser considerada como la mansión más lujosa de toda la Ciudad Mágica. Básicamente, cualquiera que viva en la Ciudad Mágica sabe el valor de esta mansión. Cubre un área de 1,000 hectáreas, a excepción de tres villas. También incluye un campo de golf y una piscina privada. Lo más extremo es que hay un zoológico privado en esta mansión, que puede considerarse extremadamente lujosa.
 
 El que vive en esta mansión no es otro que la familia Xia, una gran familia en Capítulo, la capital de la ciudad.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

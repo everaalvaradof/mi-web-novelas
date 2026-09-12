@@ -99,7 +99,3 @@ Después de que Chen Mo vio que la actitud del hombre de mediana edad hacia sí 
 De hecho, por el contacto de ahora, Sun Fu obviamente también sintió que Chen Mo definitivamente no podría comprar su villa, pero Sun Fu sintió que si Chen Mo realmente se iba así, tendría un problema con la oficina de ventas de su casa. Tiene una gran influencia, por lo que insistió en dejar que Wang Yaoyao recibiera a Chen Mo.
 
 Después de que Wang Yaoyao dudó un momento, caminó frente a Chen Mo con sus tacones altos y dijo en un tono muy arrogante: “¡Entonces déjame presentarte!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

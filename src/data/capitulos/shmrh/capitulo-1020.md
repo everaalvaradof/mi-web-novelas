@@ -135,7 +135,3 @@ Wang Zihui dijo de repente.
 “Hermana, ¿qué crees que puedes contar frente a tu verdadera fuerza?”
 
 Zhang Yi suspiró suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

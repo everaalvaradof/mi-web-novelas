@@ -127,7 +127,3 @@ Chu Lan dijo en voz baja a Chen Mo.
 “No, esto es absolutamente imposible. Mi madre me dijo que no tiene ningún pariente. Debes estar mintiéndome, ¡esto es absolutamente imposible!”
 
 Chen Mo se apresuró con entusiasmo. le gritó a Chu Lan.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

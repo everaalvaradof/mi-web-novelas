@@ -147,7 +147,3 @@ dijo Chen Mo en voz baja.
 El humor de Tao Yiran obviamente estaba aliviado en este momento, dijo con una sonrisa.
 
 Chen Mo volvió a ver una sonrisa en el rostro de Tao Yiran y no estaba tan preocupado por Tao Yiran.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

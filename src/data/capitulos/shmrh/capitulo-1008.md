@@ -119,7 +119,3 @@ Tang Qingqing es solo una persona común, ella piensa que una persona que trata 
 “Si no lo cree, olvídelo”
 
 Chen Mo sonrió levemente, luego se estiró para detener un taxi y siguió a Tang Qingqing al auto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

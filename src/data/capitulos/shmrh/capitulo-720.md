@@ -101,7 +101,3 @@ He Shishi respiró hondo e inmediatamente siguió el ritmo de Chen Mo.
 Wang Bo envió a Chen Moluo, Qiu Mengliang, Liu Rui y otros fuera del vestíbulo, y luego arregló especialmente la habitación más lujosa en este crucero para Chen Mo, Mengliang, Liu Rui y otros.
 
 Después de que Wang Bo, Chen Mo y otros se fueron, todos los presentes se conmocionaron y comenzaron a susurrar sobre lo que sucedió hoy. ¿Quién hubiera pensado en un buen compromiso? La fiesta resultó ser así.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

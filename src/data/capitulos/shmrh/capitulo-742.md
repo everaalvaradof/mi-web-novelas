@@ -85,7 +85,3 @@ Lu Zhengzhi miró a Yan She frente a él y no pudo evitar burlarse.
 A los ojos de una persona como él, ¿qué es lo que realmente puede contar?
 
 ¡La verdad es probablemente la cosa más inútil que existe!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -113,7 +113,3 @@ Chen Mo no habló cuando miró a Wang Tian.
 Wang Tianshi cargó con una expresión extremadamente enojada Chen gritó Mo.
 
 De hecho, Wang Tianshi no tenía la intención de usar un arma hoy. Después de todo, el impacto no fue bueno, pero no esperaba que Chen Mo fuera tan poderoso. Se vio obligado a usar un arma. en este momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

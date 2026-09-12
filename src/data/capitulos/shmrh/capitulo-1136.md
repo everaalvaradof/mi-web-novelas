@@ -111,7 +111,3 @@ Lu Xiang Yang parecía tener un poco de curiosidad.
 “Te digo, estas personas prepararon directamente $ 500 millones”
 
 Lao Sun levantó cinco dedos directamente a Lu Xiangyang.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

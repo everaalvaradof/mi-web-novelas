@@ -133,7 +133,3 @@ Cuando Chen Mo vio esta pancarta, quedó atónito en su lugar.
 Chen Mo miró el teléfono y suspiró con un tono desconcertado.
 
 Se preguntaba si no tenía un centavo en su cuenta, ¿por qué alguien robaría su cuenta?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

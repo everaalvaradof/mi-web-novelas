@@ -127,7 +127,3 @@ Luo Qiu volvió a mirar a Sun Yuqing y preguntó con un tono desconcertado.
 “Dije que eras una perra”
 
 Sun Yuqing respondió muy directamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

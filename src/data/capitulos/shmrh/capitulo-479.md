@@ -93,7 +93,3 @@ Después de que llegaron las bebidas, todos comenzaron a jugar y cantar, y Chen 
 Pero después de que todos jugaron por un rato, la puerta de la caja se abrió.
 
 ¡Una hermosa joven con un largo vestido negro entró al palco con una sonrisa!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

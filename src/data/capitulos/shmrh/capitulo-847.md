@@ -103,7 +103,3 @@ Chen Mo sabía que Bai Zhibing era una buena intención, por lo que, naturalment
 Bai Zhibing gritó muy feliz después de ver a Chen Mo estar de acuerdo.
 
 Chen Mo asintió levemente y luego colgó el teléfono.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

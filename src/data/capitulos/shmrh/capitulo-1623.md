@@ -153,7 +153,3 @@ Preguntó Chen Mo aturdido.
 “El punto más importante es que esta persona debe ser más rica que yo. Si no soy rico, ¿qué debo hacer?”
 
 Dijo Chu Lan débilmente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

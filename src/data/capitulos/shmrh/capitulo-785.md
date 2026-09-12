@@ -97,7 +97,3 @@ El árbol de más de un metro de espesor fue aplastado directamente por el cuerp
 ¡Wang Baishi brotó una bocanada de sangre!
 
 Todos quedaron estupefactos al ver esta escena, la pequeña esperanza que acababa de encenderse en sus corazones se extinguió en este momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

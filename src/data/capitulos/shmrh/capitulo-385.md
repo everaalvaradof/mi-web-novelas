@@ -93,7 +93,3 @@ Después de llegar al estacionamiento, Chen Mo pensó brevemente dónde estaba e
 Pero Chen Mo no dio dos pasos y de repente se encontró con un gran grupo de personas susurrando algo alrededor de su auto deportivo, y lo más importante era una niña sentada en cuclillas junto al auto deportivo y llorando.
 
 Chen Mo no pudo evitar quedarse atónito por un momento después de ver esta escena, y luego caminó directamente hacia la multitud.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

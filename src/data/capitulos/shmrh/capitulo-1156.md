@@ -135,7 +135,3 @@ Por parte de Zhao Yueyue, Capítulo contactó a Lin Qingqian por un tiempo. Desp
 Cuando Zhao Yueyue supo que podía obtener un salario de 30.000 yuanes al mes, naturalmente se sorprendió y se deleitó. Sabía muy bien que todo se debía a Chen Mo.
 
 Esto hizo que Zhao Yueyue sintiera aún más curiosidad por saber quién era Chen Mo y por qué Chen Mo tenía una influencia tan grande.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

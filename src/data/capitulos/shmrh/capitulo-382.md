@@ -125,7 +125,3 @@ Si Su Mubai supiera esto, Chen Mo podría no ser capaz de heredar la herencia en
 Un momento después, Chen Mo salió solo del hotel Shangri-La.
 
 Li Juncheng en el auto Mercedes-Benz mostró un asombro en sus ojos después de ver salir a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

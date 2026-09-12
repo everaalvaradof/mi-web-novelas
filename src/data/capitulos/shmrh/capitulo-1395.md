@@ -105,7 +105,3 @@ Su Muyu entró al hotel con Chen Mo mientras hablaban.
 El tono de Chen Mo todavía estaba muy sorprendido.
 
 “Eso no es todo gracias a usted, Sr. Chen. Ahora nuestra familia Su se ha vuelto cada vez más poderosa gracias a usted. Si queremos hacer algo, alguien tomará la iniciativa de enviar dinero, así que mi padre abrió este hotel. ahora el negocio es bastante bueno”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

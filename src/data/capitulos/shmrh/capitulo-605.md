@@ -89,7 +89,3 @@ No importa a dónde vayan estas dos personas, son el centro de atención de los 
 Los dos parecen ser realmente una pareja.
 
 Cualquiera que no lo supiera podría pensar que los dos estaban juntos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

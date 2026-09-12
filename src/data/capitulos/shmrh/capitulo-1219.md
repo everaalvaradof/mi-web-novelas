@@ -127,7 +127,3 @@ Qin Yibing miró a Chen Mo y continuó.
 “¿Un millón de cuotas?”
 
 Después de escuchar esta oración, los ojos de Chen Mo brillaron un poco, después de todo, ¡este dinero no es una cantidad pequeña!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

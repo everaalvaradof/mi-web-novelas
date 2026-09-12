@@ -111,7 +111,3 @@ Más de una hora después, Chen Mo regresó a casa con una bolsa grande de los r
 En ese momento, Yan todavía estaba sentada en el sofá viendo la televisión.
 
 A veces, Chen Mo sentía que Yan She era una mujer muy lamentable. En esta ciudad, Yan She no conocía a nadie excepto a Chen Mo, ni tenía ninguna actividad social. Ve televisión en casa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

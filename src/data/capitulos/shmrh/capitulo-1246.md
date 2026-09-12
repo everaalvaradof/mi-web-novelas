@@ -85,7 +85,3 @@ Después de pensarlo un rato, Su Mubai volvió a negarse: “Lo siento, no soy m
 “¿Cuál es el inconveniente? ¿Por qué no traes a tu prometida contigo?”
 
 Fan Liang respondió apresuradamente y luego continuó: “Si no sabes dónde está, iré ahora mismo Deja que alguien venga a recogerte, todos te están esperando, después de todo, todavía tenemos que llevarnos bien en el futuro, así que puedes venir aquí para salvar las apariencias”.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

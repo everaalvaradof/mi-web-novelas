@@ -189,7 +189,3 @@ dijo Hu Biao con el ceño fruncido.
 Chen Mo dudó durante dos segundos después de escuchar las palabras de Hu Biao y luego cerró lentamente los ojos.
 
 Chen Mo piensa que el fruto del rejuvenecimiento es la medicina mágica criada en el mundo, por lo que el fruto del rejuvenecimiento debe ser capaz de exudar un aliento diferente al de los materiales medicinales ordinarios. Chen Mo planea usar el método de observación qi para ver si puede encontrar el fruto del rejuvenecimiento Ubicación.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

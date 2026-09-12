@@ -131,7 +131,3 @@ Guo Fanghua también pareció un poco sorprendida después de ver a Chen Mo, por
 “¡Chen Mo, viniste aquí solo!”
 
 Zhang Xize le gritó fríamente a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

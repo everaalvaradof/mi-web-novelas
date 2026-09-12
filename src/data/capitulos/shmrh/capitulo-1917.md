@@ -179,7 +179,3 @@ La gente de Shangyuan Zongmen envió a Chen Mo directamente al aeropuerto. Origi
 Después de llegar al aeropuerto, Chen Mo entró solo a la sala de espera, mientras que todos los miembros de la Secta Tianshan eligieron el mismo camino para regresar.
 
 Después de entrar en la sala de espera, Chen Mo cerró los ojos y descansó. Aunque dijo que su cuerpo no era gran cosa, de hecho, después de una batalla tan feroz, incluso Chen Mo se sentiría exhausto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

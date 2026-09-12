@@ -107,7 +107,3 @@ Después de caminar por menos de diez minutos, Su Mubai de repente señaló el r
 “¡Entonces entremos!”
 
 Chen Mo asintió levemente y estaba a punto de seguir a Su Mubai, pero una figura salió repentinamente del restaurante, cuando Chen Mo después de ver esta figura, se congeló en su lugar, con una expresión muy sorprendida en su rostro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

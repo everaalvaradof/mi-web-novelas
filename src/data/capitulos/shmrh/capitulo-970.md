@@ -113,7 +113,3 @@ Chen Mo observó a Tang Bingbing continuar.
 Tang Bingbing miró desesperadamente a Chen Mo frente a ella. Por un momento, pareció asustada por el impulso de Chen Mo y se quedó sin palabras.
 
 Quién hubiera imaginado que el mayor de los Tang Bingbing, que es tan poderoso en la ciudad de Zhonghai, ni siquiera se atrevería a decir una palabra frente a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

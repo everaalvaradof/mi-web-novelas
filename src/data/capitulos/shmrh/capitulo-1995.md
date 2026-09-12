@@ -311,7 +311,3 @@ El rey le preguntó a Chen Mo con el ceño fruncido.
 “¡No pienses en eso!”
 
 Chen Mo negó con la cabeza sin querer.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

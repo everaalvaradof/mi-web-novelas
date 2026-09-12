@@ -161,7 +161,3 @@ Li Juncheng parecía estar muy culpable por esto y susurró.
 “Sr. Li, estaba demasiado emocionado en este momento. Usted mismo es un extraño e hizo lo que Wang Cheng quería, ¡así que no lo culpo!”
 
 El estado de ánimo de Chen Mo se calmó un poco.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

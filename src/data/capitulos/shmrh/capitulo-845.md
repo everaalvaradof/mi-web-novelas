@@ -97,7 +97,3 @@ Ning Tao nunca imaginó que la habitación estaba muy limpia, similar a un hotel
 “¡No está mal, no está mal! Ning Tao, ¿no puedes ser un poco mejor?”
 
 Y Qi Ya arrojó su bolso sobre la cama, se quedó mirando sus grandes ojos llorosos. y gritó, la expresión en su rostro es muy enojada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

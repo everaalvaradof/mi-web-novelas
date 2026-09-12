@@ -111,7 +111,3 @@ El sonido de los disparos resonó por la calle.
 Todos los presentes estaban estupefactos, nadie pensó que Qi Lixiao vino con un arma hoy.
 
 ¡Incluso Du Tianhao y Li Juncheng estaban atónitos!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

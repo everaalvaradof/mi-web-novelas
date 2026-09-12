@@ -137,7 +137,3 @@ Después de que Chen Mo y Luo Qiu conversaran brevemente por un rato, el mesero 
 Tengo que decir que el sabor de este plato es realmente bueno, al menos Chen Mo es muy cómodo para comer, así que los dos comenzaron a comer su propia comida después de servir, y no hablaron. demasiado qué.
 
 ¡Pero en ese momento, Chen Mo no sabía que se acercaba un peligro!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

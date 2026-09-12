@@ -111,7 +111,3 @@ Cuanto más Chen Lixin miraba a Chen Mo ahora, menos familiar se sentía, así q
 Chen Mo respondió con indiferencia.
 
 Después de todo, desde el día en que Chen Lixin lo echó de la familia Chen, Chen Mo ya sentía que no tenía parientes en este mundo, por lo que hablaría con Chen Lixin en ese estado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

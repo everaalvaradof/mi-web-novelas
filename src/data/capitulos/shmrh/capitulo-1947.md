@@ -173,7 +173,3 @@ Chen Mo preguntó en voz baja.
 “¿Quién dijo que ya no lo quiero? Simplemente no estoy lista todavía. ¡Cuando esté lista, naturalmente te daré a luz!”
 
 Ye Xian’er dijo rápidamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -141,7 +141,3 @@ Pero la velocidad de la otra parte era demasiado rápida.
 Con un fuerte ruido, el auto deportivo chocó con el auto de Chen Mo.
 
 Es solo que la otra parte parece haber pisado los frenos un segundo antes de la colisión, por lo que el impacto no es particularmente aterrador.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

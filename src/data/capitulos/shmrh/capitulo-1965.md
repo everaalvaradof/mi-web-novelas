@@ -179,7 +179,3 @@ Aunque sabía que la fuerza de Chen Mo no era ordinaria antes de que viniera, au
 Yun Han rugió rápidamente después de darse cuenta de que algo andaba mal.
 
 Wu Tianlu y Wang Nanyuan asintieron al mismo tiempo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

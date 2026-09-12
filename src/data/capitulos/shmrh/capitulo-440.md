@@ -87,7 +87,3 @@ El camarero dudó un momento, luego asintió rápidamente y dijo: “Señor, est
 Chen Mo levantó lentamente la cabeza y miró al mesero cuando escuchó las palabras del mesero.
 
 Shi Xinxin, Wang Shuo y otros eran todo sonrisas, como si estuvieran esperando ver la broma de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

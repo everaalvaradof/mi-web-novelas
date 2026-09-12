@@ -143,7 +143,3 @@ Wei Jiaqi se congeló en su lugar después de escuchar las palabras de Ming Mei,
 “¿Mingmei me ha perdonado tan rápido?”
 
 Wei Jiaqi no pudo evitar exclamar en su corazón.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

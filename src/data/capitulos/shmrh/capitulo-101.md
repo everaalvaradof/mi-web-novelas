@@ -137,7 +137,3 @@ Ming Mei dijo lentamente mientras se pintaba los labios.
 “¿Dejar que Chen Mo sea tu novio?”
 
 Cuando Wei Jiaqi escuchó las palabras de Ming Mei, ¡todo su cuerpo se volvió loco!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

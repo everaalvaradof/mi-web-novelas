@@ -179,7 +179,3 @@ En este momento, Chen Mo necesita enfrentar el ataque de tres personas.
 Es solo que la expresión en el rostro de Chen Mo era muy tranquila.
 
 La luz primero golpeó la Espada Relámpago de Qiu Ting. Esta vez, Qiu Ting no resistió el poderoso ataque de la luz, y su cuerpo retrocedió decenas de pasos antes de finalmente mantenerse firme, y luego una boca llena de sangre. salió a borbotones salió.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -115,7 +115,3 @@ Los ojos de Pan Ying brillaron con decepción después de escuchar esto, pero el
 “Hmph, no creo que no muerdas el anzuelo”
 
 Después de enviar el mensaje de texto, Pan Ying miró a Chen Mo con una leve sonrisa y resopló.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

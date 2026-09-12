@@ -113,7 +113,3 @@ La multitud encendió una fogata y luego comenzó a armar una carpa.
 Chen Mo, Zhao Lei, Fuyao y los tres también eligieron un lugar a menos de 50 metros de distancia de Shu Ziyu y otros para instalar una tienda de campaña y luego se prepararon para descansar.
 
 Después de que Shu Ziyu vio la pequeña tienda instalada por Chen Mo y otros, un rastro de desdén brilló en sus ojos y no supo qué pensar en su corazón.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

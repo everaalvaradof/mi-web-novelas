@@ -107,7 +107,3 @@ Li Juncheng sintió que si continuaba esperando así, no tenía ningún sentido.
 Chen Mo dudó un momento, luego respondió en voz baja: “Está bien, ¡lo intentaré!”
 
 Después de decir esto, Chen Mo se levantó para preparar la licencia.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

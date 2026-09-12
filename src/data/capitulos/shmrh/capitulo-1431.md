@@ -127,7 +127,3 @@ Su Muyu gritó en voz alta.
 “¿Todavía no está aquí la hermana Qingqing para acompañarte? Lo que te falta ahora no es mi cooperación, sino tus propios problemas, así que incluso si me quedo aquí, no hay nada que hacer, será mejor que ¡practica el violín primero!”
 
 Chen Mo respondió a la ligera, luego se dio la vuelta y se fue.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

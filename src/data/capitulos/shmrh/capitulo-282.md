@@ -91,7 +91,3 @@ Su Lieheng respiró hondo. Dado que tantas personas presentes querían ver lo qu
 Pero cuando se abrió la caja de regalo, todos los presentes quedaron atónitos, incluso la mano derecha de Su Lieheng tembló levemente, y la caja de regalo en su mano casi no se cayó al suelo.
 
 Su Ling, que estaba en la audiencia, se rió directamente, con una expresión muy orgullosa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

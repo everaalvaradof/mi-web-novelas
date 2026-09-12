@@ -89,7 +89,3 @@ Wang Zijing no pudo evitar quedarse atónito cuando escuchó esto, y luego le gr
 “¿Ser el esclavo de Chen Gongzi?”
 
 Después de escuchar esto, Wang Zijing no pudo evitar quedarse atónito por un momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

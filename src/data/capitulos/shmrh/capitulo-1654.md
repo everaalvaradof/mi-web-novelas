@@ -105,7 +105,3 @@ Pero desafortunadamente, la cantidad de estos fragmentos es demasiado asombrosa,
 En un instante, innumerables fragmentos volaron alrededor del cuerpo de Chen Mo.
 
 El cuerpo de Chen Mo fue arañado con heridas empapadas de sangre por estos fragmentos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -123,7 +123,3 @@ Su Liefa es diferente de Su Lieguang. Después de entrar en el salón, no salud�
 “¡No esperaba que Su Ling viniera aquí también!”
 
 Su Mubai no se concentró en Su Liefa, pero miró sus grandes ojos llorosos Mirando fijamente al joven junto a Su Liefa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

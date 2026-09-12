@@ -117,7 +117,3 @@ Después de escuchar las palabras de Qiao Ying, los ojos de Chen Mo brillaron co
 Tengo que decir que Qiao Ying es de hecho una actriz, y no hay problema con sus habilidades de actuación.
 
 Si no fuera porque Chen Mo sabía lo que estaba pasando, se estima que incluso Chen Mo no sería capaz de ver ningún defecto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

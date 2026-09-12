@@ -107,7 +107,3 @@ Huang Zhiming gritó enojado cuando vio que Chen Mo y Qi Yefei subían al auto E
 “Viejo Zhang, necesito que me ayudes a encontrar algunas personas ahora, quiero matar”
 
 Después de que la otra parte contestó el teléfono, Huang Zhiming gritó con una expresión frenética mientras sostenía el teléfono.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

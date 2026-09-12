@@ -203,7 +203,3 @@ Pero ahora Chen Mo lo ha pensado claramente. Cuando te enfrentas a algunas perso
 Alrededor de diez minutos después, el auto de Feng Zhou se detuvo frente a un hotel en la ciudad de Hanjiang, y Feng Zhou entró al hotel con la chica sexy hablando y riendo.
 
 Debido a que la familia Feng es una gran familia de Capítulo en la ciudad de Hanjiang, y Feng Zhou también es un artista marcial, a él no le importa el automóvil que lo ha estado siguiendo, a los ojos de Feng Zhou Esto podría solo ser una coincidencia Después de todo, nadie en la ciudad de Hanjiang se atrevió a hacerle nada, joven maestro Feng.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

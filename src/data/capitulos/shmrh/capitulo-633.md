@@ -111,7 +111,3 @@ El anciano asintió levemente.
 Chen Mo miró al anciano y continuó preguntando.
 
 El anciano miró a Chen Mo y asintió de nuevo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -105,7 +105,3 @@ Pensando en esto, Chen Mo sacó su teléfono móvil y llamó a Li Juncheng, lueg
 Li Juncheng sabía lo que Chen Mo iba a hacer, así que accedió sin tonterías.
 
 Después de que Chen Mo colgó el teléfono, comenzó a prepararse para ir a la casa de Chen a ver.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

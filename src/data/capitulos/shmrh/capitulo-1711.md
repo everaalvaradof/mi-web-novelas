@@ -197,7 +197,3 @@ Chen Mo realmente no quiere vivir en la misma casa con esta mujer.
 “No, cuando vivías en mi casa, dijiste que debido a que tu casa en la ciudad de Beihang no fue renovada, ¿qué planeas vivir en mi casa ahora?”
 
 Chen Mo estaba muy sin palabras, preguntó Yan She.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

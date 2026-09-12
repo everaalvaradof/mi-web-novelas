@@ -137,7 +137,3 @@ Y Xia Qingfeng negó con la cabeza suavemente y dijo con una sonrisa: “No sé 
 “Padre, ¿no tienes miedo de criar tigres?”
 
 dijo Xia Xingze con una fruncir el ceño.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

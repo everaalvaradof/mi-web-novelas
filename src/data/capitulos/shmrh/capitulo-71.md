@@ -129,7 +129,3 @@ Dijo Zhang Ming con una expresión en blanco.
 Sun Miao estaba completamente estupefacto después de escuchar las palabras de estas dos personas.
 
 Y Chen Mo se levantó lentamente, caminó hacia Sun Miao y le dijo suavemente a Sun Miao: “¿Recuerdas lo que te dije antes de comprar esta villa?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

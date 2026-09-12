@@ -249,7 +249,3 @@ Dijo lentamente el hombre de mediana edad.
 “Ya conocía a este God Eater. Es un maestro de artes marciales de tres estrellas, y su fuerza es ciertamente muy aterradora, pero ¿qué podemos hacer? Dos puños son difíciles de vencer con cuatro manos. Este tiempo participaré. Debe haber muchas potencias en la misión, solo quiero unirme a la diversión y luego puedo obtener una recompensa de 50 millones, ¿no es este dinero por nada?”
 
 Dijo un joven con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

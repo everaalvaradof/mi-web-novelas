@@ -127,7 +127,3 @@ Chen Mo puede estar demasiado nervioso, por lo que en este momento la frente de 
 Pero Chu En este momento, Lan no parecía querer que Chen Mo se fuera, por lo que extendió la mano y agarró a Chen Mo directamente para evitar que Chen Mo se fuera.
 
 La expresión en el rostro de Qin Yibing de pie a un lado era tan fea como fea, porque sabía que Chu Lan era una mujer muy inteligente, y supuso que Chu Lan ya había adivinado lo que estaba pasando.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

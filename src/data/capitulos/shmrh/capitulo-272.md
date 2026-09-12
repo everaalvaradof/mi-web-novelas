@@ -107,7 +107,3 @@ Su Lieheng parecía haber adivinado que Chen Mo lo rechazaría y respondió casu
 “¡Si puedo salir de Sujia Town no depende de la familia Zhou!”
 
 dijo Chen Mo en un tono muy dominante.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

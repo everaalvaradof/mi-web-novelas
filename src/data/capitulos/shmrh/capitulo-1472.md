@@ -147,7 +147,3 @@ En el momento en que Chen Mo estaba hablando con Tian Haixi, la pelea anterior p
 Chen Mo suspiró suavemente y luego dio un paso adelante. Camina hacia adelante a un ritmo.
 
 Tianhaixi, naturalmente, no está dispuesto a entrometerse en tal nostalgia, pero Chen Mo no tiene más remedio que pasar, y después de dudar por un momento, Tianhaixi solo puede elegir seguirlo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

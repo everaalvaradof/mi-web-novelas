@@ -91,7 +91,3 @@ Zhao Anan miró a Meng Liang, y hubo un destello de perplejidad en sus hermosos 
 Meng Liang se dio cuenta de que parecía haber dicho algo mal, así que rápidamente dijo: “Monitor, Chen Mo conoció a muchos grandes jefes ricos cuando trabajaba a medias. tiempo, así que no debe haber ningún problema en llamar a algunos patrocinadores”.
 
 El simple Zhao Anan asintió levemente y no dijo nada más.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

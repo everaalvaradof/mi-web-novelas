@@ -197,7 +197,3 @@ Chen Mo miró la montaña cubierta de nieve frente a él, giró la cabeza y le p
 “Este no es el Nine Bingshan real”. este Pero es solo un pico de Jiubingshan, que es muy grande, no sé qué tan grande es.”
 
 Hu Biao respondió suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

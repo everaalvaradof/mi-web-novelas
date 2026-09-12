@@ -115,7 +115,3 @@ Wei Jiaqi dudó un momento, sacó su teléfono móvil y conectó la llamada, lue
 “¿Qué tipo de chico guapo estás presentando? Es solo un tipo apestoso, ¿cómo podría gustarle a Ermei?”
 
 Wei Jiaqi no pudo evitar susurrar cuando escuchó las palabras de su compañera de cuarto uno frase.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -171,7 +171,3 @@ Zhang Wanghai sabía que los guerreros de hace cientos de años podían controla
 Aunque Zhang Wanghai nunca ha visto a una persona que realmente pueda reencarnarse y resucitar, pero después de llegar al maestro de artes marciales de tres estrellas, sintió que tal situación debe existir.
 
 Si Chen Mo realmente resucitó de un hombre fuerte, entonces todo se puede explicar claramente ahora.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

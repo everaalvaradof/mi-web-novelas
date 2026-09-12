@@ -105,7 +105,3 @@ Después de ver esta escena, la cara de Pei Zi estaba extremadamente aterrorizad
 Cuando Pei Zi pensó en los aterradores antecedentes de Zhao Ziqian, estaba muy preocupada por Chen Mo.
 
 Después de ver esta escena, los amigos de Zhao Ziqian naturalmente tenían expresiones muy nerviosas en sus rostros, y todos corrieron al lado de Zhao Ziqian.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

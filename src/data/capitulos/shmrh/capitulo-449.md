@@ -103,7 +103,3 @@ Si realmente pasa, estas personas descubren que la villa no es de Chen Mo, ¿no 
 La expresión en el rostro de Wen Ruoxi era aún más perpleja. ¡Sentía que ya había renunciado a Chen Mo en este momento, y Chen Mo no tenía motivos para hacerlo!
 
 “¡Qué diablos está haciendo este Chen Mo!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -101,7 +101,3 @@ Porque no sabía cuando Ma Chi y otros la sedujeron.
 Después de escuchar las palabras de Chen Mo, Ma Chi y Wang Hongli estaban tan asustados que no sabían qué decir.
 
 Después de que Xu Yan vio esta escena, una pizca de impotencia brilló en sus hermosos ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

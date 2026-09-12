@@ -105,7 +105,3 @@ Los ojos del anciano Li brillaron con un toque de sorpresa, y luego gritó direc
 “¡Ve e infórmale a tu Maestro Gu ahora, dile que Chen Mo está aquí!”
 
 Chen Mo miró al anciano Li y continuó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

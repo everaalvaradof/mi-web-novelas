@@ -117,7 +117,3 @@ Li Juncheng continuó consolándola. Chen Mo.
 “¡Está bien, lo entiendo!”
 
 Chen Mo no estaba de humor para escuchar a Li Juncheng decir estas cosas y colgó el teléfono después de una frase informal.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

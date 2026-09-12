@@ -101,7 +101,3 @@ Una vez que Chen Mo pierda la calificación para heredar la herencia, todas esta
 Y Li Beijiang miró a Chen Mo de arriba abajo, y luego le dijo a Li Baiqiang con voz fría: “Papá, estás realmente confundido, no podemos ir al médico a toda prisa ahora, ¿cómo ¿podría ser alguien como él? ¿Puedes obtener 300 millones en efectivo?”
 
 Es obvio que el padre de Li Zixi, Li Beijiang, no cree que Chen Mo tenga tanta fuerza.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

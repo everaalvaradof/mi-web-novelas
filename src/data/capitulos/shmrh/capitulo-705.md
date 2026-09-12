@@ -129,7 +129,3 @@ Luo Qiu yacía en silencio en el suelo, mirando al techo con ojos desconcertados
 Luo Qiu cerró lentamente los ojos, recordando el momento en que estaba con Chen Mo. Parecía que no podía evitar mostrar un indicio de peligro.
 
 Y el cuchillo afilado fue directo a la mano derecha de Luo Qiu y la cortó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

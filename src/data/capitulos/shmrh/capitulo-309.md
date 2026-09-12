@@ -109,7 +109,3 @@ Chen Mo respondió a la ligera.
 Zhao Wu dio un paso adelante y gritó con arrogancia.
 
 Al mismo tiempo, en la calle frente al Hotel Hongxing, se encendió una luz deslumbrante y un convoy encabezado por Rolls-Royce se apresuró hacia la ubicación del Hotel Hongxing.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

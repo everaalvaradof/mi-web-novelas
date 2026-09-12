@@ -115,7 +115,3 @@ Después de escuchar lo que todos dijeron, Qi Yongying había estado pensando en
 “Patriarca, ¿qué quieres decir?”
 
 En este momento, un hombre de mediana edad le preguntó a Qi Yongying con el ceño fruncido.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

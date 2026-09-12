@@ -129,7 +129,3 @@ Otras personas se sintieron un poco insatisfechas cuando escucharon esta frase.
 Después de todo, hoy es una reunión de clase, incluso si se sirve el plato equivocado en el hotel, no se debe permitir que Chen Mo tome el plato solo. Zhang Ping está tan ansioso por dejar de lado la relación ahora, lo cual es realmente irrazonable.
 
 Wei Mengmeng respiró hondo y luego dijo sin expresión: “No se preocupen, todos, probemos este plato, aunque este plato es un poco caro, pero no es nada. ¿No son solo 90,000 yuanes? Yo pagué por este plato, no es gran cosa”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

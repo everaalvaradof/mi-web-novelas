@@ -167,7 +167,3 @@ Chen Mo giró la cabeza para mirar la posición del guardia de seguridad y no ha
 En este momento, un rugido de repente vino detrás de Chen Mo.
 
 ¡Todos los presentes quedaron atónitos cuando escucharon esto!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

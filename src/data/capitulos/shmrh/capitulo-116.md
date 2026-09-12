@@ -129,7 +129,3 @@ Los estudiantes que se pusieron de pie miraron a Chen Mo con una pizca de duda e
 Chen Mo se volvió para mirar el lugar de Qian Guangfa y dijo en voz baja: “¡Director Qian, dígales los resultados de esta investigación!”
 
 Qian Guangfa asintió levemente y luego subió al podio.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

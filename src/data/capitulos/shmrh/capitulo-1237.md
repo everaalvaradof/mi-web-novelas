@@ -129,7 +129,3 @@ En la última fila había tres chicas.
 La más destacada entre ellas es la belleza con gafas de sol. Aunque no hay forma de ver la belleza de la belleza, pero con solo mirar el temperamento del cuerpo, puedes ver que definitivamente es una súper belleza, con un mentón delgado Con una boca delicada, es muy fácil hacer que la gente piense en ello.
 
 Y las otras dos chicas son guapas por naturaleza, y su ropa también es de marcas internacionales, y sus antecedentes familiares no deberían ser simples.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

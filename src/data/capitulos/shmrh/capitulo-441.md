@@ -107,7 +107,3 @@ En este momento, Chen Mo se levantó de repente y caminó hacia el lado de Wen R
 “¿A qué vamos a ir? ? ¡Fingiste que la segunda generación de ricos no se ha resuelto y no quieres irte si no lo explicas claramente!”, Gritó Shi Xinxin después de ver que Chen Mo parecía estar planeando irse.
 
 Y Chen Mo miró a Shi Xinxin a la ligera y dijo con calma: “Ya pagué por esta comida, ¿qué quieres que te explique claramente?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

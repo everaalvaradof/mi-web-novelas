@@ -103,7 +103,3 @@ Después de que todos pelearon por un tiempo, descubrieron que el niño ya no po
 “¡Chico, no me dejes verte en el futuro, o te golpearé una vez que te vea!”
 
 Zhao Hang le gritó al joven tendido en el suelo en un Tono muy arrogante. Emitió un sonido y luego miró a Chen Mo, como si esta oración también amenazara a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -205,7 +205,3 @@ Xiaoxi entendió al instante lo que estaba pasando.
 “Zhang Zicheng no tiene las agallas, debería ser idea de Guo Fanghua. Ahora se ha difundido la noticia de que quiero estar con Xia Xingze. Les preocupa que si estoy realmente con Xia Xingze, puede afectar la sucesión de Zhang Zicheng a Zhang Zicheng. La propiedad de la familia, ¡así que planean atacarme por adelantado!”
 
 Zhang Ziqing dijo casualmente mientras bebía vino tinto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

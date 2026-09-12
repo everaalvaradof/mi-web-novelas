@@ -115,7 +115,3 @@ Todos quedaron atónitos cuando escucharon las palabras de He Cai. La expresión
 ¡Quién hubiera pensado que la cara de Su Mubai sería tan genial y que ahorró 10 millones en una frase!
 
 Es solo que Su Mubai y Su Chengkai no se sintieron afortunados por las palabras de He Cai, ¡porque no pudieron obtener 20 millones!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

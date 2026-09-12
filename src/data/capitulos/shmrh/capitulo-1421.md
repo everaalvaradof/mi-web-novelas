@@ -131,7 +131,3 @@ Li Taibai miró a Chen Mo y asintió.
 “Qué, no estoy muy interesado en tu secta Tianshan, y no quiero contactar a esas personas en artes marciales. ¡Deberías pasar esta posición a otros!”
 
 Chen Mo ni siquiera lo pensó y se negó directamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

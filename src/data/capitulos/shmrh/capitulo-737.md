@@ -111,7 +111,3 @@ Los ojos de Jiang Feifei brillaron con sorpresa, la expresión en su rostro era 
 Tang Manqi Ella no entendía de qué se trataba el taekwondo. A sus ojos, la derrota de Cai Zhuang ante Chen Mo fue algo muy vergonzoso.
 
 Después de que Wei Chen dudó un momento, giró la cabeza para mirar la posición de Chen Mo y gritó en voz baja con una cara sombría: “Chen Mo, fue solo una prueba simple, ¿tienes una mano tan dura?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

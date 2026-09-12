@@ -137,7 +137,3 @@ Zhang Ze sonrió feliz al escuchar las palabras del hombre de mediana edad, lueg
 Después de que todos vieron a Zhang Ze irse, rápidamente se levantaron y se fueron con Zhang Ze.
 
 Solo quedaron Chen Mo, Su Mu, Bai y Su Muyu en la sala de reuniones.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

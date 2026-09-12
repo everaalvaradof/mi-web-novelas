@@ -105,7 +105,3 @@ Chen Mo se quedó atónito cuando escuchó esto.
 “A los ojos de Bingbing, ninguno de esos chicos sobresalientes es digno de ella, por lo que definitivamente no eres digno de ella. ¡Te aconsejo que te des prisa y te rindas, no pierdas el tiempo!”
 
 Jiang Feifei sintió que Chen Mo debería haberse asustado por sus propias palabras, por lo que le dijo a Chen Mo en un tono frío.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

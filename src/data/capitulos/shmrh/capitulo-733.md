@@ -145,7 +145,3 @@ Yan She sacó su teléfono móvil y lo miró, y descubrió que era la llamada de
 Gritó Zhao Anan con ansiedad.
 
 Chen Mo se quedó atónito cuando escuchó las palabras de Zhao An’an.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

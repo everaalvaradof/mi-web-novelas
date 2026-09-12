@@ -89,7 +89,3 @@ Jiang Feifei dijo que este Shi también se sentó en el auto de Zhao Hang y dijo
 Zhao Hang sonrió levemente, luego miró a Chen Mo fuera del auto y continuó: “¿Qué, Chen Mo, ves que ahora estamos llenos, otros También hay gente en el coche, ¿o puedes verlo? ¡Toma un taxi solo, esa discoteca sigue siendo muy famosa y la mayoría de los taxistas lo saben!”
 
 Después de escuchar las palabras de Zhao Hang, todos se echaron a reír.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

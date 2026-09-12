@@ -151,7 +151,3 @@ Dijo Qin Yibing a la ligera.
 Chen Mo dejó escapar un largo suspiro de alivio y luego continuó: “¡Si no pasa nada, colgaré!”
 
 Qin Yibing respondió a Chen Mo a la ligera, y luego colgó el teléfono.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -147,7 +147,3 @@ Después de colgar el teléfono, Chen Mo levantó la cabeza y miró a Zuo Qingna
 Zuo Qingna no dijo mucho, simplemente se dio la vuelta y se fue.
 
 Chen Mo miró la espalda de Zuo Qingna y sonrió levemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

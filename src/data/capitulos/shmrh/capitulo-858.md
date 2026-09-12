@@ -95,7 +95,3 @@ En este punto, solo queda un candidato, y ese es Chen Mo.
 Dai Hao también estaba muy deprimido en ese momento.
 
 Si Dai Hao realmente ofendió a un joven con antecedentes debido al incidente de Su Bai, entonces Dai Hao podría no tener tiempo para llorar.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

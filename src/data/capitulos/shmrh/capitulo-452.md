@@ -105,7 +105,3 @@ Wen Ruoxi tiene una expresión de preocupación en su rostro, porque la informac
 “¿Qué diablos está haciendo este Chen Mo? Ya había planeado admitir estas cosas en este momento, ¿por qué tuvo que traer a Wang Shuo y a los demás aquí? ¡Y si algo realmente sucedió!”
 
 Wen Ruoxi se paró en el lugar y murmuró con una expresión rota.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

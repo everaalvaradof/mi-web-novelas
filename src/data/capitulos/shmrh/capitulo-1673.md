@@ -141,7 +141,3 @@ Chen Mo preguntó en voz baja.
 “¿Adivina quién soy?”
 
 La voz de una mujer sonó a través del teléfono.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

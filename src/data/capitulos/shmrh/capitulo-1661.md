@@ -109,7 +109,3 @@ Li Juncheng dijo rápidamente.
 “Puede que no sea fácil para la gente común establecer una empresa, pero no olviden que yo, Chen Mo, no tengo nada, pero solo tengo dinero. Si hay algún problema, simplemente usar el dinero. Ya no lo creo, puse todos mis activos en esta empresa, Magic Capital, ¿y todavía no puedo crear una gran empresa que pueda competir con la familia Xia?”
 
 Chen Mo dijo con firmeza.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

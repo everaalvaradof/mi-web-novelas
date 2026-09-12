@@ -125,7 +125,3 @@ Tang Ying miró a Chen Mo y asintió levemente, luego continuó: “Sr. Chen, lo
 Chen Mo respondió impotente, y luego tomó la iniciativa de enviar a Tang Ying al salón detrás del escenario.
 
 Después de que Chen Mo envió a Tang Ying de regreso al salón, regresó solo al lado de Wen Ruoxi. En este momento, el concierto ya había comenzado, pero estos fanáticos en el lugar no tenían idea de lo emocionante que era en este momento. Escena emocionante.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

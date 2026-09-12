@@ -127,7 +127,3 @@ Wen Ruoxi miró a Chen Mo y se burló, luego extendió la mano y detuvo un taxi 
 Después de un rato, el taxi desapareció de la vista de Chen Mo.
 
 La expresión en el rostro de Chen Mo era extremadamente impotente, y su relación con Wen Ruoxi finalmente se alivió, pero en ese momento cayó al punto de congelación debido a la apariencia de Su Muyu.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

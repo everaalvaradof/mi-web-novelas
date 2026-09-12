@@ -107,7 +107,3 @@ Y el propio Zhao Wu también finge ser terco ahora. Originalmente llamó a Zhao 
 Si Zhao Xiaoyou realmente llamó a Qi Lixiao, ¡eso estaría bien!
 
 Lo que más preocupa a Zhao Wu es que si Chen Mo llama a Qi Lixiao, ¡entonces las cosas serán un poco problemáticas!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

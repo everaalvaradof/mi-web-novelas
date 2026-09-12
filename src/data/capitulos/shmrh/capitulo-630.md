@@ -137,7 +137,3 @@ En este momento, el presentador gritó a la multitud con una sonrisa.
 Su Mi no pudo evitar quedarse atónita después de escuchar las palabras del presentador.
 
 Los ojos de Su Mi brillaron con sorpresa, y de repente recordó lo que Su Hongxiao le había dicho hace un momento, así que ni siquiera lo pensó, solo extendió la mano y gritó a Dao: “¡Cuarenta millones!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

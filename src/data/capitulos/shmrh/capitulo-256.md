@@ -117,7 +117,3 @@ Sun Yang no esperaba que Chen Mo admitiera que era un desperdicio solo humillarl
 Sun Yang levantó la cabeza y miró a Su Muyu, sabiendo que ahora había perdido y que no tenía rostro para quedarse aquí, así que dio un paso y planeó irse.
 
 Pero en este momento, Chen Mo de repente extendió la mano y detuvo a Sun Yang.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

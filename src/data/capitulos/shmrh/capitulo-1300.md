@@ -115,7 +115,3 @@ No hay manera, Chen Mo es demasiado minucioso. Chen Mo solo ha venido a este clu
 “¡No importa, nada importante ha sucedido recientemente en la casa club!”
 
 Qin Yibing miró a Chen Mo y dijo a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -117,7 +117,3 @@ Yan Miró a Chen Mo con una expresión de impotencia, porque sabía que esto no 
 Después de un tiempo, Chen Mo y Yan Feng se sentaron y comenzaron a jugar al ajedrez.
 
 Yan Feng descubrió que Chen Mo no parecía saber cómo colocar las piezas, por lo que la sonrisa en su rostro se hizo aún más brillante.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

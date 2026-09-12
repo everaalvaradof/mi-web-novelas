@@ -105,7 +105,3 @@ Debido a que Xu Hu y Wang Qichuan estaban heridos en este momento, incluso si su
 Por un momento, Du Tianhao se quedó en silencio.
 
 Y Chen Mo entrecerró los ojos ante la posición de Du Tianhao, sin saber lo que estaba pensando.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

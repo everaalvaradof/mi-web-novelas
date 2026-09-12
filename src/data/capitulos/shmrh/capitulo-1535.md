@@ -123,7 +123,3 @@ Todos los presentes centraron su atención en el lugar donde explotó la montañ
 “¿El Maestro de Secta aún no ha muerto?”
 
 Jiang Xi miró a lo lejos con grandes ojos llorosos, con una expresión impactante en su rostro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -117,7 +117,3 @@ Luo Qiu le gritó a Chen Mo con una sonrisa.
 “¿Qué historia estás contando? No estoy de humor para escuchar historias en este momento”
 
 “Pequeña Chen Mo, hermana, mis piernas son tan blancas y suaves, ¿verdad? ¿Realmente quieres subir y sentirlo?” Luo Qiu Continúa seduciendo a Chen Mo con su voz sexy y encantadora.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

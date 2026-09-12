@@ -109,7 +109,3 @@ Wen Ruoxi le dijo a Chen Mo con una sonrisa.
 Chen Mo se quedó allí durante dos segundos y vaciló, luego dijo en voz baja: “¡Está bien!”
 
 La partida de Su Mubai hizo que Chen Mo se sintiera muy mal, y ahora solo puede confiar en el alcohol para adormecerlo. tus nervios
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

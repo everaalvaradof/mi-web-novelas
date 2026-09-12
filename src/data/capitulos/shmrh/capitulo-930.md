@@ -119,7 +119,3 @@ Yan miró a Chen Mo frente a ella, sonrió levemente y dijo suavemente: “¡Tie
 “Entonces, ¿por qué haces esto? ? ¿Hacer?”
 
 Chen Mo preguntó confundido.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

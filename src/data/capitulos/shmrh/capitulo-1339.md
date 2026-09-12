@@ -145,7 +145,3 @@ Duan Chenjie respondió en voz baja, luego colgó el teléfono.
 Duan Chenjie miró su teléfono móvil con una ira infinita en sus ojos.
 
 En este momento, Chen Mo realmente lo ha forzado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

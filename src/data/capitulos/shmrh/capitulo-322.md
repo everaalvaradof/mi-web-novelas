@@ -131,7 +131,3 @@ Los tres puntos negros volaron hacia sus posiciones lentamente.
 “¡Helicóptero! ¡Viene un helicóptero!”
 
 De repente, una voz salió de la multitud.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

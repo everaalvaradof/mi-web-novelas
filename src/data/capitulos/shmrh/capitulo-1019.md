@@ -121,7 +121,3 @@ Song Xinxin no siguió hablando con Ren Bin, pero de repente dirigida a Chen Mo 
 De hecho, Song Xinxin no le hizo esta pregunta a Chen Mo por casualidad, pero cuando vio que Chen Mo parecía estar jugando con su teléfono móvil e ignoró a Qi Yefei, sintió que algo andaba mal.
 
 Qi Ye Fei es una chica tan hermosa y todavía está en el bar, pero cualquier hombre normal debería tomar la iniciativa de charlar con Qi Ye Fei, pero Chen Mo puede ser tan tranquilo, lo que significa que Chen Mo no es normal, o significa que Chen Mo ya tiene novia.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

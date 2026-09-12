@@ -169,7 +169,3 @@ En este momento, Chen Mo aterrizó lentamente y luego miró a Zhang Fansheng sin
 “¡El maestro de secta Zhang definitivamente no perdió!”
 
 Esos guerreros que apoyaron a Zhang Fansheng no podían creer que Zhang Fansheng sería tan rápido que perdió ante Chen Mo, por lo que gritaron emocionados.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

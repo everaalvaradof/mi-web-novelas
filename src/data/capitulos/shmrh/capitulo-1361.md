@@ -107,7 +107,3 @@ dijo Chen Mo con una sonrisa.
 “Aunque tenemos una buena relación, todavía tenemos que decir gracias”
 
 Ren Bin respondió con una sonrisa, luego miró a Chen Mo de arriba abajo y le preguntó a Chen Mo en un tono serio: “Chen Mo, ¿quién eres? No nos lo ocultes, ¿de acuerdo?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

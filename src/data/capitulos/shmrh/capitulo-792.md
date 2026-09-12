@@ -115,7 +115,3 @@ Y Chen Mo no está de humor para preocuparse en absoluto por el Valle del Dios d
 Chen Mo sabía que el material medicinal que Li Taibai estaba buscando era hierba de espíritu de sangre. En cuanto al ginseng Qinglong y la flor de tilo, Chen Mo no sirvió de nada, pero Fuyao dijo que el valor de esos dos materiales medicinales también era muy caro, y muy caro Es raro, así que después de que Chen Mo lo pensó, no tuvo la cortesía de dejar que Fuyao lo recogiera todo.
 
 Después de obtener los materiales medicinales, la misión de Chen Mo se completó con éxito, por lo que le pidió a Zhang Liren ya otros que lo sacaran de la cueva Guihu, listo para regresar a la ciudad de Yaoyuan.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

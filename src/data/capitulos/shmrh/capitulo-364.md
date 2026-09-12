@@ -103,7 +103,3 @@ Y Pan Ying también tiene sus propios pensamientos. Siente que cuantas más pers
 Por otro lado, Chen Mo regresó a la oficina de Li Juncheng.
 
 Cuando Chen Mo entró en la oficina, descubrió que Zhao Zhengbin y otros ya se habían ido, y solo Li Juncheng estaba sentado allí solo esperándolo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

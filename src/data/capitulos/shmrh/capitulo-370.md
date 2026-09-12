@@ -89,7 +89,3 @@ Chen Mo miró a Li Juncheng sin hablar.
 Chen Mo miró a Li Juncheng y suspiró con impotencia. ¡Ahora le duele la cabeza solo de pensar en Su Mubai!
 
 ¡Porque no sabía qué hacer para persuadir a Su Mubai!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

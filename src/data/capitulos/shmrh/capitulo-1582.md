@@ -127,7 +127,3 @@ Así que Yan Xiao planeó dar el primer paso y hacer que Chen Mo se sintiera inc
 En ese momento, Chen Mo definitivamente estará en un lío, tal vez cometa errores debido al nerviosismo, y Yan Xiao puede reírse ferozmente de Chen Mo.
 
 La expresión en el rostro de Chen Mo en este momento era muy tranquila, mirando la posición de Yan Xiao a la ligera, como si no hubiera ningún rastro de nerviosismo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

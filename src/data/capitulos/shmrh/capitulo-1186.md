@@ -113,7 +113,3 @@ Chen Mo sacó un documento de su ropa mientras hablaba y lo arrojó frente a Liu
 Después de dudar por un momento, Liu Jin recogió lentamente el documento frente a él.
 
 Después de que Liu Jin recogió el documento, lo abrió y lo miró, pero cuando Liu Jin vio el contenido del documento, se quedó estupefacto, miró a Chen Mo y le preguntó a Chen Mo con una expresión increíble. Dijo: “¿De dónde sacaste estas cosas?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

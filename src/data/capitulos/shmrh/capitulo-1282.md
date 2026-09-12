@@ -103,7 +103,3 @@ Fan Qingqing miró fijamente la posición de Chen Mo con sus hermosos ojos. En e
 Porque pensó desde el principio que Chen Mo podría no perder hoy, pero luego comenzó a preocuparse por Chen Mo, porque el poder de la familia Li era demasiado aterrador.
 
 ¡Pero el resultado final confirmó su suposición!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

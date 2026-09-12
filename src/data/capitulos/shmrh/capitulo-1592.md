@@ -111,7 +111,3 @@ Pero Chen Mo también sabía que Zhang Ziqing no sería capaz de mantener su est
 Zhang Xize y Zhang Xichuan naturalmente encontrarían personas escondidas en el gabinete.
 
 Así que la expresión en el rostro de Chen Mo estaba muy enredada y no sabía qué hacer.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

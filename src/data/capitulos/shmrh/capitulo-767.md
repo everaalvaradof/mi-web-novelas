@@ -89,7 +89,3 @@ Y Chen Mo nunca encontró las hierbas que necesitaba, así que nunca las tomó.
 “Las hierbas medicinales que vamos a subastar son interesantes. Nuestra casa de subastas ha contratado a muchos maestros de hierbas medicinales para identificarlas, pero nadie ha podido identificar qué es esta hierba medicinal, por lo que necesita una buena prueba. ¡Mira la vista de todos!”
 
 El anfitrión miró a todos con una leve sonrisa, luego estiró su mano para levantar el satén rojo en la bandeja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

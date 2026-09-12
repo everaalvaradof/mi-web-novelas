@@ -121,7 +121,3 @@ Pero cuando llegó a la casa de Zhang Ping, lo que dijo su novio no tenía valor
 Además, la empresa para la que trabaja el novio de Wei Mengmeng tiene las acciones de su novio, y el puesto también es el de subdirector general.
 
 Wei Mengmeng se mostró reacio a mencionar estas cosas solo porque era discreto, pero Zhang Ping era solo un pasante, pero le avergonzaba hacer comentarios irresponsables.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

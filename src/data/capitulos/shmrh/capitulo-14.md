@@ -119,7 +119,3 @@ Chen Mo respondió en un tono monótono, y sin siquiera mirar el dinero en la ma
 Wei Ming se paró en el lugar con una expresión avergonzada de 40,000 yuanes, preguntándose en su corazón, si Chen Mo es realmente como dijo Wei Xiaole, es solo un niño pobre que vive recogiendo desechos, entonces ¿Cómo podría Chen Mo conocer a alguien como Du Tianhao y cómo podría no preocuparse por los 40,000 yuanes?
 
 Mientras Wei Xiaole cubría su rostro, la expresión de su rostro era extremadamente agraviada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

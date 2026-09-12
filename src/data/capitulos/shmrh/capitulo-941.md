@@ -105,7 +105,3 @@ Si Chen Mo realmente tenía tal capital, Jiang Feifei sintió que no era nada, p
 Jiang Feifei sintió que la razón por la que Chen Mo hizo esto fue que quería mostrarse frente a la chica que amaba.
 
 ¡Pero a los ojos de los demás, el comportamiento de Chen Mo es simplemente estúpido!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

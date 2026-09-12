@@ -89,7 +89,3 @@ La ropa que llevaba Chen Mo en ese momento era en realidad de grandes marcas int
 ¡Pero Chen Mo no conocía estas marcas en absoluto, y no sabía que la ropa que vestía ahora costaba al menos más de 100,000 yuanes!
 
 La razón por la que Yang Manqi miró a Chen Mo con tanta repugnancia en ese momento fue que sabía que los antecedentes de identidad de Chen Mo eran normales y que era imposible que la gente común usara una marca tan famosa, por lo que la ropa de Chen Mo Si todo fuera falso, Yang Manqi sintió que podía usar esto para humillar a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

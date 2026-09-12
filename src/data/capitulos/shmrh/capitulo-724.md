@@ -105,7 +105,3 @@ Chen Mo se sorprendió cuando escuchó las palabras de Luo Qiu, y luego dijo con
 “En realidad, Siempre he tenido esta corazonada, ¡pero no hay forma de estar seguro!”
 
 Luo Qiu respondió a Chen Mo a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

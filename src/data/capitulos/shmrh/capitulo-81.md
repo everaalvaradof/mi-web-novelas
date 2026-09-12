@@ -147,7 +147,3 @@ Cuando el joven vio a Chen Mo, no pudo evitar congelarse por un momento y luego 
 Después de escuchar las palabras del joven, todos giraron la cabeza para mirar la posición de Chen Mo, sus ojos estaban muy desconcertados.
 
 ¡El joven que entró en ese momento no era otro que Zhang He, el gerente del restaurante Jacques!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

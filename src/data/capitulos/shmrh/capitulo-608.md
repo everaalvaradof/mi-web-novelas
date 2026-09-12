@@ -113,7 +113,3 @@ Cuando Zhao Lei escuchó esta oración, una pizca de vacilación brilló en sus 
 Mientras Yan She hablaba, extendió la mano y guardó su pistola.
 
 Zhao Lei miró a Chen Mo con cierta preocupación, Chen Mo agitó su mano suavemente hacia Zhao Lei. De hecho, su relación con este Yan She era muy complicada, pero definitivamente no era un enemigo. Si él quiere para lidiar con sí mismo, no se salvará en absoluto, por lo que Chen Mo también cree que Yan She no se lastimará.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

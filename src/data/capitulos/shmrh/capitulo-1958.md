@@ -181,7 +181,3 @@ Zhang Bo miró estos guerreros legendarios y no pudo evitar respirar hondo.
 Tienes que saber que si estas personas acaban con alguno de ellos, es la existencia de Megatron, pero todas estas personas han venido aquí hoy, lo que significa que algo grande va a pasar, o de lo contrario estas personas también. Es absolutamente imposible estar aquí al mismo tiempo.
 
 Zhang Bo es algo famoso en el mundo de las artes marciales y sabe muchas cosas, pero nunca se ha enfrentado a una batalla tan grande.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

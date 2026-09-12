@@ -123,7 +123,3 @@ Después de decir esto, Zhang Ping no eligió dar la bienvenida a Chen Mo, sino 
 Tengo que decir que la recepción del Hotel Weiyang se ve muy bien, y la figura también es muy buena.
 
 En realidad, Zhang Ping no quería traer a Chen Mo en absoluto. Su idea era humillar deliberadamente a Chen Mo para que Chen Mo no pudiera entrar porque no tenía una tarjeta de miembro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -107,7 +107,3 @@ Wang Shuo hizo un puchero y gritó, luego continuó: “Le pedí a mi amigo que 
 Li Yiyi parecía un poco asustada y preguntó.
 
 Le preocupaba que Chen Mo fuera realmente una segunda generación rica, y él era nativo de la ciudad de Nanyang. Si estaba realmente enojado por esto, ¡podría tomar represalias contra ellos!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

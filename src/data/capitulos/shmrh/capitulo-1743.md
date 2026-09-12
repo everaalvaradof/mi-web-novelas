@@ -133,7 +133,3 @@ Guo Fanghua se quedó atónito cuando escuchó las palabras del joven.
 “¿Dónde está la gente?”
 
 Zhang Fansheng se levantó de repente y preguntó en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -109,7 +109,3 @@ Chen Mo sonrió levemente y preguntó en un tono tranquilo.
 “Sé que eres muy bueno, ¡pero Zhao Ziqian es realmente difícil de ofender!”
 
 Después de que Pei Zi vio que Chen Mo seguía siendo tan indiferente, la expresión de su rostro parecía ser aún más ansiosa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

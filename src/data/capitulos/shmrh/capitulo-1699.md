@@ -163,7 +163,3 @@ Dijo Liu Chengping en un tono muy firme.
 Y Liu Xue asintió levemente después de dudar durante dos segundos y dijo: “¡Está bien, llamaré al secuestrador ahora!”
 
 Liu Chengping asintió levemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

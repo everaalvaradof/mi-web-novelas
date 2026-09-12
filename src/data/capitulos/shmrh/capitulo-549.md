@@ -109,7 +109,3 @@ Chen Mo sonrió con indiferencia y luego sacó a Zhao Lei del auto.
 Pero justo cuando Chen Mo estaba a punto de bajarse, Li Zixi de repente le gritó a Chen Mo un sonido.
 
 Chen Mo se quedó atónito cuando escuchó las palabras de Li Zixi, luego, sin dudarlo, salió del auto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

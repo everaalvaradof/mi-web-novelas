@@ -95,7 +95,3 @@ Otros siguieron su ejemplo.
 Y el Sr. Zhang miró a He Shishi sin comprender, la expresión de su rostro era muy tranquila, el Sr. Zhang sabía en su corazón por qué He Shishi no estaba de acuerdo con él en este momento, solo quería felicitarlo. Bueno, solo agárrate a tu propio apetito.
 
 El Sr. Zhang ha visto esta situación muchas veces y hace tiempo que se ha acostumbrado a ella.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

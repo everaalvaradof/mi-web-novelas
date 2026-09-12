@@ -125,7 +125,3 @@ Zhao Jinyu se quedó atónito por un momento y preguntó con un tono desconcerta
 “No es que lo conozca, pero he oído hablar de este Chen Mo. Es de Nanyang, ¿verdad?”
 
 Zhao Xicheng respondió sin expresión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

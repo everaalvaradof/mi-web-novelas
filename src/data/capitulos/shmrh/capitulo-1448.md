@@ -113,7 +113,3 @@ Pero antes de que la mano derecha de Li Kun agarrara el hombro de Chen Mo, Chen 
 Li Kun miró a Chen Mo, y había una pizca de duda en sus ojos.
 
 La expresión en el rostro de An Xiaowu parecía algo desconcertada, y no entendió bien lo que Chen Mo acababa de decir.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

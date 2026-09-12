@@ -97,7 +97,3 @@ Mis padres no solo no agradecieron a Chen Mo, sino que, por el contrario, hicier
 Se estima que solo Chen Mo puede soportar tal cosa, y tal vez otra persona no pueda soportarlo.
 
 Chen Mo no sabía, solo inventó una excusa, pero esta excusa hizo que su favoritismo en el corazón de Su Mubai se disparara.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

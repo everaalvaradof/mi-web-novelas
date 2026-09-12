@@ -213,7 +213,3 @@ En este momento, muchos discípulos de la rama ya se habían precipitado. Cuando
 “Con razón se atreve a ¡Irrumpir en nuestra rama de enseñanza parece ser realmente capaz!”
 
 Los discípulos de la rama de enseñanza no pudieron evitar susurrar, pero nadie se atrevió a disparar, porque sabían que estaban disparando ahora. muerte.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

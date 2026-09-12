@@ -109,7 +109,3 @@ En este momento, Yan She vestía una camisa blanca, pero debido a que estaba man
 Justo después de que terminaron las palabras de Chen Mo, Yan abrió lentamente la parte superior de su camisa. ¡botón!
 
 ¡Chen Mo se congeló al instante!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

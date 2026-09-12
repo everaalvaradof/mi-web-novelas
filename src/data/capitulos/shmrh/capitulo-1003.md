@@ -135,7 +135,3 @@ dijo Chen Mo impotente.
 “¿Presidente del Grupo Nanyang Huiding?”
 
 La hermosa mujer en la recepción se quedó atónita cuando escuchó las palabras de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

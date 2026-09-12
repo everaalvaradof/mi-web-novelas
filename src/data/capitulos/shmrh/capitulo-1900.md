@@ -179,7 +179,3 @@ Después de escuchar esto, los ojos de Zhang Zicheng brillaron de emoción, lueg
 “Eso es realmente genial”
 
 La expresión de Zhang Zicheng parecía estar aún más emocionada después de escuchar esto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -153,7 +153,3 @@ Pero en este momento, la voz fría de una mujer de repente vino del bar.
 Después de escuchar esta voz, todos inconscientemente miraron hacia la ubicación de la entrada del bar.
 
 ¡Una mujer entró al bar enojada con tacones altos!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

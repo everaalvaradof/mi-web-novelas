@@ -181,7 +181,3 @@ Chen Mo dijo débilmente.
 Yan Giró la cabeza para mirar a Chen Mo. De hecho, sabía que Chen Mo estaba muy ansioso en este momento, pero a veces estar ansioso no puede resolver ningún problema.
 
 Cuando Chen Mo estaba en la provincia de Jiangnan o en la provincia de Tianyuan, podía resolver fácilmente las dificultades que encontraba confiando en las relaciones dejadas por Wangcheng, pero ahora la persona con la que debe tratar Chen Mo es la persona general a cargo. de Yinshang en China Xia Qingfeng, por lo que algunas cosas no son tan simples como imaginaba Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -101,7 +101,3 @@ Wen Ruoxi también respondió instintivamente.
 Y después de escuchar las palabras de Wen Ruoxi, los ojos de Chen Mo brillaron con un toque de confusión.
 
 Al principio, Chen Mo claramente le había dado a Wen Ruoxi la llave de su villa, pero la villa de Chen Mo no era Huadu Liying. Chen Mo no podía entender por qué Wen Ruoxi cambió repentinamente el lugar. ¿Podría ser correcto? ¿No está interesado en su propia villa?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

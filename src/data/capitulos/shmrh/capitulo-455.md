@@ -97,7 +97,3 @@ Wen Ruoxi parecía un poco inquieto, miraba a Chen Mo y continuaba instruyéndol
 Chen Mo respondió a Wen Ruoxi con una expresión muy impotente. De hecho, Chen Mo sabía en su corazón que Wen Ruoxi estaba preocupado Superfluo, después de todo, el verdadero dueño es Chen Mo, y Chen Mo no está preocupado por estas cosas que preocupan a Wen Ruoxi.
 
 Es solo que Chen Mo sintió que sería difícil si quería demostrarle a Wen Ruoxi que la casa realmente le pertenecía, así que bien podría hacerlo de acuerdo con los deseos de Wen Ruoxi, y salvaría él mismo el problema.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -115,7 +115,3 @@ Ahora Wen Zhentian y Wen Zhenhai han sido asesinados por Yan She, por lo que la 
 “¿No sabes lo que dije? Si no fuera porque estuviste confundido por un tiempo, ¿cómo pudo nuestra familia Wen haber caído en tal situación? ¿Estás feliz de querer dañar a nuestros Wen y destruir a la familia? ¿No es así?”
 
 Wen Zhenbei le gritó a Wen Wangchuan con los ojos fijos y una expresión muy enojada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

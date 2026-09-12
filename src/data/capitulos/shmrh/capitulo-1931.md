@@ -171,7 +171,3 @@ Wu Tang asintió levemente, con una expresión muy tranquila en su rostro.
 Él realmente sabe cuán aterradora es la fuerza de Chen Mo. Si Chen Mo realmente se precipita hacia el techo, definitivamente no será el oponente de Chen Mo, y todo lo que puede hacer ahora es darles a Xia Qingfeng y Xia Xingze dos personas. simplemente procrastinar.
 
 Solo espera hasta que llegue el helicóptero y los dos suban al avión y estén seguros allí.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

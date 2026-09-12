@@ -117,7 +117,3 @@ Y después de dudar durante dos segundos, Zhang Xize apretó los dientes y dijo 
 “Si hiciste esto antes, ¿No tienes tantas cosas que hacer? Tienes que perder el tiempo conmigo aquí”
 
 Chen Mo respondió con un puchero en la boca, luego puso sus brazos alrededor de Zhang Ziqing y dijo: “Señorita Zhang, lo siento, tengo que molestarte de nuevo”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

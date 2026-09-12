@@ -127,7 +127,3 @@ Zhao Hongtao se burló, luego se inclinó y volteó la mesa de Chen Mo dos veces
 Zhao Hongtao golpeó la billetera frente a Chen Mo y gritó en voz alta: “Chen Mo, por favor explícame ahora, ¿qué es esta cosa? ?”
 
 ¡Los estudiantes de la clase estaban alborotados cuando vieron que Zhao Hongtao realmente encontró la billetera en el escritorio de Chen Mo!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

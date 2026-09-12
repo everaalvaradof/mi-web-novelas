@@ -117,7 +117,3 @@ Después de que Su Mi escuchó esto, se congeló en su lugar, con una expresión
 Debido a que Su Mi conocía muy bien a Li Juncheng y Du Tianhao, ¡los dos sacaron un personaje que era comparable a su abuelo Su Hongxiao!
 
 Y estas dos personas son en realidad los subordinados de ese joven maestro Chen, ¡cuán aterrador es el trasfondo del joven maestro Chen!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -117,7 +117,3 @@ En este momento, Chen Mo en el ring también parecía darse cuenta del peligro d
 Chen Mo respiró hondo, luego lentamente por derecho propio mano, de repente apretó el puño, bajó La voz gritó: “¡Xuantian Zhenwuquan, estilo Capítulo, roca rota!”
 
 El puño de Sun Tao chocó con el puño de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

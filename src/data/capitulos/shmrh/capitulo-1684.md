@@ -117,7 +117,3 @@ Liu Chengping suspiró suavemente y luego continuó: “Este Chen Mo es el hered
 “Los antecedentes de este Chen Mo son tan aterrador?”
 
 Después de escuchar las palabras de Liu Chengping, los miembros mayores de la familia Liu no pudieron evitar respirar profundamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

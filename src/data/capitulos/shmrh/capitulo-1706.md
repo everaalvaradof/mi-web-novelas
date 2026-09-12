@@ -191,7 +191,3 @@ Liu Xue finalmente no pudo soportarlo más, mirándola con una expresión muy em
 En cualquier caso, la familia Liu puede ser considerada como una de las cuatro familias principales en la capital mágica. No hay familia fuera de la familia Xia que se atreva a tratar a la familia Liu con una actitud tan arrogante.
 
 Pero en ese momento, la actitud de Chen Mo era inusualmente arrogante, como si no le importara en absoluto la gente de su familia Liu.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

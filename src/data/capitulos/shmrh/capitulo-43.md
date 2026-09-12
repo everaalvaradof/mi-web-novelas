@@ -141,7 +141,3 @@ Meng Dianping asintió y luego caminó directamente hacia la escuela. bar.
 Pero después de caminar dos pasos, Wei Jiaqi de repente giró la cabeza para mirar la posición de Chen Mo y dijo con una expresión muy disgustada: “Meng Liang, ¿por qué este recogedor de basura todavía nos sigue? Date prisa y deja él vaya. ¿qué debo hacer si mi compañero de cuarto lo ve? ¡No quiero que mi compañero de cuarto sepa que conozco a un pobre que recoge basura!”
 
 Meng Liang se quedó atónito cuando escuchó las palabras de Wei Jiaqi. y su rostro estaba atónito. Su expresión se volvió muy avergonzada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

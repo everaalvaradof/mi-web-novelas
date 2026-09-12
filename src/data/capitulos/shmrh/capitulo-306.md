@@ -123,7 +123,3 @@ Zhao Wu rugió, luego se levantó y quiso irse.
 Pero Chen Mo se detuvo justo frente a Zhao Wu y le dijo a Zhao Wu en un tono muy tranquilo: “Si no te disculpas con mi novia hoy, ¡ni siquiera pienses en irte de aquí!”
 
 Zhao Wu se sorprendió cuando escuchó las palabras de Chen Mo, mirando a Chen Mo con una expresión extremadamente enojada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

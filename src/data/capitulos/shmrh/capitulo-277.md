@@ -107,7 +107,3 @@ Obviamente, quería aprovechar esta oportunidad para darle una buena lección a 
 Su Mubai abrió la boca para hablar, cuando de repente escuchó a Chen Mo decir: “¿Estas personas llamadas por tu abuelo pueden considerarse conexiones?”
 
 Cuando Su Ling escuchó las palabras de Chen Mo, se congeló en su lugar, luego giró la cabeza para mirar a Chen Mo, un indicio de confusión brilló en sus ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

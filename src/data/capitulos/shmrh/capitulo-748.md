@@ -109,7 +109,3 @@ El gerente Wang giró la cabeza y miró a Su Bai, con una expresión muy impoten
 En este momento, Chen Mo de repente giró la cabeza para mirar la posición del Gerente Wang y le susurró a Wang el gerente. preguntó.
 
 El gerente Wang se sorprendió cuando escuchó las palabras de Chen Mo, y Su Bai también se sorprendió.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

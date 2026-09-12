@@ -73,7 +73,3 @@ Shi Xinxin se burló, luego se volvió para mirar a Wen Ruoxi y gritó: “¿Cre
 “No es lo que pensaba, ¿qué es eso?”
 
 Shi Xinxin sonrió con desdén, luego sacó el teléfono móvil de Wang Shuo y gritó a la multitud: “Chicos, pueden tomar una buena ¡mira a ver si la persona en esta foto es Chen Mo!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

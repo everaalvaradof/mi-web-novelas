@@ -115,7 +115,3 @@ Su Lieheng todavía no entiende a Chen Mo. La relación con estas personas solo 
 “Papá, ¿estás confundido? ¿Cómo pudieron venir estos grandes jefes a buscar a Chen Mo? ¡Es imposible que Chen Mo conozca a estas personas!”, gritó repentinamente Su Meiling.
 
 Pero Su Meiling acababa de terminar su oración, Zhou Qiantu y otros giraron la cabeza para mirar la posición de Su Meiling, sus ojos eran extremadamente aterradores.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

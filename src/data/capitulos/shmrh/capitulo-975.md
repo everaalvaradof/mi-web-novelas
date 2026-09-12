@@ -121,7 +121,3 @@ Por supuesto, todo esto tiene mucho que ver con la muerte del padre de Chen Mo.
 Chen Mo estaba solo frente a la villa, recordando todo lo que sucedió antes.
 
 Aunque Chen Mo no está dispuesto a enfrentarse a la gente de la familia Chen, a veces tiene que enfrentarse a estas cosas tarde o temprano.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

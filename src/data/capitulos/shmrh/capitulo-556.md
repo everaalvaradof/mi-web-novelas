@@ -127,7 +127,3 @@ Zhang Wei respondió con un tono entrecortado, luego colgó el teléfono temblan
 Después de ver la expresión en el rostro de Zhang Wei en este momento, todos comenzaron a murmurar en sus corazones.
 
 Al segundo siguiente, Zhang Wei le gritó directamente a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

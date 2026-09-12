@@ -107,7 +107,3 @@ Li Juncheng nunca pensó que Chen Mo planeaba usar una forma tan simple y groser
 Chen Mo le dijo a Li Juncheng de manera muy dominante.
 
 Después de escuchar las palabras de Chen Mo, todos quedaron estupefactos, porque solo en ese momento se dieron cuenta de que Chen Mo realmente planeaba comprar sus acciones.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

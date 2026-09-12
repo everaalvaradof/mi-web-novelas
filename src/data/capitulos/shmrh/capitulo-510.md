@@ -135,7 +135,3 @@ Tal vez fue porque Luo Qiu lo rechazó demasiadas veces, por lo que Fan Liang es
 “¿Quién te dijo que no tengo novio?”
 
 ¡Pero las palabras de Luo Qiu directamente derramaron agua fría sobre la cabeza de Fan Liang!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

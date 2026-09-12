@@ -129,7 +129,3 @@ Chen Mo rechazó directamente a Luo Qiu, porque sabía que a Su Mubai no le impo
 ¡Pero se puede aceptar la sugerencia de Chen Mo de comprar una flor para Su Mubai!
 
 Alrededor de las siete de la mañana, Chen Mo apareció en la puerta de la compañía de Su Mubai con un ramo de rosas rojas brillantes, esperando en silencio a que Su Mubai se acercara.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

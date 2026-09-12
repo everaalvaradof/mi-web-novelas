@@ -115,7 +115,3 @@ Después de llegar a casa, Chen Mo descubrió que Yan She no había regresado. C
 “¿Qué diablos hizo Yan She? ¿Por qué ha pasado tanto tiempo y no hay ninguna noticia?”
 
 En ese momento, Chen Mo comenzó a preocuparse por si Yan She realmente la toqué, qué problema.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -131,7 +131,3 @@ Después de recibir el colgante de jade, la niña lo observó con mucho cuidado 
 “Xiaoyun, ¿ves algo?”
 
 Bai Zhibing le preguntó suavemente a la chica.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

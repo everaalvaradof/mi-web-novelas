@@ -115,7 +115,3 @@ Dijo Zhang Liren suavemente a Shu Ziyu.
 Shu Ziyu no habló, pero Lu An hizo un puchero y gritó.
 
 Zhang Liren miró a Lu An con impotencia y dijo a la ligera: “Señorita Shu, joven maestro Lu, ya que insisten en entrar, no diré nada más. Si no hay nada que hacer, entonces primero ¡Vamos!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

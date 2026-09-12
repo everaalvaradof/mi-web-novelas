@@ -159,7 +159,3 @@ En este momento, un hombre de mediana edad miró a Wang Liangyi y preguntó.
 “Todavía no he heredado el patrimonio, pero ya he dejado que mi equipo legal realice los procedimientos legales. Se estima que no me llevará mucho tiempo heredar este patrimonio con justicia, y Huiding Group también lo hará”. ¡Conviértete en mi propiedad!”
 
 Dijo Wang Liang con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

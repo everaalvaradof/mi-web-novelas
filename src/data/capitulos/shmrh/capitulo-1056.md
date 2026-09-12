@@ -107,7 +107,3 @@ Su Chengkai miró a Chen Mo con un destello de sorpresa en sus ojos.
 Chen Mo le dijo a Su Chengkai en un tono serio.
 
 Su Chengkai sonrió levemente después de escuchar las palabras de Chen Mo y luego salió de la oficina.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

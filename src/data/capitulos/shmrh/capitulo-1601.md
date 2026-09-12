@@ -129,7 +129,3 @@ Zhang Ziqing miró la posición de Chen Mo con una expresión nerviosa en su ros
 Chen Mo respiró hondo y extendió la mano para sacar la píldora divina.
 
 Pero Wang Yan no le daría a Chen Mo la oportunidad de tomar prestadas píldoras divinas, y de repente agitó su mano derecha.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

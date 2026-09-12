@@ -113,7 +113,3 @@ Tao Yiran dijo en sorpresa.
 “Hermana, ¿en qué estás pensando? ¿Cómo podría ser el amante de Chu Lan?”
 
 dijo Chen Mo sin palabras.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

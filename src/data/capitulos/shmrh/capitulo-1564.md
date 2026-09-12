@@ -95,7 +95,3 @@ Y Chen Mo vaciló después de escuchar las palabras de Bai Lu, y luego dijo a la
 Bai Lu dejó escapar un largo suspiro y respondió con entusiasmo.
 
 Y Chen Mo no dijo tonterías y colgó el teléfono directamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

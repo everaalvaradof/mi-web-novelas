@@ -103,7 +103,3 @@ Wang Zhenqing preguntó con frialdad.
 Jiang Qiwei le dijo impotente a Wang Zhenqing.
 
 Después de que Wang Zhenqing escuchó las palabras de Jiang Qiwei, una pizca de impotencia brilló en sus ojos, suspiró suavemente y dijo en voz baja: “Dices que quieres que te diga lo que quieres, no lo hiciste”. Ni siquiera conozco la identidad y los antecedentes de tu oponente, así que me invitaste, y ahora es así, ¿no te sientes avergonzado?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

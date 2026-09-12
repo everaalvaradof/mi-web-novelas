@@ -141,7 +141,3 @@ Los ojos de Chu Hanshan brillaron con sorpresa después de escuchar las palabras
 Chu Lan respondió con una sonrisa.
 
 Chu Hanshan miró a Chu Lan con impotencia y no habló.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

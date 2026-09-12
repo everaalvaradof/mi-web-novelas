@@ -121,7 +121,3 @@ Feng Xing asintió rápidamente.
 El hombre de mediana edad se acercó a Chen Mo, miró a Chen Mo de arriba abajo y dijo en voz baja: “¿Tú eres Chen Mo?”
 
 Chen Mo asintió levemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

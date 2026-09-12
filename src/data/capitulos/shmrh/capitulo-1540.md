@@ -103,7 +103,3 @@ Después de unos segundos, la puerta se abrió desde adentro.
 Justo cuando Chen Mo estaba a punto de entrar en la habitación, una ráfaga de fragancia lo golpeó.
 
 Debido a que la luz del sensor en el corredor estaba apagada, Bai Lu no vio la apariencia de Chen Mo claramente, pero consideró a Chen Mo como Feng Hao, así que extendió la mano y abrazó a Chen Mo directamente, y dijo con ternura : “Esposo, por qué no has venido por unos días, todos te extrañan”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

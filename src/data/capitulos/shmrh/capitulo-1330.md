@@ -141,7 +141,3 @@ dijo Chen Mo con una sonrisa.
 “Entonces será mejor que no permitas que estas personas conozcan tu verdadera identidad, o Duan Chenjie puede desconfiar de ti”
 
 Qiao Ying le recordó a Chen Mo en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

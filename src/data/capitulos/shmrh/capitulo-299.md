@@ -107,7 +107,3 @@ Una vez que Su Mubai aceptara a Chen Mo, Chen Mo no tendría que disfrazarse fre
 Chen Mo le dijo a Su Mubai con una expresión muy seria.
 
 Cuando Su Mubai se enfrentó a la repentina confesión de Chen Mo, se quedó estupefacto y miró a Chen Mo aturdido, sin saber cómo responder a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

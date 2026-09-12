@@ -99,7 +99,3 @@ Su Lieguang obviamente estaba un poco incómodo en este momento, y frunció el c
 “¿Qué pasó? Vio una broma así en mi banquete de cumpleaños, ¿no pensó que era demasiado?”, Gritó Su Lieheng con los ojos bien abiertos, luego señaló a Chen Mo y dijo: “Chen Mo, rueda por mí ahora, cuanto más lejos, mejor, ¡y ni siquiera querrás cruzar la puerta de nuestra familia Su por el resto de tu vida!”
 
 Todos quedaron atónitos cuando escucharon esta oración, con una expresión de asombro en su rostro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

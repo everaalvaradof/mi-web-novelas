@@ -97,7 +97,3 @@ Zhang Xiaobao le preguntó apresuradamente a Wang Shuo con una sonrisa después 
 Wang Shuo gritó con orgullo.
 
 Después de escuchar las palabras de Wang Shuo, todos quedaron atónitos en el lugar y las expresiones en sus rostros eran muy increíbles.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

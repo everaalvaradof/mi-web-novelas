@@ -103,7 +103,3 @@ Esos abogados que se habían coludido con Wang Liang antes solo podían mantener
 Si este es el caso, entonces Chen Mo será su próximo jefe, y no serán tan estúpidos como para ofender a Chen Mo y ayudar a Wang Liangyi en este momento.
 
 Li Juncheng mostró una sonrisa muy satisfecha después de ver el resultado. No importa qué, todos sus esfuerzos no fueron en vano después de todo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -135,7 +135,3 @@ Yan Niancheng sonrió levemente, luego miró a Chen Mo de arriba abajo y dijo su
 “No, estoy casi recuperado”
 
 Chen Mo respondió a la ligera Yan Niancheng dijo una oración.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

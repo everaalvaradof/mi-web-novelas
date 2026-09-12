@@ -107,7 +107,3 @@ Gao Feifei miró a Chen Mo y gritó.
 Gao Feifei gritó emocionado.
 
 Después de escuchar las palabras de Gao Feifei, todos los presentes mostraron una expresión de asombro. ¡Nadie pensó que esta hermosa mujer, Gao Feifei, se arrodillaría y le rogaría a Chen Mo que la cuidara!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

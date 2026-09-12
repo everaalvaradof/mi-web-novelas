@@ -121,7 +121,3 @@ El chico respondió con un terco cuello.
 “Entonces, ¿qué debo hacer ahora?”
 
 El chico parpadeó y preguntó confundido.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -109,7 +109,3 @@ Todos los presentes quedaron estupefactos, viendo como la camioneta Mercedes-Ben
 “¿Es esto un secuestro?”
 
 Una niña tartamudeó después de darse cuenta.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

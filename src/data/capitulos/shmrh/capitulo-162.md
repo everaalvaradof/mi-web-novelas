@@ -123,7 +123,3 @@ A sus ojos, la razón por la que Yan She salvó a Chen Mo hoy fue solo por el bi
 Sun Bo accedió de mala gana, luego sacó su teléfono móvil y llamó a Zhou Xuan.
 
 Gao Feifei y Li Kai miraron a Chen Mo con expresiones muy orgullosas. Ambos sintieron que la muerte de Chen Mo se avecinaba.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

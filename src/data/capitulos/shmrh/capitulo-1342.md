@@ -4,118 +4,104 @@ numero: 1342
 novelaId: "shmrh"
 ---
 
-Más de media hora después.
+“¿Qué haces? Alguien golpea a Duan Chenjie por ti, ¿no es bueno? Veamos la emoción”
 
-Todos sintieron que el tiempo casi había terminado, así que decidieron regresar.
+dijo Chen Mo a la ligera.
 
-Después de que Xue Yuqi saludó brevemente a todos, saludó a todos y salió de la caja juntos.
+Qiao Ying miró a Chen Mo y sonrió, pero no habló.
 
-“¿Por qué Duan Gongzi no volvió?”
+Pero en este momento, sonó un paso muy rápido.
 
-En ese momento, un joven gritó con algunas dudas.
+Todos giraron la cabeza y miraron, solo para ver a más de una docena de guardias de seguridad corriendo hacia Duan Chenjie y Tao Yiliang.
 
-“El joven maestro Duan no está de buen humor hoy, ¡así que debería irse temprano!”
+“Para todo, ¿qué estás haciendo?”
 
-Dijo suavemente una estrella femenina.
+Gritó el líder de la guardia de seguridad con una expresión muy emocionada.
 
-“Es cierto, el Sr. Duan debe haberse ido primero, ¡vamos también!”
+Después de escuchar las palabras del guardia de seguridad, todos se giraron para mirar la posición del guardia de seguridad.
 
-Mientras hablaban, todos se pusieron sus gafas de sol y sombreros, y luego se prepararon para salir del Club Tianyun.
+“¿Ustedes dos saben qué es este lugar? Este es el Club Tianyun, salgan de aquí inmediatamente. Si hay algún conflicto, lo resolveremos afuera. ¡No afecten a otras personas aquí!”
 
-Chen Mo y Qiao Ying naturalmente siguieron a todos fuera de la caja.
+El capitán de seguridad habló muy groseramente. Esta es la forma de hacer las cosas en el Club Tianyun. Aunque el jefe ha cambiado ahora, sigue siendo tan arrogante.
 
-Pero cuando todos salieron de la caja a menos de diez metros de distancia, vieron un gran grupo de personas frente a ellos. Debe haber alguna contradicción.
+Duan Chenjie se dio cuenta de que este era el Club Tianyun después de escuchar las palabras del capitán de seguridad, y planeaba tratar con Chen Mo hoy, por lo que no quería seguir perdiendo el tiempo con Tao Yiliang, y instintivamente detuvo sus acciones.
 
-“¿Qué está pasando más adelante?”
+Pero Tao Yiliang, confiando en su relación con Tao Yiran, no tenía la intención de detenerse en absoluto, sino que golpeó a Duan Chenjie directamente en la cabeza.
 
-dijo Xue Yuqi con el ceño fruncido.
+Duan Chenjie cayó al suelo con un golpe, luego luchó por ponerse de pie.
 
-“Parece que alguien está causando problemas”
+“¡Pídele disculpas a mi novia ahora mismo, o te lo contaré todo hoy!”
 
-“¿Quién es tan atrevido para causar problemas aquí”
+Tao Yiliang le gritó a Duan Chenjie con mucha arrogancia.
 
-“No, ¿por qué el Sr. Duan está parado allí?”
+El capitán de seguridad también se detuvo frente a Tao Yiliang y luego susurró: “¿No estoy seguro de lo que dije hace un momento? Si hay algún problema entre ustedes dos, pueden salir y resolverlo”. ahora. Si te atreves a mover la mano de nuevo, lo creas o no, te romperé las piernas y te las tiraré?”
 
-Todos pronto descubrieron que Duan Chenjie eran las dos partes que estaban en conflicto.
+Los ojos de Tao Yiliang brillaron con desdén después de escuchar las palabras del capitán de seguridad, y luego miró al capitán de seguridad y le preguntó: “¿Sabes quién soy?”
 
-Frente a Duan Chenjie estaba un joven que parecía tener aproximadamente la misma edad que Chen Mo. En este momento, estaba peleando con Duan Chenjie, con una expresión muy emocionada en su rostro.
+“¡No sé quién eres, pero nadie puede causar problemas aquí!”
 
-“Ve y echa un vistazo”
+El capitán de seguridad susurró.
 
-Xue Yuqi frunció el ceño y gritó, luego se acercó directamente.
+“¡Te digo que tu jefe aquí es mi cuñado y mi hermana es Tao Yiran!”
 
-Todos siguieron detrás de Xue Yuqi.
+Tao Yiliang dijo con los ojos bien abiertos.
 
-Si no fuera por el conflicto de Duan Chenjie con los demás, entonces Xue Yuqi y los demás definitivamente no se unirían a la diversión, pero dado que este asunto tiene algo que ver con Duan Chenjie, todavía tienen que ir a ver.
+Después de escuchar las palabras de Tao Yiliang, el capitán de seguridad mostró sorpresa en sus ojos e inmediatamente preguntó: “¿El Sr. Chen es su cuñado?”
 
-¡Y este es el territorio de Chen Mo, y Chen Mo naturalmente quiere ver quién es tan valiente!
+Tao Yiliang dijo con orgullo.
 
-Chen Mo miró de arriba abajo al joven que estaba peleando con Duan Chenjie, un rastro de duda brilló en sus ojos.
+Los ojos del capitán de seguridad en Tao Yiliang comenzaron a cambiar, porque sabía que si Chen Mo era realmente el cuñado de Tao Yiliang, entonces este asunto podría ser un poco problemático hoy. Después de todo, los familiares del jefe, lo suyo ¡El pequeño capitán de seguridad no se atreve a preocuparse!
 
-Porque Chen Mo sintió que este joven le resultaba familiar, pero no podía recordar quién era este joven.
+Todos los presentes estaban en estado de shock. Después de todo, nunca pensaron que Tao Yiliang tendría tales antecedentes, y entendieron por qué Tao Yiliang tenía tanto valor para crear problemas aquí.
 
-Chen Mo no sabía que este joven se llamaba Tao Yiliang, el primo de Tao Yiran.
+Chen Mo estaba de pie entre la multitud con una expresión muy impotente en su rostro.
 
-Chen Mo y Tao Yiliang se habían conocido antes en la casa de Tao, pero Tao Yiran no le presentó a Tao Yiliang a Chen Mo en ese momento, y los dos eran solo una relación, por lo que Chen Mo sintió que Tao Yiliang era un poco Su rostro le resultaba familiar, pero no podía recordar quién era este joven.
+En primer lugar, Chen Mo no conoce a Tao Yiliang en absoluto, e incluso si lo hace, ¡Tao Yiliang no es su cuñado!
 
-Tao Yiliang estaba muy feliz hoy, porque acaba de confesarle a la diosa que había estado persiguiendo durante mucho tiempo, y la diosa finalmente accedió a Tao Yiliang.
+Por supuesto, Chen Mo también sabe que si Tao Yiliang es realmente el hermano menor de Tao Yiran, entonces Chen Mo realmente tiene que darle una cara a Tao Yiliang hoy. Después de todo, Chen Mo acaba de encontrar la ayuda de Tao Yiran hace unos días. hace, y ahora si toma medidas para limpiar a su hermano Si es así, es realmente irrazonable.
 
-Para celebrar, Tao Yiliang tomó prestada la tarjeta de miembro del Tianyun Club de Tao Yiran y luego llevó a sus amigos ya los mejores amigos de su novia para celebrar.
+“No esperaba que esta persona tuviera algo que ver contigo”
 
-El estatus de Tao Yiliang en la familia Tao es incomparable al de Tao Yiran, pero Tao Yiliang y Tao Yiran tienen una muy buena relación. A los ojos de Tao Yiran, Tao Yiliang es su propio hermano menor.
+Qiao Ying le dijo suavemente a Chen Mo.
 
-Además, siempre ha habido algunos escándalos entre Tao Yiran y Chen Mo, el propietario del Tianyun Club, así que después de que el personal del Tianyun Club supiera que la tarjeta de membresía utilizada por Tao Yiliang era la tarjeta de membresía de Tao Yiran, su actitud hacia Tao Yiliang Naturalmente, fue muy respetuoso, lo que hizo que Tao Yiliang se sintiera muy orgulloso frente a su diosa, e incluso les dijo a otros que el dueño del Tianyun Club era su futuro cuñado.
+“¿Qué tiene que ver conmigo? No conozco a esta persona en absoluto, pero soy amigo de su hermana, y él solo está aquí para mostrar su fuerza debido a mi buena relación con ¡su hermana!”
 
-Pero cuando Tao Yiliang estaba pasando un buen rato con sus amigos, su novia fue atropellada por un hombre, y el hombre no solo no se disculpó, sino que llamó ciega a su novia.
+Chen Mo volvió la cabeza para mirar a Qiao Ying y explicó en un tono muy impotente.
 
-Tao Yiliang no pudo soportarlo más. Cuando subió, le dio una bofetada al hombre en la cara, y luego estaba esta escena.
+Qiao Ying sonrió levemente y no dijo mucho.
 
-De hecho, aunque Tao Yiliang es una rica segunda generación, por lo general es muy discreto y no elegirá causar problemas en lugares como Tianyun Club.
+“Pero este niño tiene mucha suerte. Si tiene un conflicto con otras personas, no lo dejaré ir, pero como tiene un conflicto con Duan Chenjie, entonces puedo hacer la vista gorda. Yo’ He perdido un ojo y me preocupa no tener la oportunidad de limpiar a Duan Chenjie, ¡ahora alguien me ha ayudado!”
 
-Pero ahora es diferente. Piensa que el dueño del Club Tianyun es su futuro cuñado, así que incluso si golpea a alguien en el Club Tianyun y vuelve con su hermana para pedir misericordia, debería No ser nada malo. Un problema demasiado grande.
+Mientras Duan Chenjie miraba la posición de Tao Yiliang en este momento, la expresión de su rostro comenzó a cambiar un poco. Sabía muy bien cuán aterradora era la fuerza del jefe detrás del Club Tianyun. Él era realmente el hermano- cuñado del dueño del Tianyun Club, por lo que podría estar en un gran problema, por lo que Duan Chenjie no supo qué hacer por un tiempo.
 
-Después de todo, el dueño del Club Tianyun no lo trataría mal aunque mirara a su hermana a la cara.
+Duan Chenjie ahora culpa a Chen Mo por todo, porque siente que si no fuera por su encuentro con Chen Mo, muchas cosas no hubieran sucedido.
 
-La persona que acababa de ser golpeada no era otra que Duan Chenjie.
+Fui severamente humillado por Chen Mo en la caja. Después de salir de la caja, incluso ofendí al cuñado del dueño del Tianyun Club. El Duan Chenjie de hoy solo puede describirse como desafortunado.
 
-El estado de ánimo de Chen Jie también era muy malo en este momento. Después de todo, sufrió una pérdida tan grande en las manos de Chen Mo. Después de que salió e hizo una llamada telefónica, siempre estaba pensando en cómo limpiar. Chen Mo, así que presta atención a La fuerza no estaba en el camino y accidentalmente chocó con una mujer.
+Por otro lado, el capitán de seguridad también estaba un poco preocupado por la identidad de Tao Yiliang, por lo que no se atrevió a actuar precipitadamente ahora, por lo que solo podía hacer que alguien informara a Qin Yibing y dejara que Qin Yibing manejara el asunto. asunto en persona.
 
-Si fuera normal, Duan Chenjie definitivamente tomaría la iniciativa de disculparse, después de todo, él también es una figura pública.
+La expresión de Tao Yiliang en su rostro parecía ser aún más arrogante después de ver que el capitán de seguridad no hablaba. Caminó directamente hacia Duan Chenjie y luego le gritó a Duan Chenjie en voz alta: “Te daré un Oportunidad ahora. discúlpate inmediatamente con mi novia, de lo contrario no querrás irte de aquí hoy”
 
-Pero Duan Chenjie estaba de mal humor hoy, ¿entonces te regañó por ser ciego?
+Duan Chenjie naturalmente no está dispuesto. Él se disculpó con Tao Yiliang frente a tanta gente, por lo que apretó los dientes y respondió.
 
-Sin embargo, esta frase enfureció directamente a Tao Yiliang.
+“Claro que jodidamente sé quién eres, ¿no eres actor? ¿Cuál es el problema? Te digo, si no te disculpas hoy, no solo te romperé las piernas, te romperé las piernas”. tengo que encontrar un reportero para escribir el incidente de hoy como noticia y enviarlo, veré cómo puedes permanecer en la industria del entretenimiento en el futuro”
 
-Tao Yiliang abofeteó a Duan Chenjie en la cara cuando Duan Chenjie no reaccionó en absoluto.
+Tao Yiliang gritó en voz alta.
 
-El propio Duan Chenjie sufrió una pérdida a manos de Chen Mo, y lo abofetearon cuando salió. Naturalmente, su estado de ánimo cayó al fondo. Ni siquiera entendía qué le pasaba hoy, por qué fue así de mala suerte.
+Duan Chenjie se quedó estupefacto cuando escuchó las palabras de Tao Yiliang.
 
-Después de que Duan Chenjie fuera abofeteado por Tao Yiliang, naturalmente no lo dejaría pasar, por lo que no podía pensar en nada más, así que peleó directamente con Tao Yiliang.
+Porque recordó en este momento que Tao Yiliang no es alguien de la industria del entretenimiento. Si el incidente es realmente expuesto en ese momento, la vida de Chen Jie puede arruinarse.
 
-Aunque Tao Yiliang es joven, ha aprendido Taekwondo y Sanda. Si trata con gente común, no tiene ningún problema.
+“No engañes demasiado a la gente”
 
-Por parte de Duan Chenjie, debido a que a menudo va al gimnasio a hacer ejercicio, su estado físico es bastante bueno. Es el estado en el que me golpeas y yo te golpeo.
+dijo Duan Chenjie sin expresión.
 
-En lugares como el Club Tianyun, es raro ver a personas peleando directamente, después de todo, no importa quiénes sean, tienen mucho miedo del poder detrás del jefe del Club Tianyun.
+“No digas tonterías conmigo aquí, ¿te disculpas o no?”
 
-Entonces, después de que Duan Chenjie y Tao Yiliang tuvieron una pelea hoy, muchos invitados salieron a ver la diversión.
+Tao Yiliang preguntó en voz alta.
 
-Por supuesto, la mayoría de ellos observan la emoción y nadie se entromete.
+Después de que Duan Chenjie escuchó las palabras de Tao Yiliang, hubo una pizca de vacilación en sus ojos, en este momento, no sabía qué hacer.
 
-Porque sabían en sus corazones que la gente del Club Tianyun estaría aquí pronto y, para entonces, ninguno de ellos tendría buena fruta para comer.
+Sería una pena disculparse.
 
-“Ahora que el Club Tianyun acaba de cambiar a su jefe, estas dos personas están aquí para crear problemas. ¿No es esto cortejar a la muerte?”
-
-“Sí, escuché que el nuevo jefe del Club Tianyun también ¡No es fácil!”
-
-“Se estima que las gallinas estarán muertas para entonces”.
-
-Todos hablaban en voz baja mientras observaban la emoción.
-
-“Alguien está causando problemas en tu lugar, ¿no piensas solucionarlo?”
-
-Qiao Ying volvió la cabeza para mirar a Chen Mo y le preguntó suavemente a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence
+Pero si no te disculpas, las consecuencias podrían ser terribles.

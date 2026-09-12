@@ -65,7 +65,3 @@ Su Hongxiao se quedó atónito por un momento, y de repente se dio cuenta de que
 Su Mi De repente recordando la forma en que Yan She la había rechazado, gritó sin comprender.
 
 “¿Ya tienes novio?” Los ojos de Su Hongxiao brillaron con sorpresa cuando escuchó esto, y la expresión en su rostro era muy increíble. Ni siquiera sabía que Su Mi ya tenía novio. el novio.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

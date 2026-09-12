@@ -117,7 +117,3 @@ Su Mubai miró fijamente la posición de Chen Mo con un par de hermosos ojos. Ah
 En este momento, Chen Mo de repente giró la cabeza y le dijo a Sun Guangmao.
 
 Todos quedaron atónitos cuando escucharon las palabras de Chen Mo, y los ojos de Zhang Ze brillaron un poco confundidos, porque no entendía que si Sun Guangmao era un actor contratado por Chen Mo, entonces Chen Mo lo haría ¿Por qué lo hizo? ¿Sun Guangmao gana dinero en este momento? ¿No está cavando su propia tumba?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

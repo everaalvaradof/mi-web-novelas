@@ -99,7 +99,3 @@ Chen Mo asintió rápidamente sin pensar.
 “Entonces es posible que no puedas entrevistarte hoy”
 
 Dijo Ning Shasha con la boca pequeña.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

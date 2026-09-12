@@ -105,7 +105,3 @@ Tian Haixi miró a Chen Mo y no dijo nada.
 Debido a que la suposición de Chen Mo era correcta, muchas personas no conocían el contacto entre Tianhaixi y Chen Mo, y la propia Tianhaixi confiaba mucho en las habilidades de Sun Chengzhong, por lo que simplemente no trajeron a nadie más aquí.
 
 Si Chen Mo realmente le hace algo a Tianhaixi en este momento, entonces Tianhaixi no tiene capacidad para resistir.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

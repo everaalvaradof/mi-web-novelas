@@ -97,7 +97,3 @@ Chen Mo nunca imaginó que la hermosa directora de una universidad tendría un t
 Mientras piensa en esto, Chen Mo siente un escalofrío en la espalda. Incluso piensa que la razón por la que Yan She se cuidó bien antes es probablemente porque Yan She ya conocía la identidad de Chen Mo, así que ella deliberadamente Solo ayúdate a ti mismo.
 
 Estas acciones de Yan She hicieron que Chen Mo se sintiera un poco hostil. Sintió que Yan She era una mujer muy aterradora, más aterradora que todas las mujeres que conocía.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

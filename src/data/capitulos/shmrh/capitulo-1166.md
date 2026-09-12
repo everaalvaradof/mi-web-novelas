@@ -105,7 +105,3 @@ Porque este hombre de mediana edad no es otro que el tercer tío de Tao Yiran y 
 ¡El tercer tío de Tao Yiran apareció obviamente para ayudar a Huang Zhiming y otros a lidiar con Chen Mo!
 
 Tao Yiran es muy consciente del carácter de su tercer tío. Si su tercer tío está involucrado en este asunto, el final de Chen Mo definitivamente será muy miserable.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

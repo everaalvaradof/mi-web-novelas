@@ -109,7 +109,3 @@ Y el dinero también contiene la mitad de Chen Mo. Una vez que Chen Mo realmente
 Así que Chen Mo sintió que tenía que deshacerse del dinero, ya fuera para él o para Luo Qiu.
 
 ¡Y la forma más rápida de lidiar con el dinero es perderlo!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

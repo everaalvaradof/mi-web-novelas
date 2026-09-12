@@ -91,7 +91,3 @@ Guo Biao sintió que Chen Mo no era muy viejo, por lo que no debería poder inve
 Chen Mo respondió a Guo Biao.
 
 Guo Biao miró a Chen Mo y parpadeó, luego sacó misteriosamente una caja de brocado de su ropa y le dijo suavemente a Chen Mo: “Hermano menor, tengo uno de setecientos años. aquí. La angélica, creo que tú también necesitas angélica, o puedes mostrarme tu elixir, si creo que está bien, lo intercambiaré contigo, ¿qué te parece?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

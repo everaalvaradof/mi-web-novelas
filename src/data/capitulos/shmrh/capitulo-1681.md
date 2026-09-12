@@ -147,7 +147,3 @@ Liu Xue gritó enojado.
 “Esta belleza, no importa si no has oído hablar de nuestras propiedades de SkyOcean. Eso es porque eres ignorante, pero ¿no es irrazonable que regañes a la gente? Simplemente regañas a la gente después de haciendo una oferta. ¿Podría ser esta tu familia Liu? ¿Cómo haces las cosas?”
 
 Chen Mo se sentó en el lugar y le preguntó a Liu Xue con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

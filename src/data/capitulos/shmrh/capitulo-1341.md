@@ -8,11 +8,7 @@ novelaId: "shmrh"
 
 dijo Chen Mo a la ligera.
 
-“
-
 Qiao Ying miró a Chen Mo y sonrió, pero no habló.
-
-“Tap Ta Ta”
 
 Pero en este momento, sonó un paso muy rápido.
 
@@ -52,8 +48,6 @@ Tao Yiliang dijo con los ojos bien abiertos.
 
 Después de escuchar las palabras de Tao Yiliang, el capitán de seguridad mostró sorpresa en sus ojos e inmediatamente preguntó: “¿El Sr. Chen es su cuñado?”
 
-“Por supuesto”.
-
 Tao Yiliang dijo con orgullo.
 
 Los ojos del capitán de seguridad en Tao Yiliang comenzaron a cambiar, porque sabía que si Chen Mo era realmente el cuñado de Tao Yiliang, entonces este asunto podría ser un poco problemático hoy. Después de todo, los familiares del jefe, lo suyo ¡El pequeño capitán de seguridad no se atreve a preocuparse!
@@ -74,13 +68,9 @@ Qiao Ying le dijo suavemente a Chen Mo.
 
 Chen Mo volvió la cabeza para mirar a Qiao Ying y explicó en un tono muy impotente.
 
-“¡Así es como es!”
-
 Qiao Ying sonrió levemente y no dijo mucho.
 
 “Pero este niño tiene mucha suerte. Si tiene un conflicto con otras personas, no lo dejaré ir, pero como tiene un conflicto con Duan Chenjie, entonces puedo hacer la vista gorda. Yo’ He perdido un ojo y me preocupa no tener la oportunidad de limpiar a Duan Chenjie, ¡ahora alguien me ha ayudado!”
-
-Continuó Chen Mo.
 
 Mientras Duan Chenjie miraba la posición de Tao Yiliang en este momento, la expresión de su rostro comenzó a cambiar un poco. Sabía muy bien cuán aterradora era la fuerza del jefe detrás del Club Tianyun. Él era realmente el hermano- cuñado del dueño del Tianyun Club, por lo que podría estar en un gran problema, por lo que Duan Chenjie no supo qué hacer por un tiempo.
 
@@ -91,8 +81,6 @@ Fui severamente humillado por Chen Mo en la caja. Después de salir de la caja, 
 Por otro lado, el capitán de seguridad también estaba un poco preocupado por la identidad de Tao Yiliang, por lo que no se atrevió a actuar precipitadamente ahora, por lo que solo podía hacer que alguien informara a Qin Yibing y dejara que Qin Yibing manejara el asunto. asunto en persona.
 
 La expresión de Tao Yiliang en su rostro parecía ser aún más arrogante después de ver que el capitán de seguridad no hablaba. Caminó directamente hacia Duan Chenjie y luego le gritó a Duan Chenjie en voz alta: “Te daré un Oportunidad ahora. discúlpate inmediatamente con mi novia, de lo contrario no querrás irte de aquí hoy”
-
-“¿Sabes quién soy?”
 
 Duan Chenjie naturalmente no está dispuesto. Él se disculpó con Tao Yiliang frente a tanta gente, por lo que apretó los dientes y respondió.
 
@@ -117,9 +105,3 @@ Después de que Duan Chenjie escuchó las palabras de Tao Yiliang, hubo una pizc
 Sería una pena disculparse.
 
 Pero si no te disculpas, las consecuencias podrían ser terribles.
-
-leer I AM THE RICHEST HEIR OF MANKIND en Español Capitulo 1341
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

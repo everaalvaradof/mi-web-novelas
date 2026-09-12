@@ -109,7 +109,3 @@ Shi Xinxin sonrió a Chen Mo y dijo.
 “¿Qué tiene de malo vivir en una casa de alquiler?”
 
 Chen Mo respondió a Shi Xinxin en un tono inusualmente tranquilo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

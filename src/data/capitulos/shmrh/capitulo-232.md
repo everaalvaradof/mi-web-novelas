@@ -117,7 +117,3 @@ No importa si Su Chengkai cayó, lo más importante es que cuando Su Chengkai ca
 El jarrón cayó al suelo y se abrió de golpe al instante.
 
 Después de escuchar la voz, todas las personas en el salón quedaron estupefactas y se volvieron para mirar la posición de Su Chengkai.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

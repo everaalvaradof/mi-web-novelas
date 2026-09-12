@@ -105,7 +105,3 @@ Entonces es probable que estos dos asesinos sean encontrados por los mercaderes 
 Justo cuando Chen Mo estaba pensando en estas preguntas, su teléfono celular volvió a sonar.
 
 Chen Mo quedó atónito por un momento, luego sacó su teléfono móvil y lo miró, y descubrió que resultó ser un número desconocido.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

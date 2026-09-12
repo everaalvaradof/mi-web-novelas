@@ -225,7 +225,3 @@ dijo Chen Mo con una sonrisa.
 “¿Puedes contarme sobre tu pasado?”
 
 Zhang Ziqing de repente le preguntó a Chen Mo con curiosidad.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

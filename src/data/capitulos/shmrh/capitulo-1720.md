@@ -203,7 +203,3 @@ Pasaron los minutos, pero Chen Mo no aparecía.
 La expresión en el rostro de Zhang Ziqing también se volvió ansiosa. Sacó su teléfono móvil para llamar a Chen Mo, pero pensó que su teléfono móvil había sido monitoreado. Todo está expuesto.
 
 Por lo tanto, Zhang Ziqing no tuvo más remedio que seguir esperando.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

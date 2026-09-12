@@ -117,7 +117,3 @@ Este proyecto es la última oportunidad de Hua Xiaowu para mantener su puesto.
 En cuanto a por qué Hua Xiaowu otorga tanta importancia a esta posición, los beneficios y derechos que esta posición le otorga deben ser los más importantes. Por supuesto, Hua Xiaowu también tiene otras razones desconocidas.
 
 Por supuesto, Hua Xiaowu también tiene otras razones desconocidas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

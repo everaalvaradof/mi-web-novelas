@@ -147,7 +147,3 @@ Pero Zhao Jinyu ni siquiera miró a Jiang Qiwei y fue directamente al lado de Ch
 “Se acabó, Zhao Jinyu es en realidad del lado de Chen Mo, entonces ¿Zhao Xicheng tiene que venir después de un tiempo? Si Zhao Xicheng viene hoy, realmente podemos perder”.
 
 Huang Zhiming dijo en un tono muy nervioso.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

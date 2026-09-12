@@ -139,7 +139,3 @@ Innumerables jugadores se reúnen en este lugar, algunas personas pueden hacerse
 Chen Mo se sorprendió directamente por la animada escena en el casino. Aunque Chen Mo no fue la primera visita de Capítulo al casino, un casino tan animado aún fue muy impactante.
 
 Por supuesto, Chen Mo sabía que este lugar también era la tumba de innumerables personas. Una vez que entrara en este lugar, caería al abismo y sería difícil salir.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

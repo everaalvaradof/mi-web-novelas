@@ -117,7 +117,3 @@ Wang Tianshi finalmente se dio cuenta de que estaba miedo en este momento, grit�
 ¡Wang Bo respiró hondo y apretó el gatillo de la pistola directamente!
 
 Por un momento, todos en el salón se congelaron en su lugar, con expresiones inusualmente temerosas en sus rostros.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -185,7 +185,3 @@ Unos segundos después, Chen Mo caminó frente a los dos.
 “¿Le ordenaste a esta gente que me atacara ahora?”
 
 Chen Mo le preguntó a Hu Kang sin comprender.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -197,7 +197,3 @@ Zhang Ziqing asintió muy feliz.
 “Y hoy serás mi escolta por una noche. Mientras puedas completar la tarea y hacer que me divierta, aceptaré tus términos. ¿Qué piensas?”
 
 Chen Mo dijo con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

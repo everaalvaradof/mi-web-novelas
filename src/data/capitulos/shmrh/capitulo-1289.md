@@ -93,7 +93,3 @@ Los ojos de Fan Yuanze parecían aún más indefensos después de escuchar esto,
 “Abuelo, lo que hicimos hoy es ciertamente un poco inapropiado, pero no olvides, pase lo que pase, Mu Bai es la familia Fan, y su salud. La sangre que fluye en ella también es la sangre de nuestra familia Fan, la sangre es más espesa que el agua, creo que mientras mostremos nuestra sinceridad, Mu Bai no seguirá aferrándose a este asunto”
 
 Dijo Fan Qingqing en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -107,7 +107,3 @@ En un instante, Fang Beihang arrojó paquetes de dinero en efectivo sobre la mes
 Todos estaban estupefactos, mirando fijamente la posición de Fang Beihang, con sorpresa en sus ojos además de sorpresa.
 
 Las comisuras de los labios de Ren Bo se torcieron, como si hubiera visto un fantasma. Por un momento, no supo cómo describir su estado de ánimo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

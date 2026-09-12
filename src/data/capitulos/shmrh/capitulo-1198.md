@@ -113,7 +113,3 @@ Qin Yibing comenzó a elegir la ropa con cuidado. Después de todo, la ocasión 
 Qin Yibing parece ser más hermosa que en la foto y su cuerpo es más sexy.
 
 Pero lo que Chen Mo no podía entender era que Qin Yibing debería estar entreteniendo a los invitados ahora ¿Por qué de repente regresó a la oficina y eligió la ropa?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

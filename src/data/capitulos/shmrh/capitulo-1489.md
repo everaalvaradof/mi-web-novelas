@@ -113,7 +113,3 @@ Y Zuo Qingna también se puso en contacto con una plataforma internacional de tr
 Esta serie de operaciones llevó directamente el calor de esta batalla decisiva a su punto máximo.
 
 ¡Parece que no hay dos guerreros que hayan sufrido tanto en mucho tiempo!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -175,7 +175,3 @@ Jiang Xi se quedó atónito por un momento y le preguntó sorprendido a Chen Mo.
 “Sí, no es demasiado tarde, mi maestro ha desaparecido durante tanto tiempo, me voy hoy”
 
 Chen Mo asintió y dijo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

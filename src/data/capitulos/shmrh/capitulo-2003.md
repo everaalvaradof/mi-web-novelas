@@ -291,7 +291,3 @@ En un instante, el cuerpo de Chen Mo fue envuelto directamente en un rayo de luz
 Pero en este momento, Chen Mo todavía cerró los ojos con fuerza, la respiración en su cuerpo corría rápido y el cuerpo de Chen Mo comenzó a ponerse rojo gradualmente.
 
 Hubo un fuerte ruido repentino desde arriba del cielo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

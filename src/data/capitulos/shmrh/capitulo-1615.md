@@ -133,7 +133,3 @@ En este momento, había unas treinta personas en total, y todos llegaron en auto
 Después de salir de la casa club, Chen Mo descubrió que había muchos autos de lujo estacionados en el estacionamiento de la casa club. Cualquiera que sacara podría valer decenas de millones, y los números de matrícula eran bastante sorprendentes. tipo.
 
 Lo que Chen Mo condujo hoy era solo un automóvil Audi preparado para él por la familia Yan, por lo que fue un poco incómodo para el automóvil de Chen Mo colocarse entre los automóviles de estas personas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

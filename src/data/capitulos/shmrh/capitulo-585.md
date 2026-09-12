@@ -87,7 +87,3 @@ Li Baiqiang suspiró con impotencia cuando escuchó esto y dijo en voz baja: “
 “¡No te preocupes, el abuelo definitivamente no te mentirá!”
 
 Li Baiqiang respondió muy serio.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

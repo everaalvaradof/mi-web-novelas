@@ -115,7 +115,3 @@ Chen Mo dudó durante dos segundos cuando escuchó esta oración, y luego susurr
 “¡Está bien, Maestro Chen!”
 
 Gritó Li Juncheng con entusiasmo cuando vio que Chen Mo estaba de acuerdo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -239,7 +239,3 @@ Las armas en sus manos son innumerables, y también tienen una gran ventaja en n
 Además, estas personas ya han establecido una red de IQ en la isla Bingya. Si Chen Mo realmente va a la isla Bingya, será un callejón sin salida.
 
 Después de que todos se calmaron, comenzaron a tomar los walkie-talkies y continuaron al mando de la batalla.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

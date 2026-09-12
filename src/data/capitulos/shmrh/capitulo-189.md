@@ -127,7 +127,3 @@ Luo Qiu lleva un vestido de tirantes negro. La tela de la falda es una tela muy 
 Chen Mo respiró hondo y no pudo evitar suspirar en su corazón: “¿Qué diablos está haciendo Luo Qiu? ¿Realmente me está seduciendo?”
 
 Chen Mo no pudo entiendo, si Luo Qiu no estaba tratando de seducir a Chen Mo en este momento, ¿por qué se cambió a ropa tan sexy en su propia casa en medio de la noche?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

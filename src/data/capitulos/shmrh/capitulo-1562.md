@@ -129,7 +129,3 @@ Aunque bebió un poco de vino, su influencia en Chen Mo fue en realidad muy pequ
 Pero cuando Chen Mo estaba a punto de caminar hacia la puerta, de repente escuchó a Qin Yibing en el dormitorio gritando: “No te vayas, quédate conmigo”
 
 Chen Mo escuchó a Qin Yibing Yi Bing no pudo evitar congelarse por un momento después de esas palabras.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

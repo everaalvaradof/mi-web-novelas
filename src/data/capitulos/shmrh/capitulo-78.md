@@ -121,7 +121,3 @@ Debido a que había un gran grupo de personas frente al centro comercial en este
 ¡Y esta chica no es otra que Wen Ruoxi!
 
 El que estaba arrodillado frente a Wen Ruoxi era Zhang Feng, quien robó la cuenta de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

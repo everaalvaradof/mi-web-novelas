@@ -115,7 +115,3 @@ En un instante, la silla frente a Chen Mo se convirtió directamente en polvo.
 Desde este punto, puedes ver cuán asombroso es el poder del movimiento de Shi Wulong.
 
 Después de ver a Chen Mo esquivando su movimiento, los ojos de Shi Wulong brillaron con sorpresa y la expresión de su rostro fue increíble.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -105,7 +105,3 @@ Y en En este momento, Yang Manqi de repente gritó yin y yang de forma extraña.
 Estas personas presentes no eran tontas, naturalmente sabían en sus corazones lo que dijo Yang Manqi, por lo que giraron la cabeza para mirar la posición de Chen Mo.
 
 Chen Mo permaneció en silencio, aceptando las miradas burlonas de todos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

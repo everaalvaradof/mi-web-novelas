@@ -127,7 +127,3 @@ An Xiaowu Mian Said sin expresión.
 “Ninguno de ellos es local, solo vinieron aquí para viajar. ¿Cómo podrían manejar a alguien como Zhang Yan?”
 
 Zhang Wei dijo impotente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

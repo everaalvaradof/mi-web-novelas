@@ -133,7 +133,3 @@ Su Mubai esquivó inconscientemente, y luego le dijo suavemente a Chen Mo: “Ll
 Chen Mo asintió de nuevo.
 
 En ese momento, Chen Mo sintió que dado que Su Mubai podía elegir ir a la ciudad de Nanyang con él, significaba que Su Mubai también comenzaba a dudar de su identidad.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

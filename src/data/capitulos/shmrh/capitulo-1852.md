@@ -185,7 +185,3 @@ Antes de que Chen Mo y Yan She ingresaran al valle, también fueron atacados por
 Después de todo, solo existe un trozo de grasa así, y debe ser una persona fuerte que esté calificada para comerla.
 
 Y los tres son bastante poderosos entre los muchos discípulos en el valle. Además, los tres también son aprendices de los maestros de la secta rama, por lo que los discípulos comunes realmente no se atreven a provocarlos fácilmente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

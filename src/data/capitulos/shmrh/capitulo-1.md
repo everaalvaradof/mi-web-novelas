@@ -157,7 +157,3 @@ Chen Mo se sentó rápidamente y miró su teléfono móvil en estado de shock.
 Chen Mo miró el mensaje de texto en su teléfono y dijo con un tono muy desconcertado.
 
 Antes de que Chen Mo pudiera entender de qué se trataba el texto, llamaron repentinamente a la puerta.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

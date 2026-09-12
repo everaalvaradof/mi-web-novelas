@@ -105,7 +105,3 @@ Respondió la chica con frialdad, abrazándola por los hombros.
 Después de que Mingmei escuchó esto, quiso levantar su pequeña mano y abofetear a la niña en la cara.
 
 Todo el restaurante Yishengyuan cayó en un momento de silencio. Todos miraron a Mingmei. Nadie pensó que Mingmei sería tan dominante, solo porque la chica golpeó directamente a la otra parte. ¡Bofetada!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

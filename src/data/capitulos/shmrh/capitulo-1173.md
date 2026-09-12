@@ -123,7 +123,3 @@ Si realmente puede estar con Chen Mo, entonces todos los problemas de Tao Yiran 
 En este momento, Tao Yiran obviamente no sabe qué hacer.
 
 Tao Fengyuan no dijo nada más y decidió levantarse e irse.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

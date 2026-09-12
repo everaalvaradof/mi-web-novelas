@@ -129,7 +129,3 @@ Tao Yiran vaciló por un momento antes de entrar al auto.
 “¡Los mataré, bastardos!”
 
 Pero en este momento, Huang Zhiming, que ya estaba loco, gritó de repente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

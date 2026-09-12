@@ -145,7 +145,3 @@ Después de escuchar las palabras de Chen Mo, el tercer anciano también estaba 
 Chen Mo respondió con indiferencia, y luego continuó: “Hoy en día, hay cada vez menos alquimistas, y las píldoras medicinales no tienen precio sin importar dónde se encuentren, según la Secta Tianshan. En términos de la influencia de los hombres en el mundo de las artes marciales y la influencia del Grupo Tianyang en la capital mágica, nadie debería atreverse a competir con usted. Este mercado está básicamente monopolizado por usted. Cuando llegue el momento, puede discutir el precio de la píldora medicinal. no seas demasiado alto, en este caso, muchas personas no podrán pagarlo, ¡pero afectará tus intereses!”
 
 Liu Xuanxuan también es muy interesado en el negocio que dijo Chen Mo. porque sabía que este negocio definitivamente podría generar dinero, y las ganancias eran aterradoras.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

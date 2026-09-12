@@ -111,7 +111,3 @@ Por otro lado, Chen Mo sacó directamente su teléfono móvil y llamó a He Cai 
 He Caigang estaba a punto de explicar cuando Chen Mo de repente escuchó el sonido nítido de tacones altos golpeando el suelo. Miró hacia atrás inconscientemente y descubrió que Su Mubai en realidad caminó detrás de él.
 
 Un destello de desesperación brilló en el corazón de Chen Mo, porque acaba de hablar en voz alta. Si Su Mubai hubiera estado detrás de él, definitivamente podría escucharlo ¿Qué acaba de decir?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -123,7 +123,3 @@ Así que ahora todos han aceptado el hecho de que Chen Mo es Chen Gongzi de la c
 Y esos guardaespaldas también parecen conocer la identidad de Chen Mo, por lo que la expresión de sus rostros es muy nerviosa, y en secreto me alegro de no haberlo hecho ahora, o si lo saben, serán vencido por Chen Mo. Una comida sigue siendo un asunto trivial, pero si ofendes a un hombre grande como Chen Mo, me temo que ese es el verdadero problema.
 
 Aunque los antecedentes de Li Haoran son aterradores, Chen Mo no es necesariamente más débil que Li Haoran. Obviamente, esta es una lucha entre la gente de clase alta. Si una persona pequeña como él está involucrada, solo puede desempeñar el papel. de carne de cañón, por lo que los guardaespaldas ya tienen sus propias ideas, y no se atreven a seguir sin hacer nada con Chen.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

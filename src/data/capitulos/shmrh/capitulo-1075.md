@@ -117,7 +117,3 @@ Su Mubai asintió y luego llevó a Chen Mo a la caja.
 Después de entrar en la caja, Chen Mo descubrió que Jiang Qiwei y otros ya habían llegado y estaban charlando.
 
 Jiang Qiwei miró a Chen Mo a la ligera, pero no habló.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

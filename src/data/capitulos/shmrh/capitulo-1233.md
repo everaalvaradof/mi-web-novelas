@@ -127,7 +127,3 @@ Fan Meihua giró la cabeza y la regañó con frialdad.
 “Su Mubai es mi prometida, ¡no permitiré que mi prometida se case con otra persona!”
 
 Chen Mo respondió a la ligera, luego se acercó a Su Mu junto a Bai, dijo en voz baja: “Mu Bai, no te preocupes, me encargaré de estas cosas por ti”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

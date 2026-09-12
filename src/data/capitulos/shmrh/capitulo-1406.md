@@ -151,7 +151,3 @@ Gritó Zhang Ping a todo pulmón.
 “¡Te he calumniado, lo sabes en tu corazón!”
 
 En este momento, la expresión en el rostro de Chen Mo todavía era muy tranquila.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

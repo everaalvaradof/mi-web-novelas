@@ -199,7 +199,3 @@ Chen Mo dijo en voz baja.
 El director Zhang sonrió mientras enseñaba los dientes.
 
 Chen Mo miró al director Zhang a la ligera y no dijo mucho, simplemente salió de la oficina de la ciudad.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

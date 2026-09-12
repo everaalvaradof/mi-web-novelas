@@ -115,7 +115,3 @@ Chen Mo comenzó a correr por el patio, tratando de evitar la espada voladora, p
 Y la velocidad de Chen Mo es mucho menor que la velocidad de Feijian. En solo unos segundos, el cuerpo de Chen Mo ha sido cortado varias veces por Feijian.
 
 La sangre manchó la ropa de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

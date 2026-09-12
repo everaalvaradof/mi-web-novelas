@@ -107,7 +107,3 @@ Su Mubai Aturdido por un momento, él preguntó rápidamente.
 “¿Qué tiene que ver contigo la herencia de Chen Mo? ¿Por qué Chen Mo tiene que estar contigo cuando hereda su herencia? ¿No crees que esto es un poco extraño?”, dijo suavemente Tang Qingqing.
 
 Y cuando Su Mubai escuchó esto, una pizca de duda brilló en sus ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

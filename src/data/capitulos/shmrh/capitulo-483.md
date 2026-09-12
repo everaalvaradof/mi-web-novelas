@@ -101,7 +101,3 @@ Aunque la lealtad es muy importante, también son conscientes de la razón por l
 Du Yunfei giró la cabeza y miró al guardaespaldas que estaba a su lado. El guardaespaldas entendió de inmediato lo que Du Yunfei quería decir y caminó directamente hacia el lugar de Jiang Feifei, Yang Manqi y Bai Zhibing.
 
 En este momento, todos estaban estupefactos, parados allí aturdidos, con expresiones de miedo en sus rostros.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

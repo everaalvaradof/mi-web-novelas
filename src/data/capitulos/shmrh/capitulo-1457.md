@@ -141,7 +141,3 @@ Chen Mo giró la cabeza y miró a Tian Haixi, luego dijo a la ligera: “¿Conoc
 Chen Mo respondió a la ligera mientras comía, con una expresión muy tranquila en su rostro.
 
 “Joven maestro Chen, las cuatro personas detrás de Qi Wei son los guardaespaldas de nuestra familia Qi, y todos son guerreros, ¡debes tener cuidado!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

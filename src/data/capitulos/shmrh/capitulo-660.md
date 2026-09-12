@@ -117,7 +117,3 @@ Gritó Wang Bo apresuradamente.
 Y los otros peces gordos siguieron su ejemplo.
 
 Li Juncheng no tuvo más remedio que asentir con la cabeza en acuerdo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

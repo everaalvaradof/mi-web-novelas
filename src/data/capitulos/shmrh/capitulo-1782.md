@@ -189,7 +189,3 @@ En realidad, Chen Mo no tenía la intención de matar a Li Dong y otros, pero de
 “¿Qué están haciendo todavía? ¡Apúrense y maten a esta persona por mí!”
 
 Li Jiao gritó emocionado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

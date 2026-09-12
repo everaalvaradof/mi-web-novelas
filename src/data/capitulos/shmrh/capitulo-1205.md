@@ -123,7 +123,3 @@ Wei Chen, Su Bai y los demás miraron la posición de Chen Mo con desdén en sus
 Debido a que los dos sintieron que Chen Mo debería ser el títere de Li Juncheng, el miedo a Chen Mo en sus corazones era naturalmente mucho menor.
 
 Zhao Ziqian, que no está muy lejos, parece indefenso. Es posible que otros no sepan quién es Chen Mo, pero Zhao Ziqian es muy claro en su corazón. La reverencia de Li Juncheng por Chen Mo es definitivamente de su corazón. Así que sabía que Chen Mo solo estaba bromeando deliberadamente con Jiang Qiwei, Su Bai y otros.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

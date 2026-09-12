@@ -103,7 +103,3 @@ Nadie pensó que la regla de Chu Lan era que quien pagara menos podría obtener 
 “Señorita Chu, ¿está mal que haga esto? Chen Mo debe haber sabido de antemano quién ganará la oferta con la menor cantidad de dinero, por lo que anotará el número de 100,000, usted es un sospechoso”. !”
 
 Un hombre de mediana edad gritó emocionado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

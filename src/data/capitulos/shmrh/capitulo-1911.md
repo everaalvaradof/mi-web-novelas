@@ -181,7 +181,3 @@ Zhang Wanghai dudó durante dos segundos cuando escuchó las palabras de Chen Mo
 Chen Mo asintió y luego continuó: “Por supuesto, Zhang Fansheng y yo tenemos algunos rencores personales, así que mataré hoy de todos modos. Lo tengo!”
 
 Zhang Wanghai giró la cabeza y miró a Zhang Fansheng, sabía que ya no estaba calificado para negociar con Chen Mo, siempre que pudiera salvar a la mayoría de los gente, él estaría satisfecho.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

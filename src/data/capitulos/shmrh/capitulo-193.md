@@ -145,7 +145,3 @@ Pero después de regañarlos, ¡de repente descubrieron que la barra de progreso
 “¿No debería ser todo rosa?”
 
 Los amigos del agua comenzaron a plantear signos de interrogación en la sala de transmisión en vivo, y la propia Wen Ruoxi estaba desconcertada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

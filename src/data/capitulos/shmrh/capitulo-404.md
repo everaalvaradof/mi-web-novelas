@@ -107,7 +107,3 @@ Wang Yaoyao se sorprendió cuando escuchó las palabras de Chen Mo, y luego dijo
 Chen Mo asintió levemente.
 
 Wang Yaoyao dudó un momento, luego extendió la mano para abrir la puerta del pasajero y se metió en el auto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

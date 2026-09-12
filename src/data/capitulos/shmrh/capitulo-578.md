@@ -83,7 +83,3 @@ Chen Mo giró la cabeza y miró a Li Zixi, con una expresión muy impotente en s
 Li Beijiang miró a Li Zixi y suspiró con impotencia, y luego dijo a la ligera: “Olvídalo, ya no puedo controlar tus asuntos y no quiero seguir preocupándome más. Si tu abuelo puede estoy de acuerdo, no dejaré que te cases con Zhao Ziyi, cásate con quien quieras, ¡no me involucraré en tus asuntos!”
 
 Después de escuchar esto, Li Zixi miró directamente a la posición de Li Baiqiang, como si estuviera preparando para pedirle a Li Baiqiang que lo dejara ir.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

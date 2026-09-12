@@ -147,7 +147,3 @@ Después de regresar a la empresa, Liu Xuanxuan y Capítulo convocaron una reuni
 Y a Chen Mo no le importaba mucho la reunión, así que planeó llevar a Meng Liang ya los demás a comer algo bueno para celebrar que ganó la tierra.
 
 Pero Meng Liang y los demás pueden quedarse para la reunión, por lo que Chen Mo solo puede jugar con su teléfono móvil en la oficina.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -99,7 +99,3 @@ Pero Chen Mo agitó su mano directamente para rechazar a Du Yunfei, y luego dijo
 Después de Du Yunfei escuchó las palabras de Chen Mo, asintió rápidamente.
 
 ¡Y Chen Mo salió de la caja con una expresión tranquila, como si las cosas que sucedieron hoy no fueran más que cosas triviales en sus ojos!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -185,7 +185,3 @@ Porque según la información que tiene ahora, Chen Mo es solo un experto en art
 “¿Quién diablos es este Chen Mo?”
 
 Zhao Chenlang no pudo evitar suspirar en su corazón.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

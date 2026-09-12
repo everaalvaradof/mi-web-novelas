@@ -117,7 +117,3 @@ Gu Yuanhong no esperaba que Chen Mo todavía estuviera de humor para preocuparse
 Chen Mo le dijo a Gu Yuanhong en un tono muy serio.
 
 Después de escuchar las palabras de Chen Mo, Gu Yuanhong quedó atónito nuevamente, y la expresión de su rostro parecía aún más perpleja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

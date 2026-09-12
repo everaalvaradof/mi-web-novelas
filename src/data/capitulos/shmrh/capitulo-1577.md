@@ -121,7 +121,3 @@ La mujer de mediana edad dijo con una sonrisa.
 “El protagonista de hoy no es Xiao Xiao, pero escuché que Xiao Xiao acaba de ganar un campeonato de tiro hace unos días. ¡Aún no lo hemos celebrado, así que podemos aprovechar esta oportunidad para celebrarlo!”
 
 Dijo Sun Pingping a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

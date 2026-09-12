@@ -161,7 +161,3 @@ dijo Chen Mo después de pensar por un momento.
 Liu Xuanxuan se levantó y se fue después de decir esto.
 
 Y Chen Mo levantó su teléfono móvil y continuó jugando el pequeño juego en el teléfono móvil.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

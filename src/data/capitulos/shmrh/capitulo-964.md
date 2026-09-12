@@ -117,7 +117,3 @@ Ling Shi miró a Chen Mo e hizo un ligero puchero, como si estuviera un poco eno
 “No tengo ninguna impresión de mí”
 
 Chen Mo extendió la mano y se rascó la cabeza, dijo con impotencia.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

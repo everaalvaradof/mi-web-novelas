@@ -105,7 +105,3 @@ Es solo que Chen Mo también tenía miedo. Si realmente le hizo algo a Yan She, 
 De lo contrario, según el temperamento de Yan She, definitivamente se despertaría a esta hora para detenerse.
 
 Después de saber que Yan She estaba completamente inconsciente, Chen Mo volvió a abotonarse el cheongsam y luego llamó a Zhao Lei desde fuera de la habitación. Entonces Chen Mo planeó contactar a Lei Zhenyuan.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

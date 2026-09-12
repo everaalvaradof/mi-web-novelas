@@ -97,7 +97,3 @@ Chen Mo respondió a la ligera.
 “Te cuento como un niño”
 
 Zhao Ziyi respondió fríamente a Chen Mo, luego se volvió hacia Li Baiqiang y dijo: “Sr. Li, ahora solo le doy dos opciones, Capítulo es el indicado. Es dejar que estas dos personas se separen de inmediato. Puedo garantizar que nadie en la ciudad de Suhe se atreverá a ofender a tu familia Li a partir de hoy, y las dos opciones de Capítulo son dejar que Li Zixi continúe con este niño. pero lo que sucederá en el futuro, es posible que no pueda garantizarlo”.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -56,17 +56,11 @@ Cuando todos vieron venir a Zhou Yangcheng, todos se concentraron en Chen Mo.
 
 Debido a que todos sabían muy bien que Zhou An y Chen Mo habían tenido un pequeño conflicto antes, querían ver cómo Zhou An y Zhou Yangcheng y su hijo planeaban lidiar con este conflicto.
 
-“¡Maestro Chen!”
-
 Zhou Yangcheng caminó hacia el lado de Chen Mo y gritó respetuosamente.
-
-“
 
 Chen Mo levantó la cabeza y miró a Zhou Yangcheng. De hecho, Chen Mo también sabía que Zhou Yangcheng estaba bajo su mando, pero debido a que Su Mubai y otros estaban presentes en esta vez, Chen Mo no pudo expresarse. Solo puedo pretender que no conozco a Zhou Yangcheng y preguntar suavemente: “¿Nos conocemos los dos?”
 
 “Joven maestro Chen, realmente eres una persona tan noble que has olvidado cosas. Nos conocimos cuando estábamos en Bitianya. ¡Fue presentado por el presidente Li!”, Dijo Zhou Yangcheng con una sonrisa.
-
-“¡Así que es así!”
 
 Chen Mo asintió levemente y luego continuó preguntando: “¿Qué te pasa?”
 
@@ -92,8 +86,6 @@ Chen Mo le dio a Zhou An una mirada ligera y dijo con calma: “Esta vez no me m
 
 “Está bien, gracias Chen Gongzi, ¡gracias Chen Gongzi!”
 
-asintió y respondió.
-
 Todos suspiraron cuando vieron esta escena. ¿Quién hubiera imaginado que Zhou An, que estaba acostumbrado a ser arrogante y dominante en el pueblo de Sujia, pasaría un momento así?
 
 Después de ver a Zhou An disculparse con Chen Mo, la expresión en el rostro de Su Ling parecía aún más fea, porque conocía muy bien a Zhou An, realmente no podía entender qué antecedentes tenía Chen Mo y por qué tener tal una gran influencia!
@@ -102,8 +94,6 @@ Después de ver a Zhou An disculparse con Chen Mo, la expresión en el rostro de
 
 Zhou Yangcheng le dijo a Chen Mo con una sonrisa.
 
-“¡Está bien!”
-
 Chen Mo asintió levemente, y ahora quiere que Zhou An y Zhou Yangcheng se vayan lo antes posible.
 
 “Por cierto, recuerdo a alguien más que debería disculparse con Chen Mo, ¿verdad?”
@@ -111,9 +101,3 @@ Chen Mo asintió levemente, y ahora quiere que Zhou An y Zhou Yangcheng se vayan
 Justo cuando Zhou Yangcheng se dio la vuelta para irse, Su Muyu hizo un puchero y gritó.
 
 Cuando todos escucharon esto, todos giraron la cabeza para mirar la posición de Su Muyu, con un rastro de perplejidad en sus ojos.
-
-leer I AM THE RICHEST HEIR OF MANKIND en Español Capitulo 295
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

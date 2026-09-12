@@ -93,7 +93,3 @@ Bai Zhi Bing hizo una pausa por un momento, luego continuó: “¿Vas a ir a la 
 Antes Chen Mo pudo responder esta oración, Jiang Weiwei se acercó a ellos y dijo con una cara fría y bonita.
 
 Después de escuchar las palabras de Jiang Weiwei, Chen Mo no pudo evitar mirar a la arrogante chica frente a él, una mirada extraña brilló en sus ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

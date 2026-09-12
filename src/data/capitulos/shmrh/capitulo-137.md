@@ -169,7 +169,3 @@ Su Mubai miró fijamente a Su Chengkai, sus ojos estaban extremadamente indefens
 “Xiao Bai, ya te dije lo que debería haberte dicho hace un momento. ¡En cuanto a lo que pienses al respecto, es asunto tuyo!”, le dijo Su Chengkai a Su Mubai con una expresión tranquila.
 
 Su Mubai asintió aturdido.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -99,7 +99,3 @@ Tang Qingqing asintió impotente, luego sacó su teléfono móvil y envió la di
 Chen Mora Después de llegar a la dirección de Su Mubai, simplemente instruyó a Tang Qingqing y luego salió de la caja.
 
 Tang Qingqing miró el pasado de Chen Mo con impotencia y culpabilidad en sus ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

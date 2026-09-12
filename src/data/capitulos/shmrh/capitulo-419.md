@@ -91,7 +91,3 @@ Por supuesto, lo más increíble para Wei Jiaqi es que Pan Ying claramente estuv
 ¡Pan Ying miró a Zhang Dazhi de arriba abajo, y luego abofeteó a Zhang Dazhi en la cara sin pensar en subir!
 
 ¡Esto hizo que Li Lingling, Wei Jiaqi y otros, que ya estaban muy confundidos, se sintieran aún más desconcertados!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -151,7 +151,3 @@ Sun Bo asintió y salió corriendo de la habitación.
 En este momento, solo Chen Mo, Zhou Xuan y Gao Feifei quedaron en la habitación.
 
 Gao Feifei se quedó estupefacta, mirando a Chen Mo con una expresión increíble, no sabía cómo describir su estado de ánimo ahora.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

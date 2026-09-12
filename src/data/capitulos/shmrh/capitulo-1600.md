@@ -129,7 +129,3 @@ Después de un rato, Zhang Ziqing caminó detrás de Wang Yan y otros, pero Zhan
 Y Chen Mo miró fijamente a Li Jianpeng y Zhao Xuanyan sin comprender.
 
 ¡La batalla está por comenzar!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

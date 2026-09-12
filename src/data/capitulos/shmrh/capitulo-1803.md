@@ -187,7 +187,3 @@ Chen Mo no pudo evitar sentirse un poco sorprendido después de escuchar las pal
 “Así es, mi padre también me dijo que alguien lo rescató cuando estaba en su peor momento, y esa persona era el gran benefactor de mi padre, pero mi padre nunca lo volvió a ver. He pasado a esa persona.”
 
 Los ojos de Lu Fangze brillaron de emoción y le dijo suavemente a Li Juncheng.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

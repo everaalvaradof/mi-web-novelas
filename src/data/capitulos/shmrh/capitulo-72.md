@@ -139,7 +139,3 @@ Después de que Sun Miao vio a Du Yan tan dominante, su estado de ánimo mejoró
 “¡Hoy Sun Miao no renuncia y nadie quiere irse!”
 
 Pero en el momento en que Sun Miao se dio la vuelta, Chen Mo gritó de repente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

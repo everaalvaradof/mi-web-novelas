@@ -143,7 +143,3 @@ Unos minutos después, Chen Mo Chulan entró en una caja, mientras que Qin Yibin
 Después de entrar en el palco, Chen Mo descubrió que solo había un joven rubio de su edad sentado en una silla en el palco.
 
 Esta persona debería ser Alan, el dueño del casino.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

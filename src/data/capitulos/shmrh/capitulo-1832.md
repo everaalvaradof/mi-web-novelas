@@ -159,7 +159,3 @@ Chen Mo sonrió y no habló.
 Había una mirada extraña en los ojos de Zhou Xiong, y luego gritó en voz baja: “¡No digas tonterías con él, solo mátalo por mí!”
 
 Zhou Che entendió lo que decía Zhou Xiong Significa que no hay vacilación en absoluto, y el gatillo se aprieta directamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

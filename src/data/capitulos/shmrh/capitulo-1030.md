@@ -101,7 +101,3 @@ Después de dudar un momento, Song Xinxin no pudo evitar girar la cabeza para mi
 “Sí, Chen Mo, ¿qué diablos está pasando? Escuché que el Sr. Li parece conocer a Chang Meng. ¿Por qué tenía tanto miedo de ti en este momento?”
 
 Ren Bin también le preguntó apresuradamente a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

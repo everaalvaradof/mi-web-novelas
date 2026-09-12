@@ -141,7 +141,3 @@ Chen Mo se quedó atónito al escuchar las palabras de Su Mubai.
 “¡Así es, solo quiero cancelar tu compromiso!”
 
 Su Mubai asintió con firmeza.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

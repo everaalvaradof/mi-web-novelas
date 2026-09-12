@@ -99,7 +99,3 @@ El trabajo de Li Juncheng y Chen Mo siempre se han sentido muy cómodos, por lo 
 Entonces, Yan She definitivamente reveló la noticia de que Chen Mo necesitaba un patrocinador a través de otros canales, lo que llevó a la presencia de tantas personas ricas hoy.
 
 Pero Chen Mo no podía entender por qué Yan She hizo esto. ¡Iba a encontrar una oportunidad para preguntar este asunto claramente!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

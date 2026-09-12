@@ -95,7 +95,3 @@ Chen Mo miró rápidamente la posición de Wang Yaoyao y preguntó con un tono d
 Chen Mo se quedó inmóvil después de escuchar las palabras de Wang Yaoyao.
 
 ¡Él nunca pensó que Wang Yaoyao diría tal cosa!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

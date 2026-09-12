@@ -143,7 +143,3 @@ Toda la mesa de fichas era propiedad exclusiva de Fan Liang.
 Fan Liang estaba muy insatisfecho en su corazón y no estaba dispuesto a perder dinero con Chen Mo.
 
 Pero un problema muy serio estaba frente a él, y era que ahora no tenía dinero.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

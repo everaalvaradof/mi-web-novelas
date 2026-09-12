@@ -101,7 +101,3 @@ Después de escuchar lo que dijo Wen Ruoxi, Chen Mo finalmente se dio cuenta de 
 Cuando Chen Mo estaba en el resort, salvó una estrella, y esa estrella debería ser Tang Ying.
 
 El propio Chen Mo no está interesado en cosas como perseguir estrellas, pero puede sentir que Wen Ruoxi parece querer verlo mucho, así que pregunta en voz baja una frase.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

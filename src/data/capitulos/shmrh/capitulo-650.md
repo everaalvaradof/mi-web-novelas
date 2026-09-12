@@ -123,7 +123,3 @@ Esto fue aprendido bajo la guía de Li Taibai. Si Chen Mo realmente lo estudiara
 ¡Pero lo que hace que Chen Mo se sienta desesperado es que este conjunto de técnicas de boxeo tiene un total de treinta y seis golpes!
 
 Chen Mo sintió que no podría aprenderlo todo en diez años.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

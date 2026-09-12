@@ -123,7 +123,3 @@ Así que Wang Bo rápidamente gritó: “Sr. Li, ¿no es inapropiado que su jefe
 “¿Por qué es inapropiado?”
 
 Li Juncheng preguntó suavemente a Wang Bo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

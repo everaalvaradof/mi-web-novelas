@@ -89,7 +89,3 @@ Después de escuchar las palabras de Yue Xuan, el joven maestro Li no dijo mucho
 “No esperaba que esta vez viniera a la ciudad de Jiuhai, habría ganancias inesperadas y es posible que tengamos un buen espectáculo la próxima vez”.
 
 Después de dejar su teléfono móvil, Yue Xuan dijo sin expresión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

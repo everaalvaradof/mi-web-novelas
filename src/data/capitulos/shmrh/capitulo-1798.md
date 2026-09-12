@@ -197,7 +197,3 @@ Porque Feng Jiuyang en este momento solo estaba tragando el aire frío entre el 
 Debes saber que hay casi docenas de auras entre el cielo y la tierra, y el resto de las auras excepto el aura son básicamente dañinas para los guerreros.
 
 Pero ahora Chen Mo quiere tragar todo el aliento en su cuerpo, lo que obviamente es más loco que Feng Jiuyang en este momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

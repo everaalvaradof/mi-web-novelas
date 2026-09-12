@@ -213,7 +213,3 @@ Lu Fangze dijo después de pensar por un momento.
 “¿Estás seguro de que realmente no tienes ningún problema? Tengo que recordarte que si de repente te vuelves a desmayar, no sabrás que te han quitado tu caja de jade”
 
 Lu Fangze dijo con la boca pequeña.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

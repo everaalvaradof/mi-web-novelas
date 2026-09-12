@@ -111,7 +111,3 @@ dijo Chen Mo con una sonrisa.
 “¿Por qué te jactas de nuevo? Tu misteriosa imagen en mi corazón se ha ido ahora”
 
 Shen Lingdie dijo con la boca pequeña.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

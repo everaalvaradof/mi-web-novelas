@@ -109,7 +109,3 @@ Chen Mo se sorprendió cuando escuchó las palabras de Su Mubai, luego sacudió 
 “¡Está bien, acabo de recordar algunos eventos pasados!”
 
 Dijo Chen Mo a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

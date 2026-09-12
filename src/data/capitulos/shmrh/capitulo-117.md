@@ -117,7 +117,3 @@ Quién hubiera pensado que la rica segunda generación de la clase estaría roga
 Gao Feifei parecía incapaz de aceptar la derrota de Li Kai ante Chen Mo, y estaba muy emocionado, gritó Li Kai.
 
 “Chen Mo, te lo ruego, dame una oportunidad, no me despidas, mientras no me despidas, déjame hacer cualquier cosa” Li Kai ignoró a Gao Feifei, renunció a su dignidad, La voz le suplicó a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

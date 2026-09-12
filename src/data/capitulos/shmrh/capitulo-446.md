@@ -101,7 +101,3 @@ Ahora que tengo esta foto, puedo probar que Chen Mo no es realmente una segunda 
 Wang Shuo le susurró a Shi Xinxin.
 
 Después de escuchar las palabras de Wang Shuo, ¡los ojos de Shi Xinxin brillaron de emoción!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

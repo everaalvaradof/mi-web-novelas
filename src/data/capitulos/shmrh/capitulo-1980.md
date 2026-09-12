@@ -243,7 +243,3 @@ Chen Mo no tenía la intención de decir tonterías con estas personas. Podía s
 Después de que terminaron las palabras de Chen Mo, otra energía de espada dorada fue directamente a la posición de Yun Xiuping.
 
 Cuando Yun Xiuping vio este qi de espada, el miedo brilló en sus ojos, porque ya había usado su tesoro espiritual para resistir el qi de espada de Chen Mo, si quería resistirlo nuevamente Para sobrevivir a este ataque, él debe usar su cuerpo para resistirlo, pero Yun Xiuping tiene muy claro en su corazón que en su estado actual, es básicamente imposible resistir el qi de la espada de Chen Mo. Las cosas, incluso si no mueren, terminarán con un lesion grave.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

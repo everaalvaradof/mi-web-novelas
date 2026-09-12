@@ -195,7 +195,3 @@ Después de ver al hombre de mediana edad, todas las personas en la mesa de Chen
 Liu Xuanxuan sabía que Chen Mo nunca había conocido a la familia Xia, así que tomé la iniciativa de presentárselos.
 
 Chen Mo entrecerró los ojos hacia Xia Xingze y Xia Qingfeng. Esta fue la primera vez que Capítulo conoció a su padre-asesino.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

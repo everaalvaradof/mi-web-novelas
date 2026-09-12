@@ -131,7 +131,3 @@ Chen Mo quería hablar Detente de nuevo.
 Luo Qiu levantó lentamente la cabeza y miró a Chen Mo, como si hubiera observado algo en los ojos de Chen Mo, instintivamente soltó el brazo que sostenía a Chen Mo y dijo suavemente: “Chen Mo, ¿cuál es el ¿Te importa?”
 
 Chen Mo respiró hondo y luego susurró: “¡Luo Qiu, tengo algo que decirte!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

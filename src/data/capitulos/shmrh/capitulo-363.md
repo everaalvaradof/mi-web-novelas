@@ -113,7 +113,3 @@ Chen Mo dijo con sinceridad a Su Mubai.
 Su Mubai Los hermosos ojos miraron directamente a los ojos de Chen Mo y gritó en un tono muy serio.
 
 Chen Mo se quedó atónito cuando escuchó las palabras de Su Mubai.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

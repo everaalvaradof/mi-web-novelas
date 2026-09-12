@@ -113,7 +113,3 @@ Wang Zijing se calmó un poco cuando vio que Chen Mo no lo hizo. hablar, y lo mi
 El tono de Chen Mo era inusualmente tranquilo. dijo al Príncipe Jing.
 
 Después de escuchar las palabras de Chen Mo, Wang Zijing se quedó estupefacto y miró a Chen Mo con desesperación.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

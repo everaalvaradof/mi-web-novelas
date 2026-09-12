@@ -139,7 +139,3 @@ Chen Mo asintió impotente.
 “¿Entonces cuál es tu relación con He Cai?”
 
 Su Mubai le gritó a Chen Mo con ojos perplejos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

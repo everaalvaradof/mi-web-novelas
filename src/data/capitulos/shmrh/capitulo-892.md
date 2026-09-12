@@ -121,7 +121,3 @@ Meng Liang lo siguió y se quejó.
 “Me jodes, ¿he practicado? Todavía piensas en cómo bajaste de tus 10.000 metros. Creo que te cuesta subir escaleras todos los días”
 
 Liu Rui replicó rápidamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

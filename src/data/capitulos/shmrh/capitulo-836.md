@@ -115,7 +115,3 @@ Dijo Chen Mo a la ligera.
 “Así es, probablemente aún no te hayas graduado, y debes seguir tomando clases en la escuela. No nos hemos visto en varios años. Te extraño un poco”
 
 Ning Tao dijo descuidadamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -109,7 +109,3 @@ Bai Zhennan no pudo evitar suspirar en su corazón.
 Si Chen Mo es realmente el novio de Su Mi, entonces todas las dudas pueden resolverse ahora.
 
 Cuando Bai Zhibing y Wang Xia vieron la expresión en el rostro de Bai Zhennan, todos mostraron expresiones de perplejidad.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

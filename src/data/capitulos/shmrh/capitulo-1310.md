@@ -125,7 +125,3 @@ La mujer sobre el copiloto de Wang Zifei dijo en voz baja.
 El príncipe Fei asintió y luego puso toda su atención en el auto.
 
 En este momento, el auto de Chen Mo estaba muy cerca del auto de Wang Zifei, por lo que fue fácil para Chen Mo superar el auto de Wang Zifei.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

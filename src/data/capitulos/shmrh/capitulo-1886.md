@@ -169,7 +169,3 @@ Después de dudar un momento, el anciano de la secta Hunyuan dijo en voz alta: �
 “¡Sí, la mayoría de nosotros somos gente común y no podemos juzgar tu fuerza!”
 
 Después de que todos reaccionaron, gritaron asombrados.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -183,7 +183,3 @@ Zhang Fansheng dijo con calma.
 El anciano asintió con la cabeza.
 
 Zhang Fansheng entrecerró los ojos ante el paisaje distante y suspiró suavemente: “Chen Mo, Chen Mo, no te maté por la cara de Li Taibai. En realidad, lo entregué yo mismo en la puerta, así que no culpes yo”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

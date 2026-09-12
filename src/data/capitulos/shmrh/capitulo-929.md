@@ -105,7 +105,3 @@ Xu Feng naturalmente podía sentir que Chen Mo detrás de él estaba ejerciendo 
 ¡Pero la velocidad de Xu Feng no es nada comparada con la velocidad de Chen Mo!
 
 ¡Chen Mo superó fácilmente a Xu Feng y llegó a la posición de Capítulo uno!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

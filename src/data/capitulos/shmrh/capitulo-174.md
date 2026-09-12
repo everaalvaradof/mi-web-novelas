@@ -125,7 +125,3 @@ Después de que el teléfono sonara varias veces, Gao Feifei respondió la llama
 Chen Mo no pudo evitar una mueca de desdén cuando escuchó esto, y secretamente suspiró en su corazón que si no fuera porque ya sabía toda la historia, podría haber sido arrestado ahora. Feifei, esta mujer, está jugando.
 
 ¡Una mujer que puede actuar da mucho miedo!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

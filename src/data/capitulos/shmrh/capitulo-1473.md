@@ -135,7 +135,3 @@ Zhang Wei parpadeó con una expresión desconcertada y le preguntó a An Xiaowu.
 “Este Chen Mo es simplemente un rey fanfarrón. Si no fuera por un gran hombre particularmente poderoso, ¿cómo sería posible bloquear la villa? Incluso el dueño de nuestra familia An no tiene tal habilidad, ¡así que no escuches las tonterías de Chen Mo!”
 
 An Xiaowu respondió con una boca pequeña, y luego murmuró para sí misma: “Originalmente planeé invitarlo a una comida, así que si no lo aprecias, ¡ahorraré dinero!””
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

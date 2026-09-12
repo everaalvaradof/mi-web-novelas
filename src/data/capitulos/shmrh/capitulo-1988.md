@@ -281,7 +281,3 @@ Todos rápidamente estuvieron de acuerdo después de escuchar esto.
 En este momento, hubo una fuerte explosión.
 
 Un gran agujero apareció en el aura negra frente a todos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

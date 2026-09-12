@@ -111,7 +111,3 @@ Al escuchar las palabras de Su Bai, Wei Chen mostró un poco de confusión en su
 Su Bai respondió en voz baja.
 
 Wei Chen miró a Su Bai y asintió sin poder hacer nada, luego se levantó y salió corriendo de la villa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

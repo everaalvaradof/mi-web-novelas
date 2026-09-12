@@ -157,7 +157,3 @@ Su Mubai asintió pensativo sin decir mucho.
 “Dado que este es el caso, me gustaría preguntarle, abogado Zhao, el objetivo de las cuatro disposiciones del Capítulo en el testamento es si realmente debo enamorarme de Chen Mo, o si Chen Mo debe casarse. ¿Cuáles son estas dos condiciones? ¿Cuál es más importante?”
 
 Su Mubai le preguntó suavemente a Zhao Zhengbin.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -145,7 +145,3 @@ Ren Jian tartamudeó y le gritó a Chen Mo.
 Chen Mo le dijo a Ren Jian con una cara inexpresiva.
 
 Ren Jian no dudó en absoluto después de escuchar las palabras de Chen Mo, se dio la vuelta y corrió hacia la entrada de las escaleras.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

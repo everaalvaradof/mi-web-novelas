@@ -97,7 +97,3 @@ Cuando Su Bai escuchó esto, giró la cabeza y miró a Jiang Weiwei, un rastro d
 Después de que Jiang Weiwei vio que Su Bai no hablar, seguir gritando en voz alta.
 
 Cuando Su Bai escuchó las palabras de Jiang Weiwei, mostró una sonrisa desdeñosa, volvió la cabeza para mirar a Jiang Weiwei y dijo sin expresión: “Jiang Weiwei, este es un asunto entre Bingbing y yo, no tienes nada que haz lo que debas hacer, ¡no lo veo como vergonzoso para la cara de Wei Chen!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

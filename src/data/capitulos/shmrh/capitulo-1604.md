@@ -159,7 +159,3 @@ Chen Mo todavía ignoró a Yan She y puso su ropa boca abajo, pero aún no podí
 Chen Mo le dijo a Yan She con una expresión desesperada.
 
 Yan Se quedó atónita cuando escuchó las palabras de Chen Mo, y la expresión de su rostro también estaba muy sorprendida.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

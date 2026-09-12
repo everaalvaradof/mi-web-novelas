@@ -101,7 +101,3 @@ El guardaespaldas líder agitó su mano, y en un instante siete u ocho hombres f
 En un instante, todos cayeron en pánico, y las expresiones en los rostros de todos eran muy temerosas.
 
 “¿Qué están haciendo? ¿Saben quién soy? ¿Están todos locos?”, Zhao Hang también estaba muy nervioso en este momento y les gritó a los guardaespaldas en voz alta.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

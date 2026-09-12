@@ -133,7 +133,3 @@ Chen Mo frunció el ceño levemente después de escuchar esto, y luego preguntó
 “Esta es una orden que me dio el jefe, ¡debo proteger tu seguridad!”
 
 Chen Mo no pudo evitar reírse cuando escuchó las palabras de Jiang Xi. Sabía que la mujer frente a él también era muy terca, y Chen Mo no quería perder el tiempo con estas cosas, así que No hizo nada más que decir, dio media vuelta y se fue.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

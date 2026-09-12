@@ -103,7 +103,3 @@ Y Chen Mo miró a Tao Yiran frente a él, y sus ojos estaban indefensos excepto 
 “¿Qué te parece? ¿Por qué no consideras mi sugerencia?”
 
 Tao Yiran le preguntó a Chen Mo con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

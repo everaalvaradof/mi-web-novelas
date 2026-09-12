@@ -183,7 +183,3 @@ Chen Mo no le dio a Bi Chengan ninguna oportunidad de respirar, lo persiguió di
 Bi Chengan golpeó el suelo como un meteorito, formando un cráter enorme y profundo.
 
 Aunque el golpe de Chen Mo ya era muy poderoso, también causó suficiente daño a Bi Chengan.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

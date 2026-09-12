@@ -135,7 +135,3 @@ Si Chen Mo estuviera solo, Chen Mo podría tener la oportunidad de escapar, pero
 La situación de Chen Mo es muy peligrosa en este momento, ¡no sé qué hacer por un tiempo!
 
 ¡Y Yan Ella todavía miraba a Chen Mo con una mirada despiadada!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

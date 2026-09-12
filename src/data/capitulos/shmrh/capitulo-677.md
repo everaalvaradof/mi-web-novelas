@@ -121,7 +121,3 @@ Bai Zhennan hizo una pausa Después de un rato, continuó: “Eres joven ahora, 
 Chen Mo miró a Bai Zhennan y no habló.
 
 Y Bai Zhennan se levantó lentamente y le dijo a Chen Mo: “¡Yo iré primero!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -95,7 +95,3 @@ Wen Ruoxi gritó emocionado después de ver a Chen Mo sentado inmóvil.
 “¿Por qué le pregunté?”
 
 Y Chen Mo respondió a Wen Ruoxi con mucha calma.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

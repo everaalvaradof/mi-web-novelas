@@ -97,7 +97,3 @@ Pronto, Du Tianhao envió un mensaje de texto.
 El texto del mensaje de texto es: “Sr. Chen, ayer me pidió que lo ayudara a investigar a las dos personas que tienen noticias. ¡Lo estoy esperando en la puerta noreste de la Universidad de Nanyang!”
 
 Chen Mo vio el mensaje de texto Después de eso, hubo un destello de emoción en sus ojos. Después de todo, sintió que lo más importante para él era exponer el verdadero rostro de Zhang Feng.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -119,7 +119,3 @@ El cristal estalló al instante, seguido de una daga que emitía una luz fría q
 “¡Señorita Wang, salga del auto!”
 
 La voz de un hombre gordo sonó fuera de la ventana del auto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

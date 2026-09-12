@@ -119,7 +119,3 @@ Todos asintieron y dijeron.
 El Gran Anciano sonrió levemente y luego dijo suavemente: “Dado que todos están de acuerdo con mi opinión, entonces debes contactar a los maestros de artes marciales que conoces y darles una condición que los satisfaga. y finalmente estamos discutiendo cuándo hacerle algo a Chen Mo!”
 
 Todos estuvieron de acuerdo apresuradamente, luego se levantaron y se prepararon para irse.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

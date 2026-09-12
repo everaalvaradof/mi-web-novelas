@@ -111,7 +111,3 @@ Además, Fan Yuanze ya ha dado una orden, Chen Mo y las tres familias principale
 En ese momento, la actitud de Fan Chong hacia Chen Mo dio un giro de 360 ​​grados y tomó la iniciativa de tomar un paso adelante preguntó con una sonrisa.
 
 Después de escuchar las palabras de Fan Chong, los ojos de Chen Mo brillaron con sorpresa, porque no esperaba que la actitud de Fan Chong cambiara tanto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -109,7 +109,3 @@ Li Juncheng le dijo a Su Mubai con una sonrisa.
 Li Juncheng asintió levemente y luego caminó hacia su Mercedes-Benz.
 
 Después de que Su Mubai vio que Chen Mo se iba, dudó un momento y de repente gritó: “Chen Mo, ¿puedes venir aquí? Tengo algo que decirte”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -131,7 +131,3 @@ Cuando las personas a su alrededor vieron que la caja contenía solo un collar d
 Y este regalo de Chen Mo está realmente muy mal. Comparado con los regalos de otras personas, es simplemente imposible de sacar.
 
 Pero Tao Yiran estaba muy feliz, se quitó el colgante de cristal de su cuello, se puso el collar de platino de Chen Mo y le preguntó a Chen Mo con una sonrisa: “Chen Mo, ¿cómo estás? ¿Te ves bien? contigo?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

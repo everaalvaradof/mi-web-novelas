@@ -111,7 +111,3 @@ Jiang Feifei frunció el ceño levemente mientras miraba las posiciones de Wei C
 “¿Es hora de que actúe ahora?”
 
 En este momento, Chen Mo de repente le gritó a Wei Chen.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

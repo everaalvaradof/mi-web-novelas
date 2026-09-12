@@ -111,7 +111,3 @@ Entonces, Zhao Yuancheng sintió que si podía darle a su hija a Chen Mo, Chen M
 “Aunque la identidad y los antecedentes del Sr. Chen no son simples, ¡después de todo sigue siendo un hombre!”
 
 Zhao Yuancheng le dijo a Wang Bo con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

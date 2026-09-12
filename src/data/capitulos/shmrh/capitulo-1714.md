@@ -181,7 +181,3 @@ Este hombre fuerte, cuyo nombre original era Zhao Gang, también era un guerrero
 Lo que sucedió en este momento en realidad fue diseñado deliberadamente por Xia Qingfeng y Zhao Wenzhuo, el propósito era humillar a Chen Mo en público, para que Chen Mo no pudiera evitar defenderse y finalmente dejar que Zhao Gang tomara acción y enseñarle a Chen Mo una comida de lección dura.
 
 Zhao Gang es un maestro de las artes marciales. Xia Qingfeng y Zhao Wenzhuo no conocen la verdadera fuerza de Chen Mo. Aunque han escuchado que las habilidades de Chen Mo no son simples, también piensan que es solo un rumor Tianshan Zongmen y Li Taibai, los grandes patrocinadores, no son nada en absoluto, por lo que debería ser muy fácil para Zhao Gang darle una lección a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

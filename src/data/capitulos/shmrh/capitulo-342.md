@@ -105,7 +105,3 @@ Después de que se gritaran las palabras de Wei Jiaqi, todos siguieron a Ying pa
 “¡Deténganlos a todos!”
 
 Pero en este momento, el regaño de una mujer de repente vino de la multitud.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

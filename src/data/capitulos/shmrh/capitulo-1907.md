@@ -159,7 +159,3 @@ Después de que el aura se disipó, todos descubrieron que había un gran pozo p
 “¿El viejo maestro de secta realmente ganó?”
 
 La gente en Shangyuan Zongmen miró la posición del pozo profundo, y las expresiones en sus rostros estaban muy emocionadas. La explosión aún era muy aterradora. Incluso si la fuerza de Chen Mo fuera relativamente fuerte, no había absolutamente ninguna forma de sobrevivir a la explosión en este momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

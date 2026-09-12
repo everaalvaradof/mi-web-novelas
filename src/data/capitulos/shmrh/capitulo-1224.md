@@ -119,7 +119,3 @@ En este momento, Pan Ze estaba completamente estupefacto. No esperaba que el leg
 “¿Qué diablos está haciendo este joven maestro Chen?”
 
 Una pizca de impotencia brilló en los ojos de Pan Ze, luego sacó su teléfono móvil y quiso llamar a Li Juncheng.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

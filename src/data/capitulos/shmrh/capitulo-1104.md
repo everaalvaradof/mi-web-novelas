@@ -111,7 +111,3 @@ Wen Ruoxi vaciló por un momento y su cuerpo tembló levemente. En este momento,
 “Joven maestro Chen, usted y Ruoxi se conocen, y están aquí solos, así que ¿por qué no dejar que Ruoxi los acompañe?” ¡usted!”
 
 Wen Zhenhai sonrió con admiración a Chen Mo mientras hablaba.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

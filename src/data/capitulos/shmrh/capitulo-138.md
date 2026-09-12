@@ -161,7 +161,3 @@ Zhang Ze asintió con una sonrisa.
 Antes de que las palabras de Su Mubai fueran terminado, una voz vino de repente desde la puerta de la sala de conferencias.
 
 Cuando todos escucharon esto, giraron la cabeza y miraron hacia la puerta que acababa de entrar a la sala de conferencias.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

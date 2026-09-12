@@ -103,7 +103,3 @@ Liu Xuanxuan también asintió levemente a Chen Mo.
 Debido a que la mayoría de las personas presentes no conocían a Chen Mo y Liu Xuanxuan, los dos casualmente encontraron un rincón tranquilo para sentarse.
 
 A medida que pasaba el tiempo, el número de personas en la reunión de licitación también aumentó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

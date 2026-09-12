@@ -109,7 +109,3 @@ Pero si Mingmei giraba la cara y no la reconocía, Chen Mo no perdería el tiemp
 “Oh, ¿quién creo que es? ¿No es Chen Mo?”
 
 Pero justo cuando Chen Mo estaba a punto de agregar Mingmei WeChat, una chica de repente se acercó a Chen Mo’s. Frente a él, Yin Yang gritó enojado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

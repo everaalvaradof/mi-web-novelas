@@ -133,7 +133,3 @@ Zhao Qingquan levantó su pistola directamente hacia Li Kun sin ninguna tonterí
 Sonó otro disparo, y la bala atravesó el muslo de Li Kun nuevamente.
 
 Li Kun también cayó al suelo con un golpe.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

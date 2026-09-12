@@ -189,7 +189,3 @@ La expresión en el rostro de Feng Lao Er se volvió aún más dolorosa, y dejó
 Feng Lao Er gritó Chen Mo Chen Mo en voz alta.
 
 Chen Mo miró a Feng Lao Er sin hablar.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

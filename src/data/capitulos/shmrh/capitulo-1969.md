@@ -127,7 +127,3 @@ Chen Mo entrecerró los ojos y miró a las tres personas frente a él, la expres
 Después de todo, Chen Mo puede sentir que los cambios en la respiración de las tres personas todavía son muy aterradores en este momento, y no sabe qué tipo de ataque lo estará esperando a continuación, por lo que Chen Mo debe hacer todos los preparativos para afrontar este Ataque de los tres.
 
 Hubo algo mal antes y hubo pocas actualizaciones. Lo siento, lo arreglaré en los próximos días.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

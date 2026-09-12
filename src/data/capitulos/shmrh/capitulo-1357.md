@@ -141,7 +141,3 @@ Ren Bin miró a Niu Fei de arriba abajo, y luego puso sus ojos en la concubina Q
 Niu Fei dijo con una sonrisa.
 
 Ren Bin, Ding Shuo y Xiao Nan quedaron atónitos cuando escucharon las palabras de Niu Fei, y las expresiones en sus rostros eran increíbles.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -89,7 +89,3 @@ Chen Mo sonrió levemente.
 Dijo Ning Tao en voz baja a Chen Mo.
 
 Chen Mo asintió levemente, luego siguió a Ning Tao a la caja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

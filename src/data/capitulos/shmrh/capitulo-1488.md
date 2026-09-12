@@ -133,7 +133,3 @@ Zuo Qingna tenía una expresión muy perpleja en su rostro y rápidamente le pre
 “Qingna, puede que no sepas algo. ¡Mi padre estuvo en retiro durante tantos años porque perdió ante Li Taibai!”
 
 explicó Guan Feiyan impotente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

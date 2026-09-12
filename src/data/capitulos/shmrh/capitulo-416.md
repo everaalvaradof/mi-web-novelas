@@ -87,7 +87,3 @@ Pan Ying estaba muy emocionada en ese momento, porque sabía que su plan finalme
 Después de planear durante tanto tiempo, Pan Ying solo quería ver a Chen Mo loco por ella.
 
 ¡En este momento, Mo Chen está lo suficientemente loco!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

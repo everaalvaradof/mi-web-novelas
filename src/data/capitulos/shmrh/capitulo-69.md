@@ -115,7 +115,3 @@ Chen Mo levantó lentamente la cabeza y miró a Mingmei, y de repente escuchó e
 Un joven con traje negro caminó rápidamente hacia la oficina de ventas y gritó con ansiedad: “Disculpe, ¿quiénes son el Sr. Chen Mo y Chen?”
 
 Todos escucharon al joven Estas palabras, todos se congelaron en su lugar.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

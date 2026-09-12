@@ -105,7 +105,3 @@ Chen Mo colapsó después de escuchar las palabras de Chu Lan. Después de todo,
 “Acabo de regresar a China. No conozco muchos amigos. No tengo nada que hacer hoy, o jugaré contigo. ¿Adónde vas?”
 
 Chu Lan preguntó Chen Mo en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

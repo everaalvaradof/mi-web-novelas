@@ -147,7 +147,3 @@ Cuando Chen Mo vio el contenido de WeChat, ¡se quedó estupefacto!
 “¿Esta mujer está enferma?”
 
 Chen Mo no pudo evitar gritar en su corazón.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

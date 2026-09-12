@@ -161,7 +161,3 @@ Sun Bo sonrió y respondió.
 Después de que Li Kai y Gao Feifei escucharan las palabras de Sun Bo, un rastro de emoción brilló en sus ojos.
 
 ¡Los dos finalmente tuvieron la oportunidad de vengarse de Chen Mo!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

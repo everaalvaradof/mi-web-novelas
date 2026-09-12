@@ -97,7 +97,3 @@ Chen Mo no estaba de humor para explicar tanto, y dijo en un tono firme.
 “Chen Mo, ¿quién crees que eres? ¿Mi reunión con él tiene algo que ver contigo? ¿Eres un poco demasiado motivada?”, gritó Wen Ruoxi con entusiasmo.
 
 Cuando Chen Mo escuchó las palabras de Wen Ruoxi, sintió como si un cuchillo le hubiera atravesado el corazón. Todo lo que Chen Mo está haciendo ahora es por el bien de Wen Ruoxi. bien, pero a los ojos de Wen Ruoxi, ¿resultó ser autoindulgente?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

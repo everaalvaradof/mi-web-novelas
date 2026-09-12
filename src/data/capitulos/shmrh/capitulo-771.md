@@ -119,7 +119,3 @@ Chen Mo miró al hombre de mediana edad sin hablar.
 Dijo el hombre de mediana edad con una sonrisa.
 
 Chen Mo levantó lentamente la cabeza y miró al hombre de mediana edad. Podía entender que el hombre de mediana edad lo estaba amenazando.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

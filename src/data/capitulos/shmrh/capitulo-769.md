@@ -121,7 +121,3 @@ Chen Mo miró a Fu Yao y sonrió.
 “De hecho, no tiene nada de extraño. Si se considerara hace cientos de años, los alquimistas aún eran muy comunes. Después de todo, el nivel de tecnología no estaba desarrollado en ese momento, y no había muchas compañías farmacéuticas. Si la gente quisiera ver a un médico, necesitaría tomar pastillas medicinales”
 
 Fuyao respondió a Chen Mo con una sonrisa, y luego continuó: “Y las pastillas medicinales no solo pueden curar enfermedades y salvar a la gente, pero también fortalecer el cuerpo, y los guerreros pueden usar algunas píldoras medicinales más poderosas para mejorar En el reino de un artista marcial, la gente común no puede tomar píldoras medicinales y, naturalmente, no necesita un alquimista, pero la mayoría ¡Los artistas marciales aún necesitan píldoras medicinales, y solo un alquimista puede sacar el mayor valor de estas medicinas!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

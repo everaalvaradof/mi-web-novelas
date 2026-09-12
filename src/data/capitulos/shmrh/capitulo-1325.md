@@ -105,7 +105,3 @@ Xue Yuqi puede observar esto, por lo que otras estrellas pueden observarlo natur
 Mientras Qiao Ying conversaba con las otras estrellas, algunas estrellas no tan populares comenzaron a aprovechar la oportunidad para conversar con Chen Mo por iniciativa propia. Todos sintieron que no había hombres que no se molestaran. ¡Puedes conectarte con Chen Mo, incluso si eres un junior!
 
 Entonces, Chen Mo se ha convertido en una presencia más buscada por un tiempo, pero debido a que Qiao Ying todavía está allí, estas personas no se atreven a ser demasiado obvias. Si Qiao Ying no está allí, entonces es estimó que estas estrellas femeninas pueden arrastrar directamente a Chen Mo al hotel para abrir una habitación.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

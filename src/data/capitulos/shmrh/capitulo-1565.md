@@ -113,7 +113,3 @@ Feng Hao hizo todo lo posible por controlar sus emociones y le preguntó a Chen 
 Chen Mo no estaba de humor para decir tonterías con Feng Hao, y dijo muy directamente.
 
 “¡No sé dónde está Feng Xing ahora!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

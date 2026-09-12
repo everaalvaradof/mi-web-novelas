@@ -263,7 +263,3 @@ Tengo que admitir que el qi de espada que Yun Han lanzó hace un momento es real
 La sangre fluyó lentamente por el pecho de Chen Mo.
 
 Chen Mo no tiene la aterradora capacidad de autocuración de Bi Chengan, por lo que no puede curar sus heridas en poco tiempo. Solo puede usar su aliento para contener la sangre en su cuerpo y prevenir la sangre siga saliendo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

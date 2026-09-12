@@ -99,7 +99,3 @@ Chen Mo estaba en shock después de escuchar las palabras de Yan She, porque no 
 Chen Mo preguntó en voz baja después de dudar un rato.
 
 Yan Ella asintió y luego continuó: “Mi abuelo no solo te conoce, sino que también te conoce muy bien, sabe que te convertirás en el heredero a la ciudad del rey en el futuro, solo puedo derrotar al mercader de plata si elijo cooperar contigo, de lo contrario, mi abuelo no me habría dejado esperarte en la Universidad de Nanyang”.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

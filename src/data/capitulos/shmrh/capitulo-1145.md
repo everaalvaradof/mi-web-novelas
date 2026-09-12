@@ -133,7 +133,3 @@ Y el cuerpo del Maestro del Valle salió volando y se estrelló contra la pared.
 Zhou You miró fijamente la posición de Chen Mo con grandes ojos llorosos. La conmoción en su rostro seguía siendo impactante, porque nunca pensó que Chen Mo golpearía directamente al dueño del valle.
 
 Después de que Chen Mo aplastó al dueño del valle con un solo golpe, no hubo ninguna pausa. Antes de que el dueño del valle pudiera reaccionar, corrió directamente hacia el dueño del valle y luego levantó la pierna. y lo pateé.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

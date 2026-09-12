@@ -103,7 +103,3 @@ Zhang Xize frunció el ceño y regañó en un tono muy enojado.
 “¿Alguien entró en la habitación secreta?”
 
 El comandante Wang Yan se quedó estupefacto cuando escuchó las palabras de Zhang Xize, y la expresión de su rostro también fue muy increíble, porque no lo hizo. No sé si alguien irrumpió en la habitación secreta.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

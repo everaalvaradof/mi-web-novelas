@@ -133,7 +133,3 @@ Y Chen Mo salió del salón de té inmediatamente después de conocer la ubicaci
 Ahora faltan Feng Xing y Feng Hao, y Chen Mo no tiene planes de dejarlos ir esta vez, así que para Chen Mo ahora, la forma más fácil y directa es seguir las vides, desde que comenzó Jiang Qiwei. para mirar un poco hacia arriba.
 
 Mientras Chen Mo pueda encontrar a Jiang Qiwei, podrá encontrar a Feng Xing.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

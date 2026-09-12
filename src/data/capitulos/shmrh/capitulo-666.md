@@ -127,7 +127,3 @@ Las habilidades de Xu Hu eran mucho mejores que las de Wang Qichuan, y pronto pe
 La batalla entre los dos ha entrado en una etapa candente.
 
 Aquellos en la audiencia comenzaron a vitorear, como si la popularidad de Xu Hu fuera obviamente mucho más alta que la de Sun Tao.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

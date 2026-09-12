@@ -101,7 +101,3 @@ Wan Zhong vio que Chen Mo se acercaba más y más a él, y la expresión de su r
 “Te he dado una oportunidad antes, pero no sabes cómo apreciarla tú mismo. Si no fuera por tu codicia, no tendrías que hacerlo”
 
 Chen Mo le dijo a Wan Zhong sin expresión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

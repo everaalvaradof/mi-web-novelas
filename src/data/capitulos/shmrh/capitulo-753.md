@@ -117,7 +117,3 @@ Chen Mo se quedó atónito por un momento y le preguntó suavemente a Yan She.
 “Tonterías, por supuesto que lo que dije es verdad. Lo dijiste hace un momento. Si realmente pienso en eso, hay algunos hombres excelentes para elegir, ¿por qué debería comprar ese tipo de cosas yo mismo?”
 
 Yan Ella apretó los dientes plateados y le susurró a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

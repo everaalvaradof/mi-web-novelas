@@ -127,7 +127,3 @@ Chen Mo respiró hondo y luego soltó lentamente a Su Mubai.
 Su Mubai miró a Chen Mo a la ligera y luego salió corriendo del aeropuerto sin mirar atrás a pesar de que pisó la punta de sus tacones altos.
 
 Chen Mo y Tang Qingqing miraron la espalda de Su Mubai, tanto familiar como desconocida, con infinita confusión y confusión en sus ojos, porque los dos nunca pensaron que finalmente habían encontrado a Su Mubai. Al final resultó ser tal resultado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

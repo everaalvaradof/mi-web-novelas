@@ -113,7 +113,3 @@ Zhang Ziqing preguntó directamente.
 Chen Mo respondió en voz baja.
 
 Zhang Ziqing estuvo de acuerdo y colgó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

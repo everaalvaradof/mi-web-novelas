@@ -121,7 +121,3 @@ En este caso, Wang Yaoyao tendrá la oportunidad de dejar que Chen Mo lo envíe 
 En ese momento, Wang Yaoyao puede cocinar arroz cocido con Chen Mosheng siempre que encuentre la oportunidad.
 
 Wang Yaoyao tiene una figura sexy y encantadora y se ve exquisita y hermosa, por lo que siente que mientras esté desnuda y parada frente a Chen Mo, Chen Mo definitivamente no se negará a acostarse con ella.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

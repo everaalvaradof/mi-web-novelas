@@ -229,7 +229,3 @@ respondió Zhang Zicheng.
 “¡Está bien, te compraré un boleto de avión!”
 
 Zhang Zicheng respondió en voz baja, luego simplemente colgó el teléfono.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

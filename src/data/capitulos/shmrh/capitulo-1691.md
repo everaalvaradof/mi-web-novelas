@@ -113,7 +113,3 @@ Qin Yibing no pudo evitar quedarse atónito cuando escuchó las palabras de Chu 
 “¿Tienes sentimientos por ese club o esa gente?”
 
 preguntó Chu Lan con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

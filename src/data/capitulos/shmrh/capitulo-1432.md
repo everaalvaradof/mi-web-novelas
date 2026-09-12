@@ -93,7 +93,3 @@ Chen Mo miró a Su Mubai y sonrió, luego continuó: “Puedes hacerlo de acuerd
 “¡Dije que no necesito tu ayuda!”
 
 Su Mubai miró directamente a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -107,7 +107,3 @@ Jiang Qiwei asintió y luego continuó: “Hermana Xuanxuan, aunque ha estado en
 “He oído hablar de algunos, con razón no pude ver a Chen Mo ayer, ¡no esperaba que los antecedentes de este Chen Mo fueran tan grandes!”
 
 Liu Xuanxuan dejó escapar un largo aliento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

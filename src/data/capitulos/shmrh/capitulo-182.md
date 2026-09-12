@@ -159,7 +159,3 @@ Después de escuchar esto, todos se giraron para mirar a Chen Mo. La ubicación,
 Solo Chen Mo se detuvo y mostró una sonrisa amarga a todos.
 
 En realidad, sintió que Luo Qiu lo iba a usar como un escudo, por lo que quería irse, pero no esperaba estar un paso atrás al final.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

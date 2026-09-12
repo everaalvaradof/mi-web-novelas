@@ -107,7 +107,3 @@ Li Yiyi respondió rápidamente.
 Wang Shuo miró directamente al mesero y le dijo en voz baja: “¡Muéstrame el pedido, veré cuántas cosas ordené!”
 
 El mesero rápidamente le entregó el Al llegar frente a Wang Shuo, Wang Shuo simplemente lo miró e inmediatamente se sorprendió, porque descubrió que Li Yiyi y otros ordenaron más de 30,000 yuanes en platos, ¡lo cual es realmente grosero!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

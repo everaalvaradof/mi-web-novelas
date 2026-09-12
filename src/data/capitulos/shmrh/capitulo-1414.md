@@ -117,7 +117,3 @@ En un abrir y cerrar de ojos, eran más de las once de la noche.
 Al ver que era casi la hora, Su Mubai propuso regresar.
 
 ¡Y Chen Mo planea irse a casa con Su Mubai!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -141,7 +141,3 @@ Li Taibai miró a Chen Mo y respondió.
 “¿Así que eres tan bueno? Entonces, ¿sabes en qué rango estoy ahora?”
 
 Chen Mo preguntó mostrando los dientes.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -125,7 +125,3 @@ Su Hongxiao respondió con mucha calma.
 “¿No quieres este dinero?”
 
 ¡Gao Feifei miró a Su Hongxiao con una pizca de sorpresa en los ojos!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

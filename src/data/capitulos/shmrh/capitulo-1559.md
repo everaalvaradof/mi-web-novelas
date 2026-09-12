@@ -135,7 +135,3 @@ Qin Yibing respiró hondo y continuó: “Más tarde descubrí que Ren Jian esta
 “Entonces, ¿por qué viene a buscarte ahora?”
 
 Chen Mo preguntó confundido.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

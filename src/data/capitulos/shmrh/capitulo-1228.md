@@ -131,7 +131,3 @@ Pan Ze miró a Chen Mo y respondió.
 “Debería ser de Fan Meihua, otros no saben que estoy aquí”
 
 dijo Chen Mo a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

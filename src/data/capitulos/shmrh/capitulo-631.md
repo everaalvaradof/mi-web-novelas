@@ -129,7 +129,3 @@ dijo Li Juncheng lentamente.
 “¿Es demasiado tarde para encontrar un maestro ahora?”
 
 Chen Mo dijo impotente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

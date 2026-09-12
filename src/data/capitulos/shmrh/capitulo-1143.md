@@ -127,7 +127,3 @@ Justo cuando Zhou You se sorprendió, Chen Mo arrojó directamente a la boca la 
 Cuando Zhou You vio que Chen Mo había comido dos pastillas prestadas de Capítulo, Zhou You ya sabía cuál era la carta de triunfo de Chen Mo.
 
 Chen Mo tiene la intención de comer dos pastillas prestadas al mismo tiempo, por lo que la energía acumulada en su cuerpo será mayor, pero en este caso, la carga sobre el cuerpo de Chen Mo también será mayor.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

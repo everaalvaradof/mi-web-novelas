@@ -105,7 +105,3 @@ La expresión de Ning Tao se relajó mucho cuando escuchó las palabras de Zhang
 “Zhang Jiantong, ¿tienes una cara tan grande?”
 
 Pero en este momento, el joven que tomó la delantera gritó extrañamente yin y yang.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

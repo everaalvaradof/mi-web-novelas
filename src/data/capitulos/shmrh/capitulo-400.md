@@ -99,7 +99,3 @@ Du Tianhao le dijo suavemente a Chen Mo.
 Chen Mo asintió levemente, luego entrecerró los ojos para ver la posición de Xiao Li.
 
 El pequeño Li miró a Chen Mo con tristeza, no sabía qué iba a hacer Chen Mo ahora.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

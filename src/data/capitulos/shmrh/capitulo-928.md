@@ -87,7 +87,3 @@ Xu Feng no pudo evitar murmurar en su corazón.
 “Luego, los finalistas, vayan al área de calentamiento para prepararse. ¡La final de sprint de 100 metros comenzará pronto!”
 
 En este momento, una voz vino de la escuela. Radio de nuevo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

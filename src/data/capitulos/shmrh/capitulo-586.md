@@ -107,7 +107,3 @@ Li Baiqiang se quedó atónito después de escuchar las palabras de Li Zixi, y l
 “No, es absolutamente imposible. ¿Cómo es posible que Chen Mo tenga tanto dinero? ¿No querías tener una cita con Zhao Ziyi, así que pusiste una excusa para mentirme?”
 
 preguntó Li Baiqiang en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -171,7 +171,3 @@ Lu Fangze gritó instintivamente después de ver a Chen Mo vomitar sangre, luego
 Antes de que terminaran las palabras de Chen Mo, Inmediatamente cayó en coma.
 
 Lu Fangze estaba aún más perdido cuando vio desmayarse a Chen Mo. Después de vacilar durante dos segundos, rápidamente encendió el auto y se alejó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

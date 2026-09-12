@@ -115,7 +115,3 @@ Chen Mo se burló, luego sacudió la cabeza suavemente y dijo: “¡Gao Feifei, 
 Xu Jiao no pudo evitar recordarle suavemente a Gao Feifei.
 
 Gao Feifei sintió que su cabeza no era suficiente, y después de sentarse en el suelo y pensar durante dos segundos, le gritó a Chen Mo con una expresión frenética: ” Chen Mo, te uniste a esta gente para engañarme, ¿verdad?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -161,7 +161,3 @@ Así que todos no pudieron evitar poner sus ojos en Chen Mo, y sintieron un poco
 “Tres maestros de artes marciales de tres estrellas unieron fuerzas, ¡esta es una situación que nunca antes habíamos visto en las artes marciales chinas!”
 
 “Sí, antes todos pensábamos que no había tal cosa en este mundo. ¿Qué pasa con el maestro de artes marciales de tres estrellas? frente a tres maestros de artes marciales de tres estrellas solo, creo que el devorador de dioses es este ¡Una vez debe ser más afortunado que la fortuna!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

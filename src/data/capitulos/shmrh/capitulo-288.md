@@ -107,7 +107,3 @@ Pero cuando sus ojos se posaron en Zhou Qiantu, las piernas de Zhou Yangcheng es
 “¿Por qué está aquí el tío Zhou Zhou?”
 
 Gritó Zhou Yangcheng con un tono desconcertado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

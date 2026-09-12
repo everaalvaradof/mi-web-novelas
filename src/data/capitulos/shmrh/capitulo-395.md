@@ -109,7 +109,3 @@ Y Zhang Guangzhi se veía muy lamentable en este momento, su cara derecha estaba
 Pero cuando Chen Mo volvió a levantar la mano derecha, la puerta de la oficina de ventas se abrió de repente.
 
 Un hombre de mediana edad entró en la oficina de ventas con dos guardaespaldas y gritó a la posición de Chen Mo con una expresión muy emocionada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

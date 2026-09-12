@@ -111,7 +111,3 @@ Chen Mo respondió a la ligera.
 “Joven maestro Chen, ¿por qué dijiste eso?”
 
 Hua Xiaowu se quedó atónito por un momento y le preguntó a Chen Mo con un tono desconcertado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

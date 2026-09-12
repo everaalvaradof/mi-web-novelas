@@ -109,7 +109,3 @@ exclamó Chen Mo con los ojos bien abiertos y una expresión increíble en su ro
 Su Mi se giró para mirar a Chen Mo, quien estaba atónita, mientras hablaba con el micrófono, y luego mostró una sonrisa muy feliz.
 
 ¡Chen Mo solo se dio cuenta en ese momento de que en realidad lo interpretaba una mujer como Su Mi!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

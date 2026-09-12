@@ -119,7 +119,3 @@ La persona que llegó tarde en este momento fue Yan She. Si fuera otra mujer, in
 ¡No sé cuántas mujeres quieren salir con Lu Zhengzhi sin esta oportunidad!
 
 Pero justo cuando Lu Zhengzhi sacó su teléfono móvil, vio una figura hermosa y sexy caminando hacia la posición de Lu Zhengzhi, caminando con gracia sobre tacones altos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

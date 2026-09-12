@@ -183,7 +183,3 @@ Un rastro de ira brilló en los ojos del líder, y preguntó con frialdad.
 “Señor, la ceremonia conmemorativa comenzará pronto. Este Chen Mo es muy hábil, y su reino debería ser un maestro de artes marciales de dos estrellas. Si lo matas ahora, me temo que la ceremonia conmemorativa retrasarse!”
 
 El anciano respondió rápidamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

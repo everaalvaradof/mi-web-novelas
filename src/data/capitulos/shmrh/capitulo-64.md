@@ -127,7 +127,3 @@ Chen Mo respondió a la ligera, y luego continuó caminando dentro de la oficina
 Unos segundos después, Su Mubai recibió un mensaje de texto de Chen Mo.
 
 Cuando Su Mubai vio el mensaje de texto de Chen Mo, una pizca de impotencia brilló en sus hermosos ojos, luego sacudió la cabeza y se rió suavemente: “Un hombre que necesita pedirme 10,000 yuanes para gastos de manutención cada mes, todavía paga ¡Es ridículo alardear de que Haikou quiere comprarme una villa!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

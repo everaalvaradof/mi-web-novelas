@@ -123,7 +123,3 @@ Después de todo, el nivel de piano de Chen Mo no es comparable al de la gente c
 Aunque Chen Mo acaba de decir que no le importa ganar o perder esta competencia, ya que eligió el piano, Chen Mo todavía quiere ganar. La razón es muy simple, porque si Chen Mo realmente gana, Entonces puede actuar sobre Duan Chenjie de una manera abierta y honesta, y no necesita encontrar ninguna razón en absoluto.
 
 Después de que Xue Yuqi escuchó las palabras de Chen Mo, un rastro de confusión brilló en sus ojos, pero no dijo mucho, porque sintió que Chen Mo podría haberse dado por vencido. ella misma en este momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

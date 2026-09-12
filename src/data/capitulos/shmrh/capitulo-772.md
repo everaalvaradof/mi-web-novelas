@@ -117,7 +117,3 @@ Chen Mo respondió a la ligera.
 El hombre de mediana edad no pudo evitar reírse cuando escuchó las palabras de Chen Mo, y luego dijo a la ligera: “Está bien, te prometo esta solicitud, mañana por la mañana, ¡reunámonos aquí y vayamos a la cueva de Guihu!”
 
 Después de que Shu Ziyu escuchó que el hombre de mediana edad estaba de acuerdo con la solicitud de Chen Mo, gritó emocionado. Luego continuó. : “¿Por qué debemos aceptar la solicitud de este bastardo?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

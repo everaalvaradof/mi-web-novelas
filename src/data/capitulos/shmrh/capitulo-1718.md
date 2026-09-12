@@ -203,7 +203,3 @@ Zhang Zicheng le dijo a Zhang Ziqing con una sonrisa.
 “¡Lo sé, no te preocupes!”
 
 Zhang Ziqing asintió, luego se dio la vuelta y se fue.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -93,7 +93,3 @@ Gao Feifei caminó frente a Chen Mo y le dijo emocionado.
 “Está bien, no digas tonterías, ¡solo dime si tienes algo!”
 
 Chen Mo le dijo a Gao Feifei con una expresión en blanco.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

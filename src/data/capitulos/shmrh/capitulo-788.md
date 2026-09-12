@@ -117,7 +117,3 @@ Lu An, que estaba a punto de correr hacia la entrada de la cueva, se quedó all�
 Debes saber que incluso Wang Baishi solo pudo hacer que Zhang Yanmo retrocediera dos pasos, ¡pero en ese momento Chen Mo hizo volar a Zhang Yanmo con un solo golpe!
 
 Shu Ziyu se quedó aturdida con un par de hermosos ojos mirando a Chen Mo, ¡sintió que todo lo que vio en este momento fue como un sueño!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

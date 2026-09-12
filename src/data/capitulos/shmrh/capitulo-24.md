@@ -123,7 +123,3 @@ Li Kai se giró para mirar la posición de Chen Mo mientras hablaba.
 Todos quedaron atónitos cuando escucharon las palabras de Li Kai.
 
 Si fue la pequeña belleza quien dijo que Chen Mo no tenía dinero para venir a un lugar así, todos podrían tener algunas dudas en sus corazones, pero en este momento, ambos lo dijeron, entonces todos sintieron que la pequeña belleza seguía siendo muy importante, creíble.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

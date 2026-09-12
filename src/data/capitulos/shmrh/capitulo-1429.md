@@ -99,7 +99,3 @@ Es solo que Chen Mo realmente no podía tomar medidas contra Su Muyu.
 En este momento, Chen Mo, que iba a evitar a Su Muyu, de repente vio que Su Muyu tropezó accidentalmente con la pata de la silla, y toda la persona corrió hacia Chen. La posición de Mo y se estrelló.
 
 Tang Qingqing también mostró una expresión de sorpresa después de ver a Mu, porque en este momento todavía estaba muy lejos de Su Muyu, incluso si quería acercarse para apoyar a Su Muyu en este momento, probablemente era demasiado tarde.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

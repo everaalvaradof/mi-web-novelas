@@ -109,7 +109,3 @@ La concubina Qi Ye inconscientemente giró la cabeza y miró a Chen Mo, el verda
 Pero cuando la concubina Qi Ye vio a Chen Mo, se quedó sin palabras al instante, porque ya en ese momento, la concubina Qi Ye se sorprendió al descubrir que Chen Mo todavía estaba jugando con su teléfono móvil, como si lo que Sólo dijo que era una oración Ninguno de los dos escuchó.
 
 ¡La concubina Qi Ye se preguntó por qué el corazón de Chen Mo era tan grande!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

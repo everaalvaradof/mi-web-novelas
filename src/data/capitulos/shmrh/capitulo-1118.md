@@ -101,7 +101,3 @@ Por un momento, todos los presentes quedaron atónitos, y todos pudieron ver que
 El anciano Wang miró la posición de Chen Mo con los ojos muy abiertos. La expresión de su rostro no era más que conmoción.
 
 Wen Wangchuan también abrió mucho los ojos en este momento. Nadie esperaba que tal situación fuera el caso. Chen Mo, que ya había caído en la posición de desventaja, cambió la situación en un instante. Los tres La situación de asediar a Chen Mo solo se convirtió en solo el Maestro Sun solo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

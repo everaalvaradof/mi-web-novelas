@@ -113,7 +113,3 @@ Li Zixi se llenó de alegría cuando escuchó las palabras de Wei Ge, porque los
 Chen Mo miró al hermano Wei a la ligera y luego dijo con calma: “Ya he dicho que cinco mil dólares no es mucho, y si esta persona se arrodilla y me lo da, me disculpo, no lo haré”. ¡Continúe con este asunto!”
 
 Después de escuchar las palabras de Chen Mo, todos quedaron atónitos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

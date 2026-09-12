@@ -111,7 +111,3 @@ Tal vez fue porque Chen Mo pesaba más, por lo que la glamorosa mujer cayó al s
 Después de que la glamorosa belleza cayera, instintivamente dejó escapar un grito coqueto.
 
 En este momento, la cabeza de Chen Mo estaba presionando el pecho de la belleza de Leng Yan, la belleza de Leng Yan incluso podía sentir el aliento de Chen Mo, este extraño sentimiento hizo que la expresión en el rostro de la belleza de Leng Yan fuera inusualmente avergonzada y enojada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

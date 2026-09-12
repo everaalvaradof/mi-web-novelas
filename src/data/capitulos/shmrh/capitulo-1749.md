@@ -197,7 +197,3 @@ Zhang Zicheng rápidamente movió su cuerpo hacia atrás y luego tartamudeó: �
 “No quiero matarte hoy. ¿crees que la familia Zhang me dejará ir?”
 
 Chen Mo respondió a Zhang Zicheng con una expresión en blanco.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

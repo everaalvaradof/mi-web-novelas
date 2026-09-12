@@ -93,7 +93,3 @@ Pero Chen Mo acababa de entrar a la oficina de ventas cuando escuchó un duro in
 Chen Mo miró inconscientemente dentro de la oficina de ventas y encontró a una niña que la estaba regañando con la cabeza gacha, con una expresión muy agraviada en su rostro.
 
 Después de ver a esta niña, los ojos de Chen Mo brillaron con un poco de extrañeza y susurró suavemente: “¿Por qué está ella aquí?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

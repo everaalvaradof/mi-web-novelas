@@ -129,7 +129,3 @@ Después de ver esta escena, Chen Mo gritó apresuradamente.
 Después de que se gritaran las palabras de Chen Mo, todos los presentes quedaron atónitos por un momento y luego se giraron para mirar la posición de Chen Mo.
 
 ¡Nadie pensó que alguien se atrevería a hablar en este momento!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -109,7 +109,3 @@ Obviamente, en este momento, el Maestro Sun todavía espera poder entrenar exclu
 “¡No necesito cooperar contigo para salir de aquí!”
 
 Chen Mo le dijo al Maestro Sun sin expresión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

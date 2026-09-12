@@ -97,7 +97,3 @@ Su Mubai dudó un momento, luego se dio la vuelta y quiso irse.
 Su Muyu vio a Su Mubai y Tang Qingqing pensando en Vete, le gritó a Chen Mo con grandes ojos llorosos, luego se dio la vuelta y caminó hacia la puerta de la casa club.
 
 Pero cuando Su Mubai, Su Muyu y otros caminaron unos pasos, de repente se dieron cuenta de que Chen Mo no tenía la intención de irse. En cambio, se quedaron allí y miraron a los que se reían de ellos con calma.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

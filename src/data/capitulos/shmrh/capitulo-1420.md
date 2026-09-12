@@ -135,7 +135,3 @@ Chen Mo preguntó mientras estaba en cuclillas en el suelo mientras se burlaba d
 “El último movimiento de ese conjunto de boxeo requiere que lo comprendas tú mismo en el combate real. Incluso si te señalara ahora, no serías capaz de dominar bien ese movimiento, y la aptitud de cada uno es diferente, para que puedas comprenderlo. El último estilo también es muy diferente”.
 
 Li Tianbai miró a Chen Mo y dijo a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -111,7 +111,3 @@ Después de escuchar las palabras de Wang Tianshi, Luo Qiu mostró una pizca de 
 Wang Tianshi miró a Luo Qiu y se burló.
 
 “Joven maestro Wang, ¿no puede simplemente hacer un registro corporal?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

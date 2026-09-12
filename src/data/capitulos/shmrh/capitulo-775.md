@@ -107,7 +107,3 @@ Por otro lado, Shu Ziyu vio que Chen Mo había estado comiendo con la cabeza gac
 En este momento, todavía había una sonrisa en el rostro de Shu Ziyu.
 
 Después de ver esta escena, todos quedaron atónitos, como si no entendieran lo que quería hacer Shu Ziyu.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

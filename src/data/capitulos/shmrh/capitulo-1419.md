@@ -127,7 +127,3 @@ Chen Mo se quedó indefenso y miró la espalda de Su Muyu. En este momento, su e
 “Primo, ¿dónde estás? Primo, ¿qué estás haciendo?”
 
 Su Muyu gritó suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

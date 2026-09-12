@@ -93,7 +93,3 @@ Una de las hermosas chicas con un vestido blanco saludó a la audiencia con una 
 Después de que comenzó la fiesta de orientación, los estudiantes de primer año comenzaron a actuar en el escenario uno tras otro, pero las personas presentes no esperaban la actuación de estas personas, sino que todos esperaban la aparición de Bai Zhibing. Después de todo, Bai Zhi Ice sigue siendo muy popular en la Universidad de Nanyang.
 
 En un abrir y cerrar de ojos, pasó más de una hora y un presentador subió al escenario, luego tomó el micrófono y dijo con una sonrisa: “¿Han estado esperando durante mucho tiempo? Lo sé. que todos Estamos esperando el debut de nuestra belleza de primer año Bai Zhibing, entonces no diremos tonterías, ¡hemos invitado a nuestra estudiante de primer año Bai Zhibing del Departamento de Finanzas para traerles el baile del lago de los cisnes!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

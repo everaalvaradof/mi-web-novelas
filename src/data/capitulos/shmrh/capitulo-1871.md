@@ -189,7 +189,3 @@ Cuando la caja de brocado explotó, la formación de cinco heridos también desa
 El líder también mostró una expresión muy aterradora, porque esta formación fue apoyada por el poder del alma del líder. En este momento, Chen Mo destruyó directamente la formación, y el alma del líder naturalmente se vería afectada.
 
 Después de que Chen Mo destruyera la formación de cinco lesionados, corrió directamente a la posición del líder.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

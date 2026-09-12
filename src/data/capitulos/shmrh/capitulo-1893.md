@@ -161,7 +161,3 @@ Xu Chengping no pudo evitar quedarse atónito cuando escuchó las palabras de Wa
 “¡Ouyang Fan ha vuelto!”
 
 Wang Yun respondió rápidamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

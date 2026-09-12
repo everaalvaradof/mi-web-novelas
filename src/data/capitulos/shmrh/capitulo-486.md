@@ -113,7 +113,3 @@ Obviamente, Du Tianhao al otro lado del teléfono debería haberle dicho algo a 
 Mientras Chen Mo estaba sentado en el sofá, incluso comió la fruta solo, con una expresión inusualmente tranquila en su rostro.
 
 Esta escena es realmente extraña a los ojos de todos. ¡Es lógico pensar que la persona que está nerviosa ahora debería ser Chen Mo!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

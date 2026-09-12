@@ -97,7 +97,3 @@ Chen Mo miró a Chen Lixin y no habló, y esperó en silencio a que Chen Lixin c
 Chen Lixin hizo una pausa y luego continuó: “Tu padre es la persona a cargo del Yinshang en la ciudad de Zhonghai, ¡pero el Yinshang tiene la regla de que todas las personas responsables deben ocultar sus identidades y no pueden dejar que la gente común sepa la existencia del Yinshang!”
 
 Chen Mo escuchó a Chen Lixin esta oración todavía está muy tranquilo. Después de todo, él ya sabe que su padre es un comerciante de plata, por lo que no se sorprende. Lo que le interesa es lo que sucede a continuación.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -119,7 +119,3 @@ Después de que Ye Xueqi salió corriendo de la villa con un montón de dinero e
 “¿Por qué todavía te has ido?”
 
 Ye Xueqi se quedó estupefacta, una pizca de impotencia brilló en sus hermosos ojos, y murmuró en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

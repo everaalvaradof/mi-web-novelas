@@ -115,7 +115,3 @@ Chen Mo estaba preocupado por las preocupaciones de Liu Xuanxuan, por lo que tom
 Liu Xuanxuan asintió de nuevo.
 
 “Los cuatro aún no tienen un lugar para vivir. Puedes arreglar un lugar para los cuatro. Si los cuatro quieren vivir juntos, ¡simplemente busca una villa!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

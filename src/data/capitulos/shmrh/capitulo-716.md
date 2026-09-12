@@ -89,7 +89,3 @@ Wang Tianshi ya había oído hablar de Chen Gongzi durante mucho tiempo, ¡pero 
 Al principio, Wang Tianshi pensó que Chen Mo era solo un niño pobre con buenas habilidades. Tenía un arma en la mano, por lo que no le tenía miedo a Chen Mo, pero no esperaba que la situación hubiera cambiado. al revés en este momento, y Chen Mo había cambiado. ¡Conviértete en Chen Gongzi de la ciudad de Nanyang!
 
 ¡Él no podía aceptar este hecho en absoluto!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

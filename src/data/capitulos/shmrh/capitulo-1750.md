@@ -151,7 +151,3 @@ Casi todos los miembros mayores de la familia Zhang se reunieron en el pasillo y
 Estos pocos días han sido un acontecimiento lleno de acontecimientos para su familia Zhang. Primero, entraron en la habitación secreta de la familia Zhang y luego secuestraron a Zhang Ziqing. Zhang Ziqing acababa de regresar y Zhang Zicheng fue interrumpido nuevamente. Piernas pies.
 
 La familia Zhang siempre ha sido una de las familias más grandes de la capital durante tantos años. Hay muy pocas personas que realmente ofenden a su familia Zhang. Incluso si se atreven a ofender a su familia Zhang, no lo hacen. t atreverse ¡Las cosas han ido demasiado lejos!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

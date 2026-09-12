@@ -115,7 +115,3 @@ Chen Mo asintió levemente, luego miró a Qin Yibing de arriba abajo y dijo con 
 Qin Yibing asintió levemente.
 
 Chen Mo asintió rápidamente después de escuchar la respuesta de Qin Yibing, y luego continuó: “Hermana Bingbing, ¿qué piensa de mí?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

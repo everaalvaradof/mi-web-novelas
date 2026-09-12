@@ -113,7 +113,3 @@ An Yan supo desde muy joven que ella era solo un peón en las manos de An Zhenbe
 An Yan entiende que incluso si no está de acuerdo ahora, el resultado final será el mismo, por lo que es mejor estar feliz de estar de acuerdo.
 
 En este momento, An Xiaowu no parecía haber reaccionado a lo que acaba de decir An Zhenbei, y la expresión de su rostro era muy confusa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

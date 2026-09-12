@@ -105,7 +105,3 @@ Su Hongxiao le preguntó apresuradamente a su guardaespaldas después de entrar 
 “Todavía no, hemos buscado en la estación, el aeropuerto y el hotel, pero no hemos encontrado al Sr. Chen”, respondió el guardaespaldas en voz baja.
 
 Después de que Su Hongxiao escuchó las palabras del guardaespaldas, gritó con una expresión muy enojada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

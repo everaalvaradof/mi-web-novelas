@@ -211,7 +211,3 @@ Chen Mo apretó los dientes y respondió.
 “Entonces, si yo fuera tu mujer, ¿no deberías hacerme algo?”
 
 Ye Xian’er le preguntó a Chen Mo con timidez.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

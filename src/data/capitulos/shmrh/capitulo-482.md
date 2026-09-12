@@ -95,7 +95,3 @@ Zhao Hang también estaba un poco estupefacto en este momento y miró a Du Yunfe
 “Maestro Sun, ¿qué va a hacer con esto hoy?”
 
 En este momento, Du Yunfei se giró para mirar al Maestro Sun detrás de él y preguntó con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

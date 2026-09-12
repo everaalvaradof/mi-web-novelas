@@ -113,7 +113,3 @@ Unos segundos después, Chen Mo y Tang Qingqing subieron a un taxi.
 Chen Mo dijo suavemente al taxista.
 
 El taxista respondió con una sonrisa, luego encendió el auto directamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

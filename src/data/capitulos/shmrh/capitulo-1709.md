@@ -169,7 +169,3 @@ La razón es muy simple. La familia Liu es solo un perro al lado de la familia X
 Así que Chen Mo sintió que sería mejor dejar que la familia Liu fuera su respuesta interna, para que Chen Mo fuera más conveniente cuando tratara con la familia Xia en el futuro.
 
 Cuando Liu Chengping escuchó las palabras de Chen Mo, una mirada extraña brilló en sus ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

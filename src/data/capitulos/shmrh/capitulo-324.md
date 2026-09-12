@@ -117,7 +117,3 @@ Mientras que Wang Zijing, Qi Lixiao, Zhang Guangyao y otros quedaron estupefacto
 ¡Wang Zijing sintió que sus piernas se debilitaban y casi se desmaya!
 
 ¡Quién hubiera pensado que Chen Mo podría llamar a un hombre tan grande para que lo ayudara!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -93,7 +93,3 @@ Chen Mo volvió la cabeza para mirar a Lei Zhenyuan y preguntó en voz baja: “
 De hecho, Chen Mo siempre ha sentido curiosidad por esto. Después de todo, Lei Zhenyuan no fue quien llamó desde Li Juncheng y Du Tianhao, y el propio Chen Mo nunca había estado en contacto con personas en la región militar, entonces, ¿por qué Lei Zhenyuan, el digno comandante en jefe, vino a ayudarlo en persona?
 
 ¡Chen Mo no podía entender quién tenía una cara tan grande para ordenar a un comandante de una región militar!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

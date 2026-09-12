@@ -125,7 +125,3 @@ Pero en ese momento, Chen Mo no parecía abandonar su ataque a Guan Yifan.
 En este momento, Chen Mo rugió de nuevo y luego golpeó repentinamente.
 
 Obviamente, el golpe de Chen Mo fue más feroz que antes, y la velocidad fue aún más sorprendente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

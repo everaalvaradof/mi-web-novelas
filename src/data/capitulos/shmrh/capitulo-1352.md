@@ -121,7 +121,3 @@ Esta vez, la familia Jiang y Feng Xing cooperaron para comprar el Club Yulong. F
 Jiang Qiwei tiene muy claro en su corazón que la apariencia de Feng Hao es la misma que la de Feng Xing, por lo que su actitud hacia Feng Hao es naturalmente muy respetuosa.
 
 De lo contrario, Jiang Qiwei y Feng Hao tienen aproximadamente la misma edad, Jiang Qiwei definitivamente no sería tan humilde.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

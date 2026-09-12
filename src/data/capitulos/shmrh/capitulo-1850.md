@@ -195,7 +195,3 @@ Y Chen Mo estaba sentado solo en el sofá y comenzó a practicar.
 La batalla con Beimingzong y otros trajo una carga mucho mayor para el cuerpo de Chen Mo que la batalla con Feng Jiuyang, así que aunque Chen Mo se ha despertado ahora, el aura en su cuerpo todavía es muy inestable.
 
 Chen Mo sabía que tenía que enfrentarse a muchos oponentes poderosos cuando llegó a la ciudad de Yangjing esta vez, por lo que tuvo que restaurar su cuerpo a su estado máximo lo antes posible.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

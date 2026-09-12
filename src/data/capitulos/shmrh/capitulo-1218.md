@@ -107,7 +107,3 @@ Yan Miró a Chen Mo y continuó.
 Chen Mo se quedó estupefacto después de escuchar esto, y la expresión en su cara Muy increíble.
 
 “Sí, esto es todo lo que he investigado”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

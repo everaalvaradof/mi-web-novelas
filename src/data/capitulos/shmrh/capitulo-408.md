@@ -101,7 +101,3 @@ Su Mubai entrecerró sus hermosos ojos, labios rosados ​​Cansado, dijo de un
 “¡Su prometido tiene dinero que no puedes ganar en diez vidas, así que te aconsejo que te vayas ahora y no te burles de ti aquí!”
 
 Gritó Tang Qing Qing al joven en un tono desdeñoso.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

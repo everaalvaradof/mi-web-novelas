@@ -123,7 +123,3 @@ La cabeza de Qi Wei se inclinó y se desmayó.
 “Maestro Chen, ¿qué debemos hacer ahora?”
 
 Tian Haixi se adelantó y le preguntó nerviosamente a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

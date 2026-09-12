@@ -133,7 +133,3 @@ Liu Rui dijo con una sonrisa.
 Chen Mo miró el rostro de Liu Rui con una expresión inusualmente muda, pero también sabía que Liu Rui también era amable ahora, así que después de pensarlo, asintió con la cabeza impotente y dijo: “Está bien, lo haré”. hablar contigo pasado mañana. ¡Ven!”
 
 Liu Rui respondió feliz después de ver que Chen Mo estaba de acuerdo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

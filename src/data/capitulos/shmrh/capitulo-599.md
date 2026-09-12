@@ -75,7 +75,3 @@ Li Baiqiang r谩pidamente agit贸 su mano hacia Li Zixi y dijo con una sonrisa: 鈥
 Li Zixi se sinti贸 aliviado despu茅s de escuchar las palabras de Li Baiqiang.
 
 Li Baiqiang mir贸 a Chen Mo a la ligera, luego, sin dudarlo, sac贸 su tel茅fono m贸vil e hizo una llamada.
-
-El autor: Dreaming of Innocence
-
-Traducci贸n: Artificial_Intelligence

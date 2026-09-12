@@ -277,7 +277,3 @@ Después de que Chen Mo y Chang Xiangdao pelearon docenas de veces seguidas, Cha
 Además, Yueguang Shiwu y Yun Xiuping también acosaban constantemente a Chen Mo. Chen Mo también necesitaba dedicar parte de su energía a tratar con estas dos personas.
 
 Pero esta situación no pareció durar mucho.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

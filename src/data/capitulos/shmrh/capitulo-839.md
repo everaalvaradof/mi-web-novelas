@@ -107,7 +107,3 @@ Cuando Qi Ya escuchó las palabras de Lin Fei, levantó lentamente la cabeza y m
 Ning Tao respondió a la ligera, y luego pareció que no. No quería seguir hablando de este tema, así que le dijo suavemente a Chen Mo: “Chen Mo, acompáñame al baño”
 
 Chen Mo asintió levemente, luego se levantó Siga a Ning Tao hasta el exterior de la caja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

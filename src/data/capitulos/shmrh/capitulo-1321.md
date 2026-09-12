@@ -127,7 +127,3 @@ Qiao Ying señaló a Chen Mo con una expresión seria dijo.
 Chen Mo se quedó atónito cuando escuchó esto, y había una pizca de confusión en sus ojos.
 
 “¿Golpear a alguien por ti?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

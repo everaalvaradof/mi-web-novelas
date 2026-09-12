@@ -105,7 +105,3 @@ palabras, los ojos de la otra parte brillaron con confusión.
 El chico no estaba de humor para seguir hablando, diciendo Después de terminar esta oración, colgó el teléfono directamente, luego volvió a poner el teléfono móvil de Chen Mo en la ropa de Chen Mo, se dio la vuelta y se fue con su amigo.
 
 Chen Mo vio lo que sucedió hace un momento. De hecho, planeó agradecer a estas personas, pero desafortunadamente Chen Mo no podía hablar en absoluto en este momento, por lo que solo pudo ver a estos jóvenes irse.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

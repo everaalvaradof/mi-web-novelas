@@ -105,7 +105,3 @@ Si no fuera por la existencia de este anciano, se estima que la familia Fan actu
 Sentados junto a Fan Yuanze están los jóvenes más famosos de la familia Fan. Estos jóvenes ahora están dispersos por todo el mundo, y todos han logrado mucho. Incluso Fan Meihua es inferior a estas personas. punto.
 
 Mañana es el cumpleaños número 83 de Fan Yuanze. En este momento, muchos invitados han venido a la mansión de la familia Fan.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

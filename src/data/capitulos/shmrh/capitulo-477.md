@@ -113,7 +113,3 @@ La chica también pareció notar que Chen Mo se estaba mirando a sí misma, pero
 La mujer no mostró ningún disgusto en absoluto, sino que tomó la iniciativa de decirle a Chen Mo: “¡Hola, mi nombre es Bai Zhibing!”
 
 Chen Mo se quedó atónito por un momento y luego rápidamente respondió en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

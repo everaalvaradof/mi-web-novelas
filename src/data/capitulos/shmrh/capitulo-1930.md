@@ -175,7 +175,3 @@ El capitán de los guardaespaldas siguió gritando después de ver que ninguno d
 “Así es, si tuviera miedo a la muerte, ganaría Ya no seas un mercenario, ¿puedes criar cerdos en casa?”
 
 Las emociones de todos parecían despertarse, y gritaron a todo pulmón.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

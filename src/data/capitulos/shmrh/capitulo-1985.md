@@ -249,7 +249,3 @@ Bev estaba hablando Al mismo tiempo, descubrió algunos videos de su teléfono m
 Después de ver el poder de estas armas, Deren se sorprendió aún más. Originalmente, Deren no se tomaba demasiado en serio el poder militar del país M, porque sentía que, en comparación con los guerreros, los tanques con rifles o algo así, no no cuenta en absoluto.
 
 Pero hoy ha abierto los ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

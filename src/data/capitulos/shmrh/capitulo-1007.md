@@ -133,7 +133,3 @@ Chen Mo Al ver que la reacción de Tang Qingqing fue tranquila, me sentí alivia
 Tang Qingqing miró a Chen Mo y dijo.
 
 Chen Mo preguntó confundido.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -279,7 +279,3 @@ Pero lo que Alexander no esperaba era que después de que Chen Mo fuera golpeado
 Alexander no pudo evitar exclamar e inmediatamente corrió hacia Chen Mo para detenerlo.
 
 Chen Mo golpeó el pecho de Alexander directamente con el puño.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

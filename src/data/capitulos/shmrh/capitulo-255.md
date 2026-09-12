@@ -117,7 +117,3 @@ Bai Xue miró la posición de Chen Mo y gritó en un tono desdeñoso uno sonido.
 “Esposo, debes darme una lección sobre Chen Mo hoy. ¡No creo que se atreva a ser arrogante!”, Zhao Xiaoyou giró la cabeza y le gritó a Sun Yang.
 
 Sun Yang asintió levemente, luego se acercó a su guqin y se sentó lentamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

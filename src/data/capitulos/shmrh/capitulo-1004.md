@@ -121,7 +121,3 @@ Tang Qingqing dudó un momento y luego siguió a Chen Mo fuera de la oficina de 
 “Joven maestro Chen, vea si no le mentí, el Sr. Su se fue de viaje de negocios y realmente no está en la empresa. Si él estuviera allí, definitivamente le dejaría ver”
 
 Du Kailin saludó rápidamente a Chen Mo después de ver salir a Chen Mo y le dijo a Chen Mo con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

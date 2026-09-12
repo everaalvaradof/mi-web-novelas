@@ -69,7 +69,3 @@ En realidad, Zhao Ziyi también tiene sus propios planes en su corazón. No tien
 Pero estaba preocupado de que Chen Mo fuera el novio de Li Zixi. Si se ocupaba de Chen Mo, la familia Li podría intervenir en este asunto, por lo que hablaría así, con un solo propósito, que es encontrar una excusa razonable para tratar con Chen Mo.
 
 En este momento, es posible que Zhao Ziyi no se haya dado cuenta de lo que estaba pasando. También consideraba a Chen Mo como una segunda generación rica ordinaria. Sintió que aunque no podía tratar con la familia Li, todavía era muy difícil de tratar con un Chen Mo. Cosas simples.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

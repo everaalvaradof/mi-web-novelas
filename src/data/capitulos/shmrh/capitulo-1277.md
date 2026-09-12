@@ -111,7 +111,3 @@ En este momento, los ojos de Li Guangru en Chen Mo también cambiaron.
 Antes, despreciaba mucho a Chen Mo. Sentía que Chen Mo no tenía grandes habilidades. Si quería limpiar a Chen Mo, era solo una cuestión de palabras.
 
 Pero en ese momento se dio cuenta de que Chen Mo no es tan simple como imaginaba, y ahora Chen Mo solo tiene veinte años. Si le da a Chen Mo algunas décadas más, entonces lo que Chen Mo tiene es la energía. definitivamente superará al de su familia Li. En ese momento, Chen Mo puede tomar represalias locas contra la familia Li, por lo que ahora Li Guangru ha decidido matar a Chen Mo en la cuna sin importar nada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

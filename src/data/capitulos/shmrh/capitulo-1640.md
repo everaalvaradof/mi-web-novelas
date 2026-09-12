@@ -139,7 +139,3 @@ Zhang Ziqing también es artista marcial. Naturalmente, sabe que lo que Chen Mo 
 Pero antes de que pudiera escupir la pastilla, un dolor agudo recorrió su cuerpo.
 
 Zhang Ziqing gritó mientras sostenía su cabeza, la expresión de su rostro era extremadamente dolorosa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

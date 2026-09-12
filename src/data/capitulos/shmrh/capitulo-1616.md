@@ -147,7 +147,3 @@ En este momento, Chu Lan miró a Chen Mo como si quisiera matar a Chen Mo.
 Un rastro de duda brilló en los ojos de Chen Mo.
 
 Originalmente, Chen Mo pensó que Chu Lan estaría muy emocionada y feliz cuando viera el perfume de edición limitada que preparó, pero Chen Mo pudo sentir que Chu Lan no estaba muy feliz en este momento, pero parecía un poco enojado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

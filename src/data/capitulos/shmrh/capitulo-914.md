@@ -105,7 +105,3 @@ Los jóvenes alrededor de Ren Bo también preguntaron.
 “Debería serlo, le pedí a mi papá que contactara a algunos de sus amigos, algunos de los cuales ni siquiera conozco.”
 
 Después de dudar por un momento, Ren Bo se acercó directamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

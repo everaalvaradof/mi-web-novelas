@@ -113,7 +113,3 @@ En un instante, la velocidad del emperador ha alcanzado un número muy aterrador
 Y la mujer del copiloto vio la expresión en el rostro de Wang Zifei, se sorprendió un poco, porque era la primera vez que Capítulo veía a Wang Zifei tan serio.
 
 Hay dos caminos frente a él, y después de cruzar estos dos caminos, se convertirá en un solo camino, así que mientras Wang Zifei cruce este camino primero, seguirá tomando la delantera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

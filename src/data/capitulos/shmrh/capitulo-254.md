@@ -129,7 +129,3 @@ Después de escuchar las palabras de Su Hongfei, todos comenzaron a reír y habl
 Su Hongfei caminó frente a Chen Mo con un tono muy desdeñoso, le gritó a Chen Mo.
 
 Y Chen Mo miró a Su Hongfei a la ligera y luego dijo sin comprender: “¿Quién te dijo que no puedes tocar el piano si recoges basura?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

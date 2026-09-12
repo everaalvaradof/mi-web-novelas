@@ -123,7 +123,3 @@ Zhang Yan le preguntó a Xue Biao sin expresión.
 “¿Qué quiero decir con que no sabes en tu corazón?”
 
 Xue Biao respondió a la ligera, luego miró a An Xiaowu y dijo sin expresión: “Zhang Zhang El Señor me preguntó para venir y llevarte a esta mujer, mejor no sabes qué hacer y te lo diré!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

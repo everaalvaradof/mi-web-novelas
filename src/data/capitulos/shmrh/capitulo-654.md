@@ -119,7 +119,3 @@ Chen Mo miró a Zhou Yue y sonrió levemente.
 “Simplemente siento que eres una buena persona. Escuché de mis hermanas que a esos jefes les gusta ser prácticos y no nos tratan como humanos en absoluto, ¡pero tú no lo haces!”
 
 Zhou Yue respondió rápidamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

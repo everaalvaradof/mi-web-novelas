@@ -115,7 +115,3 @@ Todos hablaban en voz baja mientras observaban la emoción.
 “Alguien está causando problemas en tu lugar, ¿no piensas solucionarlo?”
 
 Qiao Ying volvió la cabeza para mirar a Chen Mo y le preguntó suavemente a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

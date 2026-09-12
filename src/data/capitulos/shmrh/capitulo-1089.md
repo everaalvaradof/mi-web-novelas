@@ -101,7 +101,3 @@ Chen Mo dijo suavemente.
 Un rastro de codicia brilló en los ojos del hombre de mediana edad que miraba a Chen Mo, pero rápidamente lo ocultó y luego tomó la iniciativa de dar a Chen Mo abrió el camino.
 
 Solo en ese momento Chen Mo se dio cuenta de que la píldora medicinal que le dio Li Taibai era tan preciosa que podía hacer que un artista marcial lo obedeciera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

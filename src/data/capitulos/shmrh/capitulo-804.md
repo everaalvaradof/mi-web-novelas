@@ -109,7 +109,3 @@ Chen Mo casi había comido, y luego inconscientemente miró su teléfono celular
 “¿Vas al baño por tanto tiempo?”
 
 Chen Mo frunció el ceño y suspiró suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

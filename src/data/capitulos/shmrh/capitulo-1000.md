@@ -89,7 +89,3 @@ Chen Mo no pudo evitar girar la cabeza y miró al joven junto a Tao Yiran, en se
 Como era de esperar, el joven finalmente no pudo evitarlo, frunció el ceño y le gritó a Tao Yiran.
 
 Chen Mo se quedó sin palabras después de ver esta escena. No pudo evitar suspirar que no volvería a actuar como un escudo para los demás, ¿verdad?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -135,7 +135,3 @@ Una pizca de impotencia brilló en los ojos de Chen Mo, y luego volvió a llamar
 Chen Mo todavía está muy preocupada por Yan She. Aunque Yan She es una mujer muy aterradora, eso no significa que Yan She sea realmente invencible en el mundo. Una vez que Yan She se encuentra con alguien más poderoso que su gente, entonces la situación de Yan She sigue siendo muy peligrosa.
 
 Entonces, en este momento, la expresión en el rostro de Chen Mo comenzó a volverse solemne. Al saber que el incidente de Luo Qiu acaba de pasar, Chen Mo está muy preocupado por los peligros que enfrentan las personas a su alrededor.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

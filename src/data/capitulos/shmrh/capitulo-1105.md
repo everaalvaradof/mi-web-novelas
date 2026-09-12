@@ -105,7 +105,3 @@ Wen Ruoxi bajó la cabeza y parecía impotente., Dijo Chen Mo.
 Y Chen Mo miró a Wen Ruoxi frente a él. En ese momento, finalmente entendió por qué Wen Ruoxi quería ayudarlo.
 
 De hecho, a veces el destino de Wen Ruoxi es muy lamentable. Aunque Wen Ruoxi nació en una familia envidiada por innumerables personas, su dolor no es algo que la gente común pueda imaginar.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

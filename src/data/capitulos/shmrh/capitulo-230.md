@@ -99,7 +99,3 @@ El mesero se apresuró a escuchar las palabras de Sun Kai, luego caminó rápida
 Sun Kai abrió el menú con manos temblorosas, pero cuando vio la lista de precios de las bebidas en el menú, se quedó atónito al instante, con una expresión de desesperación en su rostro, porque el vino tinto más barato en este restaurante también tuvo que ser comprado. ¡Cuesta 50,000 yuanes por botella, y esas dos botellas cuestan 100,000 yuanes!
 
 Chen Mo no pudo evitar sonreír cuando vio la expresión en el rostro de Sun Kai. Sabía que Sun Kai ahora estaba tratando de salvar la cara y sufrir, y pagaría el precio tarde o temprano si fingía!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

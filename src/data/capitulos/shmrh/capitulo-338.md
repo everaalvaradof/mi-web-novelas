@@ -111,7 +111,3 @@ En este momento, Una niña de la misma edad que Chen Mo salió corriendo de la m
 Después de escuchar esta voz, Chen Mo se sintió un poco familiar y no pudo evitar girar la cabeza y mirar.
 
 Después de que Chen Mo vio claramente la apariencia de la chica, murmuró en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -107,7 +107,3 @@ La digna belleza asintió suavemente.
 “¡No te preocupes, definitivamente no diré tal cosa!”
 
 La digna belleza sonrió levemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

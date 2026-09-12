@@ -111,7 +111,3 @@ Bai Lu se quedó estupefacta cuando vio el teléfono móvil de Chen Mo, y la exp
 Chen Mo le preguntó a Bai Lu con una sonrisa.
 
 En este momento, la cara de Bai Lu era muy fea y su cuerpo temblaba ligeramente, y le preguntó a Chen Mo en voz baja: “¿Quién eres? ¿De dónde sacaste estos videos? ¿De?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

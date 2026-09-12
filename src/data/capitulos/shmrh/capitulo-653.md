@@ -107,7 +107,3 @@ Chen Mo salió del hotel con Zhou Yue.
 Pero justo cuando Chen Mo salía del hotel, vio un gran grupo de personas corriendo hacia su lugar.
 
 Y Chen Mo se sorprendió al ver al hombre de mediana edad caminando al frente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

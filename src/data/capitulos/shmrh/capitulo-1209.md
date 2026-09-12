@@ -123,7 +123,3 @@ Qin Yibing dijo impotente.
 Chen Mo miró a Qin Yibing y dudó durante dos segundos, luego tomó el documento de licitación y escribió el número de 100,000 en el documento de licitación.
 
 Los ojos de Qin Yibing brillaron con una pizca de impotencia después de ver la figura de Chen Mo, porque ella solo escribía y jugaba casualmente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

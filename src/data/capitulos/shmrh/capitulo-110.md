@@ -125,7 +125,3 @@ El director de la Universidad de Nanyang pareció desconcertado por el comportam
 “¿Tengo que llamar a la puerta cuando entre en tu oficina?”
 
 Chen Mo entrecerró los ojos y respondió a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

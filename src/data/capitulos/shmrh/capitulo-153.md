@@ -201,7 +201,3 @@ Lin Qiushui miró la persona no muy lejos, Chen Mo, se mordió el labio y suspir
 Y Chen Mo estaba solo en este momento, como un cordero que estaba siendo sacrificado.
 
 La calma en los ojos de Chen Mo no es más que desesperación ante la muerte en los ojos de todos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

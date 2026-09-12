@@ -123,7 +123,3 @@ Es posible que Meng Liang y Liu Rui no sepan que la condición física de Chen M
 “Dado que Chen Mo participó solo en los cuatro proyectos, el proyecto se resolverá, hablemos sobre el próximo problema”
 
 En este momento, Zhao Anan habló a la multitud.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

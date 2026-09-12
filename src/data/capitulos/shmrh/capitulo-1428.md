@@ -117,7 +117,3 @@ Su Muyu se sorprendió cuando escuchó esto, y luego dijo con la boca pequeña: 
 Después de decir esto, Su Muyu tomó su violín, mientras que Chen Mo caminó hacia el piano.
 
 La atención de todos se centró en Chen Mo, porque no creían que Chen Mo realmente hubiera aprendido esta canción.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

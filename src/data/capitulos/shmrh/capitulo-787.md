@@ -117,7 +117,3 @@ Después de escuchar las palabras de Chen Mo, Zhang Yanmo giró lentamente la ca
 Chen Mo le susurró a Zhang Yanmo.
 
 Cuando Zhang Yanmo escuchó las palabras de Chen Mo, quedó atónito, luego levantó la cabeza y se rió, con una expresión muy desdeñosa en su rostro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

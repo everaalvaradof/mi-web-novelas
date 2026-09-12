@@ -95,7 +95,3 @@ Después de ver venir al guardia de seguridad, Chen Mo gritó mal en su corazón
 “¡Detente por mí, ninguno de los dos quiere correr hoy!”
 
 El guardia de seguridad escuchó las palabras de Chen Mo y rápidamente gritó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

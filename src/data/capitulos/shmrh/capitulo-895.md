@@ -113,7 +113,3 @@ Después de escuchar las palabras de Chen Mo, todos se giraron para mirar la pos
 “Chen Mo, ¿quieres ir solo?”
 
 Después de dudar un momento, Zhao Anan le preguntó suavemente a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

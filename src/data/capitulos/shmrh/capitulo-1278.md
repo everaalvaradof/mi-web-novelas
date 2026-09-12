@@ -107,7 +107,3 @@ Las personas presentes miraron al anciano vestido de blanco con expresión de pe
 Y Li Guangru caminó apresuradamente hacia el frente del anciano y dijo respetuosamente: “¡Anciano Wei, usted está aquí!” Li Guangru asintió levemente.
 
 Después de que todos escucharon este título, las expresiones en sus rostros parecían aún más perplejas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

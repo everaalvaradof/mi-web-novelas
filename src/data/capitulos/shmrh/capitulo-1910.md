@@ -157,7 +157,3 @@ Pero ya era demasiado tarde, Chen Mo ya había corrido frente a Zhang Wanghai, l
 El cuerpo de Zhang Wanghai salió volando en un instante.
 
 Y esta vez, Chen Mo no le dio ninguna oportunidad a Zhang Wanghai y fue tras él directamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -125,7 +125,3 @@ Pero antes de que Du Tianhao caminara al lado de Qi Lixiao, ¡una sirena penetra
 ¡La policía está aquí!
 
 Esta es la reacción del Capítulo en la cabeza de todos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

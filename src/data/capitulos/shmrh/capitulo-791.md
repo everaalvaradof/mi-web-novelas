@@ -117,7 +117,3 @@ La expresión en el rostro del hermano Zhang también estaba muy asustada en est
 Pero en este momento, Chen Mo gritó de repente.
 
 Zhang Liren se sorprendió cuando escuchó las palabras de Chen Mo, su expresión era muy impotente. Sabía que en este momento, Chen Mo definitivamente no haría nada bueno para que se quedara.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

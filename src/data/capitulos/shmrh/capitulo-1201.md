@@ -117,7 +117,3 @@ La mujer no pudo evitar burlarse cuando escuchó esto, y luego dijo a la ligera:
 “Él es el hijo de Chen Gongzi de la ciudad de Nanyang”. !”
 
 Jiang Feifei dijo de repente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

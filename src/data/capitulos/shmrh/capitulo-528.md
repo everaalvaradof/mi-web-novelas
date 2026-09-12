@@ -129,7 +129,3 @@ Gritó Vulture, luego rápidamente extendió la mano y sacó su pistola, y corri
 Hu Zi no pudo evitar suspirar, y luego lo persiguió rápidamente.
 
 Pero cuando las dos personas llegaron al frente de la barandilla, encontraron que Chen Mo y Luo Qiu se habían caído al río y no podían ver ni rastro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

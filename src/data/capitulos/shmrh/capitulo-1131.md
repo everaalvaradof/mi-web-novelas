@@ -105,7 +105,3 @@ Chen Mo miró a Zhou You con una leve sonrisa y luego dijo sin comprender: “¿
 “Ya tengo un conciencia, y no es como si hubieras mordido a Lu Dongbin”
 
 Zhou You miró a Chen Mo y gritó con insatisfacción.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

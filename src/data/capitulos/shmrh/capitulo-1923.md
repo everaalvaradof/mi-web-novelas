@@ -167,7 +167,3 @@ Dijo Shui Ziyou lentamente.
 “Hermana Ziyou, si este asunto fuera fácil, no estaría buscándote, ¿no crees?”
 
 dijo Chen Mo con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

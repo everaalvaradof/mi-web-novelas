@@ -127,7 +127,3 @@ Chen Mo explicó impotente.
 “¿Inyección? ¿Quítate los pantalones?”
 
 Qin Yibing no pudo evitar quedarse atónito después de escuchar lo que dijo Chen Mo, y luego lo pensó durante mucho tiempo antes de entender de qué se trataba. quiso decir, dijo con una expresión sin palabras: “Voy al hospital por infusiones ahora, ¿quién todavía necesita inyecciones?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

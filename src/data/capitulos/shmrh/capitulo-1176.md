@@ -117,7 +117,3 @@ Después de vacilar por un momento, Chen Mo siguió a Tao Yiran al auto, y pront
 Song Xinxin se giró para mirar a Ren Bin y le preguntó a Ren Bin con una expresión de sorpresa.
 
 Y después de escuchar las palabras de Song Xinxin, Ren Bin mostró una pizca de impotencia en sus ojos y dijo en voz baja: “No sé qué está pasando ahora”.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

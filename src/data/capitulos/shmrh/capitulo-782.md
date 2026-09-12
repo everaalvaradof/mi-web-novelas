@@ -107,7 +107,3 @@ La expresión del rostro de Wang Baishi en ese momento era muy tranquila.
 En ese momento, Wang Baishi gritó de repente.
 
 Después de escuchar las palabras de Wang Baishi, esos guardaespaldas detuvieron sus movimientos y se giraron para mirar la posición de Wang Baishi.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

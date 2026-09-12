@@ -121,7 +121,3 @@ Chen Mo volvió la cabeza para mirar a Su Mubai y le preguntó suavemente.
 “Ya que eres tu prometido, ¿cómo ha progresado nuestra relación?”
 
 Su Mubai le preguntó tímidamente a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

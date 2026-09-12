@@ -107,7 +107,3 @@ Después de todo, el hecho de que Chen Mo iba a robarle a Su Mubai a Li Haoran y
 A los ojos de esta gente, robar a Li Haoran por una mujer no es diferente de cortejar a la muerte.
 
 Pero cuando estas personas realmente vieron a Chen Mo, las expresiones en sus rostros obviamente estaban un poco decepcionadas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

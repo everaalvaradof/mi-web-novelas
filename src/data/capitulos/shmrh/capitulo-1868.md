@@ -201,7 +201,3 @@ Cuando enfrentó el asedio conjunto de los seis miembros de Beimingzong, su fuer
 Más tarde, Chen Mo devoró el alma remanente del líder. Su fuerza puede haber mejorado, pero aún no alcanzó el nivel de un maestro de artes marciales de tres estrellas.
 
 Por lo tanto, el reino de Chen Mo puede no ser muy diferente al del líder. Esta batalla también será un gran desafío para Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

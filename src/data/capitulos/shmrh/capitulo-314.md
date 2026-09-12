@@ -107,7 +107,3 @@ Su Mubai, Su Muyu, Tang Qingqing y otros miraron la posición de Chen Mo con exp
 “Chen Mo, no estoy de humor para perder el tiempo contigo aquí, y mi paciencia es limitada, así que te daré cinco minutos para que lo pienses. Si aún no has hecho una elección después de cinco minutos, ¡entonces no me culpes por ser grosero!”
 
 En este momento, Wang Zijing de repente le gritó a Chen Mo nuevamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

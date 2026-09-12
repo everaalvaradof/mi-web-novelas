@@ -121,7 +121,3 @@ Por supuesto, hay muchos estudiantes en la clase que regresaron con la mentalida
 “Hermano, has vuelto, ¿cómo te pones en contacto con el patrocinador?”
 
 Después de ver a Chen Mo, Meng Liang corrió al lado de Chen Mo y preguntó ansiosamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

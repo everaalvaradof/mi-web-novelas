@@ -127,7 +127,3 @@ Se sintió como si un relámpago corriera directamente a la posición de Shi Wul
 “¡Xuantian Zhenwuquan, sonido roto!”
 
 Chen Mo rugió enojado, lo siguió y corrió frente a Shi Wulong, luego levantó el puño y lo golpeó con fuerza en el pecho de Shi Wulong.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

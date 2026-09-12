@@ -99,7 +99,3 @@ Zhao Zijing respondió sin expresión.
 “¡Pero de repente me siento un poco insoportable por tratarlo así!”
 
 Zhao Zirou dijo a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

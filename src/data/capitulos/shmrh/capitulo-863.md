@@ -135,7 +135,3 @@ Es solo que Chen Mo ya ha visto estas cosas con claridad, pero Ning Tao no.
 Chen Mo no tuvo la intención de persuadir a la fuerza a Ning Tao para que rompiera con Qi Ya, porque sintió que era asunto de Ning Tao y Ning Tao debería tomar su propia decisión.
 
 Todo lo que Chen Mo puede hacer ahora es asegurarse de que Qi Ya no se atreva a lastimar a Ning Tao en el futuro. En cuanto a otras cosas, Chen Mo no puede controlarlo, ¡y él no puede controlarlo!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

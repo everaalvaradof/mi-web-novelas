@@ -99,7 +99,3 @@ En un instante, los accionistas presentes quedaron estupefactos, ¡y solo entonc
 ¡Gana este proyecto aunque pierdas dinero!
 
 ¡Estos accionistas no entienden por qué Chen Mo tomó esa decisión!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

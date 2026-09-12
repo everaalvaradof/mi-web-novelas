@@ -135,7 +135,3 @@ Qin Yibing colgó el teléfono después de decir esto.
 Chen Mo, que estaba afuera de la puerta, miró su teléfono móvil con una expresión muy impotente en su rostro. Dijo que Qin Yibing lo invitó a cenar, pero ahora incluso le pidió a Chen Mo que comprara verduras. que pasa ah
 
 Es solo que Chen Mo estaba obstruyendo el Club Tianyun y el casino que necesitaba la administración de Qin Yibing, por lo que no se atrevió a decir nada, solo podía ir obedientemente al mercado de verduras al lado de la comunidad para comprar. verduras.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -165,7 +165,3 @@ Originalmente, Xia Xingze planeó aprovechar esta oportunidad para expresarse, p
 “¿Estas personas están jodidamente locas? Traicionaron a nuestra familia Xia simplemente confiando en las pocas palabras de Chen Mo. ¡Realmente no se preocupan por mí, Xia Xingze! Si mi padre estuviera aquí, nunca lo harían”. atrévete a hacerlo!”
 
 Xia Xingze gritó con los dientes apretados.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

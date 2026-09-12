@@ -105,7 +105,3 @@ Después de que las personas detrás de Chen Mo vieron el golpe de Kong Ning, la
 Luo Qiu le gritó a Chen Mo con una expresión muy emocionada después de ver el golpe de Kong Ning.
 
 Después de escuchar las palabras de Luo Qiu, Chen Mo se dio la vuelta y le sonrió a Luo Qiu, y dijo suavemente: “No te preocupes, esta persona no puede lastimarme”.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

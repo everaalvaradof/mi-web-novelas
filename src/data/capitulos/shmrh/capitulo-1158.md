@@ -149,7 +149,3 @@ Y los ojos de Chen Mo brillaron con una pizca de impotencia después de escuchar
 Dijo Ren Bin emocionado.
 
 Chen Mo sabía que si no le explicaba las cosas claramente a Ren Bin, sería interminable, así que le explicó a Ren Bin el proceso de conocer a Tao Yiran. Vamos, no es tan importante después de todo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

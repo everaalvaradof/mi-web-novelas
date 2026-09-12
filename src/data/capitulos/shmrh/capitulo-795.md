@@ -101,7 +101,3 @@ Chen Mo sabe que Shu Ziyu es rico y no está mal, y quiere mucho este ginseng de
 “¿Es un billón demasiado?”
 
 Después de dudar un momento, Shu Ziyu le preguntó a Chen Mo en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

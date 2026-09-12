@@ -97,7 +97,3 @@ Pero en el momento en que Wen Ruoxi acababa de sacar su teléfono móvil, los oj
 La piedra golpeó el teléfono móvil de Wen Ruoxi con gran precisión, rompiendo directamente la pantalla del teléfono móvil.
 
 Wen Ruoxi miró el teléfono móvil que ya no podía usar en su mano, su rostro estaba extremadamente pálido, sus piernas temblaban constantemente, su corazón estaba extremadamente desesperado, en este momento Wen Ruoxi no podía pensar en cualquiera que pudiera salvarla.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

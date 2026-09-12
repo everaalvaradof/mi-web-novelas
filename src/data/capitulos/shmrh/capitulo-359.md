@@ -109,7 +109,3 @@ Todos se miraron, ¡pero ninguno de los abogados tomó la iniciativa de levantar
 “Jajaja, ¿sus abogados también piensan que Chen Mo no está calificado para heredar el patrimonio de mi tío ahora?”
 
 Después de que Wang Liang vio esta escena, no pudo evitarlo. Ríete. alto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

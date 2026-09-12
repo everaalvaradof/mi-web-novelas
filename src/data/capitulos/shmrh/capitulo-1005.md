@@ -125,7 +125,3 @@ Tang Qingqing se sintió aliviado y luego le preguntó a Chen Mo: “Chen Mo, ¿
 “No entiendo estos problemas ahora, pero creo que Mu Bai debe ser ¿Qué hay que esconder?”
 
 Tang Qingqing suspiró y no habló.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

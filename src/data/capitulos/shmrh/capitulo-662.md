@@ -99,7 +99,3 @@ El hombre negro y delgado que había estado apoyando todo el tiempo fue golpeado
 El cuerpo del hombre negro y delgado dio cinco o seis pasos hacia atrás seguidos, y luego brotó una bocanada de sangre.
 
 La gente presente vitoreó después de ver esta escena, porque sabían que la batalla había terminado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

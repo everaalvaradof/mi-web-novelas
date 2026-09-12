@@ -105,7 +105,3 @@ Pero Zhang Ziqing nunca imaginó que sería tal coincidencia que este hombre se 
 En ese momento, Zhang Xize ya había entrado en la habitación secreta y todavía trajo a sus confidentes.
 
 El hombre de mediana edad junto a Zhang Xize se llama Zhang Xichuan. Es el hermano menor de Zhang Xize. Está principalmente a cargo de algunos negocios turbios de la familia Zhang. En este momento, los dos están charlando.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

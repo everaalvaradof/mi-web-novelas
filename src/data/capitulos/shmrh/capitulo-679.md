@@ -127,7 +127,3 @@ Y esta belleza es la estrella femenina Liu Yingying que la hermana Zhang le dijo
 El debut de Liu Yingying fue más de un año antes que el de Luo Qiu. En el último año, ha recibido muchas jugadas importantes, y todas ellas son mujeres número 1. Debido a su cuerpo sexy y encantador apariencia, Liu Yingying tiene En solo un año de su debut, se ha convertido en la estrella femenina más popular del país.
 
 Cuando Luo Qiu vio a Liu Yingying, una mirada extraña brilló en sus ojos y la expresión de su rostro era muy complicada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

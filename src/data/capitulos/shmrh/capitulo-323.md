@@ -111,7 +111,3 @@ Pero en este momento, Li Juncheng de repente exclamó, y la expresión de su ros
 Du Tianhao miró la posición del hombre de mediana edad con una mirada de asombro y tartamudeó: “¿Por qué está esta persona aquí?”
 
 Después de que Chen Mo escuchara las palabras de estos dos gente, Justo cuando giraba la cabeza y estaba a punto de hablar, descubrió que el hombre de mediana edad había caminado frente a él.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

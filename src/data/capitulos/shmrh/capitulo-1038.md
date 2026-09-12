@@ -105,7 +105,3 @@ Su Mubai miró a Chen Mo con una pizca de vacilación en sus ojos. De hecho, tam
 “No soy un mentiroso y no tengo intenciones maliciosas, ¡incluso si me das media hora!”
 
 Chen Mo miró a Su Mubai y siguió gritando.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -111,7 +111,3 @@ Uno es el favor de Chen Mo y el otro son 20 millones. Su Hongxiao aún sabe cuá
 “¡Joven maestro Chen, debe aceptar este dinero!”
 
 Su Hongxiao le dijo a Chen Mo en un tono serio.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

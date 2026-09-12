@@ -107,7 +107,3 @@ En realidad, Xue Ru obviamente estaba creando oportunidades para Chen Mo y Jiang
 Aunque Chen Mo no significaba nada para Jiang Feifei, Xue Ru ya había tomado la iniciativa de llamar y, naturalmente, no se negaría, así que dijo con una sonrisa: “Está bien, tía Xue, yo ¡Voy a recoger a Feifei mañana!”
 
 Cuando Xue Ru vio que Chen Mo estaba de acuerdo, sonrió feliz.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

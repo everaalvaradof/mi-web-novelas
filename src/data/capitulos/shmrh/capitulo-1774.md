@@ -169,7 +169,3 @@ Una mirada extraña brilló en los ojos de Chen Mo.
 Wang Siyuan miró a Chen Mo y explicó.
 
 Chen Mo miró a Wang Siyuan y asintió, pero no habló.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

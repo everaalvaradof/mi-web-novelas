@@ -123,7 +123,3 @@ Zhao Yueyue estaba un poco estupefacto después de ver a Chen Mo.
 Aunque Chen Mo dijo que era el jefe de Lin Qingqian, Zhao Yueyue siempre pensó que era una broma de Chen Mo.
 
 ¡Pero en este momento, Zhao Yueyue sintió que Chen Mo no parecía estar bromeando consigo misma!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

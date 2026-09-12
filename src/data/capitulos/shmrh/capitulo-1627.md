@@ -143,7 +143,3 @@ Chu Lan se burló después de escuchar esto, y luego continuó preguntando: “�
 Chen Mo se quedó sin palabras cuando vio a Chu Lan y gritó en voz alta: “¿Quién crees que soy? ¿Cómo podría pensar en estas cosas en ese momento?”
 
 Chu Lan gentilmente, los ojos de Chen Mo se quedaron en blanco y Chen Mo no siguió preguntando.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

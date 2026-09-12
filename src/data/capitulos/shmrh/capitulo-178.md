@@ -119,7 +119,3 @@ Cuando Gao Feifei vio que Chen Mo se iba, naturalmente no se quedó con Chen Mo.
 Y uno de ellos es la chica coqueta que tuvo un conflicto con Chen Mo antes.
 
 Hay cuatro o cinco jóvenes detrás de la chica coqueta. El joven que camina al frente tiene un peinado de cresta de gallo muy singular, y su ropa también es inusual.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

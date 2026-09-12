@@ -117,7 +117,3 @@ Los estudiantes de la escuela eran naturalmente muy curiosos, y todos se reunier
 Después de tantos años, Capítulo se encontró con una situación así una vez en la Universidad de Nanyang. La entrada de la escuela estaba bloqueada por autos de lujo.
 
 Algunos estudiantes tomaron sus teléfonos móviles y comenzaron a grabar videos y publicarlos en línea.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

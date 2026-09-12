@@ -135,7 +135,3 @@ Cuando todos escucharon las palabras de Qin Yibing, todos se callaron y se volvi
 En este momento, Qin Yibing vestía un cheongsam hecho a medida, y su figura elegante y cóncava no estaba obstruida. Cuando se combinó con el rostro delicado y bonito de Qin Yibing, atrajo instantáneamente la atención de innumerables personas.
 
 No sé cuántas personas en la audiencia están mirando los imponentes picos gemelos y las piernas esbeltas de Qin Yibing, pero estas personas solo pueden mirarlo y no se atreven a pensar de otra manera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

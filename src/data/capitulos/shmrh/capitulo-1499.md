@@ -131,7 +131,3 @@ Como si Chen Mo no hubiera escuchado las palabras de An Hong, siguió caminando 
 An Hong instantáneamente se congeló en su lugar, con una expresión extremadamente avergonzada en su rostro, porque no esperaba que Chen Mo lo ignorara directamente.
 
 Debes saber que An Hong siempre ha sido respetado por la gente donde quiera que vaya desde la niñez hasta la edad adulta. Fue Capítulo quien sintió esta forma de ser ignorado una vez.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -117,7 +117,3 @@ Huang Zhiming consoló suavemente a Jiang Qiwei.
 Jiang Qiwei respiró hondo después de escuchar esto y dijo en voz baja: “Si solo viene un Tao Yiran, no tengo nada de qué preocuparme”.
 
 Los pensamientos de Jiang Qiwei son muy Es simple Aunque un simple Tao Yiran puede representar a toda la familia Tao, el efecto de la apariencia es muy bueno, pero ¿qué puede ser?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

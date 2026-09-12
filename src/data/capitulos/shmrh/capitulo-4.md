@@ -195,7 +195,3 @@ Li Kai miró a Chen Mo y dudó un momento, luego dijo con una sonrisa: “Oh, ¿
 Dijo Chen Mo en un tono muy monótono.
 
 Después de que Fatty escuchó las palabras de Chen Mo, la sonrisa en su rostro se solidificó instantáneamente, y las expresiones de los estudiantes a su alrededor también estaban extremadamente sorprendidas. ¡Nadie pensó que Chen Mo realmente aceptaría la solicitud de Li Kai!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

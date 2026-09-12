@@ -135,7 +135,3 @@ Así que es simplemente imposible que Jiang Qiwei salga para evitar ser el centr
 “Estas dos cosas viejas, tan pronto como sucedió algo, todos se escaparon y me dejaron solo”
 
 Jiang Qiwei mordió y maldijo en voz baja, luego cerró los ojos y comenzó a pensar en sí mismo ¿Qué debe hacer a continuación.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

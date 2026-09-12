@@ -207,7 +207,3 @@ Al pensar en esto, una mirada asesina brilló en los ojos de Chen Mo.
 Después de dudar un rato, Yan She le recordó a Chen Mo en voz baja.
 
 Chen Mo dijo en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

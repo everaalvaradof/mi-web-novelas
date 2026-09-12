@@ -137,7 +137,3 @@ Qiao Ying corrió hacia adelante con gran confusión Preguntó Chen Mo.
 Chen Mo miró a Qiao Ying y dijo.
 
 Qiao Ying sonrió levemente después de escuchar las palabras de Chen Mo y luego dijo suavemente: “¡Entiendo!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -285,7 +285,3 @@ Esta vez Ou Wang no habló con Ya Wang, lo hizo contra él. Después de todo, la
 “¿Por qué son ustedes dos tan tímidos?”
 
 Dios respondió con desdén, y luego continuó: “Se puede decir que este pequeño Chen Mo fue hacia quien lo vi caminar. esta posición hoy, sé muy bien cuál es su debilidad, así que no tienes que preocuparte, ¡él no es mi oponente!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -115,7 +115,3 @@ Li Linger se sintió algo aliviada cuando escuchó la respuesta de Chen Mo, pero
 Naturalmente, Tang Ying no quería que estas personas siguieran peleando, por lo que rápidamente le gritó a la hermana Sun: “Hermana Sun, apúrate y piensa en una manera, si las cosas continúan así, definitivamente algo sucederá”. !”
 
 Después de escuchar las palabras de Tang Ying, la hermana Sun mostró una pizca de impotencia en sus ojos, y luego extendió la mano y arrastró a Tang Ying a un lado, luego frunció el ceño y dijo: “Señorita Tang, este asunto es suyo”. hoy. No importa, será mejor que no te entrometas en tu negocio”.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

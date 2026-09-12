@@ -101,7 +101,3 @@ Y la chica debería tener alrededor de veinte años, vistiendo una falda corta d
 Después de ver a estas dos personas, los ojos de Tao Ye brillaron de emoción y dijo en voz baja: “¿Por qué estás aquí en este momento? ¡Es malo!”, dijo
 
 después de terminar esto. frase, Tao Ye rápidamente dejó su teléfono móvil y caminó hacia el lugar de los hombres y mujeres jóvenes.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

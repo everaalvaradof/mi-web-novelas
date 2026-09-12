@@ -107,7 +107,3 @@ Liu Rui parecía avergonzado y no sabía cómo explicarlo.
 “Si no puede obtener un boleto, simplemente dígalo directamente. ¿Qué pasa si dice que me ha engañado? Estoy realmente convencido”
 
 Wei Jiaqi en este momento No fue educado en absoluto, muy amargo y mezquino, y no le dio ninguna cara a Liu Rui.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

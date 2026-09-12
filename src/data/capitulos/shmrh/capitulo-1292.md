@@ -97,7 +97,3 @@ Después de que el director supiera que Qiao Ying había elegido a Chen Mo, Cap�
 Por eso el director le dijo a Qiao Ying, parecía que planeaba hacer que Chen Mo cambiara de opinión.
 
 Después de escuchar las tres palabras de la señorita Qiao, las expresiones en sus rostros parecían aún más emocionadas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

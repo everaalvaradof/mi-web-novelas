@@ -105,7 +105,3 @@ Aunque hay muchas mujeres hermosas en la Universidad de Nanyang, Chen Mo siente 
 La hermosa chica llevaba un vestido largo blanco, dando la impresión de ser como un hada, y salió de la multitud con gracia.
 
 Chen Mo se quedó estupefacto al instante.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -117,7 +117,3 @@ Yan No tenía ninguna intención de dejar ir a Chen Mo. Después de ver que Chen
 Un indicio de colapso brilló en los ojos de Chen Mo, sabía que si no hacía lo que Yan She quería ahora, entonces Yan She estaría loca. Una mujer nunca se dejará ir. No es como si Yan She la hubiera atormentado todo el tiempo. Además, si no hace esto, entonces lo que Yan She le prometió que le pediría permiso definitivamente será en vano.
 
 Chen Mo respiró hondo y luego giró la cabeza para mirar a Yan She.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

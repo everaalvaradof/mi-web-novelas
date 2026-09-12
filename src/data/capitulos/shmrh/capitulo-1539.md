@@ -131,7 +131,3 @@ Jiang Qiwei tomó su mano derecha y lo señaló con una expresión muy dolorosa.
 dijo Chen Mo a la ligera.
 
 Jiang Qiwei se quedó estupefacto cuando escuchó las palabras de Chen Mo, porque no esperaba que Chen Mo fuera tan despiadado como para planear suicidarse directamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

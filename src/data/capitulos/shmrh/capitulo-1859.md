@@ -165,7 +165,3 @@ Chen Mo miró a Yan She y dijo.
 Yan Dudó durante dos segundos, luego se dio la vuelta y volvió a la habitación.
 
 Y Chen Mo se sentó en silencio solo en el sofá y esperó el amanecer.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -151,7 +151,3 @@ Chen Mo no le dio al líder la oportunidad de disparar primero, corrió directam
 Con un fuerte ruido, Chen Mo dispersó una vez más un resto del alma del líder.
 
 Pero siguiendo al líder, un alma remanente se formó de nuevo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

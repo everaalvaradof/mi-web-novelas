@@ -119,7 +119,3 @@ Después de escuchar esta oración, Chen Mo, que estaba bebiendo agua, roció di
 “¿Quieres vivir conmigo?”
 
 Chen Mo miró a Wen Ruoxi con una expresión increíble.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

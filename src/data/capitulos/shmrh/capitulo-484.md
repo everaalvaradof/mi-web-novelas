@@ -91,7 +91,3 @@ En este momento, Du Yunfei señaló directamente la posición de Chen Mo y grit�
 “¡Está bien, Sr. Du!”
 
 Después de escuchar esto, el guardaespaldas accedió rápidamente y luego se acercó a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

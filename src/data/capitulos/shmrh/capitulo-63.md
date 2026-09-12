@@ -105,7 +105,3 @@ Chen Mo no pudo evitar murmurar suavemente.
 Después de que Pan Ying escuchó esto, rápidamente giró la cabeza para mirar hacia la puerta de la oficina de ventas y encontró a una hermosa chica con un vestido largo blanco saliendo de la oficina de ventas con sus zapatos de tacón alto.
 
 ¡Y esta chica no es otra que la prometida diosa libre de Chen Mo, Su Mubai!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -85,7 +85,3 @@ Qi Ya sonrió rápidamente a Chen Mo cuando escuchó las palabras de Ning Tao y 
 Chen Mo respondió rápidamente, luego miró a Qi Ya de arriba abajo, pero no habló.
 
 Aunque Qi Ya todavía está muy entusiasmado, Chen Mo realmente puede sentir que la actitud de Qi Ya hacia él es muy desdeñosa, pero Qi Ya lo oculta muy bien y la gente común no puede encontrarlo en absoluto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

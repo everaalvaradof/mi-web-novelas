@@ -113,7 +113,3 @@ Tang Qingqing se giró para mirar a Zhao Xiaoyou y preguntó en un tono tranquil
 “Tang Qingqing, recuerdo que eras un genio famoso en este club Guqin. No importa quién te vea, te elogiarán. No importa qué competencia sea, siempre serás un Capítulo. y Siempre seré el Capítulo No. 2, este sentimiento me hace sentir muy incómodo, te conocí aquí hoy, ¿te atreves a jugar un guqin conmigo?”
 
 Zhao Xiaoyou Le gritó a Tang Qingqing sin expresión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

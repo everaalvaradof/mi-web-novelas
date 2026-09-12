@@ -105,7 +105,3 @@ Después de que Wang Zijing vio a alguien corriendo hacia él, gritó con una ex
 Los dos Las fuerzas especiales no estaban de humor para decir tonterías con Wang Zijing, sino que se acercaron y agarraron el brazo de Wang Zijing, llevándolo directamente frente a Chen Mo.
 
 Chen Mo entrecerró los ojos y miró a Wang Zijing con una expresión muy casual.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

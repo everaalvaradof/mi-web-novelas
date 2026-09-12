@@ -125,7 +125,3 @@ Chen Mo puede usar la respiración de su cuerpo para controlar la dirección de 
 Así que ahora Chen Mo estaba muy tranquilo después de ver a Zhang Ziqing sacar su pistola.
 
 Porque Chen Mo sabía que la pistola de Zhang Ziqing no podía lastimarse.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

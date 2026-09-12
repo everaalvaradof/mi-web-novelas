@@ -175,7 +175,3 @@ Hay todo tipo de equipos en la carpa, y una gran pantalla está erigida frente a
 No hay manera. El alcance de la montaña Ruokai es demasiado grande. Si quieren monitorear toda la montaña Ruokai, es básicamente imposible, por lo que solo pueden elegir algunos lugares más importantes en este momento. Cámara instalado
 
 Y la tecnología en el campo D nunca ha sido muy desarrollada, por lo que no tienen drones en absoluto. Si hay drones, entonces este problema se puede resolver fácilmente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

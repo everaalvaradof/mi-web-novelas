@@ -135,7 +135,3 @@ Después de todo, Fan Yuanze no sabía que tenía una relación muy mala con Che
 Fan Yuanze puede ser más preocupados por esto ahora Después de todo, Li Haoran y Li Guangru Los dos se han retirado por completo de esta competencia, por lo que solo pueden depositar sus esperanzas en Chen Mo.
 
 Sin embargo, los antecedentes mostrados por Chen Mo son suficientes para que la familia Fan confíe.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

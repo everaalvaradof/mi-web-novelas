@@ -113,7 +113,3 @@ Li Haoran dio un paso adelante y gritó suavemente.
 Fan Yuanze asintió con satisfacción.
 
 Y Li Guangru dudó por un momento y luego sonrió y dijo: “Hermano Fan, he traído a mi nieto hoy. Me pregunto si puedo dejar que mi nieto eche un vistazo a la hija de su familia Fan. Después de todo, los dos El niño está a punto de comprometerse y todavía no nos hemos visto, así que es hora de que se conozcan”.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

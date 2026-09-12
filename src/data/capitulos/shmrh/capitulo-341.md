@@ -123,7 +123,3 @@ Chen Mo miró a Wei Jiaqi a la ligera, luego se acercó al lado de Wang Yaoyao y
 Cuando todos escucharon las palabras de Chen Mo, hubo un alboroto y todos sintieron que estaban siendo engañados.
 
 Y Zhao Anan miró a Chen Mo con decepción. De hecho, ¡Zhao Anan ya había esperado tal situación!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

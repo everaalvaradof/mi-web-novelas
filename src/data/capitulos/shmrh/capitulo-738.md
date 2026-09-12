@@ -123,7 +123,3 @@ A los ojos de estos estudiantes, Chen Mo es inferior a Wei Chen en términos de 
 En este momento, Chen Mo de repente le gritó a Wei Chen.
 
 Un rastro de desdén brilló en los ojos de Wei Chen.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

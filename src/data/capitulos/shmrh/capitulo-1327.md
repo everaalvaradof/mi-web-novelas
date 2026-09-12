@@ -93,7 +93,3 @@ Duan Chenjie le dio a Xue Yuqi un valioso reloj para mujer. Después de verlo, t
 Todos también sacaron regalos y se los entregaron a Xue Yuqi. Después de todo, estas personas son todas celebridades y sus ingresos siguen siendo muy buenos, por lo que los regalos que dan no son baratos.
 
 Hay todo tipo de artículos de lujo que emergen uno tras otro, pero la expresión en el rostro de Chen Mo es un poco vergonzosa. Después de todo, él no preparó ningún regalo y Chen Mo no conocía a Xue. Yuqi en absoluto, por lo que nunca pensó en preparar regalos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -109,7 +109,3 @@ Chen Mo dudó un momento y luego preguntó a Hua Xiaowu.
 Hua Xiaowu respondió muy serio.
 
 Chen Mo miró a Hua Xiaowu debajo de su cuerpo, sus ojos comenzaron a enredarse y no parecía saber si debería estar de acuerdo con Hua Xiaowu.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

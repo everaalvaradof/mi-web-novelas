@@ -129,7 +129,3 @@ Chen Mo no esperaba que Li Taibai se fuera tan pronto, así que gritó apresurad
 “Tú puedes encargarte del resto tú mismo, ¡así que no hay necesidad de que me quede aquí!”
 
 Li Taibai respondió a Chen Mo a la ligera, y luego continuó caminando montaña abajo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

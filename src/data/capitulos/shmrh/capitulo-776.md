@@ -101,7 +101,3 @@ Otras personas presentes parecían pensar lo mismo. Sintieron que Chen Mo defini
 Chen Mo giró la cabeza para mirar a Lu An a la ligera y le preguntó a Lu An con una cara en blanco.
 
 Después de escuchar las palabras de Chen Mo, todos se congelaron en el lugar, las expresiones en sus rostros eran muy increíbles, nadie pensó que Chen Mo ni siquiera le daría la cara a Lu An.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

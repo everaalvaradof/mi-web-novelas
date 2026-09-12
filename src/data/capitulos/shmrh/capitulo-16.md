@@ -109,7 +109,3 @@ En este momento, Chen Mo estaba muy cerca del cuerpo de Yan She, y Chen Mo podí
 “Pequeño Chen Mo, ¿cómo está mi figura?”
 
 Los sensuales labios rojos de Wu Mei se abrieron ligeramente y le preguntó a Chen Mo en un tono muy seductor.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

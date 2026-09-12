@@ -117,7 +117,3 @@ Gao Feifei miró el hacha con una luz fría, y un rastro de miedo brilló en sus
 Zhang Biao miró a Gao Feifei y suspiró suavemente, luego levantó su hacha y cortó directamente la muñeca de Gao Feifei.
 
 Con un fuerte ruido, el hacha cayó constantemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

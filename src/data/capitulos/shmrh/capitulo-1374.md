@@ -133,7 +133,3 @@ Preguntó Feng Hao con un tono desconcertado.
 “Ese chico Chen Mo es realmente increíble, no solo invitó a la familia Tao, sino también a Qiao Ying, Lu Xiangyang y la hija de Zhao Xicheng, no quedan muchas personas aquí. Ahora, ¿qué debo hacer?”
 
 preguntó Jiang Qiwei con ansiedad.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

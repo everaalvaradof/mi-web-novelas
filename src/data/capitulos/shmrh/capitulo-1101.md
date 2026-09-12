@@ -111,7 +111,3 @@ Después de que Wan Zhong y los demás vieron que Chen Mo golpeó directamente a
 “¿Cómo puede este Chen Mo ser tan poderoso?”
 
 Wan Zhong no pudo evitar suspirar en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

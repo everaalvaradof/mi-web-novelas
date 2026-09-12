@@ -115,7 +115,3 @@ Chen Mo tiró esta oración, luego se levantó y planeó irse.
 Fan Meihua se levantó y le gritó a Chen Mo.
 
 Chen Mo no pudo evitar burlarse después de escuchar las palabras de Fan Meihua, y luego dijo a la ligera: “¡La verdadera persona arrogante eres tú, no yo!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

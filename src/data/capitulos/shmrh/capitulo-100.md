@@ -143,7 +143,3 @@ Pero lo que Gao Feifei no esperaba era que Chen Mo no solo no empeorara, al cont
 “¡Este bastardo, tengo que exponerlo!”
 
 Al escuchar esto, Gao Feifei se puso de pie y corrió hacia el lugar de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

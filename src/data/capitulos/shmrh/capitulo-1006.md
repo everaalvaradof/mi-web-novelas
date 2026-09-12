@@ -127,7 +127,3 @@ Li Juncheng estuvo de acuerdo y luego colgó directamente.
 Después de colgar el teléfono, Chen Mo dejó escapar un largo suspiro, luego cerró los ojos y descansó.
 
 Chen Mo tampoco durmió durante toda la noche, por lo que obviamente estaba cansado en ese momento. Cerró los ojos y se durmió después de un rato.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

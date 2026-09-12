@@ -121,7 +121,3 @@ Zhang Xichuan persuadió suavemente a Zhang Xize.
 “No estoy preocupado por este problema ahora, me preocupa que esta persona huya con vida”
 
 Zhang Xize respondió en voz baja y luego continuó: “Justo ahora que persona ha entrado en la habitación secreta. Esto muestra que debe haber visto los materiales que pusimos en la habitación secreta, tal vez ya haya tomado esos materiales, y una vez que esos materiales se filtren, ¡es simplemente inimaginable!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

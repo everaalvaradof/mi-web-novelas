@@ -99,7 +99,3 @@ Su Mi solo reaccionó después de escuchar esto. Resulta que Chen Mo dijo que no
 “¿Podría ser que Chen Mo fingió ser una rica segunda generación para engañar a mi abuelo?”
 
 Su Mi no pudo evitar suspirar en su corazón y luego caminó rápidamente hacia Chen. Mo, miró a Chen Mo y le preguntó a Said: “Chen Mo, ¿tú eres Chen Gongzi?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

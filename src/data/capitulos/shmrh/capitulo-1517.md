@@ -115,7 +115,3 @@ Zuo Qingna miró fijamente a Chen Mo con su gran ojos llorosos gritaron.
 “Ya que la persona que estoy buscando no está contigo, ¿por qué estás huyendo? Y An Zhenbei ha renunciado a su resistencia ahora. No creo que tenga ninguna razón para mentirme, ¿verdad? ?”
 
 Chen Mo He le devolvió la sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

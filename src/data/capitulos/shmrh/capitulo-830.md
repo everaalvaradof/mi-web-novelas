@@ -93,7 +93,3 @@ Después de que Chen Mo dudó un momento, puso él mismo en la herencia de la he
 La expresión de Ning Shasha en su rostro fue increíble después de escuchar lo que dijo Chen Mo, ¡porque no esperaba que Chen Mo experimentara tantas cosas!
 
 A los ojos de Ning Shasha, ¡las cosas que experimentó Chen Mo son incluso más milagrosas que la serie de televisión!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

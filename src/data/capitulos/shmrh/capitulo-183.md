@@ -115,7 +115,3 @@ Los hermosos ojos de Luo Qiu brillaron enojados. le gritó a Ma Tianshi con gran
 Ma Tianshi señaló y extendió su mano hacia Chen Mo.
 
 Las palabras de Luo Qiu no terminaron, Chen Mo finalmente no pudo soportarlo más, caminó directamente frente a Luo Qiu y luego le dijo a Ma Tianshi con una cara en blanco: “Dijiste que recogí la basura, ¿no?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

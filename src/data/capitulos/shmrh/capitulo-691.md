@@ -105,7 +105,3 @@ Después de escuchar la conversación en el palco, Sun Yurou afuera de la puerta
 “Si Luo Qiu realmente elige a la heroína de esta obra, ¿qué pasará con la hermana Yingying?”
 
 Sun Yurou no pudo evitar murmurar en su corazón, y luego se puso ansiosa. Rápidamente se dio la vuelta y se fue.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

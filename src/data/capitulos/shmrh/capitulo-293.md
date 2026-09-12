@@ -95,7 +95,3 @@ Definitivamente aprovechará esta oportunidad hoy.
 Cuanto más lo pensaba Su Mubai, más sentía que algo andaba mal. Le gritaba a Chen Mo con una cara bonita.
 
 Cuando Chen Mo escuchó las palabras de Su Mubai, una pizca de impotencia brilló en sus ojos, porque sabía que algo que debería llegar siempre llegará.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

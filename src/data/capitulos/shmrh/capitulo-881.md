@@ -117,7 +117,3 @@ Después de dudar un rato, Tang Ying se acercó rápidamente a Qian Ping y Li Yu
 Li Yulong se quedó atónita por un momento, luego le preguntó suavemente a Tang Ying: “Señorita Tang, ¿conoce al Sr. Chen?”
 
 Tang Ying escuchó a Li Las palabras de Yulong Dudó por dos segundos, luego dijo suavemente: “¡Lo sé!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -205,7 +205,3 @@ Chen Mo preguntó con el ceño fruncido.
 “¡Realmente no puedes convencer a Zhao Rongguang, pero puedes convencer a Zhao Yiwen!”
 
 Yan Hizo una pausa por un momento y luego continuó: “Zhao Wenzhuo es el enemigo del padre de Zhao Yiwen, y Ahora, en la familia Zhao, es un personaje completamente marginal, si nos ofrecemos a cooperar con él, ¡no creo que tenga motivos para negarse!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

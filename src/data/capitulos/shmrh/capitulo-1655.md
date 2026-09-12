@@ -127,7 +127,3 @@ Zhang Chenghua se burló y luego dijo a la ligera: “Eres tan ingenuo”.
 “¿No es así?” ¿Lo es?”
 
 Chen Mo miró a Zhang Chenghua y preguntó en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

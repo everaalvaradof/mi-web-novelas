@@ -111,7 +111,3 @@ Qiao Ying llevaba gafas de sol y un sombrero en este momento. Si no fuera por la
 “Hermana, ¿qué tipo de maquillaje llevas cuando te vistes así? Nadie puede verte aunque te pongas maquillaje, ¿de acuerdo?”
 
 Chen Mo le gritó a Qiao Ying impotentes.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -131,7 +131,3 @@ Fan Liang respiró hondo, luego sacó una tarjeta bancaria de su billetera y se 
 El camarero accedió rápidamente, luego se dio la vuelta y se fue con la tarjeta bancaria de Fan Liang.
 
 Unos minutos después, el camarero corrió hacia Fan Liang con las papas fritas. Fan Liang no dudó en absoluto, empujó todas las papas fritas sobre la mesa y le gritó a Chen Mo con una expresión en blanco. : “¡Cuatro millones, jugaré contigo!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

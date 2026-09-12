@@ -107,7 +107,3 @@ Chen Mo simplemente empacó sus cosas y se preparó para irse, pero en ese momen
 “¡Se acabó, Chen Mo se metió en un gran problema hoy!”
 
 Meng Liang dijo solemnemente después de ver esta escena.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

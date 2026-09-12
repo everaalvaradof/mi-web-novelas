@@ -121,7 +121,3 @@ El joven giró la cabeza para mirar a Zhang Wei y preguntó con un tono infeliz.
 Zhang Wei estiró su dedo Señalando a Chen Mo y Zhao Lei, dijeron sin expresión.
 
 Después de escuchar esto, Li Zixi y Xu Weiwei quedaron atónitos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

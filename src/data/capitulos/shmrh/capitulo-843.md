@@ -107,7 +107,3 @@ Dijo el joven con una sonrisa.
 dijo Su Bai sin expresión.
 
 El joven se quedó atónito al escuchar esta frase.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

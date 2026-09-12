@@ -111,7 +111,3 @@ Su Muyu miró a Chen Mo de arriba abajo y suspiró suavemente con una boca peque
 Y Su Mubai también está sorprendido, pase lo que pase, si Chen Mo es eliminado en este momento, nadie debería reírse de Chen Mo por ser un recolector de basura.
 
 Tang Qingqing miró a Su Mubai con una sonrisa y dijo suavemente: “Mubai, no esperaba que tu vista fuera muy buena, realmente no lo vi ahora, este Chen Mo es bonito bueno, guapo”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

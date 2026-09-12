@@ -109,7 +109,3 @@ El lado de Chen Mo acababa de irse y recibió un mensaje de texto de Li Juncheng
 Chen Mo finalmente se enfrenta a la reunión más importante de su vida.
 
 Esta reunión afectará la vida de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

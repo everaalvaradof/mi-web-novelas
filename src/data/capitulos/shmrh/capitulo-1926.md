@@ -193,7 +193,3 @@ Gritó Xia Xingze con los ojos bien abiertos.
 “No, Xingze, algo realmente sucedió”
 
 La mujer le entregó su teléfono celular a Xia Xingze mientras hablaba, y luego dijo con cautela: “¡Puedes verlo por ti mismo!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

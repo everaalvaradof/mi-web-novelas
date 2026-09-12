@@ -81,7 +81,3 @@ Chen Xingfa transfirió directamente el capital sin el consentimiento de nadie, 
 La mayor influencia puede ser el hermano mayor de Chen Xingfa, Chen Xing’an.
 
 Después de todo, una vez que el Grupo Chen tenga un accionista externo, entonces Chen Xing’an perderá el control del Grupo Chen.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

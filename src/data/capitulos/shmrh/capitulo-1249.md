@@ -105,7 +105,3 @@ En este momento, Su Mubai ya se había sentado. Después de escuchar las palabra
 Yue Xuan escuchó esta oración Después de eso, no pudo l se burló, luego giró lentamente la cabeza para mirar la posición de Fan Liang y preguntó suavemente: “¿Es este el yerno de tu familia Fan?”
 
 Fan Liang estaba atónito. De pie en el lugar, la expresión de su rostro parecía un poco fea.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

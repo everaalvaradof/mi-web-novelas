@@ -117,7 +117,3 @@ Los ojos de Chen Mo brillaron con dudas después de ver el Mercedes-Benz.
 Pronto, el Mercedes-Benz se detuvo frente a Chen Mo. Un hombre de mediana edad salió del auto y le dijo respetuosamente a Chen Mo: “¡Joven maestro Chen, hola!”
 
 Chen Mo miró al hombre de mediana edad frente a él, sus ojos estaban muy atentos, porque no conocía a este hombre de mediana edad.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

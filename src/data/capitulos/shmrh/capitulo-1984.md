@@ -293,7 +293,3 @@ Después de escuchar esto, Chen Mo asintió levemente y luego dijo inexpresivame
 “¿Cómo puedo escucharlo? La lealtad es lo más inútil en un mercader de plata. Mientras pueda traer beneficios al mercader de plata y traer beneficios al mercader de plata, ¡incluso si todos saben que no soy leal a Dios Relación!”
 
 El rey le dijo suavemente a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -139,7 +139,3 @@ Chen Mo miró a Fan Meihua frente a él con una expresión algo sorprendida, por
 “Mi padre era solo un compañero en la familia Fan, por lo que no me valoraron en la familia Fan desde que era un niño, y muchas personas incluso se rieron de mí. No estoy calificado para ser un artista marcial”. Solo puedo trabajar duro Déjate destacar, puedes verme más tarde, llegué a donde estoy hoy con mis propios esfuerzos”.
 
 Dijo Fan Meihua mientras tomaba café mientras miraba a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

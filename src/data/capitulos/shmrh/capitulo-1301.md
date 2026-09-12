@@ -123,7 +123,3 @@ Qin Yibing miró a Chen Mo y dijo.
 Chen Mo se congeló después de escuchar el nombre, porque Chen Mo se había encontrado con este Qiao Ying una vez anteayer, y lo más importante es que Chen Mo no parecía haber dejado nada demasiado para Qiao Ying en ese momento. ¡Buena impresión!
 
 Así que la expresión en el rostro de Chen Mo era un poco vergonzosa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

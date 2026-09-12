@@ -115,7 +115,3 @@ Liu Rui y Chen Mo, Zhao An’an y otros se hicieron a un lado y no hablaron, per
 “Xiao Li, ¿por qué no subiste a estas dos chicas al auto? ¿Qué estás haciendo?”
 
 Y el verdadero maestro de este asunto, Zhao Ziqian Shi ya se había sentado en el auto, y después de ver que Pei Zi no se subió al auto por mucho tiempo, bajó la ventanilla del auto y gritó con impaciencia.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

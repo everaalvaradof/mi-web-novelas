@@ -111,7 +111,3 @@ Así que es obvio que estos dos no encajan.
 A He Shishi no le importaban los ojos de estas personas y comenzó a elegir ropa para Chen Mo.
 
 Chen Mo siguió en silencio al lado de He Shishi, sin importarle en absoluto los ojos extraños de otras personas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

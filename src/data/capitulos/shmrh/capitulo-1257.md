@@ -119,7 +119,3 @@ Fan Xihong realmente no podía entender por qué Yue Xuan fue golpeado así cuan
 Fan Chong respondió impotente.
 
 Después de escuchar esta oración, los ojos de Fan Xihong brillaron con confusión, luego frunció el ceño y dijo: “No puedes detener el hundimiento por ti mismo, ¿no había tanta gente presente en ese momento? En el hotel ¿No hay seguridad? ¿Tanta gente no puede detener a un Chen Mo?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

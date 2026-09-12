@@ -209,7 +209,3 @@ Después de ver esta escena, Hu Biao, que no estaba muy lejos, dudó durante dos
 Feng Jiuyang respondió a la ligera, y luego agitó su mano derecha. ligeramente.
 
 Una luz fría pasó, perforando directamente la frente de Hu Biao.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -95,7 +95,3 @@ Porque Chen Mo caminó directamente al lado de He Jie después de ver a He Jie c
 “No tengo nada que hacer”
 
 He Jie se quedó atónito por un momento, luego respondió suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

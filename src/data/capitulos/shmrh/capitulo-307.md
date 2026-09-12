@@ -111,7 +111,3 @@ Chen Mo rechazó directamente la amabilidad de Zhou Hongliang, porque sintió qu
 Zhou Hongliang respondió con una sonrisa, luego miró a Zhao Wu, se volvió y se fue.
 
 Todos miraron la espalda de Zhou Hongliang y suspiraron en sus corazones. ¿Quién hubiera pensado que tal resultado terminaría al final?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

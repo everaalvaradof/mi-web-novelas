@@ -125,7 +125,3 @@ Por supuesto, entre tanta gente presente en este momento, hay una persona que no
 Después de ver este mono, la cara de Wei Changhe era extremadamente fea, porque sabía en su corazón que este mono era la mascota de Li Taibai y había estado a su lado durante tantos años.
 
 Ver a este mono no es diferente de ver a Li Tianbai.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -125,7 +125,3 @@ Fu negó con la cabeza y miró a Chen Mo, y dijo en voz baja.
 “Li Taibai, este bastardo, incluso sabiendo que este lugar es tan peligroso, me pidió que fuera a buscar materiales medicinales para él. Si no fuera por mi vida, sería yo quien mintiera”. ahí ahora”
 
 Chen Mo no pudo evitar maldecir ferozmente en su corazón.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -99,7 +99,3 @@ Dijo la hermana Sun con una sonrisa.
 “¿Cuántos años puedo ser hermosa? ¡Después de unos años, es posible que no pueda compararme con esas chicas jóvenes y hermosas!”
 
 Dijo Tang Ying con un tono de preocupación.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

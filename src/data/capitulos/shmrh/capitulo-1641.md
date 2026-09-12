@@ -133,7 +133,3 @@ Una cosa que hace Capítulo es limpiar a Feng Xing. Después de todo, Feng Xing 
 Hay otras dos cosas sobre el Capítulo que también son muy importantes para Chen Mo. Esto es para limpiar Qin Yibing.
 
 Debido a que Qin Yibing engañó deliberadamente a Chen Mo para que le pidiera a Chen Mo que le enviara perfume a Chu Lan, esto puede considerarse un desastre para Chen Mo, por lo que Chen Mo naturalmente quiere encontrar a Qin Yibing y saldar la cuenta.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

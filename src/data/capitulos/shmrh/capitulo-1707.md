@@ -181,7 +181,3 @@ El carnicero negó con la cabeza al joven.
 “Soy un discípulo de Song Yunge Master Song. Si no quieres cortejar a la muerte, entonces déjame en paz. No estoy de humor para prestarte atención en este momento. Yo’ ¡Estoy aquí por ese niño llamado Chen Mo!”
 
 El joven le gritó al carnicero en un tono muy arrogante.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

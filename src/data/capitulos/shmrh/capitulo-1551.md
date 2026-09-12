@@ -117,7 +117,3 @@ Chu Lan parpadeó y preguntó pensativamente.
 Qin Yibing explicó rápidamente.
 
 Chu Lan miró a Qin Yibing de arriba abajo, sonrió misteriosamente y dijo suavemente: “¡No me digas, vámonos!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

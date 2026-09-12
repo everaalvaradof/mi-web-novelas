@@ -87,7 +87,3 @@ Su Mubai miró hacia el camino de montaña por delante y gritó con ansiedad.
 “El auto no se puede conducir. Nosotros dos solo podemos ir a las montañas ahora. ¡Después de que nos deshagamos de estas personas por completo, saldremos de aquí e iremos a la ciudad de Nanyang!”
 
 Chen Mo lo observó por un tiempo La situación circundante, sintió que ingresar a la montaña en este momento puede ser la mejor opción.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

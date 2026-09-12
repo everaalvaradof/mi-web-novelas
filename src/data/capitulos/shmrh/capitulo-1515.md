@@ -151,7 +151,3 @@ Chen Mo miró a Zuo Qingna y continuó.
 “Imposible, ¿cómo podría rendirse el presidente An?”
 
 Zuo Qingna le gritó directamente a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

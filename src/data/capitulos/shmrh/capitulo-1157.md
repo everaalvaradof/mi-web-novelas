@@ -131,7 +131,3 @@ Después de que Yan She pronunció algunos discursos sencillos, la fiesta de cel
 Los estudiantes subieron al escenario uno tras otro para actuar. Algunos cantaron, algunos bailaron y algunos hablaron. El ambiente era muy animado.
 
 En un abrir y cerrar de ojos, ha pasado más de la mitad del tiempo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

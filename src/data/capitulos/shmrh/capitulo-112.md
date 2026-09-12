@@ -125,7 +125,3 @@ Zhao Anan vaciló por un momento y luego salió corriendo rápidamente.
 Li Kai, Gao Feifei y los demás mostraron una sonrisa muy feliz después de saber que habían despedido a Chen Mo. Varias personas comenzaron a discutir dónde deberían ir a celebrar esta noche.
 
 Por otro lado, Meng Liang y Liu Rui parecían desesperados, nunca esperaron que Chen Mo fuera despedido así como así.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

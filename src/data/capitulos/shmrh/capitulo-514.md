@@ -125,7 +125,3 @@ Luo Qiu se quedó allí y observó a Chen Mo vacilar durante dos segundos, luego
 “La próxima ¡Voy a apostar dos millones, será mejor que intercambies un poco más!”
 
 Gritó Fan Liang con una carcajada después de ver a Luo Qiu irse.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

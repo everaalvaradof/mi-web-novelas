@@ -129,7 +129,3 @@ Zhang Yi negó con la cabeza suavemente.
 Chen Mo le susurró a Zhang. Yi, y luego se dio la vuelta y se fue.
 
 Después de separarse de Zhang Yi, Chen Mo sacó su teléfono móvil y llamó a Wang Jun.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

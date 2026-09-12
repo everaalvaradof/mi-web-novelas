@@ -291,7 +291,3 @@ Porque Chen Mo descubrió que el colgante de jade de Qing Guiyuan era el mismo q
 Qing Guiyuan le dijo a Chen Mo con una expresión en blanco.
 
 Los tres últimos: Son 5.000 palabras, y seguirá explotando mañana. Gracias por su apoyo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

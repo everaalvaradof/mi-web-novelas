@@ -97,7 +97,3 @@ dijo Su Mubai Después de terminar esta oración, se dio la vuelta y corrió a s
 Un momento después, la puerta se cerró de golpe.
 
 Chen Mo se paró en el lugar y suspiró impotente. Originalmente, pensó que lo que sucedió cuando llegó a Sujia Town fue suficiente para que Su Mubai cambiara su opinión sobre él, pero no esperaba que en el al final quedaría así look!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

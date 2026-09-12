@@ -129,7 +129,3 @@ Aunque Qiao Ying odiaba mucho a Duan Chenjie en su corazón, la familia Qiao ten
 Duan Chenjie sonrió con desdén y luego continuó: “Te digo que todas las cámaras de aquí han sido destruidas, así que ahora estoy. Nadie sabe que maté a Chen Mo, así que, naturalmente, no tengo nada de qué preocuparme”
 
 Qiao Ying está escuchando Duan Chenjie se quedó estupefacto al instante después de estas palabras, y la expresión de su rostro era también muy sorprendida, porque no esperaba que Duan Chenjie ya estuviera preparado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -115,7 +115,3 @@ Chen Mo le dijo a Sun Chuan sin expresión.
 “Yue Xuan es mi buen hermano. Lo golpeaste así hoy. ¡Debo vengarlo!”
 
 Sun Chuan lo miró a los ojos y gritó, luego levantó el puño. en la cabeza de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

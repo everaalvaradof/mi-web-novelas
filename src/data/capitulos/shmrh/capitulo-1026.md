@@ -105,7 +105,3 @@ Después de ver al joven irse, la concubina Qi Ye frunció el ceño y le dijo a 
 Chen Mo miró el teléfono y dijo en un tono muy tranquilo.
 
 La concubina Qi Ye se quedó atónita cuando vio a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -191,7 +191,3 @@ Tengo que decir que Chu Lan realmente salva las apariencias. El director del hos
 Afortunadamente, las lesiones en el cuerpo de Chen Mo eran todas lesiones en la piel y no hubo lesiones fatales. Fue solo una operación de sutura.
 
 Después de más de una hora de dar vueltas, el examen físico y la cirugía de Chen Mo finalmente terminaron.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

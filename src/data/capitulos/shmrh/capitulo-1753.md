@@ -197,7 +197,3 @@ Y las expresiones en los rostros de esos empleados en la sala de conferencias ta
 Pero después de que todos comprobaron, descubrieron que sus teléfonos móviles estaban apagados.
 
 Después de un tiempo, todos dirigieron su atención a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

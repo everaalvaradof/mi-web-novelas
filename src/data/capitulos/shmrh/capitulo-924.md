@@ -101,7 +101,3 @@ Y la gente alrededor parecía haber notado a este hombre de mediana edad, y volt
 “¿Cómo es eso posible? ¿Qué diablos está pasando aquí? ¡Debo estar soñando, esto definitivamente no es cierto!”
 
 Xu Feng gritó en un tono muy emocionado como si estuviera camino loco
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

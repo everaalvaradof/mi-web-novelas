@@ -145,7 +145,3 @@ Zhang Ping explicó un poco avergonzado, luego sacó un pañuelo y se limpió la
 “Su Mubai, ¿qué sucede?”
 
 Zhang Ping miró a Chen Mo y se rió directamente, luego continuó: “Chen Mo, ¿eres demasiado bueno bromeando? ¿Sabes que Su Mubai es quién es?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

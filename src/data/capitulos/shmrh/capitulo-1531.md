@@ -105,7 +105,3 @@ Además, esta gran red también se puede mover, así que si Li Taibai quiere evi
 En un instante, la expresión del rostro de Chen Mo se volvió solemne, porque sabía que la situación de Li Taibai aún era muy peligrosa.
 
 Porque si está realmente cubierto por esta gran red, incluso el cuerpo de Li Taibai resultará gravemente herido.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

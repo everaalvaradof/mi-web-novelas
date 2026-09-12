@@ -113,7 +113,3 @@ Chen Mo extendió la mano y se rascó la cabeza, y respondió con un sonreír.
 Chen Mo ni siquiera pensó en lo que dijo Su Mubai, se quitó la vida y corrió a la cama, acostándose cómodamente junto a Su Mubai.
 
 Después de que Su Mubai vio que Chen Mo había subido, no pudo evitar girar la cabeza para mirar a Chen Mo, un rastro de nerviosismo brilló en sus ojos, pero no dijo nada más.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

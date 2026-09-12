@@ -115,7 +115,3 @@ En este momento, dijo Zhang Ping de repente.
 Después de escuchar esta oración, todos quedaron atónitos por un momento y luego parecieron pensar que lo que dijo Zhang Ping era muy razonable.
 
 Chen Mo es una persona que ni siquiera puede pagar un auto ¿Cómo puede gastar tanto dinero en ropa?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

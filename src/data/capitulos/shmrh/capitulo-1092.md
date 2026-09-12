@@ -81,7 +81,3 @@ Chen Mo giró la cabeza y miró a Wan Zhong a la ligera, y no dijo nada. más, p
 Chen Mo dudó un momento y luego preguntó suavemente a Wan Zhong.
 
 Después de todo, Chen Mo era Capítulo que vino a asistir a esta conferencia de intercambio de artistas marciales, por lo que en ese momento Chen Mo no tenía muy claro la situación específica de esta conferencia de intercambio de artistas marciales, y ni siquiera saber dónde iba a intercambiar materiales medicinales.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -101,7 +101,3 @@ Pei Zi de repente se sintió un poco impotente y muy Él culpó a Chen Mo y dijo
 Después de ver la culpa de Pei Zi, Chen Mo habló. El tono no es tan duro.
 
 Después de escuchar las palabras de Chen Mo, Pei Zi no pudo evitar levantar lentamente la cabeza y mirar a Chen Mo. Una pizca de impotencia brilló en sus hermosos ojos, pero no sabía qué hacer.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

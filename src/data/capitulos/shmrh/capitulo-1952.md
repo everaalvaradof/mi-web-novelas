@@ -161,7 +161,3 @@ Después de que Zheng Shishi terminó de decir estas palabras, un joven fuerte y
 Chen Mo miró a este hombre musculoso con una leve sonrisa. Este hombre musculoso debería estar en el reino de los guerreros. Si se coloca entre la gente común, su fuerza sigue siendo muy buena, pero frente a Chen Mo, es un poco demasiado ridículo Chen Mo Incluso estaba preocupado de que mataría directamente a este hombre fuerte con un solo golpe.
 
 “Este es mi guardaespaldas personal, Huo Ming, que es un artista marcial. Aunque no es el más poderoso de mis guardaespaldas, ¡no creo que tenga ningún problema con ustedes, dos personas comunes!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

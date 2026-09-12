@@ -125,7 +125,3 @@ Su Hongfei respondió honestamente.
 “¿La prometida de Su Mubai?”
 
 Zhou An no pudo evitar sonreír después de escuchar esto y dijo lentamente: “No esperaba que tu prima tuviera una prometida. Veamos quién es”. ha manejado la flor más famosa en nuestra ciudad Sujia!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

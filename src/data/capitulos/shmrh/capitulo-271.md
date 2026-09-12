@@ -115,7 +115,3 @@ Chen Mo respondió rápidamente después de escuchar esto.
 Después de que Su Lieheng terminó de hablar, se dio la vuelta y salió del restaurante.
 
 Chen Mo dudó un momento y luego salieron juntos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

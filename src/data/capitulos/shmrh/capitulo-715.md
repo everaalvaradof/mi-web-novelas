@@ -119,7 +119,3 @@ Después de escuchar las palabras de Wang Bo y Sun Tao, Chen Mo volvió la cabez
 Aunque Chen Mo sabía que el padre de Wang Tianshi se llamaba Wang Bo, no estaba seguro de si el padre de Wang Tianshi era el Wang Bo que conocía.
 
 Ahora Chen Mo puede estar seguro de que este Wang Bo es de hecho el Wang Bo que conoció en el ring.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

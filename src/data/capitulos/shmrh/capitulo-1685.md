@@ -85,7 +85,3 @@ Después de que la empresa constructora ingresó al sitio, el proyecto incluso s
 Sin embargo, tomará algún tiempo para que la empresa constructora ingrese al sitio. Después de todo, hay muchos preparativos por hacer en la etapa inicial de un proyecto tan grande, por lo que los empleados de Sky Ocean El grupo no tiene nada que hacer durante este tiempo.
 
 Chen Mo también sabe que esas personas en la empresa son diferentes a él. Para completar este proyecto lo antes posible, la mayoría de los empleados trabajan horas extra, casi todos los días desde las nueve de la mañana hasta las doce de la noche. la mañana Entonces, el jefe Chen Mo también les dio a sus empleados tres días libres para que todos pudieran descansar bien.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

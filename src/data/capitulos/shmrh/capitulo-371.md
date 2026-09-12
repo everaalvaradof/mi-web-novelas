@@ -103,7 +103,3 @@ dijo Chen Mo con el ceño fruncido.
 Li Juncheng respondió a la ligera, luego dio un paso adelante y dijo con una expresión seria: “Maestro Chen, Wang Zijing también es una belleza famosa, ¿realmente no está interesado en tal belleza?”
 
 Chen Mo se sorprendió cuando ¡Escuché las palabras de Li Juncheng!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

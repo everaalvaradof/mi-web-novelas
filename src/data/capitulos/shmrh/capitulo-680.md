@@ -115,7 +115,3 @@ Después de ver que la situación no estaba bien, la hermana Zhang corrió hacia
 Luo Qiu se quedó allí aturdido, con una expresión inusualmente agraviada en su rostro.
 
 Y la gente alrededor miraba a Luo Qiu como si estuviera viendo una broma.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

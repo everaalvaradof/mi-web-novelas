@@ -123,7 +123,3 @@ Chen Mo describió brevemente la apariencia del asesino y la apariencia de Li Ju
 “Está bien, Sr. Chen, entiendo, dejaré que alguien lo haga ahora”
 
 Li Juncheng respondió apresuradamente después de escuchar la descripción de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

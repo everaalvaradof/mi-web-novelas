@@ -139,7 +139,3 @@ Yan Ella miró a Chen Mo y asintió.
 “¡Déjame todo esto a mí, debería ser capaz de manejarlo!”
 
 Dijo Yan con firmeza.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

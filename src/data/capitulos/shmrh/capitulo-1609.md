@@ -105,7 +105,3 @@ Análisis de sonido bajo de Zhang Xize.
 Zhang Zicheng preguntó con el ceño fruncido.
 
 Zhang Xize no habló, porque vino aquí hoy para probar las intenciones de Chu Lan. Si la relación de Chu Lan con Chen Mo es normal, es posible que planeen atacar a Chen Mo. La relación entre Lan no es simple, así que pueden optar por tratar con Chen Mo de otras maneras.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

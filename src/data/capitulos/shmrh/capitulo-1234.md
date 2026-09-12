@@ -135,7 +135,3 @@ Su Mubai se quedó sin palabras después de escuchar las palabras de Chen Mo.
 “Todavía quedan varios días antes de que vaya a la ciudad de Jiuhai. No puedo hacer nada más ahora, así que mejor me relajo”.
 
 Dijo Chen Mo a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -105,7 +105,3 @@ Como era de esperar, los ojos de Zhang Xize brillaron un poco nerviosos después
 “¡Oh, déjame dejar ir a esta mujer, pero primero tengo que salir de aquí!”
 
 Chen Mo respondió a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -111,7 +111,3 @@ En este momento, Chen Mo venció a Niu Fei de esta manera y no tuvo otra opción
 “Espera por mí, te mataré, espera”
 
 Niu Fei le gritó a Chen Mo con una expresión muy emocionada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

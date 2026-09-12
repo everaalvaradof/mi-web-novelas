@@ -1,123 +1,117 @@
 ---
-titulo: "I AM THE RICHEST HEIR OF MANKIND Capitulo 922"
+titulo: "I AM THE RICHEST HEIR OF MANKIND Capitulo 921"
 numero: 921
 novelaId: "shmrh"
 ---
 
-Chen Mo no sabía, de hecho, Li Juncheng solo ayudó a Chen Mo a encontrar cinco patrocinadores esta vez, y les pidió a estos patrocinadores que no revelaran la identidad de Chen Mo. Después de ver a Chen Mo, solo pudo llame al compañero de clase de Chen Mo, no puede hablar de negocios y la tarifa de patrocinio no puede exceder los 500,000.
+¡Chen Mo me invitó aquí!
 
-Pero estas personas no conocían a Chen Mo en absoluto, por lo que Li Juncheng les dio a estas personas una foto de Chen Mo para que pudieran encontrar a Chen Mo en ese momento.
+Cuando Bi Yuquan dijo estas palabras, fue arrojado a la multitud como una bomba de tiempo, y todos quedaron estupefactos por un momento.
 
-Pero nadie pensó que este incidente se filtró, y se extendió entre los círculos superiores de las cuatro provincias principales. Las fotos de Chen Mo también circularon, y había muchos grandes jefes. Quería conocer a Chen Mo, pero nunca tuve la oportunidad.
+Todos vieron que Xu Feng fue saludado hace un momento, y todos pensaron que Bi Yuquan y Xu Feng deberían conocerse, por lo que no se asociaron con Chen Mo, pero nadie pensó que Bi Yuquan no estaba en Xu Feng en absoluto. vinieron por Chen Mo.
 
-Está bien ahora, finalmente existe tal oportunidad, estos jefes naturalmente no están dispuestos a aprovechar esta oportunidad, por lo que todos se dirigieron a la Universidad de Nanyang.
+¡Xu Feng estaba estupefacto!
 
-Chen Mo miró a Cai Zhengwen con impotencia. Sabía que estas personas estaban aquí para salvar su rostro, por lo que solo podía dejar que los compañeros de clase trajeran a Cai Zhengwen a la escuela.
+¡Ren Bo estaba estupefacto!
 
-Cai Zhengwen es igual que Bi Yuquan, quien también patrocinó 500.000.
+¡Todos los presentes estaban estupefactos!
 
-Pero esto es solo el comienzo.
+Antes de que Chen Mo pudiera invitar a Fang Beihang, ya era increíble a los ojos de todos, pero ¿quién hubiera pensado que Chen Mo invitaría a Bi Yuquan?
 
-Un gran grupo de personas corrió hacia la puerta de la Universidad de Nanyang. Debido al atasco de tráfico, estas personas solo podían optar por atropellar.
+El propio Fang Beihang es de la provincia de Jiyuan, por lo que estos estudiantes no saben mucho sobre la fuerza específica de Fang Beihang, pero aún conocen muy bien a Bi Yuquan. ¿Cómo conociste a alguien como Bi Yuquan?
 
-“¡El gerente general de Hongbang Logistics Group patrocinó 500.000 yuanes para los Juegos!”
+Por un momento, todos los presentes se quedaron en silencio.
 
-“¡El presidente de Nanyang Runfa Group patrocinó 300.000 yuanes para los Juegos!”
+La sonrisa en el rostro de Xu Feng se congeló, y Ren Bo lo miró sin saber qué hacer.
 
-“¡El director general de Shangjie Energy Group patrocinó 500.000 yuanes para estos Juegos!”
+Meng Liang, Liu Rui, Zhao An’an y otros volvieron la cabeza para mirar la posición de Chen Mo.
 
-Por un momento, voces como esta resonaron en todo el campus.
+“Chen Mo, ¿invitaste a esta persona?”
 
-En este momento, no se sentía como una reunión deportiva en absoluto, parecía un sitio de licitación a gran escala.
+Meng Liang tartamudeó y le preguntó a Chen Mo.
 
-Los líderes de la escuela están naturalmente muy ocupados. Podrían haber imaginado que tanta gente rica se reuniría, así que todos se reunieron en la puerta de la escuela para dar la bienvenida a estos patrocinadores.
+Chen Mo asintió impotente.
 
-Y esos estudiantes en la escuela también saben que todos estos grandes hombres vinieron por una sola persona.
+“¿Cómo conoce Chen Mo a una persona así?”
 
-Entonces esta persona es Chen Mo.
+“Sí, no esperaba que Chen Mo pareciera tan discreto, pero en realidad conocía a mucha gente importante”
 
-Casi 20 millonarios han ingresado a la escuela de Chen Mo. Las tarifas de patrocinio de estos millonarios han excedido los 10 millones de yuanes. Los líderes de la escuela ya se están riendo estúpidamente. Parecen el Dios de la Riqueza.
+“¿Quizás Chen Mo es una segunda generación rica y discreta?”
 
-Xu Feng y Ren Bo se quedaron estupefactos, dándoles la sensación de que todo era como un sueño, que era demasiado irreal.
+“¿Cómo es esto posible? Chen Mo ha estado recogiendo botellas en la escuela todo el tiempo, diciendo que es una segunda generación rica No lo creo”
 
-¡Incluso Xu Feng no tenía esa habilidad!
+“Sabes, mierda, ahora algunas personas ricas de segunda generación son muy discretas, Chen Mo puede ser ese tipo de rica segunda generación discreta!”
 
-“¿Quién diablos es este Chen Mo?”
+Los estudiantes de los alrededores comenzaron a discutir en voz baja.
 
-Xu Feng apretó los dientes y gritó en voz baja.
+Xu Feng ajustó sus emociones y luego le preguntó a Bi Yuquan en voz baja: “Abuelo Bi, ¿estás equivocado?”
 
-Ren Bo también estaba colapsado en este momento, y no sabía qué hacer.
+“¿Cómo ¿Podría estar mal?”
 
-“¡Estudiante Chen Mo, quiero agradecerle en nombre de la escuela!”
+Bi Yuquan respondió a la ligera.
 
-En este momento, el subdirector de la escuela corrió al lado de Chen Mo, tomó la mano de Chen Mo y gritó emocionado camino.
+“Pero hay muchas personas en nuestra escuela que se llaman Chen Mo. ¿No sé si este Chen Mo es ese Chen Mo?”
 
-“No es nada, esto es lo que debo hacer”
+Xu Feng todavía tuvo un poco de suerte. en su corazón en este momento, no tenía ninguna manera de aceptar que Chen Mo invitara a un gran hombre que ni siquiera puede invitarse a sí mismo. Aunque esta es su última reunión deportiva en la escuela, Xu Feng nunca permitirá que nadie para robarle su protagonismo.
 
-Chen Mo miró al subdirector frente a él y respondió impotente.
+Xu Feng invitó especialmente al teniente de alcalde para estos juegos, pero si Chen Mo invitó a Bi Yuquan y Fang Beihang, aunque todavía no es tan bueno como Xu Feng, Chen Mo es una persona famosa El pobre diaosi recogiendo la basura también es muy impactante En ese momento, puede que no sea Xu Feng quien invitó al teniente de alcalde, sino Chen Mo quien invitó a dos personas ricas con un valor de más de 10 mil millones.
 
-Este subdirector una vez criticó a Chen Mo frente a todos los estudiantes porque Chen Mo recogió la botella, pero en ese momento era como una persona diferente, y fue muy educado con Chen Mo. Yo tengo que decir A veces el dinero realmente puede cambiar muchas cosas.
+“No tienes que preocuparte por esto, así que nunca he conocido a mi compañero de clase Chen Mo, pero tengo una foto de mi compañero de clase Chen Mo en mi mano, ¡no puedo equivocarme!”
 
-“Estudiante Chen Mo, sé que debe haber muchos patrocinadores de su lado que no han venido, pero no se preocupe, recibiremos uno por uno, y he notificado al anfitrión ahora. ¡Solo posponga la ceremonia de apertura a las nueve en punto, no se preocupe!”
+dijo Bi Yuquan con una sonrisa.
 
-El subdirector sabe que si estas personas ricas entran, eso es una tarifa de patrocinio de 500,000 yuanes, ¿cómo es posible que se pierda tal una buena oportunidad Paño de lana.
+“Abuelo Bi, ¿dónde está la foto?”
 
-Y Chen Mo miró impotente hacia la calle frente a la escuela, sus ojos colapsaron anormalmente.
+Xu Feng preguntó rápidamente.
 
-Chen Mo sabía que la calle frente a la Universidad de Nanyang había sido bloqueada por autos de lujo en este momento. Si continuaba así, entonces la reunión deportiva de hoy no tendría que llevarse a cabo. Solo era necesario recibir esta gente ¡Tres días y tres noches!
+Después de escuchar esto, el conductor rápidamente le entregó su teléfono móvil a Xu Feng.
 
-“¿Quién es este Chen Mo?”
+Cuando Xu Feng vio a la persona en la foto, se quedó estupefacto y se quedó aturdido, sin saber cómo describir su estado de ánimo, porque la persona en la foto era en realidad Chen Mo.
 
-“Sí, hay tantos autos de lujo bloqueando la puerta de nuestra escuela”
+¡Xu Feng instantáneamente sintió una asfixia!
 
-“¿Qué es esto? ¿Qué está pasando?” ? ¿Podría ser que todos estos autos de lujo vayan solo a Chen Mo?”
+Y hay un punto más importante, justo ahora Bi Yuquan dijo que él y Chen Mo nunca se conocieron.
 
-Los estudiantes presentes también estaban desconcertados en este momento, preguntándose cuál era la situación.
+Como nunca se han visto cara a cara, significa que Chen Mo y Bi Yuquan no se conocen en absoluto. Bi Yuquan pudo venir aquí hoy porque alguien más ayudó a contactar a Chen Mo, que también prueba qué antecedentes tiene Chen Mo. Los estudiantes comunes no lo saben.
 
-“Director Zhang, de nada, haré una llamada”
+“¡Sr. Bi, esa persona parece ser Chen Mo!”
 
-Chen Mo susurró al subdirector que estaba a su lado.
+En ese momento, el conductor también notó a Chen Mo parado entre la multitud y dijo en voz baja.
 
-“Está bien, puede hacer su trabajo, no se preocupe por esto, definitivamente lo arreglaré por usted”
+Un destello de emoción brilló en los ojos de Bi Yuquan, luego caminó apresuradamente frente a Chen Mo y le dijo a Chen Mo con una sonrisa: “Chen Mo Compañeros de clase, soy Bi Yuquan, presidente de China Shipping Chemical Industry. Esta vez me invitaron a participar en la reunión deportiva de su escuela”.
 
-Dijo el subdirector con una sonrisa.
+Chen Mo miró Bi Yuquan y se calmó. Él asintió y luego les dijo a los compañeros de clase detrás de él: “¡Llévense al Sr. Bi!”
 
-Una pizca de impotencia brilló en los ojos de Chen Mo, y luego caminó rápidamente a un lugar donde no había nadie alrededor, sacó su teléfono móvil y marcó el número de Li Juncheng.
+Zhao An’an aún no había reaccionado de la conmoción de Fang Beihang en este momento. En este momento, vino otro Bi Yuquan, y Zhao Anan no sabía cómo describir su estado de ánimo.
 
-Después de que el teléfono sonó dos veces, Li Juncheng contestó el teléfono y preguntó en voz baja: “Maestro Chen, ¿qué le pasa?”
+Todos miraron la posición de Chen Mo con asombro y duda en sus ojos. ¿Quién hubiera pensado que lo más impactante de estos Juegos era en realidad este Chen Mo de bajo perfil?
 
-“Li Juncheng, ¿qué estás haciendo? No te lo dije el otro día, solo le pedí a algunas personas que vinieran. Ahora todas las personas ricas de nuestra provincia de Jiangnan han venido aquí, bloqueando la calle frente a nuestra escuela”.
+Es porque Chen Mo suele ser demasiado discreto, por lo que las personas presentes en este momento están tan sorprendidas y conmocionadas.
 
-Chen Mo gritó con un tono muy entrecortado.
+“Hermano Bo, ¿crees que este Bi Yuquan podría ser actor?”
 
-“¿Cómo es esto posible? ¡Me comuniqué con cinco personas ese día y no se lo dije a nadie más!”,
+Después de dudar un momento, el joven junto a Ren Bo preguntó con una cara seria.
 
-“Entonces alguien debe haber filtrado la noticia. No importa qué método uses ahora, ¡apúrate y tráeme a esta gente!”
+Ren Bo miró al joven que estaba a su lado y lo regañó con una expresión muy irritada.
 
-Chen Mo bajó la voz y gritó.
+Por otro lado, Zhao Anan llevó a Bi Yuquan al lugar de registro y luego simplemente llenó la información de Bi Yuquan.
 
-“Está bien, informaré a estas personas ahora, ¡no tiene que preocuparse por el Sr. Chen!”
+Bi Yuquan no necesitaba el recordatorio de Zhao An’an para nada. Sacó un cheque por valor de 500.000 yuanes y dijo en voz baja: “¡Esta es la tarifa de patrocinio!”
 
-Li Juncheng respondió en voz baja.
+“Presidente de Zhonghai Chemical Co., Ltd. ¡El Sr. Bi Yuquan patrocinó la reunión deportiva con 500,000 yuanes!”
 
-“Bueno, cuando hables, sé cortés. Después de todo, estas personas están aquí por mi cara. Si hablas demasiado fuerte, no es bueno. Diles a estas personas que te invitaré cuando tengas la oportunidad. Comieron, pero esta vez hay demasiada gente, y la influencia es muy mala, ¡que se vayan todos!”
+Una voz volvió a sonar inmediatamente después de la transmisión.
 
-dijo Chen Mo lentamente.
+Cuando esta frase se extendió por toda la escuela, los estudiantes de la escuela se vieron atrapados una vez más en una ira hirviente, nadie pensó que la reunión deportiva aún no había comenzado y que habría una gran noticia.
 
-“Está bien, está bien, descuidé este asunto esta vez, ¡lo resolveré ahora!”
+Primero fueron los 300.000 yuanes de Fang Beihang, y ahora son los 500.000 yuanes de Bi Yuquan. Para estos estudiantes ordinarios, es demasiado increíble.
 
-Después de que Li Juncheng dijo esto, colgó el teléfono.
+Zhao Anan estaba junto a Bi Yuquan aturdido, la expresión de su rostro también era muy increíble, por un momento no supo qué hacer.
 
-Y Chen Mo dejó su teléfono móvil y miró la calle llena de gente frente a él, y estaba lleno de emoción.
+Zhao An’an realmente no puede entender por qué un estudiante común como Chen Mo puede invitar a tantas personas ricas, ¡y las tarifas de patrocinio de estas personas ricas siguen siendo una cifra tan asombrosa!
 
-En este momento, no solo había autos en la calle, sino también mucha gente, algunos de los jefes no pudieron esperar más y todos salieron corriendo de los autos y corrieron hacia la puerta de la escuela.
+¡Esta es la primera vez que esto sucede en la Universidad de Nanyang o Capítulo!
 
-Los estudiantes de la escuela eran naturalmente muy curiosos, y todos se reunieron en la puerta de la escuela para ver este espectáculo sin precedentes.
+Por supuesto, las personas más ocupadas en este momento eran en realidad los líderes de la escuela.
 
-Después de tantos años, Capítulo se encontró con una situación así una vez en la Universidad de Nanyang. La entrada de la escuela estaba bloqueada por autos de lujo.
-
-Algunos estudiantes tomaron sus teléfonos móviles y comenzaron a grabar videos y publicarlos en línea.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence
+Después de todo, estos talentos acaban de asentarse en Fang Beihang, y ahora hay otro Bi Yuquan que ha patrocinado directamente a 500 000. Los líderes de la escuela corrieron frenéticamente hacia la puerta de la escuela, por temor a ser descuidados.

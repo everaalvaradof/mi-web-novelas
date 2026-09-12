@@ -197,7 +197,3 @@ Con un fuerte ruido, Qi Jinhai golpeó directamente el pecho de Chen Mo.
 Chen Mo permaneció inmóvil y no se movió, pero Qi Jinhai retrocedió varios pasos para estabilizar su cuerpo.
 
 Qi Jinhai miró fijamente a Chen Mo que estaba frente a él, la expresión de su rostro parecía increíble.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

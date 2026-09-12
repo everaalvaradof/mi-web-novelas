@@ -119,7 +119,3 @@ La otra parte dijo muy cortésmente.
 Chen Mo dijo con una sonrisa.
 
 Después de escuchar esto, la otra parte gritó en un tono muy emocionado: “Joven maestro Chen, ¿cómo te atreves a tocarte? ¿Dónde estás ahora? Iré ahora mismo. ¡Salvarte!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -177,7 +177,3 @@ Las expresiones en los rostros de los otros ancianos de la Secta Shangqing en es
 Chen Mo agitó su mano suavemente hacia Xu Chengping.
 
 Xu Chengping respiró hondo, luego miró a Chen Mo y continuó: “Después de enterarse de que la Secta Fantasma Celestial necesita matar brutalmente a decenas de miles de discípulos casi todos los años, los cuatro jefes de las cuatro sectas se unen fuerzas para asediar a la Secta Fantasma Celestial, y finalmente erradicar este flagelo de nuestras artes marciales chinas”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -121,7 +121,3 @@ Unos minutos después, el mesero comenzó a servir la comida.
 Ye Xueqi miró a Chen Mo de arriba abajo y le preguntó suavemente a Chen Mo: “Chen Mo, ¿tienes novia?”
 
 Chen Mo escuchó a Ye Xueqi Después de decir estas palabras, se congeló en su lugar, la expresión de su rostro era muy desconcertada y suspiró en secreto que esta mujer no quería mirarse a sí misma y quería pagarse a sí misma con su cuerpo, ¿verdad?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -111,7 +111,3 @@ Pronto, Tang Xiangqiu se acercó a Chen Mo. Chen Mo se sentó en la silla de pri
 Chen Lang no pudo evitar burlarse en su corazón cuando vio esta escena. Sintió lo enojado que estaba Chen Mo ahora, lo miserable que sería morir pronto.
 
 Tang Xiangqiu respiró hondo mientras miraba la posición de Chen Mo, y luego le dijo respetuosamente a Chen Mo: “¡Hola, joven maestro Chen, soy Tang Xiangqiu, el jefe de la familia Tang en la ciudad de Zhonghai!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

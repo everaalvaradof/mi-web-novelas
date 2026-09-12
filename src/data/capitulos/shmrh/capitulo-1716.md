@@ -179,7 +179,3 @@ Pero ella caminó hacia la puerta de Zhang Zicheng cuando escuchó que Zhang Zic
 No importaba, escuchó un secreto impactante.
 
 Zhang Zicheng y Guo Fanghua planearon deshacerse de ellos mismos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

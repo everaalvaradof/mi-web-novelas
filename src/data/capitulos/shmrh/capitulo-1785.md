@@ -165,7 +165,3 @@ Sin embargo, al siguiente segundo, la expresión en el rostro de Wang Tao fue a�
 No sé qué método usó Chen Mo para cambiar la dirección de los picahielos que volaban hacia él.
 
 Así es, todos esos picahielos volaron hacia la posición de Wang Tao en un instante.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

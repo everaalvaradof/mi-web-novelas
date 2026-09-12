@@ -119,7 +119,3 @@ Wei Chen vaciló y preguntó.
 “¡Lo sabrás de inmediato!”
 
 Su Bai respondió con una sonrisa y luego condujo a la multitud hacia un hombre de mediana edad.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

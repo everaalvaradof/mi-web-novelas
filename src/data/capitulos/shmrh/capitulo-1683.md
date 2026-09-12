@@ -127,7 +127,3 @@ Liu Xue perdió la compostura después de escuchar lo que dijo Chen Mo. Se levan
 Chen Mo respondió a la ligera, y luego continuó: “¿Qué si eres de la familia Liu? ¿Crees que elegiré renunciar a esta tierra porque eres de la familia Liu? ¿Estás sobreestimando la influencia de tu familia Liu?”
 
 Liu Xue se quedó sin habla por los comentarios de Chen Mo, y no supo cómo lidiar con eso por un tiempo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

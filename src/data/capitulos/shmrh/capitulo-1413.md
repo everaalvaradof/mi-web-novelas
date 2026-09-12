@@ -99,7 +99,3 @@ Y Wei Mengmeng miró a Zhang Ping sin decir una palabra.
 Zhang Ping se puso de pie mientras hablaba y luego corrió como un loco Salieron corriendo del bar, por temor a que Chen Mo y Wei Mengmeng cambiaran de opinión.
 
 Chen Mo sonrió impotente después de ver a Zhang Ping salir corriendo del bar, pero no fue su intención detener a Zhang Ping. Después de todo, a los ojos de Chen Mo, una persona como Zhang Ping no era digna de dejarlo. perder el tiempo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

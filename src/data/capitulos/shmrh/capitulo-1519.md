@@ -103,7 +103,3 @@ Zuo Qingna se arrodilló rápidamente en el suelo después de escuchar las palab
 “Te pregunté qué pasó con ella ahora? ¿Por qué está inconsciente? ¿Por qué su cuerpo está tan frío?”
 
 Chen Mo sabía que Luo Qiu no debería estar muerto en este momento y aún respiraba, pero sin importar cuánto gritara Chen Mo, Luo Qiu no se despertó y su cuerpo estaba anormalmente frío.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -111,7 +111,3 @@ Pero después de que se hizo la llamada, Lu Xiangyang descubrió que no había s
 Lu Xiangyang gritó desesperadamente.
 
 En este momento, los guardaespaldas traídos por Lu Xiangyang estaban todos preocupados de que estarían implicados cuando Chen Mo estaba peleando con la gente del Valle Brumoso. En este momento, Lu Xiangyang no sabía dónde estaban ahora. Él tampoco sabía la salida.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

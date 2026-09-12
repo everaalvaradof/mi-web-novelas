@@ -139,7 +139,3 @@ Chen Mo respiró hondo y luego le dijo suavemente a Wen Ruoxi: “¡Wen Ruoxi, e
 Chen Mo declaró directamente su identidad.
 
 Y Wen Ruoxi se quedó atónito después de escuchar las palabras de Chen Mo y miró a Chen Mo con ojos perplejos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

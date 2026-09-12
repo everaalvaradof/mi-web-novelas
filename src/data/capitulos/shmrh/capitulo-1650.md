@@ -113,7 +113,3 @@ Feng Xing estuvo de acuerdo y luego continuó: “Maestro Chen, ahora mi unidad 
 “¿Qué beneficio puedo obtener devolviéndote la unidad flash USB?”
 
 Chen Mo le preguntó a Feng Xing con los ojos entrecerrados.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

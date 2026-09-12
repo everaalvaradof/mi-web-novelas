@@ -179,7 +179,3 @@ Su Bai suspiró para sus adentros.
 “La posición actual de Chen Mo es la más alta de las cuatro provincias principales. Nadie puede cambiar su posición. ¡Incluso si usted y yo trabajamos duro toda la vida, no podremos alcanzar su posición actual!”
 
 Un rastro de falta de voluntad brilló en los ojos de Su Bai, y luego hubo impotencia.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

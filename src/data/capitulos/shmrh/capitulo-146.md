@@ -103,7 +103,3 @@ Después de todo, a los ojos de Chen Mo, esas luchas sangrientas entre familias 
 Li Juncheng respondió a la ligera, y luego le gritó al conductor: “¡Xiao Zhang, conduce!”
 
 Chen Mo giró su cabeza Mirando a Li Juncheng, la expresión de su rostro era un poco sin palabras, y no pudo evitar regañar en su corazón: “¿Por qué no puedes decirlo directamente? ¿Por qué tienes que ser tan misterioso?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

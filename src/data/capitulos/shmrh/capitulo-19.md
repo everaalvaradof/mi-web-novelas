@@ -121,7 +121,3 @@ Dijo Meng Liang con un tono desconcertado.
 “Olvídalo, nosotros dos tampoco sabemos sobre los asuntos de Chen Mo. Tal vez fue estimulado por Gao Feifei. Todo estará bien después de un tiempo. ¡Vamos a comer juntos!”
 
 Liu Rui respondió en voz baja, luego se dio la vuelta y salió corriendo del salón de clases.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

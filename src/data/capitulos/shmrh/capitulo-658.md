@@ -105,7 +105,3 @@ Como se esperaba, Zhou Yue ganó 10,000 yuanes con Ma Chi y otros la próxima ve
 “Xiao Chen, ¿estás seguro de que no quieres jugar dos juegos con nosotros?”
 
 Después de ganar dinero, Ma Chi le preguntó a Chen Mo con un tono muy orgulloso.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -121,7 +121,3 @@ Chen Mo le susurró a Chu Lan.
 Después de que Chu Lan escuchó las palabras de Chen Mo, no dudó en absoluto, empujó directamente la puerta y salió del auto.
 
 Y Du Lang y otros detrás vieron a Chen Mo salir del auto y rápidamente salieron del auto, luego corrieron a la posición de Chen Mo con un arma y lo persiguieron.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

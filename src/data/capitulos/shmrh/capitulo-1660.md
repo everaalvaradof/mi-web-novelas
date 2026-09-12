@@ -133,7 +133,3 @@ Jiang Xi respondió rápidamente.
 Dijo Chen Mo a la ligera.
 
 Jiang Xi respondió suavemente a Chen Mo, luego colgó el teléfono directamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

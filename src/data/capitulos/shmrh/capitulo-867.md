@@ -105,7 +105,3 @@ Entonces, el ambiente de las aguas termales de alto nivel es muy bueno y no hay 
 Tang Ying es una gran estrella y, naturalmente, es imposible ir a aguas termales ordinarias, por lo que tomó la iniciativa de ayudar a Chen Molin, Fei, Wu Tao y otros a comprar boletos para aguas termales de alto nivel. Springs, que es para agradecer a Chen Mo y a otros por estar en el hotel antes de las cosas que la ayudaron.
 
 Después de que Ning Tao y otros supieran que Tang Ying tomó la iniciativa de ayudarlos a comprar boletos, naturalmente estaban muy agradecidos y no se negaron.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

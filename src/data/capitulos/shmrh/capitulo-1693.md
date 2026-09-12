@@ -137,7 +137,3 @@ Chen Mo miró a Chu Lan con una sonrisa avergonzada y no dijo nada.
 Chu Lan dijo lentamente.
 
 Los ojos de Chen Mo brillaron con sorpresa cuando escuchó las palabras de Chu Lan, y dijo con un tono desconcertado: “¿No planeas separarme de Bingbing?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

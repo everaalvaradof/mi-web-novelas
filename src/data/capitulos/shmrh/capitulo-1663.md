@@ -135,7 +135,3 @@ Liu Xuanxuan miró a Chen Mo y dijo.
 “Claro que sé que no es fácil, sino no te encontraré, no te preocupes, de lo que tienes que ser responsable es de administrar la operación de la empresa, y no necesitas ¡Si te preocupas por cualquier otra cosa, te ayudaré a resolverlo, tu tarea es desarrollar la escala de la compañía en la capital mágica lo antes posible!”
 
 dijo Chen Mo lentamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

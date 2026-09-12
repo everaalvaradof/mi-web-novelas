@@ -177,7 +177,3 @@ Chen Mo no está de humor para explicarle estas cosas a Ouyang Fan ahora, y preg
 “¡Chen Yuanpeng fue asesinado por Xia Qingfeng, y Xia Qingfeng dejó que su subordinado Feng Xing golpeara a Chen Yuanpeng y su esposa con un automóvil!”
 
 Dijo Ouyang Fan sin expresión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

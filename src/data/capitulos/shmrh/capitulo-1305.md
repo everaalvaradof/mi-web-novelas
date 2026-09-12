@@ -135,7 +135,3 @@ Chen Mo asintió, luego miró a Shen Lingdie y dijo: “En realidad, este es el 
 Shen Lingdie asintió.
 
 Zhao Jinyu vio algunos cambios leves en los ojos de Chen Mo, porque también sabía sobre el cambio de propietario del Club Tianyun, pero nunca pensó que Chen Mo fuera el propietario del Club Tianyun.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

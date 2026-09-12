@@ -131,7 +131,3 @@ Yan Niancheng asintió levemente después de escuchar las palabras del conductor
 “Sí, Yan Lao y realmente no te hemos visto en mucho tiempo.”
 
 Dijo uno de los hombres de mediana edad con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

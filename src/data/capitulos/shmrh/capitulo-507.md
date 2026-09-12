@@ -107,7 +107,3 @@ Pero cuando Gao Feifei corrió hacia la puerta de la habitación, de repente se 
 “¿Tienes algo más que hacer?”
 
 Chen Mo le preguntó suavemente a Gao Feifei.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

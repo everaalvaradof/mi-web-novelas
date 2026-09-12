@@ -109,7 +109,3 @@ Todos quedaron atónitos cuando escucharon las palabras de Ren Bo, y las expresi
 “¿Quién te dijo que solo pedí un patrocinador esta vez?”
 
 Pero en este momento, Chen Mo dijo de repente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

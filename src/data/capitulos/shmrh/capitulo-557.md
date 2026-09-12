@@ -117,7 +117,3 @@ Zhao Lei y otros son asesinos de guardaespaldas muy profesionales, y nunca calcu
 Es solo que Chen Mo sabe que él también necesita adaptarse a este tipo de cosas.
 
 Después de todo, ya no es una persona común, así que cuando Zhao Lei disparó hace un momento, Chen Mo nunca lo detuvo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

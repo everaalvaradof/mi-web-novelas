@@ -221,7 +221,3 @@ Después de decir esto, Chen Mo corrió directamente a la boca sexy de Zhang Ziq
 Y Zhang Ziqing no se atrevió a escapar, así que solo pudo apretar los dientes y cerrar los ojos.
 
 Chen Mo no esperaba que Zhang Ziqing realmente planeara besarlo, lo cual es suficiente para probar que Zhang Ziqing realmente estaba en un callejón sin salida.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

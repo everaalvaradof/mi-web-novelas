@@ -101,7 +101,3 @@ tu familia Wang me da esta oportunidad, ¿las personas a las que ofendí antes m
 Mientras hablaba, Wang Zijing sedujo a Chen Mo con una mirada conmovedora. Extraordinariamente encantador.
 
 Sabía que no tenía sentido amenazar a Chen Mo ahora, así que solo podía usar otros métodos para rezar para que Chen Mo la dejara ir.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

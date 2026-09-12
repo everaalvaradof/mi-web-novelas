@@ -131,7 +131,3 @@ Si Chen Mo fuera alto, rico y guapo, Gao Feifei aún podría entender lo que Min
 “¡Solo tienes un problema con tu cerebro, no tienes que preocuparte por el mío!”
 
 Mingmei hizo un puchero y gritó, luego volvió la cabeza y le gritó a Chen Mo: “Chen Mo, no me importas tú ¿Qué tal, pobre o escoria? Simplemente me gustas, ¿te gustaría ser mi novio?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -105,7 +105,3 @@ Después de que Chen Mo vio que estas personas planeaban salir, naturalmente no 
 En este momento, el crucero ha salido del muelle y se puede ver el mar interminable y el cielo estrellado. El paisaje es muy hermoso, lo que hace que la gente se sienta relajada y feliz.
 
 Chen Mo y otros miraron el paisaje marino mientras conversaban.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

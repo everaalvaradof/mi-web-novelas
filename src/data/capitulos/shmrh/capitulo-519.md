@@ -123,7 +123,3 @@ Con tanta gente presente, solo Su Hongxiao conocía la identidad de Chen Mo, por
 “¿Qué pasa si su casino se coludió con este Chen Mo?”
 
 ¡Fan Liangyi dijo esta frase apresuradamente para ofender a Su Hongxiao y a todo el Casino Jinsheng!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

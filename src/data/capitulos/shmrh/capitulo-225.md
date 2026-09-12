@@ -109,7 +109,3 @@ Al principio, Chen Mo también pensó en esa situación, pero cuando sucedió, C
 “No sé cuándo comenzará. ¡Tener dinero y no tener dinero se ha convertido en el único criterio para juzgar si una persona es buena o mala!”
 
 Chen Mo sacudió la cabeza con impotencia y suspiró, luego entró. al hotel.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -99,7 +99,3 @@ Pero después de que Su Bai lo presionó, descubrió que Chen Mo estaba quieto.
 Pase lo que pase, el estado físico de Chen Mo sigue siendo muy bueno, al menos no peor que el de Su Bai.
 
 La expresión de Su Bai en su rostro parecía estar aún más enojada cuando vio a Chen Mo inmóvil. Lo miró a los ojos y gritó: “Chico, ¿qué quieres decir? Tienes que luchar contra mí, don ¿tú no?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

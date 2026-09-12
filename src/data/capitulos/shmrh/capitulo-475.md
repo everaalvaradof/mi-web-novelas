@@ -97,7 +97,3 @@ Chen Mo asintió con la cabeza.
 Gritó suavemente Jiang Feifei.
 
 Chen Mo asintió, luego se dio la vuelta y se fue.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

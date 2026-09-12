@@ -99,7 +99,3 @@ Sun Miao miró a Chen Mo y preguntó.
 “¡Porque olvidé sacar mi tarjeta bancaria hoy!”, respondió Chen Mo a la ligera.
 
 Sun Miao y las otras vendedoras presentes cambiaron sus expresiones instantáneamente después de escuchar esto. Todos miraron a Chen Mo como si estuvieran mirando a un mentiroso.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

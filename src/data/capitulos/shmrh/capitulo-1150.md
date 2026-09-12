@@ -123,7 +123,3 @@ Chen Mo se quedó sin palabras ante Yan Ella gritó.
 Yan Ella bostezó suavemente después de escuchar las palabras de Chen Mo, y dijo con un tono cansado: “¿Cómo debería ser un asesino? ¿Salir a matar todos los días? Y no soy un asesino, solo soy un artista marcial”
 
 “¿Entonces no necesitas practicar artes marciales?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

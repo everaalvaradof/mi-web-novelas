@@ -129,7 +129,3 @@ Luo Qiu respondió a la ligera.
 “¿Cómo puedes rendirte? Si no puedes quedar entre los tres primeros en esta competencia, la calificación para el No. 1 femenino no es tuya. ¿Quieres renunciar a la oportunidad de actuar? “La hermana Zhang preguntó en voz alta.
 
 La expresión de Luo Qiu cambió instantáneamente después de escuchar esto, y gritó con una expresión extremadamente emocionada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

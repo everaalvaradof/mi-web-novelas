@@ -237,7 +237,3 @@ Chen Mo dijo a la ligera.
 “No es que no escucho, tengo muchas ganas de ir al baño, ¿o crees que estoy dispuesto a correr este riesgo?”
 
 Zhang Ziqing dijo con una un poco de ruptura.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -201,7 +201,3 @@ Chen Mo dijo a la ligera.
 “Entonces, ¿qué debemos hacer?”
 
 Ye Xian’er preguntó rápidamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -125,7 +125,3 @@ Li Yiyi hizo un puchero y gritó.
 Pero en este momento, Wei Xiaofang gritó de repente.
 
 Después de escuchar esto, todos se giraron para mirar a Chen Mo, quien también se quedó atónito instintivamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

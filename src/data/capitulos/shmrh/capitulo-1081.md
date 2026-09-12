@@ -107,7 +107,3 @@ La última carta de triunfo de Liu Xuanxuan era en realidad su propio cuerpo, po
 “¡No estoy interesado en tu cuerpo!”
 
 Pero en este momento, las palabras de Chen Mo interrumpieron directamente todas las fantasías en el corazón de Liu Xuanxuan.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

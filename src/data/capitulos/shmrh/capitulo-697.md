@@ -109,7 +109,3 @@ Para casarse con Wang Tianshi, se puede decir que Liu Yingying hizo todo lo posi
 Después de todo, mientras pueda casarse con Wang Tianshi, no tendrá nada de qué preocuparse en su vida.
 
 Pero cuando Liu Yingying vio la rosa frente a ella, se congeló en el lugar, con una expresión increíble en su rostro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -93,7 +93,3 @@ El personal que rodeaba al director Wang se dio la vuelta y planeó irse despué
 Pero en este momento, Yang Manqi salió de la multitud y luego gritó con la boca pequeña: “Director Wang, no creo que sea necesario preguntarle al guardia de seguridad ahora, porque definitivamente está no invitado a entrar”.
 
 Cuando todos escucharon esto, giraron la cabeza para mirar a Yang Manqi, que llevaba un hermoso vestido de noche.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

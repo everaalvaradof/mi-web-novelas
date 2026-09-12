@@ -189,7 +189,3 @@ Así que absorber el poder del líder es lo más importante para Chen Mo. No qui
 Chen Mo cerró lentamente los ojos y luego comenzó a absorber el poder espiritual del líder poco a poco.
 
 Debido a que el poder del alma del líder en sí mismo es muy aterrador, este proceso aún es muy largo, lejos de ser tan fácil como antes absorber el poder del alma remanente del líder.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

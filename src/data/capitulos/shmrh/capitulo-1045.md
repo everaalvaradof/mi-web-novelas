@@ -119,7 +119,3 @@ Chen Mo estaba aún más desconcertado cuando vio la expresión en el rostro de 
 Chen Mo le preguntó a Su Mubai en voz baja.
 
 Su Mubai se sonrojó y respondió suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

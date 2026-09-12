@@ -151,7 +151,3 @@ La pequeña belleza gritó con desaprobación.
 “¡No lo mires, yo no conducía esta caja, era mi prometido!” En ese momento, la digna belleza mordió sus labios rojos y susurró.
 
 Cuando la pequeña belleza escuchó esto, sus ojos se abrieron al instante, y la expresión de su rostro era extremadamente sorprendida.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -123,7 +123,3 @@ Liu Rui asintió rápidamente.
 “Eso es porque he estado aprendiendo artes marciales con un artista marcial muy poderoso durante ese tiempo, por lo que a menudo me golpean con moretones y moretones, y también es por el entrenamiento durante ese período que mis habilidades tienen mejor. ¡Muy bien!”
 
 Chen Mo dijo con mucha paciencia.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

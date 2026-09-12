@@ -113,7 +113,3 @@ Unos segundos después, Chen Mo finalmente encontró una oportunidad adecuada, c
 El puñetazo de Chen Mo rugió con un sonido ensordecedor de viento rompiéndose. En tales circunstancias, Chen Mo no dejó ningún espacio para sí mismo. Chen Mo también intentó su mejor
 
 Debes saber que Chen Mo es solo un artista marcial de 9 dan. Todavía no ha hecho un gran avance para convertirse en un maestro de las artes marciales, pero el poder de este golpe de Chen Mo es comparable a ese. de un verdadero maestro de las artes marciales. ¡Ahora, tal vez incluso un experto en artes marciales pueda recibir este golpe de Chen Mo!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

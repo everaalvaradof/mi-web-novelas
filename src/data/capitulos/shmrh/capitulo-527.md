@@ -131,7 +131,3 @@ Luo Qiu caminó hacia la orilla del río con pasos, y luego golpeó su brazo con
 Al mismo tiempo, Huzi y Vulture también fueron a tientas a la orilla del río y vieron a Chen Mo y Luo Qiu.
 
 Huzi le preguntó al buitre un poco emocionado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

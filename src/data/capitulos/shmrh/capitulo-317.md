@@ -109,7 +109,3 @@ Pero justo cuando Wang Zijing se dio la vuelta, una luz deslumbrante se iluminó
 “¡Si Chen Gongzi quiere quedarse con alguien, no hay nadie que no pueda mantenerlo!”
 
 Du Tianhao gritó sin expresión, y luego sacó a casi cincuenta guardaespaldas de las luces. medio, la escena era extremadamente impactante.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -105,7 +105,3 @@ Como era de esperar, Chen Mo y Wei Mengmeng acababan de salir del palco cuando v
 “¡Ya veo lo que va a hacer este Chen Mo a continuación!”
 
 “No vi a Chen Mo tener un temperamento tan grande cuando estaba comiendo en el hotel antes. No sé cómo de repente se volvió así”.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

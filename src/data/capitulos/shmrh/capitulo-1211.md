@@ -135,7 +135,3 @@ Tao Yiran respondió muy orgulloso.
 En ese momento, Chen Mo entendió que algunas mujeres eran realmente inasequibles, como mujeres como Tao Yiran.
 
 Chen Mo no sabe cuál es su relación con Chu Lan, y Tao Yiran no es la novia de Chen Mo. Chen Mo no entiende de qué tiene que estar celoso Tao Yiran.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

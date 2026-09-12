@@ -93,7 +93,3 @@ Así que Chen Mo miró a Gu Qing y le preguntó en voz baja: “¿Qué quieres? 
 Respondió Gu Qing a la ligera.
 
 Su Mubai dejó escapar un largo suspiro después de escuchar la solicitud de Gu Qing, y la expresión de su rostro fue obviamente aliviada, ¡porque sintió que la solicitud de Gu Qing no era demasiado!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

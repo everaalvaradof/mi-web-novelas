@@ -131,7 +131,3 @@ Después de escuchar la risa de Zhang Ze, todos giraron la cabeza para mirar la 
 “Sr. Sun, sus habilidades de actuación son bastante buenas, ¿eh? Justo ahora me arriesgué y dejé que lo engañaran”
 
 Zhang Ze entrecerró los ojos hacia Sun Huamao y dijo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

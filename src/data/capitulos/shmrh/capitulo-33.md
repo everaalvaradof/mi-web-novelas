@@ -107,7 +107,3 @@ Wang Yaoyao le gritó a Chen Mo con sus grandes ojos llorosos y una expresión i
 “¡Dije que compré esa villa hace un momento!”
 
 Chen Mo repitió con mucha calma.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

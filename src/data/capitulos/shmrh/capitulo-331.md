@@ -117,7 +117,3 @@ Chen Mo comenzó a confundirse, no sabía cómo seguir su próximo camino.
 De abajo hacia arriba y de arriba hacia abajo.
 
 ¿Cuántas personas pueden experimentar este sentimiento?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -103,7 +103,3 @@ Chen Mo sabía en su corazón lo que los dos estaban pensando, así que simpleme
 Zhang Xiaobao y Fang Xu pensaron que Chen Mo podría tener una personalidad muy fría. Después de ver que Chen Mo no quería hablar mucho, dejaron de hablar con Chen Mo y se sentaron en el auto en silencio.
 
 Pero, de hecho, a Chen Mo no le gustaba hablar debido a su personalidad fría. En ese momento, siempre estaba pensando en cómo le explicaría a Wen Ruoxi si realmente expusiera su identidad en Bitianya.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

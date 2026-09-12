@@ -107,7 +107,3 @@ Después de que estas bellezas reaccionaron, todas corrieron hacia la posición 
 Rodeado de tantas bellezas de repente, Chen Mo se quedó un poco sin palabras.
 
 Y en este momento, estaban ubicados en la puerta de la comunidad, ya había mucha gente, así que también había mucha gente viendo la diversión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

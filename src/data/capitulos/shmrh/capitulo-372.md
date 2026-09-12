@@ -83,7 +83,3 @@ Esta serie de preguntas aparecieron en la mente de Chen Mo, y Chen Mo no tiene n
 Y todavía queda la pregunta más importante ante él, ¡y es si quiere tener un hijo con Wang Zijing!
 
 ¡Esto es lo que más preocupa a Chen Mo!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

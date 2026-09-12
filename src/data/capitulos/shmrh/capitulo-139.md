@@ -109,7 +109,3 @@ Pero desafortunadamente el vuelo de Li Juncheng se retrasó, Chen Mo finalmente 
 Todos los accionistas en la sala de conferencias quedaron atónitos cuando vieron entrar a la secretaria Sun. Las expresiones en sus rostros estaban muy sorprendidas, porque no esperaban que Chen Mo hubiera encontrado un inversionista.
 
 Incluso Zhang Ze, que había estado sentado en el lugar con una expresión de confianza, no pudo evitar levantarse de repente después de ver a la secretaria Sun, mirando a Chen Mo con una expresión de asombro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -111,7 +111,3 @@ Al otro lado, Su Muyu y su amiga se pararon al costado del camino esperando que 
 En este momento, una niña le gritó de repente a Su Muyu.
 
 Su Muyu rápidamente miró hacia atrás cuando escuchó esto. Cuando vio a Chen Mo entrar, sus ojos estaban llenos de sorpresa y suspiró con la boca abierta, “¿Chen Mo realmente entró?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

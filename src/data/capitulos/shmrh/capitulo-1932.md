@@ -191,7 +191,3 @@ Ouyang Fan dijo con una expresión en blanco.
 “De lo que me arrepiento toda mi vida es de traerte a mi lado, no lo olvides, si no te hubiera traído conmigo al principio, aún podrías ser solo un contador en una pequeña compañía ahora. Xia Qingfeng no es malo contigo, pero ¿cómo me trataste?”
 
 Las emociones de Xia Qingfeng parecían estar fuera de control, y le gritó a Ouyang Fan en voz alta.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

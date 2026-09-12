@@ -105,7 +105,3 @@ Chen Mo rompió las piernas de Tang Hu, y la familia Tang ni siquiera tuvo el co
 Y la actitud de Qian Dapeng hacia Chen Mo es aún más extraña.
 
 ¡Todo esto es tan raro!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

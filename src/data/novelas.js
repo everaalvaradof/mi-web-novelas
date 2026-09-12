@@ -1,5 +1,26 @@
 export const novelas = [
     { 
+        id: "shmrh", 
+        titulo: "SOY EL HEREDERO MÁS RICO DE LA HUMANIDAD", 
+        titulo2: "I AM THE RICHEST HEIR OF MANKIND",
+        genero: "Romance, Ranobe, Vida, urbana", 
+        anio: "2012", 
+        imagen: "/portada/shmrh.jpg",
+        sinopsis: "¿Cómo es pasar de ser un hombre pobre a ser el heredero del hombre más rico? ¡Un contrato para heredar el patrimonio del hombre más rico, que no sólo da dinero sino también una diosa novia! La gente común necesita trabajar duro para tener éxito, ¡pero Chen Tian no lo necesita!",
+        totalCapitulos: 2010,
+        capitulosPublicados: "Cap 2010",
+        categoria: "Terminadas",
+        pais: "chinas",
+        autor: "Dreaming of Innocence",
+        tag: "Artefactos, Templado corporal, Cultivo, Protagonista astuto, Demonios, Protagonista decidido, Dragones, Dioses, Protagonista masculino apuesto, Ocultar verdaderas habilidades, Protagonista afortunado, Protagonista masculino, Monstruos, Política, Poligamia, Subtrama romántica, Protagonista despiadado, Transmigración, Protagonista subestimado, Guerras",
+        
+        // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
+        seo: {
+            title: "Leer SOY EL HEREDERO MÁS RICO DE LA HUMANIDAD en Español - Novelas Ligeras",
+            description: "Disfruta de SOY EL HEREDERO MÁS RICO DE LA HUMANIDAD en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
         id: "grd", 
         titulo: "Gran Rey Demonio", 
         titulo2: "大魔王",

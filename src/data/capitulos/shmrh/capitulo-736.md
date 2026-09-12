@@ -103,7 +103,3 @@ Chen Mo finalmente entendió por qué Cai Zhuang pudo patear la costilla de Meng
 Cuando las personas en la clase vieron el ataque de Cai Zhuang, las expresiones en sus rostros estaban muy nerviosas, porque sintieron que el final de Chen Mo definitivamente sería el mismo que el de Meng Liang, quien fue pateado directamente por Cai Zhuang.
 
 Además, Chen Mo todavía estaba parado allí en este momento, y no reaccionó en absoluto. A los ojos de todos, ¡era obvio que estaba estupefacto por la velocidad de Cai Zhuang!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

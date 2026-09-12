@@ -131,7 +131,3 @@ El Sr. Zhou no se atrevió a desobedecer la orden de He Cai, así que solo pudo 
 En este momento, He Cai ya entendió lo que Chen Mo quería decir, así que después de ver que el Sr. Zhou se iba, le dijo directamente a Chen Mo: “Joven, yo, He Cai, siempre he sido una persona razonable. ya que dijiste que el mío es falso, entonces haré que alguien se haga cargo de él ahora, ¡veamos si vale 30 millones!”
 
 Chen Mo miró a He Cai sonrió, y luego suspiró en secreto en su corazón que este He Cai finalmente tenía un poco de cerebro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -119,7 +119,3 @@ Chen Mo preguntó a Su Mi impotente.
 “¡Te atreves a arrebatarme a Yanshe, veamos cómo te trataré hoy!”
 
 Su Mi le gritó ferozmente a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

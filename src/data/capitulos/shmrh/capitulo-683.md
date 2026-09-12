@@ -121,7 +121,3 @@ En ese momento, otra chica salió detrás de Li Youyou.
 Y esta chica se ve muy elegante y sexy, vistiendo una falda corta negra con caderas y tirantes, dejando al descubierto hermosas piernas con mangas largas y piernas blancas, picos altos en el pecho, piel clara, cara delicada de semillas de melón, cabello negro. se sostiene en alto, tiene un par de zapatos de tacón alto en los pies y se cuelgan aretes en sus delicadas orejitas, lo que le da a la gente un aspecto sexy, glamoroso y muy hermoso.
 
 Chen Mo, Mengliang, Liu Rui y los tres quedaron atónitos cuando vieron a esta chica.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

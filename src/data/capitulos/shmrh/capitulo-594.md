@@ -91,7 +91,3 @@ Li Baiqiang se sorprendió cuando escuchó esto, luego asintió rápidamente y d
 “Pero debido a que mis calificaciones no son suficientes, por lo que el Club Imperial nunca ha aceptado mi solicitud. Por supuesto, también tengo muy clara mi propia situación, y es mi propio problema no unirme”.
 
 Li Baiqiang miró a Wang Xiaochuan y agregó camino.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -113,7 +113,3 @@ Explicó el guardaespaldas en un chino que no habla con fluidez.
 “¡Me estás protegiendo o monitoreando!”
 
 Su Mubai le gritó al guardaespaldas en un tono desesperado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -105,7 +105,3 @@ Puede hacer que todos los internautas se den cuenta de la existencia del Club Ti
 La ceremonia de corte de cinta del lado de Chen Mo fue muy exitosa, pero el lado de Jiang Qiwei fue muy lamentable. Solo un invitado, Xue Yuqi, fue el invitado de corte de cinta. Esos medios son demasiado flojos para tomar fotos, incluso si lo hacen, planean escribir algunas noticias y humillarlos.
 
 Después de que termine el corte de cinta, es hora de comer.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

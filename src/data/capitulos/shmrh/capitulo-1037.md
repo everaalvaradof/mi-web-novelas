@@ -117,7 +117,3 @@ Chen Mo le preguntó a Yan She con una expresión increíble.
 Yan Giró la cabeza y miró a Chen Mo a la ligera, y dijo suavemente: “No tienes que saber quién soy ahora, cuando realmente crezcas para poder tratar con los comerciantes de plata en el futuro, estás sabiendo quién soy. No es demasiado tarde para nadie”
 
 Chen Mo miró a Yan She y sonrió con impotencia, luego se dio la vuelta y regresó a su habitación.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

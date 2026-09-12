@@ -121,7 +121,3 @@ Pero cuando Chen Mo vio el mensaje en el teléfono, una mirada extraña brilló 
 Porque la persona que habla con Chen Mo en este momento no es otra que Luo Qiu en la habitación de al lado.
 
 Es solo que Luo Qiu no le dijo a Chen Mo lo que dijo, sino un mensaje privado al pasado en el software de transmisión en vivo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

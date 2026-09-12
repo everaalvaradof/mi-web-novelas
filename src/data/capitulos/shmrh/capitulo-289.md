@@ -99,7 +99,3 @@ Zhou Yangcheng dijo rápidamente.
 Su Lieheng se quedó atónito por un momento, y luego dejó que alguien recogiera el ginseng que arrojó al suelo hace un momento, ¡y luego se lo entregó respetuosamente a Zhou Yangcheng!
 
 Cuando Zhou Yangcheng vio el ginseng, se congeló en el lugar, ¡sus ojos se llenaron de sorpresa!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

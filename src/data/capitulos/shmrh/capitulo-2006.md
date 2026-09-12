@@ -267,7 +267,3 @@ Di Long también pareció darse cuenta de que la espada de Chen Mo no era fácil
 La espada larga y el bastón de Chen Mo chocaron ferozmente.
 
 Y después de que el bastón temblara violentamente, se rompió directamente desde el medio.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -283,7 +283,3 @@ Chen Mo no tiene forma de bloquear las posiciones de esos aviones de combate aho
 Chen Mo usó su aliento para formar un escudo protector alrededor de su cuerpo y luego siguió caminando hacia adelante.
 
 Después de ver esta escena, Bev golpeó la mesa dos veces con las manos con ira. Nunca pensó que la potencia de fuego de su lado ya era tan aterradora, y Chen Mo aún podía hacer cualquier cosa. ¡Nada es igual!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

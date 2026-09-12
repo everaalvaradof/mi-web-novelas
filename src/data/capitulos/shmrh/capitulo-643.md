@@ -95,7 +95,3 @@ Después de subir las escaleras, Bai Zhennan le preguntó a Wang Xia con un tono
 preguntó Wang Xia con el ceño fruncido.
 
 Bai Zhennan preguntó en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

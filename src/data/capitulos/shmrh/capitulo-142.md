@@ -155,7 +155,3 @@ Al segundo siguiente, la puerta de la sala de conferencias se abrió.
 ¡Li Juncheng entró en la sala de conferencias!
 
 Cuando Zhang Ze vio a Li Juncheng, quedó atónito y la sonrisa en su rostro se congeló al instante.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

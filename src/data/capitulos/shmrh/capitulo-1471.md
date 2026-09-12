@@ -125,7 +125,3 @@ Chen Mo le dijo a Tian Haixi con una sonrisa.
 Tian Haixi asintió y se giró para irse con la información.
 
 Chen Mo miró la espalda de Tianhaixi y respiró hondo. De hecho, el mismo Chen Mo sabía muy bien que este método era muy arriesgado, pero desafortunadamente Chen Mo no tenía mejor opción, solo puede elegir ahora. iniciativa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

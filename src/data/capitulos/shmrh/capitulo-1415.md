@@ -115,7 +115,3 @@ Aunque Chen Mo ha visto demasiadas bellezas recientemente, no importa cuán herm
 “¿Por qué me miras así?”
 
 Su Mubai preguntó nerviosamente después de darse cuenta de que Chen Mo parecía estar mirándolo todo el tiempo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

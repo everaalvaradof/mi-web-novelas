@@ -177,7 +177,3 @@ Chen Mo dijo la verdad.
 “¿Entonces dices que soy hermosa o que Bingbing es hermosa?”
 
 Chu Lan continuó preguntando.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

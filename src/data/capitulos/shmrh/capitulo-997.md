@@ -115,7 +115,3 @@ Debido a que Wei Beiyan no puede confirmar la identidad de Chen Mo ahora, le pre
 Y otras personas, naturalmente, piensan lo mismo, no se preocupan en absoluto de sus propios asuntos.
 
 Ling Shi ya creía lo que Chen Mo dijo en su corazón, pero lo que desconcertó a Ling Shi fue ¿por qué Chen Mo de repente le disparó a Guo Ning? ¿Y cuál es la relación entre Chen Mo y el presidente de Uniasia? ¿Por qué de repente se emocionó tanto?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

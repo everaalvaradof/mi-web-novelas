@@ -111,7 +111,3 @@ Wang Xiao también preguntó rápidamente.
 Li Guangru los miró a los dos con indiferencia, pero no les respondió directamente.
 
 Pero, de hecho, las conjeturas de estas dos personas son correctas. Li Guangru todavía tiene sus cartas ocultas para mostrar, y todavía tiene una última oportunidad de regresar.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

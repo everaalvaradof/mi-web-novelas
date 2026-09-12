@@ -103,7 +103,3 @@ Li Juncheng tampoco dijo tonterías con Chen Mo, solo miró a Chen Mo y dijo dir
 “¿Recuperar al comerciante de plata?”
 
 Chen Mo se quedó estupefacto cuando miró a Li Juncheng, con una expresión increíble en su rostro, lo miró fijamente y dijo: “Hermano, ¿estás ¿No estás aquí? ¿Estás bromeando? Wangcheng mismo no puede recuperar al comerciante de plata, ¿cómo puedo recuperarlo?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

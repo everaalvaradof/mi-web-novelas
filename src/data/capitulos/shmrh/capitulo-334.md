@@ -127,7 +127,3 @@ Después de ver a la pequeña belleza atónita, Chen Mo instó suavemente.
 La pequeña belleza tartamudeó y corrió a la oficina con su tarjeta bancaria.
 
 Chen Mo miró los ojos asombrados de todos, no pudo evitar reírse y suspiró suavemente: “¡Es genial tener dinero!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

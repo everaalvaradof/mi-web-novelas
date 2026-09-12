@@ -123,7 +123,3 @@ Angie miró a todos los presentes con una expresión, luego se quitó las gafas 
 La apariencia de Angie es muy delicada y hermosa, dando a la gente la sensación de que es como la reencarnación de Daji, y todo su cuerpo exuda ráfagas de encanto.
 
 Chen Mo también miró la posición de An Qi. En este momento, también se preguntó por qué esta mujer se levantaría para ayudarlo a hablar. ¡Después de todo, todos deberían tomarse el tiempo para aclarar su relación con él ahora!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

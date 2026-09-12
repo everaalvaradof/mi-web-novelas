@@ -131,7 +131,3 @@ Chen Mo miró a Su Mubai y preguntó.
 Su Mubai asintió levemente.
 
 “Genial, como ya me creíste, ¿podemos ir ambos a buscar el certificado ahora?”, gritó Chen Mo a Su Mubai con entusiasmo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

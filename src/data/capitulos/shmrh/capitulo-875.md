@@ -109,7 +109,3 @@ pensó Li Yulong por un momento, luego dijo a la ligera: “Hermano Qian, ¿pare
 Qian Ping respondió rápidamente con una sonrisa.
 
 Y Li Yulong miró a Qian Ping sin hablar, como si estuviera pensando en algo, y parecía estar esperando algo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

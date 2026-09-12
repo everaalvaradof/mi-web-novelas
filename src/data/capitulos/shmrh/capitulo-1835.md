@@ -171,7 +171,3 @@ Zhang Ziqing quitó su pequeña mano de la mano de Xia Xingze y continuó: “Ad
 “Esta vez, me estás dando carbón en la nieve. Me has hecho un gran favor, ¿por qué no te invito a cenar hoy?”
 
 Cuanto más mira Xia Xingze a Zhang Ziqing ahora, más encantador se vuelve su tono. dijo emocionado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

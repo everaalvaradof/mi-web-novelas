@@ -101,7 +101,3 @@ Chen Mo respondió de mala gana.
 “Entonces, ¿por qué fue a la clase a buscarte hoy? ¿Deliberadamente la dejaste venir mientras yo estaba en clase?”
 
 Yan continuó preguntando.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

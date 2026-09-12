@@ -117,7 +117,3 @@ Wen Ruoxi arrastró a Zhang Feng fuera de la habitación mientras hablaba.
 Pero cuando Wen Ruoxi caminó hacia la puerta, Chen Mo de repente extendió la mano para detener a Wen Ruoxi y luego dijo sin comprender: “¡Él puede ir al hospital solo, no tienes que seguirlo!”
 
 Wen Ruoxi de repente levantó la cabeza y miró a Chen Mo cuando escuchó las palabras de Chen Mo, y luego le gritó a Chen Mo con una expresión muy enojada: “Chen Mo, ¿qué eres? ¿Te importa si yo voy al hospital o no?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -107,7 +107,3 @@ Chen Mo preguntó con una sonrisa.
 Duan Chenjie Parecía ser un grito un poco desesperado.
 
 Y Chen Mo no pudo evitar burlarse después de escuchar las palabras de Duan Chenjie, y luego dijo a la ligera: “¿Crees que te voy a matar?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

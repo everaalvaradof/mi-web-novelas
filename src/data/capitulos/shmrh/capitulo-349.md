@@ -91,7 +91,3 @@ Zhao Zhengbin preguntó con el ceño fruncido.
 “Alguien secuestró deliberadamente a la señorita Su Mubai anoche y amenazó de muerte a la señorita Su Mubai. Si el señor Chen no revela su identidad, no podrá salvar a la señorita Su Mubai, pero si toma medidas Si lo haces, entonces el joven maestro Chen definitivamente revelará su identidad, lo que obviamente es una trampa, ¡así que no creo que el estado del heredero del joven maestro Chen pueda cancelarse solo por esto!”
 
 Gritó Li Juncheng con rectitud.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

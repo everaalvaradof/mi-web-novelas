@@ -175,7 +175,3 @@ Chen Mo no entendía por qué Yan She quería que golpeara a alguien, pero podí
 Chen Mo no pudo evitar burlarse y luego lo abofeteó con un revés.
 
 Chen Mo no dio lo mejor de sí con esta bofetada, pero el pequeño físico de Zhao Yiwen aún no podía soportarlo, dio dos pasos hacia atrás y se sentó directamente en el suelo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

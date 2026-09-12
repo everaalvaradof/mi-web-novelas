@@ -111,7 +111,3 @@ Ming Mei miró a Chen Mo y siguió gritando.
 “¡Sí, Chen Mo, habla!” Meng Liang también gritó ansiosamente en este momento.
 
 Chen Mo respiró hondo y luego dijo inexpresivamente: “¡Sí, lo que dijeron es verdad!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

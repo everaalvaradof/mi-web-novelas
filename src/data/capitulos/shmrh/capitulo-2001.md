@@ -263,7 +263,3 @@ Y cualquiera que quiera ver esta batalla deberá pagar una tarifa de visualizaci
 Este dinero puede ser mucho dinero para la gente común. Después de todo, incluso si son curiosos, es absolutamente imposible que alguien gaste tanto dinero para ver una batalla entre guerreros, y mucho menos para la gente común. No hay forma de que la gente encuentre este sitio.
 
 Pero para esos guerreros chinos, esta cantidad de dinero no es nada en absoluto, y pueden disfrutar de una batalla épica entre guerreros de tres estrellas, y mucho menos 300,000, incluso si son 3 millones. también dispuestos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

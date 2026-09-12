@@ -113,7 +113,3 @@ Si alguien ofende a Chen Mo ahora, en realidad no es diferente de cortejar a la 
 Li Juncheng miró a Chen Mo con una expresión de alivio en su rostro, ¡porque era la primera vez que Li Juncheng Capítulo veía esperanza en Chen Mo!
 
 ¡Li Juncheng sabe que el actual Chen Mo puede no ser el pobre estudiante que era el anterior!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

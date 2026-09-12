@@ -113,7 +113,3 @@ Aunque la familia Fan no es tan buena como la familia Li, el trasfondo aún da m
 Chen Mo miró a todos con un dejo de desdén en los ojos y no siguió prestando atención a estas personas, sino que extendió la mano y tiró de la silla para sentarse.
 
 En este momento, Chen Mo no quería tener demasiado conflicto con estas personas. Después de todo, si hubiera una pelea real, Su Mubai definitivamente estaría muy avergonzado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

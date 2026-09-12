@@ -119,7 +119,3 @@ Pero en este momento, Tian Haixi dijo de repente.
 “¿Tú también pediste ayuda?”
 
 Zhang Yan miró a Tian Haixi de arriba abajo y preguntó con un tono desdeñoso.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

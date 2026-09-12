@@ -115,7 +115,3 @@ Incluso alguien como Su Ling solo hizo venir a un funcionario del gobierno, pero
 “Este Du Hongtao debería ser el jefe de Hongtao Securities, ¿verdad?”
 
 En este momento, Su Ling tomó la iniciativa de preguntarle a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

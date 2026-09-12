@@ -97,7 +97,3 @@ Después de decir esto, Wang Shuo se dio la vuelta y salió corriendo de la vill
 Y Shi Xinxin y otros no tenían la intención de detener a Wang Shuo en absoluto, porque a sus ojos, el Wang Shuo actual no tiene ningún valor que pueda usarse en absoluto.
 
 Después de que Wang Shuo se fue, Shi Xinxin se giró para mirar a Chen Mo y le dijo a Chen Mo con ternura: “Chen Mo, ahora que el malentendido se ha resuelto y Wang Shuo se ha ido, entonces ¿puedes? Préstame esta villa para mi fiesta de cumpleaños?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -127,7 +127,3 @@ Porque Yan Niancheng pudo ver claramente que justo cuando el puño de Yan He gol
 “¿El control de la respiración de Chen Mo es tan hábil?”
 
 Yan Niancheng no pudo evitar suspirar suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

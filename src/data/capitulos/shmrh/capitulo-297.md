@@ -99,7 +99,3 @@ Su Lieheng vaciló y se giró para mirar a Su Chengkai, como si estuviera planea
 “Papá, de hecho, también he investigado los antecedentes de Chen Mo, pero no se ha investigado nada, solo que es un estudiante ordinario de la Universidad de Nanyang, ¡así que no conozco muy bien a Chen Mo!” Su Chengkai respondió rápidamente una oración.
 
 Su Lieheng respiró hondo después de escuchar esto y luego dijo con el rostro en blanco: “Parece que esta es una oportunidad para nuestra familia Su, y Mu Bai ha encontrado un buen esposo para ti. Hijo- suegro!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

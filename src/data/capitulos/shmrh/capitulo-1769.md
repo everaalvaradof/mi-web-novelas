@@ -211,7 +211,3 @@ Pero si la otra parte viene por Chen Mo, lo más probable es que sean la familia
 La familia Zhang y la familia Xia son muy conscientes de la fuerza de Chen Mo, por lo que definitivamente estarán muy bien preparados.
 
 Pensando en esto, la expresión en el rostro de Chen Mo parecía un poco digna.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

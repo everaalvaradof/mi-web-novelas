@@ -115,7 +115,3 @@ Zhou Yue y Xu Yan estaban tan ansiosos que no sabían qué hacer.
 Chen Mo caminó hacia el ring con una expresión tranquila.
 
 Chen Mo ha estado peleando con Dali todo este tiempo, pero él no sabe cómo son sus habilidades. Hoy, puede aprovechar esta oportunidad para probar sus habilidades.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

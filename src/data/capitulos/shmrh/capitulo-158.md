@@ -145,7 +145,3 @@ Al pensar en esto, las piernas de Zhou Xuan no pudieron evitar ablandarse, ¡y l
 “¿Qué está pasando aquí?”
 
 Zhou Wei todavía no parecía entender la situación. Después de ver a Zhou Xuan arrodillado frente a Chen Mo, no pudo evitar murmurar con una expresión desconcertada una frase.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

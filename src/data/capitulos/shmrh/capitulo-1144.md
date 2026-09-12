@@ -121,7 +121,3 @@ En este momento, eso nunca fue recomendado La hermosa joven que comenzó con Che
 Y cuando el primer anciano escuchó las palabras de la hermosa joven, una pizca de impotencia brilló en sus ojos, y lentamente levantó la cabeza para mirar la ubicación del salón principal, como si estuviera esperando algo.
 
 Chen Mo caminó hacia la posición del gran anciano.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

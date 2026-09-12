@@ -113,7 +113,3 @@ El hecho de que Chen Mo haya ofendido antes a las tres familias principales ha h
 Pero nunca imaginaron que Chen Mo se atrevería a amenazar a la familia Fan en este momento.
 
 ¿No está Chen Mo realmente preocupado de que la familia Fan una fuerzas con las tres familias principales para tratar con él?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

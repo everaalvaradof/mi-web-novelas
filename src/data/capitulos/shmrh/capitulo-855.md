@@ -109,7 +109,3 @@ Chen Mo asintió levemente.
 El mesero le sonrió a Chen Mo, luego se dio la vuelta y se fue.
 
 Después de dudar un rato, Chen Mo saludó a Lin Fei en el baño y luego salió de la habitación.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

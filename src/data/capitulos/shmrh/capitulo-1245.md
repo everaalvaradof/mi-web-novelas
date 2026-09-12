@@ -79,7 +79,3 @@ Los ojos de Fan Yuanze brillaron un poco extraños después de escuchar esto, lu
 “Imposible, si Chen Mo realmente proviene de una familia de artes marciales, entonces naturalmente conocerían a nuestra familia Fan. La fuerza de la familia Li, incluso si le dieran 10,000 coraje, nunca se atrevería a oponerse a nosotros, incluso si este Chen Mo es ignorante, los adultos de la familia no lo serán”.
 
 Li Guangru dijo con mucha confianza.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

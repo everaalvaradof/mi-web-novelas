@@ -111,7 +111,3 @@ Y después de escuchar esto, el Sr. Bai no pudo evitar burlarse y dijo a la lige
 “Sí, creo que Chen Mo tiene bastante confianza”.
 
 “Será mejor que dejes de bromear conmigo, ya es así, ¿cómo puede tener aún la oportunidad de regresar? La alineación del oponente es realmente aterradora, incluso si miramos a nuestro país, nunca superará los diez. Las personas pueden competir con varias familias grandes, y todas estas personas tienen antecedentes increíbles. Si Chen Mo está realmente relacionado con estas personas, Li Guangru definitivamente no lo moverá. Dado que Li Guangru lo ha movido ahora, significa que Chen Mo está con esas personas. No importa quién sea, ¿me dices lo que va a hacer?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

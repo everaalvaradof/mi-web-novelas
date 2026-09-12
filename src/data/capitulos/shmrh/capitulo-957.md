@@ -113,7 +113,3 @@ preguntó Hua Xiaowu después de estar atónito por un rato.
 “Debe ser exacto. La persona a cargo del comerciante de plata en los Estados Unidos acaba de llamarme. ¡No hay necesidad de que me mienta!”
 
 Hua Manting respondió muy en serio.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

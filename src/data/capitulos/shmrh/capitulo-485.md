@@ -123,7 +123,3 @@ Después de que las dos chicas se fueron, Du Yunfei empujó a la hermosa mujer e
 Chen Mo le devolvió a Du Yunfei una frase inexpresiva.
 
 ¡Y lo que Chen Mo le dijo a Du Yunfei hace un momento estaba diciendo que conocía a Du Tianhao tan fácilmente!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

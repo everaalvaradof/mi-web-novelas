@@ -139,7 +139,3 @@ Zhang Zicheng tampoco dijo tonterías y gritó directamente.
 Después de escuchar las palabras de Zhang Zicheng, todos se giraron para mirar a Zhang Zicheng, y las expresiones de sus rostros estaban muy sorprendidas.
 
 Y después de un poco de vacilación, el Sr. Wang de Hongqing Real Estate gritó en voz baja: “¡6,300 millones!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

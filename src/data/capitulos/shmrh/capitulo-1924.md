@@ -197,7 +197,3 @@ Chen Mo llamó a Ouyang Fan mientras conducía y luego le contó brevemente su s
 Ouyang Fan naturalmente está muy dispuesto a cooperar.
 
 Alrededor de media hora más tarde, Chen Mo llevó a Ouyang Fan y Ye Xian’er al hotel donde se hospedaba Shui Ziyou.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

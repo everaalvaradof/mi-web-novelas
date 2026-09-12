@@ -187,7 +187,3 @@ Esta vez, Chen Mo no hizo ningún preparativo en absoluto. ¡Quería usar la for
 ¡La tan esperada batalla finalmente comienza!
 
 ¡El aliento entre el cielo y la tierra está rugiendo, el viento y las nubes están rodando, y el relámpago está brillando!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

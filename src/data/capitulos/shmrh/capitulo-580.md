@@ -79,7 +79,3 @@ Después de todo, esta empresa es la industria trabajadora de la familia Li dura
 “Xixi, el abuelo sabe que no te he prestado suficiente atención durante tantos años y, a veces, no soy muy bueno contigo, pero pase lo que pase, también eres miembro de nuestra familia Li, si te casas, Giving Zhao Ziyi no solo será de gran beneficio para ti, sino también para nuestra familia Li, así que espero que puedas pensarlo detenidamente y tratarlo como si tu abuelo te rogara, ¡de acuerdo!”
 
 En este momento, el aura de Li Baiqiang era significativamente más débil.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

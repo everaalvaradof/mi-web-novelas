@@ -129,7 +129,3 @@ Li Juncheng negó con la cabeza suavemente.
 “¿Sigues esperando a alguien? ¿Quién es?”
 
 Chen Mo preguntó aturdido.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

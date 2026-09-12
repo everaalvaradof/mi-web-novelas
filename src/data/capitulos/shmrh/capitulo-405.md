@@ -109,7 +109,3 @@ Chen Mo asintió levemente.
 Wang Yaoyao sostuvo su corazón con ambas manos y le preguntó a Chen Mo con una expresión expectante.
 
 Chen Mo se sorprendió al escuchar las palabras de Wang Yaoyao. En medio de la noche, Wang Yaoyao invitó a Chen Mo a sentarse en su casa. ¿No es esto una pista para Chen Mo?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

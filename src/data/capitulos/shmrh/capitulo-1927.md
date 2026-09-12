@@ -199,7 +199,3 @@ Xia Qingfeng continuó.
 Xia Xingze asintió y estuvo de acuerdo, y luego, después de conocer la ubicación exacta de Xia Qingfeng, colgó el teléfono y comenzó a recolectar dinero.
 
 Xia Qingfeng colgó lentamente el teléfono y suspiró suavemente, la expresión de su rostro parecía un poco impotente y un poco indispuesta.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

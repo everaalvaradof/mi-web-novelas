@@ -121,7 +121,3 @@ Su Meiling está muy orgullosa de sí misma hoy, así que hay que aprovechar est
 Su Chengkai y Yang Fang se miraron con sentimientos encontrados.
 
 En este momento, el teléfono de Su Meiling sonó de repente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

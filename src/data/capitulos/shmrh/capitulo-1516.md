@@ -107,7 +107,3 @@ Zuo Qingna no pudo evitar consolarse a sí misma en su corazón Después de deci
 Es por eso que Zuo Qingna guió deliberadamente a Chen Mo en esta dirección.
 
 Y lo que Chen Mo está pensando ahora es encontrar a Luo Qiu rápidamente, para que ni siquiera sepa que ha sido engañado por Zuo Qingna.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -121,7 +121,3 @@ Gao Feifei dijo rápidamente.
 Chen Mo entrecerró los ojos hacia Gao Feifei y Li Kai, no solo no había ira en su corazón, sino que quería reírse.
 
 Debido a que Chen Mo tiene curiosidad, ¿cómo se verán los dos a continuación?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

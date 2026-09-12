@@ -101,7 +101,3 @@ Chen Mo se quedó atónito por un momento.
 “Sí, es ese auto deportivo muy caro. ¿Robaste ese auto?”, le preguntó Xu Yan a Chen Mo sin rodeos.
 
 Chen Mo escuchó las palabras de Xu Yan y finalmente entendió lo que Xu Yan quería decir con el automóvil, un indicio de impotencia brilló en sus ojos y luego dijo a la ligera: “Presidente, ese automóvil es en realidad mío. Mi amigo, yo pasó a recoger el auto de mi amigo ese día, pero descubrí que tocaste el auto de mi amigo. Me preocupaba que tuvieras una carga psicológica, así que deliberadamente te dejé ir primero. Te lo expliqué en ese momento, pero Siempre lo has creído”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

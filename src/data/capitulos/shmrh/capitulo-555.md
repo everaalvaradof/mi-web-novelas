@@ -123,7 +123,3 @@ Zhang Wei levantó las cejas y le preguntó suavemente a Chen Mo.
 Chen Mo no prestó atención a Zhang Wei en absoluto, pero sacó su teléfono móvil de sus pantalones, luego encontró el número de teléfono de Su Hongxiao y llamó.
 
 Xu Weiwei miró expectante a Chen Mo. Sabía que si Chen Mo realmente conocía a Su Hongxiao, entonces este asunto sería fácil de manejar hoy.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

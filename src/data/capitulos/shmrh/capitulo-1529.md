@@ -125,7 +125,3 @@ Li Taibai le dijo a Guan Qiankun con el rostro en blanco.
 “Sí, perdí contra ti en ese entonces, pero en ese momento solo estaba en el reino de un maestro de artes marciales de una estrella, y tú eras un maestro de artes marciales de dos estrellas, así que perdí en tus manos también. Es algo muy normal, y ahora también he llegado al maestro de artes marciales de doble estrella, ¡no es seguro quién ganará o perderá hoy!”
 
 Guan Qiankun respondió directamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

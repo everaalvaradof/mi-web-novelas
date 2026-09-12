@@ -145,7 +145,3 @@ dijo Chen Mo en un susurro.
 En este momento, Tang Qingqing sabía que Chen Mo había encontrado a Su Mubai y, naturalmente, Él también estaba muy feliz y respondió rápidamente a Chen Mo.
 
 Chen Mo estuvo de acuerdo y colgó el teléfono.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

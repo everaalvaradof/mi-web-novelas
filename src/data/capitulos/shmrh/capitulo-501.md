@@ -149,7 +149,3 @@ Después de escuchar esta frase, Liu Rui se quedó estupefacto de nuevo. Miró a
 “Lo dije hace mucho tiempo, ¡no lo creerás!”
 
 Meng Liang dijo impotente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

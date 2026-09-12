@@ -121,7 +121,3 @@ En este momento, Chen Mo todavía lo lamentaba mucho. Lamentó no haber venido a
 Los problemas en torno a Chen Mo son muchos ahora, y él no quiere que estas cosas lo distraigan.
 
 Y Li Tianbai miró la espalda de Chen Mo con una sonrisa. Sabía en su corazón que hay algunas cosas de las que Chen Mo no puede escapar ahora. Es como lo que dijo hace un momento, algunas cosas estaban condenadas. desde el principio.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

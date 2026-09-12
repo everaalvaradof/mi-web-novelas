@@ -123,7 +123,3 @@ Chen Mo sacó la nota mientras hablaba.
 El primer anciano miró la nota que Chen Mo le entregó, y luego había una pizca de impotencia en sus ojos, y dijo suavemente: “Joven maestro Chen, lo siento mucho, estos tres medicamentos Las hierbas que quieres están en nuestro Valle Brumoso. No”
 
 El Gran Anciano en este momento no sabía si Yan She realmente no estaba con Chen Mo, por lo que ya había enviado a alguien a investigar, solo cuando estaba completamente seguro de que Yan She no vino con Chen Mo, el Gran Anciano Will le hará algo a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

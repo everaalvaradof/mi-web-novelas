@@ -129,7 +129,3 @@ Zhou De repente te levantaste después de escuchar las palabras de Chen Mo y le 
 “Sabes lo que quiero hacer en tu propia mente. si no Si no me llevas a Misty Valley, entonces tendré que pensar en otra cosa”.
 
 dijo Chen Mo con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

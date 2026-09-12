@@ -97,7 +97,3 @@ Zhou You es una persona de Misty Valley, por lo que también tiene cierta compre
 Después de escuchar las palabras de Zhou You, Lu Xiangyang mostró una pizca de impotencia en sus ojos y luego dijo suavemente: “Mi padre no estaba enfermo, pero fue envenenado, pero en cuanto al veneno, ahora lo estoy. No es muy claro. Alguien me dijo que mientras encuentre el Misty Valley y le diga a la gente de Misty Valley sobre la situación de mi padre, me darán un antídoto. Este antídoto puede curar muchas enfermedades. No sé si lo es. No es cierto, pero no tengo más remedio que probar suerte”
 
 Zhou asintió levemente, no dice más, pero ella sabe que Lu Xiangyang el asunto debe resolverse fácilmente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

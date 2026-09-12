@@ -113,7 +113,3 @@ Chen Mo volvió la cabeza para mirar a Wen Ruoxi y le preguntó suavemente a Wen
 Wen Ruoxi respondió rápidamente a Chen Mo.
 
 Chen Mo asintió, luego entrecerró los ojos hacia la gente de la familia Wen y dijo en voz baja: “El jefe de su familia Wen, Wen Zhentian, quería matarme unos hace unos días. Todos deberían estar al tanto de esto, ¿verdad?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

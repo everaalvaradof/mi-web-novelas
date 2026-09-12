@@ -119,7 +119,3 @@ Chen Mo evitó fácilmente el cuenco de porcelana volador y luego se quedó en s
 Chen Xingfa estaba extremadamente enojado con él Chen Mo maldijo.
 
 Chen Mo se burló y luego dijo sin expresión: “¿Crees que es digno?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

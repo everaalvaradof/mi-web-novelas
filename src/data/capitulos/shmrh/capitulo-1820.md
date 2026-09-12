@@ -177,7 +177,3 @@ Zhao Rongguang vio que el Grupo Zhao estaba creciendo constantemente bajo el lid
 Pero en sus huesos, todavía menospreciaba a personas como Xia Qingfeng.
 
 Debido a que sintió que Xia Qingfeng no comprometió los medios para el propósito, fue un poco desvergonzado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

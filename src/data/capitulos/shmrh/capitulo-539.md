@@ -141,7 +141,3 @@ Li Juncheng se paró junto a Fan Liang y explicó a la ligera.
 “¿Chen Chenmo es su jefe, Sr. Li?”
 
 Fan Liang se quedó estupefacto nuevamente después de escuchar esto, y la expresión en su rostro, aturdido, era increíble.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

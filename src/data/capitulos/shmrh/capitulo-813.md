@@ -109,7 +109,3 @@ Aunque Chen Mo no tenía idea acerca de Ye Xueqi, no pudo evitar echar un segund
 Ye Xueqi también parece haber notado que Chen Mo ha estado mirando sus piernas todo el tiempo, una mirada extraña brilló en sus hermosos ojos, para aliviar la vergüenza, le dijo suavemente a Chen Mo: ” Chen Mo, hace un momento el médico no te dijo que le dieras ¿Tengo un masaje?”
 
 Chen Mo no pudo evitar quedarse atónito cuando escuchó el mensaje de Ye Xueqi. palabras.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

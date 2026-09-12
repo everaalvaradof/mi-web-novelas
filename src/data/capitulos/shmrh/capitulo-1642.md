@@ -125,7 +125,3 @@ Chen Mo miró a Qin Yibing y dijo.
 “¿Algo muy importante?”
 
 Qin Yibing no pudo evitar congelarse por un momento después de escuchar las palabras de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

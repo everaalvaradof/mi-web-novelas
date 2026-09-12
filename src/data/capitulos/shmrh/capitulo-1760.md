@@ -185,7 +185,3 @@ Su Mubai parecía sentirse mucho mejor después de escuchar las palabras de Chen
 Chen Mo palmeó el hombro de Su Mubai y dijo suavemente.
 
 Su Mubai asintió, luego llevó a Chen Mo a encontrar su asiento y sentarse.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -127,7 +127,3 @@ Chen Mo respondió en un tono muy tranquilo.
 Su Muyu abrió la boca y quería hablar.
 
 Pero Wang Zijing y otros ya habían caminado frente a Chen Mo, Wang Zijing miró a Chen Mo de arriba abajo y preguntó en un tono muy dominante: “Lo golpeaste justo ahora, ¿no?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

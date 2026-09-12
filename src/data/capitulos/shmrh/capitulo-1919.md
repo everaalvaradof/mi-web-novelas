@@ -159,7 +159,3 @@ Wang Ming entendió lo que Xia Qingfeng quería decir y rápidamente se puso de 
 dijo Xia Qingfeng sin expresión.
 
 Xia Xingze estuvo de acuerdo y luego tomó la iniciativa de enviar a Wang Ming fuera de la oficina.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -117,7 +117,3 @@ Tian Haixi estuvo nerviosa por un momento y no sabía qué hacer. Solo podía mi
 “Señorita Qi, no creo que deba estar tan nerviosa, porque el final de Chen Mo ha estado condenado desde el principio. Creo que este Chen Mo es demasiado estúpido. Él ya sabía que había fue una emboscada, pero aun así lo hizo. Atrévete a venir aquí solo, ¿no es obvio que vas a morir?”
 
 Qian Guanglin le dijo a Tian Haixi con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

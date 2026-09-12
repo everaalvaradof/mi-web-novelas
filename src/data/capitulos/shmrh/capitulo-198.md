@@ -117,7 +117,3 @@ Ambos están esperando la última ola de sprints, ¡y el que tenga más dinero s
 Chen Mo se sentó detrás de Luo Qiu con una expresión casual. Sabía que Luo Qiu no podía perder hoy, porque Chen Mo podría ser pobre ahora y solo le queda dinero.
 
 ¡Ser más rico que el heredero del hombre más rico del mundo no es básicamente diferente de cortejar a la muerte!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

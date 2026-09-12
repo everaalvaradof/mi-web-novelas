@@ -109,7 +109,3 @@ Chen Mo respondió con calma.
 Después de escuchar las palabras de Chen Mo, Yan Lulu estaba completamente estupefacta y miró a Chen Mo con una expresión increíble.
 
 Aunque esta es la ciudad de Beihang, Yan Lulu todavía escuchó algunas cosas sobre Chen Gongzi en la ciudad de Nanyang de sus padres. Yan Lulu no esperaba que Chen Mo fuera Chen Gongzi.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

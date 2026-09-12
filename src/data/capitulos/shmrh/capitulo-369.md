@@ -97,7 +97,3 @@ Chen Mo preguntó con el ceño fruncido.
 Dijo lentamente Li Juncheng.
 
 Chen Mo se quedó estupefacto al escuchar las palabras de Li Juncheng, no esperaba haber encontrado finalmente la pista de la muerte de sus padres, pero terminó así.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

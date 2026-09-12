@@ -103,7 +103,3 @@ Después de que Li Guangru escuchó las acusaciones de todos contra Chen Mo, su 
 Aunque Li Guangru dijo estas palabras con mucha calma, todos los presentes sabían que Li Guangru dijo estas palabras, lo que significa que ha planeado hacerle algo a Chen Mo.
 
 Y Li Ming detrás de Li Guangru también está siempre listo para atacar a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

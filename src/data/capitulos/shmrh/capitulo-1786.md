@@ -163,7 +163,3 @@ Sun Chuang y Wang Tao, que aún estaban descansando, gritaron después de ver es
 Los dos pensaron que Zhou Yu sería capaz de sostener la mano de Chen Mo por un tiempo y ganarles un poco de tiempo, pero lo que nunca esperaron fue que Zhou Yu caería tan rápido.
 
 Chen Mo sabía que Zhou Yu había perdido por completo su capacidad de resistencia, así que volvió la cabeza para mirar a Sun Chuang y Wang Tao.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

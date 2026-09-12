@@ -103,7 +103,3 @@ Yang Fang sonrió y le dijo a Su Mubai.
 “¿Qué? ¿Recibiste el certificado de matrimonio?”
 
 Su Mubai se quedó atónito cuando escuchó las palabras de Yang Fang, ¡la expresión de su rostro era increíble!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

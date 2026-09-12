@@ -111,7 +111,3 @@ Zhou You vaciló un momento y luego entró directamente a la tienda.
 Después de un tiempo, Zhou You salió de la tienda con un gran sombrero en la cabeza y un par de gafas de sol negras en la cara, bloqueando directamente la mayor parte de su bonita cara.
 
 Los ojos de Chen Mo brillaron con una pizca de impotencia después de ver a Zhou You disfrazado, y luego dijo en voz baja: “Eres demasiado motivado, estas personas me miran a mí, no a ti. ¿De verdad piensas en como una gran belleza?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

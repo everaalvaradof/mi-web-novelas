@@ -123,7 +123,3 @@ Wen Ruoxi estaba un poco abrumado por la repentina confesión de Zhang Feng.
 “Ruoxi, realmente me gustas, ¿puedes ser mi novia?”
 
 Zhang Feng continuó preguntando mientras el hierro estaba caliente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

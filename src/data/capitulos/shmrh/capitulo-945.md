@@ -107,7 +107,3 @@ Después del discurso de Lei Zhenming, la recepción comenzó oficialmente.
 Los líderes empresariales que Capítulo conocieron a Chen Mo una vez se acercaron al lado de Chen Mo y ofrecieron un brindis por Chen Mo.
 
 Wei Chen, Su Bai y otros vieron esta escena, ¡y sus corazones se mezclaron aún más!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

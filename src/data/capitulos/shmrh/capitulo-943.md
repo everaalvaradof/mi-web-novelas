@@ -93,7 +93,3 @@ Después de dudar por un momento, Li Juncheng se levantó lentamente y caminó h
 Li Juncheng tomó el micrófono del anfitrión y luego saludó brevemente a los jefes presentes, y luego fijó su mirada en Chen Mo, que no estaba muy lejos, mientras Chen Mo asentía suavemente, indicando que Li Juncheng estaba Listo.
 
 Li Juncheng sonrió levemente y dijo suavemente: “Sé que puedes tomarte un tiempo de tu apretada agenda para venir aquí, no por mí, Li, todos quieren conocer al jefe de nuestra compañía, Chen Gongzi. Arriba, y el Sr. Chen también está en este banquete, ¡así que invitemos al Sr. Chen a subir al escenario y decir algunas palabras!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

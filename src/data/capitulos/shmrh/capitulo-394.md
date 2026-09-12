@@ -109,7 +109,3 @@ Zhang Guangzhi sabía que Chen Mo podría haberlo dejado ir ahora porque tenía 
 Wang Yaoyao dejó escapar un largo suspiro después de escuchar las palabras de Zhang Guangzhi, porque sabía que mientras Chen Mo se disculpara con Zhang Guangzhi ahora, ¡el incidente de hoy terminaría!
 
 Pero puede que ella no sepa, ¿cómo podría Chen Mo disculparse con alguien como Zhang Guangzhi ahora?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

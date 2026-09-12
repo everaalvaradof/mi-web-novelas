@@ -117,7 +117,3 @@ Uno de los mejores amigos miró a Chen Mo y preguntó con un tono de perplejidad
 “Ella es una amiga que conocí en la ciudad de Nanyang”
 
 Su Mi explicó a la ligera, y luego continuó: “¿Ya han entregado los vestidos?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

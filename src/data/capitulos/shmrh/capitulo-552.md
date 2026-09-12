@@ -111,7 +111,3 @@ Li Zixi asintió rápidamente.
 “¡Está bien, entonces esperaré!”
 
 Wei Ge respondió sin expresión, y luego indicó a las personas debajo de él que no hicieran nada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

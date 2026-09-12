@@ -163,7 +163,3 @@ Varios guardaespaldas estuvieron de acuerdo, y luego corrieron directamente haci
 “Originalmente, podría resolverse arrodillándose y pidiendo disculpas, pero ahora tenemos que hacer las cosas así”.
 
 Todos los presentes parecían haber pensado en el destino de Chen Mo, y todos comenzaron a presentarse en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

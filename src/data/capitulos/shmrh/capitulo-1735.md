@@ -193,7 +193,3 @@ Después de hacer todas estas cosas, el avión despegó de nuevo.
 Pero la mayoría de los pasajeros ya han optado por bajarse del avión y tomar otros vuelos a Beijing.
 
 Y Chen Mo sabe que el verdadero asesino también debe bajarse del avión, por lo que este avión debe ser el más seguro en este momento. Si él y Zhang Ziqing eligen otro vuelo para regresar en este momento, tomará mucho tiempo No se sabe lo que va a pasar en el medio.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

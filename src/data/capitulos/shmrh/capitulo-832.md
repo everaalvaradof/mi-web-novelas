@@ -115,7 +115,3 @@ En un abrir y cerrar de ojos, ha pasado un tiempo de clase.
 Chen Mo se estiró un poco y se levantó para ir al baño con Meng Liang y Liu Rui, pero justo cuando Chen Mo se puso de pie, vio a dos niñas entrar al salón de clases con tacones altos.
 
 Cuando Chen Mo vio a las dos chicas, se quedó atónito por un momento y la expresión de su rostro se derrumbó anormalmente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

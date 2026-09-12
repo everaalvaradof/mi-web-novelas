@@ -93,7 +93,3 @@ Y Su Mi miró al director Wang con desdén y dijo a la ligera: “Ya es esta vez
 Después de escuchar las palabras de Su Mi, el director Wang sintió que sus piernas estaban débiles y casi no se desmaya en el acto, porque no esperaba que Su Mi lo despidiera directamente, el resultado de este tratamiento fue demasiado grande.
 
 El director Wang inconscientemente miró la posición de Su Bai, como si quisiera que Su Bai lo ayudara.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -101,7 +101,3 @@ El país M todavía está muy lejos de la ciudad de Beihang, y toma casi diez ho
 Para hacer que el tiempo pasara más rápido, Chen Mo comenzó a dormir después de subirse al avión.
 
 Porque Chen Mo sabía en su corazón que una vez que llegara al país M, tendría muchas cosas que hacer y probablemente no tendría tiempo para descansar.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

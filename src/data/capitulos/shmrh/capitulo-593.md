@@ -93,7 +93,3 @@ Y Li Baiqiang dejó escapar un largo suspiro en este momento, y rápidamente pre
 “El Sr. Li tiene a alguien que quiere entrar, pero no quiere entrar. No se declara ninguna identidad”.
 
 El guardaespaldas respondió rápidamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

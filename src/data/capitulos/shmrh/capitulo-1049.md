@@ -107,7 +107,3 @@ Chen Mo asintió levemente y luego comenzó a recordar todo lo que había sucedi
 Chen Mo no le ocultó nada a Su Mubai esta vez. Excepto por su relación con Luo Qiu y Wang Yaoyao, todo lo demás se le dijo a Su Mubai uno por uno, y Su Mu Bai Ze ha estado escuchando en silencio. con una expresión muy seria en su rostro.
 
 Su Mubai nunca pensó que tantas cosas le pasarían a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

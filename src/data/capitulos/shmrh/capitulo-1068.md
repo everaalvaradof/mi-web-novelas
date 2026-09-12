@@ -121,7 +121,3 @@ A los ojos de Jiang Qiwei, ¡personas como Chen Mo y Su Mubai deberían pertenec
 “¿Cómo puede un pobre muchacho como Chen Mo tener una intersección con Mu Bai?”
 
 Jiang Qiwei no pudo evitar susurrar.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

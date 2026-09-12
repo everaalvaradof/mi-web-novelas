@@ -133,7 +133,3 @@ Las palabras de Li Juncheng fueron arrojadas a la multitud como una bomba, y las
 ¡Conocer el nombre de Li Taibai es como un trueno!
 
 ¡Incluso algunas personas que no conocen las artes marciales han escuchado el nombre de Li Taibai!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

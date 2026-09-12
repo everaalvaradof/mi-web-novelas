@@ -101,7 +101,3 @@ He Shishi se ve bien y tiene una figura muy buena, por lo que tenía un deseo de
 Y Chen Mo todavía estaba desconcertado, sin saber de qué estaba hablando Yao Beiyu.
 
 Yao Beiyu vio la expresión en el rostro de He Shishi y supo que lo que dijo había conmovido a He Shishi, y dijo rápidamente: “Te digo, este Tianyi Entertainment pertenece a la familia de Wang Tianshi. tengo una muy buena relación con el Sr. Wang, y se los presentaré cuando llegue el momento”.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

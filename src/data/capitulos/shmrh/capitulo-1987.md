@@ -339,7 +339,3 @@ Después de todo, la acción de Anderson significa que todo el país M se inclin
 Pero ahora nadie se atreve a objetar, porque tienen muy claro en sus corazones que esta puede ser la mejor manera en este momento.
 
 Después de todo, si no aceptan la suavidad, solo pueden seguir luchando así.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

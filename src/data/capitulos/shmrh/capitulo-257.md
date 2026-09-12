@@ -111,7 +111,3 @@ Su Muyu dijo sin palabras.
 “Entonces no me importa. De todos modos, ahora te daré dos opciones. O dejas que este apestoso recolector de basura toque el piano conmigo, o se conocen ahora, o nadie quiere ¡Vete hoy!”
 
 Zhao Xiaoyou gritó con arrogancia.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

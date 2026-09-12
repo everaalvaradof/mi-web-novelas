@@ -107,7 +107,3 @@ Chen Mo preguntó en voz baja.
 Todos miraron la posición de Chen Mo con una expresión inusualmente muda en sus rostros. Nadie pensó que Chen Mo se atrevería a decir esto.
 
 A los ojos de esta rica segunda generación, Chen Mo y los demás son solo personas comunes y es imposible que Dai Hao se disculpe con ellos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

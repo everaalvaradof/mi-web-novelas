@@ -103,7 +103,3 @@ No fue porque Chen Mo quisiera irse. justo ahora tenía miedo, pero como Chen Mo
 “Maestro Chen, ¿ha decidido quedarse?”
 
 Li Juncheng le preguntó emocionado a Chen Mo cuando escuchó las palabras de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

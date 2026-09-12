@@ -137,7 +137,3 @@ Chen Mo respondió después de pensar un rato.
 Tang Qingqing respondió camino.
 
 Chen Mo asintió con la cabeza y luego colgó el teléfono.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

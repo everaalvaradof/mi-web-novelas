@@ -127,7 +127,3 @@ Tang Qingqing suspiró con remordimiento.
 Su Mubai vaciló y le preguntó suavemente a Chen Mo.
 
 En la oficina, Su Mubai sintió que cuando Gu Qing le pidió a Chen Mo que le entregara la partitura, la expresión de Chen Mo estaba muy equivocada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

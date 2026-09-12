@@ -133,7 +133,3 @@ Chen Mo miró a la mujer y dudó un momento, luego susurró: “Mi nombre es Che
 La mujer interrumpió a Chen Mo directamente.
 
 Chen Mo miró a la mujer y se quedó sin palabras.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

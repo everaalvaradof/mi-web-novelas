@@ -99,7 +99,3 @@ Ye Xueqi vaciló, luego miró fijamente. Gritó con grandes ojos llorosos.
 El hombre de mediana edad respondió con frialdad.
 
 Ye Xueqi se congeló cuando escuchó las palabras del hombre de mediana edad, su rostro estaba extremadamente desesperado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

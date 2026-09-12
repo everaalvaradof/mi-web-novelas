@@ -119,7 +119,3 @@ Bai Zhibing vaciló por un momento y le preguntó suavemente a Bai Zhennan.
 “Es así, se descubrió una pieza de jade rojo en Sudáfrica. La pureza de este jade es muy alta, y cuando se descubrió, parecía un ojo rojo, por lo que recibió su nombre “. Es el ojo del diablo. Más tarde, esta pieza del ojo del diablo fue subastada a un precio de mil millones de dólares estadounidenses. Luego invitó a un diseñador muy famoso en el mundo para diseñar varios tipos de accesorios, como pulseras, anillos y collares. cosas, y debería incluir este colgante de jade”
 
 dijo Bai Zhennan con una expresión muy emocionada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

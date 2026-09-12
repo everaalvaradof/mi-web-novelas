@@ -117,7 +117,3 @@ Gritó Zhao Xicheng con algunas dudas.
 Zhao Jinyu respondió rápidamente después de escuchar la voz de Zhao Xicheng.
 
 Después de escuchar las palabras de Zhao Jinyu, la expresión de Zhao Xicheng parecía estar aún más perpleja. Se apresuró a entrar en la cocina y descubrió que Zhao Jinyu estaba cocinando en este momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

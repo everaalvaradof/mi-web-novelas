@@ -219,7 +219,3 @@ Chen Mo le preguntó suavemente a Wang Siyuan.
 Dijo Wang Siyuan rápidamente.
 
 Chen Mo asintió levemente y luego continuó preguntando: “¿Cuánto tiempo lleva refinar la fruta? ¿Hay algo que deba hacer?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

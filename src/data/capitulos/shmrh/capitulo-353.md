@@ -159,7 +159,3 @@ Chen Mo y Wang Liangyi también giraron la cabeza para mirar el ascensor. En est
 Pero cuando todos vieron a la gente salir del ascensor, todos quedaron atónitos.
 
 ¡Porque la persona que salió del ascensor no era Su Mubai en absoluto!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

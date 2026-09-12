@@ -119,7 +119,3 @@ Chen Mo asintió levemente asintió.
 “¿Qué hiciste ayer? ¿Por qué no volviste en toda la noche? ¿Saliste a buscar a la señorita?”
 
 Yan Miró a Chen Mo y siguió preguntando.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

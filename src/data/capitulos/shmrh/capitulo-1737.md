@@ -131,7 +131,3 @@ Un rastro de duda brilló en los ojos de Zhang Fansheng, como si sintiera que al
 “¡Es una foto de la dama y esa persona!”
 
 Susurró el ama de llaves.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

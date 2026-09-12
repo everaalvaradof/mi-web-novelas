@@ -117,7 +117,3 @@ Pero también sabían que era normal que Chen Mo se pusiera de pie y cediera su 
 Después de que Wang Gongzi vio a Chen Mo ponerse de pie, se rió muy feliz.
 
 Y Chen Mo miró al príncipe con indiferencia y dijo sin expresión: “¡No me puse de pie para darte un asiento, sino para facilitar que mi amigo saliera!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

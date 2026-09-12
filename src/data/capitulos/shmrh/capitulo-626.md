@@ -117,7 +117,3 @@ Y Bai Zhibing también tenía una cara seria en este momento, no sabía lo que e
 Después de un tiempo, Chen Mo y Su Mi desaparecieron de la vista de todos.
 
 Solo quedaron el director Wang, que se había desmayado en coma, y ​​Su Bai, que tenía una expresión muy fea en el rostro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -135,7 +135,3 @@ Dijo Lin Qingqian en voz baja.
 “¿Entonces tienes novio?”
 
 Chen Mo vaciló y preguntó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

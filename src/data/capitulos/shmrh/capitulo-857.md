@@ -97,7 +97,3 @@ Qi Cuando Ya escuchó las palabras de Chen Mo, de repente levantó la cabeza y m
 Sin embargo, en este momento, Chen Mo habló de nuevo.
 
 Qi Ya asintió rápidamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

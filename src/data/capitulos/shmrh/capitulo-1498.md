@@ -135,7 +135,3 @@ An Zhenbei abrió la boca y estaba a punto de hablar con Chen Mo.
 Pero An Xiaowu de repente se detuvo frente a Chen Mo y le dijo nerviosamente a An Zhenbei: “Patriarca, Chen Mo es mi amigo, solo estaba bromeando conmigo, no tienes el mismo conocimiento que Chen”. ¡Mo!”
 
 An Zhenbei no pudo evitar quedarse atónito después de escuchar las palabras de An Xiaowu.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

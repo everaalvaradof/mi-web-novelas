@@ -123,7 +123,3 @@ Meng Liang sonrió a través de su dientes Jeje dijo.
 Chen Mo accedió muy generosamente.
 
 Justo cuando Chen Mo terminó de hablar, hubo un sonido nítido de zapatos de tacón alto golpeando el suelo fuera del salón de clases, y todo el salón quedó en silencio al instante.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

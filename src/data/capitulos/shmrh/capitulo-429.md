@@ -101,7 +101,3 @@ Y en el momento en que Chen Mo se dio la vuelta, de repente sonó el teléfono c
 Después de que Chen Mo escuchó la voz del teléfono móvil, rápidamente volvió a mirar el teléfono móvil que había colocado junto a la cama. ¡Las palabras Wang Yaoyao estaban escritas en él!
 
 Después de que Chen Mo vio que era Wang Yaoyao quien lo llamó, se quedó estupefacto, porque en ese momento Wen Ruoxi estaba muy cerca de su teléfono móvil, y Wen Ruoxi instintivamente caminó hacia la posición del teléfono móvil.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

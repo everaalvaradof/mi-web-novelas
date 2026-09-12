@@ -177,7 +177,3 @@ Después de escuchar las palabras de Ye Xian’er, Chen Mo directamente Estaba a
 Ye Xian’er no sabía cómo explicarle a Chen Mo, así que bajó la cabeza y corrió directamente hacia Chen Mo para besarla.
 
 Chen Mo miró a Ye Xian’er y no supo qué decir. No podía entender lo que estaba pasando por la mente de esta mujer. ¡En este momento, todavía tenía la intención de besarla!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

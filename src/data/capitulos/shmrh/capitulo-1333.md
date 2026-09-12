@@ -127,7 +127,3 @@ Después de escuchar las palabras de Duan Chenjie, todos los presentes quedaron 
 “Joven maestro Duan, si continúa causando problemas como este, nadie se verá bien”
 
 Xue Yuqi miró a Duan Chenjie y dijo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -141,7 +141,3 @@ respondió Zhang Xichuan.
 Zhang Xize no pudo evitar quedarse atónito cuando escuchó estas palabras, y luego caminó hacia el exterior de la habitación secreta.
 
 En este momento, es posible que Zhang Xichuan y Zhang Xize no lo sepan, de hecho, Chen Mo no leyó ningún otro documento después de ingresar a la habitación secreta, y solo vino aquí por la unidad flash USB de Feng Xing.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

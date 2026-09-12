@@ -103,7 +103,3 @@ Li Juncheng hizo una pausa por un momento y luego continuó: “Si los mercadere
 “Entonces quiere decir que es probable que los mercaderes de plata me ataquen de nuevo en el futuro, ¿verdad?”
 
 Chen Mo entendió al instante lo que quería decir Li Juncheng y le preguntó a Li Juncheng con entusiasmo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

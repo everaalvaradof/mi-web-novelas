@@ -91,7 +91,3 @@ Wen Ruoxi miró a Chen Mo, luego tartamudeó y preguntó: “Si realmente sigue 
 Chen Mo miró a Wen Ruoxi con mucha calma.
 
 Wen Ruoxi se sentó en el lugar aturdida, sin saber cómo describir su estado de ánimo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -85,7 +85,3 @@ Su Mubai le gritó a Chen Mo.
 Chen Mo se sentó en el lugar y dudó durante dos segundos, luego sonrió impotente y dijo en voz baja: “Lo que sea que pienses, de todos modos, ahora ya no estoy calificado para heredar la herencia, pronto lo haré”. Conviértete en una persona común, y sigues siendo la dama mayor de la familia Su, si no tengo nada, probablemente no estarás conmigo, ¿verdad? ¡Así que estas cosas no tienen sentido!”
 
 Su Mubai escuchó las palabras de Chen Mo, y antes de siquiera pensar en ello, abofeteó a Chen Mo y luego miró los grandes ojos llorosos de Chen Mo. Gritó: “Chen Mo, siente tu propia conciencia y piensa al respecto, ¿estoy contigo por tu dinero? ¿Cuándo dije que me iría si no tienes dinero?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

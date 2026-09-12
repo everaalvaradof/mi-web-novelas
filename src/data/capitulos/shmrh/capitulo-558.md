@@ -107,7 +107,3 @@ Pero en ese momento, un Mercedes-Benz negro se detuvo en la entrada del hotel, y
 “¡Esta espalda es tan familiar! Parece que la he visto en alguna parte”
 
 Porque Chen Mo no puede ver la cara de la belleza en este momento, pero puede ver la espalda atractiva, ¿puede No lo soporto Ella suspiró suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

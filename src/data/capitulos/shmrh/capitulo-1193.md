@@ -135,7 +135,3 @@ continuó preguntando Chu Lan.
 “En realidad no costó mucho, y no lo hiciste a propósito ese día, o de lo contrario, ¡olvídalo!”
 
 Chen Mo dijo en voz baja después de pensar por un momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

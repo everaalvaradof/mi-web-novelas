@@ -111,7 +111,3 @@ Li Juncheng caminó hacia el lado de Chen Mo y preguntó con un tono desconcerta
 Chen Mo respondió en voz baja y luego continuó: “Tú ayudas preparo dos habitaciones ahora. por cierto, estoy preparando dos juegos de ropa, voy a ir a Sujia Town”
 
 Li Juncheng asintió rápidamente y acordado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

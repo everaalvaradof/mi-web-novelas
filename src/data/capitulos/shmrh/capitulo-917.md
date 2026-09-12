@@ -113,7 +113,3 @@ Zhao Anan llevó a Fang Beihang a la escuela.
 Después de que Fang Beihang entró en la escuela, esta frase salió repentinamente en la transmisión de la escuela.
 
 Y esta frase hizo hervir directamente a los estudiantes de la Universidad de Nanyang, porque los 300.000 yuanes patrocinados por Fang Beihang rompieron directamente el récord anterior de 200.000 cuotas de patrocinio creadas por Xu Feng.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

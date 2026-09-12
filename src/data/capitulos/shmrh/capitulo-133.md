@@ -133,7 +133,3 @@ Nadie pensó que Chen Mo sería tan duro y quería sacar a todos de la empresa.
 Chen Mo miró a Su Mubai a la ligera, luego se dio la vuelta y quiso salir de la sala de conferencias.
 
 Su Mubai miró a Chen Mo sin comprender, con una expresión muy perpleja. En este momento, Su Mubai no sabía si Chen Mo estaba bromeando consigo mismo o en serio.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

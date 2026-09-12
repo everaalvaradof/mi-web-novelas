@@ -125,7 +125,3 @@ dijo Luo Qiujiao con una sonrisa.
 ¡Chen Mo de repente se dio cuenta de lo que sucedió cuando escuchó las palabras de Luo Qiu!
 
 Resulta que Luo Qiu dijo que quería competir con Chen Mo de manera justa por Su Mubai, ¡pero eso fue porque Luo Qiu se enamoró de Su Mubai!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

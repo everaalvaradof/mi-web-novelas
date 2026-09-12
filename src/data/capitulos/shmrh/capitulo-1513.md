@@ -119,7 +119,3 @@ An Zhenbei dijo con una sonrisa.
 Chen Mo respondió directamente.
 
 An Zhenbei no pudo evitar reírse cuando escuchó las palabras de Chen Mo, y luego continuó: “Maestro Chen, ¿quién mató a Guan Yifan? Ya no es importante, lo importante es que todos piensan que el Sr. Chen lo mató y, lo que es más importante, el Maestro Guan ahora está listo para vengar a su nieto, así que Sr. Chen, su situación actual es muy, muy, muy importante. ¡Peligrosa!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -137,7 +137,3 @@ En este momento, una idea muy audaz de repente brilló en el corazón de Chen Mo
 “No, ¿cómo podría gustarle a una mujer como Yan She? Pero si no le gusto, ¿por qué haría esto?”
 
 Chen Mo miró a Yan She. La expresión en el rostro de Musk estaba inusualmente desconcertado.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

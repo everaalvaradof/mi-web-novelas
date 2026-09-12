@@ -135,7 +135,3 @@ Lin Qiushui le dijo suavemente a Chen Mo.
 Después de escuchar las palabras de Lin Qiushui, los camareros que estaban ocupados en el bar quedaron atónitos y parecían muy sorprendidos.
 
 ¿Lin Qiushui realmente quería llevarse a Chen Mo a casa?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

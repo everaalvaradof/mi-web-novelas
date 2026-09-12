@@ -163,7 +163,3 @@ el anciano dijo suavemente a Chen Mo.
 “Si no hubiera tomado la iniciativa de preguntar, ¿cuánto tiempo me lo ibas a ocultar? ¿Qué quieres decir? Has estado escondiéndome algo tan grande todo el tiempo. Dile yo si la puerta está en tus ojos?”
 
 Chen Mo respondió con los ojos rojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

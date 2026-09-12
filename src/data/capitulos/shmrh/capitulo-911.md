@@ -121,7 +121,3 @@ En este momento, un niño no pudo evitarlo, frunciendo el ceño y gritando.
 Ren Bo dijo con una sonrisa.
 
 Las otras clases se echaron a reír ante estas palabras, y la risa fue extraordinariamente presuntuosa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

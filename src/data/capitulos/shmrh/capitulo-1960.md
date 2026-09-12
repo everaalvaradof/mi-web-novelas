@@ -189,7 +189,3 @@ Zheng Shishi dijo muy poco convencido.
 “¿Cómo podría ser mi padre el oponente de God Eater?”
 
 Wu Tian no pudo evitar reír amargamente después de escuchar las palabras de Zheng Shishi.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -113,7 +113,3 @@ Aunque las palabras de las personas de mediana edad son muy eufemísticas, de he
 “¡Abuelo, debes aguantar, no debes caerte!”
 
 Yan Miró la ubicación de la sala de operaciones y no pudo evitar rezar en silencio en su corazón.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

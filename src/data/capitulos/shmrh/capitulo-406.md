@@ -109,7 +109,3 @@ Chen Mo no sabía por qué Tang Qingqing lo llamaba tan tarde, pero la intuició
 Sonó la voz de Tang Qingqing.
 
 Después de que Chen Mo escuchara las palabras de Tang Qingqing, instantáneamente se congeló en su lugar.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

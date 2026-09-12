@@ -101,7 +101,3 @@ Originalmente pensó que cuando Chen Mo supiera que él se iba a ir, definitivam
 Después de que Chen Mo vio que Su Mubai no hablaba, continúa.
 
 Su Mubai se quedó en silencio durante dos segundos, luego levantó lentamente la cabeza y miró a Chen Mo, y dijo en voz baja: “Chen Mo, me iré esta vez por dos años, pero No esperaba que fueras real. Respetaré mi decisión. Volveré en dos años. Durante estos dos años, puedes pensar detenidamente si quieres casarte conmigo por herencia o realmente quieres estar conmigo. Si quieres la herencia, te ayudaré a conseguirla, pero no seré tu verdadera esposa, pero si realmente quieres estar conmigo, estoy muy dispuesta a ser tu verdadera esposa Esposa, ¿entiendes lo que quiero decir? p58>
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

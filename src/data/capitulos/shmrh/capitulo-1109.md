@@ -123,7 +123,3 @@ Chen Mo le preguntó al hombre de mediana edad con una sonrisa.
 “Los tres somos gente de Xue Ming. ¡Si te atreves a interponerte en el camino, ofenderás a nuestro Xue Ming y definitivamente no te dejaremos ir!”
 
 El hombre de mediana edad dijo con confianza.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

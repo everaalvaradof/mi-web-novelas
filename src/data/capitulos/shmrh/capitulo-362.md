@@ -111,7 +111,3 @@ dijo Li Juncheng con una sonrisa.
 “Li Juncheng, los demás no te conocen, no significa que yo no te conozca, dime la verdad, ¿por qué estás ayudando a Chen Mo hoy?”
 
 Zhao Zhengbin ya no tiene Después de perder la apariencia gentil y refinada anterior, le preguntó a Li Juncheng con una expresión muy seria.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

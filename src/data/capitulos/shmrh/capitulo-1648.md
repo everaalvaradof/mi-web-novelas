@@ -109,7 +109,3 @@ Chen Mo observó a la multitud mientras esperaba.
 En realidad, a veces Chen Mo todavía tiene mucha envidia de esta gente común. Aunque no son tan ricos como son, no tendrán problemas como Chen Mo.
 
 Aunque Chen Mo ha mejorado mucho su vida después de heredar el legado de Wangcheng, también traerá muchos problemas a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

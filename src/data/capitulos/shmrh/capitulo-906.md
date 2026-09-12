@@ -85,7 +85,3 @@ Después de escuchar esta voz, Chen Mo no pudo evitar congelarse por un momento,
 Una hermosa mujer que vestía una camiseta negra, pantalones cortos de mezclilla blanca, piernas esbeltas y picos altísimos se acercó rápidamente con un par de zapatillas blancas, y esta hermosa mujer no era otra que otra persona, era Pei Zi.
 
 Ren Bo también miró inconscientemente la posición de Pei Zi, después de un momento de aturdimiento, rápidamente corrió al lado de Pei Zi y dijo con una sonrisa: “Hermana, ¿estás aquí?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -97,7 +97,3 @@ Chen Mo respondió a Ning Tao con un tono ligeramente impotente.
 Ning Tao sonrió y luego continuó: “Si pudieras encontrar una novia tan hermosa, creo que Bai Zhibing es bueno”
 
 Chen Mo miró en la posición de Ning Tao y sacudió la cabeza suavemente, sin decir mucho.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

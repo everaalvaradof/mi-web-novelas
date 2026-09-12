@@ -113,7 +113,3 @@ En este momento, los pensamientos de Chen Mo en su corazón eran muy simples. Po
 “Lo que dijiste parece tener sentido, entonces vayamos al hospital a conseguir un vendaje, ¡no es como si siguieras sangrando así!”
 
 Luo Qiu realmente no vio a Chen Mo. Después de recibir cualquier herida, la expresión de su rostro era obviamente aliviada. Rápidamente sacó la llave del auto y lo encendió, y luego condujo hacia el hospital.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

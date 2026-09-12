@@ -111,7 +111,3 @@ Tang Qingqing miró a Sun Yang frente a ella y dudó por un momento, luego susur
 Cuando Su Mubai y Su Muyu escucharon las palabras de Tang Qingqing, sus ojos se abrieron de nuevo, sus expresiones estaban extremadamente sorprendidas y se volvieron para mirar a Chen Mo casi al mismo tiempo.
 
 Los dos se sorprendieron no porque Tang Qingqing perdiera, ¡sino porque Chen Mo realmente lo dijo bien!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

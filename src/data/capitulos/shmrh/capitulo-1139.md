@@ -101,7 +101,3 @@ Así que el anciano Li dijo en voz baja: “Ahora el dueño de Gu y los ancianos
 “¿De rodillas aquí todo el tiempo?”
 
 Lu Xiangyang Después de escuchar las palabras del élder Li, una mirada extraña brilló en sus ojos, y luego frunció el ceño y preguntó: “Entonces, ¿cuánto tiempo ¿Necesito arrodillarme aquí?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

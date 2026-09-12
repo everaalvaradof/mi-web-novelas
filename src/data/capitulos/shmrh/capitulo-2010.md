@@ -215,7 +215,3 @@ Cualquiera que pueda ver esto debería ser amor verdadero. Conozco mi nivel. Est
 Muchas gracias por su apoyo, pero debido a las malas notas, me informaron que este libro solo se puede escribir aquí. Me siento muy impotente cuando conozco esta noticia, es por eso que la razón de la inestabilidad ¡La actualización por un período de tiempo está aquí para pedir perdón a todos!
 
 De hecho, escribí esta frase para explicarles que algunas cosas no las puedo decidir solo yo, así que no diré más, ¡nos vemos en el nuevo libro!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -103,7 +103,3 @@ Chen Mo sabía que, dado que los miembros de la familia Gu no habían regresado 
 ¿Pero Chen Mo no podía entender por qué Gu Ying era tan bueno para enfermarse?
 
 Chen Mo detuvo un taxi con estas dudas y luego fue directamente al hospital donde se encuentra Gu Ying ahora.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -119,7 +119,3 @@ Du Tianhao respondió suavemente, luego colgó el teléfono.
 Unos minutos después, Chen Mo recibió el video enviado por Du Tianhao, pero cuando hizo clic en el video, quedó atónito en el lugar, sus ojos estaban conmocionados y había un rastro de duda.
 
 “¿Cómo podría ser él?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -109,7 +109,3 @@ Chen Xingfa dijo directamente.
 El significado de su oración es realmente muy obvio, es decir, entregar a Chen Mo a la familia Tang, dejar que Chen Mo haga las cosas solo y dejar que Chen Mo haga las cosas solo.
 
 El resto de la familia Chen también pareció pensar que lo que dijo Chen Xingfa era razonable, y todos miraron la posición de Chen Lixin, esperando la respuesta de Chen Lixin.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

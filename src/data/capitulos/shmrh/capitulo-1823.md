@@ -165,7 +165,3 @@ La figura de Chen Mo esquivó la espada de Xu Wangchuan en un instante. Al segun
 Chen Mo golpeó a Xu Wangchuan directamente en la espalda.
 
 Con un ruido aterrador, Xu Wangchuan voló boca abajo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

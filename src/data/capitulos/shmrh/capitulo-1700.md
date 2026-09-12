@@ -185,7 +185,3 @@ Chen Mo, quien había sido torturado tan horriblemente, soportó el dolor severo
 Chu Lan pareció llorar aún más cuando escuchó las palabras de Chen Mo.
 
 En este momento, hubo un repentino y fuerte portazo en la puerta fuera del almacén.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

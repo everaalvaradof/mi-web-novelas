@@ -137,7 +137,3 @@ Si Chen Mo dejara a Chu Lan aquí, Chu Lan definitivamente no se rendiría, pero
 “¡Por cierto, Chen Mo, tengo una solución!”
 
 Chu Lan de repente le habló a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

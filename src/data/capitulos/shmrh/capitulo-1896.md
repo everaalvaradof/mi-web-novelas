@@ -177,7 +177,3 @@ Entonces, el anciano jefe de la secta Tianshan escribió una carta de guerra en 
 Después de todo, en caso de que el libro de batalla se envíe un poco más tarde, Chen Mo primero hizo un movimiento contra la secta Shangyuan, entonces la secta Tianshan sería equivalente a violar el acuerdo entre las sectas. Esto está en el ojos del gran anciano ¡No es poca cosa!
 
 Jiangxi, naturalmente, tomó la iniciativa de hacerse cargo de la tarea de enviar el guante y bajó de la montaña durante la noche.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

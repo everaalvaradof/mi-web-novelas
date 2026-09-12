@@ -157,7 +157,3 @@ Chen Mo respondió a la ligera, y luego siguió caminando hacia adelante.
 Su Muyu gritó emocionado.
 
 Chen Mo se congeló después de escuchar las palabras de Su Muyu.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

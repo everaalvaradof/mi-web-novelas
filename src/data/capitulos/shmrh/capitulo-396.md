@@ -121,7 +121,3 @@ Es suficiente para ellos ser guardias de seguridad aquí durante diez vidas. Des
 Los cuatro guardias de seguridad se pelearon directamente con los dos guardaespaldas de Zhang Quande.
 
 Chen Mo sonrió levemente cuando vio esta escena, y luego suspiró suavemente: “¡Es cierto que el dinero puede hacer que un fantasma maneje el molino!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

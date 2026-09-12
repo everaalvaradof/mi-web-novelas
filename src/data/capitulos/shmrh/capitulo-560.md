@@ -107,7 +107,3 @@ dijo Su Mi con una sonrisa.
 Chen Mo abrió la boca para hablar y de repente descubrió que Su Hongxiao salía de la multitud.
 
 Cuando Chen Mo vio a Su Hongxiao, se quedó estupefacto, porque sabía que una vez que Su Hongxiao lo viera, definitivamente tomaría la iniciativa de hablar con él, ¡y su identidad también estaría expuesta!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

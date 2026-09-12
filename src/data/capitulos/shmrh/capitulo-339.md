@@ -123,7 +123,3 @@ Chen Mo gritó de manera muy dominante, luego giró la cabeza y le dijo a Wang Y
 Wang Yaoyao asintió levemente y luego insertó la tarjeta bancaria en la máquina POS.
 
 Wei Jiaqi parecía estar asustado por el dominio de Chen Mo en este momento, mirando a Chen Mo con los ojos muy abiertos, ¡no sé de dónde obtuvo Chen Mo la confianza para decir estas palabras!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

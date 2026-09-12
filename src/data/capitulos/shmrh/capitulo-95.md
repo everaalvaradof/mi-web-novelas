@@ -131,7 +131,3 @@ Liu Di Abre la boca para hablar.
 Zhao Hongtao le dijo a Liu Di con mucho cariño.
 
 Cuando Liu Di escuchó las palabras de Zhao Hongtao, secretamente maldijo a un idiota en su corazón y dejó de hablar.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

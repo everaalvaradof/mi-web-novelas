@@ -93,7 +93,3 @@ Chen Mo estaba un poco emocionado cuando Escuché las palabras de Hua Xiaowu gri
 “Por supuesto que es verdad, estamos en una relación de cooperación. Si puedo ayudar, definitivamente intentaré hacerlo”
 
 Hua Xiaowu sonrió levemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

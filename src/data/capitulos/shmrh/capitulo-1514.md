@@ -133,7 +133,3 @@ Después de ser abofeteado dos veces seguidas, An Hong parecía estar loco y cor
 Pero An Yan extendió su mano para detener a An Hong, y luego lo regañó con frialdad: “An Hong, ¿puedes calmarte, no tienes una visión clara de la situación actual?”
 
 Después de escuchar las palabras de An Yan, An Hong no pudo evitar congelarse por un momento, luego respiró hondo y miró a los discípulos de la Secta Tianshan con ojos rojos, pero no quería hacer nada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

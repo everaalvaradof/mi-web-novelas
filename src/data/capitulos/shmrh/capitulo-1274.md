@@ -103,7 +103,3 @@ La explicación de Chen Mo a la ligera.
 Li Haoran le preguntó a Chen Mo confundido.
 
 Chen Mo se burló después de escuchar esto y luego dijo con la cara en blanco: “Parece que realmente sobreestimé a tu familia Li, y te di a la familia Li una noche, pero era solo cuestión de tiempo”. Encontré este tipo de personas, y es ingenuo querer depender de este tipo de personas para tratar conmigo”.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

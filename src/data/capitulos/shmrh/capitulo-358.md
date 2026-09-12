@@ -123,7 +123,3 @@ A sus ojos, Li Juncheng es solo un hombre de negocios sin emociones. Ya sea que 
 “¿Por qué está haciendo esto?”
 
 Chen Mo miró a Li Juncheng en la sala de conferencias y suspiró suavemente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

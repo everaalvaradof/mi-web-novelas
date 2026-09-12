@@ -139,7 +139,3 @@ Chen Mo preguntó retóricamente, sin expresión.
 “Sí, vencí a estas tres personas, ¿qué puedes hacerme?”
 
 Niu Fei hizo un puchero y dijo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

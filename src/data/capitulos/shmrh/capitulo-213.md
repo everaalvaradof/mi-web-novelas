@@ -111,7 +111,3 @@ Y los demás alrededor del belleza Las chicas también comenzaron a gritarle a C
 Después de todo, estas bellezas fueron invitadas por He Cai para servir al dueño de Bitianya Villa, por lo que, naturalmente, tienen que ser un poco arrogantes. Es normal que insulten e intimiden a los camareros aquí.
 
 Chen Mo no pudo evitar fruncir el ceño levemente después de escuchar las palabras de estas bellezas, y un rastro de ira brilló en sus ojos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

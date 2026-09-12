@@ -121,7 +121,3 @@ Después de que todos escucharon las palabras del hombre de mediana edad, todos 
 “¡Se puede considerar que viene!”
 
 Chen Mo dejó escapar un largo suspiro cuando vio al hombre de mediana edad.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

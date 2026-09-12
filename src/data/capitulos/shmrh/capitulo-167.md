@@ -161,7 +161,3 @@ Cuando Chen Mo vio el contenido de la foto, se quedó estupefacto y la expresió
 “¿De dónde vino esto?”
 
 Chen Mo volvió la cabeza y le gritó a Meng Liang.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

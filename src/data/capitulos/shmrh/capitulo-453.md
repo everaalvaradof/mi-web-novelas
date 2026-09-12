@@ -113,7 +113,3 @@ Chen Mo respondió con calma a Shi Xinxin, y luego entró en la villa primero.
 Shi Xinxin se giró para mirar la posición de Wang Shuo y preguntó con un tono desconcertado: “Wang Shuo, ¿son precisas tus noticias? ¿No dijiste que Chen Mo es un niño pobre? ¿Un niño pobre? ¿Cómo ¿Puede permitirse una villa tan lujosa?”
 
 Después de escuchar las palabras de Shi Xinxin, la expresión de Wang Shuo se derrumbó, porque ahora comienza a dudar de que lo que dijeron sus amigos sea cierto. ¡Aún es falso!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

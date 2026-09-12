@@ -111,7 +111,3 @@ Si realmente le hiciera algo a Chen Mo ahora mismo, ¡ni siquiera lo pensaría!
 Y Qiao You se quedó allí sin expresión en su rostro, sin saber qué pensar en su corazón, pero había una mirada digna en sus ojos.
 
 La identidad de Chen Mo es demasiado aterradora, lo que deja a la gente sin aliento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

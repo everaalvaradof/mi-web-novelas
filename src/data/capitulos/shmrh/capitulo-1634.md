@@ -115,7 +115,3 @@ Chen Mo planea irse después de aceptar la unidad flash USB. Ahora solo quiere d
 dijo Shui Ziyou a la ligera.
 
 Chen Mo se quedó atónito después de escuchar las palabras de Shui Ziyou. No esperaba que esta mujer fuera tan grosera. Originalmente, Chen Mo solo dijo una palabra educada, pero ¿quién puedo pensar que Mizuko Yu realmente se lo tomó en serio?.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

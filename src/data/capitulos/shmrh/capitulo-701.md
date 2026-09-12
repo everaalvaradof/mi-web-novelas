@@ -103,7 +103,3 @@ Después de que Wang Tianshi se quedó atónito por un momento, tartamudeó y le
 La hermosa joven que salió de la multitud en este momento no era otra que Wang Jing, la productora que Luo Qiu acababa de conocer.
 
 Luo Qiu miró a Wang Jing, que salió de la multitud con una expresión de sorpresa, y también estaba muy incrédula en su corazón, porque Luo Qiu nunca pensó que Wang Jing se levantaría para ayudarlo a hablar en este momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

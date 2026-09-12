@@ -121,7 +121,3 @@ Su Hongxiao obviamente se sintió aliviado cuando escuchó esto, y luego dijo a 
 Su Mi gritó impotente, luego colgó el teléfono.
 
 Después de colgar el teléfono, Su Mi sostuvo su teléfono celular, la expresión de su rostro comenzó a enredarse y no supo qué hacer por un tiempo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

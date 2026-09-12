@@ -109,7 +109,3 @@ Wen Zhentian le gritó a Chen Mo en voz baja y luego corrió hacia Chen Mo nueva
 Chen Mo levantó la cabeza de repente, al segundo siguiente, Wen Zhentian ya había corrido frente a Chen Mo, y luego golpeó el pecho de Chen Mo.
 
 Chen Mo brotó una bocanada de sangre, y luego toda la persona voló boca abajo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

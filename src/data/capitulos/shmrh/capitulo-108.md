@@ -119,7 +119,3 @@ Li Kai también mostró una orgullosa sonrisa en su rostro.
 Si Chen Mo se niega a buscar el cuerpo en este momento, significa que Chen Mo debe ser un ladrón, pero si Chen Mo accede a la búsqueda del cuerpo, entonces su plan para incriminar a Chen Mo tendrá éxito.
 
 Todo parece estar desarrollándose según la imaginación de Li Kai.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

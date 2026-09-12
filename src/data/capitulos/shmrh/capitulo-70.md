@@ -129,7 +129,3 @@ Sun Miao dejó su teléfono móvil y preguntó con una sonrisa.
 “Sr. Wang, es así, esta persona fingió ser el gerente de ICBC e incluso trajo un cheque falso. ¡Estoy planeando llamar a la policía!”, Sun Miao señaló a Zhang Ming y gritó.
 
 El Sr. Wang, de mediana edad, giró la cabeza y miró a Zhang Ming cuando escuchó esto, luego se quedó atónito y preguntó con expresión desconcertada: “Gerente Zhang, ¿por qué está aquí?”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -113,7 +113,3 @@ Ye Xueqi rápidamente le devolvió la cabeza a Chen Mo.
 Y Chen Mo salió de la habitación después de escuchar esta oración.
 
 Pero justo cuando Chen Mo estaba a punto de salir de la habitación, Ye Xueqi gritó de repente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -139,7 +139,3 @@ Chen Mo miró a Guan Yifan con una expresión en blanco.
 Guan Yifan no pudo evitar burlarse después de escuchar las palabras de Chen Mo, y luego dijo a la ligera: “¡Realmente no sé de dónde viene tu confianza!”
 
 Después de decir esto, Guan Yifan La mano derecha se agitó ligeramente y el cuchillo Qingyun voló directamente a la mano de Guan Yifan.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

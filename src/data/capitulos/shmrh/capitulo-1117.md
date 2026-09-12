@@ -105,7 +105,3 @@ Wen Wangchuan respiró hondo y luego dijo en voz baja: “¡Espero que no!”
 Mientras los dos hablaban, Chen Mo, Li Meng, Guo Qi y otros La batalla ha entrado en una etapa candente.
 
 Aunque el poder de combate del actual Chen Mo es comparable al de un maestro de artes marciales, de hecho, las batallas de Chen Mo no son muy ricas, lo que ha llevado a la moderación gradual de estas tres personas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

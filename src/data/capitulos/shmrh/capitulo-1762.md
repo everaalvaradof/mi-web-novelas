@@ -169,7 +169,3 @@ Su Mubai es una belleza china estándar, con un temperamento elegante y generoso
 Entonces, de acuerdo con los estándares estéticos de Chen Mo, Su Mubai es más hermoso.
 
 Quizás este debería ser el espectador a los ojos del espectador.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

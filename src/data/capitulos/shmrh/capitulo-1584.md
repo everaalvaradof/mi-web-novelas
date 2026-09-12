@@ -143,7 +143,3 @@ Chen Mo explicó con una sonrisa.
 “¿Estás seguro de que quieres que sea tu sirvienta?”
 
 Yan Ella le preguntó fríamente a Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

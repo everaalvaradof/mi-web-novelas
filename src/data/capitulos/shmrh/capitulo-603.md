@@ -105,7 +105,3 @@ Chen Mo preguntó aturdido.
 “Chen Mo, probablemente aún no lo sepas, hoy la escuela realizará una fiesta de bienvenida esta noche. Todos los estudiantes y maestros de nuestra escuela asistirán, y también habrá actuaciones de primer año. ¿Qué?”
 
 Meng Liang le dijo a Chen Mo con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -123,7 +123,3 @@ La expresión de Yan She cuando escuchó las palabras de Chen Mo parecía un poc
 “Por supuesto que es verdad, ¡la llamada que acaba de llamarme Liu Xuanxuan no puede estar equivocada!”
 
 Chen Mo respondió en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

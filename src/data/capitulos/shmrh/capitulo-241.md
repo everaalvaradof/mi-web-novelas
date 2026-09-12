@@ -103,7 +103,3 @@ He Cai caminó rápidamente hacia Chen Mo frente a él. le dijo a Chen Mo con un
 Después de escuchar las palabras de He Cai, todas las personas presentes tenían expresiones de perplejidad en sus rostros, porque no podían entender que He Cai no tenía nada después de saber que el jarrón era falso. tomó la iniciativa de disculparse con un pobre chico que se veía muy ordinario ¿Qué tipo de trama es esta?
 
 Incluso Su Mubai tenía una mirada de duda en su rostro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

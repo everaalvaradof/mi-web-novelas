@@ -219,7 +219,3 @@ Chen Mo no pudo evitar quedarse atónito cuando escuchó esto, luego frunció el
 “Sr. Wang, no le importa una mierda, ¿qué más necesita hacer? O lo que puedo hacer ahora, ¡solo dígamelo!”
 
 Chen Mo se apresuró hacia él con ansiedad. le gritó a Wang Siyuan.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

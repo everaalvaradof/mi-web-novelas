@@ -91,7 +91,3 @@ Yan She respondió a la ligera a Chen Mo.
 Chen Mo dijo lentamente.
 
 El asunto trivial de encontrar algunos jefes para ser patrocinadores realmente no es un gran problema para Chen Mo, pero Chen Mo está preocupado por el impacto posterior.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

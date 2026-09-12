@@ -189,7 +189,3 @@ Chen Mo asintió levemente y soltó el aliento de nuevo.
 Esta vez, Chen Mo aprendió de la experiencia anterior, por lo que filtró directamente la mayor parte de la información inútil, pero luego se ayudó a sí mismo a filtrar la información útil.
 
 Yan Miró a Chen Mo preocupada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

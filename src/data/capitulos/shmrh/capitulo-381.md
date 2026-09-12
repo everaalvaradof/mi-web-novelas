@@ -91,7 +91,3 @@ Al pedirle a Wang Zijing que dé a luz a un niño para Chen Mo, parece que quier
 Puede que incluso Li Juncheng no haya pensado en esto.
 
 ¡Frente a un Wang Zijing tan activo, Chen Mo no pudo controlar sus emociones en absoluto!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

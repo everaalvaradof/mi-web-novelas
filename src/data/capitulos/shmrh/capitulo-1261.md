@@ -107,7 +107,3 @@ Cuando aparecieron Chen Mo y Su Mubai, muchas personas pusieron su mirada en Che
 La gente ha oído mucho sobre Chen Mo, así que después de ver a Chen Mo, todos sienten que Chen Mo es no relacionado con los rumores Entre ellos, Chen Gongzi de la ciudad de Nanyang tiene una brecha muy grande.
 
 Y a Chen Mo no le importaba de qué hablaban los demás, y condujo directamente a Su Mubai a la entrada de la mansión.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -195,7 +195,3 @@ Preguntó Li Minghua en voz baja.
 “No entiendo muy bien”
 
 Zhou Xiong negó con la cabeza directamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -161,7 +161,3 @@ El propósito original de que Chen Mo se hiciera cargo de estas empresas era con
 En este caso, el Grupo SkyOcean de Chen Mo no solo puede competir por la participación de mercado de la familia Xia en bienes raíces, sino también con la familia Xia de todos los ámbitos de la vida. Esto tendrá el mayor impacto en Xia. familia. de.
 
 Pero ahora, por no hablar de que estas empresas se han desarrollado para competir con la familia Xia por el mercado, me temo que incluso las operaciones normales no pueden llevarse a cabo. Estas empresas se han convertido en papas calientes.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

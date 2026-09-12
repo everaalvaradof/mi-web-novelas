@@ -115,7 +115,3 @@ Chu Lan respondió a la ligera.
 Chen Mo continuó preguntando apresuradamente.
 
 “No lo sé muy bien. La identidad de tu padre es muy misteriosa. Él es el jefe regional del comerciante de plata, así que ahora si quieres saber la verdadera identidad de tu padre, solo puedes pasar por ¡El mercader de plata es alguien a quien investigar!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

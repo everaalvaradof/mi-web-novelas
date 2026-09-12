@@ -131,7 +131,3 @@ Chen Mo es un hombre normal. Ante este tipo de tentación, incluso si no tiene i
 Chen Mo miró las bragas en su mano con una expresión vacilante en su rostro.
 
 Después de todo, esta ropa interior había estado en contacto con la posición más misteriosa de Luo Qiu. ¡Chen Mo sintió que si realmente la usaba, sería inapropiado!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

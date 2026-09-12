@@ -145,7 +145,3 @@ Después de llegar a la sala de estar, Chen Mo encontró algo parecido a una cur
 Chen Mo le dijo a Su Mubai con una expresión de impotencia.
 
 Su Mubai parecía avergonzada, no esperaba que Capítulo cocinara así para Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

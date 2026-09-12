@@ -105,7 +105,3 @@ Chen Mo dejó escapar un largo suspiro después de ver que los guardias de segur
 Pero en este momento, un gran grupo de guardias de seguridad de repente salió corriendo del Edificio Huiding.
 
 ¡Chen Mo se quedó estupefacto cuando vio a estos guardias de seguridad!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

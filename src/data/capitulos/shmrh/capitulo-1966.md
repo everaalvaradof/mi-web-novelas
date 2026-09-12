@@ -185,7 +185,3 @@ Wu Cangdiao explicó una voz.
 Después de escuchar las palabras de Wu Cang, Zheng Shishi asintió pensativo y susurró: “Aunque todavía no entiendo qué es Lingbao, sé que debería ser muy poderoso. ¡Armas!”
 
 “Bueno, ¡tú también puedes entender eso!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

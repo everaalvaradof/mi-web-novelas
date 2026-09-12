@@ -203,7 +203,3 @@ Zhong Jun le suplicó a Chen Mo con una expresión muy asustada.
 “¡No esperabas que pudiera salir con vida!”
 
 Dijo Chen Mo a la ligera.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

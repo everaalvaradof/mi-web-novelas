@@ -129,7 +129,3 @@ Chen Mo estiró lentamente dos dedos.
 Ma Chi preguntó con el ceño fruncido.
 
 Dijo Chen Mo con calma.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -191,7 +191,3 @@ Preguntó el conductor con el ceño fruncido.
 La belleza gritó ansiosamente.
 
 Había una pizca de impotencia en los ojos del conductor, y dijo en voz baja: “Señorita Lu, ¿cómo podría alguien aparecer en la nieve en este entorno, e incluso alguien se habría congelado hasta morir hace mucho tiempo?” Ahora, será mejor que no te entrometas en tu negocio.”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

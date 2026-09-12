@@ -113,7 +113,3 @@ El tono de Chen Mo seguía siendo muy confiado.
 Meng Liang miró a Chen Mo a la ligera y luego le dijo a Chen Mo en voz baja: “Chen Mo, tienes que pensarlo. Déjame decirte que esos chicos de nuestra clase deberían estar esperando para ver ahora. ¿Qué pasa con tus chistes?”
 
 Chen Mo sonrió levemente cuando escuchó las palabras de Meng Liang, luego se levantó y puso sus brazos alrededor de los hombros de Meng Liang y dijo: ” ¡No te preocupes, no tienen esa oportunidad!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

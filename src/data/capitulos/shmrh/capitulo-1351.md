@@ -119,7 +119,3 @@ dijo Chen Mo con una sonrisa.
 Wang Jun inconscientemente miró a Qiao Ying junto a Chen Mo, y luego toda la persona quedó atónita.
 
 Justo ahora, toda su atención estaba en Chen Mo, pero no se dio cuenta de que la gran estrella Qiao Ying también estaba al lado de Chen Mo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

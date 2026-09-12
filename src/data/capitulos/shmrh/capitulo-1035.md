@@ -119,7 +119,3 @@ Chen Mo corrió frente a Su Mubai y le gritó emocionado.
 Su Mubai se detuvo instintivamente después de ver a Chen Mo y luego miró a Chen Mo de arriba abajo.
 
 Pero en este momento, los ojos de Su Mubai cuando mira a Chen Mo son los mismos que cuando mira a Tang Qingqing, ambos son indiferentes.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

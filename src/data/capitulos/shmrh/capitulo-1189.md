@@ -101,7 +101,3 @@ Después de darse cuenta de su error, la belleza todavía tenía una muy buena a
 Y Chen Mo tiene la intención de comprobar el estado del coche. Si el coche todavía se puede conducir, Chen Mo tiene la intención de llevárselo.
 
 Pero en este momento, la belleza extendió su mano y agarró a Chen Mo directamente, y luego dijo suavemente: “¡Qué, no te apresures a irte, los dos no hemos dicho nada sobre compensación!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

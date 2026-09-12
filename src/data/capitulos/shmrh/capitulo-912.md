@@ -91,7 +91,3 @@ Generalmente siempre y cuando los patrocinadores vengan a participar en la reuni
 Por supuesto, también habrá jefes que sean muy generosos. La persona que pagó más patrocinio fue un jefe que fue invitado por Xu Feng en la última reunión deportiva y patrocinó directamente 200.000 yuanes.
 
 El incidente causó un gran revuelo en la escuela en ese momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

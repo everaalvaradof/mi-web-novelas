@@ -107,7 +107,3 @@ Chen Mo estaba un poco insoportable después de ver a Wen Ruoxi y sus amigos dis
 Pero justo cuando Chen Mo se dio la vuelta, Li Yiyi de repente atacó a Chen Mo, gritó.
 
 Chen Mo se quedó atónito cuando escuchó las palabras de Li Yiyi.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

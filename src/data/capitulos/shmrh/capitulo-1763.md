@@ -187,7 +187,3 @@ Después de que Chu Lan entendiera lo que estaba pasando, dejó escapar un leve 
 “¿Cómo es? ¿Puedes ayudarme con este asunto?”
 
 Chen Mo preguntó directamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

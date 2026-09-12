@@ -199,7 +199,3 @@ En este momento, la puerta de la caja se abrió repentinamente desde el exterior
 Zhou Chengyu, a quien Chen Mo y otros se encontraron en la puerta del hotel antes, entró corriendo con una pistola, luego miró a Jiangxi y gritó: “Fuiste tú quien me abofeteó, ¿no? ?”
 
 Chen Mo miró a Zhou Chengyu con impotencia y luego le dijo suavemente a Jiang Xi: “¡Tú mismo has causado el problema, puedes resolverlo!”
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

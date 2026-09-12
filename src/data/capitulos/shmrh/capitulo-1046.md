@@ -109,7 +109,3 @@ Aunque no puede recordar si conocía a Chen Mo antes, Chen Mo se siente muy fami
 “¿Podría esta persona realmente ser mi prometido?”
 
 Su Mubai no pudo evitar suspirar en su corazón.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

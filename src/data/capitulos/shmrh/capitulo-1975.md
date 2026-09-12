@@ -297,7 +297,3 @@ Chen Mo asintió hacia Zheng Shishi.
 “¿Entonces por qué vas al País M?”
 
 Zheng Shishi continuó preguntando apresuradamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

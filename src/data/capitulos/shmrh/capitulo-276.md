@@ -105,7 +105,3 @@ Sin embargo, fue Su Bowen quien tenía la expresión más enojada.
 “Dije que las conexiones de tu familia son realmente lamentables. Si no fuera por la ayuda de mi abuelo, es posible que ni siquiera puedas encontrar invitados de cumpleaños. ¿Tienes algún comentario?”
 
 Su Ling se sentó en el lugar y respondió con una expresión muy desdeñosa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

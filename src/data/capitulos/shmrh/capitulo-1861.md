@@ -151,7 +151,3 @@ Hu Kang asintió con satisfacción, luego miró las ruinas frente a él y dijo c
 “¿Cómo sabes que Chen Mo está muerto?”
 
 Los tres ancianos le preguntaron a Hu Kang en voz baja.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

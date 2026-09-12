@@ -119,7 +119,3 @@ Gritó Sun Bo, luego levantó la botella de vino en su mano y corrió hacia Chen
 Pero antes de que la botella de vino golpeara la cabeza de Chen Mo, la puerta de la habitación privada se abrió repentinamente desde el exterior.
 
 Todos quedaron atónitos cuando escucharon que la puerta se abría.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

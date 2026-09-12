@@ -177,7 +177,3 @@ Zhong Jun dijo rápidamente.
 Chen Mo respondió a la ligera, y luego subió al auto de Zhong Jun.
 
 Unos minutos después, más de una docena de vehículos todoterreno se dirigieron en dirección a Jiubingshan.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

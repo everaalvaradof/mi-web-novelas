@@ -125,7 +125,3 @@ Una mujer con gafas de sol salió del coche.
 Cuando los fans presentes vieron a esta mujer, ¡inmediatamente se desbordaron!
 
 Obviamente, la mujer que apareció en este momento debería ser la estrella más popular.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

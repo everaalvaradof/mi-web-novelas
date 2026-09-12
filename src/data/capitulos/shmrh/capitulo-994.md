@@ -107,7 +107,3 @@ Ling Shi inconscientemente giró la cabeza y miró a Chen Mo. La expresión de s
 El rostro de Wei Beiyan se quedó sin palabras. Sintió que Chen Mo frente a él parecía estar un poco confundido, y tomó en serio una burla tan obvia de Chen Mo.
 
 En este momento, Wei Beiyan también abandonó la idea de seguir ridiculizando a Chen Mo, porque a sus ojos, no hay forma de que una persona como Chen Mo lo amenace.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

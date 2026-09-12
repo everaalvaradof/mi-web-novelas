@@ -99,7 +99,3 @@ Tao Yiran abrió la boca y quería ayudar a Chen Mo a hablar.
 “Lo mismo es cierto, creo que le he dado una oportunidad porque es tu amigo, pero este niño no sabe cómo apreciarlo, ¡así que no puedo hacer nada al respecto!”
 
 Tao Ye añadió de nuevo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

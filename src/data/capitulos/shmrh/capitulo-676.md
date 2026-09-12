@@ -125,7 +125,3 @@ Bai Zhennan le preguntó emocionado a Chen Mo.
 “¿Me acerqué deliberadamente a su hija?”
 
 Chen Mo no pudo evitar sonreír cuando escuchó las palabras de Bai Zhennan.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

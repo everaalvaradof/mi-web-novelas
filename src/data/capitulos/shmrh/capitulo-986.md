@@ -113,7 +113,3 @@ Gu Yuanhong gritó sin palabras.
 “Los antecedentes de Chen Mo definitivamente no son simples, de lo contrario, ¿cómo podría Chen Mo atreverse a tratar con la familia Tang?”
 
 Gu Yuanhong gritó emocionado, y en este momento finalmente entendió que Chen Mo estuvo con él anoche. ¿Qué quiso decir con esas palabras?
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

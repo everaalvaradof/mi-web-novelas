@@ -123,7 +123,3 @@ dijo Tao Yiran con grandes ojos llorosos.
 “¡No me iré, tengo que dejártelo en claro hoy!”
 
 Gritó Huang Zhiming con los ojos bien abiertos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

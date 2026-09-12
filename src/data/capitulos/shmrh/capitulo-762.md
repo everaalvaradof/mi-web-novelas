@@ -105,7 +105,3 @@ Fuyao respondió después de pensar por un momento.
 “Está bien, ya hemos venido de todos modos, ¡así que vamos a echar un vistazo!”
 
 Chen Mo asintió levemente hacia Fu Yao.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

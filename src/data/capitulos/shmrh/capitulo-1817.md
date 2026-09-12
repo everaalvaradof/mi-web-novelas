@@ -195,7 +195,3 @@ Chen Mo asintió rápidamente después de escuchar las palabras de Wang Siyuan.
 Mientras Wang Siyuan y Fuyao permanecían en la sala, no tenían nada que hacer, así que dieron media vuelta y se fueron.
 
 Chen Mo se sentó en silencio junto a la cama del hospital y esperó a que Su Mubai se despertara.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

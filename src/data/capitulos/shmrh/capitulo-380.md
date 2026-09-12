@@ -103,7 +103,3 @@ Wang Zijing caminó lentamente hacia el lado de la cama, se sentó en la cama co
 “Chen Mo, ¿no vas a dormir conmigo? ¿Qué estás haciendo todavía? ¿Estás realmente asustado?”
 
 Wang Zijing miró hacia arriba y se paró en la puerta Chen Mo, le gritó a Chen Mo en un tono desdeñoso.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

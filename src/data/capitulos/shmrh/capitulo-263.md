@@ -109,7 +109,3 @@ Después de que todos escucharon las palabras de Gu Qing, todos respiraron profu
 Si Chen Mo está de acuerdo ahora, ¡ganará un salario anual de decenas de millones!
 
 ¡Este es el ritmo de ir directamente a la cima de la vida!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

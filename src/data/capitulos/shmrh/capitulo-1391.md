@@ -111,7 +111,3 @@ Cuando Zhang Ping escuchó los comentarios de la multitud, su sentido de superio
 Para estos estudiantes universitarios ordinarios que acaban de graduarse, es muy notable que puedan encontrar un trabajo adecuado ahora. Las personas como Zhang Ping que ingresan directamente al Grupo Huiding para trabajar todavía son muy, muy pocas, e incluso La educación de algunas personas no está calificada para participar en la entrevista de Huiding Group.
 
 Esta es también la razón por la que todos rodearon a Zhang Ping en este momento.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

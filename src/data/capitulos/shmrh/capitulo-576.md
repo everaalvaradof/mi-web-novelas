@@ -85,7 +85,3 @@ Después de escuchar esto, los ojos de Li Zixi brillaron un poco, luego frunció
 “No es nada. El problema, solo necesitas esperar hasta que Zhao Ziyi tiene otra novia o ya está casado, y luego les dices que rompiste con Chen Mo, ¿no tienen ninguna forma? De todos modos, ahora solo estás con Chen Mo y no estás realmente casado. Si realmente no puedes, puedes decir que estás embarazada. Creo que el tío Li definitivamente no podrá dejar que te cases con Zhao Ziyi, incluso si él te pide que te cases, ¡Zhao Ziyi, Zhao Ziyi nunca debería casarse contigo!”
 
 Xu Weiwei dijo apresuradamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

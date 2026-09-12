@@ -129,7 +129,3 @@ Chen Mo miró a Luo Qiu y continuó preguntando.
 Luo Qiu volvió a sacudir suavemente la cabeza.
 
 Y cuando Chen Mo escuchó las palabras de Luo Qiu, se sintió aliviado y comenzó a seguir masajeando.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

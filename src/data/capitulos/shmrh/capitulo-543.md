@@ -141,7 +141,3 @@ Todos los estudiantes de la clase mostraron expresiones de asombro.
 Si fuera antes, los estudiantes de la clase no pensarían que había algo anormal. Después de todo, solían buscar a Chen Mo, pero después del incidente de la confesión de Su Mi a Yan She, todos los demás piensa que Yan She tiene una relación inusual con Chen Mo.
 
 Esta mujer, Yan She, siempre ha sido muy fría y, naturalmente, no se molesta en explicar estas cosas.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

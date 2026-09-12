@@ -165,7 +165,3 @@ En el escenario, Chen Mo y Chu Lan se lo pasaban en grande tocando, y no parecí
 Unos minutos después, Chu Lan terminó su baile con una postura asombrosa.
 
 Y Chen Mo también dejó escapar un largo suspiro.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

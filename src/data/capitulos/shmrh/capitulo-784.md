@@ -111,7 +111,3 @@ Mientras Fuyao hablaba con Chen Mo, varios guardaespaldas más cayeron al suelo.
 Shu Ziyu miró la escena infernal frente a ella, con una expresión aterrorizada en su rostro. Realmente no podía entender qué tipo de odio profundo había entre ella y este anciano. El anciano estaba capaz de hacer una matanza tan enloquecedora!
 
 Wang Baishi se quedó estupefacto. En este momento, parecía no tener idea de qué hacer.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

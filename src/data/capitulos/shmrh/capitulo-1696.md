@@ -123,7 +123,3 @@ Xia Xingze dijo con una sonrisa.
 Zhang Ziqing asintió levemente, luego recogió su bolso y salió corriendo del restaurante.
 
 Xia Xingze siguió el ritmo de Zhang Ziqing después de dudar un rato.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

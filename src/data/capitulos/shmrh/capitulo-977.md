@@ -137,7 +137,3 @@ Las otras personas pueden no estar de humor para comer debido a la existencia de
 En este momento, el ambiente en el restaurante todavía era muy extraño.
 
 Incluso Chen Lixin no pudo evitar mirar a Chen Mo. No sabía por qué Chen Mo regresó repentinamente esta vez.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

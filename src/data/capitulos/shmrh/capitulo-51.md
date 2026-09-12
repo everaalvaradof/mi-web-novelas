@@ -97,7 +97,3 @@ Chen Mo se enderezó después de escuchar el grito de Wen Ruoxi.
 Chen Mo gritó en su corazón, así que rápidamente se puso los zapatos y salió corriendo de la habitación.
 
 El joven Zhang Feng y Wen Ruoxi compartían una habitación con un hombre y una viuda. Chen Mo sintió que Zhang Feng definitivamente sería incapaz de contener su lujuria y quería tener sexo con Wen Ruoxi, pero Wen Ruoxi se negó, por lo que el joven tuvo que darle a Wen Ruoxi un El señor supremo golpea fuerte.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

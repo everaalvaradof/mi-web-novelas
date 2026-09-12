@@ -131,7 +131,3 @@ Su Mubai miró a Chen Mo con grandes ojos llorosos y le preguntó a Chen Mo con 
 “No hay otra manera, ahora solo hay una manera de ir, abres la ventana ahora, si realmente caes al agua, puedes salir por la ventana”
 
 Chen Modiao La voz volvió a Su Mubai.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

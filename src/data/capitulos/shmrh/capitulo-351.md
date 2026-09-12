@@ -99,7 +99,3 @@ Chen Mo miró a Li Juncheng y continuó preguntando.
 Li Juncheng no está ocultando nada en este momento. Mire a Chen. Mo y explicar.
 
 Chen Mo asintió pensativamente, luego se volvió para mirar a la entrada de la sala de conferencias. No sabe qué es Su Mubai hoy. ¡venir!
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

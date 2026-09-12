@@ -129,7 +129,3 @@ Debes saber que estos guardaespaldas de Su Lieheng son guardaespaldas ordinarios
 Y Chen Mo ignoró a estos guardaespaldas y entró en la villa pavoneándose.
 
 Después de dudar un rato, Su Mubai siguió a Chen Mo a la villa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

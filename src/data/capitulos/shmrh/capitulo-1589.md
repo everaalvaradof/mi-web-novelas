@@ -97,7 +97,3 @@ Pero hace que Chen Mo se sienta afortunado de que los capitanes de los guardaesp
 Entonces la vigilancia de esta gente no es muy alta.
 
 Chen Mo puede ver que algunos de estos capitanes de guardaespaldas están descansando en la habitación, mientras que otros están hablando por teléfono, y algunas personas llevan directamente a la mujer a su habitación, Chen Mo incluso puede escuchar el estallido de jadeo encantador.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

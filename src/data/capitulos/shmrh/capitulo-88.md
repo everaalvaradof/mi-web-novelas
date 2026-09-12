@@ -113,7 +113,3 @@ La otra parte respondió a la ligera y luego colgó directamente.
 “Joder, espera hasta que mi madre obtenga el dinero, ¡a ver si te atreves a hablarme así, bastardo!”
 
 Después de que Zhang Feng vio que el teléfono estaba colgado, él se fue. Maldijo en voz baja, luego giró la cabeza para mirar a Wen Ruoxi, listo para seguir quitándose la ropa a Wen Ruoxi.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

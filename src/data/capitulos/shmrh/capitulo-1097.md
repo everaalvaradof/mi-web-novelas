@@ -83,7 +83,3 @@ Chen Mo suavemente hizo clic asintió.
 Wen Wangchuan dio media vuelta y se fue sin dudarlo.
 
 Y Zhou You y el Maestro Sun naturalmente tienen un gran legado en sus corazones. Después de todo, Chen Mo no estuvo de acuerdo con las condiciones de la familia Wen, sin mencionar sus propias condiciones. No tenían ningún valor en absoluto. así que los dos se dieron la vuelta y se fueron después de dudar un rato.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

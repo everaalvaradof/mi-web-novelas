@@ -117,7 +117,3 @@ Sin embargo, Su Mubai estaba sentado allí inmóvil en este momento, y la expres
 “Mubai, no estarás realmente enojado, ¿verdad?”
 
 Chen Mo preguntó rápidamente después de sentir que algo andaba mal con Su Mubai.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

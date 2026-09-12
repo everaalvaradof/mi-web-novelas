@@ -133,7 +133,3 @@ Chen Mo dijo con una sonrisa.
 “No hay nada que ver con el casino y la casa club, ¡pero tengo algo que hacer aquí!”
 
 Dijo Qin Yibing con delicadeza.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

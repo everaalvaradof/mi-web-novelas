@@ -111,7 +111,3 @@ En cuanto a otras personas, naturalmente no piensan tanto. No hicieron más preg
 Porque si fuera de acuerdo con el plan de Jiang Qiwei, ahora Chen Mo debería ser una persona muerta. Después de todo, escuchó los disparos, pero Chen Mo todavía está parado aquí en este momento, y parece estar muy familiar. lo cual es realmente increíble.
 
 Es posible que Jiang Qiwei nunca haya imaginado que Liu Xuanxuan se había rendido por completo a Chen Mo en este momento, y no se atrevió a tener el más mínimo pensamiento de desobediencia.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

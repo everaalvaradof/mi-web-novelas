@@ -89,7 +89,3 @@ Todos los presentes miraron la posición de An Qi y se discutió en voz baja nue
 “¡Señorita Su, hola!”
 
 La actitud de An Qi era obviamente mucho mejor que la de Yue Xuan, así que tomó la iniciativa de saludar a Su Mubai.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

@@ -115,7 +115,3 @@ Después de escuchar las palabras de Jiang Feifei, Chen Mo giró la cabeza y mir
 “Aún no lo has dicho, ¿cómo sabes que no lo creeré?”
 
 Jiang Feifei parecía gritar obstinadamente.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

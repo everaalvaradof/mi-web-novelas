@@ -177,7 +177,3 @@ La gente de la Secta Shangqing también los siguió a la Secta Ming del Norte.
 Cuando los discípulos de Beimingzong supieron que alguien había irrumpido en Beimingzong, corrieron hacia la puerta de la ciudad, como si una guerra estuviera a punto de estallar.
 
 La expresión en el rostro de Chen Mo era muy tranquila, como si no le importaran en absoluto los discípulos de Beimingzong.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

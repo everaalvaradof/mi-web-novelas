@@ -89,7 +89,3 @@ Li Zixi se sorprendió por un momento después de escuchar las palabras de Chen 
 “¿Mejorar a los dos?”
 
 Li Baiqiang se burló cuando escuchó esto.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

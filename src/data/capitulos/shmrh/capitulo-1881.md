@@ -191,7 +191,3 @@ Yan Ella dijo con una sonrisa.
 “¿Cuándo te lo prometí?”
 
 Chen Mo gritó sin palabras.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

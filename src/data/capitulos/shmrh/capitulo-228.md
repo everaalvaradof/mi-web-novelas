@@ -115,7 +115,3 @@ He Cai miró levemente a Sun Kai, pero no le prestó atención en absoluto, sino
 Chen Mo rápidamente miró a He Cai.
 
 He Cai sonrió levemente, luego se giró y salió de la habitación privada.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

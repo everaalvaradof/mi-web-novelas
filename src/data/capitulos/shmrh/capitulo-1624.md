@@ -127,7 +127,3 @@ Chu Lan miró a Chen Mo y continuó.
 Chen Mo respondió de mala gana.
 
 Y después de que Chu Lan escuchó las palabras de Chen Mo, una extrañeza brilló en sus hermosos ojos, como si hubiera adivinado algo.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

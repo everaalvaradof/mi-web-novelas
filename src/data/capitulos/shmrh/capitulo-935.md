@@ -97,7 +97,3 @@ Jiang Feifei se quedó atónita por un momento, luego sacudió rápidamente la c
 En este momento, Wei Chen gritó de repente.
 
 Después de escuchar esto, todos asintieron y luego siguieron a Wei Chen hasta la puerta del hotel.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

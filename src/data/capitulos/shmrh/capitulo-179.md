@@ -153,7 +153,3 @@ Chen Mo extendió su mano y empujó Zhang Biao, y luego dio un paso adelante, es
 Zhang Biao reaccionó y rápidamente gritó a los hermanos pequeños que trajo.
 
 Pero en ese momento, la puerta del restaurante se abrió repentinamente y Zhang Ming y otro empleado del banco entraron con una caja de dinero muy grande.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

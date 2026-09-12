@@ -99,7 +99,3 @@ El guardaespaldas y Zhou Qiantu estaban desconcertados, y ninguno de los dos pod
 “Está bien, ustedes dos dejarán de actuar. ¡Hagan lo que quieran!”
 
 Su Lieheng no quería dejar que estas personas vieran los chistes de la familia Su, y su tono era el irritable Zhou Qiantu agitó la mano.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

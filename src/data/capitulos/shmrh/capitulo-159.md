@@ -157,7 +157,3 @@ Después de ver a Chen Mo desmayarse, la persona que lo hizo no dijo tonterías 
 Hubo un sonido de tacones altos golpeando el suelo.
 
 Una mujer alta y sexy salió de la esquina oscura y entró en la camioneta con una sonrisa de suficiencia en sus labios.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

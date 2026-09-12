@@ -139,7 +139,3 @@ Li Huanhuan volvió la cabeza y le gritó a Pei Zi.
 Después de dudar un rato, Pei Zi caminó directamente hacia Chen Mo y le preguntó a Chen Mo en voz baja: “¿Por qué golpeaste a Zhao Ziqian en este momento?”
 
 Todos escucharon a Pei Zi después. esta frase, todos quedaron atónitos.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

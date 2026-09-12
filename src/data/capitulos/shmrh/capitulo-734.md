@@ -115,7 +115,3 @@ Meng Liang asintió rápidamente cuando escuchó las palabras de Chen Mo.
 “¡Si puedes persistir, solo espera, no dejaré que te golpeen en vano!”
 
 Chen Mo le dijo suavemente a Meng Liang.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

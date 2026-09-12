@@ -127,7 +127,3 @@ Por un momento, todos parecían odiar mucho a Chen Mo.
 “¿Escuchaste? Será mejor que te quites del camino ahora. No me importas en la cara de Ruoxi, ¡o ten cuidado, seré grosero contigo!”
 
 Zhang Feng dio un paso adelante, señaló la nariz de Chen Mo y amenazó.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

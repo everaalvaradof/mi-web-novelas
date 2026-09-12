@@ -125,7 +125,3 @@ Realmente no podía entender quién podía ser tan despiadado y querer suicidars
 “¿Quién quiere matar a Tang Ying?”
 
 Chen Mo continuó preguntando mientras miraba al hombre de mediana edad frente a él.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

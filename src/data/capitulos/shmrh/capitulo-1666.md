@@ -145,7 +145,3 @@ Ding Shuo estuvo de acuerdo sin dudarlo.
 “¿Aceptaste tan rápido?”
 
 Chen Mo dijo con una sonrisa.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence

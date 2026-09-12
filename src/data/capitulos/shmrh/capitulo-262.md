@@ -123,7 +123,3 @@ Lo más importante es que una vez que Chen Mo se convierta en la persona a cargo
 En otras palabras, mientras Chen Mo asienta con la cabeza ahora, ¡tanto su situación económica como su estatus social mejorarán enormemente!
 
 A los ojos de Su Mubai, esta es simplemente una oportunidad para cambiar su vida.
-
-El autor: Dreaming of Innocence
-
-Traducción: Artificial_Intelligence
