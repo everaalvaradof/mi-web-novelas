@@ -1,0 +1,45 @@
+---
+titulo: "Capítulo 694: RENEGADE IMMORTAL  Solicitud de Wang Ping"
+numero: 694
+novelaId: "rrii"
+---
+
+Desde que Xiao Yao y el antepasado del clan Ran fallecieron, gracias a Sun Xi, el clan Sun en el planeta Ran Yun tomó el antiguo lugar del clan Ran, y ahora su posición era aún más prestigiosa: en el planeta. Ran Yun eran un clan que mantuvo firmemente su palabra y no toleró las disputas.
+
+Después de veinte años de tales cambios, la gente del clan Sun gradualmente comenzaron a estar orgullosos de sí mismos y de su clan. También había una rama del Clan del Sol en la ciudad de Qishui, y ahora, dentro del salón principal de esta rama de la Casa del Sol, tres ancianos del clan, cuyo cultivo estaba en el nivel de Formación del Alma, se sentaban en los lugares principales. Y frente a ellos se pararon todos los participantes en ese incidente en la taberna, expresando respeto de todo tipo. Su Maestro, un cultivador de la Formación del Núcleo, también estaba parado aquí junto a ella, solo su rostro estaba mortalmente pálido y el nivel había bajado a la última etapa de la Formación de la Fundación.
+
+Uno de los tres ancianos con la cara roja entrecerró los ojos ligeramente y dijo lentamente: “¿De verdad dijo eso?”Ese cultivador de la casa del Sol en el nivel de Yuanying, que contuvo a Wang Ling, inmediatamente asintió con la cabeza y dijo:” El más joven no podía estar equivocado, esta persona realmente dijo: “¡La próxima vez esto no volverá a suceder!”
+
+Un suspiro frío de indignación escapó de los labios de otro anciano con túnica verde, el frío brilló en los ojos de este hombre y dijo en un tono helado: “Aparentemente, ¡alguien está intentando provocar de nuevo al clan Sol! Este hombre rompió el Dan del cultivador de nivel de Formación Núcleo con una mirada, y con solo un paso obligó a los tres cultivadores de nivel Yuanying a retirarse. ¡Me temo que su cultivo ha excedido el nivel de Transformación del Alma!”
+
+El último de los tres ancianos dijo con calma:” ¿Y qué pasa si está en el nivel de transformación del alma!? El antepasado del Clan del Sol está con nosotros y, además, hemos estado bajo el patrocinio de ese anciano durante cien años. Incluso el clan Huan del planeta Qianhuang no se atrevió a desafiarlo. ¡Mientras esté con nosotros, nuestro clan Sun no tiene nada que temer! ” Ahora el anciano de rostro rojo habló por segunda vez: “¿Cómo se llama este hombre?” Los cultivadores frente a él guardaron silencio y después de un tiempo ese anciano en la etapa tardía Yuanying dijo con una sonrisa amarga: “Esto no lo sabemos ninguno de nosotros, pero creo que esta chica de un clan extranjero puede haber aprendido algo. porque ella les habló. “…
+
+El anciano de rostro rojo se dirigió a Qing Yi, “¿Sabes algo?” Qing Yi se estremeció, hizo una pausa por un segundo, luego sacudió la cabeza y dijo: “La más joven no sabe nada…”
+
+“¿Cómo te atreves? ¡usted!” – la mirada del anciano de rostro rojo se oscureció. Con su experiencia, naturalmente se dio cuenta a primera vista de que la niña estaba mintiendo. Qing Yi bajó la cabeza con tristeza y dijo en voz baja: “La verdad más joven no sabe nada…” El hombre de cara roja se rió con frialdad, se levantó y dijo: “Por ahora, dejemos este caso. Ya informé al jefe del clan y hoy llegará aquí un cultivador del nivel de Transformación del Alma. En cuanto a esta chica de un clan extranjero, ya que tiene algún tipo de plan propio, ¡déjala salir de la casa de Sun! ¡Veamos por qué decidió decirme palabras tan insolentes sin precedentes!¡Nadie en el planeta Ran Yun se atreve a hablar así con mi clan del Sol!”
+
+En el norte de la ciudad de Qishui, en el patio del clan Wang, el letrero en la puerta exterior ya ha caído y fue reemplazado por uno nuevo, en el que Wang Lin escribió con su propia mano : “Residencia Wang”. En cuanto a los sirvientes y asistentes dentro de la residencia, Wang Lin dejó a todos en sus lugares anteriores, extendiendo su servicio aquí. Por lo tanto, debilitó significativamente la actitud fría hacia él. En medio de la noche, a la luz de la luna en el estudio del patio, Wang Lin y Wang Ping se sentaron uno frente al otro. “Ping Er, viviste diecinueve años como un simple mortal, durante ocho años vagaste por las montañas y los ríos, y ahora quiero mostrarte treinta años de la vida de un hombre rico. Debes comprender todos los aspectos de la vida humana: alegría, ira, tristeza y felicidad, así como pobreza y riqueza”, dijo Wang Lin con calma.
+
+Wang Ping hizo una pausa por un momento, luego sonrió levemente y dijo con un brillo en los ojos: “Padre, ¿es este pago por no dejarme cultivar? ” Wang Ling miró a Wang Ping y respondió lentamente: “Sí”. Su mirada parecía estar dirigida más allá de su hijo, hacia la ventana y hacia la distancia. Entonces Wang Ping no pudo ver la tristeza que estaba aumentando en él. Esta tristeza era demasiado fuerte, tan fuerte que nadie podía comprenderla, y Wang Ling tuvo que esconder este secreto en su corazón. A pesar de que sintió que Wang Ping se ofendió un poco con él debido al sueño del Camino de Cultivo, que escondió en lo profundo de su alma.
+
+“Ping Er, no es que tu padre no te permita cultivarte… pero… que no puedes cultivarte… “Wang Lin pensó así por dentro, y la tristeza en sus ojos se hizo aún más fuerte. No podía esconderla.
+
+Wang Ping preguntó en voz baja: “Padre, ¿qué significa ser rico?”
+
+Wang Lin miró hacia otro lado y dijo con calma: “¿Qué tipo de hombre rico te gustaría ser?”
+
+“Mi padre me enseñó una vez que una persona debe resistir el destino y no se puede permitir que lo subyugue. Hay que cruzar montañas, superar ríos, cruzar mares, y de la misma manera no se puede obedecer al destino.¡Si mi padre no me deja convertirme en cultivador, voy a ganarme el mayor respeto entre los mortales! ” Wang Ping miró a su padre. “¡Si quieres es posible!” – Wang Lin cerró los ojos.
+
+Wang Ping creció, y gracias a la educación de Wang Lin, gradualmente formó su propia visión de las cosas. Ya no era el niño que solo supo seguir a su padre. Tenía su propia opinión y sus ideales. Wang Ping miró a su padre y dijo en voz baja: “Pero no necesito respeto, lo cual es fácil para mí, ¡quiero luchar por él!” “Es posible…” dijo Wang Lin con calma, luego agitó su mano y la sombra detrás de él se levantó y se escondió detrás de Wang Ping.
+
+“Con su ayuda en el planeta Zhan Yun, puedes lograr cualquier cosa “. Wang Ling se levantó y salió de la oficina sin mirar a Wang Ping. Su silueta parecía un poco flácida y derrotada. Wang Ping abrió la boca como si quisiera decir algo, pero al final no dijo una palabra, y solo en su corazón preguntó en silencio: “Padre, puedes darme todo, pero por qué … don ” ¿Me dejas ser un cultivador? A Ping Er le gustaría convertirse en un cultivador no por su propio bien, sino por el bien de esa promesa… para estar siempre contigo… Padre, estás tan solo… por qué … “En el luz de la luna, Wang Ling estaba en el patio, y su sombra se extendía en una larga franja… Regresó tranquilamente a su habitación, se acostó en la cama y dijo en voz baja: “Algún día llegará el día y lo entenderás, pero espero que este día no llegue pronto, ni siquiera que llegue nunca, y no lo sabrás. por qué …”
+
+Wang Ping no pegó ojo esa noche.
+
+Tres días después, un hombre apareció en la frontera de Qishui. Estaba vestido con túnicas negras y parecía muy experimentado y anciano. Entró en la ciudad de Qishui y caminó hacia la casa de la rama del Clan del Sol. Todos los cultivadores de la rama del Clan del Sol en ese momento salieron a la calle para encontrarse con él. Aunque ya habían adivinado que su invitado sería un cultivador del nivel de Transformación del Alma, cuando los tres ancianos lo vieron, todavía no pudieron contener sus suspiros y aún más respeto se reflejó en sus rostros.
+
+“¡Saludamos a la mano derecha del líder del clan!”- este era Sun Qiming, quien se distinguió por sus méritos en el Clan del Sol durante la historia con Wang Ling. Además, profundizó su cultivo y ya había alcanzado la última etapa de Transformación del Alma, por lo que Sun Xi lo ascendió a heredero al Jefe del Clan Sol.
+
+Sun Qiming no perdió el tiempo hablando y preguntó directamente: “¿Dónde está este hombre?”
+
+Todos estos ancianos de la rama del clan no podían entender el significado de la destrucción del Dan dorado con solo una mirada, pero inmediatamente se dio cuenta de eso a pesar de que él mismo podría haber hecho esto, después de eso, ciertamente no habría tenido éxito en un solo paso, sin el uso de alguna habilidad divina, para obligar a los tres cultivadores de nivel Yuanying a retirarse. Esto aún podría explicarse de alguna manera por el uso de habilidades divinas, pero si todo realmente era como se dijo en el jade de transmisión, y no había habilidades divinas, entonces, aparte del viejo monstruo del nivel de Ascensión, ninguno de los cultivadores ordinarios. habría podido hacer esto.

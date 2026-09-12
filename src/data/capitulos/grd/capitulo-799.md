@@ -1,0 +1,107 @@
+---
+titulo: "Gran Rey Demonio Capítulo 799. Hecho por el hombre."
+numero: 799
+novelaId: "grd"
+---
+
+Aobashi era conocida en la ciudad de las sombras no sólo por su fuerza sobresaliente y su posición poderosa, sino también por su apariencia atractiva. Si no perteneciera a la misma clase que Erebus, una persona común y corriente ni siquiera se atrevería a soñar con ella.
+
+Aobashi, generalmente vestida de verde, tenía una apariencia elegante y atractiva. Tenía todos los signos de una gran belleza. Pero desafortunadamente, debido a su alto estatus y calificaciones, muy pocos hombres tuvieron el coraje de entablar una relación romántica con ella.
+
+“¡Oye! ¡Esta es la mujer de la que Erebus está enamorado! – se recordó Han Shuo. Luego dijo con una sonrisa:”Ya tengo demasiadas mujeres. Además, una dama dictatorial como Aobashi no es de mi agrado. No tienes nada de qué preocuparte, Erebus.”
+
+Cuando Aobashi escuchó las palabras de Han Shuo, ella lo miró extrañamente con sus ojos brillantes, y luego de repente se rió y dijo
+
+-“¿A qué tienes tanto miedo? ¿Realmente pensaste que Erebus creería que había algo entre nosotros?
+
+Han Shuo se rió y dijo,”Simplemente no quiero que Erebus lo malinterprete y se sienta celoso“No estoy preocupado. Incluso si quiere a alguien más, no comprometerá sus estándares, estoy seguro. Jaja, ¿de qué debería preocuparme? -Después de escuchar la explicación de Han Shuo, Erebus recordó que había muchas mujeres hermosas en su casa y dejó de preocuparse.“¿Pero estás realmente seguro?” – Dijo Aobashi con una sonrisa pícara, como si estuviera decidida a romper la voluntad de Erebus.“Uh…” Erebus puso una sonrisa de preocupación en su rostro y se quedó sin palabras.Adiós Han Shuo, Aobashi y Erebus charlaron alegremente, Camilla, Rugersi y Batuk echaron suertes. Wallace miró de cerca a la Trinidad e inmediatamente dijo en voz alta,”¡Aobashi, Erebus, ahora es tu turno!”Cuando Wallace vio que Han Shuo se llevaba bien con los dos jefes de la Guardia Divina bajo su comando, él no sólo no estaba feliz, sino que incluso se sentía vagamente incómodo. Sin saberlo, Han Shuo influyó en muchos de aquellos cercanos a él. Carmelita, Andre, Erebus y Aobashi fueron los personajes principales de House of Saint. Todos eran amigos cercanos de Han Shuo.¡Para Wallace, esto no era un buen augurio en absoluto!“¡Ya voy!” – Respondió Aobashi. Le dio a Han Shuo una mirada mortal y resopló antes de ir a echar suertes con ErebusWallace, quien había estado observando cuidadosamente al trío, no pudo evitar fruncir el ceño. De repente le pareció que había perdido a todos sus fieles subordinados, excepto a Ralph, que seguiría siendo para siempre su fiel perro. Involuntariamente se dio vuelta y miró a Ralph, que estaba parado en la distancia. Cuando recordó que Ralph perdería, por alguna razón se sintió profundamente incómodo.Los resultados del sorteo se recibieron muy pronto. Erebus luchará contra Camilla y Batuk luchará contra Rugersi. Aobashi tenía un lote sin marcar.Aobashi estaba feliz de recibir un lote sin marcar. Ella dijo:”¡Hoy tengo mucha suerte, no necesito gastar mucha energía!”Para Aobashi, aparte de Ralph, ningún otro jefe de la Guardia Divina tenía la fuerza suficiente para hacerle daño. Como Aobashi no sabía acerca de la verdadera fuerza de Han Shuo, lo incluyó entre aquellos demasiado débiles para dañarla.Para Aobashi, aunque la fuerza de Han Shuo era extraordinaria, era difícil decir si era igual a Ralph. Después de haber luchado contra Ralph durante años, Aobashi sabía exactamente dónde Ralph era más fuerte. Es por eso que Aobashi constantemente le recordaba a Han Shuo que tuviera cuidado con Ralph.Aobashi nunca tuvo un duelo real con Han Shuo, pero sabía que Han Shuo logró herir a Portlem en la Farmacia Sky Pearl. Para Aobashi, alguien como Portlem, que recientemente había entrado en la divinidad suprema, simplemente no podía representar ninguna amenaza para ella.Basado en la información limitada, Aobashi dedujo que Han Shuo era, en el mejor de los casos, alguien que recientemente se había convertido en un Dios Supremo en la etapa intermedia. No creía que un experto en este campo pudiera derrotarla.“Bueno, entonces, en lugar de elegir una ubicación diferente, usemos la misma arena para el partido”. dijo Wallace. Luego se giró hacia Han Shuo y Ralph y dijo,”si ustedes dos están listos, Andre les mostrará el camino a la arena”, después de lo cual Wallace silbó fuertemente.Andre, que no estaba en el grupo, escuchó a Wallace silbar. Instruyó a los Guardias Divinos de la Casa Santa estacionados en el área para que le indicaran a Wallace desde lejos, indicando que todo estaba listo.Han Shuo no dijo una palabra, sino que caminó directamente hacia Andre. Ralph siguió a Han Shuo, mirando su espalda con odio.Les tomó varios días a los Guardianes Divinos viajar desde esta área hasta el lugar de la batalla. Han Shuo y Ralph, quienes tenían poderes sobrenaturales, no deberían haber esperado tanto. Moviéndose a toda velocidad, estos dioses supremos, liderados por Andre, llegaron a la arena en sólo unas pocas horas.Las pocas horas que pasaron en el camino fueron completamente vacías para estos dioses supremos, que habían pasado siglos cultivándose.Andre ignoró completamente a Ralph durante todo el viaje, pero charló alegremente con Han Shuo. Para André, los resultados estaban predeterminados y no dejaban lugar a otro resultado. Fue muy educado de su parte no burlarse de Ralph durante el viaje.Había torres de energía alrededor de la arena que formaban poderosas barreras protectoras. Aquellos que luchan en la arena no tienen que preocuparse de que las ondas de choque y las energías errantes de sus batallas hirieran a quienes no están involucrados o dañen el medio ambiente. Lo más importante es que Wallace y los elegidos pudieron ver la batalla desde una distancia segura usando la mesa de arena. Estaban obteniendo una comprensión clara de la fuerza de los Jefes de la Guardia Divina.Después de que Andre guió a Han Shuo y Ralph fuera de la arena, les mostró que podían entrar a la arena. Han Shuo entró a la arena primero. Andre repentinamente gritó para recordarle a Han Shuo,”¡Las lesiones menores están bien, pero nunca causen lesiones graves o la muerte!”¡Mi hermano mayor no quiere que el líder ya no pueda servir a la ciudad de las sombras!Andre miró a Ralph, sonrió, sacudió la cabeza y no dijo nada. Pero antes de irse, nuevamente le recordó a Han Shuo -“¡Ten piedad!”Luego les gritó a los guardias divinos que custodiaban el perímetro -“¡Limpiadores de Arena, evacuen el área y no dejen entrar a nadie!”Después de que los guardias divinos se dispersaron, Andre también se retiró a cierta distancia. Observó la Arena con una sonrisa.Ralph estaba lleno de ira. Gimió fríamente y advirtió en voz alta a Han Shuo parado frente a él,”¡Señor Brian, no tendré piedad!”Han Shuo parecía desconcertado. Luego se tocó la oreja con el dedo meñique, como si pensara que tenía un bloqueo en el canal auditivo. Sólo entonces respondió:”¿Te pasa algo en los oídos?¿Obstruiste la audiencia? Lord Andre me pidió piedad a mí, no a ti. Jeje, por tu propio bien, es mejor no ser misericordioso: ya eres bastante débil. ¡Tengo mucho miedo de matarte accidentalmente en un abrir y cerrar de ojos!”“¡Empecemos!””Cuando Ralph descubrió que no era rival para Han Shuo en la batalla de insultos, detuvo esta tontería y corrió a la arena.A medida que el dúo se acercaba a la arena, Wallace, los tres patriarcas principales y los otros jefes de la Guardia Divina centraron toda su atención en la mesa de arena alrededor de la cual estaban reunidos. Wallace hizo algo y provocó que la proyección de la mesa de arena se acercara a los dos puntos negros. La figura de Han Shuo y Ralph era clara y claramente visible.“¡Si Ralph también es derrotado en esta batalla, será fantástico!” – dijo Camila en voz baja.“Realmente me pregunto si Brian ganará. Jaja, ¡Él siempre está lleno de sorpresas! – señaló Gia, de pie junto a Camilla, con una sonrisa. Ella sonrió levemente y parecía esperar descubrir el resultado.El patriarca de la casa Kinson, Kaspar, miró a su hija Gia con sorpresa. Ya estaba bastante sorprendido de que hace dos días ella fuera al quinto edificio. Kaspar, un experto en leer el lenguaje corporal, notó que había algo inusual en su novia. Ahora, después de escuchar el comentario de Jia, de repente empezó a sospechar.“Jia, ¿estás interesado en este joven?” – preguntó Kaspar en voz baja. Siendo su padre, Casper fue muy abierto con Gia.Gia estaba claramente sorprendida. Levantó la cabeza, miró rápidamente a Kaspar y respondió emocionada:”¿Qué? ¡No entiendo de qué estás hablando, padre!”“¡Ella realmente es así!” Kaspar conocía muy bien a su hija. Ella siempre estará tranquila y mantendrá la cara seria en cualquier situación. ¡Su reacción emocionada a la pregunta significa que la respuesta no podría ser más obvia!“Dicen que este joven es promiscuo. ¡Ten cuidado con esto! – dijo Kaspar antes de continuar suavemente -“Pero si él es a quien quieres, y si lo decides, tu padre no te detendrá.”Jia quedó atónita y miró a Kaspar con incredulidad. Su padre nunca fue una persona abierta. Durante tantos años logró ahuyentar a innumerables jóvenes prometedores que la adoraban. Estaba sorprendida de que Kaspar realmente le pidiera que lo aceptara, incluso cuando sabía que Han Shuo ya tenía muchos socios.Mientras Jia estaba desconcertada y preguntándose sobre la decisión de su padre, Camilla de repente gritó sorprendida -” ¡¿Por qué no podemos ver nada?!”Jia estaba sorprendida y preocupada por Han Shuo sin razón aparente. Se volvió hacia la mesa de arena y dejó de pensar en nada más.La mesa de arena parecía estar funcionando bien. Sin embargo, una enorme nube de niebla blanca flotó hacia la arena de la nada, y casualmente bloqueó el área donde estaban ubicados Han Shuo y Ralph. Los espectadores, que estaban emocionados por la batalla, no podrían estar más emocionados y decepcionados.A través de la mesa de arena, vieron polvo y piedras volando saliendo de la niebla. Estaba claro que se estaba librando una batalla increíble, pero no tenían idea de quién ganaba o perdía.“Señor de la ciudad, ¿por qué apareció de repente la niebla?” – preguntó Caspar apresuradamenteWallace también estaba confundido. Sacó un espejo mágico y le preguntó a Andre:”¿Qué está pasando? ¿No se limpió adecuadamente la Arena? ¿Cómo fue que la niebla cubrió esta zona en el momento más crítico? ¿De dónde vino esta niebla?”Andre en el espejo mágico se obligó a sonreír y respondió:”Limpiamos la arena adecuadamente. Algo así no puede suceder. ¡Estoy seguro de que este fenómeno es obra del hombre!”“¡Creado por el hombre!” – Wallace frunció el ceño. En cada competición, Ralph se centró únicamente en el ataque salvaje y no perdió tiempo estudiando ni cambiando el entorno. Por lo tanto, si la niebla fue creada por una persona, entonces la única persona que podría hacerlo debería ser Han Shuo.¡Wallace estaba absolutamente seguro de esto!“¿Pero por qué? ¿Por qué no quiere que la gente vea sus ataques? – pensó Wallace frunciendo el ceño.leer Great Demon King en Español Capítulo 799. Hecho por el hombre. Gran Rey DemonioEl autor: Ni Cang TianTraducción: Artificial_Intelligence
+
+“No estoy preocupado. Incluso si quiere a alguien más, no comprometerá sus estándares, estoy seguro. Jaja, ¿de qué debería preocuparme? -Después de escuchar la explicación de Han Shuo, Erebus recordó que había muchas mujeres hermosas en su casa y dejó de preocuparse.
+
+“¿Pero estás realmente seguro?” – Dijo Aobashi con una sonrisa pícara, como si estuviera decidida a romper la voluntad de Erebus.
+
+“Uh…” Erebus puso una sonrisa de preocupación en su rostro y se quedó sin palabras.
+
+Adiós Han Shuo, Aobashi y Erebus charlaron alegremente, Camilla, Rugersi y Batuk echaron suertes. Wallace miró de cerca a la Trinidad e inmediatamente dijo en voz alta,”¡Aobashi, Erebus, ahora es tu turno!”
+
+Cuando Wallace vio que Han Shuo se llevaba bien con los dos jefes de la Guardia Divina bajo su comando, él no sólo no estaba feliz, sino que incluso se sentía vagamente incómodo. Sin saberlo, Han Shuo influyó en muchos de aquellos cercanos a él. Carmelita, Andre, Erebus y Aobashi fueron los personajes principales de House of Saint. Todos eran amigos cercanos de Han Shuo.
+
+¡Para Wallace, esto no era un buen augurio en absoluto!
+
+“¡Ya voy!” – Respondió Aobashi. Le dio a Han Shuo una mirada mortal y resopló antes de ir a echar suertes con Erebus
+
+Wallace, quien había estado observando cuidadosamente al trío, no pudo evitar fruncir el ceño. De repente le pareció que había perdido a todos sus fieles subordinados, excepto a Ralph, que seguiría siendo para siempre su fiel perro. Involuntariamente se dio vuelta y miró a Ralph, que estaba parado en la distancia. Cuando recordó que Ralph perdería, por alguna razón se sintió profundamente incómodo.
+
+Los resultados del sorteo se recibieron muy pronto. Erebus luchará contra Camilla y Batuk luchará contra Rugersi. Aobashi tenía un lote sin marcar.
+
+Aobashi estaba feliz de recibir un lote sin marcar. Ella dijo:”¡Hoy tengo mucha suerte, no necesito gastar mucha energía!”Para Aobashi, aparte de Ralph, ningún otro jefe de la Guardia Divina tenía la fuerza suficiente para hacerle daño. Como Aobashi no sabía acerca de la verdadera fuerza de Han Shuo, lo incluyó entre aquellos demasiado débiles para dañarla.
+
+Para Aobashi, aunque la fuerza de Han Shuo era extraordinaria, era difícil decir si era igual a Ralph. Después de haber luchado contra Ralph durante años, Aobashi sabía exactamente dónde Ralph era más fuerte. Es por eso que Aobashi constantemente le recordaba a Han Shuo que tuviera cuidado con Ralph.
+
+Aobashi nunca tuvo un duelo real con Han Shuo, pero sabía que Han Shuo logró herir a Portlem en la Farmacia Sky Pearl. Para Aobashi, alguien como Portlem, que recientemente había entrado en la divinidad suprema, simplemente no podía representar ninguna amenaza para ella.
+
+Basado en la información limitada, Aobashi dedujo que Han Shuo era, en el mejor de los casos, alguien que recientemente se había convertido en un Dios Supremo en la etapa intermedia. No creía que un experto en este campo pudiera derrotarla.
+
+“Bueno, entonces, en lugar de elegir una ubicación diferente, usemos la misma arena para el partido”. dijo Wallace. Luego se giró hacia Han Shuo y Ralph y dijo,”si ustedes dos están listos, Andre les mostrará el camino a la arena”, después de lo cual Wallace silbó fuertemente.
+
+Andre, que no estaba en el grupo, escuchó a Wallace silbar. Instruyó a los Guardias Divinos de la Casa Santa estacionados en el área para que le indicaran a Wallace desde lejos, indicando que todo estaba listo.
+
+Han Shuo no dijo una palabra, sino que caminó directamente hacia Andre. Ralph siguió a Han Shuo, mirando su espalda con odio.
+
+Les tomó varios días a los Guardianes Divinos viajar desde esta área hasta el lugar de la batalla. Han Shuo y Ralph, quienes tenían poderes sobrenaturales, no deberían haber esperado tanto. Moviéndose a toda velocidad, estos dioses supremos, liderados por Andre, llegaron a la arena en sólo unas pocas horas.
+
+Las pocas horas que pasaron en el camino fueron completamente vacías para estos dioses supremos, que habían pasado siglos cultivándose.
+
+Andre ignoró completamente a Ralph durante todo el viaje, pero charló alegremente con Han Shuo. Para André, los resultados estaban predeterminados y no dejaban lugar a otro resultado. Fue muy educado de su parte no burlarse de Ralph durante el viaje.
+
+Había torres de energía alrededor de la arena que formaban poderosas barreras protectoras. Aquellos que luchan en la arena no tienen que preocuparse de que las ondas de choque y las energías errantes de sus batallas hirieran a quienes no están involucrados o dañen el medio ambiente. Lo más importante es que Wallace y los elegidos pudieron ver la batalla desde una distancia segura usando la mesa de arena. Estaban obteniendo una comprensión clara de la fuerza de los Jefes de la Guardia Divina.
+
+Después de que Andre guió a Han Shuo y Ralph fuera de la arena, les mostró que podían entrar a la arena. Han Shuo entró a la arena primero. Andre repentinamente gritó para recordarle a Han Shuo,”¡Las lesiones menores están bien, pero nunca causen lesiones graves o la muerte!”¡Mi hermano mayor no quiere que el líder ya no pueda servir a la ciudad de las sombras!
+
+Andre miró a Ralph, sonrió, sacudió la cabeza y no dijo nada. Pero antes de irse, nuevamente le recordó a Han Shuo -“¡Ten piedad!”
+
+Luego les gritó a los guardias divinos que custodiaban el perímetro -“¡Limpiadores de Arena, evacuen el área y no dejen entrar a nadie!”
+
+Después de que los guardias divinos se dispersaron, Andre también se retiró a cierta distancia. Observó la Arena con una sonrisa.
+
+Ralph estaba lleno de ira. Gimió fríamente y advirtió en voz alta a Han Shuo parado frente a él,”¡Señor Brian, no tendré piedad!”
+
+Han Shuo parecía desconcertado. Luego se tocó la oreja con el dedo meñique, como si pensara que tenía un bloqueo en el canal auditivo. Sólo entonces respondió:”¿Te pasa algo en los oídos?¿Obstruiste la audiencia? Lord Andre me pidió piedad a mí, no a ti. Jeje, por tu propio bien, es mejor no ser misericordioso: ya eres bastante débil. ¡Tengo mucho miedo de matarte accidentalmente en un abrir y cerrar de ojos!”
+
+“¡Empecemos!””Cuando Ralph descubrió que no era rival para Han Shuo en la batalla de insultos, detuvo esta tontería y corrió a la arena.
+
+A medida que el dúo se acercaba a la arena, Wallace, los tres patriarcas principales y los otros jefes de la Guardia Divina centraron toda su atención en la mesa de arena alrededor de la cual estaban reunidos. Wallace hizo algo y provocó que la proyección de la mesa de arena se acercara a los dos puntos negros. La figura de Han Shuo y Ralph era clara y claramente visible.
+
+“¡Si Ralph también es derrotado en esta batalla, será fantástico!” – dijo Camila en voz baja.
+
+“Realmente me pregunto si Brian ganará. Jaja, ¡Él siempre está lleno de sorpresas! – señaló Gia, de pie junto a Camilla, con una sonrisa. Ella sonrió levemente y parecía esperar descubrir el resultado.
+
+El patriarca de la casa Kinson, Kaspar, miró a su hija Gia con sorpresa. Ya estaba bastante sorprendido de que hace dos días ella fuera al quinto edificio. Kaspar, un experto en leer el lenguaje corporal, notó que había algo inusual en su novia. Ahora, después de escuchar el comentario de Jia, de repente empezó a sospechar.
+
+“Jia, ¿estás interesado en este joven?” – preguntó Kaspar en voz baja. Siendo su padre, Casper fue muy abierto con Gia.
+
+Gia estaba claramente sorprendida. Levantó la cabeza, miró rápidamente a Kaspar y respondió emocionada:”¿Qué? ¡No entiendo de qué estás hablando, padre!”
+
+“¡Ella realmente es así!” Kaspar conocía muy bien a su hija. Ella siempre estará tranquila y mantendrá la cara seria en cualquier situación. ¡Su reacción emocionada a la pregunta significa que la respuesta no podría ser más obvia!
+
+“Dicen que este joven es promiscuo. ¡Ten cuidado con esto! – dijo Kaspar antes de continuar suavemente -“Pero si él es a quien quieres, y si lo decides, tu padre no te detendrá.”
+
+Jia quedó atónita y miró a Kaspar con incredulidad. Su padre nunca fue una persona abierta. Durante tantos años logró ahuyentar a innumerables jóvenes prometedores que la adoraban. Estaba sorprendida de que Kaspar realmente le pidiera que lo aceptara, incluso cuando sabía que Han Shuo ya tenía muchos socios.
+
+Mientras Jia estaba desconcertada y preguntándose sobre la decisión de su padre, Camilla de repente gritó sorprendida -” ¡¿Por qué no podemos ver nada?!”
+
+Jia estaba sorprendida y preocupada por Han Shuo sin razón aparente. Se volvió hacia la mesa de arena y dejó de pensar en nada más.
+
+La mesa de arena parecía estar funcionando bien. Sin embargo, una enorme nube de niebla blanca flotó hacia la arena de la nada, y casualmente bloqueó el área donde estaban ubicados Han Shuo y Ralph. Los espectadores, que estaban emocionados por la batalla, no podrían estar más emocionados y decepcionados.
+
+A través de la mesa de arena, vieron polvo y piedras volando saliendo de la niebla. Estaba claro que se estaba librando una batalla increíble, pero no tenían idea de quién ganaba o perdía.
+
+“Señor de la ciudad, ¿por qué apareció de repente la niebla?” – preguntó Caspar apresuradamente
+
+Wallace también estaba confundido. Sacó un espejo mágico y le preguntó a Andre:”¿Qué está pasando? ¿No se limpió adecuadamente la Arena? ¿Cómo fue que la niebla cubrió esta zona en el momento más crítico? ¿De dónde vino esta niebla?”
+
+Andre en el espejo mágico se obligó a sonreír y respondió:”Limpiamos la arena adecuadamente. Algo así no puede suceder. ¡Estoy seguro de que este fenómeno es obra del hombre!”
+
+“¡Creado por el hombre!” – Wallace frunció el ceño. En cada competición, Ralph se centró únicamente en el ataque salvaje y no perdió tiempo estudiando ni cambiando el entorno. Por lo tanto, si la niebla fue creada por una persona, entonces la única persona que podría hacerlo debería ser Han Shuo.¡Wallace estaba absolutamente seguro de esto!
+
+“¿Pero por qué? ¿Por qué no quiere que la gente vea sus ataques? – pensó Wallace frunciendo el ceño.

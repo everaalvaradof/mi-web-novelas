@@ -1,0 +1,111 @@
+---
+titulo: "Gran Rey Demonio Capítulo 337. Sometiéndose al nuevo alcalde"
+numero: 337
+novelaId: "grd"
+---
+
+Incluso entre los montañeros generalmente altos, Han Shuo se elevaba entre ellos como una grulla entre gallinas, y la práctica de magia demoníaca le daba un aura maligna que hacía su imagen aún más atractiva. Sonriendo, Han Shuo se acercó a los invitados y sacó de su anillo espacial platos con carne cubierta con una corteza dorada brillante.
+
+– ¡Damas y caballeros! Se trata de una selección muy rara de embutidos de tierras lejanas. Cacé mucho para preparártelo. ¡Pruébalo por favor!- Han Shuo sonrió e invitó a todos a probar sus delicias
+
+Jack estaba parado en el otro extremo de la habitación, discutiendo el presupuesto militar con Dorcas, pero cuando olió el olor a asado. probó la carne, que no había comido durante mucho tiempo, no pudo continuar la conversación más.
+
+Dorcas era un fanático de la guerra, y su único interés era el entrenamiento táctico. para que los soldados bajo su mando se volvieran aún más poderosos. Jack, que estaba a cargo del presupuesto militar, sin duda estaba muy interesado en Dorcas desde este punto de vista, por lo que utilizó todos sus trucos para atraer la mayor cantidad de dinero posible para equipo militar.
+
+Al principio Jack tenía miedo de Dorcas, pero después de un tiempo se acostumbró a él y le proporcionó sólo la cantidad que era posible. Han Shuo sonrió al ver lo rápido que Jack corrió hacia la mesa e invitó a los líderes de la montaña una vez más.
+
+— Prueba mi regalo, no podrás encontrar estas delicias en ningún otro lugar.
+
+Falkin fue el único de los líderes de los montañeros que lo habían conocido antes con Han Shuo y no tenía el mismo miedo y temblor hacia el nuevo alcalde que los demás, pero la complacencia de Han Shuo lo alarmó aún más.
+
+Jack era el amigo más cercano de Han Shuo de todos los presentes, y por lo tanto, sin dudarlo, tomó un tenedor y un cuchillo en su mano y cortó un gran trozo de carne tierna y aromática.
+
+– Oh, esto está muy rico, ¿qué tipo de carne es esta? – preguntó, masticando otro trozo
+
+– Esta es la extremidad anterior de una mantícora, ¿no es muy sabrosa? — Han Shuo respondió con una sonrisa. Luego comenzó a señalar los platos alternativamente y a nombrar los platos que había en ellos.- Esta es la cola de una pitón venenosa de aguas profundas, es la más dura. Este plato es cerebro de arpía, deberías probarlo para saber a qué sabe. Y esto…
+
+La gente, Dorcas y todos los demás asociados cercanos de Han Shuo, sin mencionar a los cinco líderes de los montañeros, abrieron sus bocas sorprendidos cuando el dueño comenzó a hablar. preséntales los nombres de los platos. No podían creer que se tratara de carne de animales mágicos tan raros. Cazar criaturas mágicas requiere un equipo de aventureros expertos y experimentados. Si una persona común y corriente intenta luchar contra ellos, sólo le espera la muerte.
+
+– Pero en las cercanías de la ciudad de Brettel no existen tales criaturas. ¿Dónde cazó? – todos tenían un solo pensamiento dando vueltas en sus cabezas.
+
+Los invitados no necesitaron mirarse para comprender que todos estaban igualmente sorprendidos.
+
+— ¿¡Qué!? ¿¡Eso es un miembro de mantícora!?- Jack saltó asustado con un tenedor en la mano, sobre el que todavía estaba ensartado un gran trozo de carne. Una vez escuchó que una mantícora podía partir a una persona por la mitad con solo una garra y no podía imaginar esta cruel imagen con la tierna carne que ahora masticaba.
+
+—Su sabor es excelente, pero cuando puedo imaginar cómo una mantícora desgarra a una persona con sus garras, ¡hasta me da miedo masticar! – Jack miró con nostalgia el plato que tenía muchas ganas de seguir comiendo, pero tenía miedo.
+
+Han Shuo observó con una sonrisa las expresiones de sorpresa en los rostros de los demás invitados.
+
+– Chicos, ¿qué están haciendo? ¿No quieres intentarlo?”Cacé especialmente para ti”, Han Shuo repitió la invitación con una sonrisa
+
+Bajo la atenta mirada de Han Shuo, Dorcas silenciosamente empujó el plato de arpía hacia él. Se cortó un gran trozo de carne y lentamente se lo llevó a la boca. Por temor a enojar a Han Shuo, se obligó a tragar ese plato extravagante.
+
+Delia resopló con expresión arrogante en su rostro y, escogiendo un plato de pitón venenosa de aguas profundas, cortó una costilla y comenzó a masticarla lentamente. Cuando probó el plato, su rostro se suavizó y finalmente elogió al dueño.
+
+—¡Y esto es realmente delicioso!
+
+—Mar profundo carne La pitón venenosa es extremadamente venenosa si no se prepara correctamente. Si algo saliera mal, estaría en un gran problema”, murmuró Han Shuo en voz baja, observando con alivio mientras Delia masticaba el siguiente bocado con placer.
+
+Sin embargo, Delia captó sus palabras y luego. se congeló.
+
+– ¿Qué dijiste? – preguntó con voz temblorosa.
+
+“Acabo de decir que el veneno de la pitón de aguas profundas es muy fuerte, pero si preparaba este plato incorrectamente, ya estarías inconsciente”, Han Shuo se rió a carcajadas— ¡Maldita sea! ¡Cómo me asustaste! – Delia miró a Han Shuo con fiereza, pero decidió no concentrarse en esto y regresó a su platoLos otros cuatro líderes de los montañeses, así como Faulk, Dick y Chester, Continuó comiendo sus platos. Un plato tan exquisito rara vez se podía encontrar y ahora aprovecharon esta oportunidad.Afortunadamente, Han Shuo preparó una gran cantidad de estas delicias, los montañeses siempre han tenido un excelente apetito. y Delia tenía miedo de que mientras conversaba, no almorzaría y por lo tanto nadie más le prestó atención a Han Shuo, tratando de intentar lo más posible.Después de un tiempo, no quedó ni rastro del almuerzo. Por un lado, el sabor de la comida era realmente delicioso y, por otro lado, eran delicias tan raras que sería una blasfemia dejar algo atrás.Cuando los sirvientes contratado por Han Shuo trajo la comida, cuidadosamente preparada por los cocineros, fue considerada insípida por los invitados. Ahora no estaban listos para probar la comida ordinaria.Después de un abundante almuerzo, Han Shuo y los invitados fueron a otra habitación, ordenando a los sirvientes que limpiaran el desorden. Contrariamente a la imagen de un hombre cruel, Han Shuo constantemente sonreía y a veces bromeaba. Ahora el ambiente se ha vuelto más amigable y los platos exóticos, sin duda, jugaron un papel importante en esto. Como corresponde a su posición, Han Shuo se sentó en el centro, mirando a los cinco líderes de las montañas con una sonrisa. Al ver que estaban absolutamente tranquilos, finalmente se puso manos a la obra.— Desafortunadamente, los ex alcaldes de la ciudad no pudieron justificar su confianza y mantener su conexión con la ciudad. Sin embargo, Su Majestad me ha confiado el cuidado de la ciudad de Brettel, y no permitiré que bandidos o los Siete Grandes Ducados asalten y roben mi ciudad. No sólo la ciudad de Brettel, sino también tus cinco minas de montaña estarán bajo mi protección. Espero que podamos unir nuestros esfuerzos y desarrollar nuestra ciudad.—Su Señoría, creo que puede traer paz a la ciudad de Brettel.”Yo, el líder de los montañeros en el Monte Tali, estoy listo para servirles y sé que no pueden esperar problemas”, expresó Falkin su decisión. Ya lo había aceptado cuando vio que Han Shuo había defendido el Monte Tali, y después de defender Ciudad Brettel de cuatro grandes pandillas, su decisión se fortaleció aún más.Han Shuo esperaba tal reacción. de Falkin, pero al escuchar sus palabras, sonrió aliviado—Gracias Falkin. La última vez que Faulk se encontró con bandidos, le echaste una mano. Esto siempre permanecerá en mi corazón.— Despreciaba al ex alcalde de la ciudad porque no se preocupaba por sus propios ciudadanos. Sin embargo, sois muy diferentes y serviros fielmente es lo mínimo que puedo hacer. Además, si recordamos que nos ayudaste a resistir a los ladrones de Trod, entonces estamos en deuda contigo”, continuó Falkin. Como había decidido cooperar con el nuevo alcalde, no escatimó esfuerzos para continuar la relación amistosa.Los líderes restantes de los montañeros se miraron unos a otros con recelo mientras escuchaban los elogios de Falkin.. Sabían que el recién nombrado alcalde de la ciudad había sobresalido en todas las áreas y solo les preocupaba que Han Shuo pudiera hacerse cargo de sus minas. Ésta fue la única razón que les impidió colaborar. Las minas eran su única fuente de ingresos, pero dijo que todo lo que rodeaba la ciudad de Brettel le pertenecía. ¿Se refería también a las minas?—¿Están los demás dispuestos a apoyarme? — Han Shuo miró a los otros líderes de los montañeros con una sonrisaAl escuchar su pregunta, sus corazones dieron un vuelco. Los tres jóvenes líderes de la montaña miraron atentamente al élder Edelman sin decir una palabra. Edelman permaneció en silencio por un largo tiempo, y luego le habló respetuosamente a Han Shuo:– Su Gracia, somos su gente y por supuesto queremos ayudar a que la ciudad de Brettel se desarrolle, pero No sabemos cómo podemos ayudarte. Esperamos que nos aclare esto.— Como son ciudadanos de la ciudad de Brettel, lo único en lo que pueden ayudar ahora es en proporcionar mano de obra. Esto es lo que realmente nos falta. Los comerciantes proporcionan un flujo constante de materiales y tengo suficiente oro, pero el problema del crecimiento demográfico no se puede resolver rápidamente—Sé que en sus minas viven entre treinta y cuarenta mil personas., excluidos los mineros. Las condiciones de vida en las minas están lejos de ser ideales. Quizás por la incompetencia del ex alcalde de la ciudad. Sé que dejaste la ciudad porque aquí no era seguro, pero ahora estás listo para bajar de las montañas nuevamente. Hay muchas casas vacías en la ciudad y las condiciones de vida son mucho mejores. ¿Qué piensas sobre esto?Edelman escuchó las palabras de Han Shuo con deleite. Sabía que las condiciones de vida en las montañas eran muy difíciles. La vegetación allí era escasa y la caza constante prácticamente destruyó a todos los seres vivos. Había que transportar agua limpia desde el pie de la montaña. La gente vivía en cuevas durante todo el año, sin ver la luz del sol y evitando los ataques de los bandidos. Y si no hubieran querido salvar sus vidas, habrían aceptado la vida de los salvajes de la montañaEdelman se sintió sinceramente conmovido al ver que Han Shuo se preocupaba por el bienestar. de los montañeses. De repente, con lágrimas en los ojos, cayó de rodillas frente a Han Shuo y respondió con voz ahogada:– En nombre de toda la gente de la montaña, agradezco al alcalde. de la ciudad por sus buenas intenciones. No diré demasiadas palabras innecesarias. Si su señoría garantiza comida y ropa para mi pueblo, le daré todas las minas sin más.—Anciano, por favor levántese. Ésta es mi gente y esto es lo mínimo que puedo hacer por ellos. Las Cinco Minas son la base de tu vida y seguirán estando bajo tu control. Tengo mucho equipo de asedio, pero no suficiente gente. Cuando los ejércitos de los Siete Grandes Ducados nos ataquen, me temo que no podremos resistirlos con tres mil soldados ni siquiera con ese equipo.Mi única petición es que ayúdanos a luchar con el enemigo. Proporcionaremos todas las armas y, mientras tengamos suficiente gente en la muralla de la ciudad, es posible que los siete grandes ducados ni siquiera sueñen con irrumpir en nuestra ciudad. ¿Estás listo para luchar junto a mí, luchando por la seguridad de la ciudad de Brettel y su gente?Edelman dedicó toda su vida a resistir los constantes robos de los siete grandes ducados y bandoleros, intentando mejorar la vida de su pueblo. La propuesta de Han Shuo correspondía completamente a sus aspiraciones. No había rastro de las dudas de Edelman. Rápidamente comenzó a gritarles a los otros tres jóvenes montañeros:—¡Ustedes tres! ¿Por qué no te unes a mí para agradecer al alcalde de la ciudad su misericordia?Finalmente, las últimas dudas de los tres jóvenes montañeros desaparecieron e incluso Falkin, quien previamente había declarado su deseo de cooperar, se arrodilló ante Han Shuo. Cada uno de ellos hizo un juramento de que haría todo lo posible para proteger la ciudad de Brettel—La última vez que estuve en el Monte Tali, vi que su armadura no era de la mejor. calidad”, dijo Han Shuo con una sonrisa mientras los líderes de la montaña se ponía de pie.- La última vez los bandidos dejaron muchas armaduras y ocupan demasiado espacio en los almacenes de la ciudad de Brettel. ¿Por qué no te los llevas tú?Los montañeros trabajaron en las minas durante muchos años, intercambiando todos sus bienes por productos esenciales para sustentar la vida de sus ancianos y niños. No podían gastar monedas de oro en armas y armaduras. Al escuchar la propuesta de Han Shuo, los cinco líderes de las montañas recordaron la brillante armadura de los soldados de Ciudad Brettel que habían visto en el camino a la ciudad. Al recordar lo mal vestidos que estaban sus gentes, se sonrojaron de vergüenza—¡Gracias, señoría, gracias! — Falkin fue el primero en reaccionar, cayendo nuevamente de rodillas. Al ver a Falkin presentar sus respetos al alcalde de la ciudad, el resto de los líderes de los Highlanders hicieron lo mismo. Con deleite en sus ojos, miraron a Han Shuo, cada vez más convencidos de su fuerza—Por favor, levántense. Este es solo el comienzo. ¡Creo que la ciudad de Brettel tiene un gran futuro! – Han Shuo nuevamente comenzó a levantar a los líderes de los montañeros, riendo alegremente prestando atención a su tristeza.leer Great Demon King en Español Capítulo 337. Sometiéndose al nuevo alcalde Gran Rey DemonioEl autor: Ni Cang TianTraducción: Artificial_Intelligence
+
+— ¡Maldita sea! ¡Cómo me asustaste! – Delia miró a Han Shuo con fiereza, pero decidió no concentrarse en esto y regresó a su plato
+
+Los otros cuatro líderes de los montañeses, así como Faulk, Dick y Chester, Continuó comiendo sus platos. Un plato tan exquisito rara vez se podía encontrar y ahora aprovecharon esta oportunidad.
+
+Afortunadamente, Han Shuo preparó una gran cantidad de estas delicias, los montañeses siempre han tenido un excelente apetito. y Delia tenía miedo de que mientras conversaba, no almorzaría y por lo tanto nadie más le prestó atención a Han Shuo, tratando de intentar lo más posible.
+
+Después de un tiempo, no quedó ni rastro del almuerzo. Por un lado, el sabor de la comida era realmente delicioso y, por otro lado, eran delicias tan raras que sería una blasfemia dejar algo atrás.
+
+Cuando los sirvientes contratado por Han Shuo trajo la comida, cuidadosamente preparada por los cocineros, fue considerada insípida por los invitados. Ahora no estaban listos para probar la comida ordinaria.
+
+Después de un abundante almuerzo, Han Shuo y los invitados fueron a otra habitación, ordenando a los sirvientes que limpiaran el desorden. Contrariamente a la imagen de un hombre cruel, Han Shuo constantemente sonreía y a veces bromeaba. Ahora el ambiente se ha vuelto más amigable y los platos exóticos, sin duda, jugaron un papel importante en esto. Como corresponde a su posición, Han Shuo se sentó en el centro, mirando a los cinco líderes de las montañas con una sonrisa. Al ver que estaban absolutamente tranquilos, finalmente se puso manos a la obra.
+
+— Desafortunadamente, los ex alcaldes de la ciudad no pudieron justificar su confianza y mantener su conexión con la ciudad. Sin embargo, Su Majestad me ha confiado el cuidado de la ciudad de Brettel, y no permitiré que bandidos o los Siete Grandes Ducados asalten y roben mi ciudad. No sólo la ciudad de Brettel, sino también tus cinco minas de montaña estarán bajo mi protección. Espero que podamos unir nuestros esfuerzos y desarrollar nuestra ciudad.
+
+—Su Señoría, creo que puede traer paz a la ciudad de Brettel.”Yo, el líder de los montañeros en el Monte Tali, estoy listo para servirles y sé que no pueden esperar problemas”, expresó Falkin su decisión. Ya lo había aceptado cuando vio que Han Shuo había defendido el Monte Tali, y después de defender Ciudad Brettel de cuatro grandes pandillas, su decisión se fortaleció aún más.
+
+Han Shuo esperaba tal reacción. de Falkin, pero al escuchar sus palabras, sonrió aliviado
+
+—Gracias Falkin. La última vez que Faulk se encontró con bandidos, le echaste una mano. Esto siempre permanecerá en mi corazón.
+
+— Despreciaba al ex alcalde de la ciudad porque no se preocupaba por sus propios ciudadanos. Sin embargo, sois muy diferentes y serviros fielmente es lo mínimo que puedo hacer. Además, si recordamos que nos ayudaste a resistir a los ladrones de Trod, entonces estamos en deuda contigo”, continuó Falkin. Como había decidido cooperar con el nuevo alcalde, no escatimó esfuerzos para continuar la relación amistosa.
+
+Los líderes restantes de los montañeros se miraron unos a otros con recelo mientras escuchaban los elogios de Falkin.. Sabían que el recién nombrado alcalde de la ciudad había sobresalido en todas las áreas y solo les preocupaba que Han Shuo pudiera hacerse cargo de sus minas. Ésta fue la única razón que les impidió colaborar. Las minas eran su única fuente de ingresos, pero dijo que todo lo que rodeaba la ciudad de Brettel le pertenecía. ¿Se refería también a las minas?
+
+—¿Están los demás dispuestos a apoyarme? — Han Shuo miró a los otros líderes de los montañeros con una sonrisa
+
+Al escuchar su pregunta, sus corazones dieron un vuelco. Los tres jóvenes líderes de la montaña miraron atentamente al élder Edelman sin decir una palabra. Edelman permaneció en silencio por un largo tiempo, y luego le habló respetuosamente a Han Shuo:
+
+– Su Gracia, somos su gente y por supuesto queremos ayudar a que la ciudad de Brettel se desarrolle, pero No sabemos cómo podemos ayudarte. Esperamos que nos aclare esto.
+
+— Como son ciudadanos de la ciudad de Brettel, lo único en lo que pueden ayudar ahora es en proporcionar mano de obra. Esto es lo que realmente nos falta. Los comerciantes proporcionan un flujo constante de materiales y tengo suficiente oro, pero el problema del crecimiento demográfico no se puede resolver rápidamente
+
+—Sé que en sus minas viven entre treinta y cuarenta mil personas., excluidos los mineros. Las condiciones de vida en las minas están lejos de ser ideales. Quizás por la incompetencia del ex alcalde de la ciudad. Sé que dejaste la ciudad porque aquí no era seguro, pero ahora estás listo para bajar de las montañas nuevamente. Hay muchas casas vacías en la ciudad y las condiciones de vida son mucho mejores. ¿Qué piensas sobre esto?
+
+Edelman escuchó las palabras de Han Shuo con deleite. Sabía que las condiciones de vida en las montañas eran muy difíciles. La vegetación allí era escasa y la caza constante prácticamente destruyó a todos los seres vivos. Había que transportar agua limpia desde el pie de la montaña. La gente vivía en cuevas durante todo el año, sin ver la luz del sol y evitando los ataques de los bandidos. Y si no hubieran querido salvar sus vidas, habrían aceptado la vida de los salvajes de la montaña
+
+Edelman se sintió sinceramente conmovido al ver que Han Shuo se preocupaba por el bienestar. de los montañeses. De repente, con lágrimas en los ojos, cayó de rodillas frente a Han Shuo y respondió con voz ahogada:
+
+– En nombre de toda la gente de la montaña, agradezco al alcalde. de la ciudad por sus buenas intenciones. No diré demasiadas palabras innecesarias. Si su señoría garantiza comida y ropa para mi pueblo, le daré todas las minas sin más.
+
+—Anciano, por favor levántese. Ésta es mi gente y esto es lo mínimo que puedo hacer por ellos. Las Cinco Minas son la base de tu vida y seguirán estando bajo tu control. Tengo mucho equipo de asedio, pero no suficiente gente. Cuando los ejércitos de los Siete Grandes Ducados nos ataquen, me temo que no podremos resistirlos con tres mil soldados ni siquiera con ese equipo.
+
+Mi única petición es que ayúdanos a luchar con el enemigo. Proporcionaremos todas las armas y, mientras tengamos suficiente gente en la muralla de la ciudad, es posible que los siete grandes ducados ni siquiera sueñen con irrumpir en nuestra ciudad. ¿Estás listo para luchar junto a mí, luchando por la seguridad de la ciudad de Brettel y su gente?
+
+Edelman dedicó toda su vida a resistir los constantes robos de los siete grandes ducados y bandoleros, intentando mejorar la vida de su pueblo. La propuesta de Han Shuo correspondía completamente a sus aspiraciones. No había rastro de las dudas de Edelman. Rápidamente comenzó a gritarles a los otros tres jóvenes montañeros:
+
+—¡Ustedes tres! ¿Por qué no te unes a mí para agradecer al alcalde de la ciudad su misericordia?
+
+Finalmente, las últimas dudas de los tres jóvenes montañeros desaparecieron e incluso Falkin, quien previamente había declarado su deseo de cooperar, se arrodilló ante Han Shuo. Cada uno de ellos hizo un juramento de que haría todo lo posible para proteger la ciudad de Brettel
+
+—La última vez que estuve en el Monte Tali, vi que su armadura no era de la mejor. calidad”, dijo Han Shuo con una sonrisa mientras los líderes de la montaña se ponía de pie.- La última vez los bandidos dejaron muchas armaduras y ocupan demasiado espacio en los almacenes de la ciudad de Brettel. ¿Por qué no te los llevas tú?
+
+Los montañeros trabajaron en las minas durante muchos años, intercambiando todos sus bienes por productos esenciales para sustentar la vida de sus ancianos y niños. No podían gastar monedas de oro en armas y armaduras. Al escuchar la propuesta de Han Shuo, los cinco líderes de las montañas recordaron la brillante armadura de los soldados de Ciudad Brettel que habían visto en el camino a la ciudad. Al recordar lo mal vestidos que estaban sus gentes, se sonrojaron de vergüenza
+
+—¡Gracias, señoría, gracias! — Falkin fue el primero en reaccionar, cayendo nuevamente de rodillas. Al ver a Falkin presentar sus respetos al alcalde de la ciudad, el resto de los líderes de los Highlanders hicieron lo mismo. Con deleite en sus ojos, miraron a Han Shuo, cada vez más convencidos de su fuerza
+
+—Por favor, levántense. Este es solo el comienzo. ¡Creo que la ciudad de Brettel tiene un gran futuro! – Han Shuo nuevamente comenzó a levantar a los líderes de los montañeros, riendo alegremente prestando atención a su tristeza.

@@ -1,5 +1,90 @@
 export const novelas = [
     { 
+        id: "grd", 
+        titulo: "Gran Rey Demonio", 
+        titulo2: "大魔王",
+        genero: "Acción, Aventura, Ecchi, Fantasía, Harem, Artes-Marciales, Novela-Ligera, Ranobe, Xuanhuan", 
+        anio: "2012", 
+        imagen: "/portada/grd.jpg",
+        sinopsis: "Si no muero… ¡Entonces juro irme al infierno! Probablemente estos no sean los pensamientos más típicos antes de la muerte. Pero ¿qué pasará si un joven se encarna con las fuerzas de la oscuridad? ¿Puede la bondad humana triunfar sobre el mal? ¿Se convertirá en el cruel rey demonio al que tanto gustan las leyendas oscuras, o elegirá su propio camino y desatará una nueva lluvia de terror en el mundo? Cuando un hombre amable y cobarde reencarnó, recibió poderes malignos para cambiar su destino. Cuando empezó a cambiar su destino, su personalidad empezó a cambiar. Comenzó a volverse frío, fuerte y hasta cierto punto incluso sediento de sangre.",
+        totalCapitulos: 1029,
+        capitulosPublicados: "Cap 1029",
+        categoria: "Terminadas",
+        pais: "chinas",
+        autor: "Ni Cang Tian",
+        tag: "Artefactos, Templado corporal, Cultivo, Protagonista astuto, Demonios, Protagonista decidido, Dragones, Dioses, Protagonista masculino apuesto, Ocultar verdaderas habilidades, Protagonista afortunado, Protagonista masculino, Monstruos, Política, Poligamia, Subtrama romántica, Protagonista despiadado, Transmigración, Protagonista subestimado, Guerras",
+        
+        // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
+        seo: {
+            title: "Leer Gran Rey Demonio en Español - Novelas Ligeras",
+            description: "Disfruta de Gran Rey Demonio en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
+        id: "rrii", 
+        titulo: "INMORTAL RENEGADO", 
+        titulo2: "RENEGADE IMMORTAL",
+        genero: "Acción, Aventura, Drama, Fantasía-Para-adultos, Novela,ligera, Ranobe, Tragedia, Xianxia", 
+        anio: "2012", 
+        imagen: "/portada/rrii.jpg",
+        sinopsis: "Es un genio abandonado por su clan. Él, el príncipe heredero imperial orgulloso, mimado y de dos caras, es el gobernante supremo emergente del mundo. Ella, engañándolo, se disfrazó de cerdo para comerse al tigre, reprimiéndolo y provocándolo. Cada vez que jugaba con él y lo excitaba, ella se escapaba. ¡Ningún hombre puede soportar esto! Sólo podía cazarla, mimarla, seducirla para que ella se enamorara de él, quién hubiera pensado que el que se enamoraría primero sería él… El joven que dominaba el mundo entero, la joven que lo dominaba todo, eliminaba uniformemente a sus oponentes, igualaba equitativamente la carrera romántica.",
+        totalCapitulos: 2148,
+        capitulosPublicados: "Cap 2148",
+        categoria: "Terminadas",
+        pais: "chinas",
+        autor: "Er Gen",
+        tag: "Adaptado a Manhua, Artefactos, Hermosa protagonista femenina, Linajes, Templado corporal, Protagonista tranquilo, Protagonista inteligente, Protagonista frío, Cultivo, Protagonista astuto, Demonios, Protagonista decidido, Dioses, Protagonista trabajador, Inmortales, Protagonista afortunado, Espacio mágico, Protagonista masculino, Múltiples reinos, Venganza, Subtrama romántica, Protagonista despiadado, Salto temporal",
+        
+        // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
+        seo: {
+            title: "Leer INMORTAL RENEGADO en Español - Novelas Ligeras",
+            description: "Disfruta de INMORTAL RENEGADO en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
+        id: "mmww", 
+        titulo: "MUNDO MARCIAL", 
+        titulo2: "MARTIAL WORLD",
+        genero: "Novela-ligera, acción, aventura, fantasía, harem, artes-marciales, Ranobe, Xuanhuan", 
+        anio: "2012", 
+        imagen: "/portada/mmww.jpg",
+        sinopsis: "Un adolescente ordinario que sueña con entrar en la tierra sagrada de Martial Mansion, decidido a perseguir las artes marciales definitivas. Sin embargo, frente a evaluaciones ferozmente competitivas y las generaciones más jóvenes de la familia aprovechan la presión para reprimir a los demás, ¿cómo puede un niño común y corriente ganar terreno? La herencia de la secta es estrictamente confidencial y los ejercicios básicos no se transmiten. En la herencia de los ejercicios, es muy raro en el continente Tianyan. Incluso si ingresas al Wufu y a la secta, ¿qué tan fácil es aprender? las mejores artes marciales? El pequeño cubo de Rubik del Dominio de Dios abre un mundo poderoso. Los ejercicios deben aprenderse en la parte superior. Si desea elegir una carrera de por vida, no puede elegir a nadie más. ¡Un duelo feroz, una competencia de genios, una lanza de luz de tres patas, un impulso directo por miles de millas, las artes marciales definitivas y un mundo único!",
+        totalCapitulos: 2412,
+        capitulosPublicados: "Cap 2412",
+        categoria: "Terminadas",
+        pais: "chinas",
+        autor: "Cocooned Cow, 蚕茧里的牛",
+        tag: "Personajes arrogantes, artefactos, bestias, protagonista femenina hermosa, linajes, fortalecimiento corporal, protagonista tranquilo, cultivo, protagonista astuto, demonios, intereses amorosos devotos, dioses, protagonista masculino apuesto, protagonista afortunado, espacio mágico, protagonista masculino, monstruos, múltiples reinos, subtrama romántica, romance lento, salto temporal, transmigración, protagonista subestimado, guerras, de débil a fuerte",
+        
+        // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
+        seo: {
+            title: "Leer MARTIAL WORLD en Español - Novelas Ligeras",
+            description: "Disfruta de MARTIAL WORLD en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
+        id: "dep", 
+        titulo: "Doctora Emperatriz Piadosa", 
+        titulo2: "Wǔ Liàn Diān Fēng, 武 炼 巅峰",
+        genero: "Acción, Aventura, Fantasía, Harem, Artes Marciales, Madura, Xianxia", 
+        anio: "2012", 
+        imagen: "/portada/dep.jpg",
+        sinopsis: "Es un genio abandonado por su clan. Él, el príncipe heredero imperial orgulloso, mimado y de dos caras, es el gobernante supremo emergente del mundo. Ella, engañándolo, se disfrazó de cerdo para comerse al tigre, reprimiéndolo y provocándolo. Cada vez que jugaba con él y lo excitaba, ella se escapaba. ¡Ningún hombre puede soportar esto! Sólo podía cazarla, mimarla, seducirla para que ella se enamorara de él, quién hubiera pensado que el que se enamoraría primero sería él… El joven que dominaba el mundo entero, la joven que lo dominaba todo, eliminaba uniformemente a sus oponentes, igualaba equitativamente la carrera romántica.",
+        totalCapitulos: 4258,
+        capitulosPublicados: "Cap 4258",
+        categoria: "Terminadas",
+        pais: "chinas",
+        autor: "Su Xiao Nuan, 苏小暖",
+        tag: "Hermosa protagonista femenina, protagonista inteligente, cultivo, protagonista femenina, apuesto protagonista masculino, malentendidos, reencarnación",
+        
+        
+        // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
+        seo: {
+            title: "Leer Doctora Emperatriz Piadosa en Español - Novelas Ligeras",
+            description: "Disfruta de Doctora Emperatriz Piadosa en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
         id: "mmpp", 
         titulo: "MARTIAL PEAK", 
         titulo2: "Wǔ Liàn Diān Fēng, 武 炼 巅峰",
@@ -12,6 +97,8 @@ export const novelas = [
         categoria: "Terminadas",
         pais: "chinas",
         autor: "The Wind will Laugh",
+        tag: "Adapted to Manhua, Artifacts, Beautiful Female Lead, Bloodlines, Body Tempering, Calm Protagonist, Clever Protagonist, Cold Protagonist, Cultivation, Cunning Protagonist, Demons, Determined Protagonist, Gods, Hard-Working Protagonist, Immortals, Lucky Protagonist, Magical Space, Male Protagonist, Multiple Realms, Revenge, Romantic Subplot, Ruthless Protagonist, Time Skip",
+        
         
         // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
         seo: {
@@ -32,6 +119,8 @@ export const novelas = [
         categoria: "Terminadas",
         pais: "chinas",
         autor: "Three and a half meters",
+        tag: "Adapted to Manhua, Artifacts, Beautiful Female Lead, Bloodlines, Body Tempering, Calm Protagonist, Clever Protagonist, Cold Protagonist, Cultivation, Cunning Protagonist, Demons, Determined Protagonist, Gods, Hard-Working Protagonist, Immortals, Lucky Protagonist, Magical Space, Male Protagonist, Multiple Realms, Revenge, Romantic Subplot, Ruthless Protagonist, Time Skip",
+        
         
         
         // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
@@ -53,6 +142,8 @@ export const novelas = [
         categoria: "Terminadas",
         pais: "chinas",
         autor: "Shen Jian",
+        tag: "Adapted to Manhua, Artifacts, Beautiful Female Lead, Bloodlines, Body Tempering, Calm Protagonist, Clever Protagonist, Cold Protagonist, Cultivation, Cunning Protagonist, Demons, Determined Protagonist, Gods, Hard-Working Protagonist, Immortals, Lucky Protagonist, Magical Space, Male Protagonist, Multiple Realms, Revenge, Romantic Subplot, Ruthless Protagonist, Time Skip",
+        
         
         // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
         seo: {
@@ -74,6 +165,8 @@ export const novelas = [
         categoria: "Actualizadas",
         pais: "Japonesas",
         autor: "Eguchi Ren",
+        tag: "Adapted to Manhua, Artifacts, Beautiful Female Lead, Bloodlines, Body Tempering, Calm Protagonist, Clever Protagonist, Cold Protagonist, Cultivation, Cunning Protagonist, Demons, Determined Protagonist, Gods, Hard-Working Protagonist, Immortals, Lucky Protagonist, Magical Space, Male Protagonist, Multiple Realms, Revenge, Romantic Subplot, Ruthless Protagonist, Time Skip",
+        
         
         // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
         seo: {
@@ -94,6 +187,8 @@ export const novelas = [
         categoria: "Terminadas",
         pais: "chinas",
         autor: "Shen Jian",
+        tag: "Adapted to Manhua, Artifacts, Beautiful Female Lead, Bloodlines, Body Tempering, Calm Protagonist, Clever Protagonist, Cold Protagonist, Cultivation, Cunning Protagonist, Demons, Determined Protagonist, Gods, Hard-Working Protagonist, Immortals, Lucky Protagonist, Magical Space, Male Protagonist, Multiple Realms, Revenge, Romantic Subplot, Ruthless Protagonist, Time Skip",
+        
         
         // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
         seo: {
@@ -114,6 +209,8 @@ export const novelas = [
         categoria: "emision",
         pais: "chinas",
         autor: "Dreaming of Innocence",
+        tag: "Adapted to Manhua, Artifacts, Beautiful Female Lead, Bloodlines, Body Tempering, Calm Protagonist, Clever Protagonist, Cold Protagonist, Cultivation, Cunning Protagonist, Demons, Determined Protagonist, Gods, Hard-Working Protagonist, Immortals, Lucky Protagonist, Magical Space, Male Protagonist, Multiple Realms, Revenge, Romantic Subplot, Ruthless Protagonist, Time Skip",
+        
         
         // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
         seo: {
@@ -134,6 +231,8 @@ export const novelas = [
         categoria: "Terminadas",
         pais: "chinas",
         autor: "Talking about Dreamers",
+        tag: "Adapted to Manhua, Artifacts, Beautiful Female Lead, Bloodlines, Body Tempering, Calm Protagonist, Clever Protagonist, Cold Protagonist, Cultivation, Cunning Protagonist, Demons, Determined Protagonist, Gods, Hard-Working Protagonist, Immortals, Lucky Protagonist, Magical Space, Male Protagonist, Multiple Realms, Revenge, Romantic Subplot, Ruthless Protagonist, Time Skip",
+        
         
         // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
         seo: {
@@ -154,6 +253,8 @@ export const novelas = [
         categoria: "Terminadas",
         pais: "chinas",
         autor: "Talking about Dreamers",
+        tag: "Adapted to Manhua, Artifacts, Beautiful Female Lead, Bloodlines, Body Tempering, Calm Protagonist, Clever Protagonist, Cold Protagonist, Cultivation, Cunning Protagonist, Demons, Determined Protagonist, Gods, Hard-Working Protagonist, Immortals, Lucky Protagonist, Magical Space, Male Protagonist, Multiple Realms, Revenge, Romantic Subplot, Ruthless Protagonist, Time Skip",
+        
         
         // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
         seo: {
@@ -174,6 +275,8 @@ export const novelas = [
         categoria: "Estrenos",
         pais: "chinas",
         autor: "Señor de las Hojas",
+        tag: "Adapted to Manhua, Artifacts, Beautiful Female Lead, Bloodlines, Body Tempering, Calm Protagonist, Clever Protagonist, Cold Protagonist, Cultivation, Cunning Protagonist, Demons, Determined Protagonist, Gods, Hard-Working Protagonist, Immortals, Lucky Protagonist, Magical Space, Male Protagonist, Multiple Realms, Revenge, Romantic Subplot, Ruthless Protagonist, Time Skip",
+        
         
         // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
         seo: {
@@ -194,6 +297,8 @@ export const novelas = [
         categoria: "Estrenos",
         pais: "Coreanas",
         autor: "Ever A Alvarado F",
+        tag: "Adapted to Manhua, Artifacts, Beautiful Female Lead, Bloodlines, Body Tempering, Calm Protagonist, Clever Protagonist, Cold Protagonist, Cultivation, Cunning Protagonist, Demons, Determined Protagonist, Gods, Hard-Working Protagonist, Immortals, Lucky Protagonist, Magical Space, Male Protagonist, Multiple Realms, Revenge, Romantic Subplot, Ruthless Protagonist, Time Skip",
+        
         
         // 🌟 AQUÍ AGREGAS LA CONFIGURACIÓN SEO
         seo: {
