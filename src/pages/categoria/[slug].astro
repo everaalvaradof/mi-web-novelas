@@ -68,10 +68,16 @@ const tituloLimpio = catOrGen ? catOrGen.charAt(0).toUpperCase() + catOrGen.slic
     </div>
 
     <nav class="pagination">
-        {prevUrl ? <a href={prevUrl}>⬅️ Anterior</a> : null}
-        <span>Página {currentPage} de {lastPage}</span>
-        {nextUrl ? <a href={nextUrl}>Siguiente ➡️</a> : null}
-    </nav>
+    {prevUrl ? (
+        <a href={prevUrl === `/categoria/terminadas` ? `/categoria/terminadas/1` : prevUrl}>
+            ⬅️ Anterior
+        </a>
+    ) : null}
+    
+    <span>Página {currentPage} de {lastPage}</span>
+    
+    {nextUrl ? <a href={nextUrl}>Siguiente ➡️</a> : null}
+</nav>
 </MainLayout>
 
 <style>

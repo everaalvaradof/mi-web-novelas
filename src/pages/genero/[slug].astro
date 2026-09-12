@@ -1,19 +1,37 @@
 ---
+export const prerender = false;
+
 import { novelas } from '../../data/novelas.js';
 import Layout from '../../layouts/MainLayout.astro';
+import Ad from '../../components/Ad.astro';
 
 // Función para normalizar igual en ambos lados
-const formatSlug = (str) => str.trim().toLowerCase().replace(/\s+/g, '-');
+const formatSlug = (str: string) => str.trim().toLowerCase().replace(/\s+/g, '-');
 
-// Capturamos el slug directamente de la URL de forma dinámica (SSR)
-const { slug } = Astro.params;
+// Capturamos el slug y el parámetro de página de forma dinámica (SSR)
+const { slug, page: pageParam } = Astro.params;
+
+// Convertimos la página actual a número (por defecto 1)
+const currentPage = parseInt(pageParam || '1', 10);
+const pageSize = 10;
 
 // Filtramos comparando la versión normalizada de cada novela
 const novelasFiltradas = novelas.filter(n => 
-    n.genero.split(',').some(g => formatSlug(g) === slug)
+    n.genero && n.genero.split(',').some(g => formatSlug(g) === slug)
 );
 
-// Hacemos que el nombre del género luzca bien para el SEO (ej: "martial-arts" -> "Martial Arts")
+// Calculamos la paginación manual
+const totalNovelas = novelasFiltradas.length;
+const lastPage = Math.ceil(totalNovelas / pageSize) || 1;
+const startIndex = (currentPage - 1) * pageSize;
+const paginatedData = novelasFiltradas.slice(startIndex, startIndex + pageSize);
+
+// Rutas base para la paginación
+const basePath = `/genero/${slug}`;
+const prevUrl = currentPage > 1 ? (currentPage === 2 ? basePath : `${basePath}/${currentPage - 1}`) : null;
+const nextUrl = currentPage < lastPage ? `${basePath}/${currentPage + 1}` : null;
+
+// Hacemos que el nombre del género luzca bien para el SEO
 const nombreGeneroLimpio = slug ? slug.charAt(0).toUpperCase() + slug.slice(1).replace('-', ' ') : 'Género';
 ---
 
@@ -24,8 +42,8 @@ const nombreGeneroLimpio = slug ? slug.charAt(0).toUpperCase() + slug.slice(1).r
     <h1>Novelas del género: {nombreGeneroLimpio}</h1>
     
     <div class="novelas-grid">
-        {novelasFiltradas.length > 0 ? (
-            novelasFiltradas.map(n => (
+        {paginatedData.length > 0 ? (
+            paginatedData.map(n => (
                 <a href={`/ver/${n.id}`} class="card-link">
                     <div class="card">
                         <div class="image-container">
@@ -34,6 +52,7 @@ const nombreGeneroLimpio = slug ? slug.charAt(0).toUpperCase() + slug.slice(1).r
                         </div>
                         <div class="card-info">
                             <h3>{n.titulo}</h3>
+                            <h3>{n.capitulosPublicados}</h3>
                         </div>
                     </div>
                 </a>
@@ -42,4 +61,25 @@ const nombreGeneroLimpio = slug ? slug.charAt(0).toUpperCase() + slug.slice(1).r
             <p>No se encontraron novelas en este género.</p>
         )}
     </div>
+
+    <div class="ad-container" style="margin: 20px 0; text-align: center;">
+        <Ad />
+    </div>
+
+    <nav class="pagination">
+        {prevUrl ? (
+            <a href={prevUrl === basePath ? `${basePath}/1` : prevUrl}>
+                ⬅️ Anterior
+            </a>
+        ) : null}
+        
+        <span>Página {currentPage} de {lastPage}</span>
+        
+        {nextUrl ? <a href={nextUrl}>Siguiente ➡️</a> : null}
+    </nav>
 </Layout>
+
+<style>
+    .pagination { display: flex; gap: 1rem; margin-top: 2rem; justify-content: center; align-items: center; }
+    .pagination a { padding: 0.5rem 1rem; border: 1px solid #ccc; text-decoration: none; border-radius: 4px; }
+</style>
