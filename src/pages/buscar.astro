@@ -15,14 +15,25 @@ novelas.forEach(n => {
         });
     }
 });
-// Convertimos a array y ordenamos alfabéticamente
 const listaGeneros = Array.from(generosSet).sort((a: any, b: any) => a.localeCompare(b));
+
+// Extraemos y limpiamos todos los autores de forma dinámica desde el archivo de novelas
+const autoresSet = new Set();
+novelas.forEach(n => {
+    if (n.autor) {
+        n.autor.split(',').forEach(a => {
+            const autorLimpio = a.trim();
+            if (autorLimpio) autoresSet.add(autorLimpio);
+        });
+    }
+});
+const listaAutores = Array.from(autoresSet).sort((a: any, b: any) => a.localeCompare(b));
 ---
 
 <MainLayout 
     noSidebar={true} 
     title="Buscar Novelas - Portal de Novelas Ligeras"
-    description="Filtra y busca tus novelas ligeras y web favoritas por título, género o estado de publicación."
+    description="Filtra y busca tus novelas ligeras y web favoritas por título, género, autor o estado de publicación."
 >
     <div class="search-page-container">
         <div class="search-wrapper">
@@ -51,14 +62,25 @@ const listaGeneros = Array.from(generosSet).sort((a: any, b: any) => a.localeCom
                     </select>
                 </div>
 
-                <!-- Buscador por Título -->
+                <!-- Filtro por Autor (Generado Dinámicamente) -->
+                <div class="filter-group">
+                    <label for="filter-author" class="filter-label">Autor</label>
+                    <select id="filter-author" class="filter-select">
+                        <option value="">Todos los autores</option>
+                        {listaAutores.map((aut: any) => (
+                            <option value={aut.toLowerCase()}>{aut}</option>
+                        ))}
+                    </select>
+                </div>
+
+                <!-- Buscador por Título (Título 1 y Título 2) -->
                 <div class="filter-group flex-grow">
                     <label for="filter-title" class="filter-label">Buscar por título</label>
                     <input 
                         id="filter-title" 
                         type="search" 
                         value={initialQuery}
-                        placeholder="Escribe el nombre de la novela..." 
+                        placeholder="Escribe el nombre o título alternativo..." 
                         class="filter-input"
                     >
                 </div>
@@ -74,7 +96,8 @@ const listaGeneros = Array.from(generosSet).sort((a: any, b: any) => a.localeCom
                         class="card-link novel-item"
                         data-status={n.categoria ? n.categoria.toLowerCase().trim() : ''}
                         data-genre={n.genero ? n.genero.toLowerCase() : ''}
-                        data-title={n.titulo ? n.titulo.toLowerCase() : ''}
+                        data-author={n.autor ? n.autor.toLowerCase() : ''}
+                        data-title={`${n.titulo || ''} ${n.titulo2 || ''}`.toLowerCase()}
                     >
                         <div class="card">
                             <div class="image-container">
@@ -167,11 +190,6 @@ const listaGeneros = Array.from(generosSet).sort((a: any, b: any) => a.localeCom
             margin-left: auto;
             align-self: center;
         }
-        .novelas-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-            gap: 20px;
-        }
 
         @media (max-width: 768px) {
             .filters-bar {
@@ -189,6 +207,7 @@ const listaGeneros = Array.from(generosSet).sort((a: any, b: any) => a.localeCom
     <script>
         const searchInput = document.getElementById('filter-title') as HTMLInputElement;
         const genreSelect = document.getElementById('filter-genre') as HTMLSelectElement;
+        const authorSelect = document.getElementById('filter-author') as HTMLSelectElement;
         const statusButtons = document.querySelectorAll('.filter-status-btn');
         const novelItems = document.querySelectorAll('.novel-item');
         const countDisplay = document.getElementById('filter-count');
@@ -198,6 +217,7 @@ const listaGeneros = Array.from(generosSet).sort((a: any, b: any) => a.localeCom
         function filterNovels() {
             const query = searchInput ? searchInput.value.toLowerCase().trim() : '';
             const selectedGenre = genreSelect ? genreSelect.value.toLowerCase().trim() : '';
+            const selectedAuthor = authorSelect ? authorSelect.value.toLowerCase().trim() : '';
             let visibleCount = 0;
 
             novelItems.forEach((item) => {
@@ -205,12 +225,14 @@ const listaGeneros = Array.from(generosSet).sort((a: any, b: any) => a.localeCom
                 const title = htmlItem.dataset.title || '';
                 const status = htmlItem.dataset.status || '';
                 const genre = htmlItem.dataset.genre || '';
+                const author = htmlItem.dataset.author || '';
 
                 const matchesQuery = title.includes(query);
                 const matchesStatus = currentStatus === 'all' || status.includes(currentStatus);
                 const matchesGenre = !selectedGenre || genre.includes(selectedGenre);
+                const matchesAuthor = !selectedAuthor || author.includes(selectedAuthor);
 
-                if (matchesQuery && matchesStatus && matchesGenre) {
+                if (matchesQuery && matchesStatus && matchesGenre && matchesAuthor) {
                     htmlItem.style.display = 'block';
                     visibleCount++;
                 } else {
@@ -225,6 +247,7 @@ const listaGeneros = Array.from(generosSet).sort((a: any, b: any) => a.localeCom
 
         if (searchInput) searchInput.addEventListener('input', filterNovels);
         if (genreSelect) genreSelect.addEventListener('change', filterNovels);
+        if (authorSelect) authorSelect.addEventListener('change', filterNovels);
 
         statusButtons.forEach(btn => {
             btn.addEventListener('click', (e) => {

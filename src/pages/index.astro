@@ -37,7 +37,28 @@ const terminadas = novelas.filter(n => n.categoria === 'Terminadas');
             ))}
         </div>
     </section>
-
+    <section class="seccion-actualizadas">
+        <div class="section-header">
+            <h2>Novelas Actualizadas</h2>
+            <a href="/categoria/actualizadas/1" class="ver-todo">Ver todo</a>
+        </div>
+        <div class="novelas-grid">
+            {actualizadas.slice(0, 10).map(n => (
+                <a href={`/ver/${n.id}`} class="card-link">
+                    <div class="card">
+                        <div class="image-container">
+                            <img src={n.imagen} alt={n.titulo}>
+                            <span class="year">{n.anio}</span>
+                        </div>
+                        <div class="card-info">
+                            <h3>{n.titulo}</h3>
+                            <h3>{n.capitulosPublicados}</h3>
+                        </div>
+                    </div>
+                </a>
+            ))}
+        </div>
+    </section>
     <section class="seccion-terminadas">
         <div class="section-header">
             <h2>Novelas Terminadas</h2>
@@ -61,28 +82,7 @@ const terminadas = novelas.filter(n => n.categoria === 'Terminadas');
         </div>
     </section>
 
-    <section class="seccion-actualizadas">
-        <div class="section-header">
-            <h2>Novelas Actualizadas</h2>
-            <a href="/categoria/actualizadas/1" class="ver-todo">Ver todo</a>
-        </div>
-        <div class="novelas-grid">
-            {actualizadas.slice(0, 10).map(n => (
-                <a href={`/ver/${n.id}`} class="card-link">
-                    <div class="card">
-                        <div class="image-container">
-                            <img src={n.imagen} alt={n.titulo}>
-                            <span class="year">{n.anio}</span>
-                        </div>
-                        <div class="card-info">
-                            <h3>{n.titulo}</h3>
-                            <h3>{n.capitulosPublicados}</h3>
-                        </div>
-                    </div>
-                </a>
-            ))}
-        </div>
-    </section>
+    
      
 </MainLayout>
 

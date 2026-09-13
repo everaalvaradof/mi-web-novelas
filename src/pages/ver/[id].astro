@@ -24,26 +24,30 @@ for (let i = 1; i <= novela.totalCapitulos; i += 100) {
     const fin = Math.min(i + 99, novela.totalCapitulos);
     grupos.push({ inicio: i, fin: fin });
 }
+
+// Lógica para obtener los últimos 10 capítulos publicados
+const totalCaps = novela.totalCapitulos;
+const inicioUltimos = Math.max(1, totalCaps - 9);
+const ultimosCapitulos = Array.from({ length: totalCaps - inicioUltimos + 1 }, (_, i) => inicioUltimos + i);
 ---
 
 <MainLayout 
     noSidebar={true} 
     title={seoTitle} 
-    
     description={seoDescription} 
     image={novela.imagen}
 >
     <div class="novela-container">
         <div class="col-left">
-    <img src={novela.imagen} alt={novela.titulo} class="portada" />
-    <a href="https://t.me/NovelasligerasOficial" target="_blank" rel="noopener noreferrer" class="btn-pdf">DESCARGAR PDF</a>
-</div>
+            <img src={novela.imagen} alt={novela.titulo} class="portada" />
+            <a href="https://t.me/NovelasligerasOficial" target="_blank" rel="noopener noreferrer" class="btn-pdf">DESCARGAR PDF</a>
+        </div>
 
         <div class="col-right">
             <h1>{novela.titulo.toUpperCase()}</h1>
-            <p><strong>Año:</strong> {novela.anio}</p>
+            <p><strong>Año:</strong> &nbsp;{novela.anio}</p>
             <p>
-               <strong>Género:</strong> 
+               <strong>Género:</strong> &nbsp;
                     {novela.genero.split(',').map((g, index) => (
                         <>
                         <a href={`/genero/${g.trim().toLowerCase().replace(' ', '-')}/1`}>
@@ -53,16 +57,38 @@ for (let i = 1; i <= novela.totalCapitulos; i += 100) {
                         </>
                     ))}
             </p>
-            <p><strong>Autor:</strong> {novela.autor}</p>
-            <p><strong>Nombres asociados:</strong>{novela.titulo2.toUpperCase()}</p>
+            <p>
+                <strong>Autor:</strong>&nbsp;
+                {novela.autor ? novela.autor.split(',').map((a, index) => (
+                    <>
+                        <a href={`/autor/${a.trim().toLowerCase().replace(/\s+/g, '-')}/1`}>
+                            {a.trim()}
+                        </a>
+                        {index < novela.autor.split(',').length - 1 ? ', ' : ''}
+                    </>
+                )) : 'Desconocido'}
+            </p>
+            <p><strong>Nombres asociados:</strong>&nbsp;{novela.titulo2.toUpperCase()}</p>
             <div class="sinopsis">
                 <h3>Sinopsis:</h3>
                 <p>{novela.sinopsis}</p>
             </div>
             <h5><strong>Tag:</strong> {novela.tag}</h5>
-            
 
             <div class="lista-capitulos">
+                
+                <!-- MINI LISTA DE ÚLTIMOS CAPÍTULOS -->
+                <div class="ultimos-capitulos-box">
+                    <h3>Últimos Capítulos Publicados</h3>
+                    <div class="grid-capitulos ultimos-grid">
+                        {ultimosCapitulos.map(num => (
+                            <a href={`/vercap?id=${novela.id}_${num}`} class="cap-link cap-reciente">
+                                {num}
+                            </a>
+                        ))}
+                    </div>
+                </div>
+
                 <h3>Lista de Capítulos</h3>
                 
                 {grupos.map(grupo => (
@@ -72,8 +98,8 @@ for (let i = 1; i <= novela.totalCapitulos; i += 100) {
                         <div class="grid-capitulos">
                             {Array.from({ length: grupo.fin - grupo.inicio + 1 }, (_, i) => grupo.inicio + i).map(num => (
                                 <a href={`/vercap?id=${novela.id}_${num}`} class="cap-link">
-    {num}
-</a>
+                                    {num}
+                                </a>
                             ))}
                         </div>
 
@@ -92,9 +118,38 @@ for (let i = 1; i <= novela.totalCapitulos; i += 100) {
     .col-left { flex: 0 0 250px; }
     .col-right { width: 100%; }
     .portada { width: 100%; border-radius: 4px; display: block; }
-    .btn-pdf { width: 100%; background: #00a86b; color: white; border: none; padding: 10px; margin-top: 10px; cursor: pointer; border-radius: 4px; }
+    .btn-pdf { width: 100%; background: #00a86b; color: white; border: none; padding: 10px; margin-top: 10px; cursor: pointer; border-radius: 4px; text-align: center; text-decoration: none; display: block; box-sizing: border-box; }
     
     .lista-capitulos { width: 100%; margin-top: 30px; }
+    
+    /* Estilos para la mini lista de últimos capítulos */
+    .ultimos-capitulos-box {
+        background: #071927;
+        border: 1px solid #00a86b;
+        border-radius: 6px;
+        padding: 15px;
+        margin-bottom: 25px;
+    }
+    .ultimos-capitulos-box h3 {
+        margin-top: 0;
+        margin-bottom: 12px;
+        color: #00a86b;
+        font-size: 16px;
+    }
+    .ultimos-grid {
+        background: transparent !important;
+        padding: 0 !important;
+        grid-template-columns: repeat(auto-fill, minmax(80px, 1fr)) !important;
+    }
+    .cap-reciente {
+        background: #00a86b !important;
+        color: white !important;
+        font-weight: bold;
+    }
+    .cap-reciente:hover {
+        background: #008f5a !important;
+    }
+
     .grupo-capitulos { margin-bottom: 10px; background: #0a1f33; border: 1px solid #1a3a5a; border-radius: 4px; }
     .grupo-capitulos summary { padding: 15px; cursor: pointer; font-weight: bold; color: #00a86b; }
     

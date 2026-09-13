@@ -1,0 +1,86 @@
+---
+export const prerender = false;
+
+import MainLayout from '../../../layouts/MainLayout.astro';
+import { novelas } from '../../../data/novelas.js';
+import Ad from '../../../components/Ad.astro';
+
+// 1. Capturamos el autor y el número de página de la URL de forma dinámica
+const { autor, page: pageParam } = Astro.params;
+
+// Convertimos la página actual a número (por defecto la 1 si no viene en la URL)
+const currentPage = parseInt(pageParam || '1', 10);
+const pageSize = 10;
+
+// 2. Normalizamos el autor de búsqueda
+const autorBusqueda = autor ? autor.trim().toLowerCase() : '';
+
+// 3. Filtramos las novelas según el autor
+const novelasFiltradas = novelas.filter((n) => {
+    const autorNovela = n.autor ? n.autor.trim().toLowerCase() : '';
+    return autorNovela === autorBusqueda;
+});
+
+// 4. Paginación manual
+const totalNovelas = novelasFiltradas.length;
+const lastPage = Math.ceil(totalNovelas / pageSize) || 1;
+const startIndex = (currentPage - 1) * pageSize;
+const paginatedData = novelasFiltradas.slice(startIndex, startIndex + pageSize);
+
+// Construcción de URLs anterior y siguiente
+const basePath = `/autor/${autor}`;
+const prevUrl = currentPage > 1 ? (currentPage === 2 ? basePath : `${basePath}/${currentPage - 1}`) : null;
+const nextUrl = currentPage < lastPage ? `${basePath}/${currentPage + 1}` : null;
+
+// Ruta base segura para el botón anterior dinámico
+const rutaBaseAutor = `/autor/${autor}`;
+const autorLimpio = autor ? autor.toUpperCase() : 'AUTOR';
+---
+
+<MainLayout>
+    <h1>Autor: {autorLimpio}</h1>
+    
+    <div class="novelas-grid">
+        {paginatedData.length > 0 ? (
+            paginatedData.map((n) => (
+                <a href={`/ver/${n.id}`} class="card-link">
+                    <div class="card">
+                        <div class="image-container">
+                            <img src={n.imagen} alt={n.titulo}>
+                            <span class="year">{n.anio}</span>
+                        </div>
+                        <div class="card-info">
+                            <h3>{n.titulo}</h3>
+                            <h3>{n.capitulosPublicados}</h3>
+                        </div>
+                    </div>
+                </a>
+            ))
+        ) : (
+            <p>No se encontraron novelas de este autor.</p>
+        )}
+    </div>
+
+    <!-- Aquí se inserta el anuncio antes de la paginación -->
+    <div class="ad-container" style="margin: 20px 0; text-align: center;">
+        <Ad />
+    </div>
+
+    <!-- Paginación -->
+    <nav class="pagination">
+        {prevUrl ? (
+            <a href={prevUrl === rutaBaseAutor ? `${rutaBaseAutor}/1` : prevUrl}>
+                ⬅️ Anterior
+            </a>
+        ) : null}
+        
+        <span>Página {currentPage} de {lastPage}</span>
+        
+        {nextUrl ? <a href={nextUrl}>Siguiente ➡️</a> : null}
+    </nav>
+</MainLayout>
+
+<style>
+    .pagination { display: flex; gap: 1rem; margin-top: 2rem; justify-content: center; align-items: center; }
+    .pagination a { padding: 0.5rem 1rem; border: 1px solid #ccc; text-decoration: none; border-radius: 4px; }
+</style>
