@@ -1,0 +1,19 @@
+---
+titulo: "Capítulo 1203: ¿Tus alas están endurecidas?"
+numero: 1203
+novelaId: "21"
+---
+
+Cao Lebang estaba tan enojado que casi se quedó sin palabras, apretó los dientes y miró a Cao Kangcheng y dijo palabra por palabra: “La asistente de Huo Tianchen le dijo a tu madre que no la dejara nunca más. No lo hagas”. ¡No me comunique con el Sr. Huo y dígale que la gracia que salvó la vida anterior de su madre ha sido pagada, por lo que en el futuro, el Sr. Huo nunca vendrá a ayudar con los asuntos de nuestra empresa! ¡Se lo preguntaré de nuevo! Solo podemos confiar en nuestra empresa para ¡todo!”
+
+Cao Kangcheng frunció el ceño, frunció los labios, pero sus ojos parpadearon levemente: “Papá, creo que la idea del Sr. Huo es muy normal. Fue hace más de 20 años que mi madre rescató al Sr. Huo. La otra parte ayudó a nuestra familia a establecer una empresa de comercio exterior y los acompañó entre Europa y China durante tantos años. Ahora, ¿no es razonable decirnos esta vez? ¿Qué estás haciendo con un incendio tan grande? Creo que nuestra empresa de comercio exterior no es peor que otras empresas de comercio exterior. La escala de nuestra empresa está en todo Xinghai. Incluso si no confiamos en Huo Tianchen, nuestra familia aún puede desarrollarse en el futuro, por lo que no No tienes que preocuparte por eso.”
+
+“¿Qué tiene sentido? ! Pequeño bastardo, ¿cómo te atreves a decir tal cosa? ! ¡Realmente te entendí mal antes! Diciendo eso, Cao Lebang estaba a punto de adelantarse y abofetear a Cao Kangcheng en la cara nuevamente. Sus ojos enojados y sus ojos casi se condensaron en sustancia. Levantó su mano derecha en alto y estuvo a punto de golpearla en la cara de Cao Kangcheng.
+
+Zhong Xiuying, que se había estado quedando en la esquina junto a él, también reflexionó y se apresuró a dar un paso adelante y agarró el brazo de Cao Lebang para persuadirlo: “Lebang, por favor habla bien primero, no golpees a los demás”. niño, tu hijo es tan viejo, que vergüenza que lo dejes ir a trabajar mañana con dos bofetadas, todos, hablen bien, aunque quieran condenarlo a muerte, ¡tienen que esperar a que su hijo lo explique bien!”
+
+“¡Xiuying, sal del camino!” ¡Déjame matar a este mocoso! Obviamente hizo algo para ofender al Sr. Huo, lo que hizo que el negocio de la familia se convirtiera en lo que es hoy, ¡e incluso se atrevió a fingir ser inocente conmigo! ¡Qué decir que la otra parte se ha ocupado de nuestra familia durante más de 20 años y el favor ha sido pagado! ¡Simplemente me cabreó! “Cao Lebang luchó mucho, por lo que quería saltar y darle una lección a Cao Kangcheng.
+
+La madre realmente se preocupa por el niño, incluso si Zhong Xiuying está muy enojado como su esposo, pero aún bloquea a Cao Lebang y sigue persuadiéndola, tratando de persuadir a Cao Lebang y su hijo en realidad tiene dificultades “. ¡Le Bang, Le Bang! ¡Solo escucha mi consejo! ¿Deja que tu hijo hable sobre lo que pasó primero? Puedes decidir si lo golpeas o no. Si lo golpeas así ahora, en caso de que esto suceda ¿No es culpa de mi hijo? ¡Deberías escuchar lo que tu hijo tiene que decir primero!”
+
+“¡¿Cómo puedes decirlo?! Si no le hubieras preguntado al asistente Yuan qué estaba pasando, le habrías preguntado a la otra parte qué estaba pasando. en. ¡Cómo podría saber que su hijo se metió en problemas en secreto en su boca, y cómo podría saber que iba a ofender a Huo Tianchen una y otra vez por una mujer! Este maldito mocoso ni siquiera mira lo que es Hombre, ¿qué habilidad tiene para ofender a Huo Tianchen? ¿Cree que puede luchar contra el águila una vez que sus alas se endurecen? ¡Estoy a punto de enojarme con él!”

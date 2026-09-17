@@ -368,8 +368,7 @@ export const novelas = [
         anio: "2012", 
         imagen: "/portada/20.jpg",
         sinopsis: "¡Hace cinco años, la familia Ye fue destruida, y el desecho Ye Chen fue ridiculizado como un gusano en el suelo! ¡Cinco años después, la basura de la familia Ye regresó! ¡Volvió con una base de cultivo de fantasmas y dioses llorones! ¡Esta vez, Ye Chen quería hacer temblar el cielo! ¡Que la tierra tiemble! ¡Ser el dueño de todo y alcanzar la cima del cielo! ¡Esta es una historia extremadamente arrogante que pretende ser un cerdo y comer un tigre!",
-        totalCapitulos: 7407
-        ,
+        totalCapitulos: 7407,
         capitulosPublicados: "Cap 7407",
         categoria: "Terminadas",
         pais: "chinas",
@@ -378,6 +377,25 @@ export const novelas = [
         seo: {
             title: "Leer Dios Médico Urbano en Español - Novelas Ligeras",
             description: "Disfruta de Dios Médico Urbano en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
+        id: "21", 
+        titulo: "Renacimiento de una chica fea", 
+        titulo2: "Rebirth of an Ugly Girl Turned Around, 重生丑女翻身：帝少甜宠鉴宝娇妻",
+        genero: "Drama, Romance, Vida Ubana,", 
+        anio: "1566", 
+        imagen: "/portada/21.jpg",
+        sinopsis: "Tras diez años de injusta prisión, traiciones y una vida marcada por la humillación, Qiao Yi'an logra cobrar venganza antes de morir. Sin embargo, el destino le da una segunda oportunidad al enviarla doce años atrás, justo en la noche que desató su peor pesadilla.  Al despertar con el rostro aún marcado por su pasado, Qiao Yi'an asume esta nueva vida con una frialdad implacable y con un don extraordinario: unos ojos místicos capaces de ver la energía de las antigüedades y las verdaderas intenciones de quienes la rodean. Armada con este poder y decidida a no ser la víctima de nadie, se adentra en el peligroso y lucrativo mundo del comercio de jade, mientras planea la destrucción sistemática de quienes la arruinaron. Lo que no esperaba es que el temido magnate Huo Tianchen, ligado a ella desde aquella fatídica noche, comenzara a seguirle los pasos de cerca. ",
+        totalCapitulos: 1566,
+        capitulosPublicados: "Cap 1566",
+        categoria: "Terminadas",
+        pais: "chinas",
+        autor: "Shen-Junwan",
+        tag: "Protagonista femenina, protagonista masculino atractivo, venganza",
+        seo: {
+            title: "Leer Renacimiento de una chica fea en Español - Novelas Ligeras",
+            description: "Disfruta de Renacimiento de una chica fea en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
     }
 ];
