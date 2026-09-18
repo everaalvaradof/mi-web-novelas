@@ -3,6 +3,13 @@ import MainLayout from '../../layouts/MainLayout.astro';
 import { novelas } from '../../data/novelas.js';
 import Ad from '../../components/Ad.astro';
 
+// 1. Añadimos getStaticPaths para que Astro mapee todas las novelas desde tu archivo de datos
+export function getStaticPaths() {
+    return novelas.map(n => ({
+        params: { id: n.id }
+    }));
+}
+
 // Capturamos el ID directamente de la URL de forma dinámica
 const { id } = Astro.params;
 
@@ -104,7 +111,7 @@ const ultimosCapitulos = Array.from({ length: totalCaps - inicioUltimos + 1 }, (
                         </div>
 
                         <div class="ad-container" style="margin: 20px 0; text-align: center;">
-                            
+                            <Ad />
                         </div>
                     </details>
                 ))}
