@@ -3,7 +3,7 @@ import MainLayout from '../../layouts/MainLayout.astro';
 import { novelas } from '../../data/novelas.js';
 import Ad from '../../components/Ad.astro';
 
-// 1. Añadimos getStaticPaths para que Astro mapee todas las novelas desde tu archivo de datos
+// 1. Añadimos getStaticPaths para que Astro mapee todas las novelas desde tu archivo de datos en modo estático
 export function getStaticPaths() {
     return novelas.map(n => ({
         params: { id: n.id }
