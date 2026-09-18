@@ -198,7 +198,7 @@ const capSiguiente = capNum < totalCapitulos ? `/vercap?id=${novelaId}_${capNum 
             window.speechSynthesis.speak(speech);
         });
 
-        const adMedio = document.getElementById('ad-medio');
+        const adMedio = document.getElementById('ad-medio') as HTMLElement | null;
         if (cuerpoCapitulo && adMedio) {
             const parrafos = cuerpoCapitulo.querySelectorAll('p');
             if (parrafos.length > 0) {
@@ -209,8 +209,8 @@ const capSiguiente = capNum < totalCapitulos ? `/vercap?id=${novelaId}_${capNum 
         }
 
         const container = document.getElementById('main-content');
-        const paragraphs = container?.querySelectorAll('p');
-        const tituloEl = document.querySelector('.titulo-capitulo');
+        const paragraphs = container?.querySelectorAll('p') as NodeListOf<HTMLElement> | undefined;
+        const tituloEl = document.querySelector('.titulo-capitulo') as HTMLElement | null;
         
         const btnMas = document.querySelector('.btn-mas');
         const btnMenos = document.querySelector('.btn-menos');
@@ -235,7 +235,7 @@ const capSiguiente = capNum < totalCapitulos ? `/vercap?id=${novelaId}_${capNum 
         }
 
         const btnModo = document.querySelector('.btn-modo');
-        const box = document.getElementById('lector-box');
+        const box = document.getElementById('lector-box') as HTMLElement | null;
         
         if (localStorage.getItem('darkMode') === 'false') {
             document.body.style.backgroundColor = '#f1f5f9';

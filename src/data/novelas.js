@@ -383,7 +383,7 @@ export const novelas = [
         id: "21", 
         titulo: "Renacimiento de una chica fea", 
         titulo2: "Rebirth of an Ugly Girl Turned Around, 重生丑女翻身：帝少甜宠鉴宝娇妻",
-        genero: "Drama, Romance, Vida Ubana,", 
+        genero: "Drama, Romance, Vida Urbana,", 
         anio: "1566", 
         imagen: "/portada/21.jpg",
         sinopsis: "Tras diez años de injusta prisión, traiciones y una vida marcada por la humillación, Qiao Yi'an logra cobrar venganza antes de morir. Sin embargo, el destino le da una segunda oportunidad al enviarla doce años atrás, justo en la noche que desató su peor pesadilla.  Al despertar con el rostro aún marcado por su pasado, Qiao Yi'an asume esta nueva vida con una frialdad implacable y con un don extraordinario: unos ojos místicos capaces de ver la energía de las antigüedades y las verdaderas intenciones de quienes la rodean. Armada con este poder y decidida a no ser la víctima de nadie, se adentra en el peligroso y lucrativo mundo del comercio de jade, mientras planea la destrucción sistemática de quienes la arruinaron. Lo que no esperaba es que el temido magnate Huo Tianchen, ligado a ella desde aquella fatídica noche, comenzara a seguirle los pasos de cerca. ",
@@ -396,6 +396,63 @@ export const novelas = [
         seo: {
             title: "Leer Renacimiento de una chica fea en Español - Novelas Ligeras",
             description: "Disfruta de Renacimiento de una chica fea en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
+        id: "22", 
+        titulo: "Renacimiento en los 90: Seduciendo a mi esposo", 
+        titulo2: "REBIRTH 90S: HOT WIFE FLIRTING – 重生九零辣妻撩夫",
+        genero: "Ranobe, Romance", 
+        anio: "1566", 
+        imagen: "/portada/22.jpg",
+        sinopsis: "Tras diez años de injusta prisión, traiciones y una vida marcada por la humillación, Qiao Yi'an logra cobrar venganza antes de morir. Sin embargo, el destino le da una segunda oportunidad al enviarla doce años atrás, justo en la noche que desató su peor pesadilla.  Al despertar con el rostro aún marcado por su pasado, Qiao Yi'an asume esta nueva vida con una frialdad implacable y con un don extraordinario: unos ojos místicos capaces de ver la energía de las antigüedades y las verdaderas intenciones de quienes la rodean. Armada con este poder y decidida a no ser la víctima de nadie, se adentra en el peligroso y lucrativo mundo del comercio de jade, mientras planea la destrucción sistemática de quienes la arruinaron. Lo que no esperaba es que el temido magnate Huo Tianchen, ligado a ella desde aquella fatídica noche, comenzara a seguirle los pasos de cerca. ",
+        totalCapitulos: 1566,
+        capitulosPublicados: "Cap 1566",
+        categoria: "Terminadas",
+        pais: "chinas",
+        autor: "Lao-Sheep",
+        tag: "Hermosa protagonista femenina, protagonista masculino apuesto, espacio mágico, protagonista masculino, venganza, protagonista despiadado, de débil a fuerte",
+        seo: {
+            title: "Leer Renacimiento en los 90: Seduciendo a mi esposo en Español - Novelas Ligeras",
+            description: "Disfruta de Renacimiento en los 90: Seduciendo a mi esposo en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
+        id: "23", 
+        titulo: "Super Gene", 
+        titulo2: "超级神基因",
+        genero: "Aventura, Harem, Mundo Moderno", 
+        anio: "2026", 
+        imagen: "/portada/23.jpg",
+        sinopsis: "Cuando la humanidad traspasó la frontera cósmica con la tecnología de la curvatura espacial, se topó con un reino ajeno al tiempo: una extensión desolada bajo un cielo estrellado infinito, desprovista de historia y tierra firme. Esta dimensión alienígena rebosaba de criaturas salvajes y divinas cuya esencia misma irradiaba un poder primigenio. Ante la disyuntiva entre la extinción y la trascendencia, la humanidad se embarcó en su mayor prueba evolutiva, ascendiendo a una era legendaria de conquista bajo cielos alienígenas. Cada bestia caída revelaba sus secretos: almas de bestias cosechadas, carne divina reclamada y genes divinos absorbidos por el ADN humano. El sistema medía su ascensión con fría precisión numérica: matar a un Escarabajo Negro de Sangre Divina otorgaba su alma, su cadáver y de 0 a 10 puntos de genes divinos hacia la evolución sobrehumana. Los guerreros se convertían en leyendas. Los débiles perecían. Solo aquellos que cazaran a los organismos más poderosos forjarían el brillante nuevo destino de la humanidad entre las estrellas.",
+        totalCapitulos: 3462,
+        capitulosPublicados: "3462",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Ángel-Oscuro-Ardiente-de-Doce-Aladas",
+        tag: "Acción, Aventura, Ciencia ficción, Comedia, Artes marciales, Xuanhuan, Mecha",
+        seo: {
+            title: "Leer Super Gene en Español - Novelas Ligeras",
+            description: "Disfruta de Super Gene en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+        { 
+        id: "24", 
+        titulo: "El Señor de los Misterios", 
+        titulo2: "LORD OF THE MYSTERIES, 诡秘之主",
+        genero: "Acción, Aventura, Terror, Maduro, Misterio, Novela Ligera, Psicológico, Ranobe, Sobrenatural, Xuanhuan", 
+        anio: "2021", 
+        imagen: "/portada/24.jpg",
+        sinopsis: "Con la marea creciente de la energía de vapor y la maquinaria, ¿quién puede acercarse a ser un Beyonder? Envuelto en la niebla de la historia y la oscuridad, ¿quién o qué es el mal que acecha que murmura en nuestros oídos? Al despertar para enfrentarse a una serie de misterios, Zhou Mingrui se reencarna como Klein Moretti en un mundo alternativo de la era victoriana donde ve un mundo lleno de maquinaria, cañones, acorazados, aeronaves, máquinas de diferencia, así como pociones, adivinación, Maleficios, cartas del tarot, artefactos sellados… La Luz sigue brillando pero el misterio nunca ha ido muy lejos. Sigue a Klein mientras se enreda con las Iglesias del mundo, tanto ortodoxas como no ortodoxas, mientras poco a poco desarrolla nuevos poderes gracias a las pociones Beyonder.  Al igual que la carta del tarot correspondiente, The Fool, que tiene el número 0, un número de potencial ilimitado, esta es la leyenda de El Loco.",
+        totalCapitulos: 1431,
+        capitulosPublicados:"Cap 1431",
+        categoria: "Estrenos",
+        pais: "chinas",
+        autor: "Slight-Uplifting",
+        tag: "Alquimia, Artefactos, Protagonista astuto, Protagonista decidido, Dioses, Ocultar la verdadera identidad, Magia, Protagonista masculino, Malentendidos, Monstruos, Planes y conspiraciones, Habilidades especiales, Salto temporal, Transmigración, De débil a fuerte",
+        seo: {
+            title: "Leer El Señor de los Misterios en Español - Novelas Ligeras",
+            description: "Disfruta de El Señor de los Misterios en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
     }
 ];
