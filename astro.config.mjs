@@ -1,8 +1,11 @@
 import { defineConfig } from 'astro/config';
-import sitemap from '@astrojs/sitemap';
 
+import netlify from '@astrojs/netlify';
+
+// https://astro.build/config
 export default defineConfig({
-  site: 'https://novelasligeras.netlify.app',
-  output: 'static', // 100% estático para que no se genere ninguna función SSR pesada
-  integrations: [sitemap()],
+  // Asegúrate de tener esto o elimínalo si usa el valor por defecto, pero ponlo explícito para evitar confusiones.
+  output: 'static',
+
+  adapter: netlify()
 });
