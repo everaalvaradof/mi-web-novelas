@@ -1,42 +1,62 @@
 ---
-export const prerender = false;
-
 import MainLayout from '../../layouts/MainLayout.astro';
 import { novelas } from '../../data/novelas.js';
 import Ad from '../../components/Ad.astro';
 
-// 1. Capturamos el parámetro dinámico (puede llamarse genero o categoria según tu estructura de carpetas)
-const { genero, categoria, page: pageParam } = Astro.params;
-const catOrGen = genero || categoria || '';
+// 1. Generamos las rutas estáticas para cada categoría o género disponible
+export function getStaticPaths() {
+    const slugsSet = new Set<string>();
+    
+    novelas.forEach(n => {
+        const campos = [n.genero, n.categoria];
+        campos.forEach(campo => {
+            if (campo) {
+                campo.split(',').forEach(item => {
+                    const slug = item.trim().toLowerCase().replace(/\s+/g, '-');
+                    if (slug) slugsSet.add(slug);
+                });
+            }
+        });
+    });
 
-// Convertimos la página actual a número (si no viene o es inválida, por defecto es la 1)
-const currentPage = parseInt(pageParam || '1', 10);
+    return Array.from(slugsSet).map(slug => ({
+        params: { categoria: slug, genero: slug }
+    }));
+}
+
+// 2. Capturamos el parámetro dinámico de la URL con tipado seguro
+const params = Astro.params as { genero?: string; categoria?: string };
+const genero = params.genero;
+const categoria = params.categoria;
+const catOrGen = (genero || categoria || '') as string;
+
+// Como es [slug].astro solito, la página actual siempre es la 1
+const currentPage = 1;
 const pageSize = 10;
 
-// 2. Normalizamos para compararlo bien
+// 3. Normalizamos para compararlo bien
+const formatSlug = (str: string) => str ? str.trim().toLowerCase().replace(/\s+/g, '-') : '';
 const busqueda = catOrGen.trim().toLowerCase();
 
-// 3. Filtramos las novelas que pertenecen a esta categoría/género
+// 4. Filtramos las novelas que pertenecen a esta categoría/género
 const novelasFiltradas = novelas.filter((n) => {
     const campo = n.genero || n.categoria || '';
-    const elementos = campo.split(',').map(e => e.trim().toLowerCase());
-    return elementos.includes(busqueda);
+    return campo.split(',').some(e => formatSlug(e) === busqueda);
 });
 
-// 4. Calculamos la paginación manual
+// 5. Paginación manual para la primera página
 const totalNovelas = novelasFiltradas.length;
 const lastPage = Math.ceil(totalNovelas / pageSize) || 1;
-const startIndex = (currentPage - 1) * pageSize;
-const paginatedData = novelasFiltradas.slice(startIndex, startIndex + pageSize);
+const paginatedData = novelasFiltradas.slice(0, pageSize);
 
 // Determinamos dinámicamente si estamos bajo /genero/ o /categoria/
 const folderName = genero ? 'genero' : 'categoria';
 const basePath = `/${folderName}/${catOrGen}`;
 
-const prevUrl = currentPage > 1 ? (currentPage === 2 ? basePath : `${basePath}/${currentPage - 1}`) : null;
-const nextUrl = currentPage < lastPage ? `${basePath}/${currentPage + 1}` : null;
+const nextUrl = lastPage > 1 ? `${basePath}/2` : null;
+const prevUrl = null; // En la primera página nunca hay anterior
 
-const tituloLimpio = catOrGen ? catOrGen.charAt(0).toUpperCase() + catOrGen.slice(1) : 'Categoría';
+const tituloLimpio = catOrGen ? catOrGen.charAt(0).toUpperCase() + catOrGen.slice(1).replace(/-/g, ' ') : 'Categoría';
 ---
 
 <MainLayout>
@@ -68,16 +88,16 @@ const tituloLimpio = catOrGen ? catOrGen.charAt(0).toUpperCase() + catOrGen.slic
     </div>
 
     <nav class="pagination">
-    {prevUrl ? (
-        <a href={prevUrl === `/categoria/terminadas` ? `/categoria/terminadas/1` : prevUrl}>
-            ⬅️ Anterior
-        </a>
-    ) : null}
-    
-    <span>Página {currentPage} de {lastPage}</span>
-    
-    {nextUrl ? <a href={nextUrl}>Siguiente ➡️</a> : null}
-</nav>
+        {prevUrl ? (
+            <a href={prevUrl}>
+                ⬅️ Anterior
+            </a>
+        ) : null}
+        
+        <span>Página {currentPage} de {lastPage}</span>
+        
+        {nextUrl ? <a href={nextUrl}>Siguiente ➡️</a> : null}
+    </nav>
 </MainLayout>
 
 <style>

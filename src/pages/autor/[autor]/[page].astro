@@ -1,27 +1,60 @@
 ---
-export const prerender = false;
-
 import MainLayout from '../../../layouts/MainLayout.astro';
 import { novelas } from '../../../data/novelas.js';
 import Ad from '../../../components/Ad.astro';
 
-// 1. Capturamos el autor y el número de página de la URL de forma dinámica
+// 1. Generamos las rutas estáticas para cada autor y cada una de sus páginas de paginación
+export function getStaticPaths() {
+    const pageSize = 10;
+    // Agrupamos las novelas por autor normalizado tipando el objeto explícitamente
+    const autoresMap: Record<string, number> = {};
+
+    novelas.forEach(n => {
+        if (n.autor) {
+            n.autor.split(',').forEach(a => {
+                const slugAutor = a.trim().toLowerCase().replace(/\s+/g, '-');
+                if (!autoresMap[slugAutor]) {
+                    autoresMap[slugAutor] = 0;
+                }
+                autoresMap[slugAutor]++;
+            });
+        }
+    });
+
+    const paths = [];
+
+    // Por cada autor, calculamos cuántas páginas necesita y creamos una ruta para cada una
+    for (const [slugAutor, totalNovelas] of Object.entries(autoresMap)) {
+        const lastPage = Math.ceil(totalNovelas / pageSize) || 1;
+        
+        for (let i = 1; i <= lastPage; i++) {
+            paths.push({
+                params: { autor: slugAutor, page: String(i) }
+            });
+        }
+    }
+
+    return paths;
+}
+
+// 2. Capturamos el autor y el número de página de la URL de forma estática
 const { autor, page: pageParam } = Astro.params;
 
 // Convertimos la página actual a número (por defecto la 1 si no viene en la URL)
 const currentPage = parseInt(pageParam || '1', 10);
 const pageSize = 10;
 
-// 2. Normalizamos el autor de búsqueda
+// 3. Normalizamos el autor de búsqueda
+const formatSlug = (str: string) => str ? str.trim().toLowerCase().replace(/\s+/g, '-') : '';
 const autorBusqueda = autor ? autor.trim().toLowerCase() : '';
 
-// 3. Filtramos las novelas según el autor
+// 4. Filtramos las novelas según el autor
 const novelasFiltradas = novelas.filter((n) => {
-    const autorNovela = n.autor ? n.autor.trim().toLowerCase() : '';
-    return autorNovela === autorBusqueda;
+    if (!n.autor) return false;
+    return n.autor.split(',').some(a => formatSlug(a) === autorBusqueda);
 });
 
-// 4. Paginación manual
+// 5. Paginación manual
 const totalNovelas = novelasFiltradas.length;
 const lastPage = Math.ceil(totalNovelas / pageSize) || 1;
 const startIndex = (currentPage - 1) * pageSize;

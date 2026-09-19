@@ -1,26 +1,59 @@
 ---
-export const prerender = false;
 import MainLayout from '../../../layouts/MainLayout.astro';
 import { novelas } from '../../../data/novelas.js';
 import Ad from '../../../components/Ad.astro';
 
-// 1. Capturamos el género y el número de página de la URL de forma dinámica
+// 1. Generamos las rutas estáticas para cada género y todas sus páginas de paginación
+export function getStaticPaths() {
+    const pageSize = 10;
+    const generosMap: Record<string, number> = {};
+
+    novelas.forEach(n => {
+        if (n.genero) {
+            n.genero.split(',').forEach(g => {
+                const slugGenero = g.trim().toLowerCase().replace(/\s+/g, '-');
+                if (!generosMap[slugGenero]) {
+                    generosMap[slugGenero] = 0;
+                }
+                generosMap[slugGenero]++;
+            });
+        }
+    });
+
+    const paths = [];
+
+    for (const [slugGenero, totalNovelas] of Object.entries(generosMap)) {
+        const lastPage = Math.ceil(totalNovelas / pageSize) || 1;
+        
+        for (let i = 1; i <= lastPage; i++) {
+            paths.push({
+                params: { genero: slugGenero, page: String(i) }
+            });
+        }
+    }
+
+    return paths;
+}
+
+// 2. Capturamos el género y el número de página de la URL de forma estática
 const { genero, page: pageParam } = Astro.params;
 
 // Convertimos la página actual a número (si no viene o es inválida, por defecto es la 1)
 const currentPage = parseInt(pageParam || '1', 10);
 const pageSize = 10;
 
-// 2. Normalizamos el género de la URL para compararlo bien
+// 3. Normalizamos el género de la URL para compararlo bien
+const formatSlug = (str: string) => str ? str.trim().toLowerCase().replace(/\s+/g, '-') : '';
 const generoBusqueda = genero ? genero.trim().toLowerCase() : '';
 
-// 3. Filtramos las novelas que pertenecen a este género
+// 4. Filtramos las novelas que pertenecen a este género
 const novelasFiltradas = novelas.filter((n) => {
-    const generosNovela = n.genero.split(',').map(g => g.trim().toLowerCase());
+    if (!n.genero) return false;
+    const generosNovela = n.genero.split(',').map(g => formatSlug(g));
     return generosNovela.includes(generoBusqueda);
 });
 
-// 4. Calculamos la paginación manual
+// 5. Calculamos la paginación manual
 const totalNovelas = novelasFiltradas.length;
 const lastPage = Math.ceil(totalNovelas / pageSize) || 1;
 const startIndex = (currentPage - 1) * pageSize;
@@ -31,7 +64,7 @@ const basePath = `/genero/${genero}`;
 const prevUrl = currentPage > 1 ? (currentPage === 2 ? basePath : `${basePath}/${currentPage - 1}`) : null;
 const nextUrl = currentPage < lastPage ? `${basePath}/${currentPage + 1}` : null;
 
-const generoLimpio = genero ? genero.charAt(0).toUpperCase() + genero.slice(1) : 'Género';
+const generoLimpio = genero ? genero.charAt(0).toUpperCase() + genero.slice(1).replace(/-/g, ' ') : 'Género';
 ---
 
 <MainLayout>
@@ -64,7 +97,7 @@ const generoLimpio = genero ? genero.charAt(0).toUpperCase() + genero.slice(1) :
 
     <nav class="pagination">
     {prevUrl ? (
-        <a href={prevUrl === `/categoria/terminadas` ? `/categoria/terminadas/1` : prevUrl}>
+        <a href={prevUrl}>
             ⬅️ Anterior
         </a>
     ) : null}

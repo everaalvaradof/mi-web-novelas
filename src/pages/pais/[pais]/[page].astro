@@ -1,26 +1,58 @@
 ---
-export const prerender = false;
 import MainLayout from '../../../layouts/MainLayout.astro';
 import { novelas } from '../../../data/novelas.js';
 import Ad from '../../../components/Ad.astro';
 
-// 1. Capturamos el país y el número de página de la URL de forma dinámica
+// 1. Generamos las rutas estáticas para cada país y todas sus páginas de paginación
+export function getStaticPaths() {
+    const pageSize = 10;
+    const paisesMap: Record<string, number> = {};
+
+    novelas.forEach(n => {
+        if (n.pais) {
+            n.pais.split(',').forEach(p => {
+                const slugPais = p.trim().toLowerCase().replace(/\s+/g, '-');
+                if (!paisesMap[slugPais]) {
+                    paisesMap[slugPais] = 0;
+                }
+                paisesMap[slugPais]++;
+            });
+        }
+    });
+
+    const paths = [];
+
+    for (const [slugPais, totalNovelas] of Object.entries(paisesMap)) {
+        const lastPage = Math.ceil(totalNovelas / pageSize) || 1;
+        
+        for (let i = 1; i <= lastPage; i++) {
+            paths.push({
+                params: { pais: slugPais, page: String(i) }
+            });
+        }
+    }
+
+    return paths;
+}
+
+// 2. Capturamos el país y el número de página de la URL de forma estática
 const { pais, page: pageParam } = Astro.params;
 
 // Convertimos la página actual a número (por defecto la 1 si no viene)
 const currentPage = parseInt(pageParam || '1', 10);
 const pageSize = 10;
 
-// 2. Normalizamos el país de búsqueda
+// 3. Normalizamos el país de búsqueda
+const formatSlug = (str: string) => str ? str.trim().toLowerCase().replace(/\s+/g, '-') : '';
 const paisBusqueda = pais ? pais.trim().toLowerCase() : '';
 
-// 3. Filtramos las novelas según el país
+// 4. Filtramos las novelas según el país
 const novelasFiltradas = novelas.filter((n) => {
-    const paisNovela = n.pais ? n.pais.trim().toLowerCase() : '';
-    return paisNovela === paisBusqueda;
+    if (!n.pais) return false;
+    return n.pais.split(',').some(p => formatSlug(p) === paisBusqueda);
 });
 
-// 4. Paginación manual
+// 5. Paginación manual
 const totalNovelas = novelasFiltradas.length;
 const lastPage = Math.ceil(totalNovelas / pageSize) || 1;
 const startIndex = (currentPage - 1) * pageSize;
@@ -31,9 +63,8 @@ const basePath = `/pais/${pais}`;
 const prevUrl = currentPage > 1 ? (currentPage === 2 ? basePath : `${basePath}/${currentPage - 1}`) : null;
 const nextUrl = currentPage < lastPage ? `${basePath}/${currentPage + 1}` : null;
 
-const paisLimpio = pais ? pais.toUpperCase() : 'PAÍS';
+const paisLimpio = pais ? pais.toUpperCase().replace(/-/g, ' ') : 'PAÍS';
 ---
-
 <MainLayout>
     <h1>País: {paisLimpio}</h1>
     
