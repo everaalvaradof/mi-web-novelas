@@ -1,6 +1,7 @@
 import { defineConfig } from 'astro/config';
+import vercel from '@astrojs/vercel';
 
-// https://astro.build/config
 export default defineConfig({
-  output: 'static', // Esto le dice a Astro que genere HTMLs puros, NO funciones de servidor.
+  output: 'server', // O 'hybrid' si combinas páginas estáticas y dinámicas
+  adapter: vercel(),
 });
