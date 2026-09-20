@@ -3,7 +3,7 @@ import type { APIRoute } from 'astro';
 import { novelas } from '../data/novelas.js';
 
 export const GET: APIRoute = async ({ site }) => {
-  const baseUrl = site ? site.toString().replace(/\/$/, '') : 'https://novelasligeras.netlify.app';
+  const baseUrl = site ? site.toString().replace(/\/$/, '') : 'https://novelasligeras.vercel.app';
 
   // 1. Página principal (Home)
   const staticPages = [
