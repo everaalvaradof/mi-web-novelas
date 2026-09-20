@@ -4,7 +4,7 @@ import MainLayout from '../../../layouts/MainLayout.astro';
 import { novelas } from '../../../data/novelas.js';
 import Ad from '../../../components/Ad.astro';
 
-// 1. Generamos las rutas estáticas para cada género y todas sus páginas de paginación
+// 1. Generamos las rutas estáticas de forma totalmente blindada
 export function getStaticPaths() {
     const pageSize = 10;
     const generosMap: Record<string, number> = {};
@@ -12,11 +12,13 @@ export function getStaticPaths() {
     novelas.forEach(n => {
         if (n.genero) {
             n.genero.split(',').forEach(g => {
-                const slugGenero = g.trim().toLowerCase().replace(/\s+/g, '-');
-                if (!generosMap[slugGenero]) {
-                    generosMap[slugGenero] = 0;
+                const slugGenero = g ? g.trim().toLowerCase().replace(/\s+/g, '-') : '';
+                if (slugGenero) {
+                    if (!generosMap[slugGenero]) {
+                        generosMap[slugGenero] = 0;
+                    }
+                    generosMap[slugGenero]++;
                 }
-                generosMap[slugGenero]++;
             });
         }
     });
@@ -24,11 +26,16 @@ export function getStaticPaths() {
     const paths = [];
 
     for (const [slugGenero, totalNovelas] of Object.entries(generosMap)) {
+        if (!slugGenero) continue;
+        
         const lastPage = Math.ceil(totalNovelas / pageSize) || 1;
         
         for (let i = 1; i <= lastPage; i++) {
             paths.push({
-                params: { genero: slugGenero, page: String(i) }
+                params: { 
+                    genero: slugGenero, 
+                    page: String(i) 
+                }
             });
         }
     }
@@ -38,6 +45,10 @@ export function getStaticPaths() {
 
 // 2. Capturamos el género y el número de página de la URL de forma estática
 const { genero, page: pageParam } = Astro.params;
+
+if (!genero) {
+    throw new Error("Missing parameter: genero");
+}
 
 // Convertimos la página actual a número (si no viene o es inválida, por defecto es la 1)
 const currentPage = parseInt(pageParam || '1', 10);
