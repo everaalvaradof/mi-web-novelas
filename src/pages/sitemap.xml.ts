@@ -88,7 +88,7 @@ export async function GET() {
 
     for (const cat of categoriasSet) {
         const catFiltradas = novelas.filter(n => {
-            const c = formatSlug(n.categoria || n.estado || '');
+            const c = formatSlug(n.categoria || '');
             return c === cat;
         });
         const count = catFiltradas.length > 0 ? catFiltradas.length : 1;
