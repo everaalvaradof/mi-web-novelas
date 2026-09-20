@@ -3,10 +3,10 @@ export const prerender = true;
 import { novelas } from '../../data/novelas.js';
 import Layout from '../../layouts/MainLayout.astro';
 
-// Función para normalizar igual en ambos lados
+// 1. Declaramos la función primero para que esté disponible en el ámbito estático
 const formatSlug = (str: string) => str ? str.trim().toLowerCase().replace(/\s+/g, '-') : '';
 
-// 1. Generamos las rutas estáticas para cada país disponible
+// 2. Generamos las rutas estáticas usando formatSlug correctamente
 export function getStaticPaths() {
     const slugsSet = new Set<string>();
     
@@ -24,11 +24,11 @@ export function getStaticPaths() {
     }));
 }
 
-// 2. Capturamos el slug de forma segura
+// 3. Capturamos el slug de forma segura
 const { slug } = Astro.params;
 const paisSlug = typeof slug === 'string' ? slug : '';
 
-// 3. Filtramos comparando la versión normalizada de cada novela
+// 4. Filtramos comparando la versión normalizada de cada novela
 const novelasFiltradas = novelas.filter(n => {
     if (!n.pais) return false;
     return n.pais.split(',').some(p => formatSlug(p) === paisSlug);
