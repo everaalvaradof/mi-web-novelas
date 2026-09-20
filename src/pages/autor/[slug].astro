@@ -4,16 +4,17 @@ import MainLayout from '../../layouts/MainLayout.astro';
 import { novelas } from '../../data/novelas.js';
 import Ad from '../../components/Ad.astro';
 
-// 1. Generamos las rutas estáticas para los slugs individuales
+// 1. Generamos las rutas estáticas exclusivamente para los autores
 export function getStaticPaths() {
     const slugsSet = new Set<string>();
     
     novelas.forEach(n => {
-        const campo = n.autor || n.genero || n.categoria || n.pais || '';
-        campo.split(',').forEach(item => {
-            const slugItem = item.trim().toLowerCase().replace(/\s+/g, '-');
-            if (slugItem) slugsSet.add(slugItem);
-        });
+        if (n.autor) {
+            n.autor.split(',').forEach(item => {
+                const slugItem = item.trim().toLowerCase().replace(/\s+/g, '-');
+                if (slugItem) slugsSet.add(slugItem);
+            });
+        }
     });
 
     return Array.from(slugsSet).map(slug => ({
@@ -29,9 +30,9 @@ const currentPage = 1; // Como es [slug].astro solito, siempre es la página 1
 const formatSlug = (str: string) => str ? str.trim().toLowerCase().replace(/\s+/g, '-') : '';
 const busqueda = slug ? slug.trim().toLowerCase() : '';
 
-// 3. Filtramos las novelas que coincidan con este slug
+// 3. Filtramos las novelas que coincidan estrictamente con este autor
 const novelasFiltradas = novelas.filter((n) => {
-    const campo = n.autor || n.genero || n.categoria || n.pais || '';
+    const campo = n.autor || '';
     return campo.split(',').some(e => formatSlug(e) === busqueda);
 });
 
@@ -40,8 +41,8 @@ const totalNovelas = novelasFiltradas.length;
 const lastPage = Math.ceil(totalNovelas / pageSize) || 1;
 const paginatedData = novelasFiltradas.slice(0, pageSize);
 
-// URLs de paginación (en la página 1 no hay anterior)
-const basePath = `/autor/${slug}`; // Ajusta si estás en otra sección (ej: /genero/${slug})
+// URLs de paginación
+const basePath = `/autor/${slug}`;
 const nextUrl = lastPage > 1 ? `${basePath}/2` : null;
 
 const tituloLimpio = slug ? slug.charAt(0).toUpperCase() + slug.slice(1).replace(/-/g, ' ') : 'Catálogo';
@@ -76,9 +77,7 @@ const tituloLimpio = slug ? slug.charAt(0).toUpperCase() + slug.slice(1).replace
     </div>
 
     <nav class="pagination">
-        <!-- Al ser la página 1, el botón anterior no aplica -->
         <span>Página {currentPage} de {lastPage}</span>
-        
         {nextUrl ? <a href={nextUrl}>Siguiente ➡️</a> : null}
     </nav>
 </MainLayout>

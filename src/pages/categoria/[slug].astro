@@ -4,44 +4,36 @@ import MainLayout from '../../layouts/MainLayout.astro';
 import { novelas } from '../../data/novelas.js';
 import Ad from '../../components/Ad.astro';
 
-// 1. Generamos las rutas estáticas para cada categoría o género disponible
+// 1. Generamos las rutas estáticas usando estrictamente 'slug'
 export function getStaticPaths() {
     const slugsSet = new Set<string>();
     
     novelas.forEach(n => {
-        const campos = [n.genero, n.categoria];
-        campos.forEach(campo => {
-            if (campo) {
-                campo.split(',').forEach(item => {
-                    const slug = item.trim().toLowerCase().replace(/\s+/g, '-');
-                    if (slug) slugsSet.add(slug);
-                });
-            }
-        });
+        if (n.categoria) {
+            n.categoria.split(',').forEach(item => {
+                const slug = item.trim().toLowerCase().replace(/\s+/g, '-');
+                if (slug) slugsSet.add(slug);
+            });
+        }
     });
 
     return Array.from(slugsSet).map(slug => ({
-        params: { categoria: slug, genero: slug }
+        params: { slug }
     }));
 }
 
-// 2. Capturamos el parámetro dinámico de la URL con tipado seguro
-const params = Astro.params as { genero?: string; categoria?: string };
-const genero = params.genero;
-const categoria = params.categoria;
-const catOrGen = (genero || categoria || '') as string;
-
-// Como es [slug].astro solito, la página actual siempre es la 1
+// 2. Capturamos el parámetro 'slug' que espera Astro
+const { slug } = Astro.params as { slug: string };
 const currentPage = 1;
 const pageSize = 10;
 
-// 3. Normalizamos para compararlo bien
+// 3. Normalizamos para la búsqueda
 const formatSlug = (str: string) => str ? str.trim().toLowerCase().replace(/\s+/g, '-') : '';
-const busqueda = catOrGen.trim().toLowerCase();
+const busqueda = slug ? slug.trim().toLowerCase() : '';
 
-// 4. Filtramos las novelas que pertenecen a esta categoría/género
+// 4. Filtramos las novelas que pertenecen a esta categoría
 const novelasFiltradas = novelas.filter((n) => {
-    const campo = n.genero || n.categoria || '';
+    const campo = n.categoria || '';
     return campo.split(',').some(e => formatSlug(e) === busqueda);
 });
 
@@ -50,18 +42,15 @@ const totalNovelas = novelasFiltradas.length;
 const lastPage = Math.ceil(totalNovelas / pageSize) || 1;
 const paginatedData = novelasFiltradas.slice(0, pageSize);
 
-// Determinamos dinámicamente si estamos bajo /genero/ o /categoria/
-const folderName = genero ? 'genero' : 'categoria';
-const basePath = `/${folderName}/${catOrGen}`;
-
+const basePath = `/categoria/${slug}`;
 const nextUrl = lastPage > 1 ? `${basePath}/2` : null;
-const prevUrl = null; // En la primera página nunca hay anterior
+const prevUrl = null;
 
-const tituloLimpio = catOrGen ? catOrGen.charAt(0).toUpperCase() + catOrGen.slice(1).replace(/-/g, ' ') : 'Categoría';
+const tituloLimpio = slug ? slug.charAt(0).toUpperCase() + slug.slice(1).replace(/-/g, ' ') : 'Categoría';
 ---
 
 <MainLayout>
-    <h1>Categoría / Género: {tituloLimpio}</h1>
+    <h1>Categoría: {tituloLimpio}</h1>
     
     <div class="novelas-grid">
         {paginatedData.length > 0 ? (
