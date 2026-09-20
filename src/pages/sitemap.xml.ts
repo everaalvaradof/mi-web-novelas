@@ -98,13 +98,13 @@ export async function GET() {
         }
     }
 
-    // Generar la estructura XML del sitemap
+    // Generar la estructura XML del sitemap correctamente
     const sitemapXml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     ${urls.map(url => `
     <url>
         <loc>${url}</loc>
-    endurl`).join('').replace(/endurl/g, '')}
+    </url>`).join('')}
 </urlset>`;
 
     return new Response(sitemapXml.trim(), {
