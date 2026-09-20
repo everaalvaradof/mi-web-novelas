@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tuwebdenovelas.com/sitemap-index.xml
+Sitemap: https://novelasligeras.vercel.app/sitemap-index.xml
