@@ -1,39 +1,115 @@
-// src/pages/sitemap.xml.ts
-import type { APIRoute } from 'astro';
 import { novelas } from '../data/novelas.js';
 
-export const GET: APIRoute = async ({ site }) => {
-  const baseUrl = site ? site.toString().replace(/\/$/, '') : 'https://novelasligeras.vercel.app';
+export const prerender = true;
 
-  // 1. Página principal (Home)
-  const staticPages = [
-    '',
-  ];
+const formatSlug = (str: string) => str ? str.trim().toLowerCase().replace(/\s+/g, '-') : '';
 
-  // 2. URLs de las novelas con la estructura exacta: /ver/01, /ver/02, etc.
-  const novelasUrls = novelas.map(novela => `/ver/${novela.id}`);
+export async function GET() {
+    const baseUrl = 'https://novelasligeras.vercel.app';
+    const pageSize = 10;
 
-  const allRoutes = [...staticPages, ...novelasUrls];
+    const urls: string[] = [
+        `${baseUrl}/`,
+    ];
 
-  const sitemapXML = `<?xml version="1.0" encoding="UTF-8"?>
+    // 1. Novelas individuales (detalle)
+    novelas.forEach(n => {
+        if (n.id) {
+            urls.push(`${baseUrl}/ver/${n.id}`);
+        }
+    });
+
+    // 2. Géneros y su paginación
+    const generosMap: Record<string, number> = {};
+    novelas.forEach(n => {
+        if (n.genero) {
+            n.genero.split(',').forEach(g => {
+                const slug = formatSlug(g);
+                if (slug) {
+                    generosMap[slug] = (generosMap[slug] || 0) + 1;
+                }
+            });
+        }
+    });
+
+    for (const [slug, count] of Object.entries(generosMap)) {
+        const lastPage = Math.ceil(count / pageSize) || 1;
+        for (let i = 1; i <= lastPage; i++) {
+            urls.push(`${baseUrl}/genero/${slug}/${i}`);
+        }
+    }
+
+    // 3. Países / Origen y su paginación
+    const paisesMap: Record<string, number> = {};
+    novelas.forEach(n => {
+        if (n.pais) {
+            n.pais.split(',').forEach(p => {
+                const slug = formatSlug(p);
+                if (slug) {
+                    paisesMap[slug] = (paisesMap[slug] || 0) + 1;
+                }
+            });
+        }
+    });
+
+    for (const [slug, count] of Object.entries(paisesMap)) {
+        const lastPage = Math.ceil(count / pageSize) || 1;
+        for (let i = 1; i <= lastPage; i++) {
+            urls.push(`${baseUrl}/pais/${slug}/${i}`);
+        }
+    }
+
+    // 4. Autores y su paginación
+    const autoresMap: Record<string, number> = {};
+    novelas.forEach(n => {
+        if (n.autor) {
+            const slug = formatSlug(n.autor);
+            if (slug) {
+                autoresMap[slug] = (autoresMap[slug] || 0) + 1;
+            }
+        }
+    });
+
+    for (const [slug, count] of Object.entries(autoresMap)) {
+        const lastPage = Math.ceil(count / pageSize) || 1;
+        for (let i = 1; i <= lastPage; i++) {
+            urls.push(`${baseUrl}/autor/${slug}/${i}`);
+        }
+    }
+
+    // 5. Categorías y su paginación
+    const categoriasSet = new Set<string>(['estrenos', 'terminadas', 'emision', 'actualizadas']);
+    novelas.forEach(n => {
+        if (n.categoria) {
+            const slug = formatSlug(n.categoria);
+            if (slug) categoriasSet.add(slug);
+        }
+    });
+
+    for (const cat of categoriasSet) {
+        const catFiltradas = novelas.filter(n => {
+            const c = formatSlug(n.categoria || n.estado || '');
+            return c === cat;
+        });
+        const count = catFiltradas.length > 0 ? catFiltradas.length : 1;
+        const lastPage = Math.ceil(count / pageSize) || 1;
+        for (let i = 1; i <= lastPage; i++) {
+            urls.push(`${baseUrl}/categoria/${cat}/${i}`);
+        }
+    }
+
+    // Generar la estructura XML del sitemap
+    const sitemapXml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  ${allRoutes
-    .map(route => {
-      const url = `${baseUrl}${route}`;
-      const isHome = route === '';
-      return `
+    ${urls.map(url => `
     <url>
         <loc>${url}</loc>
-        <changefreq>${isHome ? 'daily' : 'weekly'}</changefreq>
-        <priority>${isHome ? '1.0' : '0.8'}</priority>
-    </url>`;
-    })
-    .join('')}
+    endurl`).join('').replace(/endurl/g, '')}
 </urlset>`;
 
-  return new Response(sitemapXML.trim(), {
-    headers: {
-      'Content-Type': 'application/xml; charset=utf-8',
-    },
-  });
-};
+    return new Response(sitemapXml.trim(), {
+        headers: {
+            'Content-Type': 'application/xml; charset=utf-8'
+        }
+    });
+}
