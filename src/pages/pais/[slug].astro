@@ -3,17 +3,14 @@ export const prerender = true;
 import { novelas } from '../../data/novelas.js';
 import Layout from '../../layouts/MainLayout.astro';
 
-// 1. Declaramos la función primero para que esté disponible en el ámbito estático
-const formatSlug = (str: string) => str ? str.trim().toLowerCase().replace(/\s+/g, '-') : '';
-
-// 2. Generamos las rutas estáticas usando formatSlug correctamente
+// 1. Generamos las rutas estáticas con su propia lógica interna de limpieza
 export function getStaticPaths() {
     const slugsSet = new Set<string>();
     
     novelas.forEach(n => {
         if (n.pais) {
             n.pais.split(',').forEach(p => {
-                const slug = formatSlug(p);
+                const slug = p ? p.trim().toLowerCase().replace(/\s+/g, '-') : '';
                 if (slug) slugsSet.add(slug);
             });
         }
@@ -24,11 +21,14 @@ export function getStaticPaths() {
     }));
 }
 
-// 3. Capturamos el slug de forma segura
+// Función auxiliar para el resto de la página
+const formatSlug = (str: string) => str ? str.trim().toLowerCase().replace(/\s+/g, '-') : '';
+
+// 2. Capturamos el slug de forma segura
 const { slug } = Astro.params;
 const paisSlug = typeof slug === 'string' ? slug : '';
 
-// 4. Filtramos comparando la versión normalizada de cada novela
+// 3. Filtramos comparando la versión normalizada de cada novela
 const novelasFiltradas = novelas.filter(n => {
     if (!n.pais) return false;
     return n.pais.split(',').some(p => formatSlug(p) === paisSlug);
