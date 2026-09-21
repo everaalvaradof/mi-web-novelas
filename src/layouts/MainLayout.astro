@@ -1,4 +1,5 @@
 ---
+import { Image } from 'astro:assets';
 import { novelas } from '../data/novelas.js'; 
 import SEO from '../components/SEO.astro';
 
@@ -40,7 +41,6 @@ novelas.forEach(n => {
     <SEO title={title} description={description} image={image} />
 
     <link rel="stylesheet" href="/style.css">
-
 </head>
 <body>
 
@@ -75,7 +75,14 @@ novelas.forEach(n => {
         
         <div class="logo">
             <a href="/">
-                <img src="/logo.png" alt="Novelas Ligeras">
+                <Image 
+                    src="/logo.png" 
+                    alt="Novelas Ligeras"
+                    width={195}
+                    height={45}
+                    quality={80}
+                    format="webp"
+                />
             </a>
         </div>
 
