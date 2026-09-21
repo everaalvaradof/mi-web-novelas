@@ -39,7 +39,7 @@ novelas.forEach(n => {
     
     <!-- Aquí integramos nuestro componente SEO dinámico -->
     <SEO title={title} description={description} image={image} />
-    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
+  
     <link rel="preload" href="/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/style.css"></noscript>
 </head>
