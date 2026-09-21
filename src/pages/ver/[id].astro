@@ -1,5 +1,6 @@
 ---
 export const prerender = true;
+import { Image } from 'astro:assets';
 import MainLayout from '../../layouts/MainLayout.astro';
 import { novelas } from '../../data/novelas.js';
 import Ad from '../../components/Ad.astro';
@@ -47,7 +48,17 @@ const ultimosCapitulos = Array.from({ length: totalCaps - inicioUltimos + 1 }, (
 >
     <div class="novela-container">
         <div class="col-left">
-            <img src={novela.imagen} alt={novela.titulo} class="portada" />
+            <div class="portada-wrapper">
+                <Image 
+                    src={novela.imagen} 
+                    alt={novela.titulo} 
+                    class="portada"
+                    width={250}
+                    height={375}
+                    quality={85}
+                    format="webp"
+                />
+            </div>
             <a href="https://t.me/NovelasligerasOficial" target="_blank" rel="noopener noreferrer" class="btn-pdf">DESCARGAR PDF</a>
         </div>
 
@@ -125,7 +136,8 @@ const ultimosCapitulos = Array.from({ length: totalCaps - inicioUltimos + 1 }, (
     .novela-container { display: flex; gap: 30px; margin-top: 20px; padding: 20px; color: white; }
     .col-left { flex: 0 0 250px; }
     .col-right { width: 100%; }
-    .portada { width: 100%; border-radius: 4px; display: block; }
+    .portada-wrapper { width: 100%; border-radius: 4px; overflow: hidden; }
+    .portada { width: 100%; height: auto; border-radius: 4px; display: block; }
     .btn-pdf { width: 100%; background: #00a86b; color: white; border: none; padding: 10px; margin-top: 10px; cursor: pointer; border-radius: 4px; text-align: center; text-decoration: none; display: block; box-sizing: border-box; }
     
     .lista-capitulos { width: 100%; margin-top: 30px; }
@@ -184,7 +196,7 @@ const ultimosCapitulos = Array.from({ length: totalCaps - inicioUltimos + 1 }, (
             width: 100%; 
         }
         
-        .portada { width: 50%; max-width: 250px; }
+        .portada-wrapper { width: 50%; max-width: 250px; }
         .btn-pdf { width: 50%; min-width: 150px; }
     }
 </style>

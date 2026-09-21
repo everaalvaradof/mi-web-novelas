@@ -1,5 +1,6 @@
 ---
 export const prerender = true;
+import { Image } from 'astro:assets';
 import { novelas } from '../../data/novelas.js';
 import Layout from '../../layouts/MainLayout.astro';
 
@@ -50,7 +51,14 @@ const nombrePaisLimpio = paisSlug ? paisSlug.charAt(0).toUpperCase() + paisSlug.
                 <a href={`/ver/${n.id}`} class="card-link">
                     <div class="card">
                         <div class="image-container">
-                            <img src={n.imagen} alt={n.titulo}>
+                            <Image 
+                                src={n.imagen} 
+                                alt={n.titulo}
+                                width={200}
+                                height={300}
+                                quality={80}
+                                format="webp"
+                            />
                             <span class="year">{n.anio}</span>
                         </div>
                         <div class="card-info">
