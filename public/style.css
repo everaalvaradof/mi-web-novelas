@@ -102,7 +102,7 @@ a:hover {
 
 /* --- Footer --- */
 .main-footer { background-color: #06101a; text-align: center; padding: 30px; margin-top: 40px; border-top: 1px solid #1a3a5a; color: #556677; }
-
+.footer-content p { color: #ffffff}
 /* --- Responsive (Móvil) --- */
 @media (max-width: 768px) {
     .menu-toggle { display: block; }
