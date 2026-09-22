@@ -59,7 +59,7 @@ export const novelas = [
     { 
         id: "004", 
         titulo: "La leyenda del gran sabio", 
-        titulo2: "LEGEND OF THE GREAT SAGE",
+        titulo2: "Legend of the Great Sage, 大圣传",
         genero: "Acción, Aventura, Fantasía, Harem, Artes Marciales, Maduro, Xianxia", 
         anio: "2012", 
         imagen: "/portada/04.webp",
@@ -71,8 +71,8 @@ export const novelas = [
         autor: "Talking about Dreamers",
         tag: "Adaptado a Manhua, Artefactos, Hermosa protagonista femenina, Linajes, Templado corporal, Protagonista tranquilo, Protagonista inteligente, Protagonista frío, Cultivo, Protagonista astuto, Demonios, Protagonista decidido, Dioses, Protagonista trabajador, Inmortales, Protagonista afortunado, Espacio mágico, Protagonista masculino, Múltiples reinos, Venganza, Subtrama romántica, Protagonista despiadado, Salto temporal",
         seo: {
-            title: "Leer LEGEND OF THE GREAT SAGE en Español - Novelas Ligeras",
-            description: "Disfruta de LEGEND OF THE GREAT SAGE en Español completa y traducida al español. Lee todos los capítulos online gratis."
+            title: "Leer Legend of the Great Sage en Español - Novelas Ligeras",
+            description: "Disfruta de Legend of the Great Sage en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
     },
     { 
@@ -115,7 +115,7 @@ export const novelas = [
     }, 
     { 
         id: "007", 
-        titulo: "Viajando y comiendo en otro mundo con habilidades increíbles", 
+        titulo: "Viajando y comiendo en otro mundo", 
         titulo2: "Tondemo Skill de Isekai Hourou Meshi, Campfire Cooking in Another World with My Absurd Skill, とんでもスキルで異世界放浪メシ",
         genero: "Acción, Aventura, Comedia, Fantasía", 
         anio: "2016", 
@@ -166,8 +166,8 @@ export const novelas = [
         autor: "Three and a half meters",
         tag: "Adaptado a Manhua, Artefactos, Hermosa protagonista femenina, Linajes, Templado corporal, Protagonista tranquilo, Protagonista inteligente, Protagonista frío, Cultivo, Protagonista astuto, Demonios, Protagonista decidido, Dioses, Protagonista trabajador, Inmortales, Protagonista afortunado, Espacio mágico, Protagonista masculino, Múltiples reinos, Venganza, Subtrama romántica, Protagonista despiadado, Salto temporal",
         seo: {
-            title: "Leer MARTIAL PEAK en Español - Novelas Ligeras",
-            description: "Disfruta de MARTIAL PEAK en Español completa y traducida al español. Lee todos los capítulos online gratis."
+            title: "Leer Mi bellísima presidenta en Español - Novelas Ligeras",
+            description: "Disfruta de Mi bellísima presidenta en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
     },
     { 
@@ -185,8 +185,8 @@ export const novelas = [
         autor: "The Wind will Laugh",
         tag: "Adaptado a Manhua, Artefactos, Hermosa protagonista femenina, Linajes, Templado corporal, Protagonista tranquilo, Protagonista inteligente, Protagonista frío, Cultivo, Protagonista astuto, Demonios, Protagonista decidido, Dioses, Protagonista trabajador, Inmortales, Protagonista afortunado, Espacio mágico, Protagonista masculino, Múltiples reinos, Venganza, Subtrama romántica, Protagonista despiadado, Salto temporal",
         seo: {
-            title: "Leer MARTIAL PEAK en Español - Novelas Ligeras",
-            description: "Disfruta de MARTIAL PEAK en Español completa y traducida al español. Lee todos los capítulos online gratis."
+            title: "Leer Pico martial en Español - Novelas Ligeras",
+            description: "Disfruta de Pico martial en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
     },
     { 
@@ -211,7 +211,7 @@ export const novelas = [
     { 
         id: "012", 
         titulo: "Mundo marcial", 
-        titulo2: "MARTIAL WORLD",
+        titulo2: "Martial World, 武极天下",
         genero: "Novela Ligera, Acción, Aventura, Fantasía, Harem, Artes Marciales, Xuanhuan", 
         anio: "2012", 
         imagen: "/portada/12.webp",
@@ -223,14 +223,14 @@ export const novelas = [
         autor: "Cocooned Cow",
         tag: "Personajes arrogantes, Artefactos, Bestias, Protagonista femenina hermosa, Linajes, Fortalecimiento corporal, Protagonista tranquilo, Cultivo, Protagonista astuto, Demonios, Intereses amorosos devotos, Dioses, Protagonista masculino apuesto, Protagonista afortunado, Espacio mágico, Protagonista masculino, Monstruos, Múltiples reinos, Subtrama romántica, Romance lento, Salto temporal, Transmigración, Protagonista subestimado, Guerras, De débil a fuerte",
         seo: {
-            title: "Leer MARTIAL WORLD en Español - Novelas Ligeras",
-            description: "Disfruta de MARTIAL WORLD en Español completa y traducida al español. Lee todos los capítulos online gratis."
+            title: "Leer Mundo marcial en Español - Novelas Ligeras",
+            description: "Disfruta de Mundo marcial en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
     },
     { 
         id: "013", 
-        titulo: "Inmortal renegado", 
-        titulo2: "RENEGADE IMMORTAL",
+        titulo: "Renegado Inmortal", 
+        titulo2: "Renegade Immortal, 仙逆",
         genero: "Acción, Aventura, Drama, Fantasía, Novela Ligera, Tragedia, Xianxia", 
         anio: "2012", 
         imagen: "/portada/13.webp",
@@ -242,8 +242,8 @@ export const novelas = [
         autor: "Er Gen",
         tag: "Adaptado a Manhua, Artefactos, Hermosa protagonista femenina, Linajes, Templado corporal, Protagonista tranquilo, Protagonista inteligente, Protagonista frío, Cultivo, Protagonista astuto, Demonios, Protagonista decidido, Dioses, Protagonista trabajador, Inmortales, Protagonista afortunado, Espacio mágico, Protagonista masculino, Múltiples reinos, Venganza, Subtrama romántica, Protagonista despiadado, Salto temporal",
         seo: {
-            title: "Leer INMORTAL RENEGADO en Español - Novelas Ligeras",
-            description: "Disfruta de INMORTAL RENEGADO en Español completa y traducida al español. Lee todos los capítulos online gratis."
+            title: "Leer Renegado Inmortal en Español - Novelas Ligeras",
+            description: "Disfruta de Renegado Inmortal en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
     },
     { 
@@ -325,12 +325,12 @@ export const novelas = [
     { 
         id: "018", 
         titulo: "El hijo abandonado mas fuerte", 
-        titulo2: "STRONGEST ABANDONED SON",
+        titulo2: "Strongest Abandoned Son",
         genero: "Acción, Aventura, Drama, Fantasía, Harem, Artes Marciales, Maduro, Novela Ligera, Romance, Sobrenatural, Xianxia", 
         anio: "2012", 
         imagen: "/portada/18.webp",
         sinopsis: "Cuando Ye Mo despertó de repente, se dio cuenta de que todo lo que le rodeaba parecía haber cambiado: había sido transmigrado a la Tierra moderna, donde la energía espiritual es escasa. Su bonito maestro de su mundo anterior no aparecía por ninguna parte. Y lo que es más importante, se encontró en el cuerpo de un joven que ha sido abandonado por su clan por una razón embarazosa…",
-        totalCapitulos: 3610,
+        totalCapitulos: 2267,
         capitulosPublicados: "Cap 3610",
         categoria: "Terminadas",
         pais: "chinas",
@@ -363,7 +363,7 @@ export const novelas = [
     { 
         id: "020", 
         titulo: "Dios médico urbano", 
-        titulo2: "URBAN MEDICAL GOD",
+        titulo2: "Urban medical god, 都市医神",
         genero: "Novela Ligera, Ranobe, Harem, Vida Urbana", 
         anio: "2012", 
         imagen: "/portada/20.webp",
@@ -400,8 +400,8 @@ export const novelas = [
     },
     { 
         id: "022", 
-        titulo: "Renacimiento en los 90: Seduciendo a mi esposo", 
-        titulo2: "REBIRTH 90S: HOT WIFE FLIRTING – 重生九零辣妻撩夫",
+        titulo: "Renacimiento en los 90", 
+        titulo2: "Rebirth in the 90s – 重生九零辣妻撩夫",
         genero: "Ranobe, Romance", 
         anio: "1566", 
         imagen: "/portada/22.webp",
@@ -419,30 +419,11 @@ export const novelas = [
     },
     { 
         id: "023", 
-        titulo: "Super Gene", 
-        titulo2: "超级神基因",
-        genero: "Aventura, Harem, Mundo Moderno", 
-        anio: "2026", 
-        imagen: "/portada/23.webp",
-        sinopsis: "Cuando la humanidad traspasó la frontera cósmica con la tecnología de la curvatura espacial, se topó con un reino ajeno al tiempo: una extensión desolada bajo un cielo estrellado infinito, desprovista de historia y tierra firme. Esta dimensión alienígena rebosaba de criaturas salvajes y divinas cuya esencia misma irradiaba un poder primigenio. Ante la disyuntiva entre la extinción y la trascendencia, la humanidad se embarcó en su mayor prueba evolutiva, ascendiendo a una era legendaria de conquista bajo cielos alienígenas. Cada bestia caída revelaba sus secretos: almas de bestias cosechadas, carne divina reclamada y genes divinos absorbidos por el ADN humano. El sistema medía su ascensión con fría precisión numérica: matar a un Escarabajo Negro de Sangre Divina otorgaba su alma, su cadáver y de 0 a 10 puntos de genes divinos hacia la evolución sobrehumana. Los guerreros se convertían en leyendas. Los débiles perecían. Solo aquellos que cazaran a los organismos más poderosos forjarían el brillante nuevo destino de la humanidad entre las estrellas.",
-        totalCapitulos: 3462,
-        capitulosPublicados: "3462",
-        categoria: "Terminadas",
-        pais: "Chinas",
-        autor: "Ángel-Oscuro-Ardiente-de-Doce-Aladas",
-        tag: "Acción, Aventura, Ciencia ficción, Comedia, Artes marciales, Xuanhuan, Mecha",
-        seo: {
-            title: "Leer Super Gene en Español - Novelas Ligeras",
-            description: "Disfruta de Super Gene en Español completa y traducida al español. Lee todos los capítulos online gratis."
-        }
-    },
-        { 
-        id: "024", 
         titulo: "El Señor de los Misterios", 
-        titulo2: "LORD OF THE MYSTERIES, 诡秘之主",
+        titulo2: "Lord of the Mysteries, 诡秘之主",
         genero: "Acción, Aventura, Terror, Maduro, Misterio, Novela Ligera, Psicológico, Ranobe, Sobrenatural, Xuanhuan", 
         anio: "2021", 
-        imagen: "/portada/24.webp",
+        imagen: "/portada/23.webp",
         sinopsis: "Con la marea creciente de la energía de vapor y la maquinaria, ¿quién puede acercarse a ser un Beyonder? Envuelto en la niebla de la historia y la oscuridad, ¿quién o qué es el mal que acecha que murmura en nuestros oídos? Al despertar para enfrentarse a una serie de misterios, Zhou Mingrui se reencarna como Klein Moretti en un mundo alternativo de la era victoriana donde ve un mundo lleno de maquinaria, cañones, acorazados, aeronaves, máquinas de diferencia, así como pociones, adivinación, Maleficios, cartas del tarot, artefactos sellados… La Luz sigue brillando pero el misterio nunca ha ido muy lejos. Sigue a Klein mientras se enreda con las Iglesias del mundo, tanto ortodoxas como no ortodoxas, mientras poco a poco desarrolla nuevos poderes gracias a las pociones Beyonder.  Al igual que la carta del tarot correspondiente, The Fool, que tiene el número 0, un número de potencial ilimitado, esta es la leyenda de El Loco.",
         totalCapitulos: 1431,
         capitulosPublicados:"Cap 1431",
@@ -453,6 +434,44 @@ export const novelas = [
         seo: {
             title: "Leer El Señor de los Misterios en Español - Novelas Ligeras",
             description: "Disfruta de El Señor de los Misterios en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
+        id: "024", 
+        titulo: "Invocar un pequeño dragón de fuego", 
+        titulo2: "Summon a Little Fire Dragon, 开局召唤一只小火龙",
+        genero: "Aventuras, Fantasía, Novela ligera, Ranobe", 
+        anio: "2026", 
+        imagen: "/portada/024.jpg",
+        sinopsis: "Maestro Qin, actualmente sólo las mascotas estelares con rango de dios en las estrellas terrestres son capaces de resistir las explosiones nucleares. Pero algunas de las mascotas de batalla registradas en las reliquias son capaces de quemar montañas e hervir el mar, aplastar estrellas, ¿es eso cierto? ¡Por supuesto! El maestro Qin levantó la mano e invocó a un deslumbrante dragón dorado de cinco ojos, de unos 2.000 metros de largo. Con escamas como una casa, el dragón rugió y escupió una columna de luz. La luz se dirigió directamente a los límites exteriores del dominio estelar. Las ondas de fuego generadas por el pilar de luz que rozaba la atmósfera reflejaban toda la cúpula celeste como si se tratara de un mar de fuego de tres mil metros que fluye hacia el noveno cielo. La explosión produjo una onda circular de aire que fue claramente visible en la superficie del planeta.",
+        totalCapitulos: 1283,
+        capitulosPublicados: "1283",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Ancestor-Toad",
+        tag: "Compañeros Bestiales, Protagonista Frío, Dragones, Protagonista Masculino, Protagonista Todopoderoso, Protagonista Despiadado, Sistema, Transmigración",
+        seo: {
+            title: "Leer Invocar un pequeño dragón de fuego en Español - Novelas Ligeras",
+            description: "Disfruta de Invocar un pequeño dragón de fuego en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
+        id: "25", 
+        titulo: "El reverendo demente", 
+        titulo2: "Reverend Insanity, 仙逆",
+        genero: "Acción, Aventura, Fantasía, Maduro, Misterio, Novela ligera, Psicológico, Ranobe, Xianxia", 
+        anio: "2025", 
+        imagen: "/portada/25.jpg",
+        sinopsis: "Los humanos son el espíritu de todos los seres vivos, Gu son la esencia del cielo y la tierra. Con sus tres puntos de vista injustos, un demonio renace. Los días anteriores no son más que un viejo sueño, un nombre idéntico se hace de nuevo. La historia de un viajero del tiempo que sigue renaciendo. Un mundo único que nutre, refina y utiliza a Gu. La Cigarra de Otoño de la Primavera, la Gu de la Luz de la Luna, el Gusano del Licor, el Gusano de la Luz Dorada del Gran Qi, la Gu del Cabello Negro Esbelto, la Gu de la Esperanza… ¡Y un gran demonio del mundo que actúa a su antojo!!! La historia de un villano, Fang Yuan, que renació 500 años en el pasado con la Cigarra de Otoño de Primavera que refinó minuciosamente. Con su profunda sabiduría, sus batallas y sus experiencias vitales, intenta vencer a sus enemigos con habilidad e ingenio. Despiadado y amoral, no tiene necesidad de contenerse mientras persigue sus objetivos finales. En un mundo de crueldad en el que se cultiva utilizando a los Gu -criaturas mágicas del mundo-, Fang Yuan debe elevarse por encima de todo con su propio poder.",
+        totalCapitulos: 2311,
+        capitulosPublicados: "2311",
+        categoria: "Terminadas",
+        pais: "chinas",
+        autor: "Gu-Zhen-Ren",
+        tag: "Adaptado a Manhua, Artefactos, Protagonista tranquilo, Protagonista inteligente, Protagonista frío, Cultivo, Protagonista astuto, Protagonista trabajador, Ocultando verdaderas habilidades, Ocultando verdadera identidad, Inmortales, Protagonista masculino, Protagonista despiadado, Planes y conspiraciones, Protagonista desvergonzado, Habilidades especiales, Protagonista subestimado, Guerras, De débil a fuerte",
+        seo: {
+            title: "Leer El reverendo demente en Español - Novelas Ligeras",
+            description: "Disfruta de El reverendo demente en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
     }
 ];
