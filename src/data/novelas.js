@@ -1,13 +1,13 @@
 export const novelas = [
     { 
-        id: "01", 
+        id: "001", 
         titulo: "king prodigio inmortal", 
         titulo2: "King, the Immortal Prodigy",
         genero: "Xianxia, Venezuela", 
         anio: "2021", 
         imagen: "/portada/01.webp",
         sinopsis: "Un doctor con poderes milagrosos...",
-        totalCapitulos: 181,
+        totalCapitulos: 181, 
         capitulosPublicados:"Cap 181",
         categoria: "Estrenos",
         pais: "Coreanas",
@@ -19,7 +19,7 @@ export const novelas = [
         }
     },
     { 
-        id: "02", 
+        id: "002", 
         titulo: "El yerno millonario", 
         titulo2: "the millionaire son-in-law, Charlie Wade",
         genero: "Acción, Aventura, Fantasía, Harem, Artes Marciales, Maduro, Xianxia", 
@@ -38,7 +38,7 @@ export const novelas = [
         }
     },
     { 
-        id: "03", 
+        id: "003", 
         titulo: "Biblioteca del camino celestial", 
         titulo2: "Library of Heavens Path",
         genero: "Acción, Aventura, Fantasía, Harem, Artes Marciales, Maduro, Xianxia", 
@@ -57,7 +57,7 @@ export const novelas = [
         }
     },
     { 
-        id: "04", 
+        id: "004", 
         titulo: "La leyenda del gran sabio", 
         titulo2: "LEGEND OF THE GREAT SAGE",
         genero: "Acción, Aventura, Fantasía, Harem, Artes Marciales, Maduro, Xianxia", 
@@ -76,7 +76,7 @@ export const novelas = [
         }
     },
     { 
-        id: "05", 
+        id: "005", 
         titulo: "Soy el heredero más rico de la humanidad", 
         titulo2: "I AM THE RICHEST HEIR OF MANKIND, 我是首富继承人",
         genero: "Novela Ligera, Romance, Urbano", 
@@ -95,7 +95,7 @@ export const novelas = [
         }
     },
     { 
-        id: "06", 
+        id: "006", 
         titulo: "Matrimonio Escondido", 
         titulo2: "Hidden Marriage, Chọc Tức Vợ Yêu - Mua Một Tặng Một",
         genero: "Acción, Drama, Harem, Artes Marciales, Seinen, Xuanhuan", 
@@ -112,9 +112,9 @@ export const novelas = [
             title: "Leer Matrimonio Escondido en Español - Novelas Ligeras",
             description: "Disfruta de Matrimonio Escondido en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
-    },
+    }, 
     { 
-        id: "07", 
+        id: "007", 
         titulo: "Viajando y comiendo en otro mundo con habilidades increíbles", 
         titulo2: "Tondemo Skill de Isekai Hourou Meshi, Campfire Cooking in Another World with My Absurd Skill, とんでもスキルで異世界放浪メシ",
         genero: "Acción, Aventura, Comedia, Fantasía", 
@@ -133,7 +133,7 @@ export const novelas = [
         }
     },
     { 
-        id: "08", 
+        id: "008", 
         titulo: "Invencible", 
         titulo2: "Invincible",
         genero: "Acción, Drama, Harem, Artes Marciales, Seinen, Xuanhuan",
@@ -152,7 +152,7 @@ export const novelas = [
         }
     },
     { 
-        id: "09", 
+        id: "009", 
         titulo: "Mi bellísima presidenta", 
         titulo2: "My extremely beautiful president, 我的极品美女总裁",
         genero: "Novela Ligera, Romance, Xianxia", 
@@ -171,7 +171,7 @@ export const novelas = [
         }
     },
     { 
-        id: "10", 
+        id: "010", 
         titulo: "Pico martial", 
         titulo2: "Wǔ Liàn Diān Fēng, 武 炼 巅峰",
         genero: "Acción, Aventura, Fantasía, Harem, Artes Marciales, Maduro, Xianxia", 
@@ -190,7 +190,7 @@ export const novelas = [
         }
     },
     { 
-        id: "11", 
+        id: "011", 
         titulo: "Doctora emperatriz piadosa", 
         titulo2: "Wǔ Liàn Diān Fēng, 武 炼 巅峰",
         genero: "Acción, Aventura, Fantasía, Harem, Artes Marciales, Maduro, Xianxia", 
@@ -209,7 +209,7 @@ export const novelas = [
         }
     },
     { 
-        id: "12", 
+        id: "012", 
         titulo: "Mundo marcial", 
         titulo2: "MARTIAL WORLD",
         genero: "Novela Ligera, Acción, Aventura, Fantasía, Harem, Artes Marciales, Xuanhuan", 
@@ -228,7 +228,7 @@ export const novelas = [
         }
     },
     { 
-        id: "13", 
+        id: "013", 
         titulo: "Inmortal renegado", 
         titulo2: "RENEGADE IMMORTAL",
         genero: "Acción, Aventura, Drama, Fantasía, Novela Ligera, Tragedia, Xianxia", 
@@ -247,7 +247,7 @@ export const novelas = [
         }
     },
     { 
-        id: "14", 
+        id: "014", 
         titulo: "Gran Rey Demonio", 
         titulo2: "大魔王",
         genero: "Acción, Aventura, Ecchi, Fantasía, Harem, Artes Marciales, Novela Ligera, Xuanhuan", 
@@ -266,7 +266,7 @@ export const novelas = [
         }
     },
     { 
-        id: "15", 
+        id: "015", 
         titulo: "Emperador alquimista del Divino Dao", 
         titulo2: "Alchemist Emperor of the Divine Dao, 神道丹尊",
         genero: "Acción, Fantasía, Artes Marciales, Novela Ligera", 
@@ -285,7 +285,7 @@ export const novelas = [
         }
     },
     { 
-        id: "16", 
+        id: "016", 
         titulo: "Hombre súper rico", 
         titulo2: "Super Rich Man",
         genero: "Romance, Multimillonario, Traición, Venganza, Urbano, Jóvenes adultos, Destino", 
@@ -304,7 +304,7 @@ export const novelas = [
         }
     },
     { 
-        id: "17", 
+        id: "017", 
         titulo: "Matrimonio cariñoso y persistente", 
         titulo2: "Affectionate and persistent marriage, 深情而长久的婚姻",
         genero: "Novela Ligera, Romance", 
@@ -323,7 +323,7 @@ export const novelas = [
         }
     },
     { 
-        id: "18", 
+        id: "018", 
         titulo: "El hijo abandonado mas fuerte", 
         titulo2: "STRONGEST ABANDONED SON",
         genero: "Acción, Aventura, Drama, Fantasía, Harem, Artes Marciales, Maduro, Novela Ligera, Romance, Sobrenatural, Xianxia", 
@@ -342,7 +342,7 @@ export const novelas = [
         }
     },
     { 
-        id: "19", 
+        id: "019", 
         titulo: "Tiranía del acero", 
         titulo2: "Tyranny of Steel",
         genero: "Harem, Histórico, Acción, Romance, Aventura", 
@@ -361,7 +361,7 @@ export const novelas = [
         }
     },
     { 
-        id: "20", 
+        id: "020", 
         titulo: "Dios médico urbano", 
         titulo2: "URBAN MEDICAL GOD",
         genero: "Novela Ligera, Ranobe, Harem, Vida Urbana", 
@@ -380,7 +380,7 @@ export const novelas = [
         }
     },
     { 
-        id: "21", 
+        id: "021", 
         titulo: "Renacimiento de una chica fea", 
         titulo2: "Rebirth of an Ugly Girl Turned Around, 重生丑女翻身：帝少甜宠鉴宝娇妻",
         genero: "Drama, Romance, Vida Urbana,", 
@@ -399,7 +399,7 @@ export const novelas = [
         }
     },
     { 
-        id: "22", 
+        id: "022", 
         titulo: "Renacimiento en los 90: Seduciendo a mi esposo", 
         titulo2: "REBIRTH 90S: HOT WIFE FLIRTING – 重生九零辣妻撩夫",
         genero: "Ranobe, Romance", 
@@ -418,7 +418,7 @@ export const novelas = [
         }
     },
     { 
-        id: "23", 
+        id: "023", 
         titulo: "Super Gene", 
         titulo2: "超级神基因",
         genero: "Aventura, Harem, Mundo Moderno", 
@@ -437,7 +437,7 @@ export const novelas = [
         }
     },
         { 
-        id: "24", 
+        id: "024", 
         titulo: "El Señor de los Misterios", 
         titulo2: "LORD OF THE MYSTERIES, 诡秘之主",
         genero: "Acción, Aventura, Terror, Maduro, Misterio, Novela Ligera, Psicológico, Ranobe, Sobrenatural, Xuanhuan", 
