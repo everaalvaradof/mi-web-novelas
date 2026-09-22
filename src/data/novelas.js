@@ -342,22 +342,22 @@ export const novelas = [
         }
     },
     { 
-        id: "019", 
-        titulo: "Tiranía del acero", 
-        titulo2: "Tyranny of Steel",
-        genero: "Harem, Histórico, Acción, Romance, Aventura", 
-        anio: "2012", 
-        imagen: "/portada/19.webp",
-        sinopsis: "Julian Weber es un oficial del Cuerpo de Ingenieros del Ejército de los Estados Unidos y graduado de la Academia Militar de West Point con un título en ingeniería civil. Al finalizar la intervención estadounidense en Afganistán, el teniente Julian Weber se ve envuelto en un ataque terrorista de los talibanes que le cuesta la vida. Sin embargo, pronto descubre que la muerte no siempre es definitiva, ya que reencarna en el cuerpo del hijo y heredero de un barón en una Tierra alternativa ambientada en la Europa bajomedieval. En una época de agitación política y conflictos civiles, el joven hijo del barón es nombrado regente de la baronía de Kufstein y se ve obligado a enfrentarse a los poderes feudales. ¿Podrá implementar reformas que lleven a su baronía a la era industrial? ¿O sucumbirá a la presión de sus señores feudales y una iglesia corrupta que busca el dominio absoluto?",
-        totalCapitulos: 1261,
-        capitulosPublicados: "Cap 1261",
+       id: "019", 
+        titulo: "Técnica de Fortalecimiento Ancestral", 
+        titulo2: "Ancient Strengthening Technique, 上古强身术",
+        genero: "Acción, Actualización, Comedia, Fantasía, Artes Marciales, Novela Ligera, Ranobe, Xuanhuan", 
+        anio: "2026", 
+        imagen: "/portada/019.jpg",
+        sinopsis: "En un mundo que respeta las artes marciales, Qing Shui, que tiene un físico débil, es incapaz de cultivarse y no tiene dónde vengarlo. Las antiguas habilidades de fortalecimiento físico que obtuvo accidentalmente le permitieron remodelar su cuerpo, ¡y el camino hacia la genialidad se ha disparado!  Obteniendo diagramas de yin y yang, practicando técnicas de armas ocultas y haciendo píldoras de alto nivel, el niño chai desperdiciado, pero de repente quiere agitar este universo…",
+        totalCapitulos: 2564,
+        capitulosPublicados: "2564",
         categoria: "Terminadas",
-        pais: "chinas",
-        autor: "Zentmeister",
-        tag: "Adaptado a Manhua, Artefactos, Hermosa protagonista femenina, Linajes, Templado corporal, Protagonista tranquilo, Protagonista inteligente, Protagonista frío, Cultivo, Protagonista astuto, Demonios, Protagonista decidido, Dioses, Protagonista trabajador, Inmortales, Protagonista afortunado, Espacio mágico, Protagonista masculino, Múltiples reinos, Venganza, Subtrama romántica, Protagonista despiadado, Salto temporal",
+        pais: "Chinas",
+        autor: "I-Am-Superfluous",
+        tag: "",
         seo: {
-            title: "Leer Tiranía del acero en Español - Novelas Ligeras",
-            description: "Disfruta de Tiranía del acero en Español completa y traducida al español. Lee todos los capítulos online gratis."
+            title: "Leer Técnica de Fortalecimiento Ancestral en Español - Novelas Ligeras",
+            description: "Disfruta de Técnica de Fortalecimiento Ancestral en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
     },
     { 
