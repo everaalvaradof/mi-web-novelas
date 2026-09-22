@@ -347,7 +347,7 @@ export const novelas = [
         titulo2: "Ancient Strengthening Technique, 上古强身术",
         genero: "Acción, Actualización, Comedia, Fantasía, Artes Marciales, Novela Ligera, Ranobe, Xuanhuan", 
         anio: "2026", 
-        imagen: "/portada/019.jpg",
+        imagen: "/portada/19.jpg",
         sinopsis: "En un mundo que respeta las artes marciales, Qing Shui, que tiene un físico débil, es incapaz de cultivarse y no tiene dónde vengarlo. Las antiguas habilidades de fortalecimiento físico que obtuvo accidentalmente le permitieron remodelar su cuerpo, ¡y el camino hacia la genialidad se ha disparado!  Obteniendo diagramas de yin y yang, practicando técnicas de armas ocultas y haciendo píldoras de alto nivel, el niño chai desperdiciado, pero de repente quiere agitar este universo…",
         totalCapitulos: 2564,
         capitulosPublicados: "2564",
