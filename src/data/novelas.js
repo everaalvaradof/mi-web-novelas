@@ -442,7 +442,7 @@ export const novelas = [
         titulo2: "Summon a Little Fire Dragon, 开局召唤一只小火龙",
         genero: "Aventuras, Fantasía, Novela ligera, Ranobe", 
         anio: "2026", 
-        imagen: "/portada/024.webp",
+        imagen: "/portada/24.webp",
         sinopsis: "Maestro Qin, actualmente sólo las mascotas estelares con rango de dios en las estrellas terrestres son capaces de resistir las explosiones nucleares. Pero algunas de las mascotas de batalla registradas en las reliquias son capaces de quemar montañas e hervir el mar, aplastar estrellas, ¿es eso cierto? ¡Por supuesto! El maestro Qin levantó la mano e invocó a un deslumbrante dragón dorado de cinco ojos, de unos 2.000 metros de largo. Con escamas como una casa, el dragón rugió y escupió una columna de luz. La luz se dirigió directamente a los límites exteriores del dominio estelar. Las ondas de fuego generadas por el pilar de luz que rozaba la atmósfera reflejaban toda la cúpula celeste como si se tratara de un mar de fuego de tres mil metros que fluye hacia el noveno cielo. La explosión produjo una onda circular de aire que fue claramente visible en la superficie del planeta.",
         totalCapitulos: 1283,
         capitulosPublicados: "1283",
@@ -456,7 +456,7 @@ export const novelas = [
         }
     },
     { 
-        id: "25", 
+        id: "025", 
         titulo: "El reverendo demente", 
         titulo2: "Reverend Insanity, 仙逆",
         genero: "Acción, Aventura, Fantasía, Maduro, Misterio, Novela ligera, Psicológico, Ranobe, Xianxia", 
@@ -472,6 +472,25 @@ export const novelas = [
         seo: {
             title: "Leer El reverendo demente en Español - Novelas Ligeras",
             description: "Disfruta de El reverendo demente en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
+        id: "26", 
+        titulo: "EL REY DEMONÍACO PERSIGUE A SU ESPOSA", 
+        titulo2: "THE DEMONIC KING CHASES HIS WIFE",
+        genero: "Acción, Aventura, Fantasía, Josei, Artes Marciales, Maduro, Novela Ligera, Romance, Shoujo, Xianxia", 
+        anio: "2026", 
+        imagen: "/portada/26.jpg",
+        sinopsis: "Ella, la reconocida asesina del siglo XXI, ha cruzado la frontera para convertirse en la cuarta señorita Soo Manor más inútil. Él, la majestad imperial del Imperio Jin, era un tirano demoníaco dominante desapasionado con un talento incomparable. Todos sabían que ella era una basura y se burlaban de ella a su antojo. Pero solo él, un tirano imperioso con una mirada astuta, simplemente no la dejaría ir, incluso si su vida dependiera de ello.  Por ahora, veamos cómo se desarrolla el testarudo enfrentamiento en este buen espectáculo del perseguidor y el perseguido.",
+        totalCapitulos: 11732,
+        capitulosPublicados: "11732",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Su-Xiao-Nuan",
+        tag: "Alquimia, Personajes arrogantes, Compañeros bestiales, Bestias, Hermosa protagonista femenina, Protagonista inteligente, Cultivo, Intereses amorosos devotos, Dragones, Protagonista femenina, Apuesto protagonista masculino, El interés amoroso se enamora primero, Magia, Espacio mágico, Protagonista despiadado, Intereses amorosos fuertes, Transmigración, Protagonista subestimado, De débil a fuerte",
+        seo: {
+            title: "Leer EL REY DEMONÍACO PERSIGUE A SU ESPOSA en Español - Novelas Ligeras",
+            description: "Disfruta de EL REY DEMONÍACO PERSIGUE A SU ESPOSA en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
     }
 ];
