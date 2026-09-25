@@ -480,7 +480,7 @@ export const novelas = [
         titulo2: "THE DEMONIC KING CHASES HIS WIFE",
         genero: "Acción, Aventura, Fantasía, Josei, Artes Marciales, Maduro, Novela Ligera, Romance, Shoujo, Xianxia", 
         anio: "2026", 
-        imagen: "/portada/26.jpg",
+        imagen: "/portada/26.webp",
         sinopsis: "Ella, la reconocida asesina del siglo XXI, ha cruzado la frontera para convertirse en la cuarta señorita Soo Manor más inútil. Él, la majestad imperial del Imperio Jin, era un tirano demoníaco dominante desapasionado con un talento incomparable. Todos sabían que ella era una basura y se burlaban de ella a su antojo. Pero solo él, un tirano imperioso con una mirada astuta, simplemente no la dejaría ir, incluso si su vida dependiera de ello.  Por ahora, veamos cómo se desarrolla el testarudo enfrentamiento en este buen espectáculo del perseguidor y el perseguido.",
         totalCapitulos: 11732,
         capitulosPublicados: "11732",
