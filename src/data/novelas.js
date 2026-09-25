@@ -476,7 +476,7 @@ export const novelas = [
     },
     { 
         id: "26", 
-        titulo: "Deiberson", 
+        titulo: "El rey demoníaco persigue a su esposa", 
         titulo2: "THE DEMONIC KING CHASES HIS WIFE",
         genero: "Acción, Aventura, Fantasía, Josei, Artes Marciales, Maduro, Novela Ligera, Romance, Shoujo, Xianxia", 
         anio: "2026", 
