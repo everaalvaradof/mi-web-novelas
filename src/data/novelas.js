@@ -476,7 +476,7 @@ export const novelas = [
     },
     { 
         id: "26", 
-        titulo: "EL REY DEMONÍACO PERSIGUE A SU ESPOSA", 
+        titulo: "Deiberson", 
         titulo2: "THE DEMONIC KING CHASES HIS WIFE",
         genero: "Acción, Aventura, Fantasía, Josei, Artes Marciales, Maduro, Novela Ligera, Romance, Shoujo, Xianxia", 
         anio: "2026", 
@@ -489,8 +489,8 @@ export const novelas = [
         autor: "Su-Xiao-Nuan",
         tag: "Alquimia, Personajes arrogantes, Compañeros bestiales, Bestias, Hermosa protagonista femenina, Protagonista inteligente, Cultivo, Intereses amorosos devotos, Dragones, Protagonista femenina, Apuesto protagonista masculino, El interés amoroso se enamora primero, Magia, Espacio mágico, Protagonista despiadado, Intereses amorosos fuertes, Transmigración, Protagonista subestimado, De débil a fuerte",
         seo: {
-            title: "Leer EL REY DEMONÍACO PERSIGUE A SU ESPOSA en Español - Novelas Ligeras",
-            description: "Disfruta de EL REY DEMONÍACO PERSIGUE A SU ESPOSA en Español completa y traducida al español. Lee todos los capítulos online gratis."
+            title: "Leer El rey demoníaco persigue a su esposa en Español - Novelas Ligeras",
+            description: "Disfruta de El rey demoníaco persigue a su esposa en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
     }
 ];
