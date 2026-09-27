@@ -3,6 +3,11 @@ import { Image } from 'astro:assets';
 import MainLayout from '../layouts/MainLayout.astro';
 import { novelas } from '../data/novelas.js';
 
+// Función slugify robusta idéntica a la del resto de tus páginas
+function slugify(texto: string): string {
+    return texto.toString().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, "-").replace(/[^\w\-]+/g, "").replace(/\-\-+/g, "-");
+}
+
 const estrenos = novelas.filter(n => n.categoria === 'Estrenos');
 const actualizadas = novelas.filter(n => n.categoria === 'Actualizadas');
 const terminadas = novelas.filter(n => n.categoria === 'Terminadas');
@@ -28,7 +33,7 @@ const terminadas = novelas.filter(n => n.categoria === 'Terminadas');
                 const esLcp = index === 0;
 
                 return (
-                    <a href={`/ver/${n.id}`} class="card-link">
+                    <a href={`/ver/${slugify(n.titulo)}`} class="card-link">
                         <div class="card">
                             <div class="image-container">
                                 <Image 
@@ -60,7 +65,7 @@ const terminadas = novelas.filter(n => n.categoria === 'Terminadas');
         </div>
         <div class="novelas-grid">
             {actualizadas.slice(0, 10).map(n => (
-                <a href={`/ver/${n.id}`} class="card-link">
+                <a href={`/ver/${slugify(n.titulo)}`} class="card-link">
                     <div class="card">
                         <div class="image-container">
                             <Image 
@@ -90,7 +95,7 @@ const terminadas = novelas.filter(n => n.categoria === 'Terminadas');
         </div>
         <div class="novelas-grid">
             {terminadas.slice(0, 10).map(n => (
-                <a href={`/ver/${n.id}`} class="card-link">
+                <a href={`/ver/${slugify(n.titulo)}`} class="card-link">
                     <div class="card">
                         <div class="image-container">
                             <Image 
