@@ -5,10 +5,9 @@ import path from 'node:path';
 import MainLayout from '../../../layouts/MainLayout.astro';
 import Ad from '../../../components/Ad.astro';
 import { novelas } from '../../../data/novelas.js';
+import { slugify } from '../../../utils/slugify.js';
 
-function slugify(texto: string): string {
-    return texto.toString().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, "-").replace(/[^\w\-]+/g, "").replace(/\-\-+/g, "-");
-}
+
 
 // Definimos la interfaz para los parámetros estáticos
 interface PathProps {
