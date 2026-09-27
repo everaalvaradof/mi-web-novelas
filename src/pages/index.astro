@@ -75,7 +75,7 @@ const terminadas = novelas.filter(n => n.categoria === 'Terminadas');
                         </div>
                         <div class="card-info">
                             <h3>{n.titulo}</h3>
-                            <h3>{n.capitulosPublicados}</h3>
+                            <p class="chapters">{n.capitulosPublicados}</p>
                         </div>
                     </div>
                 </a>
@@ -105,7 +105,7 @@ const terminadas = novelas.filter(n => n.categoria === 'Terminadas');
                         </div>
                         <div class="card-info">
                             <h3>{n.titulo}</h3>
-                            <h3>{n.capitulosPublicados}</h3>
+                            <p class="chapters">{n.capitulosPublicados}</p>
                         </div>
                     </div>
                 </a>
@@ -129,5 +129,14 @@ const terminadas = novelas.filter(n => n.categoria === 'Terminadas');
     .ver-todo {
         color: #00a86b;
         text-decoration: none;
+    }
+    .card-info h3 {
+        font-size: 1rem;
+        margin-bottom: 4px;
+    }
+    .card-info .chapters {
+        font-size: 0.85rem;
+        color: #666;
+        margin: 0;
     }
 </style>

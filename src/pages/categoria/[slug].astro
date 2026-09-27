@@ -5,6 +5,9 @@ import MainLayout from '../../layouts/MainLayout.astro';
 import { novelas } from '../../data/novelas.js';
 import Ad from '../../components/Ad.astro';
 
+// Función para convertir títulos en slugs limpios
+const slugify = (str: string) => str ? str.trim().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '') : '';
+
 // 1. Generamos las rutas estáticas usando estrictamente 'slug'
 export function getStaticPaths() {
     const slugsSet = new Set<string>();
@@ -56,7 +59,7 @@ const tituloLimpio = slug ? slug.charAt(0).toUpperCase() + slug.slice(1).replace
     <div class="novelas-grid">
         {paginatedData.length > 0 ? (
             paginatedData.map((n) => (
-                <a href={`/ver/${n.id}`} class="card-link">
+                <a href={`/ver/${slugify(n.titulo)}`} class="card-link">
                     <div class="card">
                         <div class="image-container">
                             <Image 
@@ -71,7 +74,7 @@ const tituloLimpio = slug ? slug.charAt(0).toUpperCase() + slug.slice(1).replace
                         </div>
                         <div class="card-info">
                             <h3>{n.titulo}</h3>
-                            <h3>{n.capitulosPublicados}</h3>
+                            <p class="chapters">{n.capitulosPublicados}</p>
                         </div>
                     </div>
                 </a>
@@ -99,6 +102,31 @@ const tituloLimpio = slug ? slug.charAt(0).toUpperCase() + slug.slice(1).replace
 </MainLayout>
 
 <style>
-    .pagination { display: flex; gap: 1rem; margin-top: 2rem; justify-content: center; align-items: center; }
-    .pagination a { padding: 0.5rem 1rem; border: 1px solid #ccc; text-decoration: none; border-radius: 4px; }
+    .card-link {
+        text-decoration: none;
+        color: inherit;
+        display: block;
+    }
+    .card-info h3 {
+        font-size: 1rem;
+        margin-bottom: 4px;
+    }
+    .card-info .chapters {
+        font-size: 0.85rem;
+        color: #666;
+        margin: 0;
+    }
+    .pagination { 
+        display: flex; 
+        gap: 1rem; 
+        margin-top: 2rem; 
+        justify-content: center; 
+        align-items: center; 
+    }
+    .pagination a { 
+        padding: 0.5rem 1rem; 
+        border: 1px solid #ccc; 
+        text-decoration: none; 
+        border-radius: 4px; 
+    }
 </style>

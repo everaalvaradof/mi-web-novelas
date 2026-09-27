@@ -1,4 +1,5 @@
 ---
+export const prerender = true;
 import { Image } from 'astro:assets';
 import { novelas } from '../data/novelas.js'; 
 import SEO from '../components/SEO.astro';
@@ -11,13 +12,18 @@ const {
     image = "/logo.png" 
 } = Astro.props;
 
+// Función auxiliar robusta para limpiar URLs de géneros y categorías
+const slugify = (str: string) => str ? str.trim().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '') : '';
+
 // 1. Contar géneros con tipado explícito para evitar errores TS7053
 const conteoGeneros: Record<string, number> = {};
 novelas.forEach(n => {
     if (n.genero) {
         n.genero.split(',').forEach(g => {
             const generoLimpio = g.trim();
-            conteoGeneros[generoLimpio] = (conteoGeneros[generoLimpio] || 0) + 1;
+            if (generoLimpio) {
+                conteoGeneros[generoLimpio] = (conteoGeneros[generoLimpio] || 0) + 1;
+            }
         });
     }
 });
@@ -27,7 +33,9 @@ const conteoCategoria: Record<string, number> = {};
 novelas.forEach(n => {
     if (n.categoria) {
         const cat = n.categoria.trim();
-        conteoCategoria[cat] = (conteoCategoria[cat] || 0) + 1;
+        if (cat) {
+            conteoCategoria[cat] = (conteoCategoria[cat] || 0) + 1;
+        }
     }
 });
 ---
@@ -41,20 +49,18 @@ novelas.forEach(n => {
     <SEO title={title} description={description} image={image} />
   
     <link rel="preload" href="/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="/style.css"></noscript>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2925864807000838"
-     crossorigin="anonymous"></script>
-
-     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2925864807000838"
+    <noscript><link rel="stylesheet" href="/style.css"></noscript>
+    
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2925864807000838"
      crossorigin="anonymous"></script>
 </head>
 <body>
 
     <header class="main-header">
-        <button class="menu-toggle">☰</button>
+        <button class="menu-toggle" aria-label="Abrir menú">☰</button>
 
         <nav class="mobile-menu">
-            <button class="close-menu">✕</button>
+            <button class="close-menu" aria-label="Cerrar menú">✕</button>
             <ul>
                 <li><a href="/">Inicio .com</a></li>
                 <li><a href="/pais/chinas/1">Chinas</a></li>
@@ -63,7 +69,7 @@ novelas.forEach(n => {
             <ul>
                 {Object.entries(conteoGeneros).map(([genero, cantidad]) => (
                     <li>
-                        <a href={`/genero/${genero.toLowerCase().replace(' ', '-')}/1`}>
+                        <a href={`/genero/${slugify(genero)}/1`}>
                             {genero} ({cantidad})
                         </a>
                     </li>
@@ -72,7 +78,7 @@ novelas.forEach(n => {
              <h3>Estado</h3>
                 <ul class="estado">
                     {Object.entries(conteoCategoria).map(([cat, cantidad]) => (
-                        <li><a href={`/categoria/${cat.toLowerCase().replace(' ', '-')}/1`}>{cat} ({cantidad})</a></li>
+                        <li><a href={`/categoria/${slugify(cat)}/1`}>{cat} ({cantidad})</a></li>
                     ))}
                 </ul>
         </nav>
@@ -102,7 +108,7 @@ novelas.forEach(n => {
         </nav>
 
         <form action="/buscar" method="GET" class="search-box">
-            <button type="submit">🔍</button>
+            <button type="submit" aria-label="Buscar">🔍</button>
         </form>
     </header>
 
@@ -119,12 +125,12 @@ novelas.forEach(n => {
                     return (
                         <>
                             {top5.map(([genero, cantidad]) => (
-                                <li><a href={`/genero/${genero.toLowerCase().replace(' ', '-')}/1`}>{genero} ({cantidad})</a></li>
+                                <li><a href={`/genero/${slugify(genero)}/1`}>{genero} ({cantidad})</a></li>
                             ))}
 
                             {resto.map(([genero, cantidad]) => (
                                 <li class="genero-oculto" style="display: none;">
-                                    <a href={`/genero/${genero.toLowerCase().replace(' ', '-')}/1`}>{genero} ({cantidad})</a>
+                                    <a href={`/genero/${slugify(genero)}/1`}>{genero} ({cantidad})</a>
                                 </li>
                             ))}
 
@@ -143,7 +149,7 @@ novelas.forEach(n => {
             <h3>Estado</h3>
             <ul class="estado">
                 {Object.entries(conteoCategoria).map(([cat, cantidad]) => (
-                    <li><a href={`/categoria/${cat.toLowerCase().replace(' ', '-')}/1`}>{cat} ({cantidad})</a></li>
+                    <li><a href={`/categoria/${slugify(cat)}/1`}>{cat} ({cantidad})</a></li>
                 ))}
             </ul>
         </aside>

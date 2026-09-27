@@ -3,6 +3,11 @@ import { Image } from 'astro:assets';
 import MainLayout from '../layouts/MainLayout.astro';
 import { novelas } from '../data/novelas.js';
 
+// Función slugify robusta idéntica a la del resto de tus páginas
+function slugify(texto: string): string {
+    return texto.toString().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, "-").replace(/[^\w\-]+/g, "").replace(/\-\-+/g, "-");
+}
+
 // Capturamos el término de búsqueda por si vienen desde la barra del header (?q=...)
 const initialQuery = Astro.url.searchParams.get('q') || '';
 
@@ -93,7 +98,7 @@ const listaAutores = Array.from(autoresSet).sort((a: any, b: any) => a.localeCom
             <div class="novelas-grid">
                 {novelas.map((n) => (
                     <a 
-                        href={`/ver/${n.id}`} 
+                        href={`/ver/${slugify(n.titulo)}`} 
                         class="card-link novel-item"
                         data-status={n.categoria ? n.categoria.toLowerCase().trim() : ''}
                         data-genre={n.genero ? n.genero.toLowerCase() : ''}
