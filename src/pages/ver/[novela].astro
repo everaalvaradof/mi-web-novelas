@@ -38,7 +38,7 @@ interface GrupoCapitulo {
 const grupos: GrupoCapitulo[] = [];
 for (let i = 1; i <= novela.totalCapitulos; i += 100) {
     const fin = Math.min(i + 99, novela.totalCapitulos);
-    grupos.push({ inicio: i, fin: fin }); // Corregido: se usa 'grupos' en lugar de 'groups'
+    grupos.push({ inicio: i, fin: fin });
 }
 
 const totalCaps = novela.totalCapitulos;
