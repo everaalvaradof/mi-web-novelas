@@ -4,11 +4,7 @@ import { Image } from 'astro:assets';
 import MainLayout from '../../../layouts/MainLayout.astro';
 import { novelas } from '../../../data/novelas.js';
 import Ad from '../../../components/Ad.astro';
-
-// Función slugify robusta idéntica a la del resto de tus páginas
-function slugify(texto: string): string {
-    return texto.toString().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, "-").replace(/[^\w\-]+/g, "").replace(/\-\-+/g, "-");
-}
+import { slugify } from '../../../utils/slugify.js';
 
 // 1. Generamos las rutas estáticas de forma totalmente blindada
 export function getStaticPaths() {
@@ -106,7 +102,7 @@ const generoLimpio = genero ? genero.charAt(0).toUpperCase() + genero.slice(1).r
                         </div>
                         <div class="card-info">
                             <h3>{n.titulo}</h3>
-                            <h3>{n.capitulosPublicados}</h3>
+                            <p class="chapters">{n.capitulosPublicados}</p>
                         </div>
                     </div>
                 </a>
@@ -121,19 +117,44 @@ const generoLimpio = genero ? genero.charAt(0).toUpperCase() + genero.slice(1).r
     </div>
 
     <nav class="pagination">
-    {prevUrl ? (
-        <a href={prevUrl}>
-            ⬅️ Anterior
-        </a>
-    ) : null}
-    
-    <span>Página {currentPage} de {lastPage}</span>
-    
-    {nextUrl ? <a href={nextUrl}>Siguiente ➡️</a> : null}
-</nav>
+        {prevUrl ? (
+            <a href={prevUrl}>
+                ⬅️ Anterior
+            </a>
+        ) : null}
+        
+        <span>Página {currentPage} de {lastPage}</span>
+        
+        {nextUrl ? <a href={nextUrl}>Siguiente ➡️</a> : null}
+    </nav>
 </MainLayout>
 
 <style>
-    .pagination { display: flex; gap: 1rem; margin-top: 2rem; justify-content: center; align-items: center; }
-    .pagination a { padding: 0.5rem 1rem; border: 1px solid #ccc; text-decoration: none; border-radius: 4px; }
+    .card-link {
+        text-decoration: none;
+        color: inherit;
+        display: block;
+    }
+    .card-info h3 {
+        font-size: 1rem;
+        margin-bottom: 4px;
+    }
+    .card-info .chapters {
+        font-size: 0.85rem;
+        color: #666;
+        margin: 0;
+    }
+    .pagination { 
+        display: flex; 
+        gap: 1rem; 
+        margin-top: 2rem; 
+        justify-content: center; 
+        align-items: center; 
+    }
+    .pagination a { 
+        padding: 0.5rem 1rem; 
+        border: 1px solid #ccc; 
+        text-decoration: none; 
+        border-radius: 4px; 
+    }
 </style>

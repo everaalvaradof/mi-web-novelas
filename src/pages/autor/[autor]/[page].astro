@@ -4,9 +4,7 @@ import { Image } from 'astro:assets';
 import MainLayout from '../../../layouts/MainLayout.astro';
 import { novelas } from '../../../data/novelas.js';
 import Ad from '../../../components/Ad.astro';
-
-// Función para convertir títulos en slugs limpios
-const slugify = (str: string) => str ? str.trim().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '') : '';
+import { slugify } from '../../../utils/slugify.js';
 
 // 1. Generamos las rutas estáticas para cada autor y cada una de sus páginas de paginación
 export function getStaticPaths() {

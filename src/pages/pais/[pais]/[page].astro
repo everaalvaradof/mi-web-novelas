@@ -4,11 +4,7 @@ import { Image } from 'astro:assets';
 import MainLayout from '../../../layouts/MainLayout.astro';
 import { novelas } from '../../../data/novelas.js';
 import Ad from '../../../components/Ad.astro';
-
-// Función slugify robusta idéntica a la del resto de tus páginas
-function slugify(texto: string): string {
-    return texto.toString().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, "-").replace(/[^\w\-]+/g, "").replace(/\-\-+/g, "-");
-}
+import { slugify } from '../../../utils/slugify.js';
 
 // 1. Generamos las rutas estáticas para cada país y todas sus páginas de paginación
 export function getStaticPaths() {
