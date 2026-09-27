@@ -1,4 +1,5 @@
 import { novelas } from '../data/novelas.js';
+import { slugify } from '../utils/slugify.js';
 
 export const prerender = true;
 
@@ -12,10 +13,10 @@ export async function GET() {
         `${baseUrl}/`,
     ];
 
-    // 1. Novelas individuales (detalle)
+    // 1. Novelas individuales (detalle con slug amigable)
     novelas.forEach(n => {
-        if (n.id) {
-            urls.push(`${baseUrl}/ver/${n.id}`);
+        if (n.titulo) {
+            urls.push(`${baseUrl}/ver/${slugify(n.titulo)}`);
         }
     });
 
@@ -63,10 +64,12 @@ export async function GET() {
     const autoresMap: Record<string, number> = {};
     novelas.forEach(n => {
         if (n.autor) {
-            const slug = formatSlug(n.autor);
-            if (slug) {
-                autoresMap[slug] = (autoresMap[slug] || 0) + 1;
-            }
+            n.autor.split(',').forEach(a => {
+                const slug = formatSlug(a);
+                if (slug) {
+                    autoresMap[slug] = (autoresMap[slug] || 0) + 1;
+                }
+            });
         }
     });
 
