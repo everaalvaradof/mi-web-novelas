@@ -7,8 +7,6 @@ import Ad from '../../../components/Ad.astro';
 import { novelas } from '../../../data/novelas.js';
 import { slugify } from '../../../utils/slugify.js';
 
-
-
 // Definimos la interfaz para los parámetros estáticos
 interface PathProps {
     params: {
@@ -104,164 +102,165 @@ const capSiguiente = capNum < totalCapitulos ? `/vercap/${novelaSlug}/${capNum +
             </div>
         </div>
     </div>
-     <style>
-        .lector-wrapper {
-            max-width: 900px;
-            margin: 2rem auto;
-            padding: 0 1rem;
-        }
-        .lector-box {
-            padding: 2rem;
-            background: #1e293b;
-            border-radius: 8px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
-            color: #e2e8f0;
-        }
-        .btn-tool {
-            width: 40px;
-            height: 40px;
-            border-radius: 50%;
-            border: none;
-            background: #0d3b66;
-            color: white;
-            cursor: pointer;
-            font-weight: bold;
-        }
-        .btn-tool:hover { background: #1d4ed8; }
-        
-        .nav-btn {
-            background: #2a9d8f;
-            color: white;
-            padding: 12px 18px;
-            border-radius: 25px;
-            text-decoration: none;
-            font-weight: bold;
-            display: inline-flex;
-            justify-content: center;
-            align-items: center;
-            flex: 1;
-            text-align: center;
-            min-width: 110px;
-        }
-        .nav-btn:hover { background: #21867a; }
-        .nav-btn.disabled {
-            background: #475569;
-            opacity: 0.5;
-            pointer-events: none;
-        }
-        .btn-home {
-            background: #0d3b66;
-        }
-        .btn-home:hover {
-            background: #1d4ed8;
-        }
 
-        .navegacion-capitulos {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin: 30px 0;
-            padding: 1rem 0;
-            border-top: 1px solid #334155;
-            border-bottom: 1px solid #334155;
-            gap: 10px;
-        }
+    <style>
+        .lector-wrapper {
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        .lector-box {
+            padding: 2rem;
+            background: #1e293b;
+            border-radius: 8px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+            color: #e2e8f0;
+        }
+        .btn-tool {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            border: none;
+            background: #0d3b66;
+            color: white;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        .btn-tool:hover { background: #1d4ed8; }
+        
+        .nav-btn {
+            background: #2a9d8f;
+            color: white;
+            padding: 12px 18px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: bold;
+            display: inline-flex;
+            justify-content: center;
+            align-items: center;
+            flex: 1;
+            text-align: center;
+            min-width: 110px;
+        }
+        .nav-btn:hover { background: #21867a; }
+        .nav-btn.disabled {
+            background: #475569;
+            opacity: 0.5;
+            pointer-events: none;
+        }
+        .btn-home {
+            background: #0d3b66;
+        }
+        .btn-home:hover {
+            background: #1d4ed8;
+        }
 
-        @media (max-width: 640px) {
-            .navegacion-capitulos {
-                flex-direction: column;
-                gap: 12px;
-            }
-            .nav-btn {
-                width: 100%;
-                flex: none;
-            }
-        }
+        .navegacion-capitulos {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 30px 0;
+            padding: 1rem 0;
+            border-top: 1px solid #334155;
+            border-bottom: 1px solid #334155;
+            gap: 10px;
+        }
 
-        .titulo-capitulo { color: #f8fafc; font-size: 2rem; margin-bottom: 1.5rem; }
-        #main-content { font-size: 1.2rem; line-height: 1.8; color: #cbd5e1; }
-        #main-content p { margin-bottom: 1.5rem; }
-    </style>
+        @media (max-width: 640px) {
+            .navegacion-capitulos {
+                flex-direction: column;
+                gap: 12px;
+            }
+            .nav-btn {
+                width: 100%;
+                flex: none;
+            }
+        }
 
-    <script>
-    document.addEventListener('DOMContentLoaded', () => {
-        const btnLeer = document.getElementById('leer-btn');
-        const cuerpoCapitulo = document.getElementById('cuerpo-capitulo');
+        .titulo-capitulo { color: #f8fafc; font-size: 2rem; margin-bottom: 1.5rem; }
+        #main-content { font-size: 1.2rem; line-height: 1.8; color: #cbd5e1; }
+        #main-content p { margin-bottom: 1.5rem; }
+    </style>
 
-        btnLeer?.addEventListener('click', () => {
-            window.speechSynthesis.cancel();
-            const texto = cuerpoCapitulo?.innerText || "";
-            const speech = new SpeechSynthesisUtterance(texto);
-            speech.lang = 'es-ES';
-            window.speechSynthesis.speak(speech);
-        });
+    <script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const btnLeer = document.getElementById('leer-btn');
+        const cuerpoCapitulo = document.getElementById('cuerpo-capitulo');
 
-        const adMedio = document.getElementById('ad-medio') as HTMLElement | null;
-        if (cuerpoCapitulo && adMedio) {
-            const parrafos = cuerpoCapitulo.querySelectorAll('p');
-            if (parrafos.length > 0) {
-                const indiceMedio = Math.floor(parrafos.length / 2);
-                parrafos[indiceMedio].after(adMedio);
-                adMedio.style.display = 'block';
-            }
-        }
+        btnLeer?.addEventListener('click', () => {
+            window.speechSynthesis.cancel();
+            const texto = cuerpoCapitulo?.innerText || "";
+            const speech = new SpeechSynthesisUtterance(texto);
+            speech.lang = 'es-ES';
+            window.speechSynthesis.speak(speech);
+        });
 
-        const container = document.getElementById('main-content');
-        const paragraphs = container?.querySelectorAll('p') as NodeListOf<HTMLElement> | undefined;
-        const tituloEl = document.querySelector('.titulo-capitulo') as HTMLElement | null;
-        
-        const btnMas = document.querySelector('.btn-mas');
-        const btnMenos = document.querySelector('.btn-menos');
+        const adMedio = document.getElementById('ad-medio') as HTMLElement | null;
+        if (cuerpoCapitulo && adMedio) {
+            const parrafos = cuerpoCapitulo.querySelectorAll('p');
+            if (parrafos.length > 0) {
+                const indiceMedio = Math.floor(parrafos.length / 2);
+                parrafos[indiceMedio].after(adMedio);
+                adMedio.style.display = 'block';
+            }
+        }
 
-        if (paragraphs && paragraphs.length > 0) {
-            const savedSize = localStorage.getItem('fontSize');
-            if (savedSize) paragraphs.forEach(p => p.style.fontSize = savedSize + 'px');
-            
-            btnMas?.addEventListener('click', () => {
-                let size = parseInt(window.getComputedStyle(paragraphs[0]).fontSize);
-                size += 2;
-                paragraphs.forEach(p => p.style.fontSize = size + 'px');
-                localStorage.setItem('fontSize', size.toString());
-            });
-            
-            btnMenos?.addEventListener('click', () => {
-                let size = parseInt(window.getComputedStyle(paragraphs[0]).fontSize);
-                size -= 2;
-                paragraphs.forEach(p => p.style.fontSize = size + 'px');
-                localStorage.setItem('fontSize', size.toString());
-            });
-        }
+        const container = document.getElementById('main-content');
+        const paragraphs = container?.querySelectorAll('p') as NodeListOf<HTMLElement> | undefined;
+        const tituloEl = document.querySelector('.titulo-capitulo') as HTMLElement | null;
+        
+        const btnMas = document.querySelector('.btn-mas');
+        const btnMenos = document.querySelector('.btn-menos');
 
-        const btnModo = document.querySelector('.btn-modo');
-        const box = document.getElementById('lector-box') as HTMLElement | null;
-        
-        if (localStorage.getItem('darkMode') === 'false') {
-            document.body.style.backgroundColor = '#f1f5f9';
-            document.body.style.color = '#000000';
-            if (box) box.style.backgroundColor = '#c8daf7';
-            if (paragraphs) paragraphs.forEach(p => p.style.setProperty('color', '#000000', 'important'));
-            if (tituloEl) tituloEl.style.setProperty('color', '#000000', 'important');
-        }
+        if (paragraphs && paragraphs.length > 0) {
+            const savedSize = localStorage.getItem('fontSize');
+            if (savedSize) paragraphs.forEach(p => p.style.fontSize = savedSize + 'px');
+            
+            btnMas?.addEventListener('click', () => {
+                let size = parseInt(window.getComputedStyle(paragraphs[0]).fontSize);
+                size += 2;
+                paragraphs.forEach(p => p.style.fontSize = size + 'px');
+                localStorage.setItem('fontSize', size.toString());
+            });
+            
+            btnMenos?.addEventListener('click', () => {
+                let size = parseInt(window.getComputedStyle(paragraphs[0]).fontSize);
+                size -= 2;
+                paragraphs.forEach(p => p.style.fontSize = size + 'px');
+                localStorage.setItem('fontSize', size.toString());
+            });
+        }
 
-        btnModo?.addEventListener('click', () => {
-            const isDark = document.body.style.backgroundColor !== 'rgb(241, 245, 249)';
-            
-            document.body.style.backgroundColor = isDark ? '#f1f5f9' : '#0f172a';
-            document.body.style.color = isDark ? '#000000' : '#e2e8f0';
-            if (box) box.style.backgroundColor = isDark ? '#c8daf7' : '#1e293b';
-            
-            if (paragraphs) {
-                paragraphs.forEach(p => {
-                    p.style.setProperty('color', isDark ? '#000000' : '#e2e8f0', 'important');
-                });
-            }
+        const btnModo = document.querySelector('.btn-modo');
+        const box = document.getElementById('lector-box') as HTMLElement | null;
+        
+        if (localStorage.getItem('darkMode') === 'false') {
+            document.body.style.backgroundColor = '#f1f5f9';
+            document.body.style.color = '#000000';
+            if (box) box.style.backgroundColor = '#c8daf7';
+            if (paragraphs) paragraphs.forEach(p => p.style.setProperty('color', '#000000', 'important'));
+            if (tituloEl) tituloEl.style.setProperty('color', '#000000', 'important');
+        }
 
-            if (tituloEl) {
-                tituloEl.style.setProperty('color', isDark ? '#000000' : '#ffffff', 'important');
-            }
-            
-            localStorage.setItem('darkMode', isDark ? 'false' : 'true');
-        });
-    });
-    </script>
+        btnModo?.addEventListener('click', () => {
+            const isDark = document.body.style.backgroundColor !== 'rgb(241, 245, 249)';
+            
+            document.body.style.backgroundColor = isDark ? '#f1f5f9' : '#0f172a';
+            document.body.style.color = isDark ? '#000000' : '#e2e8f0';
+            if (box) box.style.backgroundColor = isDark ? '#c8daf7' : '#1e293b';
+            
+            if (paragraphs) {
+                paragraphs.forEach(p => {
+                    p.style.setProperty('color', isDark ? '#000000' : '#e2e8f0', 'important');
+                });
+            }
+
+            if (tituloEl) {
+                tituloEl.style.setProperty('color', isDark ? '#000000' : '#ffffff', 'important');
+            }
+            
+            localStorage.setItem('darkMode', isDark ? 'false' : 'true');
+        });
+    });
+    </script>
 </MainLayout>
