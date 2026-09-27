@@ -492,5 +492,24 @@ export const novelas = [
             title: "Leer El rey demoníaco persigue a su esposa en Español - Novelas Ligeras",
             description: "Disfruta de El rey demoníaco persigue a su esposa en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
+    },
+    { 
+        id: "027", 
+        titulo: "Jugador que Regresó 10.000 años Después", 
+        titulo2: "Player Who Returned 10,000 Years Later",
+        genero: "Acción, comedia, fantasía, artes marciales, novela ligera, romance", 
+        anio: "2003", 
+        imagen: "/portada/27.webp",
+        sinopsis: "Oh Kang Woo de repente se encontró en el reino inferior, en el infierno. Solo había un deseo en ese momento: sobrevivir. No se rindió, quería vivir sin importar nada. Y se necesita fuerza para sobrevivir … muy poderosa. Se  consumió demonios por los cientos de miles. Incluso los siete grandes demonios del infierno cayeron ante él. Pero cuando todo el infierno se hundió, quiso volver a casa. No hay comida ni entretenimiento en el infierno, todo lo que hay son llanuras desérticas ndkxy terribles demonios. Después de vivir 10 mil años en el infierno, decidió regresar a la Tierra. El diablo de la profecía…",
+        totalCapitulos: 520,
+        capitulosPublicados: "520",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Kegok-de-mariposa",
+        tag: "Compañeros Bestiales, Hermosa Protagonista Femenina, Protagonista Tranquilo, Protagonista Inteligente, Demonios, Dragones, Elementos del Juego, Dioses, Magia, Protagonista Masculino, Época Moderna, Monstruos, Protagonista Todopoderoso, Poligamia, Habilidades Especiales",
+        seo: {
+            title: "Leer Jugador que Regresó 10.000 años Después en Español - Novelas Ligeras",
+            description: "Disfruta de Jugador que Regresó 10.000 años Después en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
     }
 ];
