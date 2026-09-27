@@ -1,0 +1,107 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+import MainLayout from '../../../layouts/MainLayout.astro';
+import Ad from '../../../components/Ad.astro';
+import { novelas } from '../../../data/novelas.js';
+
+function slugify(texto: string): string {
+    return texto.toString().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, "-").replace(/[^\w\-]+/g, "").replace(/\-\-+/g, "-");
+}
+
+// Definimos la interfaz para los parámetros estáticos
+interface PathProps {
+    params: {
+        novela: string;
+        capitulo: string;
+    };
+    props: {
+        novelaId: string;
+    };
+}
+
+export function getStaticPaths() {
+    const paths: PathProps[] = [];
+    novelas.forEach(novela => {
+        const novelaSlug = slugify(novela.titulo);
+        for (let i = 1; i <= novela.totalCapitulos; i++) {
+            paths.push({
+                params: { novela: novelaSlug, capitulo: i.toString() },
+                props: { novelaId: novela.id }
+            });
+        }
+    });
+    return paths;
+}
+
+const { novela: novelaSlug, capitulo } = Astro.params;
+const capNum = parseInt(capitulo!, 10);
+
+const novela = novelas.find(n => slugify(n.titulo) === novelaSlug);
+
+if (!novela) {
+    return Astro.redirect('/404');
+}
+
+const novelaId = novela.id;
+const totalCapitulos = novela.totalCapitulos;
+const nombreNovela = novela.titulo;
+
+// Buscamos el archivo markdown usando el ID interno guardado en data/capitulos/[novelaId]/
+const filePath = path.join(process.cwd(), 'src', 'data', 'capitulos', novelaId, `capitulo-${capNum}.md`);
+
+if (!fs.existsSync(filePath)) {
+    return Astro.redirect('/404');
+}
+
+const fileContent = fs.readFileSync(filePath, 'utf-8');
+const matchTitle = fileContent.match(/titulo:\s*"([^"]+)"/) || fileContent.match(/titulo:\s*([^\r\n]+)/);
+const titulo = matchTitle ? matchTitle[1]!.replace(/['"]/g, '').trim() : `Capítulo ${capNum}`;
+
+const cleanMarkdown = fileContent.replace(/---[\s\S]*?---/, '').trim();
+const htmlContent = cleanMarkdown
+    .split('\n')
+    .map(parrafo => parrafo.trim() ? `<p>${parrafo}</p>` : '')
+    .join('');
+
+const capAnterior = capNum > 1 ? `/vercap/${novelaSlug}/${capNum - 1}` : null;
+const capSiguiente = capNum < totalCapitulos ? `/vercap/${novelaSlug}/${capNum + 1}` : null;
+---
+
+<MainLayout noSidebar={true} title={`${nombreNovela} ${titulo} - Novelas Ligeras`}>
+    <div class="lector-wrapper">
+        <div class="lector-box" id="lector-box">
+            <div style="display: flex; gap: 10px; margin-bottom: 20px;">
+                <button class="btn-tool btn-menos">-</button>
+                <button class="btn-tool btn-mas">+</button>
+                <button class="btn-tool btn-modo">🌙</button>
+                <button id="leer-btn" class="btn-tool">🔊</button>
+            </div>
+
+            <!-- Navegación Superior -->
+            <div class="navegacion-capitulos">
+                {capAnterior ? <a href={capAnterior} class="nav-btn">← Anterior</a> : <span class="nav-btn disabled">← Anterior</span>}
+                <a href={`/ver/${novelaSlug}`} class="nav-btn btn-home">🏠 Índice</a>
+                {capSiguiente ? <a href={capSiguiente} class="nav-btn">Siguiente →</a> : <span class="nav-btn disabled">Siguiente →</span>}
+            </div>
+
+            <h1 class="titulo-capitulo">{nombreNovela} - {titulo}</h1>
+            
+            <div id="main-content">
+                <Ad />
+                <div id="cuerpo-capitulo" set:html={htmlContent} />
+                <div id="ad-medio" style="display:none; margin: 20px 0;">
+                    <Ad />
+                </div>
+                <Ad />
+            </div>
+
+            <!-- Navegación Inferior -->
+            <div class="navegacion-capitulos">
+                {capAnterior ? <a href={capAnterior} class="nav-btn">← Anterior</a> : <span class="nav-btn disabled">← Anterior</span>}
+                <a href={`/ver/${novelaSlug}`} class="nav-btn btn-home">🏠 Índice</a>
+                {capSiguiente ? <a href={capSiguiente} class="nav-btn">Siguiente →</a> : <span class="nav-btn disabled">Siguiente →</span>}
+            </div>
+        </div>
+    </div>
+</MainLayout>

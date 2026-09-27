@@ -5,59 +5,52 @@ import MainLayout from '../../layouts/MainLayout.astro';
 import { novelas } from '../../data/novelas.js';
 import Ad from '../../components/Ad.astro';
 
-// 1. Añadimos getStaticPaths para que Astro mapee todas las novelas desde tu archivo de datos en modo estático
+// Función para transformar títulos en slugs amigables con tipado explícito
+function slugify(texto: string): string {
+    return texto.toString().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, "-").replace(/[^\w\-]+/g, "").replace(/\-\-+/g, "-");
+}
+
 export function getStaticPaths() {
     return novelas.map(n => ({
-        params: { id: n.id }
+        params: { novela: slugify(n.titulo) },
+        props: { idReal: n.id }
     }));
 }
 
-// Capturamos el ID directamente de la URL de forma dinámica
-const { id } = Astro.params;
+const { novela: novelaSlug } = Astro.params;
 
-// Buscamos la novela que coincida con ese ID
-const novela = novelas.find(n => n.id === id);
+// Buscamos la novela comparando el slug del título
+const novela = novelas.find(n => slugify(n.titulo) === novelaSlug);
 
-// Si por alguna razón no existe la novela, mandamos un error 404 limpio
 if (!novela) {
     return Astro.redirect('/404');
 }
 
-// Usamos el SEO configurado en tu objeto de novela, con respaldos automáticos
 const seoTitle = novela.seo?.title || `${novela.titulo} en Español - Novelas Ligeras`;
 const seoDescription = novela.seo?.description || novela.sinopsis;
 
-// Lógica para crear grupos de 100 capítulos (sin cargar los archivos pesados)
-const grupos = [];
-for (let i = 1; i <= novela.totalCapitulos; i += 100) {
-    const fin = Math.min(i + 99, novela.totalCapitulos);
-    grupos.push({ inicio: i, fin: fin });
+// Tipamos explícitamente el arreglo 'grupos' para evitar errores de TypeScript
+interface GrupoCapitulo {
+    inicio: number;
+    fin: number;
 }
 
-// Lógica para obtener los últimos 10 capítulos publicados
+const grupos: GrupoCapitulo[] = [];
+for (let i = 1; i <= novela.totalCapitulos; i += 100) {
+    const fin = Math.min(i + 99, novela.totalCapitulos);
+    grupos.push({ inicio: i, fin: fin }); // Corregido: se usa 'grupos' en lugar de 'groups'
+}
+
 const totalCaps = novela.totalCapitulos;
 const inicioUltimos = Math.max(1, totalCaps - 9);
 const ultimosCapitulos = Array.from({ length: totalCaps - inicioUltimos + 1 }, (_, i) => inicioUltimos + i);
 ---
 
-<MainLayout 
-    noSidebar={true} 
-    title={seoTitle} 
-    description={seoDescription} 
-    image={novela.imagen}
->
+<MainLayout noSidebar={true} title={seoTitle} description={seoDescription} image={novela.imagen}>
     <div class="novela-container">
         <div class="col-left">
             <div class="portada-wrapper">
-                <Image 
-                    src={novela.imagen} 
-                    alt={novela.titulo} 
-                    class="portada"
-                    width={250}
-                    height={375}
-                    quality={85}
-                    format="webp"
-                />
+                <Image src={novela.imagen} alt={novela.titulo} class="portada" width={250} height={375} quality={85} format="webp" />
             </div>
             <a href="https://t.me/NovelasligerasOficial" target="_blank" rel="noopener noreferrer" class="btn-pdf">DESCARGAR PDF</a>
         </div>
@@ -65,25 +58,19 @@ const ultimosCapitulos = Array.from({ length: totalCaps - inicioUltimos + 1 }, (
         <div class="col-right">
             <h1>{novela.titulo.toUpperCase()}</h1>
             <p><strong>Año:</strong> &nbsp;{novela.anio}</p>
-            <p>
-               <strong>Género:</strong> &nbsp;
-                    {novela.genero.split(',').map((g, index) => (
-                        <>
-                        <a href={`/genero/${g.trim().toLowerCase().replace(' ', '-')}/1`}>
-                            {g.trim()}
-                        </a>
-                        {index < novela.genero.split(',').length - 1 ? ', ' : ''}
-                        </>
-                    ))}
+            <p><strong>Género:</strong> &nbsp;
+                {novela.genero.split(',').map((g, index) => (
+                    <>
+                    <a href={`/genero/${g.trim().toLowerCase().replace(' ', '-')}/1`}>{g.trim()}</a>
+                    {index < novela.genero.split(',').length - 1 ? ', ' : ''}
+                    </>
+                ))}
             </p>
-            <p>
-                <strong>Autor:</strong>&nbsp;
+            <p><strong>Autor:</strong>&nbsp;
                 {novela.autor ? novela.autor.split(',').map((a, index) => (
                     <>
-                        <a href={`/autor/${a.trim().toLowerCase().replace(/\s+/g, '-')}/1`}>
-                            {a.trim()}
-                        </a>
-                        {index < novela.autor.split(',').length - 1 ? ', ' : ''}
+                    <a href={`/autor/${a.trim().toLowerCase().replace(/\s+/g, '-')}/1`}>{a.trim()}</a>
+                    {index < novela.autor.split(',').length - 1 ? ', ' : ''}
                     </>
                 )) : 'Desconocido'}
             </p>
@@ -95,13 +82,12 @@ const ultimosCapitulos = Array.from({ length: totalCaps - inicioUltimos + 1 }, (
             <h5><strong>Tag:</strong> {novela.tag}</h5>
 
             <div class="lista-capitulos">
-                
-                <!-- MINI LISTA DE ÚLTIMOS CAPÍTULOS -->
+                <!-- ÚLTIMOS CAPÍTULOS CON URL AMIGABLE -->
                 <div class="ultimos-capitulos-box">
                     <h3>Últimos Capítulos Publicados</h3>
                     <div class="grid-capitulos ultimos-grid">
                         {ultimosCapitulos.map(num => (
-                            <a href={`/vercap?id=${novela.id}_${num}`} class="cap-link cap-reciente">
+                            <a href={`/vercap/${novelaSlug}/${num}`} class="cap-link cap-reciente">
                                 {num}
                             </a>
                         ))}
@@ -109,19 +95,16 @@ const ultimosCapitulos = Array.from({ length: totalCaps - inicioUltimos + 1 }, (
                 </div>
 
                 <h3>Lista de Capítulos</h3>
-                
                 {grupos.map(grupo => (
                     <details class="grupo-capitulos">
                         <summary>Capítulos {grupo.inicio} - {grupo.fin}</summary>
-                        
                         <div class="grid-capitulos">
                             {Array.from({ length: grupo.fin - grupo.inicio + 1 }, (_, i) => grupo.inicio + i).map(num => (
-                                <a href={`/vercap?id=${novela.id}_${num}`} class="cap-link">
+                                <a href={`/vercap/${novelaSlug}/${num}`} class="cap-link">
                                     {num}
                                 </a>
                             ))}
                         </div>
-
                         <div class="ad-container" style="margin: 20px 0; text-align: center;">
                             <Ad />
                         </div>
