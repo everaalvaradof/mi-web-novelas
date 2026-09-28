@@ -108,6 +108,9 @@ export async function GET() {
     <url>
         <loc>${url}</loc>
     </url>`).join('')}
+    <url>
+        <loc>${baseUrl}/buscar</loc>
+    </url>
 </urlset>`;
 
     return new Response(sitemapXml.trim(), {
