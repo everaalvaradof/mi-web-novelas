@@ -511,5 +511,41 @@ export const novelas = [
             title: "Leer Jugador que Regresó 10.000 años Después en Español - Novelas Ligeras",
             description: "Disfruta de Jugador que Regresó 10.000 años Después en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
+    },    { 
+        id: "028", 
+        titulo: "Douluo Dalu 3: La leyenda del rey dragón", 
+        titulo2: "Douluo Dalu 3: The Legend of the Dragon King",
+        genero: "Acción, Aventura, Comedia, Fantasía, Artes Marciales, Ranobe, Romance, Vida Escolar, Sobrenatural", 
+        anio: "2026", 
+        imagen: "/portada/28.webp",
+        sinopsis: "La Era de los Dioses hace tiempo que terminó, sus voces ya no se escuchan en el continente de Doulo. La humanidad, apoyada en los hombros de las leyendas de su historia, ha hecho avanzar la tecnología del alma hasta cotas increíbles. El pueblo de Doulo inventó las armas de destrucción masiva, las armaduras mecanizadas y los metales vivos. Con estos avances pasaron a conquistar los océanos y a descubrir dos nuevos continentes. Para alimentar estas nuevas tecnologías, la humanidad cazó bestias del alma hasta el borde de la extinción. En su día la fuerza dominante del Dulo, las pocas almas de bestia supervivientes acechan ahora en los rincones más oscuros de su último santuario. Todos los más débiles fueron cazados, dejando sólo a los más fuertes en el centro del bosque. El alma de las bestias, no dispuesta a desvanecerse, trama una rebelión para su supervivencia. En medio de esto, el dios de la edad profunda olvidada despierta en las profundidades de la Gran Estrella Doe para vengar el alma de las bestias. Mientras la oscuridad invade el abismo, la esperanza se encuentra en un joven que posee poderes más allá de la divinidad: ¡Tang Wulin! La esperanza de la humanidad y el alma de las bestias, como puente entre ambas. Se abre paso en los legendarios salones de la Academia Shrek, donde aprende a manejar sus impresionantes poderes, hace amigos y encuentra aliados, hasta llegar a convertirse en un imponente líder. Mientras aprende a utilizar su poder, el peligro acecha en las sombras, ya que las distintas facciones de la humanidad maniobran y conspiran para usurpar la Academia Shrek. Tan Wulin descubre una amenaza para el único mundo que conoce mientras se adentra en la intriga. Mientras tanto, envuelta en el caos y sin que los humanos lo sepan, una conspiración de bestias con alma sigue evolucionando constantemente. Para proteger lo que ama y recuperar lo que se ha perdido, Tang Wulin debe encontrar el legado de las leyendas del pasado y desbloquear todo el poder del Rey Dragón Dorado.",
+        totalCapitulos: 1983,
+        capitulosPublicados: "1983",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Tang-Family-Sanshao",
+        tag: "",
+        seo: {
+            title: "Leer Douluo Dalu 3: La leyenda del rey dragón en Español - Novelas Ligeras",
+            description: "Disfruta de Douluo Dalu 3: La leyenda del rey dragón en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },    { 
+        id: "029", 
+        titulo: "BRUJO DEL MUNDO DE LOS MAGOS", 
+        titulo2: "WARLOCK OF THE MAGUS WORLD - 巫界术士",
+        genero: "Acción, Aventura, Fantasía, Harem, Artes Marciales, Misterio, Novela Ligera, Psicológico, Ranobe, Ciencia Ficción", 
+        anio: "2026", 
+        imagen: "/portada/29.webp",
+        sinopsis: "Leylin viaja con su cerebro para convertirse en un aprendiz de mago aristocrático. Al usar sus propias ventajas, aprende a ser un mago, gana la herencia del mago, se embarca en el camino de la sangre y lleva a cabo una serie de aventuras en lo misterioso y extraño mundo mágico, y finalmente gana la historia de la eternidad. Cuando un científico futurista es transportado al cuerpo de un joven en un mundo de fantasía, su curiosidad y deseo de poder lo hacen anhelar la magia. En un mundo sin piedad, Leylin no se avergüenza de hacer algo si eso significa ganar. Es frío, despiadado y calculador, nunca crea apegos que puedan interferir con su objetivo fina. ¿Honor? Quién es… Hmmm… este tipo parece demasiado poderoso para que yo lo aguante ahora… Es mejor no hablar oooooo. Huimo. ¿Quieres que te ayude? ¿Cómo puedo beneficiarme de esto? ¿Nada? Adiós. Hmmm… este tipo parece que podría causarme problemas en el futuro. Es mejor aclararlo ahora antes de que se convierta en un GRAN problema. Brujo del Mundo Mago es una novela de fantasía occidental escrita por Wen Zhaogong, el autor del sitio web chino de punto de partida. Esta obra es el segundo libro de Wen Zhaogong. La parte del escenario está tomada de “El mundo mágico”, pero no tenga la oportunidad de escribir su propio estilo.",
+        totalCapitulos: 1197,
+        capitulosPublicados: "1197",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Wen-Chao Gong",
+        tag: "Compañeros Bestiales, Bestias, Hermosa Protagonista Femenina, Protagonista Tranquilo, Protagonista Inteligente, Protagonista Frío, Protagonista Astuto, Protagonista Determinado, Dragones, Protagonista Genio, Apuesto Protagonista Masculino, Magia, Protagonista Masculino, Política, Reencarnación, Subtrama Romántica, Romance Lento, Transmigración, Guerras",
+        seo: {
+            title: "Leer BRUJO DEL MUNDO DE LOS MAGOS en Español - Novelas Ligeras",
+            description: "Disfruta de BRUJO DEL MUNDO DE LOS MAGOS en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
     }
 ];
