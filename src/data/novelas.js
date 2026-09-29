@@ -529,9 +529,10 @@ export const novelas = [
             title: "Leer Douluo Dalu 3: La leyenda del rey dragón en Español - Novelas Ligeras",
             description: "Disfruta de Douluo Dalu 3: La leyenda del rey dragón en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
-    },    { 
+    },
+    { 
         id: "029", 
-        titulo: "BRUJO DEL MUNDO DE LOS MAGOS", 
+        titulo: "Brujos del mundo de los magos", 
         titulo2: "WARLOCK OF THE MAGUS WORLD - 巫界术士",
         genero: "Acción, Aventura, Fantasía, Harem, Artes Marciales, Misterio, Novela Ligera, Psicológico, Ranobe, Ciencia Ficción", 
         anio: "2026", 
@@ -544,8 +545,46 @@ export const novelas = [
         autor: "Wen-Chao Gong",
         tag: "Compañeros Bestiales, Bestias, Hermosa Protagonista Femenina, Protagonista Tranquilo, Protagonista Inteligente, Protagonista Frío, Protagonista Astuto, Protagonista Determinado, Dragones, Protagonista Genio, Apuesto Protagonista Masculino, Magia, Protagonista Masculino, Política, Reencarnación, Subtrama Romántica, Romance Lento, Transmigración, Guerras",
         seo: {
-            title: "Leer BRUJO DEL MUNDO DE LOS MAGOS en Español - Novelas Ligeras",
-            description: "Disfruta de BRUJO DEL MUNDO DE LOS MAGOS en Español completa y traducida al español. Lee todos los capítulos online gratis."
+            title: "Leer Brujo del Mundo de los Magos en Español - Novelas Ligeras",
+            description: "Disfruta de Brujo del Mundo de los Magos en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+        { 
+        id: "030", 
+        titulo: "El imperio del señor", 
+        titulo2: "THE LORD’S EMPIRE, Lingzhu Zhi Bing Fa Tiaxia, 领主 之 兵伐 天下",
+        genero: "Acción, Aventura, Fantasía, Harem, Histórico, Artes Marciales, Maduro, Novela Ligera, Ranobe, Sobrenatural, Xuanhuan", 
+        anio: "2026", 
+        imagen: "/portada/030.webp",
+        sinopsis: "¡Decano! la atadura del alma se ha completado; Ahora irás al mundo de Waking Heaven. Al escuchar esto, la cara de Zhao Fu se oscureció mientras caía al suelo. Con sombrías perspectivas en el mundo real, la vida de Zhao Fu dio un vuelco cuando una noche innumerables cristales cayeron del cielo, que los humanos podían usar para ingresar a un mundo de juego alternativo. Habiendo heredado el legado del antiguo imperio chino, Zhao Fu usa su inteligencia e ingenio para desarrollar su propio imperio desde una pequeña aldea. Sin embargo, con enemigos tanto en el mundo real como en el mundo del despertar celestial, debe tomar decisiones brillantes y utilizar planos creativos para sobrevivir.",
+        totalCapitulos: 3411,
+        capitulosPublicados: "3411",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Shen-Tian-Yi",
+        tag: "Creación de ejércitos, Artefactos, Compañeros bestiales, Linajes, Gestión empresarial, Protagonista tranquilo, Protagonista frío, Cultivo, Demonios, Protagonista decidido, Dragones, Elementos del juego, Dioses, Protagonista masculino guapo, Protagonista trabajador, Ocultar la verdadera identidad, Protagonista afortunado, Protagonista masculino, Época moderna, Monstruos, Múltiples reinos, Nacionalismo, Protagonista todopoderoso, Política, Poligamia, De pobre a rico, Subtrama romántica, Protagonista despiadado, Intereses amorosos fuertes, Guerras, De débil a fuerte",
+        seo: {
+            title: "Leer El imperio del señor en Español - Novelas Ligeras",
+            description: "Disfruta de El imperio del señor en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
+        id: "031", 
+        titulo: "Sistema de niveles loco", 
+        titulo2: "CRAZY LEVELING SYSTEM, 疯狂 升级 系统",
+        genero: "Acción, Aventura, Comedia, Fantasía, Artes Marciales, Novela Ligera, Ranobe, Xuanhuan", 
+        anio: "2026", 
+        imagen: "/portada/031.webp",
+        sinopsis: "¿Tus meridianos son imposibles de cultivar? ¡Está bien! Hay un sistema de niveles locos: completa misiones, mata monstruos, traga el poder espiritual de otras personas, fabrica pastillas o forja armas y participa en grandes batallas. ¡Puedes adquirir experiencia! soy dios. ¿Tu EXP es demasiado baja? ¡No te preocupes! ¡Tengo una tarjeta EXP doble, diez veces una tarjeta EXP! ¡EXP explosiones y sube de nivel! ¿Qué tipo de genios, gran familia, joven maestro, emperador del imperio y talentos? De cara a este Crazy Boosting System, ¡estarán muy atrás! Ja, ¿volví a nivelar? Yi Tianyun se despertó y nuevamente se sintió en la cima del mundo…",
+        totalCapitulos: 3002,
+        capitulosPublicados: "3002",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Crazy-Meng-Meng",
+        tag: "Personajes arrogantes, Trampas, Protagonista inteligente, Cultivo, Protagonista astuto, Elementos del juego, Protagonista masculino guapo, Protagonista masculino, Protagonista todopoderoso, Subtrama romántica, Sistema, Administrador del sistema, Transmigración, Protagonista subestimado, De débil a fuerte",
+        seo: {
+            title: "Leer Sistema de niveles loco en Español - Novelas Ligeras",
+            description: "Disfruta de Sistema de niveles loco en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
     }
 ];
