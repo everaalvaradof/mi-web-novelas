@@ -605,5 +605,24 @@ export const novelas = [
             title: "Leer Coquistador invencible en Español - Novelas Ligeras",
             description: "Disfruta de Coquistador invencible en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
+    },
+    { 
+        id: "033", 
+        titulo: "Amor secreto perfecto", 
+        titulo2: "PERFECT SECRET LOVE,  恰似寒光遇骄阳",
+        genero: "Acción, Comedia, Drama, Josei, Artes Marciales, Misterio, Novela Ligera, Psicológico, Ranobe, Romance, Vida Escolar, Sobrenatural", 
+        anio: "2026", 
+        imagen: "/portada/33.webp",
+        sinopsis: "Este tipo, ¿tan pesado es su gusto, que aún es capaz de comer? Al despertar, miró su reflejo en el espejo, pelo explosivo, tatuajes y una cara demoníaca. Mírala por más de un segundo y tendrás ojos picantes (tus ojos sangrarán-aka ella se ve realmente fea). Antes de su renacimiento, estaba enamorada de otra persona, empeñada en escapar, y después de tener relaciones con él, lo odia hasta los huesos. Después de su renacimiento, miró a la belleza en la cama, pensando seriamente, el que dejó su sombra en el pasado, parece que debe ser él? En su vida pasada, su mente estaba confusa. Intentó deshacerse del marido extraordinariamente bello que no quería, fue víctima de hombres escoria y mujeres baratas, y su amiga de mayor confianza le lavó el cerebro. Al final, se encontró con gente rebelde y amigos que la abandonaron (aislada y sola). En esta vida, toda la gente malvada que maquina y anhela su divorcio debería ceder. Lo siento, pero el coeficiente intelectual de esta joven está en juego.",
+        totalCapitulos: 2489,
+        capitulosPublicados: "2489",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Jiong-Jiong-You-Yao",
+        tag: "Hermosa protagonista femenina, intereses amorosos devotos, protagonista femenina, apuesto protagonista masculino, el interés amoroso se enamora primero, época moderna, reencarnación, venganza, protagonista despiadado, intrigas y conspiraciones, romance lento",
+        seo: {
+            title: "Leer Amor secreto perfecto en Español - Novelas Ligeras",
+            description: "Disfruta de Amor secreto perfecto en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
     }
 ];
