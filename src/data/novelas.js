@@ -586,5 +586,24 @@ export const novelas = [
             title: "Leer Sistema de niveles loco en Español - Novelas Ligeras",
             description: "Disfruta de Sistema de niveles loco en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
+    },
+    { 
+        id: "032", 
+        titulo: "Coquistador invencible", 
+        titulo2: "INVINCIBLE CONQUEROR, 无敌 天下",
+        genero: "Acción, Drama, Harem, Artes Marciales, Novela Ligera, Ranobe, Seinen, Xuanhuan", 
+        anio: "2026", 
+        imagen: "/portada/32.webp",
+        sinopsis: "Los fuertes siempre están solos, ¡y solo superando la soledad pueden volverse invencibles! Huang Xiaolong, un estudiante personal de la familia terrenal Shaolin, inexplicablemente transfirió el Yi Jin Jing, un libro secreto de las más altas artes marciales chinas, al mundo de Wuhong. En el mundo de las artes marciales, con solo artes marciales en tu cuerpo, puedes desarrollar tu espíritu de lucha y convertirte en un guerrero, pero Huang Xiaolong, quien originalmente poseía un alma de artes marciales inquebrantable, fue confundido por su familia con la basura con un mutante común. alma de artes marciales cuando el alma de su arte marcial se despertó…Pero Huang Xiaolong, que posee un alma de lucha mutante “normal”, demuestra talentos asombrosos una y otra vez, derrotando una y otra vez al llamado súper genio, ¡y una y otra vez sorprendiendo a la familia y al mundo entero de las artes marciales!",
+        totalCapitulos: 3763,
+        capitulosPublicados: "3763",
+        categoria: "Actualizadas",
+        pais: "Chinas",
+        autor: "Divine-view",
+        tag: "Creación de ejércitos, Artefactos, Compañeros bestiales, Linajes, Templado corporal, Cultivo, Dragones, Cultivo rápido, Protagonista masculino apuesto, El interés amoroso se enamora primero, Protagonista afortunado, Espacio mágico, Protagonista masculino, Múltiples reinos, Poligamia, Protagonista despiadado, Romance lento, Salto temporal",
+        seo: {
+            title: "Leer Coquistador invencible en Español - Novelas Ligeras",
+            description: "Disfruta de Coquistador invencible en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
     }
 ];
