@@ -624,5 +624,24 @@ export const novelas = [
             title: "Leer Amor secreto perfecto en Español - Novelas Ligeras",
             description: "Disfruta de Amor secreto perfecto en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
+    },
+    { 
+        id: "034", 
+        titulo: "La bella esposa del matrimonio relámpago", 
+        titulo2: "The Beautiful Wife of the Whirlwind Marriage, 闪婚娇妻：老公，深深爱",
+        genero: "Acción, Adulto, Comedia, Josei, Maduro, Novela Ligera, Ranobe, Romance, Shoujo", 
+        anio: "2026", 
+        imagen: "/portada/34.webp",
+        sinopsis: "Rico, poderoso y guapo, Gu Jingze es la flor y nata de todo el país. Todos los hombres quieren ser él y todas las chicas quieren estar con él. Su vida es perfecta… excepto porque tiene un pequeño secreto que le impide acercarse a cualquier mujer: su aparente impotencia. Hasta que un día se despierta en la cama con una desconocida. Lo siguiente que sabe es que se ve obligado a casarse con esa desconocida, una mujer luchadora y bulliciosa llamada Lin Che. Lin Che es una chica normal cuyo único objetivo es convertirse en una actriz de éxito. Condenada al ostracismo por su familia y obligada a independizarse, urde un plan para alcanzar su objetivo. Pero su plan fracasa y acaba casándose con el frío y aparentemente despiadado Gu Jingze. Y no sólo eso, ahora debe encontrar su lugar en la alta sociedad, donde abundan las mujeres celosas y las tramas retorcidas, todo ello mientras hace malabarismos con su nueva carrera. Dos extraños bajo el mismo techo: Desde el principio, acuerdan no meterse en la vida del otro, pero él siempre se las arregla para aparecer en los momentos de crisis de ella. Poco a poco y sin quererlo, a Lin Che le empieza a resultar difícil imaginar un futuro sin él. ¿Crecerá su relación, o su matrimonio estará destinado a ser sólo un contrato?",
+        totalCapitulos: 1584,
+        capitulosPublicados: "1584",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Bath-Robey",
+        tag: "Hermosa protagonista femenina, protagonista masculino atractivo, época moderna",
+        seo: {
+            title: "Leer La bella esposa del matrimonio relámpago en Español - Novelas Ligeras",
+            description: "Disfruta de La bella esposa del matrimonio relámpago en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
     }
 ];
