@@ -643,5 +643,24 @@ export const novelas = [
             title: "Leer La bella esposa del matrimonio relámpago en Español - Novelas Ligeras",
             description: "Disfruta de La bella esposa del matrimonio relámpago en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
+    },
+    { 
+        id: "035", 
+        titulo: "El emperador marcial con sangre de dragón", 
+        titulo2: "THE MARTIAL EMPEROR WITH DRAGON BLOOD - 龙血武帝",
+        genero: "Acción, Fantasía, Harem, Artes Marciales, Novela Ligera, Ranobe, Xuanhuan", 
+        anio: "2026", 
+        imagen: "/portada/35.webs",
+        sinopsis: "[Libro del Fuego Misterioso] ¡Todos los mundos, todos los Dao’s compiten! Un joven, atrapado en el Pilar de la Ascensión del Dragón y despertado por el poder de millones de dragones, desciende de los cielos. Apaga la antigua sangre de dragón, cultiva la Técnica Fudo, mata a los nueve cielos por amor, crea un reino eterno con tres mil poderes y asciende a la cima del Emperador de la Batalla.",
+        totalCapitulos: 5273,
+        capitulosPublicados: "5273",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Flowing-Water",
+        tag: "Alquimia, Artefactos, Compañeros Bestiales, Bestias, Hermosa Protagonista Femenina, Linajes, Protagonista Tranquilo, Protagonista Inteligente, Cultivo, Protagonista Astuto, Dragones, Protagonista Trabajador, Harén, Espacio Mágico, Protagonista Masculino, Monstruos, Venganza, Guerras, De Débil a Fuerte",
+        seo: {
+            title: "Leer El emperador marcial con sangre de dragón en Español - Novelas Ligeras",
+            description: "Disfruta de El emperador marcial con sangre de dragón en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
     }
 ];
