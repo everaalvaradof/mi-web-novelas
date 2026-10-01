@@ -1,0 +1,37 @@
+---
+titulo: "Capítulo 372"
+numero: 372
+novelaId: "36"
+---
+
+Xie Xie y Gu Yue, siendo los más familiarizados con Tang Wulin, entendieron al instante sus intenciones.
+
+Sosteniendo su lanza de hielo de tres colores en una mano, Gu Yue lanzó orbes de luz verde a sus compañeros de su otra mano.
+
+Xu Lizhi cantó, creando más bollos.
+
+Tang Wulin tiró de la hierba de plata azul conectada con Yue Zhengyu, quien disparó al aire, levantando a Tang Wulin con él.
+
+El salón tenía unos cincuenta metros de altura. Yue Zhengyu voló alto con Tang Wulin en un instante. Tang Wulin luego jaló a Xie Xie y Gu Yue.
+
+Yue Zhengyu finalmente entendió por qué Tang Wulin le había dicho que conservara el poder del alma. Llevar a tres pasajeros al aire agotaría inmensamente el poder del alma.Paraayudar a aliviar la carga de Yue Zhengyu, Tang Wulin envió a Canción Dorada auna hebra de hierba de plata azul y la tiró al suelo como apoyo.Él procedió a tirar a Xu Lizhi también.Con los cinco de ellos en el aire ahora, Yuanen Yehui también entendió cuál era el plan.Ella se giró, reunió fuerza entre sus piernas, y saltó.Su cuerpo se encogió rápidamente cuando se elevó hacia arriba, evitando por poco la palma de la mano del  BabuinoDiamante.Fuertes ráfagas de viento sacudieron su avance en el aire, pero cambió a su alma marcial de Ángel Caído.Un par de alas negras brotaron de su espalda y ella voló más alto en el aire.No dispuesto a dejar escapar a su enemigo, el BabuinoDiamantesiguió persiguiéndola.Corrió hacia la pared, trepó varias decenas de metros, luego saltó de la pared hacia Yuanen Yehui.En ese momento, la lanza de hielo salió de la palma de Gu Yue.El fuego explotó desde la cola de la lanza de hielo y, en un abrir y cerrar de ojos, alcanzó alBabuino Diamante.La colisión desintegró la lanza de hielo en una niebla helada.A pesar de la defensa formidable del babuino, el impacto lo envió realmente hacia atrás y cayó desde el aire.Escarcha cubrió el pelaje del babuino mientras la niebla helada penetraba en su cuerpo.Furioso, el  BabuinoDiamanterugió, su esencia de sangre surgiendo para disipar la niebla.Pero ahora Yuanen Yehui estaba fuera de su alcance ...Yuanen Yehui levantó el pulgar a Gu Yue mientras volaba.TangWulin arrojó la hierba de plata azul  infundido con Canción Dorada y usó lafuerza de rebote resultante para empujar a Gu Yue, Xie Xie, Xu Lizhi y aél mismo una docena de metros más alto en el aire.Ahora estaban a más de veinte metros sobre el suelo.Yue Zhengyu continuó batiendo sus alas, esforzándose para ascender más alto.Llevara cuatro personas en el aire con un nivel de cultivo de solo tresanillos del alma no era una tarea fácil, especialmente cuando uno deesos cuatro era Xu Lizhi.Yue Zhengu apenas logró ascender otro par de docenas de metros llevándose a sí mismo a sus límites."¡Yuanen!" Tang Wulin arrojó un hilo de hierba de plata azul hacia ella.ElÁngel Caído de Yuanen Yehui era inferior al  ÁngelSantode Yue Zhengyuen términos de poder divino, pero con su alma marcial Mono Gigante Titan,aumentó su fuerza más allá de Yue Zhengyu.Esto se aplica a su fuerza de ala también.Yuanense agarró a la hebra de hierba de plata azul conectada con sus compañeros deequipo y golpeó sus alas con más fuerza, aliviando la presión sobre YueZhengyu mientras ascendía.El  Babuino Diamante berserker saltó hacia atrás en el aire, balanceando sus brazos directamente hacia Xu Lizhi.El puño falló, golpeando el aire a unos pocos metros de distancia.A pesar de esto, Xu Lizhi podía sentir su presión de viento mortal.Afortunadamente, la mayor parte se disipó y solo derribó al equipo a unos pocos metros de su altura a cuarenta metros del suelo.Después de enfurecerse, el  BabuinoDiamantehabía crecido a doce metros de altura.Con su fuerza impulsada, podría saltar más de treinta metros de altura, casi cuarenta.¡Esto fue asombroso para una bestia del alma sin ataques a distancia!"¡Llévanos más arriba!", Gritó Tang Wulin.Yuanen Yehui y Yue Zhengyu se esforzaron por llevarlos más alto, directo al techo.Tang Wulin apuñaló su garra en el techo.Fue anormalmente resistente para la piedra.Su garra solo penetró hasta la mitad, pero eso fue suficiente.ConTang Wulin usando su propia fuerza para mantenerse en lo alto, alivióla carga de Yue Zhengyu y ahora podía volar de manera estable en el airecon solo tres personas atadas a él.El plan de Tang Wulin había sido simple, pero quedaron sorprendidos de todos modos.
+
+Lafuerza del enfurecido Babuino Diamante superó con creces susexpectativas, su poder aparentemente lo suficientemente grande como paraaplastar todo lo que se interpusiera en su camino. Ninguno de ellos se atrevió a tomar uno de sus ataques.
+
+Sin embargo, las palabras de Yuanen Yehui antes le habían recordado a Tang Wulin. ComoEnfurecer produjo un efecto similar a los bollos de frijol rojo y elaumento de potencia fue aún mayor, entonces el tiempo efectivo tuvo queser más corto.
+
+"No tenemos demasiado tiempo. ¿Cuánto tiempo crees que puedes aguantar? "Yuanen Yehui le preguntó a Tang Wulin.
+
+Tang Wulin asintió. "Estoy bien, me quedan muchas fuerzas. Inclusosi no lo hiciera, todavía no sería un problema para mí llevarlos austedes ". Su fuerza había sobrepasado los cinco mil kilogramos defuerza.Todos juntos, los seis de ellos pesaban no más de quinientos kilogramos.Esta carga no era nada para él.Yue Zhengyu voló hacia Tang Wulin y envolvió una hebra de hierba de plata azul en su cintura y hombros. "Avísame si no puedes aguantar. Usaré el bollo de frijol rojo y podremos durar otros tres minutos ".
+
+No podía llevarlos a todos como ahora, pero no sería un problema bajo el esfuerzo de sed de sangre.
+
+"Tengo un mini bollo de sopa, tengo unmini bollo de sopa, tengo un mini bollo de sopa ...", gritó Xu Lizhi.Pequeños bollos aparecieron en su mano uno tras otro. Le entregó uno a Tang Wulin. "Esta es mi segunda habilidad del alma, Bollos de Sopa de Agilidad. Reducen el peso de alguien, lo que les da una mayor agilidad. Son útiles para mí en esta situación. "Se metió uno en la boca justo después de hablar.
+
+Sus Bollos de Sopa de Agilidad eran perfectos para su situación actual. Todos se volvieron más ligeros después de comer uno.Los ojos de Yue Zhengyu se iluminaron después de sentir los efectos. "Gordo,¡tus bollos son geniales!". Estaba impresionado por los efectos delBollo de Cerdo de Recuperación de Xu Lizhi, elMini Bollo de Sopa deAgilidad y el Bollo de Frijol Rojo de Sed de sangre.Aunquelos efectos de su comida no se manifestaron inmediatamente, la mayorventaja de los maestros del alma de tipo alimenticio fue la duración delos efectos. Tener un maestro del alma de tipo alimenticioen un equipo podría significar la diferencia entre la victoria y laderrota en una batalla prolongada.
+
+Xu Lizhi sonrió. "¡No juzgues un bollo por sus pliegues!"
+
+Yue Zhengyu se rió entre dientes. "Estás tan gordo que estás jadeando, pero admito que tu apoyo es muy efectivo".
+
+Yuanen Yehui voló para unirse a ellos. Después de enfrentar al Babuino Diamante juntos, algo había cambiado en sus relaciones. Habían compartido alegrías y penas, pruebas y tribulaciones, y todos se volvieron más cercanos como resultado. Yuanen Yehui ya no los consideraba con frialdad. Bueno, a excepción de Xie Xie.

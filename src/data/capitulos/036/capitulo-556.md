@@ -1,0 +1,53 @@
+---
+titulo: "Capítulo 556"
+numero: 556
+novelaId: "36"
+---
+
+Si hubiera sido alguien más aparte del Fénix Celestial Douluo parado frente a él, Tang Wulin se habría sentido nervioso. En cambio, se sintió a gusto. Sin embargo, no fue porque confiaba en Leng Yaozhu. Es porque confiaba en Gu Yue, su discípula. Gu Yue intervendría para ayudarlo si era necesario.
+
+Mientras los miembros del personal se apresuraban a realizar diagnósticos en la plataforma de ascensión espiritual, Leng Yaozhu se tomó su tiempo para guiar a Tang Wulin y Gu Yue a su oficina. Se sentó detrás de su escritorio y les hizo un gesto para que se sentaran también.
+
+"Ya hemos visto lo que les sucedió a ustedes dos en la plataforma, y ​​fue nuestro error que se encontrara con el Dragón Tirano. Es uno de los guardianes del camino entre la plataforma intermedia y avanzada. El más fuerte, en realidad. Debido a nuestro descuido, se alejó de la zona designada ".
+
+Ella suspiró. "Para ser honesta, no había mucho que pudiéramos haber hecho para controlar una bestia del alma de su nivel de todos modos. A lo sumo, podríamos haber tratado de atraerlo en la dirección que queríamos." Dio unos golpecitos en el escritorio con un dedo. "Y ahora ha sido absorbido por ti". Leng Yaozhu miró a Tang Wulin y frunció el ceño. Fue un error de la Pagoda del Espíritu dejar salir al Dragón Tirano en un alboroto, y normalmente habrían tenido que compensar a los maestros del alma que lo sufrieron. Sin embargo, el niño ante ella había absorbido el Dragón Tirano entero. Cuando los miembros del personal de la Pagoda del Espíritu se enteraron de esta situación, se habían sorprendido.
+
+En el momento en que Leng Yaozhu escuchó que su discípula, Gu Yue, estaba en la plataforma de ascensión espiritual y en las cercanías del arrasador Dragón Tirano, se apresuró a prepararse para lo peor. Había llegado justo a tiempo para ver en las pantallas de monitoreo que el Dragón Tirano se disolvía en niebla, fusionándose con Tang Wulin.
+
+Tang Wulin dejó escapar una sonrisa tensa. "Su Eminencia, ¿me creería si dijera que tampoco sé lo que pasó?"
+
+"Me gustaría. Solo dime lo que sentiste ”, dijo Leng Yaozhu, sin una onza de duda en su mente. Ella no podía imaginar a un adolescente tan brillante, especialmente lo suficientemente amable como para ayudar a sus amigos a obtener almas espirituales, para atreverse a engañarla. Además, ella ya había investigado su relación con Gu Yue y lo encontró bastante favorable.
+
+Tang Wulin se rascó la barbilla, sus ojos vagaron mientras reunía sus pensamientos. "Tengo una línea de sangre dracónica, pero no se despertó como una verdadera alma marcial. Supongo que podrías decir que es una especie de despertar poco convencional. "Se encogió de hombros. "Cuando uso el poder de mi línea de sangre, emito un aura dracónica que suprime a la mayoría de las bestias del alma dracónicas. Y cuando me encontré con ese Dragón Tirano, inmediatamente me di cuenta de que era imposible derrotarlo. Pero pensé que ya que estaba en la plataforma de ascensión espiritual, podría intentarlo. "Sin ocultar nada, Tang Wulin relató el resto de los eventos a Leng Yaozhu, desde cuál fue su plan de ataque hasta la falta de cambios dentro de él después de absorber el dragón tirano.
+
+Leng Yaozhu colocó una mano en su barbilla. "Wulin, me avergüenzo de que tuvieras que pasar por todo eso por nuestro error. Sin embargo, la situación es un poco especial esta vez. Me temo que necesitaremos que coopere para algunos exámenes médicos ".
+
+Antes de que Tang Wulin pudiera decir una palabra, Gu Yue frunció el ceño y dio un paso adelante. “Maestra, ¿por qué necesitamos hacer eso? Nuestro viaje a la plataforma de ascensión espiritual esta vez fue interrumpido, y usted admite que fue culpa de nuestra Pagoda del Espíritu. Entonces, ¿por qué Wulin necesita ser examinado?"
+
+Leng Yaozhu la fulminó con la mirada, afilada y fría. "Si la situación fuera tan simple, entonces solo le compensaríamos a los dos y lo llamaríamos un día. Pero no olvides que cada bestia del alma en la plataforma de ascensión espiritual fue creada a partir de algo ".
+
+Ella se rió ante la expresión de Tang Wulin. Sus ojos estaban muy abiertos cuando se dio cuenta de él. "No tienes que preocuparte. Es solo una inspección de rutina ", dijo Len Yaozhu. “Y en realidad, muchos maestros del alma poderosos ya saben la verdad detrás de la plataforma de ascensión espiritual. Así que está bien si tú también lo sabes. La mayoría de las bestias del alma en la plataforma son almas espirituales elaboradas o clonadas por la Pagoda del Espíritu. Los guardianes, sin embargo, son almas espirituales reales que una vez vagaron por el mundo. Usando la tecnología, enviamos sus mentes a la plataforma junto con una marca. Cuando matas bestias del alma, su marca absorbe su energía, y esa marca transfiere esa energía a tu cuerpo físico una vez que sales de la plataforma.
+
+“La mayor fuente de ingresos de la Pagoda del Espíritu es nuestra creación de almas espirituales. Pero en el proceso de crear almas espirituales, seguramente habrá algunas defectuosas. Los defectuosos no son adecuados para que los maestros del alma se fusionen. En su lugar, los sometemos a un proceso especial y luego los liberamos en la plataforma de ascensión espiritual. Esas son las bestias que te encuentras en la plataforma. Cuando los matas, su poder del alma y sus habilidades físicas se convierten en energía pura capaz de alimentar los anillos del alma. Esa es la verdad detrás de la plataforma de ascensión espiritual.
+
+“Pero no todas las bestias del alma en la plataforma son productos defectuosos. Por el bien de la estabilidad del sistema, especialmente en las secciones intermedias y avanzadas, hemos agregado algunas almas espirituales completas para mejorar el rendimiento del sistema ".
+
+Siguiendo esta gran cantidad de información nueva, Tang Wulin ahora vio la Pagoda del Espíritu bajo una nueva luz. El temor lo llenó. Aunque el Fénix Celestial Douluo hablaba a la ligera de tales secretos, comprendió que la tecnología requerida para tal sistema era mucho más avanzada que cualquier otra cosa de la que había oído hablar anteriormente. Fue una tecnología refinada durante miles de años de investigación, que finalmente culminó como la plataforma de ascensión espiritual.
+
+La armadura de batalla, las almas espirituales artificiales y la plataforma de ascensión espiritual fueron todos los avances tecnológicos que marcaron el advenimiento de una nueva era. Cada una de estas tecnologías llevó a la humanidad a un nuevo nivel de existencia y permitió a los humanos empujar a las bestias del alma al borde de la extinción. Y la Pagoda del Espíritu había jugado un papel central en la creación de los tres. Decir que Tang Wulin había adquirido más información sobre la fuerza de la Pagoda del Espíritu no sería una mentira.
+
+"Su Eminencia, entonces el Dragón Tirano que encontramos es ..." Tang Wulin no se atrevió a expresar sus pensamientos completos.
+
+Los ojos entornados de Leng Yaozhu lo atravesaron. “Era auténtico. Una de nuestras almas espirituales voluntarias."
+
+“¿Almas espirituales voluntarias?” Preguntó Tang Wulin, curioso de este nuevo término.
+
+Leng Yaozhu asintió. “Para responder a tu pregunta, primero debemos revisar la permanencia de las almas espirituales. En general, las almas espirituales comienzan a disiparse en el momento en que muere una bestia del alma. La Pagoda del Espíritu usa muchas tecnologías únicas para preservar esas almas espirituales, por lo que tenemos suficiente tiempo para encontrar un maestro del alma adecuado para ellas. En este momento, incluso estamos investigando cómo reciclar las almas espirituales. De esa manera, cuando un maestro del alma muera, siempre que se entreguen a la Pagoda del Espíritu dentro de tres días, podremos extraer sus almas espirituales y preservarlas para su reutilización. Si podemos hacer que este sistema funcione, ahorraríamos muchos recursos. Por supuesto, esta investigación de vanguardia lleva tiempo para verificar la viabilidad. Y necesitamos maestros del alma dispuestos a ofrecerse como voluntarios para ayudarnos, lo cual es realmente raro, ya que es inevitable sufrir algún grado de daño cuando se extrae un alma espiritual.
+
+“Ahora, cuando se habla de almas espirituales voluntarias, hay más cosas que considerar. Las almas espirituales voluntarias son extraordinariamente resistentes y fuertes. Duran más tiempo. El simple hecho de almacenarlos drena una cantidad significativa de los recursos de la Pagoda del Espíritu. Afortunadamente, después de crear la plataforma de ascensión espiritual, descubrimos una forma de colocarlos en la plataforma. Esto mejoró la estabilidad del sistema de la plataforma de ascensión espiritual y nos proporcionó una forma rentable de almacenar las almas espirituales voluntarias".
+
+"¿Y el Dragón Tirano es un alma espiritual voluntaria?", Preguntó Tang Wulin.
+
+Leng Yaozhu asintió. "Sí, y es uno de los más poderosos y altaneros. Hay pocas bestias del alma que pueden jactarse de su nivel de arrogancia. Una vez, un maestro del alma de rango 90 se sintió atraído por su actitud dominante y trató de fusionarse con él para su alma espiritual final. Pero se liberó, la reacción violenta mató al maestro del alma." Ella suspiró. "Hemos estado aferrándonos a su alma espiritual durante tanto tiempo que ya estaba a punto de desaparecer para siempre. Sin mencionar que fue el último de su tipo. Era el epítome del mal comportamiento, siempre desenfrenado y devorando manadas de otras bestias del alma. Incluso consideramos sacrificarlo, pero no pudimos soportar extinguir un alma espiritual tan rara e histórica. Decir que estábamos en un callejón sin salida en cuanto a qué hacer con eso sería una subestimación. Decir que la voluntad inquebrantable del Dragón Tirano nunca ha sido domada antes sería una verdad innegable. Al menos, hasta que llegaste y lo absorbiste hoy. Tenemos mucha curiosidad por cómo sucedió esto, por lo que queremos que se quede un poco y nos permita recopilar algunos datos ".
+
+“Como dije antes, las almas espirituales voluntarias son increíblemente difíciles de fusionar y nos cuestan una enorme cantidad de recursos para preservar. Necesitamos obtener algunos datos al respecto para presentarlos al consejo de la Pagoda del Espíritu. No tienes que preocuparte por el examen. Será como un chequeo médico de rutina. Y compartiremos nuestros datos contigo también. Ya le informé a la Academia Shrek, por lo que algunos maestros vendrán a monitorear su examen físico ".

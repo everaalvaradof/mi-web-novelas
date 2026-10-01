@@ -1,0 +1,37 @@
+---
+titulo: "Capítulo 394"
+numero: 394
+novelaId: "36"
+---
+
+La muerte instantánea de la pitón era prueba de la letalidad de las cuchillas de viento. Solo la muerte aguardaba a Luo Guixing y Zheng Yiran si los golpeaban sin poder usar el poder del alma.
+
+Un rayo de luz descendió y los envolvió a los dos. La luz se tragó el viento sin dejar que los dos estudiantes sufrieran ningún daño.
+
+Luego, en el siguiente momento, la luz trajo a Luo Guixing y Zheng Yiran al lado del Espíritu Santo Douluo. ¡Fueron eliminados!
+
+Mientras esto sucedía, Yang Nianxia finalmente llegó a Gu Yue y Xu Xiaoyan.
+
+Xu Xiaoyan dio un paso adelante y le disparó una lanza de hielo.
+
+Yang Nianxia lo golpeó con su pata de oso, ¡haciéndolo pedazos!"¡Gu Yue, corre!" Gritó Xu Xiaoyan mientras abría sus brazos y corría hacia adelante para detener a Yang Nianxia.Sabía que siempre que pudiera contener a Yang Nianxia y comprar algo de tiempo, Gu Yue podría derrotarlo.Al contrario de la tristeza de Luo Guixing, Yang Nianxia estaba lleno de satisfacción ahora.¡Al final, todo se reduce a mi fuerza!Él estaba casi sobre ellas.No había forma de que dejara escapar a las dos chicas ahora.Agarróel hombro de Xu Xiaoyan con su mano izquierda, con cuidado de nodañarla seriamente, mientras pateaba con su pie derecho.El tembloroso suelo seguramente interrumpiría la concentración de Gu Yue.Mis cuatro compañeros de equipo han sido eliminados, y al final, ¡depende de mí salvar el día!Su mano aterrizó en el hombro de Xu Xiaoyan y él se movió para arrojarla sobre su hombro.¡Pero en ese momento, fue pateado detrás de su rodilla derecha!Su pierna perdió poder y su pisotón se abrió de par en par, pateando hacia nada más que aire.El cambio repentino en su centro lo hizo tropezar, y estuvo a punto de caerse.Entonces, para su asombro, Xu Xiaoyan desapareció de su alcance.¡En su lugar estaba el gordo Xu Lizhi!"Hehe. No te olvides de mí ".
+
+Las mandíbulas de los espectadores cayeron.
+
+¿Que esta haciendo?
+
+Yang Nianxia también se quedó boquiabierto. De principio a fin, ¡nunca había visto a Xu Lizhi como un combatiente! Sin embargo, el gordo ahora estaba entre él y Xu Xiaoyan.
+
+¿No es él un maestro del alma de tipo alimenticio? ¿Cuál era su nombre otra vez? Xu Lizhi, ¿verdad?
+
+Xu Lizhi se quedó cara a cara con él, mirando desafiante a Yang Nianxia.Movió sus manos en un movimiento circular, suaves ondas de poder del alma blanco que emanaban de sus palmas.Sus acciones sorprendieron a sus compañeros de equipo, ¡sin mencionar a su oponente!La patada de Xu Lizhi había salvado tanto a Xu Xiaoyan como a Gu Yue.¿No es él un maestro del alma de tipo alimenticio?¿Por qué sus acciones se sienten tan familiares?Tang Wulin miró con los ojos muy abiertos.Yang Nianxia gruñó y le dio un puñetazo a Xu Lizhi.No podía perdonarse a sí mismo por haber sido detenido por un maestro del alma de tipo alimenticio.¡Los pies de Xu Lizhi bailaron en un patrón desconcertante, moviendo su cuerpo regordete con impactante agilidad!Se movió a un lado, evadiendo el golpe de Yang Nianxia.Luego empujó con ambas manos, enviando a Yang Nianxia tambaleándose hacia atrás varios pasos.¡Este breve intercambio decidió la batalla!¡Una bola de fuego gigante voló y explotó en la cara de Yang Nianxia!El pelaje dorado oscuro de Yang Nianxia se encendió cuando la explosión lo golpeó, mitigando la mayoría del impacto.Pero todavía tropezó hacia atrás, y Xu Lizhi aprovechó esta oportunidad.Enganchó su pie detrás del talón de Yang Nianxia mientras empujaba su palma en el estómago de su oponente.Yang Nianxia retrocedió unos pasos más.Si no fuera por su excelente sentido del equilibrio, se habría caído sobre su trasero.Entonces otra bola de fuego voló hacia él y explotó.Yang Nianxia apenas logró levantar un puño para protegerse de la explosión, pero el bombardeo de Gu Yue apenas comenzaba.Las bolas de fuego se estrellaron contra él rápidamente.Una serie de explosiones sacudió la arena.Aunque apenas podía defenderse con los puños, ahora no podía avanzar.Xu Xiaoyan caminó casualmente mientras condensaba una lanza de hielo en su mano.No quedaba suspenso en la batalla.Cualquiera con medio cerebro podía ver que era la victoria del equipo de Tang Wulin.Todos los espectadores se quedaron en silencio estupefacto.Habíanpensado que las probabilidades favorecían a los rankeados al principio, yluego estaban seguros de su victoria cuando Wu SIduo se transformó enel Tigre Blanco Infernal.Pero Xie Xie tomó gravemente herido Xu Yucheng y Tang Wulin se llevó a Wu Siduo con él.Incluso entonces, pensaban que los rankeados eran los vencedores probables.Creían que Yang Nianxia podía tratar fácilmente con Gu Yue y Xu Xiaoyan.Sin embargo, sus expectativas fueron volcadas una vez más.¡Al final, el equipo de Tang Wulin se apoderó de la victoria contra todas las expectativas!Xu Xiaoyan le dio una sonrisa brillante mientras se acercaba.Sutercer anillo del alma no solo le concedió la Ventisca, sino que tambiénle otorgó una habilidad de alma a su Bastón de Hielo Rueda Estelar.Ahora podía usar los Grilletes de Rueda Estelar a plena luz del día.Fue esta última carta escondida la que les ganó la victoria.Ella creíaque incluso si Xu Lizhi no hubiera actuado, Gu Yue habría sido capaz dederribar a Yang Nianxia con su control sobre los elementos y lacapacidad de teletransportarse. Solo su equipo entendió cuán fuerte realmente era Gu Yue. ¡Ni siquiera había ido con todo en esta batalla!
+
+"¡Alto!" La fría voz de Wu Zhangkong resonó en el escenario.
+
+YangNianxia tropezó unos pasos más hacia atrás después de que el bombardeode bolas de fuego se detuvo, bajando los puños para revelar una carallena de vergüenza.
+
+"El partido terminó. La victoria va al equipo de Tang Wulin ", anunció Wu Zhangkong mientras ascendía al escenario.
+
+"¡Lo hicimos! ¡Ganamos! "Xu Xiaoyan agarró la mano de Gu Yue y rebotó de alegría, las lágrimas corrían por su rostro.
+
+A una cierta distancia, Tang Wulin apoyó a Xie Xie, que había sido tratado por el Espíritu Santo Douluo.Aunque Xie Xie estaba pálido, un orgullo obstinado brillaba en sus ojos.¡Ganamos! ¡Realmente ganamos! ¡No fui una carga para mis amigos!Por el contrario, los labios de Tang Wulin estaban fruncidos.Lo hicimos.Finalmente me probé a mi mismo.Alzando un brazo hacia Xie Xie, los dos se acercaron para reunirse con sus amigos en el escenario.Una vez que estuvieron todos juntos, intercambiaron abrazos y lloraron juntos, proclamando su victoria."¡Ganamos!Somos los ganadores!"¡Somos los más fuertes!"Wu Siduo miraba desde el lado del escenario, completamente atónita.La complexión de Xu Yucheng palideció aún más cuando los vio celebrar.La cara de Luo Guixing estaba pálida, no había ni rastro de una sonrisa en sus labios.Zheng Yiran miró con desprecio.Ella no había tenido la oportunidad de mostrar toda su fuerza durante toda la batalla.Solo Yang Nianxia aún estaba en el escenario, pero era como el resto de la audiencia.Las celebraciones de la victoria no tuvieron nada que ver con él.Los perdedores serían olvidados.Enmedio de sus celebraciones, Gu Yue se separó de sus amigos y caminóhasta el borde del escenario, saltó hacia abajo y se acercó a YeXinglan, quien se había levantado en algún momento y miraba con lospuños apretados.Sin darle oportunidad de reaccionar, Gu Yue la abrazó con fuerza.

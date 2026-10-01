@@ -1,0 +1,39 @@
+---
+titulo: "Capítulo 34"
+numero: 34
+novelaId: "36"
+---
+
+"Hola hermana mayor, mi nombre es Tang Wulin.Estoy aquí para reportarme, "dijo Tang Wulin cortésmente.Liu Yuxin estaba un poco sorprendida cuando midió al niño que estaba delante de ella.Parecía tener unos 11 o 12 años, pero en realidad era un nuevo estudiante aquí para registrarse.Desde que definitivamente tenía una recomendación de la academia, estosignificaba que en realidad sólo tenía nueve años de edad!Aunque era joven, todavía tenía una apariencia muy bonita.Está bien.Liu Yuxin tuvo que usar 'bonito' para describir la apariencia de este chico.Tenía ojos grandes y largas pestañas que incluso la hacían un poco celosa.Frente a este guapo chico, no pudo evitar estar perpleja mientras su cara se apretaba un poco."Hola, mi nombre es Liu Yuxin.Soy un estudiante de primer grado en la Academia avanzada de mar del este y estoy a cargo de recibir nuevos estudiantes este año.Soy tu hermana mayor aquí.Venga y llene este formulario y después, muéstreme su carta de recomendación de su academia elemental. "Liu Yuxin pasó un formulario a Tang Wulin.Tang Wulin se relajó un poco en su corazón mientras miraba furtivamente a la hermana mayor frente a él.
+
+Liu Yuxin observó cómo Tang Wulin llenó el formulario y no pudo evitar leer en voz alta mientras el lo hacía, "Tang Wulin. Nueve años de edad. Graduado de la Academia Elemental Montaña Roja de la Ciudad Gloriosa. Maestro de Alma Rango 11 sistema planta . Alma marcial: Hierba de plata azul. ¡Ah! ¿Tu alma marcial es Hierba de plata azul?"
+
+Tang Wulin asintió con la cabeza.
+
+LiuYuxin sonrió dulcemente, "Para poder alcanzar el rango 11 a tu edad conun alma marcial como Hierba de plata azul, realmente no es nada fácil".
+
+Cuandono oyó el habitual desdén en las palabras de esta hermana mayor, TangWulin obtuvo una impresión mucho más favorable de ella. Serascó la cabeza mientras decía: "Hermana mayor, ¿incluso reconocerás aun Maestro de Almas que tiene hierba de plata azul como alma marcial?"Liu Yuxin sonreía."¡Por supuesto!Por supuesto nuestra academia lo reconoce, incluso si es sólo un alma marcial esta bien. Maestros de almahan estado desarrollándose durante varias decenas de miles de años hasta el momento.El alma marcial no es tan importante como lo fue en la antigüedad.Definitivamente se puede mejorar con las almas espirituales y, además,descubrirá que las almas marciales no será tan importante en sus añossuperiores.""Lo más importante es su rango de poder de alma y su talento con mechas.Después de todo, un mecha puede convertir a un Maestro de alma con un alma marcial ordinaria en una potencia!Así que debes cultivarte bien, hermanito.En el futuro también puedes llamarme hermana mayor "."Gracias, Hermana Mayor." Tang Wulin agradeció sinceramente a esta bella hermana mayor.Sus palabras habían disipado muchas de las preocupaciones que TangWulin había tenido al llegar por primera vez en una ciudad tan grande.Liu Yuxin revisó la carta de recomendación de Tang Wulin antes de sellarla y devolverla junto con un pequeño cartel metálico."Llevaeste cartel metálico alrededor de tu cuello como prueba de que has sidoadmitido en la academia cuando llegas a las puertas.Usted todavía necesita ir al chequeo y recibir sus suministros.Sube al autobús detrás de mí y nos iremos a la academia cuando lleguen unos cuantos estudiantes más."Tang Wulin le dio las gracias una vez más y saludó a los demás mientras se dirigía al gran autobús.Unestudiante de grado superior de la Academia Mar del este que estaba junto aLiu Yuxin dio a Tang Wulin una mirada mientras su boca se contraía."Yuxin, ¿qué le estás contando a ese patán?Él ya lleva una carga tan grande con su alma marcial que es hierba de plata azul.Eso es un alma de basura marcial y no es como la alma marcial de la hierba de plata azul que posee el linaje de nuestro rey deplata azul. "Liu Yuxin lo miró con los ojos muy abiertos."No puedes discriminar a nuestro hermano menor.Tiene sólo nueve años de edad y fue capaz de cultivar su hierba de plata azul hasta el reino de Maestro de alma.¿Cómo sabrías si ese Hierba de plata azul lleva el linaje de un rey o no?No engañar a los más jóvenes que usted, ¿no has oído hablar de eso antes?Quién sabe si nuestro hermano menor se convertirá en un orgulloso hijo del cielo en el futuro ".Tang Wulin no había oído esas palabras, de lo contrario habría visto a esta hermana mayor aún mejor.
+
+El autobús de la Academia de mar del este era excepcionalmente ancho y podía contener cincuenta personas. Ya había algunos en el autobús. Algunos de ellos eran sus compañeros, mientras que los otros eran adultos. Éstos eran claramente padres que habían venido a acompañar a sus hijos a reportarse.
+
+Un rastro de envidia brilló a través de los ojos de Tang Wulin. ¡Incluso si su fuerza de voluntad sobrepasó a su compañero, él era todavía apenas un niño de nueve años en el extremo! ¿Cómo no querría que su madre y su padre lo acompañaran aquí?
+
+Sesentó en un asiento junto a la ventana y echó un vistazo a través paraobservar la desconocida ciudad mientras abrazaba fuertemente sus brazos. Aquí era donde iba a vivir de ahora en adelante.
+
+Después de encontrar el autobús de la Academia mar del este, la mayor parte de su nerviosismo se había disipado.Sin embargo, en este extraño ambiente nuevo, todavía se sentía tan perdido e indefenso como antes.Todavía recordaba claramente las palabras significativas y sentidas que le había dicho su padre antes de marcharse.
+
+"Lin Lin, debes recordar que en este mundo, la única persona en la que puedes confiar completamente eres tú mismo. Noimporta qué tipo de contratiempos te encuentres, o malos asuntos en losque te encuentres, tienes que preguntarte si esto fue sólo porque noeras lo suficientemente poderoso."
+
+Cuando estas palabras se hablaron a un niño de nueve años, tuvieron un impacto impactante. Después de separarse de su madre y padre, sólo podía confiar en sí mismo ahora.
+
+Bajó la cabeza y miró hacia abajo los modestos anillos de plata pesados en sus muñecas. Los anillos originalmente tenían espacio extra que podría haber sido utilizado para su equipaje. Encambio, Mang Tian le hizo traer sus martillos de tungstenorefinado milenarios, además de los martillos de plata pesada refinada milenaria que yaestaba trayendo. Con sólo un octavo de un metro cúbico de espacio, naturalmente no quedaría mucho espacio después de esos cuatro martillos.Tang Wulin cerró los ojos y descansó. Repasólas palabras de su padre y su maestro una vez más y pensó: "¡Puedohacerlo!" Subconscientemente, había recuperado su confianza.
+
+Tang Wulin rápidamente se quedó dormido en un estado aturdido. Cuando el autobús comenzó a hacer su camino a la academia, Tang Wulin despertó y miró por la ventana.
+
+El autobús ya estaba lleno. Todos los demás estaban acompañados por sus padres, dejándolo el único que estaba sentado solo.
+
+Observó cómo el paisaje fuera de la ventana cambiaba a las tiendas que bordeaban las calles. El autobús viajaba entre un sinfín de vehículos. La urgencia y el olor del acero permeaban la atmósfera. Todo el mundo en las calles se movía. Por lo menos, fue incontables veces más ocupado que las calles de Ciudad Gloriosa.Un edificio elevado se deslizó a la vista después de 20 minutos en autobús. Delante de ellos había un muro alto.
+
+"Hemos llegado a la academia. Por favor, salgan del autobús ahora, todo el mundo. "Una voz familiar vino desde el frente, atrayendo la atención de Tang Wulin. Era la hermana mayor Liu Yuxin quien había estado sentada todo el camino en el frente. Ella saludó a todos los estudiantes, junto con sus padres, que habían venido a reportarse."
+
+CuandoTang Wulin se apresuró a bajarse del autobús, Liu Yuxin inmediatamentelo reconoció cuando su hermano menor había dejado una profunda impresiónen ella. "Ah, eso es correcto. Tang Wulin, ven conmigo en un momento."

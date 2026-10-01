@@ -1,0 +1,57 @@
+---
+titulo: "Capítulo 135"
+numero: 135
+novelaId: "36"
+---
+
+Wu Zhangkong dijo: "Dos veces al año, la plataforma de ascensión espiritual se rebelará. Al principio, fueron causados por las energías inestables que la plataforma de la ascensión espiritual fue hecha. Amedida que avanzaba la tecnología, sin embargo, fueron capaces de ganarel control sobre los períodos de rebelión y los convirtió en unacaracterística especial de las plataformas de ascensión espiritual. Duranteun período de rebelión, las bestias del alma crecerán emocionadas y seharán más visibles, aumentando el peligro dentro de la plataforma deascensión espiritual. Los dieciocho pilares del cieloimpusieron un límite de 300 personas para entrar en la plataforma de laascensión espiritual de la rebelión cada vez. Esta vez,ustedes cinco tienen la suerte de ser una de esas 300 personas despuésde que la academia gastó una enorme cantidad de recursos para asegurarcinco espacios de cupos para usted. Usted debe apreciar cuán grande oportunidad que esto es. ""Duranteel período de la rebelión, usted será capaz de entrar en la plataformade ascensión espiritual como un equipo, pero su número no puedesuperar siete. Ya que sólo hay cinco de ustedes, por lo que no habrá problemas para que ustedes puedan entrar juntos. Esto servirá para probar su coordinación como un equipo. No olvide, sin embargo, además de las bestias del alma, puede encontrarse con otros Maestros de Almas. Ellosrepresentarán un peligro para ti como las bestias del alma, porque sieres expulsado de la plataforma de la ascensión espiritual dentro delos 100 segundos que tarda en absorber la energía espiritual de unabestia del alma, la energía restante irá al Maestro del Alma máscercano. Estas son las reglas especiales de la plataforma de ascensión espiritual de la rebelión".
+
+ZhangYangzi preguntó: "¿Entonces estás diciendo que otros Maestros de Almaspueden robar nuestra energía espiritual, y también podemos robar suenergía espiritual?"WuZhangkong habló con desdén, "Si usted está seguro de eso puede probar,pero no olvide que los Maestros de Almas con hasta tres anillos puedenentrar en la plataforma de ascensión espiritual elemental, y los quequieren entrar en una plataforma de ascensión espiritual de la rebelióntienen que pagarUn precio enorme.Estosignifica que hay una alta probabilidad de que  Maestros de Almasde tres anillos aparezcan y maten a tantos bestias del alma como puedan paraintentar mejorar su alma espiritual.Si realmente decides atacarlos, entonces deberías estar preparado para enfrentarte a un oponente poderoso ".Tang Wulin dijo: "No te preocupes, profesor.¡Confiaremos en nuestra fuerza como equipo! "La relación de Zhang Yangzi con los demás se había reparado hace mucho tiempo.Después de todo, eran jóvenes y tenían el temperamento de los niños.¿Cómo podría mantener un rencor considerando eso?Porotra parte, mientras que Tang Wulin y Wang Jinxi crecieron juntos, WangJinxi había avanzado asombrosamente dos rangos para alcanzar el rango  23. Por otra parte, Zhang Yangzi y Xie Xie apenas habían alcanzado elrango 22."Entrarán en la plataforma de ascensión espiritual en tres días. Puede tomar los siguientes tres días libres como vacaciones para descansar y prepararse ".
+
+¿Vacaciones? Desdeque habían entrado en la clase cero, no habían tenido ningunaoportunidad de descansar aparte del día de descanso que tenían cadasemana.
+
+¡Pero ahora les dieron tres días de descanso! Xie Xie y Zhang Yangzi inmediatamente tomaron la iniciativa para expresar su alegría con vítores.
+
+Tang Wulin se volvió pensativo al pensar en tres días de tiempo libre. ¿Qué debo hacer en estos tres días? Que mucho tiempo no es suficiente para hacer cualquier mejora para la batalla.
+
+Después de la escuela, todos regresaron al dormitorio."Wulin, ¿qué planeas hacer en estos tres días?¿Qué tal si salimos a jugar a algún lugar? "Xie Xie rió maliciosamente.
+
+"¿Jugar? Jugar a qué? "Zhang Yangzi miró y preguntó.
+
+Xie Xie puso los ojos en blanco."No estaba hablando contigo."
+
+Zhang Yangzi se rió."Los invitaré a ustedes a cenar entonces, ¿qué tal? ¿Me llevarás ahora?"
+
+Xie Xie dijo, "Voy a tener que considerarlo entonces.Así es, me acabo de recordar algo.Profesor Wu dijo que nuestro examen final tiene dos partes, y la plataforma de ascensión espiritual es sólo una parte!¿Cuál es la otra parte entonces?¿Qué piensan ustedes?"Después de reflexionar sobre eso, estaban en una pérdida y sólo podían sacudir la cabeza.
+
+WangJinxi respondió con una sonrisa amarga, "La plataforma de la ascensión espiritual de la rebelión es una oportunidad maravillosa, pero todavíaes un poco temprano para nosotros. He oído que lacompetencia dentro de la plataforma de ascensión espiritual de la rebeliónes extremadamente feroz y no hay espacio para la empatía dentro.Después de todo, la oportunidad de desarrollar tu alma espiritual es simplemente demasiado valiosa. "
+
+TangWulin dijo: "La academia ha invertido mucho para darnos la oportunidadde entrar en la plataforma de ascensión espiritual a menudo.Creo que quieren que todos evolucionemos nuestras almas espirituales al nivel de mil años para cuando nos graduemos.¿Alguno de ustedes ha medido y calculado el crecimiento de su alma espiritual? "
+
+Cuando oyeron estas palabras, todos se congelaron en su lugar.¿Un alma espiritual de mil años? ¿Qué significaba eso?
+
+¡Un alma espiritual de mil años, un anillo de alma de mil años! Su primer anillo se convertiría en un anillo de alma de mil años!
+
+Sisu primer alma espiritual fuese de mil años, entonces sería capaz deproveerles tres habilidades del alma y ayudarles a conservar algún poderespiritual. Podrían entonces fundirse con otro almaespiritual de mil años en el futuro y no necesitar preocuparse porobtener sus primeros seis anillos de alma.
+
+Elnúmero de almas espirituales que uno podía sostener siempre había sidouna de las mayores limitaciones que impidieron que los Maestros del Almaalcanzaran niveles más altos de cultivación.
+
+Siel poder espiritual de uno era insuficiente, entonces cualquier intentode fusionarse con un alma espiritual sólo terminaría en fracaso.Esta fue una de las razones por las que Wu Zhangkong enfatizó el cultivo del poder espiritual.Despuésde investigar la fusión del alma espiritual durante los últimos 10.000años, hace 3000 años, las grandes organizaciones de Maestros de Almaspublicaron un informe que detallaba que existía una correlación entre elnivel de poder espiritual del Maestro de Almas y el número de almasespirituales con las que podían fusionarse.
+
+En el reino básico de Origen Espiritual, sólo un alma espiritual podría fundirse. Con el poder espiritual en el reino del Origen espiritual, uno podría sostener hasta un solo alma espiritual amarilla.
+
+Enel reino de Conexión Espiritual, el espíritu de uno podría entoncescomunicarse con su alma espiritual y ganar control básico sobre su poderespiritual.Al controlar el poder espiritual deuno, uno podría soportar a dos almas amarillas espirituales o aún a un soloalma púrpura espiritual.En el reino del Mar Espiritual , el espíritu de uno se hizo tan vasto y tan ilimitado como el mar.Eraen este reino que el poder espiritual de uno podía ser considerado altoy era un fundamento suficiente para convertirse en un experto poderoso.Todos los Maestros Mecha y Maestros de Almas que alcanzaron el ápice habían alcanzado este nivel como mínimo.En este reino, uno podría apoyar a cinco almas espirituales amarillas,tres almas espirituales púrpuras o un solo alma espiritual negra.Cuando uno entraba en el reino del Abismo Espiritual, su espíritu actuaría como una prisión abisal.Si el espíritu fuera el mundo, entonces el límite superior sería el cielo, mientras que el límite inferior sería el infierno.Si uno tuviera un poder espiritual tan poderoso, también poseería un alma espiritual legendaria que actuara como su fundamento.Uno podría fundirse con cualquier nivel de alma espiritual en este reino;Incluso las almas espirituales naranjas y las almas espirituales rojas podrían fusionarse con uno.Siuno se fundía con un alma espiritual naranja o roja, entonces su poderrestante sólo estaría en el reino del Mar Espiritual.Sinembargo, si uno no tenía un alma naranja o alma roja, era posiblefundirse con un máximo de cinco almas espirituales de cualquier color.Normalmentehablando, el reino del Abismo Espiritual fue considerado como el límitede los humanos, pero todavía existía el reino del Dominio Espiritual.Si uno alcanzara el reino del Dominio Espiritual, su sentido del espíritu se convertiría en un dominio, un mundo en sí mismo.Su sentido espiritual controlaría el dominio y sus almas espirituales se convertirían en el fundamento de su mundo.Su mente entonces sería ilimitada, y su poder espiritual capaz de fundirse con almas espirituales de cualquier nivel.En teoría, el límite era de nueve almas espirituales legendarias, aligual que el legendario fundador de la Pagoda del Espíritu y creador dealmas espirituales, el todopoderoso Espíritu Hielo Douluo.Entonces, estaba el rumor del reino del Origen Divino.Unose transformaría en el estado primordial, mientras que su sentido delespíritu se convertiría en omnipotente y cambiaría en el espírituprimordial.El poder espiritual se convertiría en poder espiritual primordial;Ese era el reino de los dioses.Con un solo pensamiento, uno sabría todo bajo el cielo y podría mirar en el reino de los dioses.Una vez que uno alcanzó el reino de Origen Divino, ya podrían ser considerados semidioses.Sólo faltaba la herencia de un dios.Paralos Maestros del Alma, los primeros cuatro reinos del poder espiritualfueron los más importantes como reino del Dominio Espiritual y elreino del Origen Divino sólo fueron alcanzables porMaestros del Alma con atributoespiritual puro.El reino del Origen espiritual era algo que todos poseían innatamente en cuanto nacieron. A partir de ahí, no fue demasiado difícil cultivar 100 puntos de poder espiritual y alcanzar el reino de Conexión espiritual. Sin embargo, existía una gran brecha entre Conexión Espiritual y Mar Espiritual, impidiendo que la mayoría llegara a este último.
+
+El reino del Mar Espiritual requería 500 puntos de poder espiritual.
+
+El reino del Abismo Espiritual requirió 5000 puntos de poder espiritual.
+
+El reino del Dominio Espiritual requirió 20,000 puntos de poder espiritual.
+
+En cuanto al reino del Origen Divino, necesitaba unos aterradores 50.000 puntos de poder espiritual.Había rumores de que existía un reino aún más alto: el legendario reino de los Dioses. Esta era la extensión actual de Tang Wulin y los conocimientos de sus compañeros de clase.
+
+Entrelos cinco estudiantes de la clase cero, Gu Yue poseía el mayor poderespiritual y fácilmente llegaría al reino del Mar Espiritual en elfuturo. Sólo después de llegar al reino del Mar Espiritualsería posible que un Maestro del Alma tuviera nueve anillos, suponiendoque estos nueve anillos eran todos anillos de mil años como mucho.
+
+Encuanto a los otros cuatro estudiantes, Tang Wulin fue el segundo enfuerza de poder espiritual ya que ya estaba en el reino de conexión espiritual.Los tres restantes estaban todos en el límite del reino de Conexión espiritual y pronto llegarían a él.
+
+Aunasí, con lo talentosos que eran, llegar a la Conexión espiritual sería fácil, y teniendo en cuenta su corta edad, era muy probable quefueran capaces de alcanzar el reino del Mar Espiritual también.

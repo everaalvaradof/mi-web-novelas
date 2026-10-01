@@ -1,0 +1,49 @@
+---
+titulo: "Capítulo 454"
+numero: 454
+novelaId: "36"
+---
+
+La voz escalofriante de Wu Zhangkong tronó por toda la zona, cortesía del megáfono del alma.
+
+Después de eso, presionó un botón en el megáfono y lo empujó a las manos de Tang Wulin.
+
+"Maestro Wu, ¿tienes que ser tan despiadado?", Gruñó Tang Wulin.
+
+Wu Zhangkong lo miró directamente a los ojos. "¿Pensaste que obtener las notas completas sería así de fácil?"
+
+Antes de que Tang Wulin pudiera replicar, el megáfono volvió a sonar."¡Presten atención a los estudiantes de la Academia de Ingeniería del Alma Sol y Luna Imperial!¡Los seis de nosotros venimos de Academia Shrek!¡Todos tenemos catorce años y estamos aquí para desafiar a tu equipo más fuerte de menos de veinte años!¡Estamos aquí para mostrarles una vez más la brecha entre ustedes y la mejor academia del continente! "
+
+¡Mierda!Esto incluso tiene este tipo de funcionalidad ...
+
+Wu Zhangkong desapareció en un borrón, dejando solo un crujido en el aire.Tang Wulin enterró su rostro en su mano libre. Maestro Wu, ¿no dijiste que nos ibas a llevar? ¡Confiamos en ti!
+
+Cuando el megáfono se repitió por tercera vez, Xie Xie le lanzó a Tang Wulin una mirada temerosa. "Caímos en la trampa."
+
+Xu Xiaoyan tragó una mezcla de saliva y temor. "¡Debimos haber fumado algo si pensamos que obtendríamos todos esos puntos por la misma cantidad de trabajo! Me retracto. ¡Esta es una idea horrible! "
+
+Porotro lado, Ye Xinglan parecía completamente en su hábitat natural,haciendo crujir los nudillos con un encogimiento de hombros. "Vamos a hacerlo. Si quieres, yo también gritaré ".
+
+La mano de Xu Lizhi se disparó directamente en el aire."¡Estoy de acuerdo!"
+
+Gu Yue se acercó a Tang Wulin para examinar el megáfono."No es como si la declaración del maestro Wu fuera incorrecta".Todo lo que Tang Wulin podía hacer era dejar escapar un suspiro."El maestro Wu debería llamarse el 'Rey de la Trampa'". Después dejugar con el megáfono, finalmente encontró el botón de encendido,apagando el dispositivo antes de que pudiera repetir el anuncio deconfrontación por quinta vez.Sin embargo, era demasiado tarde.En el breve momento en que el megáfono estaba encendido, se formó una multitud gigante a su alrededor.Los estudiantes y el personal de la Academia Sol y Luna Imperial, así como las personas que pasan por allí.Un hombre rubio de mediana edad salió del edificio de la escuela.Su expresión se nubló cuando se acercó a Tang Wulin, el portador del megáfono."¿Academia Shrek?", Preguntó.Tang Wulin guardó el megáfono en su anillo de almacenamiento y dio un paso adelante."Somos del patio exterior de la Academia Shrek.La clase de primer grado "."Si quieres desafiarnos, entonces que así sea.Sígueme, "dijo el hombre, pasando su imponente mirada más allá de ellos.Tang Wulin se sentía como una hormiga ante este hombre, su aura afilada reducía el coraje que podía reunir."Ahora todos los demás, muévanse.Si quieren saber el resultado del combate, lo transmitiremos en vivomás tarde ". El aura abrumadora del hombre se retractó de repente, y sedio vuelta para guiarlos a la academia.¿Así de fácil?Tang Wulin miró a sus compañeros, un escalofrío recorrió su espina dorsal.Que ese hombre estaba ligas por encima de ellos en términos de fuerza sonó claro.Probablemente estaba en el mismo nivel que Wu Zhangkong.Quizás aún más alto.La Academia Sol y Luna Imperial fue famosa en todo el continente, reconocida por ser la segunda después de la Academia Shrek.Tang Wulin estaba empezando a comprender la extrema dificultad de la tarea que su maestro había instigado.Sin embargo, no podían retirarse ahora.No tenían más remedio que reunir su coraje y avanzar.La presión pesaba mucho sobre ellos.Representaban no solo a ellos mismos, sino también a la Academia Shrek.Enla esquina de la calle, Wu Zhangkong observó en silencio al grupo deTang Wulin que seguía al hombre hasta los terrenos de la academia.Su expresión todavía era tan fría como de costumbre, pero la comisura de su boca se arqueó.Este era el combate que verdaderamente templaría a sus estudiantes.Enel momento en que Tang Wulin ingresó al edificio de la escuela, sintiócomo si hubiera entrado en una fábrica de alta tecnología.Era un mundo de metal surrealista.Unabola de metal gigante flotaba en el centro del salón, el poder delalma latiendo a través de sus circuitos, alimentando su núcleo.Produjo una luz suave que bañó todo el salón.El mostrador de recepción reflejaba el de un gran conglomerado, y no había ni rastro de academia encima de esto.Era blanca brillante, ondulantes olas claras en su superficie.¿Que es eso?Tang Wulin se preguntó.El escritorio estaba hecho claramente de algún tipo de metal raro y caro.Desafortunadamente, no fue forjado a mano, de lo contrario TangWulin habría tenido el impulso de reforjarlo y purificarlo.El hombre los guió silenciosamente.Cuando se acercó a la recepción, dos recepcionistas, ambas agradables a la vista, se pusieron de pie e hicieron una reverencia.Había muchas personas de diferentes edades esparcidas por el salón.La mayoría eran estudiantes vestidos con los impecables uniformes blancos de su academia.Miraron al grupo de seis de Tang Wulin, algunos con curiosidad y otros con odio.La mayoría de los lugares recibirían gente de la Academia Shrek con los brazos abiertos, pero no aquí.Aquí fueron enemigos jurados.Afortunadamente para el grupo de Tang Wulin, no todos los estudiantes parecen tener enemistad contra ellos.Tang Wulin silenciosamente maldijo en su corazón mientras examinaba su entorno.Solo esperaba que el combate se llevara a cabo con reglas justas.Si no, las trampas que una academia tan poderosa podría poner podrían ser mortales.Entraron en un gran ascensor hecho del mismo metal blanco brillante que el resto del edificio. Parecía que el blanco era un color de honor aquí. El ascensor ascendió rápidamente pero sin problemas.
+
+El hombre había estado en silencio durante todo el camino, causando que el grupo de Tang Wulin intercambiara miradas dudosas. Ninguno se atrevió a hablar para romper el silencio.
+
+En el decimosexto piso, las puertas del ascensor se abrieron. El hombre una vez más los dirigió, esta vez a una sala de conferencias.
+
+"Siéntense", ordenó.
+
+Tang Wulin estaba al tanto de la situación. Ellos fueron los que vinieron a desafiar a la Academia Sol y Luna Imperial. Sería extraño si se los tratara cortésmente, especialmente con la forma en que habían declarado su desafío. Maestro Wu, ¡realmente eres el Rey de las Trampas!
+
+"¿Están aquí para desafiarnos?", Preguntó el hombre en confirmación.
+
+Tang Wulin asintió. "Queremos tener un combate"."Eso es posible.Prepararé una arena y algunos oponentes para ustedes en un momento.Serán oponentes de una edad adecuada para todos ustedes. "Su mirada penetrante cayó sobre el grupo de Tang Wulin.Su curiosidad sobre su edad no fue expresada.Tang Wulin se relajó un poco y dejó escapar un suspiro de alivio.Él no tenía miedo de enfrentar a otros de su edad."Tenemos catorce años", dijo Tang Wulin.El hombre entrecerró los ojos."Excelente.Los estudiantes que tenía en mente son de quince los más viejos. Sus edades casi coinciden.Sin embargo, hay dos cosas de las que necesito informarle primero.Número uno: el combate se llevará a cabo frente a toda la academia.Número dos: el combate será transmitido a todos los de Ciudad Brillante ".Tang Wulin se estremeció."Un combate privado está bien con nosotros.No hay necesidad de convertirlo en algo tan importante ", dijo con una sonrisa."¡No!Tiene que ser de esta manera.Si ganan, estimulará a todos nuestros estudiantes a trabajar más duro.Si pierden, podemos pisotear la reputación de Academia Shrek.Esos dos requisitos no son negociables ".¿Cuán profundo es su rencor?¡Es tan feroz!Ahoraestaba claro para Tang Wulin por qué Wu Zhangkong había usado un métodotan provocativo para desafiar a la Academia Sol y Luna Imperial.Parecía que los rencores entre las dos academias eran mucho más profundos de lo que jamás había pensado.Pero no había escapatoria ahora.Este era un combate que deben ganar."¡Bien!""Bueno.Esperen aquí. "El hombre se puso de pie y salió de la sala de conferencias, dejando atrás al grupo de Tang Wulin.Cuando Gu Yue estaba a punto de hablar, Tang Wulin levantó una mano para detenerla."Prepárense.Vamos a entrar en la batalla pronto ".Esta era la tierra natal de sus oponentes.Ya sea que hubiera o no cámaras ocultas o micrófonos que los monitorean, él no sabía.Como tal, tenían que cuidar lo que hablaban.No podían arriesgarse a que las paredes tuvieran oídos.Como Tang Wulin había esperado, Gu Yue entendió al instante sus intenciones.Los seis se sentaron con las piernas cruzadas en sus sillas ycomenzaron a meditar, ajustando sus energías internas a su condiciónmáxima.Desconocido para ellos, toda la Academia Sol y Luna Imperial había entrado en acción para prepararse para el combate.Solo les llevó una hora configurar la arena, los oponentes y la publicidad.No solo lo anunciaron en Ciudad Brillante, sino en todo el continente.De hecho, no había una persona en el continente que no supiera del combate.El canal de televisión Sol y Luna transmitiría el combate a cada ciudad en la que estaban disponibles. El combate fue promovido con un lema: ¡la 'Batalla de los Maestros del Alma más Grandes de la Próxima Generación'!
+
+En las calles, Wu Zhangkong miró la pantalla gigante unida al costado de un rascacielos. Sus ojos se entrecerraron mientras escuchaba el anuncio repetitivo del combate.
+
+Justo en ese momento, su comunicador sonó.
+
+"¿Qué está pasando?", Preguntó Shen Yi frenéticamente.
+
+Wu Zhangkong se mantuvo tan calmado como siempre. "Todo esta bien.Esos niños están desafiando a la Academia Sol y Luna Imperial.Solo ayudé a estimularlos un poco ".

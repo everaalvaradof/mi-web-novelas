@@ -1,0 +1,41 @@
+---
+titulo: "Capítulo 80"
+numero: 80
+novelaId: "36"
+---
+
+Wu Zhangkong levantó su mano izquierda y la presionó contra el estómago de Tang Wulin. Luego cerró los ojos, sintiendo los cambios en el cuerpo del otro.
+
+Despuésde ejercer su fuerza para amasar la mano de Wu Zhangkong durante diezsegundos, Tang Wulin finalmente sintió que su inmensa fuerza empezaba adesaparecer. La porción de poder del alma que había utilizado en su encuentro contra Guang Long aún no había sido repuesta. Si seguía usando su fuerza sin cuidado, entonces se desmayaría una vez más. Mientras pensaba en eso, deseaba que sus escamas doradas desaparecieran en la esperanza de mantener la conciencia. ¡Esto era para estar despierto y escuchar las enseñanzas de su maestro!
+
+Después de que Wu Zhangkong soltara su agarre, Tang Wulin se balanceó en un momento de debilidad.
+
+Xie Xie se apresuró a apoyar inmediatamente a Tang Wulin y ayudarlo a sentarse en el sofá de la sala de estar de Wu Zhangkong.
+
+"¡Raro!", Wu Zhangkong se pellizcó las cejas.Su mirada reveló que estaba sumido en sus pensamientos.Xie Xie y Tang Wulin no se atrevieron a acercarse a él con preguntas.
+
+Momentos después, Wu Zhangkong murmuró: "Esto no parece un alma marcial gemela. Si fuera un alma marcial gemela, entonces habría sentido el segundo alma marcial cuando se activó. No parece ser una evolución de su alma marcial tampoco. Eseaumento de poder no parecía relacionado con su hierba de plata azul, ytampoco parece ser una habilidad de fusión de sus almas marciales. Si lo fuera, signos de cambio se habrían visto en Xie Xie también. No hay ninguna existencia de tal habilidad de fusión de alma marcial que sólo aparezca en una persona ".
+
+Wu Zhangkong continuó insistiendo. Sin embargo, era un hecho que dichas condiciones habían aparecido sin duda en Tang Wulin.
+
+"Maestro, mis escamas doradas..." Tang Wulin no pudo evitar acercarse a Wu Zhangkong con esta pregunta.Wu Zhangkong lo miró."Muy extraño.Parece ser un aumento muy grande en la fuerza.Su fuerza innata ha aumentado por lo menos tres veces su original con la ayuda de las escamas de oro.Esta es también la razón por la cual tu poder del alma se agotó tan rápidamente.Tampoco tienes la capacidad de controlar estas escamas doradas.Sentíun cambio en tu poder de alma momentos atrás, sin embargo, puedoconfirmar que estas escamas de oro no tienen ningún vínculo con el poderde su alma.Aunque su poder del alma ha disminuido, esta oleada de poder no fue la causa principal de ella.Más bien, fue después de la aparición de este poder que el poder de su alma comenzó a disminuir.""Es bastante complicado.Sin embargo, simplemente digo que, vamos a tomar que estas escamas de oro como que son una forma de herramienta espiritual.Puede agotar tu poder del alma, pero la causa de su aparición no era tu poder del alma.Esta es una primera vez para mí también, y no puedo decir si es una buena o mala cosa.Pero para usted, esto sería una ventaja: tener una habilidad con tal capacidad explosiva.Usted debe pensar en una manera de controlar esta habilidad.Predigo que con el crecimiento del poder de tu alma, estas escamas doradas seguirán cambiando "."Entiendo", respondió Tang Wulin a Wu Zhangkong, pero tuvo cierta decepción.Elprofesor Wu era la persona más poderosa dentro de la academia, pero nisiquiera estaba claro las razones del extraño cambio de Tang Wulin.¿Quién más podría Tang Wulin buscar para más aclaraciones?Xie Xie habló con decepción, "Realmente no es una habilidad de fusión?Pero, sin mí, ¡no podría haber mostrado esa oleada de poder! "Wu Zhangkong sacudió la cabeza en desacuerdo."Eso no es una habilidad marcial de fusión del alma.Este poder debe ser similar a su Daga de Dragón de Luz de alguna manera.En otras palabras, su Daga de Dragón de luz activó esta oleada depoder dentro de su cuerpo, y así provocó la aparición de las escamasdoradas.""Si, un día, domina el control de este poder, será capaz de activarlo sin tu ayuda.Este poder es especial.Si esto es un alma marcial, entonces sería una de las almas marciales más altas que he visto.Usted sólo tiene un solo anillo de poder del alma, pero la aparición de estas escamas de oro me dio una sensación de opresión.Esta fuerza opresora es aquella que es innata al alma marcial.Cuanto más poderoso es el alma marcial, mayor es la fuerza opresora que emana.""Sí. Sí, tuve la misma sensación, "añadió Xie Xie rápidamente.
+
+Tang Wulin miró inexpresivamente mientras decía: "Maestro Wu, entonces, ¿qué debo hacer ahora?"
+
+Wu Zhangkong respondió: "Primero, tendrás que entrenar duro y aumentar tu poder del alma.A medida que su poder del alma se fortalezca, su capacidad para controlar esta oleada de poder será mayor.Ustedtambién debe trabajar en el aumento de su poder espiritual, ya que estoayudará mucho en su capacidad para controlar este poder.Además, tendrá que experimentar con frecuencia este poder, y usted puede tener a Xie Xie para ayudarle con eso.Amedida que usted y su cuerpo continúan experimentando este poder conmás frecuencia, su capacidad de controlarlo también puede mejorar.Tendré que reflexionar más al respecto."
+
+"¡Sí!"TangWulin se entristeció porque no logró obtener una respuesta de WuZhangkong, pero la reaparición de las escamas doradas había demostrado suexistencia y le había dado un hilo de esperanza. Incluso el Maestro Wu mencionó que el nivel de esta oleada de poder era alto. Eso también significó que si logró controlar bien este poder, seguramente mejoraría su fuerza en gran medida.--------------------La vida recuperó su normalidad. Aunqueel encuentro entre la clase cinco de primer grado y la clase cuatro habíaocurrido hace un día, no causó muchas olas dentro de la academia ya queera simplemente un encuentro entre las dos clases de menor rango en elgrado más bajo.
+
+Sin embargo, este encuentro llamó la atención de algunos. Por ejemplo, el de la clase tres del primer grado, que estaría compitiendo contra la clase cinco del primer grado por la tarde.
+
+Elmaestro de clase de primer año de la clase tres Ye Yingrong erabastante joven en edad, y en realidad era unos años más joven que WuZhangkong. Ella era una nueva maestra dentro de laacademia, y debido a su buena apariencia, así como su esfuerzo enenseñar bien, era muy popular entre los estudiantes de su clase.
+
+Recordó la primera vez que vio a Wu Zhangkong. Había sentido la creciente palpitación en su corazón. Estepríncipe encantador y arrogante no solo había atraído la atención delas estudiantes de la academia avanzada, sino también de ella.Se dijo que él era el rey del alma de cinco anillos. A su edad, esto era extraordinario. Lo que era más extraordinario era que él fue una vez un estudiante de allí.
+
+A los ojos de Ye Yingrong, Wu Zhangkong habría sido perfecto si no fuera por su carácter helado.Lo más importante era el hecho de que todavía era soltero y no tenía novia.
+
+Probablemente puso los ojos en alto!
+
+Wu Zhangkong era digno de su título como Encantador príncipe arrogante de hielo!Incluso logró entrenar tan bien este primer grado de la clase cinco.
+
+Ye Yingrong había observado el encuentro hace un día con los participantes de su clase.Se sorprendió cuando Xie Xie y Gu Yue lanzaron sus anillos de alma de cien años.¡Eso fue un anillo de alma de cien años!Estudiantes de este rango, ¿por qué estaban en la última clase?Ni siquiera había un solo alumno con un anillo de alma de cien años dentro de su tercera clase.Sin embargo, este Torneo de Promoción de Clase tuvo que continuar.Deseaba que su clase ganara este encuentro, para dejar a Wu Zhangkong con una profunda impresión.Para el trío ...El tiempo de la batalla era el mismo que el día anterior.Después de las clases de la tarde terminaron, el campo de la academia intermedia era donde el duelo se celebraría.Este fue el segundo día del torneo, pero como antes, no había mucha gente.Ye Yingrong hizo un esfuerzo para estar en el lugar temprano.Elequipo participante de la clase tres de primer grado estaba de maneraordenada, un estudiante masculino con rasgos delicados situados en lavanguardia.Lo que era peculiar aquí era que estos tres participantes se veían igual.Si no fuera por su familiaridad con cada uno de ellos, habría sido arduo para ella incluso distinguirlos.

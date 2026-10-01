@@ -1,0 +1,43 @@
+---
+titulo: "Capítulo 360"
+numero: 360
+novelaId: "36"
+---
+
+Aunque Xu Lizhi se mantuvo a un lado como un cordero inofensivo, ni Yuanen Yehui ni Yue Zhengyu se atrevieron a menospreciarlo.El motivo fue simple.La insignia en su cinturón que decía 'Academia Shrek' era roja.Ambos entendieron el significado de ese color.¡Esa era la marca de un estudiante del patio interior!¡Era uno de los genios que estaba en la cima del continente, destinado a convertirse en un maestro de armadura de batalla!Tang Wulin no cuestionó a ninguno de sus tres amigos, simplemente asintió con la cabeza en su lugar."Bien.Dirigiré el equipo entonces.Xie Xie es nuestro único tipo de agilidad.Tenemos tres tipos de asalto: Yuanen Yehui, Yue Zhengyu y yo.Yuanen Yehui se posicionará en el centro, y Yue Zhengyu y yo la apoyaremos a su lado.Gu Yue me apoyará con control y ataques a distancia.Por último, pero no menos importante, Xiaoyan será nuestro soporte de fuego de la retaguardia ".Todos asintieron, ni una chispa de disidencia presente.Como eran un equipo de siete hombres reunidos en el último minuto, deben confiar en la fuerza bruta para subir a la torre.Afortunadamente para ellos, Yuanen Yehui estaba en su equipo.Su poder de ataque valió la de varios maestros del alma en el mismo nivel de anillo.Además, Yue Zhengyu y Tang Wulin también estaban apareciendo.Aunque Tang Wulin no era su rival en la fuerza general, él podría soportar su igual en lo que respecta al poder explosivo.Además, también era responsable de comandar el equipo y controlar el campo de batalla.Él consideró el resto de su equipo. Gu Yue era su as oculto. Dado el tiempo suficiente para cargar, ella podría desatar atronadores ataques elementales desde lejos. Porel contrario, Xu Xiaoyan era hábil en crear y aprovechar las aperturas,una habilidad que había perfeccionado desde la naturaleza de su almamarcial. Como un tipo de agilidad, Xie Xie tampoco debía jugarse con ninguno de los dos. Luego estaba Xu Lizhi como su apoyo. Bajo la influencia de su alma marcial de tipo alimenticio, el poder de batalla de Tang Wulin aumentó en un treinta por ciento. Por ahora, solo conocía el Bollo de Puerco Recuperador de Xu Lizhi, el resto de su arsenal era un misterio. De cualquier manera, la combinación de sus fortalezas formó un increíble equipo de siete hombres.
+
+Los siete compañeros de equipo partieron hacia las puertas del campus. Antes de que Tang Wulin pudiera pedir un taxi, una camioneta de lujo se puso allí.
+
+La puerta del lado del conductor se abrió, el mayordomo de Yue Zhengyu salió para abrir el costado del pasajero para ellos.Intermitiendo a Yue Zhengyu con un pulgar hacia arriba, Tang Wulin se giró para enfrentar al resto de sus compañeros de equipo. "Súbanse".
+
+Yue Zhengyu se sentó en el frente y el resto se acomodo en seis asientos detrás de él. Normalmente,seis asientos habrían sido espacio más que suficiente para viajarcómodamente, pero la gordura de Xu Lizhi ocupaba un asiento y medio.
+
+Tang Wulin estaba sentado en la fila del medio, alojado entre Xu Lizhi y Gu Yue. Yuanen Yehui y Xu Xiaoyan intercalaron a Xie Xie en la última fila. Lo obligó a sentarse hombro con hombro con Yuanen Yehui. Su corazón latía en su pecho, su mente no podía olvidar la escena prohibida que había presenciado.
+
+"Si tienes pensamientos lascivos, te mataré", susurró Yuanen Yehui.
+
+Un escalofrío recorrió su espina dorsal y rápidamente dijo: "No, no. ¡No hay forma de que yo piense eso! "
+
+Suvoz salió más fuerte de lo esperado, y los tres sentados en la fila delmedio le lanzaron una mirada inquisitiva, Xu Xiaoyan haciendo lo mismo.Además de Xu Lizhi, que no conocía la historia de fondo, el resto entendió la situación.
+
+Todas las miradas puestas en ella, Yuanen Yehui se sonrojo de inmediato. Todavía estaba vestida con un uniforme masculino, sus habilidades de maquillaje magistrales enmascarando su sonrojo.
+
+Xie Xie palideció. ¡Dos dedos pellizcaron su muslo, girando la carne 180 grados!
+
+Se cubrió la boca para evitar gritar de dolor. Todos lo miraban con indefensas sonrisas, ni una sola persona hablaba en su defensa.
+
+En verdad, él no era el único avergonzado.Tang Wulin se encontró en una situación igualmente incómoda.
+
+Xu Lizhi era simplemente demasiado gordo.El tamaño excesivo forzó a Tang Wulin hacia Gu Yue, empujándolo contra ella.Pero esto no fue suficiente para compensar la masa corporal de Xu Lizhi.GuYue no tuvo más remedio que inclinar su cuerpo e inclinarse hacia laventana, no tuvo más remedio que sentarse en el muslo de Tang Wulin.Hubo baches ocasionales cuando la camioneta aceleró por la carretera, balanceando a los que estaban dentro de ella.Mientras sus posiciones se movían con cada bache, las caras de Tang Wulin y Gu Yue comenzaron a sonrojarse.La tierna calidez de la carne contra la carne transportaba calor a sus mejillas, la incomodidad llenando el aire entre ellos.Pero no había nada que pudieran hacer.No pudieron ajustar sus asientos mientras la camioneta estaba en movimiento.Como último esfuerzo, Tang Wulin intentó empujar a Xu Lizhi, pero el gordo se negó a ceder.Tang Wulin podía sentir el latido de su corazón, la sequedad de su boca y las mariposas revoloteando en su estómago.Nunca antes se había sentido así.Tenía solo trece años, al comienzo de la pubertad.Aún ignoraba los asuntos entre niños y niñas.Todo lo que podía hacer era sentarse derecho como una flecha, haciendotodo lo posible para evitar el contacto visual con Gu Yue.Pronto abandonaron el centro de la ciudad, acelerando hacia la emblemática sede central de la Pagoda del Espíritu.Todo estaba tranquilo dentro de la camioneta.XieXie había recuperado su complexión normal y se sentó como un niñotemeroso del castigo inminente, con las manos apretadas sobre lasrodillas y la cabeza baja, sin atreverse a mirar a Yuanen Yehui.El olor de la juventud estaba en el aire.
+
+Después de cuarenta minutos en la carretera, finalmente llegaron a la Pagoda del Espíritu. Ciudad Shrek era realmente enorme ...
+
+La camioneta se detuvo en seco. Tan pronto como las puertas se abrieron, Gu Yue estalló fuera.
+
+Tang Wulin todavía podía sentir su calor en sus muslos, y su olor se mantuvo. Pero finalmente tenía algo de espacio para respirar. Dejó escapar un suspiro de alivio al salir del vehículo.
+
+La Pagoda del Espíritu estaba justo frente a él.Tuvo que estirar el cuello para contemplar toda su magnificencia.Aun así, no podía ver la parte superior de la pagoda.La mitad superior del edificio atravesó las nubes, solo su silueta vagamente discernible desde ese punto en adelante.Fue una imagen surrealista para él.Siguiendo sus acciones, los otros desembarcaron uno después del otro.Aquellos que estaban visitando la sede de la Pagoda del Espíritu por primera vez fueron atrapados en un estado de asombro similar.¡Este era un lugar de absoluta autoridad en el continente!Con todo, la ciudad Shrek era la ciudad más grande del continentepor dos razones principales: la Academia Shrek y la sede de la Pagoda del Espíritu.Si las dos grandes organizaciones combinaban fuerzas, incluso la Federación solo podía temblar ante ellos.La ciudad Shrek era altamente autónoma.Además de la región que rodea la sede de la Pagoda del Espíritu, toda la ciudad era solo autogobernada.La Pagoda del Espíritu, por otro lado, fue mucho más influyente.Mantuvo una buena relación de cooperación con la Federación y la Academia Shrek.Elconcilio de la Pagoda del Espíritu había elegido sabiamente abstenersede la política y no controlar a ningún maestro del alma.Treinta y seis miembros formaron el consejo central completo.No solo eso, se manejó de forma diferente a la forma en que operaban los grandesclanesy otras organizaciones.Además, algunos de los miembros del consejo fueron enviados por la Federación.Aunquenumerosos maestros del alma se unieron a la Pagoda del Espíritu, elnúcleo de las fuerzas bajo su mando contaba con menos de tres mil.Junto con el avance de la tecnología del alma, estos maestros del alma no eran una amenaza para la Federación.Como tal, la Federación y la Pagoda del Espíritu compartieron una relación amistosa.
+
+Elfundador de la Pagoda del Espíritu, el Espíritu de Hielo Douluo Huo Yuhao, fundó elsistema del consejo que permitió que la Pagoda del Espíritu persistieradurante diez mil años. Y ahora era uno de los mayores poderes del continente.
+
+Nadiesabía cuán profunda era la fundación de la Academia Shrek , y la riqueza yel número de maestros de la Pagoda del Espíritu eran una incógnita.

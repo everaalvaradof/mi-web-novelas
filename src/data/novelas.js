@@ -662,5 +662,24 @@ export const novelas = [
             title: "Leer El emperador marcial con sangre de dragón en Español - Novelas Ligeras",
             description: "Disfruta de El emperador marcial con sangre de dragón en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
+    },
+    { 
+        id: "036", 
+        titulo: "La leyenda del Rey Dragón", 
+        titulo2: "THE LEGEND OF DRAGON KING",
+        genero: "Acción, Aventura, Comedia, Fantasía, Artes Marciales, Mecha, Vida Escolar, Ciencia Ficción, Shounen, Xuanhuan", 
+        anio: "2026", 
+        imagen: "/portada/36.webp",
+        sinopsis: "La Era de los Dioses hace mucho que terminó, sus voces ya no se escuchan en el continente de Douluo. La humanidad, de pie sobre los hombros de leyendas de su historia, tecnología avanzada del alma a alturas inconcebibles. Los humanos de Douluo inventaron armas de destrucción masiva, armaduras mecanizadas y metales vivos. Con estos avances, continuaron conquistando los océanos y descubrieron dos nuevos continentes. Para alimentar estas nuevas tecnologías, la humanidad cazó las bestias del alma al borde de la extinción. Una vez que la fuerza dominante de Douluo, las pocas bestias del alma sobrevivientes ahora se esconden en los rincones más oscuros de su último santuario. Todos los más débiles han sido cazados, dejando solo a los más fuertes en el corazón del bosque. Las bestias del alma, que no están dispuestas a desaparecer, planean un levantamiento para su supervivencia. En medio de esto, un dios de una era olvidada se despierta en las profundidades del Gran Bosque de Dou Star para buscar venganza por las bestias del alma. Cuando la oscuridad se adentra en el abismo, la esperanza se encuentra en un joven que posee un poder más allá de la divinidad dentro de sí mismo: ¡Tang Wulin! Esperanza para la humanidad y las bestias del alma, como el puente entre los dos. Encuentra su camino en los legendarios salones de la Academia Shrek, donde aprende a ejercer sus prodigiosos poderes, hace amigos y encuentra aliados, y eventualmente se convierte en un líder imponente. A medida que aprende a aprovechar su fuerza, el peligro acecha dentro de las sombras mientras las distintas facciones de la humanidad maniobran y traman para usurpar la Academia Shrek. Tang Wulin descubre la amenaza para el único mundo que conoce mientras se hunde más en la intriga. Mientras tanto, camuflado por el caos y sin el conocimiento de los humanos, la trama de las bestias del alma continúa avanzando constantemente. ¡Para defender lo que ama y recuperar lo que se perdió, Tang Wulin debe buscar los legados de leyendas del pasado y desbloquear todo el poder del Rey Dragón Dorado!",
+        totalCapitulos: 1989,
+        capitulosPublicados: "1989",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Tang Jia San Shao",
+        tag: "",
+        seo: {
+            title: "Leer La leyenda del Rey Dragón en Español - Novelas Ligeras",
+            description: "Disfruta de La leyenda del Rey Dragón en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
     }
 ];

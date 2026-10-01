@@ -1,0 +1,49 @@
+---
+titulo: "Capítulo 138"
+numero: 138
+novelaId: "36"
+---
+
+No eran ingenuos y soltaron sus almas marciales tan pronto como entraron.---------------Dentro de la sala de monitoreo de la Pagoda del Espíritu.
+
+El miembro del personal se volvió hacia Wu Zhangkong y dijo: "Estos niños son bastante buenos. Profesor Wu realmente es muy bueno en la enseñanza. "
+
+Wu Zhangkong asintió con humildad. "Veamos cómo lo hacen primero."
+
+Aunqueél siempre había sido el tipo de suprimir sus emociones y mantener unaexpresión de piedra, no podía dejar de sentirse satisfecho con susdiscípulos.
+
+A medida que los veía someterse a suspruebas, un lema de 20.000 años de edad, se metió en su mente: AcademiaShrek  sólo acepta monstruos, no la gente común.Independientemente del período de tiempo, la Academia Shrek nunca había fallado en mantener ese lema. Este lema fue grabado en cada estudiante de Shrek, inculcado con un sentido de orgullo.
+
+Me pregunto hasta dónde llegarán estos mocosos.
+
+Conel fin de convertirse en un monstruo, además de tener talento deprimera clase, uno también necesitaba una perseverancia inflexible. De sus observaciones, los cinco de sus estudiantes poseían talento, con Gu Yue siendo el más talentoso entre ellos. No había registros de su alma marcial o algo similar dentro de la Academia Shrek y la historia de la Pagoda del Espíritu. Milagrosamente,fue capaz de controlar cinco elementos, y a pesar de que su habilidaddel alma sólo podía aumentar la eficacia con que utiliza su alma paracontrolar los elementos, todavía era capaz de combinar los cincoelementos en una variedad de ataques. ¿Qué necesidad tenía para las habilidades del alma extra entonces?Su poder espiritual también había alcanzado alturas sin precedentes, especialmente cuando se comparaba con sus compañeros. Sóloel hecho de que fue capaz de alcanzar el reino de Conexión Espiritual asu edad, combinado con su velocidad de mejora, significó que cuando segraduara en seis años, podría llegar al reino del Mar Espiritual. Si realmente logró tal hazaña sin precedentes, entonces su potencial futuro sería ilimitado, agitando el mundo de Maestros del Alma.
+
+Xie Xie fue sin duda la segunda persona más talentosa.Susalmas marciales gemelas eran un regalo raro y asombroso, sin importarla era, y aunque sus almas marciales gemelas eran artificiales más bienque naturales, todavía eran beneficiosas para él.Nadie podría decir con certeza, pero en el futuro, Xie Xie podría ser capaz de ...En cuanto a Zhang Yangzi y el talento de Wang Jinxi, sólo podía ser considerado como decente.Niel rey dragón de hueso ni el águila sombra fantasma podrían ser considerados como almas marciales del nivel de pico, perolos dos eran compatibles.Si pudieran un día controlar perfectamente su habilidad de fusión, sufuerza de combate estaría entonces en el mismo nivel que un genio depico.Aunque, sólo el tiempo podría decir si o no perfeccionaran su habilidad de fusión del alma.Después de todo, su comprensión de su habilidad de fusión estaba todavía en un nivel rudimentario.Por último, estaba Tang Wulin.WuZhangkong lo había nombrado capitán del equipo porque vio una cualidaddel personaje de Tang Wulin que no podía encontrarse en sus compañeros.Era tenaz, su alma llamada basura marcial nunca lo había desanimado de cultivar duro.Poco a poco siguió detrás de sus compañeros de clase, paso a paso.Tambiéntenía la fuerza divina innata, haciéndolo el más fuerte entre ellos ypodría compensar la deficiencia de su alma marcial en estos rangos inferiores.Lo que era aún más notable, sin embargo, era que tenía una variante de alma marcial y poseía la peculiar Garra de Dragón dorado. De los cinco individuos, era posiblemente el más fuerte, pero aún era demasiado pronto para decirlo. Si su alma marcial continuaba mutando, entonces había una gran posibilidad de que se convirtiera en un super genio como Gu Yue.
+
+Eltemperamento constante de Tang Wulin lo convirtió en la mejor opciónpara un líder, y también fue natural al cuidar a todos a su lado. El punto más importante, sin embargo, fue que era lo suficientemente valiente como para asumir esta responsabilidad. La mayor esperanza de Wu Zhangkong para Tang Wulin fue que el madurara y se convirtiera en uno de los genios de esta generación.
+
+Los martillos refinados milenarios también dejaron claro a Wu Zhangkong que TangWulin era un genio de primera clase en el arte de forjar y que no sedesviaría de su profesión secundaria.Aunquela herrería no era tan popular como las tres grandes profesiones de Maestro Mecha , los herreros de quinto rango y mayores eran uno de lostalentos más escasos del continente. Aunque la armadura debatalla que diseñaba y que hacía era habilidades de nivel extremadamentealto, la herrería era la fundación que la construyeron. Conmateriales excelentes, los diseños podrían ser incluso mejores y lamano de obra de una calidad aún mayor, permitiendo que la armadura debatalla alcance el pico.
+
+Wu Zhangkong realmente deseaba que Tang Wulin viajara lo más lejos posible. Situviera que elegir cuál de los cinco estudiantes tomará el examen paraentrar en su organización, entonces Tang Wulin definitivamente sería elmás adecuado.Él no podía hacer cabezas o colas de Gu Yue, pero podía decir que ella llevaba muchos secretos y tendría que vigilarla de cerca.------------------TangWulin usó sus vides de hierba de plata azul para separar la hierba delante deellos y crear un camino, permitiéndoles avanzar lenta y cuidadosamente.
+
+Como este era su examen final de fin de curso, su prioridad número uno ahora era sobrevivir. Como tal, cazar bestias del alma era una prioridad secundaria colocada en la parte posterior de sus mentes.
+
+Encontrar un área segura para ocupar era su objetivo más importante ahora.
+
+"No hay señales de las bestias de almas en la parte trasera o los lados", informó Zhang Yangzi.Mientras Tang Wulin asintió con la cabeza, un martillo de plata pesada apareció en su mano izquierda con un destello de luz. Su mano derecha estaba vacía en caso de que necesitara usar su Garra de Dragón de Oro.
+
+De repente, un gruñido bajo vino de delante de ellos, anunciando la llegada de una gran bestia cuando saltaba.
+
+Era un mono gigante tan alto como un ser humano. Un leve olor a pescado flotaba de su cuerpo cubierto de ceniza negra, mientras los miraba con ojos carmesíes.
+
+Despuésde su primera experiencia en la plataforma de la ascensión espiritual, Tang Wulin estudió fervientemente las diversas especies debestias del alma. Eso, combinado con sus experiencias en laplataforma de la ascensión espiritual, aumentó su comprensión de lasbestias del alma a un nivel incomparable con antes.Con un solo vistazo, identificó a este mono como un mono brazo de hierro de cien años, un tipo de bestia de alma parecida a un humano.Era rápido y fuerte y poseía brazos como el acero.El aspecto más problemático, sin embargo, fue su habilidad de multitud, Amenaza.Sialguien con poder espiritual débil fue golpeado por su Amenaza,entonces recibirían su efecto completo e incluso podrían perder su deseode luchar inmediatamente.Por lo tanto, el mejor método de tratar con un mono brazo de hierro era golpear primero y ganar rápidamente.
+
+Tang Wulin lanzó al instante su martillo, enviándolo volando en un arco hacia la bestia.Mientras volaba por el aire, Tang Wulin dio grandes pasos adelante y cargó.Las escamas de oro se arrastraban por su brazo derecho mientras lanzaba su ataque frontal.Mientras lo hacía, una hebra de hierba de plata azul se deslizó por el suelo, girando alrededor del mono brazo de hierro y atándolo.Xie Xie también había actuado en el momento en que Tang Wulin hizo su movimiento. Se lanzó hacia delante y se quedó detrás de Tang Wulin. TangWulin agarró una de las hebras de hierba de plata azul atadas alrededorde su cintura y lo hizo girar hacia arriba, lanzando Xie Xie en elaire. Xie Xie sobresalto maravillosamente sobre la cabeza del mono brazo de hierro. Su Daga de Dragón de Luz parpadeó mientras apuñalaba hacia la parte posterior de la cabeza del mono.
+
+Como bestia de un alma humanoide, la parte trasera de la cabeza del mono brazo de hierro era un punto débil.
+
+Un par de pequeñas bolas de fuego con brillos verdes débilmente discernibles atravesaron el aire como flechas.Esto podría parecer insignificante, pero el viento aceleró la bola de fuego.Aunque las bolas de fuego pudieron haber sido débiles, eran intensamente rápidas.Enese momento apareció una luz de plata delante del Mono Brazo de hierro,bloqueando su vista de Xie Xie que se elevaba por el aire y sobre él.Tang Wulin, Xie Xie, y la coordinación de Gu Yue fue increíble. Había llegado a un punto en el que se podría decir que estaban a un pelo de alcanzar el pico.
+
+Zhang Yangzi y Wang Jinxi no habían lanzado sus propios ataques.En cambio, se habían reunido rápidamente y observado sus alrededores.Apesar de que su habilidad de fusión aún no se había completado, todavíasería una opción formidable si se encuentran con un enemigo poderoso. Sumeta actual era protegerse contra cualquier otra bestia del alma quepudiera aparecer mientras que los otros tres cuidaron del mono delhierro.El Mono de Hierro de cien años no podía hacer nada frente a las pequeñas bolas de fuego rápidas;Ni siquiera podía levantar un brazo a tiempo para protegerse. Todo lo que podía hacer era bajar la cabeza y golpearlas con su frente dura, enviando chispas volando por todas partes. Al mismo tiempo, balanceó el brazo y se encontró con los martillos de plata pesada refinada milenario
+
+El martillo voló hacia atrás, pero también se había sacudido el mono brazo de hierro.Después de todo, ese martillo había llevado más de quinientos kilogramos de fuerza.No habría sido fácil recibir tal ataque, incluso si el simio tuviera una fuerza divina innata.
