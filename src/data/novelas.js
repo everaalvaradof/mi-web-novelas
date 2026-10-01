@@ -650,7 +650,7 @@ export const novelas = [
         titulo2: "THE MARTIAL EMPEROR WITH DRAGON BLOOD - 龙血武帝",
         genero: "Acción, Fantasía, Harem, Artes Marciales, Novela Ligera, Ranobe, Xuanhuan", 
         anio: "2026", 
-        imagen: "/portada/35.webs",
+        imagen: "/portada/35.webp",
         sinopsis: "[Libro del Fuego Misterioso] ¡Todos los mundos, todos los Dao’s compiten! Un joven, atrapado en el Pilar de la Ascensión del Dragón y despertado por el poder de millones de dragones, desciende de los cielos. Apaga la antigua sangre de dragón, cultiva la Técnica Fudo, mata a los nueve cielos por amor, crea un reino eterno con tres mil poderes y asciende a la cima del Emperador de la Batalla.",
         totalCapitulos: 5273,
         capitulosPublicados: "5273",
