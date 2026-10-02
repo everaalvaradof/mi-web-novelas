@@ -681,5 +681,24 @@ export const novelas = [
             title: "Leer La leyenda del Rey Dragón en Español - Novelas Ligeras",
             description: "Disfruta de La leyenda del Rey Dragón en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
+    },
+    { 
+        id: "037", 
+        titulo: "Esclavo de las Sombras", 
+        titulo2: "Slave to the Shadows",
+        genero: "Aventura, Fantasia, Romance, Comedia, Acción, Misterio", 
+        anio: "2026", 
+        imagen: "/portada/37.webp",
+        sinopsis: "Habiendo crecido en la pobreza, Sunny nunca esperó nada bueno de la vida. Sin embargo, ni siquiera él esperaba ser elegido por el Hechizo de la Pesadilla y convertirse en uno de los Despertados, un grupo de élite dotado de poderes sobrenaturales. Transportado a un mundo mágico en ruinas, se encontró enfrentado a terribles monstruos -y a otros Despertados- en una mortal batalla por la supervivencia. Y lo que es peor, el poder divino que había recibido tenía un pequeño, pero potencialmente mortal efecto secundario...",
+        totalCapitulos: 3202,
+        capitulosPublicados: "3202",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Guiltythree",
+        tag: "Acción, Romance, Aventura, Sistema, Magia, Debilafuerte, Superpoderes,Transmigración, Antihéroe,",
+        seo: {
+            title: "Leer Esclavo de las Sombras en Español - Novelas Ligeras",
+            description: "Disfruta de Esclavo de las Sombras en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
     }
 ];
