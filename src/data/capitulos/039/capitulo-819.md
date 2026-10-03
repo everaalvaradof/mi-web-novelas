@@ -1,0 +1,47 @@
+---
+titulo: "Capítulo 819: el origen del acorazado ecológico"
+numero: 819
+novelaId: "39"
+---
+
+“En segundo lugar, la Federación Douluo siempre ha estado muy celosa de Shrek y la Secta Tang. Ha estado trabajando duro para cultivar varias fuerzas, especialmente en la construcción de la flota espacial. Debería saber que los estudiantes que se graduaron en el patio interior de tu Academia Shrek no pueden unirse al ejército. Incluso los estudiantes que se graduaron en el patio exterior difícilmente pueden servir como comandantes de acorazados. Esta es la supresión de ti por parte de la Federación. Para la Secta Tang, incluso en el Bloqueo de tecnología y recursos. Todos estos son juegos de nivel superior. Un día, Shrek y Tangmen, un reino independiente, estarán completamente controlados por la Federación, mientras que también controlarán el árbol eterno, el recurso más importante y preciado.”
+
+“Entonces, la Secta Tang y la Academia Shrek deben tener la capacidad de protegerse a sí mismas. Mientras mantienen un perfil bajo, han estado trabajando duro para cultivar su propio poder. Pero en el planeta padre, el espacio para exhibición es demasiado pequeño. Aquí, se puede decir que es otro bastión de Tangmen y Shrek Academy. Y somos los socios más confiables. Por lo tanto, el acorazado ecológico nos pertenece, y también pertenece a Tangmen y Shrek Academy. Recursos, Tang Sect y Shrek Academy producen tecnología. Aquí, hay miles de ingenieros y personal científico y técnico de Tang Sect.”
+
+Lan Xuanyu frunció el ceño:” La Academia y la Secta Tang ya están en la Federación. ¿Es así? ¿Difícil?”
+
+El viejo árbol dijo:” Es difícil de decir. Aunque la Federación ha estado tratando de reprimirnos. Pero también tiene que depender de nuestra fuerza. Después de todo, la potencia de nivel dios sigue siendo una existencia estratégica insustituible. Y nuestra Secta Tang y la Academia Shrek tienen la mayor cantidad de potencias a nivel de dios. Mientras mantenga su ventaja cuantitativa en esta área, la Federación solo puede reprimirnos en secreto y no atreverse realmente a actuar sobre nosotros.”
+
+“Pero para planificar el futuro, lo más importante es que tienes una fuerza verdaderamente poderosa. Nunca hemos querido tratar con la Federación, pero debemos protegernos. La escena en la que la Academia Shrek explotó hace diez mil años no debe repetirse. Por eso, a lo largo de los años, hemos ido acumulando nuestras propias fuerzas.”
+
+“Da un paso atrás y di. También hay muchos dilemas externos que enfrenta la Federación ahora. Los poderosos forasteros están esperando al margen, y la guerra extranjera de la flota de la Federación no es fácil. Cuando la federación lo necesite, es probable que nuestro punto fuerte sea el último cortafuegos de toda la federación.”
+
+Lan Xuanyu asintió y dijo:” Entiendo. Pero, este alto secreto, ¿sabía que era un poco temprano?”
+
+El viejo árbol sonrió y dijo:” Era un poco temprano antes de tu avance, pero lo lograste. Entrar al patio interior en el futuro ya es una certeza. Además, eres el heredero del timón de la escuela de vida, necesitas saber esto. Porque este acorazado ecológico en sí mismo también forma parte de nuestra escuela de vida. La investigación sobre la transformación de la energía vital en poder es lo que mejor se nos da.”
+
+Lan Xuanyu dijo:” ¿Qué le pasa a este acorazado ecológico? ” ¿Es el cuerpo de la bestia alma poderosa muerta el cuerpo principal del acorazado?”
+
+El viejo árbol asintió,” El principio básico es este, diferentes bestias espirituales tienen diferentes habilidades. El cuerpo de este Dapeng con armadura plateada no era tan grande. Fuimos nosotros quienes usamos la biotecnología de nuestra escuela de la vida para amplificar su energía vital, y después de un largo tiempo de absorber y transformar la energía vital, se convirtió en lo que es ahora. Se utiliza para fabricar el caparazón de un acorazado ecológico. Y todas las capacidades del acorazado ecológico, incluidas las capacidades de vuelo, incluidas las capacidades de combate, están simulando las capacidades de esta bestia del alma agrandada antes de que estuviera viva. Por eso, a la hora de elegir la carrocería de un acorazado ecológico, también debemos tener mucho cuidado.”
+
+Lan Xuanyu no pudo evitar sentirse desconcertado cuando escuchó las palabras del anciano. Solo entonces comprendió que el nivel de biotecnología de la escuela de la vida había alcanzado tal nivel. ¿Puede incluso el ¿El cadáver sigue creciendo? Esto es demasiado aterrador.
+
+Da Ming dijo solemnemente: “La mayor ventaja del acorazado ecológico en sí es que después de que finalmente se fabrica, no es extremadamente frío, sino una forma de vida creada. Como conductor, es su cerebro. Solo necesita ser lo suficientemente fuerte para tener al menos el poder espiritual del reino espiritual, y solo necesita una existencia para conducir un barco de guerra ecológico.”
+
+El viejo árbol sonrió y dijo:” Buque de guerra ecológico, en el futuro, definitivamente se convertirá en uno de los buques de guerra de más alto nivel en toda la Federación. Debido a que tiene una poderosa capacidad de imitación, incluso podemos retener las características de ahorro de dinero de la bestia espiritual y confiar en los medios tecnológicos y la dirección de investigación de nuestra escuela de vida para amplificar la capacidad corporal de la bestia espiritual original. Por lo tanto, cada buque de guerra ecológico será único y tendrá sus propias y poderosas capacidades.”
+
+Lan Xuanyu estaba atónito. Él mismo es un estudiante del Sistema de Comando de Star Wars y el líder de escuadrón de la Clase Experimental de Star Wars. Pero la teoría de este acorazado ecológico todavía es extremadamente nueva para él.
+
+Usando el cuerpo de la bestia del alma como un acorazado, ¿cómo se verá en la batalla?
+
+Er Mingdao: “La mayor ventaja de un acorazado ecológico es que no solo es muy flexible, sino que también como un acorazado El maestro del alma tiene su propia habilidad especial. Los buques de guerra ordinarios solo tienen guías del alma para atacar. ¿Te imaginas cómo sería para los buques de guerra con habilidades del alma? La batalla interestelar entrará en un progreso entre edades con el surgimiento de buques de guerra ecológicos. Los poderosos buques de guerra ecológicos pueden realizar tareas que son simplemente imposibles para los buques de guerra comunes. Además, el acorazado ecológico se basa en la biotecnología y es inmune a la mayoría de los radares de detección.”
+
+“La mayoría de los radares de detección son la detección de calor y la detección de metales. No hay metal en la superficie de nuestro acorazado ecológico, y hay muy pocos componentes metálicos en el interior, que pueden estar completamente cubiertos por su propia carne y sangre gruesas. Y la autorregulación de la temperatura corporal puede hacer que tenga la temperatura deseada.”
+
+El más impresionado de Lan Xuanyu es el maestro del alma en el acorazado. Esto es realmente interesante, ¿es un acorazado que puede liberar habilidades del alma?
+
+El viejo árbol sonrió y dijo:” Con el desarrollo de la ciencia y la tecnología, cuando la tecnología alcanza gradualmente un pico, es necesario lograr más avances a través de ideas caprichosas. La Secta Tang finalmente presentó esta idea. Después de una investigación y exploración a largo plazo en la misma línea que Senluo Soul Beast, finalmente lograremos algo. El acorazado Roc blindado plateado frente a ti será un Capítulo de acorazado sin precedentes. También sabe que con el avance de la tecnología de guía del alma, el papel de los maestros del alma se debilita constantemente, incluso si se trata de una potencia de nivel de dios, frente a un poderoso acorazado por encima del nivel de acorazado, solo puede ser un desvío. Aunque los maestros espirituales todavía dijeron que debido a su pequeño cuerpo, los poderosos maestros de armaduras de batalla pueden realizar muchas tareas que los barcos de guerra no pueden realizar. Pero cualquiera que tenga un ojo perspicaz puede ver que con la fuerte presencia de los acorazados espaciales, el maestro del alma es realmente mucho menos importante que antes. Incluso una persona común también puede actuar como comandante de un acorazado, y el maestro del alma solo puede ser la guinda del pastel.”
+
+“Sin embargo, es diferente para nuestro buque de guerra ecológico. Nuestro buque de guerra ecológico en sí es extremadamente poderoso y muy personalizado, y es casi imposible crear exactamente el mismo buque de guerra ecológico. Y si quieres convertirte en el comandante de un acorazado ecológico, debes tener superpoder espiritual y del alma, de lo contrario no podrás convertirte en el cerebro de un acorazado ecológico en absoluto. Por lo tanto, el comandante del acorazado ecológico debe tener un nivel de cultivo superior al Título Douluo, y su poder mental debe alcanzar el reino espiritual. Esta barrera de entrada excluirá a la mayoría de las personas. En cuanto a la principal potencia de Soul Master, ¿quién más tiene más que nuestra Academia Shrek? Por lo tanto, el futuro acorazado ecológico será exclusivo de nuestra Academia, Tang Sect y Sun Luo Star Soul Beast. Incluso si otros quieren reproducirlo, es imposible.”
+
+Lan Xuanyu ya estaba conmocionado en este momento, y no pudo evitar decir:” ¿Puedo ver cómo se ve este acorazado ecológico durante el combate? “”

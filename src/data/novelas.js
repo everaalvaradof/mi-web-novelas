@@ -700,5 +700,24 @@ export const novelas = [
             title: "Leer Esclavo de las Sombras en Español - Novelas Ligeras",
             description: "Disfruta de Esclavo de las Sombras en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
+    },
+    { 
+        id: "039", 
+        titulo: "Douluo Dalu 4: Lucha definitiva", 
+        titulo2: "DOULUO DALU 4: ULTIMATE FIGHTING, 斗罗大陆IV终极斗罗",
+        genero: "Acción, Comedia, Mecha, Novela ligera, Ranobe, Romance, Vida escolar, Shounen, Xuanhuan", 
+        anio: "2026", 
+        imagen: "/portada/39.webp",
+        sinopsis: "Diez mil años después, el hielo se derritió. El equipo de investigación de la Federación de Almas encontró un huevo con un patrón dorado y plateado en el extremo norte del país, y después de examinarlo con el aparato, encontraron que había signos de vida en su interior. Con prisa, llevaron el huevo al instituto para incubar. El huevo eclosionó, pero de él salió un bebé, un niño, como un ser humano, nació de un huevo.",
+        totalCapitulos: 1789,
+        capitulosPublicados: "1789",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Tang-Family-Sao",
+        tag: "Adaptado a Manhua, Compañeros Bestiales, Bestias, Hermosa Protagonista Femenina, Protagonista Tranquilo, Protagonista Inteligente, Cultivo, Protagonista Astuto, Protagonista Determinado, Intereses Amorosos Devotos, Dragones, Cultivo Rápido, Elementos de Juego, Dioses, Protagonista Masculino Guapo, Protagonista Masculino, Múltiples Reinos, Política, Reencarnación, Romance Lento, Intereses Amorosos Fuertes, Salto Temporal",
+        seo: {
+            title: "Leer Douluo Dalu 4: Lucha definitiva en Español - Novelas Ligeras",
+            description: "Disfruta de Douluo Dalu 4: Lucha definitiva en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
     }
 ];
