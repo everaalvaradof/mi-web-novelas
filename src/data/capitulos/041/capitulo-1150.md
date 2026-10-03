@@ -1,0 +1,47 @@
+---
+titulo: "Capítulo 1150"
+numero: 1150
+novelaId: "41"
+---
+
+¡Tus labios no se mueven, pero tus pensamientos son tan fuertes que podría escucharlos incluso si estuviera sentado en el continente! Estás tratando de pensar en formas en las que esto puede ser contraproducente para mí, ¿no? ?
+
+Jonah parpadeó, y eso fue suficiente para delatarlo.
+
+¡Ja! Típico. Bueno, déjalo. ¿En qué has pensado hasta ahora?
+
+Ella preguntó esto de una manera extremadamente relajada, pero Jonah no se lo creía. Habían pasado diez minutos desde que terminó la conversación con las familias, y en todo ese tiempo, el Obispo no se había movido ni un centímetro. Ni siquiera supo cuando ella se había vuelto hacia él para estudiarlo lo suficiente como para saber lo que estaba pensando y, por supuesto, tenía razón en lo que había adivinado.
+
+Se quedó en silencio durante unos segundos, sin saber si debía tomar la decisión de responderle. Sin embargo, se maldijo a sí mismo después de eso, ya que esto no era nada comparado con todas las cosas que había hecho hasta ahora.
+
+Se me ocurrieron dos cosas. Primero, mi discípulo tiene a la secta TriCobra de su lado. Él puede decidir usarlos para contactar directamente a las familias con las que acaba de hablar y ofrecerles a sus hijos e hijas de regreso, ilesos, a cambio de ayudarlo. La secta TriCobra incluso tiene experiencia en la intermediación de tales asuntos, por lo que puede revisarlos para parecer válido. De esta manera, permanecerá en un estado extremadamente debilitado.
+
+Hizo una pausa cuando la vio sonreír, pero en lugar de decir algo, ella solo asintió y agitó la mano, indicándole que continuara.
+
+El segundo es más audaz. Después de que los refuerzos partan, él puede hacer que la secta TriCobra los ataque mientras están en camino. Es posible que la secta ni siquiera sea la que lo haga, hay muchos enemigos de la Iglesia que están buscando en busca de puntos vulnerables que puedan explotar para debilitar a su enemigo, así que si la información se hace pública, no creo que haya escasez de guerreros. Esto también logrará la tarea de debilitar el orgullo elevado que viene con estar en el que la Iglesia disfruta, que espero que sea el objetivo de la secta TriCobra de todos modos, ya que han intervenido para atacar a uno de los santos. Hay algunas otras formas en las que puedo pensar pero estas son las mejores que yo haría perseguiría si estuviera en la piel de mi discípulo.
+
+Por unos momentos, casi pareció como si hubiera acertado. El obispo se limitó a mirarlo, sus ojos brillando con una emoción que él no podía percibir. Sin embargo, después de que pasaron unos segundos se echó a reír e hizo que la esperanza que había aparecido en el rostro de Jonah sin que él se diera cuenta, desapareció en un instante.
+
+No pude resistirme ¡dar esperanza y luego quitarla es muy divertido! Eso es exactamente lo que hice en el caso de tu continente, así que desearía poder ver la cara de tu discípulo, ahora mismo. Tu primer método es absurdo, ya que las familias auxiliares nunca se atreverían a ir abiertamente en contra de la Iglesia. La Iglesia es el quid que utilizan para mantener el control del área que están a cargo. Si hay un indicio de que traicionan a su benefactor hay muchas contramedidas en un lugar que pueda masacrarlos antes de que puedan respirar. Lo mismo puede decirse de todos los miembros talentosos de la Iglesia, que incluyen a los comandantes, por lo que no hay forma de que puedan ir contra mí de ninguna manera sin morir primero. para tu segundo método es prometedor, definitivamente, pero no sabes nada sobre los asuntos de los Santos y Paragones. Existe un suave equilibrio que existe entre todos los que están en ese reino. En su ausencia, solo la muerte y la destrucción generalizadas estarían presentes y ningún santo lo haría jamás tengan la tranquilidad de entrenar o hacer lo que deseen. Los Paragons de la secta TriCobra rompieron este equilibrio cuando atacaron. Es posible que hayan ganado mucho al hacerlo pero se han abierto a las represalias. Cualquiera de sus fuerzas está lista para ser blanco de los santos de la Iglesia en este momento y eso también se aplica a cualquiera que acepte sus contratos. Escuché que se prepararon para esto, así que todos se han escondido en sus casas seguras. Ninguno de ellos se atreverá a salir ni siquiera para misiones menores, y de lo que hablas sería una empresa importante. Si son lo suficientemente tontos como para intentar un truco como ese sólo les espera la muerte. ¿De verdad esperabas que no pensara en todas estas cosas antes de hacer mi movimiento? Tonto.
+
+Como balas de cañón disparadas en su dirección, cada una de las palabras lo golpeó y casi lo hizo tambalear cuando vio rápidamente que la esperanza de Angaria se desvanecía. Sin embargo, la confianza que tenía en su discípulo seguía siendo fuerte, así que se aferró a la creencia de que Daneel encontraría un camino donde él no lo había hecho.
+
+Como balas de cañón disparadas en su dirección, cada una de las palabras lo golpeó y casi lo hizo tambalear cuando vio rápidamente que la esperanza de Angaria se desvanecía. Sin embargo, la confianza que tenía en su discípulo seguía siendo fuerte, así que se aferró a la creencia de que Daneel encontraría un camino donde él no lo había hecho.
+
+Ella parecía haber escuchado esto también, cuando dijo: No lo entiendes. Y espero que también sea lo mismo en el caso de tu discípulo. Verás hay un cierto protocolo que existe para en estas situaciones. La Iglesia está constantemente en guerra, por lo que la toma de hijos e hijas como rehenes no es nada nuevo. La mayoría de las veces, no regresan, pero aún así, siempre se da apoyo… ¿Sabes por qué? Es porque la miserable cantidad de los recursos que prometen no significan nada para ellos y, a cambio, aseguran la confianza de todos los demás que deambulan por el continente. Además, también se equivoca acerca de cómo llegaría la ayuda. En estos casos, las familias reponen los recursos de el esfuerzo de guerra directamente, lo que significa que podría pedir cualquier cosa que quisiera. Después de una cuidadosa consideración, me decidí por otro regimiento del cuerpo Camaleón. Eso ha sofocado con éxito los pensamientos rebeldes de los de afuera. ¿No te diste cuenta de que han callado? Todo está cayendo en su lugar. Yo no No veo ningún propósito detrás de esperar más, así que atacamos tan pronto como lleguen. Ahora, cállate un rato.
+
+Sintió que el hechizo que cerraba su boca se activaba de nuevo, pero esta vez, Jonah le dio la bienvenida ya que realmente no tenía nada que decir.
+
+Ella desapareció poco después, pero como no le habían dado permiso para seguirla, solo pudo sentarse en su silla, rodeado de las vísceras de los analistas que parecían disfrutar de su decepción. Su mente seguía avanzando pesadamente, tratando de pensar en más formas que tal vez no se le hubieran ocurrido al obispo, pero falló mientras seguía siendo distraído por sonidos del exterior que no podía explicar. Escuchó que se abrían puertas pesadas, objetos pesados ​​que caían en tierra firme y que se transportaban carros pesados ​​a diferentes partes de la sede. En un momento, escuchó un fuerte grito que significaba que ella no se había equivocado: los refuerzos habían llegado con éxito, y parecía que no tendrían dificultad en fusionarse con los restos de la tercera ola. Unos minutos después de eso, casi juró que escuchó el sonido de innumerables personas gritando, pero puso esto en su imaginación ya que era tan débil que tuvo dificultades para decidir si había sido la desolación en su propia mente jugando una mala pasada. él.
+
+Dos horas después de su partida, el obispo apareció de nuevo en la habitación. Para entonces, Jonah se había vuelto tan ansioso que estaba parado cerca de la puerta, aguzando el oído para ver si podía descubrir lo que estaba sucediendo afuera al estar más cerca de la fuente de todos los sonidos que resonaban en todo el cuartel general. Ella no se rió, esta vez, pero levantó una mano en su dirección y lo hizo teletransportarse con ella.
+
+Llegaron al aire libre, bajo el cielo que había sido domesticado una vez más por un Artefacto que él no vio. Al principio, solo miró al frente, por lo que todo lo que vio fue la amplia extensión del mar. A lo lejos, en la distancia, podía decir que estaba la barrera invisible que separaba al resto del mundo de su apartada casa, y ahora mismo parecía que estaban listos para partir hacia ella.
+
+Temía la idea de darse la vuelta, pero lo hizo de todos modos sin demasiada vacilación. A pesar de que había esperado la vista que lo estaría esperando, todavía lo dejó sin aliento.
+
+2000 hombres y mujeres de diversos tamaños y colores se alineaban en filas desordenadas, sus sotanas plateadas ondeaban en las olas de viento que azotaban a todos los que estaban sobre el mar. Detrás de ellos, había cuatro masas de oscuridad macizas y sin forma, cada una del tamaño de una montaña en Angaria.
+
+Había temido que ella todavía tuviera algunas últimas cartas bajo la manga, y tenía razón. El obispo realmente estaba haciendo todo lo posible, y de pie junto a él, ella expresó este pensamiento mientras él miraba con el corazón en la garganta.
+
+Es todo o nada, ahora. O regreso con la victoria o es mejor que no regrese, en absoluto. Emociónese, querido maestro. La última batalla que ha estado en mi camino durante tanto tiempo finalmente está aquí. Quién vivirá, y ¿Quién morirá? Sólo hay una forma de averiguarlo. ¡Múdate!
