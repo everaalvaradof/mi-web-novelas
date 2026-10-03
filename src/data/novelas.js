@@ -719,5 +719,43 @@ export const novelas = [
             title: "Leer Douluo Dalu 4: Lucha definitiva en Español - Novelas Ligeras",
             description: "Disfruta de Douluo Dalu 4: Lucha definitiva en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
+    },
+    { 
+        id: "040", 
+        titulo: "Eterno rey sagrado", 
+        titulo2: "ETERNAL SACRED KING, 永恒圣王",
+        genero: "Acción, Aventura, Artes Marciales, Novela ligera, Ranobe, Xianxia", 
+        anio: "2026", 
+        imagen: "/portada/40.webp",
+        sinopsis: "Es un joven sin raíz espiritual. Se cree que esto le niega la posibilidad de cultivar. Sin embargo, una misteriosa dama le imparte un Clásico Demoníaco Supremo y, a partir de entonces, comienza su camino de cultivo. Sufre una transformación total hasta convertirse en el demonio diabólico más temible y poderoso de su época, que incluso los inmortales y los demonios le temen, y los santos están a su disposición. Dominar el Clásico del Demonio Supremo es el punto de inflexión en su vida. Es capaz de liberar su inmenso y divino poder desde su interior, ¡iluminando todo el universo!",
+        totalCapitulos: 3235,
+        capitulosPublicados: "3235",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Xueman-Bowknife",
+        tag: "Alquimia, Personajes arrogantes, Artefactos, Compañeros bestiales, Bestias, Linajes, Templado corporal, Protagonista tranquilo, Protagonista inteligente, Protagonista astuto, Demonios, Protagonista decidido, Dragones, Protagonista masculino apuesto, Inmortales, Protagonista masculino, Múltiples reinos, Protagonista despiadado, Planes y conspiraciones, Guerras, De débil a fuerte",
+        seo: {
+            title: "Leer Eterno rey sagrado en Español - Novelas Ligeras",
+            description: "Disfruta de Eterno rey sagrado en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
+        id: "041", 
+        titulo: "Sistema de Dominación Mundial", 
+        titulo2: "WORLD DOMINATION SYSTEM, 统治世界系统",
+        genero: "Acción, Fantasía, Novela ligera, Ranobe", 
+        anio: "2026", 
+        imagen: "/portada/41.webp",
+        sinopsis: "Mundo actual: desconocido Estado del huésped: casi muerto Objetivo actual: sobrevivir a toda costa Objetivo general: ¡dominar y conquistar el mundo! Un estudiante universitario, perpetuamente falto de dinero, eligió un experimento que se declaró seguro pero que le reportaría mucho dinero. Una vez que lo ataron a una silla y le pusieron electrodos en la cabeza, se quedó dormido, pero se despertó con este sonido en la cabeza. Con estas palabras comenzaron las aventuras de Daniel en un mundo desconocido. ¿Exploraría y conquistaría el nuevo mundo, que cambia rápidamente, como decía el sistema? ¿O morirá y será olvidado en los torbellinos del tiempo?",
+        totalCapitulos: 1186,
+        capitulosPublicados: "1186",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Killer-hemboy",
+        tag: "",
+        seo: {
+            title: "Leer Sistema de Dominación Mundial en Español - Novelas Ligeras",
+            description: "Disfruta de Sistema de Dominación Mundial en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
     }
 ];

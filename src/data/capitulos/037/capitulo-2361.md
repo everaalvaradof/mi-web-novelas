@@ -1,0 +1,31 @@
+---
+titulo: "Capítulo 2361"
+numero: 2361
+novelaId: "37"
+---
+
+Capítulo 2362 Cazador y presaEsclavo de las SombrasEl adversario definitivo de un lobo era el cazador, por lo que, si Sunny quería resistir al demonio primigenio que encarnaba el concepto del Lobo, tenía que encarnar el concepto del Cazador.
+
+Al menos, en la medida de sus posibilidades.
+
+Esa afirmación sonaba como un adagio inspirador, pero en realidad no tenía nada de abstracto ni filosófico. Al contrario, era una cuestión estrictamente práctica. Al nivel de poder en el que se encontraba Sunny, la batalla física entre dos criaturas no era más que una expresión del violento choque entre sus voluntades, sus espíritus... sus esencias. Una expresión definitiva, es cierto, pero solo externa, nada más que la punta del iceberg.
+
+Por lo tanto, canalizar un concepto que era a la vez superior y directamente opuesto a la esencia de su adversario ayudaría a Sunny a resistir mejor su Voluntad, potenciando la suya propia contra el enemigo. Al menos eso era lo que esperaba y deseaba que sucediera; obviamente, Sunny nunca había intentado una técnica como esa antes. Ni siquiera se le había ocurrido pensar en una técnica así, y mucho menos ponerla en práctica. Por suerte, Sunny tenía varias ventajas vitales en lo que respecta a canalizar el concepto del Cazador.
+
+En primer lugar, era un cazador, uno de los cazadores más consumados de la humanidad, nada menos. El número de poderosas Criaturas de Pesadilla que había cazado era casi incalculable, y había pocas personas en el mundo con más conocimientos sobre cómo acechar a una presa. En segundo lugar, había sido testigo de los cazadores primordiales de la era del Lobo una vez, hacía mucho tiempo. No solo los había presenciado y combatido, sino que también había aprendido su estilo de lucha primal y despiadado, e incluso lo había utilizado cuando entrenaba con Morgan durante la Campaña del Sur, lo que aumentó su familiaridad con las técnicas de combate de aquellos humanos prehistóricos.
+
+Y, por último, Sunny era un maestro de la Danza de las Sombras. Ese poder le permitía aprender la esencia del enemigo y asumir su forma, pero incluso si no había ningún adversario al que seguir, o si no se atrevía a seguir a nadie por miedo a perder su yo libre y sin ataduras, seguía teniendo una gran experiencia canalizando la mentalidad y la física de alguien distinto a él mismo. Incluso de convertirse en otra persona. Al fin y al cabo, las sombras eran maleables. Así que, aunque Sunny nunca había intentado canalizar un concepto opuesto para obtener ventaja en una batalla de voluntades con un adversario superior, seguía teniendo la suficiente confianza en sí mismo como para creer que podría lograrlo.
+
+Mientras volaba por la ladera del volcán mientras el Lobo estaba distraído por las Avispas de Obsidiana, Sunny se armó de valor. «Siéntelo...». Cuando Sunny se lanzó hacia adelante, la punta de su lanza cortando el tejido del mundo, se imaginó a sí mismo como otra persona. Su imaginación evocó una visión desde lo más profundo de su ser y, sometiéndose a su voluntad, esa visión se hizo realidad. Casi podía sentirlo... lo sentía. El frío de la madrugada al salir de su rudimentaria cabaña, con paredes hechas de pieles toscas. Las gotas de rocío temblando en las briznas de hierba. El olor a sangre fresca en el aire. Los gritos de sus parientes, la espantosa visión de un cuerpo devastado por las bestias. Los lobos habían atacado su tribu durante la noche, arrebatando una vida. La ira, el dolor... el hambre. La oscura malicia en los ojos de sus compañeros, que lo miraban en busca de orientación. Después de todo, él era el mejor cazador entre ellos... su líder. Su jefe. El peso familiar de su lanza mientras se dirigían hacia el bosque, la textura pulida de su mango gastado, el filo afilado de su cuchilla de pedernal.
+
+Con esa lanza iba a matar al lobo. Iba a matarlo porque se había atrevido a atacar a los suyos, porque se había atrevido a cazar en su territorio. «Haa...». Sunny sentía cómo la sangre le hervía en las venas y corría más rápido. Sus ojos brillaban con una luz dura y asesina. Su mente lúcida estaba absorta en la imagen canalizada, y sus movimientos se volvieron bruscos y económicos, desprovistos de elegancia o gracia. Su voluntad también había cambiado. Se transformó para adaptarse a la esencia de un cazador intrépido y despiadado.
+
+Al instante siguiente, Sunny estaba sobre el lobo. Lanzó su lanza, apuntando a los ojos brillantes y malévolos de la bestia, llevando consigo la certeza absoluta de la muerte... Sin embargo, el lobo también era un depredador feroz y astuto. Era más grande que Sunny, más fuerte que Sunny, más rápido que Sunny... y también más hambriento que Sunny. Esquivó la lanza con facilidad, saltando y lanzando un gruñido aterrador. La mirada angustiante de sus tres ojos carmesí lo atravesó, penetrando en lo más profundo de su alma. Y, de repente, Sunny se sintió pequeño y débil. Era una presa paralizada por el miedo.
+
+La ceniza se arremolinaba a su alrededor y, antes de que el lobo pudiera volver a lanzarse, Sunny desapareció entre las sombras y salió de ellas en otro lugar, clavando su despiadada lanza en el costado del lobo. «Yo...», gimió el antiguo demonio y explotó en una tormenta de nieve devastadora, retirándose por la ladera del volcán para volver a tomar forma.Sunny dio un paso adelante y apuntó con su lanza al demonio maldito una vez más. Sus labios se torcieron en una sonrisa cruel. «No soy presa de nadie». El Lobo lo miró con locura y odio durante una fracción de segundo y luego se abalanzó hacia adelante en un huracán de rabiosa intención asesina.
+
+Sunny se enfrentó a la bestia con la punta de su lanza y, en el punto donde chocaron, la ladera del volcán se fracturó y toneladas innumerables de ceniza y roca se deslizaron hacia el mar de nubes.
+
+Un trueno ensordecedor hizo que las nubes se ondularan y el mundo se estremeció, herido por la violencia de las fuerzas cataclísmicas que habían desatado. Sin embargo, ni Sunny ni el Lobo le prestaron atención, ya que se habían convertido en un torbellino de destrucción angustiante. Los dos se entrelazaron en una aterradora danza de muerte y nada podía resistir el horror letal de su furia primal.
+
+El imponente volcán se estremeció.
