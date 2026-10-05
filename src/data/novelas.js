@@ -683,25 +683,6 @@ export const novelas = [
         }
     },
     { 
-        id: "038", 
-        titulo: "Dios Marcial Asura", 
-        titulo2: "Martial God Asura, 修罗武神",
-        genero: "Fantasía, xuanhuan, Acción, Maduro,", 
-        anio: "2023", 
-        imagen: "/portada/38.webp",
-        sinopsis: "El joven Chu Feng siempre fue visto como un insulto a la familia Chu debido a su físico débil. Un día decide que ya ha tenido suficiente, y para recuperar el nombre de su padre y salvar a su madre, decide hacerse más fuerte pase lo que pase. ¿Qué quien soy? Todas las cosas vivientes en el mundo me ve como Asura. Como sea, no sabia nada de eso. Así que como Asura, me convertí en el Dios Marcial.",
-        totalCapitulos: 4705,
-        capitulosPublicados: "4705",
-        categoria: "Terminadas",
-        pais: "Chinas",
-        autor: "Kindhearted Bee",
-        tag: "",
-        seo: {
-            title: "Leer Dios Marcial Asura en Español - Novelas Ligeras",
-            description: "Disfruta de Dios Marcial Asura en Español completa y traducida al español. Lee todos los capítulos online gratis."
-        }
-    },
-    { 
         id: "037", 
         titulo: "Esclavo de las Sombras", 
         titulo2: "Slave to the Shadows",
@@ -718,6 +699,25 @@ export const novelas = [
         seo: {
             title: "Leer Esclavo de las Sombras en Español - Novelas Ligeras",
             description: "Disfruta de Esclavo de las Sombras en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
+        id: "038", 
+        titulo: "Dios Marcial Asura", 
+        titulo2: "Martial God Asura, 修罗武神",
+        genero: "Fantasía, xuanhuan, Acción, Maduro,", 
+        anio: "2023", 
+        imagen: "/portada/38.webp",
+        sinopsis: "El joven Chu Feng siempre fue visto como un insulto a la familia Chu debido a su físico débil. Un día decide que ya ha tenido suficiente, y para recuperar el nombre de su padre y salvar a su madre, decide hacerse más fuerte pase lo que pase. ¿Qué quien soy? Todas las cosas vivientes en el mundo me ve como Asura. Como sea, no sabia nada de eso. Así que como Asura, me convertí en el Dios Marcial.",
+        totalCapitulos: 4705,
+        capitulosPublicados: "4705",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Kindhearted Bee",
+        tag: "",
+        seo: {
+            title: "Leer Dios Marcial Asura en Español - Novelas Ligeras",
+            description: "Disfruta de Dios Marcial Asura en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
     },
     { 
@@ -813,6 +813,25 @@ export const novelas = [
         seo: {
             title: "Leer Pequeno Agricultor Gran Estrella en Español - Novelas Ligeras",
             description: "Disfruta de Pequeno Agricultor Gran Estrella en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
+        id: "044", 
+        titulo: "La reencarnación de la empresaria en la escuela", 
+        titulo2: "REINCARNATION OF THE BUSINESSWOMAN AT SCHOOL, 重生校园商女",
+        genero: "Acción, comedia, drama, fantasía, josei, novela ligera, misterio, romance, sobrenatural", 
+        anio: "2026", 
+        imagen: "/portada/44.webp",
+        sinopsis: "Al principio era una marioneta de su familia. Perseguida por la policía por ser una espía de negocios y sicaria, fue traicionada y cayó al mar. Cuando volvió a abrir los ojos, se había convertido en una estudiante de secundaria normal y corriente. A causa de un nacimiento vergonzoso, había sido desplazada por sus familiares. Debido a su complejo de inferioridad y a su comportamiento antisocial, fue acosada por sus compañeros de clase. Pero ahora ya no es alguien que actúa con timidez. Si la engañas, te romperá los huesos. Posee unas formidables pupilas de jade capaces de ver a través de las paredes. Otras personas tienen dificultades para atravesar el jade, su vista para las antigüedades se basa en las apuestas, pero ella sólo necesita una mirada. Comienza una empresa mientras ella crea leyendas en el mundo de los negocios. Antes se reían de su estado de pobreza y desamparo. Ahora, viendo su patrimonio neto de 10.000 millones, no se puede explicar. A los familiares que acuden a abrazar sus muslos, debe disculparse: Hace tiempo que rompimos relaciones, así que piérdanse.",
+        totalCapitulos: 3456,
+        capitulosPublicados: "3456",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Su-Nuanse",
+        tag: "Protagonista femenina hermosa, Gestión empresarial, Protagonista tranquilo, Protagonista frío, Cultivo, Protagonista astuto, Protagonista femenina, Protagonista masculino guapo, Época moderna, Venganza, Transmigración",
+        seo: {
+            title: "Leer La reencarnación de la empresaria en la escuela en Español - Novelas Ligeras",
+            description: "Disfruta de La reencarnación de la empresaria en la escuela en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
     }
 ];

@@ -1,0 +1,17 @@
+---
+titulo: "Capítulo 570"
+numero: 570
+novelaId: "38"
+---
+
+En el cielo distante, había dos personas. Eran precisamente Shentu Jiang y Shentu Hai. Todavía no se habían ido, porque no creían que Chu Feng pudiera matar a Shentu Lang.
+
+Pero en ese instante, lo hicieron. Chu Feng, a quien ni siquiera pusieron en sus ojos, fue el más aterrador del grupo de cinco hombres. En ese instante, realmente tenían miedo. Fue imposible para ellos, que vieron personalmente a Chu Feng matar, no tener miedo.
+
+* whoosh * Pero justo en ese momento, Chu Feng, que se encontraba en el lejano cielo, giró la cabeza. Lanzó su fría mirada a Shentu Jiang y Shentu Hai.
+
+"¡Mierda, nos ha visto! ¡¡Corre corre!!"
+
+Sus corazones inmediatamente vacilaron cuando se encontraron con los ojos de Chu Feng. Sus piernas se relajaron, como si su sangre estuviera congelada. Ese tipo de miedo los hizo arrastrase atrás mientras estaban en el cielo, y casi se caen. Solo después de luchar durante un buen rato pudieron estabilizar sus cuerpos.
+
+*swish*Perojusto cuando se preparaban para usar sus habilidades marcialescorporales y escapar con todo lo que tenían, una ráfaga de vendaval pasóvolando por detrás de ellos.Un monstruo enorme había aparecido frente a ellos.Ese enorme monstruo tenía brillantes escamas verdes y la niebla lo rodeaba.Era un enorme dragón azure, y en la cabeza del dragón azure, Chu Feng los miraba escalofriantemente.Aunque carecía de una fuerte intención asesina, su mirada gélida todavía atemorizaba.*poof*"¡ Hermano mayor Chu Feng, estábamos equivocados!¡Tuvimos ojos pero no pudimos reconocer el Monte Tai!No deberíamos haber sido irrespetuosos contigo, ¡por favor danos unaoportunidad!"Shentu Jiang inmediatamente se arrodilló en el aire ysuplicó.* bang bang *Shentu Hai fue aún más feroz.Nosolo se arrodilló en el aire, primero se abofeteó dos veces, antes dehablar dolorosamente con lágrimas y mocos: "Maestro Chu Feng, ¡fue miculpa, fue mi culpa!No debería haber buscado problemas, ¡no debería haber insultado a tus amigos!Por favor, como un gran personaje, ¡ten benevolencia!¡Tenga la mente abierta con nosotros y bríndenos la oportunidad de comenzar de nuevo!Te lo ruego, ten piedad! "Las emociones de Chu Feng no cambiaron en lo más mínimo cuando miró alos dos, porque cuando deseaba matar a una persona, no se dejaríainfluenciar.Entonces, Chu Feng dijo una sola frase: "Ambos son menos que Shentu Lang".* boom * Inmediatamente después de hablar, sus pensamientos giraron alrededor.Chu Feng no usó el poder del Cielo, sino el poder de la Formación Espiritual.Las Formaciones Espirituales de color azul se convirtieron en unajaula, y desde todas las direcciones, los encerraron dentro de ellas.Poco después, se encogió rápidamente, y luego con dos "poofs", fueronaplastados por la fuerza en pedazos, y murieron muy a fondo.* whoosh *Él los mató con métodos como el rayo.Entonces, Chu Feng abrió la palma de su mano ligeramente, luego dosluces tenues, como meteoros que retrocedían, volaron hacia sus palmas desdeel lugar donde murieron.Mirando de cerca, eran dos Sacos del Cosmos, y esos dos Sacos del Cosmos eran naturalmente los remanentes de Shentu Jiang y Shentu Hai.*whoosh * Sin embargo, justo cuando obtuvo los Sacos del Cosmos, Chu Fengvolteó su palma, tirándola en su bolsillo, luego lanzó su miradaincomparablemente seria detrás de él, y dijo: "¿Quién?"

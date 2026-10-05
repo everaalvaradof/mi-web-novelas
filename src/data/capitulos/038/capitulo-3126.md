@@ -1,0 +1,45 @@
+---
+titulo: "Capítulo 3126"
+numero: 3126
+novelaId: "38"
+---
+
+Ese viejo se llamaba Wuming Xiuyi.Era extremadamente poderoso.Podría decirse que es el individuo más fuerte entre todos los presentes.[1.Wuming = Innominado.]Este viejo también disfrutó de un estatus extraordinario en el Reino Maestro del Campo Estelar.Dicho esto, incluso un experto como él se dirigió a Exaltado Destino Celestial como "señor". Eso se debía a que Exaltado Destino Celestial era extremadamente importante para todo el Campo Estelar Marcial Ancestral.Incluso después de que Wuming Xiuyi habló, Exaltado Destino Celestial aún no proporcionó una respuesta directa.En cambio, apuntó su dedo hacia el este."Se ha obtenido una conclusión de esta profecía"."En un futuro cercano, un genio excepcional aparecerá de nuestra región del este del Campo Estelar Marcial Ancestral", dijo Exaltado Destino Celestial mientras señalaba las estrellas planetarias en el este."Genio excepcional?¿Otro genio excepcional va a nacer?¡Esto es genial, es realmente una gran cosa para nuestro Campo Estelar Marcial Ancestral! ”En ese momento, los muchos grandes personajes presentes revelaron todas expresiones alegres.Después de todo, la aparición de un genio no era algo malo.De hecho, para ellos, los genios eran capaces de fortalecer su Campo Estelar Marcial Ancestral, algo beneficioso para su Campo Estelar Marcial Ancestral.Sin embargo, en el momento en que la multitud estaba feliz y hasta riendo, la gente del Reino Maestro del Campo Estelar estaba completamente sin expresión.En ese momento, la multitud llegó a una repentina realización.El Reino Maestro del Campo Estelar estaba ubicado en el centro del Campo Estelar Marcial Ancestral.La aparición de un genio en la región del este del Campo Estelar marcial ancestral, naturalmente, no debe estar relacionada con el Reino maestro del Campo Estelar.Para el Campo Estelar Marcial Ancestral, el nacimiento de un genio excepcional era algo bueno.Sin embargo, para el Reino Maestro del Campo Estelar, no necesariamente es algo bueno.Debido a eso, la multitud inmediatamente detuvo su risa.Nadie siguió mencionando el asunto.Tenían miedo de enojar a la gente del Reino Maestro del Campo Estelar.“Señor Destino Celestial, ¿de qué Reino Superior surgirá ese genio?¿Qué tipo de logros obtendrá en el futuro?¿Hubo alguna mención de esa información en la profecía? ", Preguntó Wuming Xiuyi del Reino Maestro del Campo Estelar.“No sé exactamente de qué Reino Superior emergerá esa persona.En este momento, ese niño todavía no ha crecido.Sin embargo, pronto revelará su destacado talento.Además, su crecimiento será muy rápido.No mucho después, su fuerza alcanzará la de Linghu Hongfei ", dijo Exaltado Destino Celestial."¡¿Es realmente un genio del mismo calibre que Linghu Hongfei ?!"
+
+Al escuchar esas palabras, muchas personas revelaron expresiones de asombro.
+
+Si fuera solo un genio excepcional, sería una cosa. Sin embargo, si esa persona fuera un genio excepcional a la par con Linghu Hongfei, eso sería verdaderamente una noticia impactante a nivel mundial.
+
+¿Quién era Linghu Hongfei?
+
+Linghu Hongfei era un miembro del clan del clan celestial Linghu.
+
+El Clan Celestial  Linghu fue el más fuerte de los Diez Grandes Clanes Celestiales del Campo Estelar Marcial Ancestral.
+
+Sin tener en cuenta sus antecedentes, el propio Linghu Hongfei era un individuo extremadamente asombroso.
+
+Linghu Hongfei era el más fuerte de los Decastars Marciales Ancestrales, la persona más fuerte actual de la generación más joven en el Campo Estelar Marcial Ancestral.
+
+Además, su fuerza era muy superior a la del segundo individuo más fuerte entre los Decastars marciales ancestrales.No sería excesivo decir que el segundo más fuerte entre los Decastars marciales ancestrales estuvo a años luz de él.En cuanto a Linghu Hongfei, solo tenía cuarenta y tres años.A pesar de que era claramente el más fuerte, era el más joven de los Decastars marciales ancestrales.Debido a eso, Linghu Hongfei fue aceptado en su totalidad como el genio más fuerte en el Campo Estelar Marcial Ancestral.A lo largo de los años, Linghu Hongfei comenzó a lograr logros tras otros.Todos y cada uno de sus logros fueron asombrosos.De hecho, había mucha gente en el Campo estelar Marcial ancestral que pensaba que Linghu Hongfei terminaría superando a Chu Xuanyuan en ese entonces, y que su Campo estelar Marcial ancestral alcanzaría una altura completamente nueva.Y en ese momento,  tal genio a la par con Linghu Hongfei aparecería en realidad en la región del este del Campo Estelar Marcial Ancestral.Con esto, ¿cómo es posible que la gente no se sorprenda?Mientras que los otros se sorprendieron al escuchar esta noticia, las expresiones de la gente del Reino Maestro del Campo Estelar se volvieron aún más feas.Un solo Linghu Hongfei ya era un dolor de cabeza para ellos.Si apareciera otro genio del calibre de Linghu Hongfei, empeoraría aún más su dolor de cabeza.Justo en ese momento, Exaltado Destino Celestial volvió a hablar: “Este viejo  también profetiza que el genio excepcional que surgirá de la región del este del campo estelar está destinado a luchar contra Linghu Hongfei.Sólo uno de ellos vivirá.""Los dos genios excepcionales lucharán, ¿y solo uno vivirá?""Esto…"Al escuchar esas palabras, el asombro en los rostros de la multitud se hizo aún más fuerte.Solo uno de los dos genios excepcionales viviría.Para el Campo Estelar Marcial Ancestral, definitivamente era algo triste.Como gente del Campo Estelar Marcial Ancestral, todos ellos no deseaban que algo así sucediera.Dicho esto, en comparación con los otros del Campo Estelar marcial ancestral, las expresiones de las personas del Reino Maestro del Campo Estelar, el gobernante del Campo Estelar marcial ancestral, habían mejorado para mejor."Gracias, Señor Destino Celestial, por tus problemas", Wuming Xiuyi apretó su puño con respeto.Después de él, los otros también apretaron sus puños respetuosamente hacia Exaltado Destino Celestial para despedirse.ElExaltado Destino Celestial  también les devolvió su gesto.Después de que la multitud se despidiera, todos comenzaron a descender.Había una formación enorme debajo del Escenario del Destino Celestial.Había muchas entradas a la enorme formación.Cada entrada conectada a un mundo diferente.La multitud se fue a través de la enorme formación.En un abrir y cerrar de ojos, el cielo que estaba lleno de expertos poderosos antes solo tenía dos personas restantes.Una de ellas era Exaltado Destino Celestial, que se encontraba en el escenario del Destino Celestial.En cuanto a la otra, era una mujer de mediana edad parada debajo del Escenario del Destino Celestial.Esa mujer tenía una apariencia muy ordinaria.Ella tenía una marca de nacimiento que cubría la mitad de su cara.Hizo que la mujer pareciera muy fea, e incluso un poco aterradora.Curiosamente, el aura de la mujer era excepcionalmente buena.A pesar de que su apariencia era fea, el aura que emitió no solo hizo que otros no sintieran antipatía hacia ella, sino que otros tendrían una buena impresión de ella.Esa mujer era la subordinada de Exaltado Destino Celestial.Ella era conocida como la tía Caranegra.Después de que la multitud se fue, la tía Caranegra voló hasta el escenario del Destino Celestial y se colocó detrás de Exaltado Destino Celestial."En realidad, no mencioné todas las profecías esta vez", dijo Exaltado Destino Celestial.
+
+"Milord, ¿qué podrías haber ocultado?", Preguntó la tía Caranegra.
+
+"Este viejo había profetizado desde qué Reino Superior surgirá el genio excepcional. Incluso me he dado cuenta de qué clan surgirá ", dijo Exaltado Destino Celestial.
+
+"Milord, ¿podría estar dispuesto a informarme?", Preguntó la tía Caranegra.
+
+"Naturalmente, no hay necesidad de que te lo oculte", Exaltado Destino Celestial miró a la tía Caranegra.La confianza llenó sus ojos.
+
+Dijo: "Ese niño es del Clan Celestial Chu del Reino Superior Gran Chiliocosm".
+
+"¡¿Es realmente el Clan Celestial Chu?" La expresión de la tía Caranegra cambió al escuchar esas palabras.Luego, sonrió y dijo: "Parece que el Clan Celestial Chu podrá emerger en el poder una vez más"."Sin embargo, la batalla que he profetizado también es real. Por lo tanto, para el Clan Celestial Chu, eso podría no ser necesariamente algo bueno ", suspiró elExaltado Destino Celestial. Luego, preguntó: "¿Has vuelto con noticias de Tigre Sagrado y Ciervo Sagrado?""Milord, Milord y Milady han sido descubiertos", dijo la tía Caranegra.
+
+“¿Descubierto?” Al escuchar esas palabras, Exaltado Destino Celestial reveló una mirada alegre.
+
+"Pero ..." tía Caranegra vaciló.
+
+"¿Pero? ¿Qué pasó? ”Exaltado Destino Celestial preguntó.
+
+"Los dos Exaltados se han vuelto locos", dijo la tía Caranegra.
+
+Al escuchar esas palabras, surgió un profundo shock en los profundos ojos de Exaltado Destino Celestial.20 Capitulos adelantados enPatreon. 12 Capitulos adelantados enpatreon. Y los otros dos son de 5 y 4 capitulos adelantados cada uno en el tier señor marcial y reino cielo.Para consultas de patreon pueden comunicarse con nuestro equipo por whatsapp al +56976572857 o a facebook

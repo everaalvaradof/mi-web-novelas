@@ -1,0 +1,43 @@
+---
+titulo: "Capítulo 546: * ao ~~~~~~~~~~ *"
+numero: 546
+novelaId: "38"
+---
+
+Pero justo cuando la gente se sentía interminablemente impresionada con el cambio de Chu Feng, otro sonido penetrante resonó. En realidad era un rugido de dragón.
+
+Y después de que el rugido del dragón resonó, casi todos en la escena tenían los ojos abiertos y las lenguas atadas, atónitos. Estaban aturdidos por la escena en el cielo.
+
+Porque, en ese instante, bajo los pies de Chu Feng, apareció un enorme dragón azure. Los enormes ojos de dragón brillaban con luz roja y la cola de dragón se balanceaba.
+
+Losbigotes de dragón, el cuerno de dragón, la escama de dragón, la garrade dragón, así como la atmósfera incomparablemente noble. Hizo que muchas personas creyeran firmemente que era un dragónreal."¡Cielos! ¿Exactamente qué habilidad marcial es esa? ¿Realmente puede convocar a un dragón real?"
+
+"Demasiado aterrador.Nunca hubiera pensado que Chu Feng realmente capta métodos tan poderosos "."No es de extrañar.No me extraña que pudiera voltear varios grandes poderes al revés en aquel entonces.Nunca hubiera pensado que ya ha aumentado su fuerza a este estado ".Alver al dragónrealen el cielo, todos quedaron atónitos porquepara Chu Feng, que ya tenía una atmósfera poderosa, después de que eldragón azure apareciera bajo sus pies, era mucho más fuerte.Se podría decir que en términos de aura, Chu Feng ya reprimió las llamas de color azul de Zhang Tianyi que cubrían el cielo.Dehecho, cuando el actual Chu Feng estaba sobre el cuerpo de un enormedragón, con la armadura de la tortuga negra rodeando su cuerpo, y sus dosmanos formando garras de tigre blanco, él era simplemente un dios de la  batalla que tenía un poder imparable.Mientras una persona lo mirara, involuntariamente sentirían respeto y miedo hacia él.Yla razón por la cual la Técnica de armadura de la tortuga negra, latécnica de rapidez del dragón azure y la técnica de matanza del tigre blanco,que Chu Feng captó actualmente, tuvo sus transformaciones actualesporque junto con Chu Feng ingresando al reino Cielo, el poder de lashabilidades secretas también aumentó.Deacuerdo con las estimaciones de Chu Feng, si un día, realmentealcanzara cierto estado de fuerza, incluso podría invocar las cuatrohabilidades secretas de su cuerpo y ayudarían a Chu Feng a luchar con supropia conciencia.Paraser breves, las Habilidades Secretas realmente fueron extremadamentepoderosas porque se transformaron junto con la fuerza de su maestro.Ese punto era algo con lo que nunca se podían comparar las habilidades marciales."Mayor Zhang, déjame usar este estado para terminar esta ronda". Chu Feng sonrió levemente y le dijo a Zhang Tianyi."Jajaja, bien bien bien!No esperaba que las Habilidades Secretas del joven Chu Feng se hayanfortalecido a este estado, que ya no es inferior a la Técnica Misteriosaque capto ".En ese instante, Zhang Tianyi también estaba incomparablemente emocionado.Primero se rió a carcajadas con entusiasmo, y luego, rápidamente, laespada de madera divina en su mano se agitó rápidamente, creando variasllamas de color azul y cuchillas de luz, y volaron hacia Chu Feng.Las cuchillas de luz enviadas por la espada de madera divina ya eran poderosas.En la actualidad, se agregó el poder de las llamas de color azul, por lo que fue aún más aterrador.Cuando las cuchillas de luz volaron por el cielo, incluso el aire fue abierto por ellas.Fue extremadamente aterrador."Heh". Sinembargo, frente a las cuchillas de luz enviadas por Zhang Tianyi, Chu Fengsolo sonrió levemente, luego con un pensamiento, el enorme dragón azure bajo sus pies se convirtió en niebla, y rápidamente, una violenta ráfagade repente se precipitó hacia arriba, y Chu Feng había desaparecido.
+
+De repente, el rugido de un dragón sonó, y Chu Feng ya había aparecido detrás de Zhang Tianyi. Con los poderes de las tres Habilidades Secretas , presionó a Zhang Tianyi.
+
+* whoosh whoosh whoosh *
+
+Al ver eso, Zhang Tianyi tampoco entró en pánico y no esquivó. Agitóla Espada de Madera Divina en su mano otra vez, y varias cuchillas de luz enformas de media luna volaron hacia Chu Feng una vez más.
+
+Sin embargo, esta vez, Chu Feng no eligió esquivar. Por el contrario, agitó ambos brazos abruptamente y golpeó las dos enormes garras de tigre blanco juntas.Cuando las dos garras blancas del tigre se juntaron, el rugido de un tigre ensordecedor resonó al instante.Al mismo tiempo, se enviaron continuamente capas de ondulaciones de símbolos de color blanco.Cuando las ondulaciones de los símbolos de color blanco seentrelazaron con las cuchillas de luz que la Espada de Madera Divina envió,las cuchillas de luz se hicieron añicos como una pieza de espejo, y luego seconvirtieron en hebras de gas de color azul, dispersándose en el aire.Las cuchillas de luz originalmente aterradoras eran en realidad incapaces de luchar contra las ondulaciones del símbolo.La técnica de matanza del tigre blanco era realmente incomparable en fuerza ofensiva.Y después de dispersar las cuchillas de luz, no solo el poder de ataque delas ondulaciones del símbolo no disminuyeron, en cambio, se volvieron más ymás fuertes, y se dirigían hacia Zhang Tianyi y caían."¡Tales métodos poderosos!¿¡Entoncesesto es una habilidad secreta !? "Al ver esa escena, Zhang Tianyitambién frunció el ceño al darse cuenta de la poderosa fuerza de laTécnica de Matanza del Tigre Blanco."¡Haa!" Pero Zhang Tianyi no se rindió por eso. Encambio, aullaba furiosamente hacia el cielo, luego las llamas de colorazul que cubrían todo su cuerpo estallaron como un volcán en explosión, ycomo una enorme ola de llamas de color azul, contrapuso la Técnica deMatanza del Tigre Blanco de Chu Feng.
+
+* boom rumble rumble rumble rumble *
+
+Finalmente, dentro del estruendo ensordecedor, la Técnica de Matanza del Tigre Blanco colisionó contra las llamas de color azul.
+
+Pocodespués, las ilimitadas llamas de color azul y las ondulaciones delsímbolo de color blanco se fusionaron, formando una forma circular, ycomo una onda de choque, engulló hacia afuera.
+
+"¡Esto es malo!"
+
+Alver eso, el rostro del fundador del dragón azure, que estaba calmado deprincipio a fin, cambió mucho porque la onda que ambos crearon fuerealmente aterradora. Si explotara hacia abajo, definitivamente volaría la cordillera y provocaría la pérdida de vidas de innumerables personas.
+
+* whoosh *Entonces,se levantó apresuradamente, agitó su gran manga, causando que unaFormación Espiritual de color púrpura sin límites saliera al exterior con élcomo el centro.
+
+La velocidad de creación de la Formación Espiritual fue muy rápida. En casi un instante, ya formó y cubrió el cielo sobre la Escuela del Dragón Azure.
+
+"¡Cielos! ¡¿Quéestá pasando ?! "Al ver la Formación Espiritual de color púrpura quecubría el cielo, muchas personas se sorprendieron infinitamente ysimplemente no sabían lo que era.
+
+Solo el Monstruoso Rey Mono y el viejo ancestro de la dinastía Jiang sabían que era una Formación Espiritual de color púrpura. Enrealidad, después de que resucitara el fundador del dragón azure, él yahabía captado el poder de un espiritista mundial de capa púrpura.
+
+Peroen ese instante, incluso si se trataba del Monstruoso Rey Mono y el viejo ancestro de la dinastía Jiang, los grandes personajes quetambién eran Espiritistas Mundiales de Capa Púrpura, quedaron atónitoscon los métodos del fundador del Dragón Azure.En un abrir y cerrar de ojos, colocó una Formación Espiritual que cubría el cielo.Ese método era al menos algo que ellos no podían hacer.Entonces, no pudieron evitar suspirar en admiración hacia el poder fuerte de un Señor Marcial.* boom rumble rumble rumble rumble *Y justo en ese momento, las terribles ondas formadas por lasllamas de color azul y los símbolos entrelazados ya se colapsaron ychocaron contra la Formación Espiritual de color púrpura.Aunque la Formación Espiritual lo bloqueó, las personas aún podíansentir claramente que la tierra bajo sus pies temblaba intensamente unavez.Y fuera de la Formación Espiritual, el temblor era claramente más temible.Aunque una ondulación aterradora y creciente solo podía verse fuera dela Formación Espiritual, simplemente al observar la onda, todospudieron imaginar qué tipo de destrucción había en el cielo."Muy poderoso.¿Entonces esto es lo más fuerte en la generación joven?Este poder de batalla simplemente puede destruir una secta fácilmente.Es muy poderoso.Son realmente muy poderosos ". La gente quedó estupefacta ante la escena en el cielo.Inclusosi era el fundador del Dragón Azure, no pudo evitar decir en voz baja:"El poder de batalla de estos dos no es realmente simple.Pero, la victoria y la derrota deberían ser reveladas, ¿verdad?"

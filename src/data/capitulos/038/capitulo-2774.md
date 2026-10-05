@@ -1,0 +1,45 @@
+---
+titulo: "Capítulo 2774"
+numero: 2774
+novelaId: "38"
+---
+
+Después de que el Jefe de Clan del Clan Serpiente de la Era Antigua sefue, los miembros del clan Serpiente de la Era Antigua restantesinmediatamente llevaron el cadáver de ese anciano muerto.Después de que la gente del Clan Serpiente de la Era Antigua sefue, la plaza inicialmente tranquila estalló de inmediato en unalboroto.Los miembros de la multitud presentes discutían animadamente cosas entre ellos.A pesar de que habían escuchado que el Jefe de Clan del Clan Serpientede la Era Antigua era un personaje vicioso, nunca esperaron que fueratan despiadado.Simplementepor el hecho de que su subordinado había revelado un poco de secreto alos demás, fue lo suficientemente despiadado para matarlo.Esto fue realmente excesivo y despótico.Además, el secreto que revelaba su subordinado no era algo importante."Parece que este Dominio Inmortal de la Formación Espiritual es realmente tan peligroso como se rumorea que es", dijo Chu Feng."Porlo tanto, joven maestro Chu Feng, no debes decir las cosas sinconsideración por las consecuencias y, sobre todo, no debes decirninguna palabra maliciosa sobre el Clan Serpiente de la EraAntigua", dijo Xia Yun'er a Chu Feng.Chu Feng sonrió ante las palabras de Xia Yun'er. Chu Feng ya sabía que el Clan Serpiente de la Era Antigua era un grupo muy despiadado incluso sin su recordatorio.
+
+Comoya sabía de la crueldad del Clan Serpiente de la Era Antigua,naturalmente no haría provocaciones innecesarias contra ellos.
+
+"Todos, por favor síganme".
+
+No mucho después, un anciano del Clan Serpiente de la Era Antigua salió. Comenzó a guiar a Chu Feng y los demás hacia la dirección de la cordillera que llega al cielo.
+
+Chu Feng y los demás sabían hacia dónde irían. Definitivamente,procedían hacia el lugar donde se les darían dos opciones para hacer,según lo explicado por el anciano que había sido asesinado antes.
+
+Después de que la multitud comenzó a moverse, la gente de la Tierra Santa de la  Estrella Caída corrió inmediatamente y rodeó a Xia Yun'er. Era como si tuvieran mucho miedo de que alguien tratara de dañar a su santahija .Incluso Chu Feng, quien originalmente estaba parado al lado de ella, fue forzado a irse.Sin embargo, Chu Feng no se preocupó por el asunto, y en su lugar decidió caminar al frente de la multitud."Hermano mayor Chu Feng, eres realmente increíble.En realidad, estás familiarizado con la santahija de la Tierra Santa de la Estrella Caída"."Además, a juzgar por la actitud de la Santa Hija hacia ti, parece que los dos tienen una muy buena relación".En su camino, Li Xiang y sus dos compañeros siguieron al lado de Chu Feng todo el tiempo.Li Xiang alababa a Chu Feng sin parar todo el tiempo.La expresión de idolatría en sus ojos se volvió más y más concentrada."La señorita Xia y yo no nos conocemos muy bien", dijo Chu Feng."Hermano mayor Chu Feng, ¿no intentas engañarnos?¿No muy bien?La señorita Xia tomó la iniciativa de mostrarse solo para ir a verte "."E cierto.Ese Han Yu, que se proclamó a sí mismo conocer muy bien a la señorita Xia, ni siquiera logró hablar con ella.Sin embargo, ella habló con usted tan apasionadamente.¿No prueba esto que la relación entre ustedes dos es extraordinaria? ", Dijeron Li Xiang y los demás.Li Xiang y sus dos amigos no dijeron esas palabras a través de la transmisión de voz. Por lo tanto, muchas personas presentes escucharon su conversación.
+
+En ese momento, la expresión de Han Yu se volvió excepcionalmente fría.
+
+A pesar de que sabía que fue extremadamente humillado antes, todavía no estaba dispuesto a que otros hablaran del asunto.
+
+Dicho eso, aunque Han Yu estaba furioso, todavía no dijo nada.
+
+Sin embargo, mientras Han Yu no decía nada, sus dos compañeros, Yuwen Tingyi y Yuwen Hualong, ya no pudieron ver más.
+
+Los dos señalaron a Li Xiang y sus dos acompañantes y gritaron: "¿Qué diablos están diciendo ustedes dos ?!"
+
+"¡Si se atreven a decir tonterías otra vez, les cortaré la lengua!"
+
+"¿Cómo alguien como tú podría cuestionar la relación entre mi hermano Han Yu y la señorita Xia?"
+
+Nosolo Yuwen Tingyi y Yuwen Hualong señalaron a Li Xiang y los demásmientras les gritaban, sino que incluso comenzaron a amenazarlos."Quisiera ver quién se atrevería a cortar las lenguas de losdiscípulos de nuestra Villa de la Píldora Sagrada ante mi". Justo enese momento, Ma Changchun habló de una manera disgustada.Después de que Ma Changchun habló, aunque Yuwen Tingyi y Yuweng Hualong se sentían muy disgustados, ya no dijeron nada.Después de todo, la fuerza de Ma Changchun no era algo contra lo queellos, la gente de la generación más joven, pudieran luchar.Además, la fuerza de la Villa de la Píldora Sagrada no podía ser menospreciada.Por lo menos, era mucho más fuerte que su Ciudad Yuwen.Dicho eso, Li Xiang y sus dos compañeros fueron muy discretos.Sabían que no podían permitirse provocar a un genio como Han Yu.Por lo tanto, después de este intercambio, no se atrevieron a involucrar a Han Yu en su conversación nuevamente.Dichoeso, a pesar de que ya no estaban discutiendo sobre la santahija, LiXiang y sus dos compañeros todavía estaban llenos de preguntas.Le preguntaban a Chu Feng todo tipo de cosas.Además, se dirigían a Chu Feng como 'hermano mayor' todo el tiempo.Estaban verdaderamente ansiosos y atentos."Ustedes tres parecen ser más viejos que yo.No es adecuado que me llamen hermano mayor, ¿no? ", Preguntó Chu Feng."Pordesgracia, hermano mayor Chu Feng, aunque nuestras edades son másantiguas que las tuyas, nuestra fuerza es inferior a la tuya.Por lo tanto, por respeto, es mejor que lo llamemos hermano mayor ", Li Xiang habló de una manera muy seria."Así es, ese es el principio". Los otros dos hombres también asintieron con la cabeza repetidas veces."Haz lo que quieras entonces", Chu Feng sonrió con indiferencia."¡Los tres, muévanse!"Justo en ese momento, un grito agresivo sonó desde atrás.Era del grupo de personas de la Tierra Santa de la Estrella Caída."¿Cuál es el problema?" Li Xiang se dio vuelta y reveló una expresión confundida."¿Qué están mirando?Les estoy hablando a los tres, háganse a un lado "Un joven que dirigía la multitud señaló a Li Xiang y gritó.Su actitud fue muy arrogante y agresiva.Era como si fuera un monarca reprendiendo a un plebeyo.A pesar de que sabía que había ancianos de la Villa de la Píldora Sagrada presentes, no colocó a Li Xiang ni a los demás en sus ojos.En realidad, ese hombre de la Tierra Santa de la Estrella Caída también solo poseía un cultivo de Inmortal Verdadero de  rango uno.Él no era más fuerte que Li Xiang y sus dos compañeros.Sinembargo, después de que le dijeran que se moviera, Li Xiang y sus doscompañeros realmente se dieron la vuelta y se prepararon para moverse. Ellos estaban asustados.
+
+Dicho esto, era comprensible que tuvieran miedo. Después de todo, ese hombre era alguien de la Tierra Santa de la Estrella Caída. Además, incluso los Ocho Inmortales de la Estrella Caída estaban allí, y podían respaldarlo.
+
+Por lo tanto, era comprensible que Li Xiang y sus dos compañeros temieran a ese hombre.
+
+Justo en el momento en que Li Xiang y sus dos compañeros planeaban irse, Chu Feng les pidió que volvieran.
+
+"¿Ah?" Li Xiang y sus dos compañeros se sobresaltaron.
+
+"Les estoy diciendo a los tres que vuelvan.Este camino no es de su propiedad, ¿por qué todos ustedes deben moverse solo porque él lo exige? ", Dijo Chu Feng.
+
+"Eh ... esto ..."Li Xiang y sus dos compañeros finalmente se dieron cuenta de lo que Chu Feng quería.Sin embargo, no regresaron.En cambio, quedaron atónitos y quedaron en un dilema.Sabían que Chu Feng los estaba ayudando.Sin embargo, tenían verdadero miedo de la gente de la Tierra Santa de la Estrella Caída.Alver cómo Chu Feng en realidad se atrevió a no ponerlo en sus ojos deesa manera, el hombre de la Tierra Santa de la Estrella Caída que había gritado a LiXiang y los demás para moverse se enfureció.Señaló a Chu Feng y planeó gritarle furiosamente, "maldito bas ...""No seas grosero", justo en ese momento, se escuchó una dulce voz.Una vez que se escuchó esa voz, todos los hombres presentes se estremecieron.Inmediatamente se pusieron mucho más enérgicos.Naturalmente, entre la gente de allí, solo la  santahija de la Tierra Santa de la Estrella Caída, Xia Yun'er, poseería tal carisma.Xia Yun'er fue originalmente rodeada y custodiada por la gente de la Tierra Santa de la Estrella Caída como un tesoro precioso.Sin embargo, después de que ella habló, la gente de la Tierra Santa de la Estrella Caída se movió a cada lado y creó un camino para ella.En cuanto a Xia Yun'er, ella salió de su escolta elegantemente y comenzó a caminar lentamente hacia Chu Feng.Finalmente, ella llegó a dos metros de Chu Feng y se detuvo.Ayudanos con tu donación , así poder mejorar la pagina y tener para caps adelantados en:https://www.patreon.com/devilnovels

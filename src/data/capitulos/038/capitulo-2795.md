@@ -1,0 +1,65 @@
+---
+titulo: "Capítulo 2795"
+numero: 2795
+novelaId: "38"
+---
+
+"Parece que estoy a punto de morir".
+
+Con una sonrisa irónica en su rostro, Li Xiang negó con la cabeza. Realmente no pensó que Chu Feng había llegado para salvarlo.
+
+En cambio, sintió que estaba teniendo alucinaciones porque estaba a punto de morir. Sintió que lo que había escuchado eran meramente alucinantes sonidos.
+
+"LiXiang, ¿estás bien?" Sin embargo, justo en ese momento, la voz de ChuFeng no solo sonaba por las orejas de Li Xiang, sino que incluso LiXiang sintió que alguien lo estaba ayudando a levantarse.
+
+Li Xiang levantó la cabeza para mirar y descubrió que Chu Feng estaba a su lado.Además, Chu Feng lo estaba llevando y alejándose.Para cuando Chu Feng detuvo sus movimientos, los dos se habían distanciado mucho de Yuwen Tingyi.Además, aparecieron más personas alrededor de Li Xiang.No solo había discípulos de la Villa Armamento Inmortal, sino que también había discípulos de su Villa de la Píldora Sagrada.
+
+"Hermano mayor Chu Feng, ¿realmente eres tú?"Li Xiang no se atrevió a creer en sus ojos. ¿Fue realmente rescatado?
+
+En ese momento, Li Xiang ya no era tan fuerte como lo era antes. Las lágrimas comenzaron a derramarse de sus ojos.
+
+Estaba llorando porque sabía que realmente podría ser salvado, por lo que podría no tener que morir.
+
+"Li Xiang, no tengas miedo, estás bien ahora".
+
+"Sin embargo, estás herido. Porlo tanto, no digas nada, y concéntrate en retener tu fuerza física ycooperar conmigo para que pueda curar tus heridas ", dijo Chu Feng a LiXiang con una sonrisa en la cara.
+
+Mientras Chu Feng parecía estar muy tranquilo en la superficie, Chu Feng se sentía muy inquieto por dentro.
+
+Él ya había establecido una formación de curación y comenzó a ayudar a Li Xiang a sanar sus heridas. Sin embargo, descubrió que había llegado demasiado tarde. Gran parte del cultivo de Li Xiang ya se había escapado de él. Incluso con la fuerza actual de Chu Feng, el resultado aún no sería optimista."Esto es realmente buscar en todo el mundo solo para lo que desea aparezca voluntariamente ante usted".Chu Feng, te he buscado minuciosamente, pero no pude encontrarte.Sin embargo, en realidad viniste a mí "."Los Cielos tienen ojos.Esto es realmente lo que quieren decir con los Cielos tienen ojos ".Justo en ese momento, de repente estalló una risa frenética.Era Yuwen Tingyi.Aunque se estaba riendo, parecía muy aterrador.La razón de eso fue porque él se estaba riendo muy siniestramente.Chu Feng no se molestó en prestar atención a Yuwen Tingyi en absoluto.De hecho, ni siquiera se molestó en echarle un vistazo.Había ignorado por completo a Yuwen Tingyi, y estaba concentrado en curar las heridas de Li Xiang.El motivo fue porque Chu Feng sabía muy bien que, dado que el dantiande Li Xiang había sido perforado y que se había escapado gran parte desu cultivo, este era el momento más propicio para que Chu Feng ayudara acurar las heridas de Li Xiang.Siendoignorado por Chu Feng, Yuwen Tingyi frunció el ceño y preguntó confrialdad: "Chu Feng, ¿no entiendes la situación en la que estás ahora?¿Opodría ser que pensaste que solo porque poseías el respaldo del ClanSerpiente de la Era Antigua que yo, Yuwen Tingyi, no me atrevería atocarte? ""¡Cállate!"Para su enorme sorpresa, Chu Feng realmente le gritó.Además, lo hizo con un tono dominante.
+
+"¡Hijo de puta!¡Eres realmente arrogante!Si no dejo que experimentes algo de sufrimiento, realmente no sabrás de lo que yo, Yuwen Tingyi, soy capaz "."Bien, muy bien, te ayudaré.Haré que sufras el mismo destino que ese Li Xiang ".Para empezar, Yuwen Tingyi odiaba a Chu Feng desde lo más profundo de sus huesos.Por lo tanto, después de ser tratado de esa manera por Chu Feng, la furia de Yuwen Tingyi comenzó a arder aún más intensamente.Sin vacilación, Yuwen Tingyi levantó su mano y planeó atacar a Chu Feng.Probablemente, Yuwen Tingyi también notó que el cultivo de Chu Feng era más fuerte que antes.Por lo tanto, desencadenó un ataque fatal en Chu Feng desde el primer momento.En el momento en que el ataque fatal de Yuwen Tingyi estaba a punto dealcanzar a Chu Feng, cinco rayos de luz volaron desde el cuerpo de ChuFeng.Después de que esos cinco rayos de luz volaran desde el cuerpo de Chu Feng, se convirtieron en cinco figuras enormes.Lo más importante, esas cinco figuras poseían auras aún más poderosas que Chu Feng.Su cultivo era en realidad lo mismo que Yuwen Tingyi;todos eran Inmortales Verdaderos de rangos de cinco.Después de que aparecieron esas cinco figuras, no solo bloquearon elataque de Yuwen Tingyi, sino que también comenzaron a desencadenarataques contra Yuwen Tingyi.Esas cinco figuras no solo poseían las auras de Inmortales Verdaderos de rango cinco, sino que su fuerza real también era de Inmortales Verdaderos de rango cinco.Además, sus ataques fueron excepcionalmente poderosos.Era como si fuesen verdaderamente inmortales.Enfrentado a los ataques repentinos de los Cinco Inmortales Verdaderos, Yuwen Tingyi fue sorprendido sin preparación.En cuanto a los discípulos de la Villa de la Píldora Sagrada y la Villa Armamento Inmortal, quedaron completamente atónitos.Larazón de esto se debía a que esas cinco figuras no solo poseían airesinmortales como reales inmortales, sino que también eranextremadamente excepcionales en el uso del poder marcial.Lo más importante es que los discípulos sabían que esas cinco figuras no eran verdaderos cultivadores.Por el contrario, eran una especie de técnica."¿Qué tipo de técnica es esa?En realidad es tan poderosa? ""Se sienten como habilidades secretas.Pero, ¿cómo podría haber habilidades secretas tan poderosas?"Comolas personas presentes no eran meramente expertas en el cultivo marcialsino también Espiritistas Mundiales, poseían una percepción muy fuerte.Pronto, alguien determinó que lo que Chu Feng había desatado eran habilidades secretas.De hecho, lo que Chu Feng estaba usando eran habilidades secretas.Eran las Habilidades Secretas de los Cinco Elementos.La característica especial de las Habilidades Secretas de los CincoElementos era que su cultivo sería siempre un nivel superior al desu maestro.CuandoChu Feng todavía estaba en el Reino Inferior Marcial Ancestral con uncultivo por debajo del reino Inmortal Verdadero, las habilidades secretas delos Cinco Elementos eran prácticamente inútiles porque el poder debatalla desafiantes del cielo de Chu Feng era demasiado fuerte, mientrasque las habilidades secretas de los Cinco Elementos no poseíanada.Por lo tanto, a pesar de que tenían un nivel de cultivo superior a Chu Feng, fueron ineficaces en la batalla.Sin embargo, ahora que Chu Feng había entrado en el reino Inmortal Verdadero, todo había cambiado.El poder de batalla desafiante del cielo de Chu Feng también había desaparecido.En ese tipo de circunstancias, la característica especial de las Habilidades Secretas de los Cinco Elementos podría desatarse una vez más.Aunque Chu Feng sabía que sería imposible que las Habilidades Secretasde los Cinco Elementos realmente derrotaran a Yuwen Tingyi, pudieronobstruirlo.En cuanto a las Habilidades Secretas de los Cinco Elementos, tampoco decepcionaron a Chu Feng.Los cinco poseían ataques agudos y se coordinaban entre ellos adecuadamente.Realmente lograron detener a Yuwen Tingyi.En ese momento, Chu Feng se había comprado algo de tiempo para continuar curando las heridas de Li Xiang.Sin embargo, cuanto más Chu Feng continuaba sanando a Li Xiang, más impotente se sentía.Al final, Chu Feng solo pudo preservar el cultivo de Li Xiang en el rango nueve de Ancestro Marcial.Fue incapaz de restaurar el cultivo de nivel Inmortal Verdadero de rango uno de Li Xiang."Bang ~~~"
+
+En ese momento, se escucharon explosiones sordas sin parar. El agua salpicó y olas de fuego surgieron.
+
+Fueron las Habilidades Secretas de los Cinco Elementos. Ellos fueron asesinados repetidas veces por Yuwen Tingyi.
+
+Larazón por la cual Yuwen Tingyi fue capaz de matar la Habilidad Secretade los Cinco Elementos fue porque una gran cuchilla negra había aparecido ensu mano.
+
+Esa cuchilla negra era un Armamento Inmortal Incompleto. Yuwen Tingyi se había puesto serio.
+
+Sinembargo, aunque las Habilidades Secretas de los Cinco Elementos podríanno ser un rival para Yuwen Tingyi, poseían otra característicaespecial.Es decir, mientras viviera su maestro, serían eternos e indestructibles.A pesar de que los cuerpos de las Habilidades Secretas de los CincoElementos estaban siendo destruidos por Yuwen Tingyi uno tras otro,inmediatamente se recuperaron y volvieron a atacar a Yuwen Tingyi."Chu Feng, ¿de verdad crees que puedes detenerme con un simple truco como este?"Yuwen Tingyi de repente dejó escapar un gruñido.Al siguiente momento, su cuerpo comenzó a transformarse.Su piel se volvió como roca.Era como si se hubiera convertido en un humanoide de roca.Además, él estaba emitiendo una deslumbrante luz plateada.Dicho eso, Yuwen Tingyi no solo era ágil, sino que su aura también se volvió más fuerte que antes.Fue el Poder Divino.Aunque el Poder Divino de Yuwen Tingyi no se podía comparar con laMarca de Rayo de Chu Feng, y no podía aumentar su cultivo, aún eracapaz de aumentar enormemente su poder de batalla.Despuésde desatar su Poder Divino, las Habilidades Secretas de los CincoElementos fueron completamente incapaces de luchar contra él.Apesar de que las Habilidades Secretas de los Cinco Elementos eraneternos e indestructibles, simplemente fueron incapaces de siquieraobstaculizar a Yuwen Tingyi."Chu Feng, párate y no intentes escapar. Tu papá vendrá y te destruirá de inmediato ".
+
+Yuwen Tingyi tenía una expresión siniestra en su rostro. Parecía incluso más aterrador que una bestia feroz. Con su Armamento Inmortal Incompleto en la mano, comenzó a caminar hacia Chu Feng un paso a la vez.
+
+Al ver esta escena, los discípulos de la Villa Armamento Inmortal y de la Villa de la Píldora Sagrada se asustaron. Involuntariamente, comenzaron a retirarse.
+
+La razón de eso fue porque todos notaron la intención asesina decidido de Yuwen Tingyi. No solo planeaba paralizar el cultivo de Chu Feng, sino que planeaba matar a Chu Feng.
+
+Enese momento, hubo personas que comenzaron a enviar transmisiones de vozChu Feng, diciéndole que escapara rápidamente con Li Xiang.
+
+Aunquetodos sabían que Chu Feng había derrotado a Chu Xianshuo, tambiénsabían que Chu Xianshuo era, aunque también era un genio, inferior aYuwen Tingyi.Por lo tanto, aunque Chu Feng había derrotado a Chu Xianshuo, nopodían estar seguros de si sería capaz o no de derrotar a Yuwen Tingyi.Sin embargo, Chu Feng hizo oídos sordos a sus recomendaciones para que escapara con Li Xiang.Era como si no pudiera escuchar nada en absoluto.Chu Feng comenzó a ayudar a Li Xiang a arreglar su ropa.Apesar de que Yuwen Tingyi se estaba acercando a él con una intención asesina desbordante, Chu Feng no tenía la menor intención de huir.Al ver esto, la multitud comenzó a preocuparse.No solo estaban preocupados de que Chu Feng y Li Xiang fueran asesinados, también estaban preocupados de que los mataran."¿Esta sensación?"De repente, las expresiones de los discípulos de la Villa Armamento Inmortal y de la Villa de la Píldora Sagrada cambiaron enormemente.Percibieron una intención asesina aún más aterradora que la intención asesina de Yuwen Tingyi.En cuanto a la intención asesina, se estaba emitiendo desde un lugar muy cercano a ellos.Chu Feng.Fue Chu Feng.Esa intención asesina estaba siendo emitida por Chu Feng."Chu Feng, ¿tú ...?"
+
+La multitud volvió a mirar a Chu Feng. Cuando lo hicieron, sus cuerpos temblaron y sus cabellos se erizaron.
+
+La razón de esto fue porque descubrieron que el actual Chu Feng era completamente diferente al anterior. Si uno preguntara qué era diferente con respecto a Chu Feng, no podrían saberlo. Simplemente, el actual Chu Feng les dio una sensación muy aterradora.
+
+Ante las asustadas miradas de la multitud, Chu Feng se levantó lentamente. En su mano estaba su Armamento Inmortal Incompleto, la Regla de Sangre del Dragón Divino.
+
+AunqueChu Feng no se había convertido en un monstruo parecido a una roca dela manera en que lo hacía Yuwen Tingyi, Chu Feng era incluso másaterrador que Yuwen Tingyi.Un rayo brillaba en sus ojos. Simplemente no se parecen a los ojos de un humano. Esos ojos eran simplemente aún más aterradores que los de los monstruos, porque esos ojos se parecían a los ojos de un demonio.
+
+La mirada de Chu Feng se centró en Yuwen Tingyi. Sintiendo la mirada actual de Chu Feng, incluso el cuerpo de Yuwen Tingyi comenzó a temblar. Involuntariamente, dejó de avanzar.
+
+Yuwen Tingyi en realidad estaba empezando a entrar en pánico.
+
+En ese momento, sonó la voz incomparablemente fría de Chu Feng. "Yuwen Tingyi, no me importa qué tipo de identidad poseas. Hoy, yo, Chu Feng, te haré pagar el precio por lo que has hecho ".Ayudanos con tu donación , así poder mejorar la pagina y tener para caps adelantados en:https://www.patreon.com/devilnovels

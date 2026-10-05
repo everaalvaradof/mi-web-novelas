@@ -1,0 +1,45 @@
+---
+titulo: "Capítulo 3072"
+numero: 3072
+novelaId: "38"
+---
+
+“Quien soy no es importante.Simplemente deseo informarles a todos que no crucen esa línea.De lo contrario ... no me culpen por ser descortés ".Chu Feng estaba extremadamente tranquilo cuando dijo esas palabras.Sin embargo, su tono estaba lleno de arrogancia.Era una especie de tono que decía que "los que me obedecen vivirán, y los que me desobedecen morirán".En ese momento, las generaciones más jóvenes del clan Celestial Li ya no podían tolerar a Chu Feng.Uno por uno, entrecerraron las cejas y revelaron expresiones de disgusto.Eran, después de todo, las generaciones más jóvenes del Clan Celestial Li.Nunca antes habían recibido tal tratamiento."Mocoso, exactamente quién eres ?!¡¿Te atreves a hablarnos de esa manera, incluso sabes quiénes somos ?! ", preguntó una persona del grupo de ocho del clan Celestial Li mientras señalaba a Chu Feng.Ese miembro del Clan Celestial Li pronunció esas palabras con una actitud extremadamente arrogante.Era como si fuera un gobernante que hablara ante un plebeyo común."Naturalmente, sé quiénes son ustedes", dijo Chu Feng mientras miraba las placas del título en las cinturas de los miembros del clan Celestial Li.Sin embargo, cuando dijo esas palabras, las comisuras de su boca se elevaron hacia arriba.Era como si, aunque él supiera quiénes eran, no los colocara en sus ojos.“¿Te atreves a actuar de manera presuntuosa incluso después de saber quiénes somos?¿Estás realmente cansado de vivir? ”Las generaciones más jóvenes del Clan Celestial Li se enojaron aún más.De repente, una de las mujeres del clan Celestial Li señaló en dirección a la formación principal de la Puerta del Reino Superior y gritó: "Hermano mayor Youbin, mira hacia allí.¡Ese mocoso está destruyendo la formación principal!"Fue solo en ese momento que las generaciones más jóvenes del Clan Celestial Li notaron que en realidad había una reunión de poder creciente detrás de la formación principal.Actualmente estaba desatando la destrucción sobre la formación principal.Al presenciar esa escena, las generaciones más jóvenes del Clan Celestial Li se dieron cuenta repentinamente de que Chu Feng estaba ganando tiempo.Su objetivo era destruir la formación principal de la Puerta del Reino Superior.Uno del grupo de generaciones más jóvenes del Clan Celestial Li  gritó: "Así que eres miembro de la generación más joven de Clan Celestial Chu.¡Realmente estás cortejando a la muerte! ”Después de eso, desató su aura ilimitada.Inmortal Celestial de rango uno.Ese hombre era un inmortal celestial de rango uno.Después de desatar su aura, dio un paso adelante."¡Bang!" Como un dragón imponente, corrió hacia Chu Feng."Eeaahhh ~~~"Sin embargo, ese hombre solo voló una corta distancia antes de soltar un grito.Después de eso, el que volaba hacia Chu Feng comenzó a volar de regreso.Al final, volvió a caer en el lugar donde se encontraban las otras generaciones más jóvenes del ClanCelestial Li, y fue capturado por sus compañeros."Esto…"En ese momento, las generaciones más jóvenes del Clan Celestial Li estaban todas muy alarmadas.La razón de esto fue porque ese hombre no solo fue golpeado, sino que también estaba vomitando sangre.Además, un agujero sangriento estaba presente en su pecho.Uno debe saber que él era un Inmortal Celestial de rango uno."Ya lo dije, no cruces esa línea", justo en ese momento, la voz de Chu Feng volvió a sonar."¿Es él?" Después de que Chu Feng dijo esas palabras, las generaciones más jóvenes del Clan Celestial Li recordaron de repente que, al estar allí, la única persona que podría atacarlas sería ese tipo desconocido.Sin embargo, ¿por qué no pudieron ni siquiera sentir su aura después de que atacara?
+
+"¡Bastardo arrogante, veré exactamente cuán poderoso eres!" Justo en ese momento, un miembro de nivel Inmortal Celestial de rango dos de la generación más joven del Clan Celestial Li gritó.
+
+Entonces, como una flecha disparada desde un arco, voló directamente hacia Chu Feng.
+
+Hacia su maldición de rabia, Chu Feng originalmente ni siquiera le prestó atención. Chu Feng estaba muy tranquilo. Era como si ni siquiera lo hubiera escuchado.
+
+Sin embargo, en el momento en que ese hombre cruzó la línea que Chu Feng había trazado, la expresión de Chu Feng cambió de inmediato. Chu Feng agitó su manga, y el poder marcial ilimitado comenzó a volar hacia ese hombre a una velocidad extrema. El poder marcial de Chu Feng golpeó directamente a ese hombre de regreso de donde venía.
+
+"¡Realmente es él!"
+
+La última vez, las generaciones más jóvenes del Clan Celestial Li no notaron la acción de Chu Feng.Sin embargo, esta vez, vieron claramente los movimientos de Chu Feng.De hecho, fue Chu Feng quien había atacado y golpeado a esos dos hombres.
+
+Sin embargo, ¿por qué fue que aunque pudieron ver claramente a Chu Feng desatando su ataque, no pudieron detectar el cultivo de Chu Feng?
+
+En ese momento, el miedo apareció en las caras de las generaciones más jóvenes del Clan Celestial Li anteriormente abrumadores y extremadamente arrogante. Ya no se atrevieron a avanzar precipitadamente.
+
+Esto fue especialmente cierto para las tres mujeres, que en realidad se movieron detrás de los hombres por temor a que Chu Feng las atacara.
+
+Al mismo tiempo que temían a Chu Feng, las generaciones más jóvenes del ClanCelestial Li se volvieron hacia ese hombre llamado Li Youbin.Aunque Li Youbin no era la persona más fuerte de la generación más joven en su ClanCelestial Li, era el más fuerte entre los presentes.Con un pensamiento de Li Youbin, su ropa comenzó a revolotear.En ese momento, un misterioso cambio estaba sucediendo en todo su entorno.Era Li Youbin.Había desatado su aura.Estaba tratando de usar su aura para probar la fuerza de Chu Feng.Ese Li Youbin no era un personaje ordinario.Él en realidad poseía el cultivo de un Inmortal Celestial de rango de tres.Su nivel de cultivo fue más que suficiente para pasar por alto a todas las generaciones más jóvenes del  Reino Superior Gran Chiliocosm.Dicho esto, a pesar de que Chu Feng fue capaz de sentir claramente el cultivo de Li Youbin, la expresión de Chu Feng se mantuvo sin cambios.No solo eso, sino que incluso habló de una manera indiferente: “No todos son iguales para mí.Tampoco quiero hacerte daño.Por lo tanto, es mejor que hagas lo que te digo.Más…"Chu Feng miró a los dos hombres que habían cruzado la línea que él había creado y fueron rechazados por él, "... todos terminarán como ellos dos"."Humph", al escuchar esas palabras, Li Youbing dejó escapar un resoplido frío.Luego, dio vuelta la palma de su mano, y una lanza azul apareció en su mano.Era un armamento inmortal incompleto, un armamento inmortal incompleto de primera calidad.Una vez que sacó ese Armamento Inmortal Incompleto, el poder de batalla de Li Youbin inmediatamente aumentó enormemente.
+
+Sin embargo, Li Youbin no se detuvo con eso. Con un pensamiento, la palabra "Cielo" apareció en su frente. Era una Marca de Rayo del nivel Cielo.
+
+Después de que apareciera su Marca del Rayo de nivel Cielo, el aura de Li Youbin aumentó de Inmortal Celestial de rango tres a un Inmortal Celestial de rango cuatro.
+
+Señalando su lanza a Chu Feng, Li Youbin dijo: "Arrodíllate y pide perdón y te perdonaré la vida de perro".
+
+“Si te arrodillas y me pides perdón en este momento, te dejaré ir  de forma segura. De lo contrario ... incluso si no cruzas esta línea mía, igual te enseñaré una lección ", dijo Chu Feng.
+
+“¡Impudente!” Li Youbin se enfureció al escuchar esas palabras.Apretó su agarre sobre su  armamento inmortalincompleto y comenzó a volar hacia Chu Feng.Sin embargo, en el momento en que Li Youbin se acercó a Chu Feng, un rayo repentinamente surgió alrededor de Chu Feng con un solo pensamiento. Al siguiente momento, como las dos generaciones más jóvenes del Clan Celestial Li antes que él, Li Youbin también fue golpeado volando hacia atrás.
+
+Cuando fue atrapado por las generaciones más jóvenes del Clan Celestial Li, Li Youbin también estaba vomitando sangre como los otros dos hombres antes que él. Su aura se volvió extremadamente débil. Fue gravemente herido.Además, su lesión era aún más grave que los dos hombres antes que él.
+
+En ese momento, las generaciones más jóvenes del Clan Celestial Li volvieron a mirar a Chu Feng. Sus expresiones habían cambiado mucho.
+
+La razón de esto fue porque no solo el cuerpo de Chu Feng estaba cubierto de rayos, sino que también había aparecido en su frente un carácter  formado por la reunión de rayos.
+
+Era el carácter "Divino".20 Capitulos adelantados enPatreon.Agregamos 2 niveles más , con 2 capitulos más en el nivelreino Cieloy 3 capitulos en el nivelSeñor Marcial.Si hay al menos 10 patrons en cada nivel se agregara 1 cap a cada uno de estos.Para consultas de patreon pueden comunicarse con nuestro equipo por whatsapp al +56976572857 o a facebook

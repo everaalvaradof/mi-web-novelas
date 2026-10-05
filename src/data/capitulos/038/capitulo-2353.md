@@ -1,0 +1,55 @@
+---
+titulo: "Capítulo 2353"
+numero: 2353
+novelaId: "38"
+---
+
+A Chu Feng no le importaba cómo los demás lo veían. Larazón de esto fue porque sintió que si él no hubiera llegado cuando lohizo, los que habrían muerto hubieran sido las personas del Valle Nube del Ocaso y del Salón de Tres Estrellas. Además, si no hubiera poseído la protección del gigante de cristal, incluso él habría sido asesinado.
+
+Chu Feng era alguien que nunca mantendría vivos a los que querían matarlo.
+
+La razón fue muy simple; Chu Feng sintió que todos los que querían matarlo merecían morir.
+
+"¡Anciano Ning Shuang!"
+
+"¡Señor Anciano!"
+
+Inmediatamente después, varias figuras más volaron desde el cielo. Eran Xu Yiyi, Song Biyu y los demás.
+
+De hecho, habían estado allí desde hace mucho tiempo.Simplemente, se habían escondido dentro del vacío y no se habían mostrado.En cuanto a la razón por la cual nadie fue capaz de sentir sus existencias, fue por las habilidades de Zhao Hong.Después de que Xu Yiyi, Song Biyu y los demás aterrizaran en el suelo,se unieron a la gente del Valle Nube del Ocaso y del Salón de Tres Estrellas.Las personas presentes comenzaron a mencionar a Xu Yiyi y los otroslos peligros que habían encontrado antes, mientras que Xu Yiyi y losdemás comenzaron a mencionar a esas personas su encuentro con Chu Feng yla Secta del Alma Infantil.Cuandola gente descubrió que Chu Feng había utilizado una formaciónespiritual que desafía al cielo para vencer al muy famoso Viejo Demonio Rakshasa, y utilizó un armamento demoníaco para ahuyentar a un inmortalverdadero, las miradas con las que la multitud miraba a ChuFeng cambiaronenormemente.Para muchos de los discípulos del Salón de Tres Estrellas y el Valle Nube del Ocaso, reverenciaron profundamente a sus padres, a su maestro o almaestro principal de su escuela.Sin embargo, en ese momento, habían cambiado a la persona a la que reverenciaban a Chu Feng.Despuésde todo, la conducta y las acciones de Chu Feng eran algo que suspadres, maestros e incluso el maestro principal no podían lograr.Por otra parte, Chu Feng también fue miembro de la generación más joven como ellos.Esto les hizo sentir una mayor admiración y reverencia hacia él que cualquier otra persona.Sin embargo, en ese momento, Jiang Hao se sentía aún más complicado.Después de todo, él había sido extremadamente excesivo con Chu Feng antes, e incluso había querido matar a Chu Feng.En este momento, él estaba verdaderamente lleno de remordimiento.Si él supiera que Chu Feng sería tan poderoso, incluso si le dierancien pares de bolas, no se atrevería a volver a complicar las cosasdeliberadamente a Chu Feng.Justoen el momento en que Jiang Hao estaba preocupado sobre si Chu Fengtomaría represalias contra él, Chu Feng comenzó a hablar con el anciano  Ning Shuang, ignorando por completo a Jiang Hao.Chu Feng comenzó a decirle al anciano Ning Shuang su propósito de estar allí."ChuFeng, ¿en realidad estás planeando ingresar a los remanentes?" Después dedescubrir que Chu Feng quería ingresar a los remanentes, el anciano NingShuang quedó profundamente conmocionado.De hecho, una gran cantidad de preocupación surgió en sus ojos."¿Qué pasa, podría ser que nos estés menospreciando?" Dijo Zhao Hong de una manera un poco disgustada."No,este anciano no tiene esa opinión en absoluto", el anciano Ning Shuangsabía que Zhao Hong y Wang Qiang eran amigos de Chu Feng.Por lo tanto, no quería ofenderlos, y rápidamente explicó con una sonrisa en su rostro."Entonces, ¿cuál es el significado de tu expresión de asombro?" Zhao Hong continuó preguntando."Pequeño amigo, por favor no entiendas mal.Realmente no los menosprecio a ustedes.Simplemente, los remanentes son verdaderamente peligrosos.No es un lugar donde la gente común pueda explorar "."La mayoría de las personas del Valle Nube del Ocaso y del Salón de Tres Estrellas ya se han retirado de los remanentes.La razón por la cual este anciano todavía está aquí es precisamente porque estaba esperando que Yiyi y los demás vinieran.Ahora que están aquí, también estoy planeando retirarme de este lugar ", dijo el anciano Ning Shuang."Hehe, a decir verdad, m-mayor, lo que menos nos preocupa es el peligro," dijo Wang Qiang con expresión orgullosa."Si realmente planean continuar en los remanentes, este anciano no los detendrá a todos.Sin embargo, sigue siendo que la gente del Valle Nube del Ocaso ha estado en los remanentes antes.Como tal, sabemos un poco acerca de la situación interna.¿Podrían estar todos dispuestos a escucharme? ", Dijo el anciano Ning Shuang."Mayor , por favor, adelante", dijo cortésmente Chu Feng."Hasta donde yo sé, la Escuela de la espada inmortal, el Templocelestial de Buda, el Clan celestial Zhou y el Clan celestial Kong, esos cuatro poderes de primer nivel, han despachado expertos en elnivel de Ancestros marciales a las profundidades de los remanentes.""Además, incluso un experto de nivel Inmortalverdadero fue enviado por el Templo Celestial de Buda"."Además,de acuerdo con los rumores, incluso el Gran Maestro Profeta, que estaba retirado de los asuntos mundanos durante mucho tiempo, fueinvitado por el Clan Celestial Kong .En este momento, él también está en las profundidades de esos remanentes", dijo el anciano Ning Shuang."Gran maestro Profeta?" Muchas de las personas presentes se sorprendieron al escuchar ese nombre.La razón de esto fue porque sabían mucho sobre la situación en los remanentes."¿Quién es ese Gran Maestro Profeta?" Preguntó Chu Feng con curiosidad.Por la reacción de la multitud, Chu Feng pudo decir que este GranMaestro Profeta parecía tener un origen extraordinario y era unindividuo extraordinario."Gran maestro Profeta es un individuo divino en nuestro reino ordinario de cien refinamientos.Él puede profetizar muchas cosas.Además, hasta esta fecha, todas las cosas que él ha profetizado se han hecho realidad "."Por lo tanto, el Gran Maestro Profeta posee un estado extraordinario en el Reino Ordinario de Cien Refinamientos.En general, es muy difícil solicitar su ayuda.Probablemente, el Clan Celestial Kong haya pagado un gran precio para solicitar la ayuda del Gran Maestro Profeta ".“Sin embargo, a pesar de que el Gran Maestro Profeta fue invitado, y muchos expertos de todo el reino Ordinario de Cien Refinamientos se encontraban dentro de los remanentes, ninguno de ellos parecía haber sidocapaz de hacer cualquier margen de maniobra y ganar algo de los remanentes  todavía.”"Además,se dice que ... el experto en el nivel Inmortalverdaderodel Templocelestial de Buda resultó gravemente herido en los remanentes y fue enviadofuera de este lugar.A partir de ahora, no está claro si esa persona está muerta o viva ", dijo el anciano Ning Shuang."¿El experto Inmortal Verdadero del Templo celestial de Buda resultó herido? Además, ¿no incierto de si está vivo o muerto?"
+
+"¿Las trampas y los mecanismos dentro de esos remanentes son realmente tan poderosos?" Preguntó Chu Feng con curiosidad.
+
+CuandoChu Feng se había encontrado con el InmortalVerdaderode la Secta delAlma Infantil, había experimentado cuán poderoso era un InmortalVerdadero.El hecho de que un experto tan poderoso hayaresultado herido y hasta haya perdido la vida demostró claramente cuánpeligrosos eran los remanentes.Esto causó que Chu Feng no tuviera más remedio que reevaluar los peligros de los remanentes.
+
+"No, no fue causado por trampas o mecanismos.Según se informa, fue herido por alguien ", dijo el anciano Ning Shuang.
+
+"¿Qué?Fue herido por alguien?Para poder herir a un inmortalverdadero, significaría que la persona que lo hirió también debe ser un inmortal verdadero.¿Exactamente quién lo lastimó? "En ese momento, la multitud estaba confundida."Nadie sabe quién hirió al Inmortal Verdadero del Templo Celestial de Buda.Lo único que sabemos es que esa persona es extremadamente poderosa.Dicho eso, una cosa es segura.La persona que hirió al InmortalVerdadero del Templo celestial deBuda no es parte de los cuatro poderes de primer nivel, sino más bien,un individuo desconocido "."Además, había otro rumor que decía que la persona que hirió al InmortalVerdadero del Templo celestial de Buda simplemente no era unhumano, sino un monstruo humanoide con un cuerpo cubierto con un pelajelargo y rojo", dijo el anciano Ning Shuang."¿Monstruo?¿Un monstruo capaz de derrotar a un inmortalVerdadero?¡Cielos!¡Nunca hubiera esperado que los remanentes fueran tan peligrosos!""Ancianos, es mejor que salgamos de este lugar rápidamente".En ese momento, la multitud del Valle Nube del Ocaso y el Salón de Tres Estrellas se volvieron más temerosos hacia los remanentes.Muchas personas estaban ansiosas por abandonar los Montículos de entierros sin nombre Extremadamente Remotos de inmediato.Temían que un monstruo pudiera aparecer de los remanentes y herirlos o matarlos.Después de todo, los Inmortales Verdaderos ya eran los mejores expertos en el reino ordinario de cien refinamientos. Eran seres capaces de invocar el viento y convocar a la lluvia. Ellos fueron los mejores individuos omnipotentes.
+
+Sin embargo, ese monstruo era capaz de derrotar a un inmortalverdadero . Naturalmente, la multitud estaría aterrorizada por la noticia de ese monstruo."Pareceque estos remanentes son bastante interesantes entonces", sin embargo, enel momento en que los otros tenían miedo, los labios de Zhao Hong selevantaron en una sonrisa.
+
+No era solo Zhao Hong quien estaba sonriendo, Wang Qiang también estaba sonriendo.
+
+Encuanto a Chu Feng, a pesar de que no reveló una expresión deanticipación, no había el más mínimo rastro de miedo en su rostro.
+
+Al ver las reacciones de los tres, el anciano Ning Shuang sacudió la cabeza impotente.Él sabía que... el había dicho todas esas cosas en vano.Habíaestado tratando de advertir a Chu Feng y a los otros de cuán peligrososeran los remanentes para que tuvieran miedo y no entraran.
+
+Sin embargo, ahora parece que no solo sus palabras no lograron asustarlos, sino que los hizo estar más interesados.
+
+Enese momento, el anciano Ning Shuang se dio cuenta de que uno simplementeno podía comparar la mentalidad de los genios con la de la gente común.
+
+El valor y la perspicacia que poseían los genios verdaderamente superaron a los demás.
+
+"Chu Feng, no hay tiempo que perder. Vamos ", dijo Zhao Hong con impaciencia.
+
+"Mn", asintió Chu Feng. Luego, se despidió del anciano Ning Shuang, Xu Yiyi y los demás.
+
+Después de despedirse, Chu Feng, Zhao Hong y Wang Qiang inmediatamente comenzaron a avanzar hacia los remanentes.
+
+"Chu Feng, espera un momento".Sin embargo, justo en ese momento, una figura repentinamente salió de la multitud de discípulos.Esa persona llegó ante Chu Feng y lo detuvo.
+
+Cuando esa persona apareció, las expresiones de Xu Yiyi y el anciano Ning Shuang cambiaron levemente.
+
+La razón de eso era porque esa persona no era solo alguien que ellos conocían, también era alguien que Chu Feng conocía.
+
+Esa persona era Jiang Hao.

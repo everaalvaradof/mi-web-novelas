@@ -1,0 +1,55 @@
+---
+titulo: "Capítulo 2372"
+numero: 2372
+novelaId: "38"
+---
+
+"Dejaré de lado lo que sucedió en los remanentes. Después de todo, no importa cómo lo mires, no fuiste razonable ".
+
+"Como tal, cambiaré el tema a lo que acaba de suceder".
+
+"Todos los mayores presentes aquí son personas de renombre. Todos ustedes son ancestros marciales, y muchos de ustedes también son del pico de ancestros marciales. "
+
+"No tengo que decir qué tan poderosos son todos ustedes.Después de todo, sus fuerzas abrumadoras son públicamente conocidas en todo el Reino Ordinario de Cien Refinamientos ".
+
+"Sinembargo, me atrevo a preguntar, ¿hay alguien entre ustedes que seacapaz de derrotar al Protector de la Secta del Alma Infantil?"
+
+"¿Algunode ustedes se puso de pie para enfrentar al Protector de la Secta delAlma Infantil durante el tiempo en que actuaba de formainterminablemente arrogante?" Continuó Chu Feng.En ese momento, no fueron solo los espiritistas mundiales; los otros también comenzaron a bajar la cabeza.
+
+De hecho, ninguno de ellos se había atrevido a destacarse para enfrentarse a Protector del Palacio del Oeste.
+
+"Antes,si no fuera por mí activando mi gigante de cristal, me temo quetodos los mayores presentes hubieran sido asesinados por elProtector de la Secta del Alma Infantil".
+
+"Una cosaes que todos los mayores aquí no me digan una palabra deagradecimiento, pero en realidad querían exigirnos que compartiéramosuna parte de lo que obtuvimos en los remanentes".
+
+"Sientiendo las cosas correctamente, todos aquí, los famosos y poderososmayores, planean ignorar la justicia y patear a su benefactor en ladentadura por el bien de la riqueza, ¿verdad?" Chu Feng miró a lamultitud con una mirada burlona.
+
+En ese momento, no solo la multitud bajaba la cabeza, su complexión también se había vuelto más roja.La razón de eso fue porque lo que Chu Feng dijo era la verdad. Si no fuera por su gigante de cristal, les hubiera sido imposible dejar vivos los remanentes.
+
+Razonablemente, no deberían exigir los tesoros que Chu Feng obtuvo en los remanentes.
+
+En realidad, incluso si Chu Feng no lo mencionó, ellos, más o menos, ya también se sintieron avergonzados.
+
+Todas y cada una de las palabras que Chu Feng dijo en su discurso fueron como espadas.Todas y cada una de sus palabras dibujaron sangre.Como tales, naturalmente se volverían infinitamente avergonzados.
+
+"Todos, ¿notaron ustedes una cosa?" Justo en ese momento, la Santa Espiritista Mundial habló de repente.Comparado con los otros, ella no tenía el menor rastro de una expresión de vergüenza en su rostro.
+
+"¿Qué cosa?" Preguntó la multitud al unísono.Todos querían liberarse de su incómoda situación.Las palabras pronunciadas por la Santa Espiritista Mundial les permitieron cambiar el tema de la conversación."El gigante de cristal de Chu Feng desatado anteriormente se parecía mucho a los cuatro de antes. Simi conjetura es correcta, ese gigante de cristal del nivel Inmortal Verdadero se formó a través de la fusión de los cuatro gigantes decristal del nivel pico de los Ancestro marcial ", dijo laSanta Espiritista Mundial con una extraña sonrisa.
+
+"¿Y qué pasa con eso?" Un Espiritista Mundial de Capa Inmortal de marca Serpiente preguntó con desaprobación.
+
+"Esto significa que Chu Feng y sus amigos actualmente no poseen ningún gigante de cristal".
+
+"Si queremos hacerles algo, no podrán resistir en lo más mínimo. Por lo tanto, simplemente no hay necesidad de molestarse con palabras superfluas con ellos. Solotrate con ellos directamente, "La Santa Espiritista Mundial volviósu mirada fría y melancólica hacia Chu Feng, Wang Qiang y Zhao Hong.
+
+"¡¿Te atreves ?!" Zhao Hong gritó furiosamente."¿Por qué no?¿Estás insinuando que tendríamos miedo de tres niños? "La Santa Espiritista Mundial dijo con una sonrisa fría y siniestra."Santa Espiritista Mundial, si no fuera por el pequeño amigo Chu Feng antes, todos habríamos sido asesinados.Tú, ¿qué es esto que planeas hacer aquí? "Dijo el Gran Maestro Profeta.Su tono parecía estar tratando de razonar con la multitud."Santa Espiritista Mundial, si planeas causarle daño al pequeño amigo Chu Feng,yo, Duan Chunchang, seré el primero en negarme". Mientras el anciano DuanChunchang pronunciaba esas palabras, desataba su máximo poder opresivoal nivel de un Ancestro Marcial.Él había revelado su sinceridad para proteger a Chu Feng."Santa Espiritista Mundial, si vas a hacer algo así, realmente estaráspateando a tu benefactor en la dentadura". Después de eso, muchos otrosexpertos expresaron su desaprobación de la propuesta de la Santa Espiritista Mundial."Todos, creo que no es necesario que les mencione qué tipo de personaje es el Gran Maestro Kai Hong"."Los remanentes dejados por el Gran Maestro Kai Hong son una de lasriquezas más preciadas de nuestro ReinoOrdinario de Cien Refinamientos"."¿Podría ser que estás realmente dispuesto a entregar todos lostesoros que el Gran Maestro Kai Hong dejó a tres simples mocosos?""Sin mencionar si estos tres mocosos podrán o no utilizarcorrectamente los tesoros que dejó el Gran Maestro Kai Hong, los tressimplemente no poseen la fuerza para salvaguardar los tesoros del GranMaestro Kai Hong"."En lugar de que la Secta del Alma Infantil les arrebate los tesorosmás adelante, es mejor que los ayudemos a mantener esos tesoros a salvohoy", dijo la Santa Espiritista  Mundial.Una vez que la Santa Espiritista Mundial dijo esas palabras, las expresiones de la multitud cambiaron.Sin mencionar a los que estaban en contra de Chu Feng antes, inclusoaquellos que habían hablado para apoyar a Chu Feng revelaron expresionescomplicadas.Sibien es posible que no deseen perjudicar a Chu Feng porque se sientenavergonzados ... tampoco desean que Chu Feng, Wang Qiang y Zhao Hongacaparen todos los tesoros del Gran Maestro Kai Hong."Asombroso. Paraser realmente capaz de proporcionar una excusa para arrebatarle eltesoro a otra persona, realmente debo admirar lo piel gruesa que eres ", seburló Chu Feng.
+
+"Pequeño amigo Chu Feng, a pesarde que tienes un conflicto con la Sana Espiritista Mundial, lo que elladijo no es sin razón".
+
+"Los tres de ustedes todavía son muy jóvenes, y sus puntos fuertes también son insuficientes. De hecho, no es seguro que los tesoros del Gran Maestro Kai Hong se queden con todos ustedes ".
+
+"Qué tal esto: te ayudaremos a mantenerlos a salvo por el momento. Cuandotodos obtengan suficiente fuerza en el futuro, les devolveremos lostesoros ", dijo el pico de Ancestro marcial del Clan Celestial Kong.
+
+"¡Tonterías de mierda! ¡¿Qué diferencia hay entre todos ustedes y los de la Secta del Alma Infantil ?! "Zhao Hong maldijo furiosamente. Su cara delicada y bonita se había vuelto roja por la ira.
+
+"De la forma en que lo veo, t-todos ustedes-son aún más despreciables que la Secta del Alma Infantil"."D-después de todo, las p-personas de la Secta del Alma Infantil s-son abiertamente desvergonzadas y salvajes.Mientrasque ustedes son solo un grupo de hipócritas que pretenden serjustos, un g-grupo que se atrevería a intimidar al débil y letemería al fuerte.Ustedes son realmente despreciables ", se burló Wang Qiang."Tres pequeños amigos, ¿cómo pueden decir todo eso?""Realmente estamos haciendo esto por su bien.Tal vez no puedan entender nuestras amables intenciones ahora, perodefinitivamente lo entenderán en el futuro ", dijo el pico de AncestroMarcial del Clan Celestial Kong.Mientras hablaba, desató el poder opresivo de su pico de Ancestro marcial yselló el camino de retirada para Chu Feng, Wang Qiang y Zhao Hong."Gran maestro Profeta, Mayor Duan Chunchang, ¿los dos de ustedestambién planean revolcarse en el fango con ellos?" Chu Feng miró al GranMaestro Profeta y al anciano Duan Chunchang."Eh ..." Gran maestro Profeta reveló una expresión difícil.Al final, él no dijo nada.Encuanto a Duan Chunchang, dijo con un tono avergonzado, "Pequeño amigoChu Feng, todos ustedes pueden quedarse con la herencia.En cuanto a los tesoros, no estamos pidiendo que los des todos.Simplemente necesita entregar una parte de ellos.Mientras estés dispuesto a entregar algunos, me atrevo a garantizar que nadie se atreverá a hacerte daño "."Si voy a decirte todo eso, nosotros solo obtuvimos la herencia del GranMaestro Kai Hong, y que simplemente no hay un tesoro, ¿me creerías?",Preguntó Chu Feng."Pequeño amigo Chu Feng, en ese caso, solo podríamos molestarte altener que entregar el Saco del Cosmos en tu cintura para que loinspeccionemos", dijo el experto del Clan Celestial Kong que seapresuró a hablar."Entiendo ahora", sonrió Chu Feng ligeramente.Luego, sacó la Espada del Dios Maligno de su Saco del Cosmos y la sostuvo en su mano."Chu Feng, ¿qué estás haciendo?Nome digas que este es el tesoro que obtuviste de los remanentes del GranMaestro Kai Hong ", se burló la Santa Espiritista Mundial."Heh ..." Chu Feng se rió entre dientes.Luego, dijo: "¿Desea revisarnos a los tres?Dependerá de si tiene o no la capacidad de hacerlo primero.Sin embargo, te avisaré de antemano.Todavía no es demasiado tarde para retroceder en este momento.Si realmente planea usar la fuerza, deberá asumir las consecuencias de sus acciones "."Pequeño amigo Chu Feng, estamos muy agradecidos por que nos hayas salvado antes"."Sin embargo, no somos niños de tres años.¿Nocrees que es muy aburrido que trates de asustarnos así? "Mientras elexperto del Clan Celestial Kong hablaba, miró a los demás presentes ydijo:" Todo el mundo, el pequeño amigo Chu Feng ha declarado unaamenaza.¿Están asustados?""Jajajaja ..." La multitud no respondió, sino que se echó a reír en ridículo.Eso sirvió como la mejor respuesta.En ese momento, la persona que se sentía más complaciente no era otra que la Santa Espiritista Mundial.Por la forma en que ella lo veía, por cómo las cosas se habían agitado, Chu Feng podía olvidarse de irse con seguridad.Incluso si no fue asesinado, es probable que la multitud le enseñe una lección y sea gravemente herido."Pequeño amigo Chu Feng, parece que no puedes asustarnos.Entonces ... por favor disculpe mi ofensa, "Ese experto del Clan Celestial Kong estrechó sus ojos.Entonces, su opresivo nivel pico de ancestro marcial  se arrastró hacia Chu Feng, Wang Qiang y Zhao Hong.Él no desencadenó ninguna intención de matar.Sinembargo, sintió que su poder opresivo sería suficiente para que ChuFeng, Wang Qiang y Zhao Hong sufrieran una aplastante derrota y loshiriera gravemente.Estaba sintiendo resentimiento hacia cómo Chu Feng había hablado para contradecirlo antes.Por lo tanto, estaba planeando usar esta oportunidad para disciplinar a los tres."¡Voy a ver quién se atreve a tocarlo hoy!"De repente, justo en ese momento, una voz llena de poder imponente estalló en el cielo.Al mismo tiempo, un aura abrumadora descendió del cielo y cubrió a la multitud.Ese aura era simplemente demasiado poderosa.A pesar de que había muchos Ancestros Marciales de pico entre la multitud, no pudieron soportar ese aura.

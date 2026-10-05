@@ -1,0 +1,31 @@
+---
+titulo: "Capítulo 2974: "Dicho eso, ¿podría el ascender al legendario décimo escalón?""
+numero: 2974
+novelaId: "38"
+---
+
+Almismo tiempo que se asombraron, la multitud también descubrió que la carade Chu Feng estaba completamente cubierta con una expresión dolorosa.
+
+El signo de no poder soportar el dolor finalmente apareció en su rostro.
+
+Chu Feng solo había logrado aterrizar un solo pie en el décimo escalón. Esto no se puede considerar como haber subido al décimo escalón en absoluto. Solo teniendo ambos pies en el décimo escalón sería un éxito.
+
+Sinembargo, cuando la multitud vio la expresión difícil en la cara de ChuFeng, sintieron que sería muy difícil para Chu Feng tener éxito.
+
+En realidad, Chu Feng estaba casi en su límite. Cuandoel pie de Chu Feng aterrizó en el décimo escalón, sintió como si losrayos de su alma estuvieran destrozados por completo. Ese tipo de dolor era realmente insoportable.
+
+Sin embargo, Chu Feng se sentía muy feliz.
+
+"Señor Padre, en realidad me engañaste", exclamó Chu Feng.Solo su Lady Reina pudo escuchar lo que dijo."Chu Feng, de qué estás hablando?¿Cómo te engañó tu padre? "Preguntó Su Lady Reina."Eggy, estos Escalones del Rayo Celestial son diferente del que mi padre preparó para mí", dijo Chu Feng."De hecho, son diferentes.Sin embargo, no entiendo por qué dijiste que tu padre te había engañado ", dijo Su Lady Reina."Es imposible que dos Escalones del Rayo Celestial sean diferentes.La razón por la que es diferente significa que hay un problema con uno de los Escalones del Rayo Celestial "."Actualmente estoy en el territorio del clan Celestial Chu.Todas las personas del Clan Celestial Chu tendrían que ascender a estos Escalones del Rayo Celestial cuando alcancen la edad adulta.Por lo tanto, la gente del Clan Celestial Chu debería conocer los Escalones del Rayo Celestial mejor que nadie "."Por lo tanto, estos Escalones del Rayo Celestial no deberían tener problemas.Siestos Escalones del Rayo Celestial no tiene ningún problema, significaríaque los Escalones del Rayo Celestial que mi padre me hizo ascender es el quetiene un problema ", dijo Chu Feng."¿Estás diciendo que tu padre había alterado ese Escalón del Rayo Celestial y aumentado su poder?", Preguntó Su Lady Reina."Siento que probablemente sea el caso", dijo Chu Feng."En ese caso, ¿significaría que en realidad ya has subido con éxito al noveno escalón en la Ruta Celestial?""Jaja, entonces ese es el caso.No es extraño que tu padre estuviera tan feliz después de que subiste al octavo escalón.Resultó que el octavo escalón fue el noveno escalón y el noveno escalón quefallaste al subir es en realidad el décimo escalón de los Escalones del Rayo Celestial  ".Su Lady Reina se volvió loca de alegría.Después de todo, esto demostró que el talento de Chu Feng no era inferior a su padre y abuelo."Chu Feng, probablemente ni tu padre ni tu abuelo hayan ascendido al décimo escalón anterior.Si eres capaz de ascender a él, ¿no significaría que tu talento supera a tu padre y a tu abuelo? "Dijo Su Lady Reina."No deseo superar a mi padre y mi abuelo.Sin embargo, yo, como un niño exiliado, tengo urgencia para probarme a mí mismo "."En aquel entonces, se consideraba que no tenía talento para el cultivo marcial y me tildaron de basura en la frente.Me expulsaron de mi clan cuando era solo un bebé "."Hoy, yo, Chu Feng, finalmente regresé al clan Celestial Chu.Debo probarme a mí mismo.No estoy tratando de demostrar que soy más fuerte que nadie.Más bien, quiero que sepan que han juzgado mal.Quieroque sepan que yo, Chu Feng, no soy alguien sin talento para el cultivomarcial, que no soy una vergüenza para el nombre de Chu Xuanyuan, ni unadesgracia para el nombre de Chu Hanxian, que yo, Chu Feng, no arruiné lareputación del padre y del abuelo ".Después de decir esas palabras, Chu Feng apretó los dientes y levantó su otro pie."Paso ~~~"Un rayo estalló en el décimo escalón de los Escalones del Rayo Celestial.Chu Feng estaba parado en el décimo escalón con ambos pies.Chu Feng había logrado ascender al legendario décimo escalón al que nadie había podido ascender."¡¿Él ... realmente pudo lograr eso ?!"La multitud simplemente no se atrevió a creer lo que estaban viendo.Chu Feng no solo despertó el legendario décimo escalón, sino que incluso logró ascender exitosamente sobre él.En esemomento, no era solo la gente presente la que no se atrevía a creer ensus ojos, incluso el anciano exaltado supremo Chu Hanpeng ubicado en lo másprofundo de la ciudad principal del Clan Celestial Chu  tenía unaexpresión muy complicada en sus ojos.
+
+Ese segundo experto más fuerte del Clan Celestial Chu  era en realidad algo incapaz de mantener la calma.
+
+Justo en ese momento, una fuerte explosión sonó desde lo más profundo del cielo.
+
+Al momento siguiente, los rayos  de nueve colores aparecieron en lo alto del cielo.
+
+Los rayos giraron en espiral como un vórtice antes de que se reunieran.
+
+"¿Qué ... qué es eso ?!"
+
+Enese momento, no solo las personas de la generación más joven estabanasustadas, incluso los expertos de la generación anterior se asustaronun poco.Como personas del Clan Celestial Chu, los Rayos Divinos de Nueve colores eran una visión común para ellos.Sin embargo, los Rayos Divinos de Nueve colores que aparecieronen el cielo en ese momento les dieron una sensación que nunca habíansentido antes.Fue un poder verdaderamente devastador.Si los Rayos Divinos de Nueve colores en el cielo fuesen a caer, definitivamente serían fatales.No solo sería Chu Feng el que acabaría sufriendo. Todos los presentes también sufrirían."¡Ese Rayo Divino  no es solo un signo anormal, todos se dispersan inmediatamente, regresan a la ciudad principal!"De repente, alguien gritó.Al momento siguiente, todos del Clan Celestial Chu comenzaron a volar hacia la ciudad principal.Al ver que la situación era mala, Chu Xuanzhengfa gritó: "¡Chu Feng, baja de inmediato!"Sinembargo, cuando los Rayos Divinos de Nueve colores aparecieron enel cielo, los rayos de los Escalones del Rayo Celestial también sevolvieron anormalmente feroces.Chu Feng estaba completamente cubierto por un rayo.Uno solo podía ver débilmente su silueta y no saber su situación.Esto causó que Chu Xuanzhengfa se sintiera aún más preocupado.15 Capitulos adelantados enPatreon. Si hay más patrons para el proximo mes tal vez se suban los capitulos a 20 o 25- saludos.

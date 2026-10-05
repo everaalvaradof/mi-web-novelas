@@ -1,0 +1,57 @@
+---
+titulo: "Capítulo 2410"
+numero: 2410
+novelaId: "38"
+---
+
+"Tenga la seguridad, no soy una persona descuidada", dijo Zhao Hong con una sonrisa.
+
+"Entonces, ¿dónde nos vamos a encontrar después de la separación de hoy?", Preguntó Chu Feng.
+
+"Reunámonos en el bosque fantasma Noche Oscura una vez que todo esté hecho", dijo Zhao Hong.
+
+"Muy bien", dijo Chu Feng.
+
+"La gente del Clan Celestial Kong todavía los está esperando a ustedes dos. Vámonos por separado aquí, "Cuando Zhao Hong habló, ella planeó eliminar la formación de ocultación que los cubría a los tres. Ella estaba planeando irse.
+
+"E-esposa", justo en ese momento, Wang Qiang llamó de repente.A pesar de que Wang Qiang siempre fue un individuo desvergonzado, en realidad reveló una extraña apariencia titubeante."Esposo, adelante y di lo que quieras directamente.Para que vaciles así, es bastante desagradable ", dijo Zhao Hong con una sonrisa.
+
+"Ya que estás dispuesta a ser mi esposa, definitivamente me casaré contigo grandiosamente en el futuro.Simplemente, a-antes de eso, espero que no continúes matando deliberadamente a inocentes ", dijo Wang Qiang a Zhao Hong.
+
+"¿Realmente me consideras una mujer demoníaca?" Preguntó Zhao Hong.
+
+"N-no, e-eso no es l-lo que quise decir.Simplemente ... "Wang Qiang comenzó a ponerse frenético después de escuchar lo que dijo Zhao Hong.Él apresuradamente trató de explicarse.
+
+"Jaja ... mírate ..." Sin embargo, al ver la reacción de Wang Qiang, Zhao Hong estalló en carcajadas.Entonces, ella dijo: "Solo bromeaba. Mira cuán asustado te volviste.Resulta que eres así de estúpido ".
+
+"M-malditamujer, yo-yo-yo ... yo estaba tratando de ..." Wang Qiang todavíaestaba tratando de explicarse mientras tartamudeaba."Esposo, está bien.Sé muy bien de qué te preocupas por esto"."Sin embargo, no te culpo.Es cierto que yo era una mujer demoníaca, que había masacradointencionalmente a inocentes y había cometido innumerables crímenes "."En ese momento, poseía enormes quejas y una intención asesina.Inefablemente, sentí un enorme odio hacia todos los hombres del mundo "."Fue como si matar hombres lujuriosos fuera la misión de mi vida.Incluso si quieres que explique mi estado mental en ese momento, no podría explicarlo.Sin embargo, es cierto que el yo de entonces era una mujer demoníaca que veía la vida humana como hierba "."Sin embargo, el yo ahora ya no es el mismo que el yo de aquel entonces.Entonces, puedes estar tranquilo, no volveré a hacer ese tipo de cosas ", dijo Zhao Hong."Zhao Hong, no me importan las vidas y muertes de otros.Sin embargo, como eres mi amiga, estoy muy preocupado por tu seguridad.Definitivamente debes recordar no excederte en este viaje ", dijo nuevamente Chu Feng."Chu Feng, ¿por qué te vuelves tan empalagoso así?Esto no es como eres tú en absoluto ", Zhao Hong sonrió levemente.Sin embargo, de repente, su expresión se volvió extremadamente seria.Un fuerte sentido de disculpa parpadeó en sus ojos.Ella le dijo a Chu Feng, "Chu Feng, fui excesivamente impulsiva antes.Si realmente me consideras una amiga, espero que no te lo tomes en serio ".De lo que Zhao Hong se disculpaba era, naturalmente, en relación con noescuchar a Chu Feng sobre el Estanque Maldito del Demonio de laSequía, yque en su lugar había comenzado a estar en conflicto con él.Al ver a la apologética Zhao Hong ante él, el corazón de Chu Feng se conmovió.¿Cómo podría un verdadero amigo guardar rencor por este tipo de disputa?Chu Feng ya se había olvidado de ese asunto.Lo único que le preocupaba todo el tiempo era la seguridad de Zhao Hong y Wang Qiang.Por lo tanto, Chu Feng se rió con picardía.Copió el movimiento y el tono de Zhao Hong y dijo: "Zhao Hong, ¿por qué te vuelves tan empalagosa así?Esto no es como eres tú en absoluto "."¡De Verdad!Te estoy pidiendo disculpas sinceramente.¿Por qué te estás burlando de mi así? "Al escuchar lo que dijo Chu Feng, Zhao Hong se rió.Además, ella golpeó el pecho de Chu Feng.Ese golpe no contenía ni un poquito de resentimiento.Por el contrario, estaba lleno de afecto."Parece que ustedes dos no tienen prisa por irse.Sin embargo, tengo prisa por obtener mis tesoros.Por lo tanto ... adiós ".Después de que Zhao Hong terminó de decir esas palabras, deshizo la formación de ocultación y se fue directamente.No tenía intención de despedirse de la gente del Clan Celestial Kong.La razón de esto era porque no le importaba la etiqueta, ni le preocupaba cómo la verían esas personas.Esta era Zhao Hong, una mujer aparentemente fría pero cariñosa y verdadera.Mientras ingresas a su corazón, ella definitivamente será una amiga en la que puedes confiar."Chico, parece que has comenzado a tener verdaderos sentimientos ahora.¿Pasó algo mientras yo estaba lejos? ", Preguntó Chu Feng a Wang Qiang después de que Zhao Hong se marchara.Enel pasado, Wang Qiang estaba completamente decidido a encontrar unaoportunidad para escapar de las garras malvadas de Zhao Hong.Sin embargo, antes, cuando se separaron de Zhao Hong, Wang Qiang reveló una profunda preocupación por Zhao Hong.Esa no era una muestra de afecto hipócrita.Por lo tanto, no era absolutamente un cambio completamente inesperado."Efectivamente, no puedo ocultar nada de ti", dijo Wang Qiang con una sonrisa traviesa.Luego, comenzó a narrar a Chu Feng lo que había sucedido durante el tiempo en que estaba fuera.Resultó que el viaje para obtener la herencia de Wang Qiang no fue nada fácil.Dos cosas sucedieron en el camino hacia allí.Unade ellas era que Wang Qiang y Zhao Hong habían encontrado bestiasferoces creadas por mecanismos en el lugar donde estaban los tesoros.En ese momento, la situación era muy seria.Wang Qiang había quedado atrapado, y si Zhao Hong no escapaba rápidamente, ella terminaría muriendo allí.Sinembargo, independientemente de cómo Wang Qiang instó a escapar a ZhaoHong, ella se negó a escucharlo y arriesgó su vida para salvarlo.Al final ... Zhao Hong logró rescatar con éxito a Wang Qiang.Sin embargo, ella resultó gravemente herida en el proceso.Wang Qiang no era un individuo sin corazón.Al ver a Zhao Hong tratarlo así, Wang Qiang se conmovió emocionalmente.Sin embargo, lo que realmente afectó a Wang Qiang fue otro asunto.Al principio, Zhao Hong había tratado a Wang Qiang con tanta pasiónporque Wang Qiang había usado su poción especial de amor en Zhao Hongdurante su momento de crisis.Sin embargo, eso todavía era solo una poción.Tarde o temprano, el efecto de la poción de amor desaparecería.De hecho, los efectos de la poción de amor ya habían desaparecido.Por lo tanto, las acciones de Zhao Hong hacia Wang Qiang en realidad ya no se debían a los efectos de la medicina.Por el contrario, Zhao Hong realmente se había enamorado de Wang Qiang.Para empezar, algo como el amor carecía de lógica.Quizás incluso la propia Zhao Hong no sabía cuándo se había enamorado de Wang Qiang.Sin embargo, lo que sucedió sucedió.Como tal, Zhao Hong comenzó a empeñarse en tratar bien a Wang Qiang.Sinembargo, con lo inteligente que era Zhao Hong, naturalmente sabía queWang Qiang había usado la poción de amor para salvar su vida.Porlo tanto, cuando la efectividad de la poción de amor se disipó, ella había estado ocultándole esto todo el tiempo, y nunca se lo mencionó a WangQiang.Temía que Wang Qiang la evitara una vez que descubriera la verdad.Sin embargo, durante el momento de la crisis de vida y muerte en ese entonces, Zhao Hong le dijo todo a Wang Qiang.
+
+Todos los corazones estaban hechos de carne. Cuando alguien te trató así, ¿cómo podría alguien no ser conmovido?
+
+Después de que Wang Qiang se enteró de ese asunto, se desconocía si estaba conmovido emocionalmente y se volvió impulsivo. O tal vez podría ser que Wang Qiang ya se hubiera enamorado de Zhao Hong sin saberlo.
+
+Sin embargo, quedó que Wang Qiang ya no sentía asco hacia Zhao Hong. En cambio ... aceptó la relación de ser marido y mujer con Zhao Hong.
+
+Sila relación que tenían los dos antes era una relación unilateral deZhao Hong, entonces ambas partes aceptaron su relación actual.
+
+"A medida que llegué a conocerla durante este período de tiempo, sentí que Zhao Hong era realmente una mujer muy buena.Su origen también es muy lamentable.Si es posible ... espero que puedas tratarla adecuadamente ", dijo Chu Feng a Wang Qiang."Jaja ... ¿me veo como una persona voluble?" Preguntó Wang Qiang con una sonrisa radiante.
+
+"Definitivamente lo pareces", dijo Chu Feng mientras copiaba la forma de hablar de Wang Qiang.
+
+"¡Oye! ¡En realidad estás burlándote de mí! "Dijo Wang Qiang con desdén.
+
+"Jaja, solo estoy bromeando. Vamos,hermano, vamos, los ancianos del Clan Celestial Kong todavía nosestán esperando ", dijo Chu Feng con una fuerte carcajada mientrascolocaba su mano sobre el hombro de Wang Qiang. Entonces, los dos comenzaron a volar hacia la dirección de la gente del Clan Celestial Kong.
+
+Kong Shunlian ya había adivinado que Zhao Hong podría no estar planeando ser un invitado de su Clan Celestial Kong.
+
+Por lo tanto, no mostró ningún rastro de sorpresa o arrepentimiento cuando descubrió que Zhao Hong se había ido.Para él ... poder invitar con éxito a Chu Feng fue suficiente.Solo así, el telón cayó sobre Chu Feng, el viaje de Wang Qiang y Zhao Hong al Estanque Maldito del Demonio de la Sequía. Chu Feng siguió a la gente del Clan Celestial  Kong y comenzó a proceder hacia el Clan Celestial Kong .
+
+Sinembargo, después de que Chu Feng y los demás se fueron, el monstruo dearcilla humanoide emergió de un cierto rincón del Estanque Maldito delDemonio de la Sequía. Lo más importante es que en realidad había dos monstruos de arcilla humanoide allí.
+
+Además, los monstruos de arcilla humanoide revelaron una expresión de disculpa de sus cuencas vacías.
+
+Dijeron: "El mundo es verdaderamente impredecible.Nunca hubiera esperado que la persona me ayudara a obtener el poder de la Piedra de Jadeíta de Cien Refinamientos serías tú ".
+
+"Chu Feng, te debo otro favor ahora.Desafortunadamente, todavía no puedo devolverte sus cuerpos.Por lo tanto ... Tampoco puedo dejar que te vean ".
+
+"Sin embargo, una vez que haya terminado con todo, definitivamente te pagaré.Incluso si quieres mi vida, no me negaré ".Después de que los dos monstruos de arcilla humanoide terminaron dedecir esas palabras, entraron juntas en el Estanque Maldito del Demoniode la Sequía."Buzz ~~~"De repente, una luz deslumbrante brilló una vez más desde el agua del estanque negro.La luz era extremadamente brillante y se elevaba directamente hacia el cielo.Era la luz de una formación espiritual.Si uno pudiera determinar la fuerza de la formación espiritual através de la intensidad de la luz, entonces la formación espiritual sería extremadamente poderosa.Desafortunadamente, en un lugar deshabitado como este, sin importarqué tan impresionante y magnífica pueda ser la vista, nadie fue capaz deapreciarlo.De lo contrario, la gente definitivamente exclamaría con asombro.Pronto, la luz de la formación espiritual gradualmente desapareció.El cielo una vez más se volvió negro como boca de lobo.Nunca nadie hubiera imaginado que hubiera una formación espiritual tan formidable debajo del agua del estanque.Además,nunca nadie hubiera imaginado que habría dos monstruos de arcillahumanoide haciendo algo desconocido para cualquiera en la formación espiritual.

@@ -1,0 +1,53 @@
+---
+titulo: "Capítulo 2651"
+numero: 2651
+novelaId: "38"
+---
+
+Esas llamas gaseosas parecían muy imponentes.Parecía que planeaban quemar a Chu Feng hasta la muerte.Sin embargo, las llamas gaseosas pronto comenzaron a desaparecer gradualmente.Para ser exactos, estaban siendo absorbidas por Chu Feng.Las llamas gaseosas se fusionaron con Chu Feng.Al ver esto, Li Yue'er dio un suspiro de alivio.A pesar de que la regla de sangre del dragón divino se habíaresistido inicialmente a Chu Feng, por la forma en que parecía ahora,Chu Feng evidentemente había sometido con éxito a la regla de sangre deldragón divino."Pensé que entraría en Sumisión Absoluta hacia mí.Después de todo, yo personalmente la forjé "."Nunca imaginé que la regla de sangre del dragón divino sería así de obstinada.Verdaderamente fue bastante agotador someterte ", dijo Chu Feng conuna radiante sonrisa mientras jugueteaba con la Regla de Sangre del Dragón Divino en su mano.En el pasado, la mayoría de las armas que había sometido entraban en Sumisión Absoluta.Como tal, recibiría, en menor o mayor grado, poder de las armas que sometió.El poder de esas armas, en mayor o menor medida, proporcionará asistencia para su cultivo o incluso lo aumentarían directamente.Sinembargo, a pesar de que había logrado someter a la Regla de Sangre delDragón Divino e hizo que lo reconociera como su maestro, no pudosometerlo a la Sumisión Absoluta.
+
+"Los Armamentos Inmortales Incompletos poseen vidas. Lo mejor es que no digas esas palabras exasperantes hacia eso. Delo contrario ... incluso si está dispuesto a ser utilizado por usted,no le confiará todo su poder ", advirtió Li Yue'er a Chu Feng.
+
+"Entendido", Chu Feng sonrió ligeramente. Luego,acarició suavemente la Regla de Sangre del Dragón Divino y dijo: "Túeres, después de todo, el arma que personalmente he forjado. Definitivamente te trataré bien ".
+
+"Deberías ponerle un nombre", dijo Li Yue'er.
+
+"Sigamos llamándola la Regla de Sangre del Dragón Divino. Después de todo, su apariencia se asemeja a una regla más que a una espada ", dijo Chu Feng con una sonrisa irónica.
+
+Originalmente, Chu Feng y Li Yue'er habían planeado forjar la Regla de Sangre del Dragón Divino en una espada.Sin embargo, como Chu Feng había decidido omitir el proceso depersonalizar la apariencia del arma, la Regla de Sangre del Dragón Divino terminó teniendo la misma apariencia que antes, y simplemente nose parecía en nada a una espada."Eso servirá", dijo Li Yue'er."Oh, es cierto.¿Cuándo planeas ingresar al Reino Superior Gran Chiliocosm? ", Preguntó Chu Feng."Estoy planeando partir de inmediato.¿Quieres viajar conmigo? ", Preguntó Li Yue'er."Me temo que no puedo.Todavía debo ir y resolver mi deuda con la Secta del Alma Infantil ", dijo Chu Feng."Apesar de que has logrado alcanzar un avance exitoso, tu cultivaciónsigue siendo solo la de un  Inmortal Verdadero de rango uno.A pesar de que hayas comprendido esa habilidad secreta abrumadoramentepoderosa, no necesariamente serás un rival para el maestro de secta de laSecta del Alma Infantil con tu cultivo actual "."A menos que ... ¿estás planeando usar el poder de tu Armamento Demoníaco nuevamente?", Preguntó Li Yue'er."Tenga la tranquilidad, no tengo que utilizar el poder del Armamento Demoníaco de nuevo.Además ... Definitivamente voy a poder destruir la Secta del AlmaInfantil con mis propias manos esta vez ", dijo Chu Feng de una maneramuy segura.Como Chu Feng estaba extremadamente seguro, también estaba extremadamente emocionado en ese momento.Su padre, Chu Xuanyuan, le había dado una misión antes de ir al Reino Ordinario de Cien Refinamientos.Esa misión era eliminar la Secta del Alma Infantil.Sin embargo, debido a su fuerza e impaciencia insuficientes paraeliminar la Secta del Alma Infantil, Chu Feng había renunciado a esamisión, renunciando a la eliminación de la Secta del Alma Infantilpersonalmente.Cuando se formó el ejército aliado, Chu Feng sintió que Ying Mingchao sería el que eliminaría la Secta del Alma Infantil.Después de todo, Ying Mingchao era el individuo más fuerte en el ejército aliado en ese momento.Sin embargo, ninguno de ellos esperaba que el maestro de secta de la Secta del Alma Infantil fuera tan poderoso.Incluso Ying Mingchao no era rival para él.Sin embargo, la situación había cambiado.Despuésde que Chu Feng ingresara al reino Inmortal Verdadero y sintiera lafuerza que actualmente poseía, Chu Feng sintió que podría eliminar laSecta del Alma Infantil por sí mismo.Con eso, podría cumplir la misión que le había encomendado su padre.Aunque Chu Feng ya tenía treinta años, comparado con el límite de edadde tener menos de cuarenta años para cumplir esta misión, Chu Feng aúnera muy joven.Mientras Chu Feng pudiera cumplir la misión, eso significaría que habría avergonzado al Clan Celestial Chu.Después de todo, la misión de eliminar la Secta del Alma Infantil fueuna misión establecida por el Clan Celestial Chu  para sus generacionesmás jóvenes.Sinembargo, no toda la generación más joven del Clan Celestial Chu podríaintentar la misión, ya que también existía el límite de edad de cuarentaaños.Los que tenían más de cuarenta años no podrían intentar la misión.Estollevó a que no haya nadie de la generación más joven del clan Celestial Chu  capaz de llevar a cabo la misión, incluso después de muchosaños.De hecho, muchos talentos de la generación más joven del Clan Celestial Chu  incluso habían sido asesinados por la Secta del Alma Infantil.LaSecta del Alma Infantil, esta secta demoníaca del Reino Ordinario de Cien Refinamientos, era simplemente incomparable a los poderes en los ReinosSuperiores.Sin embargo, se había convertido en una pesadilla a los ojos de innumerables generaciones jóvenes del Clan Celestial Chu. De hecho, se convirtió en un tabú que no se atrevieron a tocar.
+
+En cuanto a Chu Feng, ¿quién era él? Era un niño considerado basura y descartado por el clan Celestial Chu . En su frente todavía estaba impreso el carácter 'basura' que personalmente había sido marcado por el Clan Celestial Chu.
+
+SiChu Feng, esta basura en los ojos del Clan Celestial Chu, pudiera cumpliresa misión, definitivamente sería una enorme humillación para el ClanCelestial Chu.
+
+"Como estás decidido a ir, no te detendré. Vamos a despedirnos ahora ", dijo Li Yue'er.
+
+"Creo que nos volveremos a encontrar", dijo Chu Feng con una leve sonrisa.
+
+"Creo eso también. Mientras los dos sigamos vivos, "dijo Li Yue'er.
+
+"Definitivamente lo haremos", dijo Chu Feng.
+
+Entonces, Chu Feng se separó de Li Yue'er.Li Yue'er procedió hacia la formación de teletransportación que conducía al Reino Superior Gran Chiliocosm.En otras palabras, ella había procedido para la llamada Escalera al Cielo.En cuanto a Chu Feng, se dirigió directamente hacia Ciudad Celestial Chen, la sede de la Secta del Alma Infantil.Chu Feng quería saber exactamente qué tipo de gran actividad estabasucediendo en la Secta del Alma Infantil, exactamente qué era lo que laSecta del Alma Infantil gastaba tanto tiempo y esfuerzo planeando.......... ...Ciudad Celestial Chen fue completamente destruida el día en que YingMingchao y el maestro de Secta de la Secta del Alma Infantil lucharon.Sin embargo, Ciudad Celestial Chen no solo estaba completamente restaurada ahora, sino que incluso era mucho más grande que antes.Esta nueva ciudad Celestial Chen  era inimaginablemente grande.Incluso cuando estaba parado en el cielo y mirando hacia abajo, solose podía ver la punta del iceberg conocida como la Ciudad Celestial  Chen.Esta ciudad era lo suficientemente grande como para acomodar a todos en el Reino Ordinario de Cien Refinamientos.Dicho esto,a pesar de que la ciudad se había expandido muchas veces en tamaño, nohabía otros edificios aparte de las murallas de la ciudad. Para ser exactos, esto era simplemente una ciudad vacía con muros de la ciudad a su alrededor.
+
+Dicho eso, la ciudad no era una ciudad fantasma. Por el contrario, estaba llena de ruido y emoción.
+
+De un vistazo, uno podía ver figuras por toda la ciudad. Esas no eran hormigas. En cambio, eran humanos.
+
+De hecho, no eran solo los humanos los que estaban en la ciudad. También había muchas bestias monstruosas.
+
+Había tanta gente que uno simplemente no podía ver el final de ellos. A simple vista, las siluetas de las personas parecían extenderse hasta el horizonte.
+
+Este era un océano ilimitado formado con los cuerpos de las personas.Esto fue ... un océano de gente.
+
+Una escena como esta no podría describirse incluso con la palabra 'espectacular'.
+
+Aunqueno todos los del Reino Ordinario de Cien Refinamientos se reunieron enla Ciudad Celestial  Chen, al menos el noventa por ciento de ellosestaban reunidos allí.En ese momento, las caras de esas personas estaban llenas de emoción.Todos estaban anticipando la apertura de la Gran Formación del Alma Infantil.Todos esperaban que la Gran Formación del Alma Infantil les otorgarauna comprensión marcial que les permitiera aumentar su cultivación."Maestro de secta Hun, todos los que deberían estar aquí han llegado.Las personas que no vinieron son todas las que no quieren venir.¿Cuánto tiempo piensas esperar hasta la activación de tu GranFormación de Alma Infantil? ", Preguntó el Abad del Templo Celestial deBuda."No estés tan ansioso.Todavía hay personas en camino aquí.La Gran Formación del Alma Infantil se activará una vez que estén todos aquí "."Todos, pueden estar seguros.La Gran Formación del Alma Infantil les otorgará a todos ustedes su poder.Todos aquí podrán beneficiarse de la Gran Formación del Alma Infantil,"El maestro de secta de la Secta del Alma Infantil habló a la multitud con unavoz profundamente resonante.Aunque no todos pudieron ver su imagen, todos escucharon su voz."¡Larga vida a la Secta del Alma Infantil!¡Larga vida al Señor maestro de secta! "No se sabe quién comenzó a gritar esas palabras. Sin embargo, pronto, todos comenzaron a hacerse eco de esas palabras.
+
+La multitud densamente llena de millones y millones de humanos y  bestiasmonstruosas gritaban al unísono. Esta escena fue realmente espectacular.Dicho esto, también fue muy lamentable al mismo tiempo. Después de todo, la Secta del Alma Infantil era un poder que mataba deliberadamente a inocentes.
+
+Tal secta demoníaca debería ser el blanco del desprecio. Deberían ser detestados por todos.
+
+Sin embargo, la Secta del Alma Infantil ... en realidad fue reverenciada y adorada por todos como dioses.
+
+Como tal, ¿cómo no era esto lamentable?Ayudanos con tu donación , así poder mejorar la pagina y tener para caps adelantados en:https://www.patreon.com/devilnovels

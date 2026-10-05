@@ -1,0 +1,39 @@
+---
+titulo: "Capítulo 69"
+numero: 69
+novelaId: "38"
+---
+
+La zona central de la Escuela del Dragón Azure era el área en la que vivían los ancianos principales y los discípulos principales.Ese lugar era el área prohibida para los ancianos y los discípulos del patio interior.Pero, había un área prohibida que incluso prohibía a los ancianosprincipales y discípulos principales.Fue un gran palacio.Aunque era enorme, no era lujoso.Más bien, tenía los aires de la antigüedad e incluso algo de misterio.Ese lugar era el alojamiento del único Espiritista Mundial de la Escuela del Dragón Azure, el anciano invitado, Zhuge Liuyun.En el salón principal, Zhuge Liuyun estaba sentado en un viejo taburete de piedra.Todavía tenía la capa blanca llena de símbolos y aún cubría todo su cuerpo.Lo único que quedaba era su par de ojos profundos.Frente a él, un hombre estaba medio arrodillado en el suelo.Fue un discípulo principal.Tenía menos de 20 años, pero su cuerpo emitía calma y experiencia que no pertenecían a esa edad.Esa persona era la única persona dentro de los discípulos principales que tenían el poder Espiritual, Leng Wuzui."Wuzui, ¿por cuántos años me has estado siguiendo?". La voz profunda provenía de la capa blanca de Zhuge.
+
+"Hasta hoy, han pasado exactamente 3 años". Leng Wuzui respondió respetuosamente.
+
+"Ha pasado tanto tiempo sin que siquiera uno lo sepa. El tiempo realmente pasa rápido. Me sirvió en estos años y su desempeño es decentemente satisfactorio. Hoy, te daré la última misión. Mientraslo termines hermosamente, oficialmente te aceptaré como mi discípulo yte pasaré la Técnica de Formación Espiritual".
+
+"Maestro, ¿qué misión es? Inclusosi paso por agua caliente o camino por el fuego, no lo rechazaré ". Sabiendo queZhuge lo iba a aceptar oficialmente como su discípulo, Leng Wuzui eraincomparablemente feliz.
+
+"Encuentra una persona para mí", dijo Zhuge.
+
+"¿Qué persona quieres encontrar?", Preguntó Leng Wuzui."Un joven de unos 15 años de edad pero que puede usar el tercer estilo de los Tres Estilos del Trueno.Él es igual que tú, ya que también tiene el poder Espiritual.También me ha visto una vez, pero no sé cómo se llama ni sé si realmente es un discípulo de nuestra Escuela del Dragón Azure "."¿Unjoven que tiene el poder Espiritual y también puede usar el tercerestilo de los Tres estilos del trueno?" En ese instante, el rostro deLeng Wezui cambió ligeramente y no pudo evitar decir: "Sin duda, no haynadie comoese dentro de los discípulos principales"."Es por eso que quiero que vayas y lo encuentres.No importa si es un discípulo del patio interior o si no es un discípulo de la Escuela del Dragón Azure, búscalo para mí "."Mientras lo encuentres, puedes convertirte oficialmente en mi discípulo.Confío en que esto no será demasiado difícil para ti "."Enel viaje en la tumba, intercambié algunos golpes con el director de laEscuela de Mil Vientos y sufrí algunas lesiones.A partir de ahora, me cerraré detrás de las puertas por un tiempo.Espero que cuando salga, ya hayas encontrado a ese joven "."Haré mi mejor esfuerzo.""Sal."
+
+"Como desees". Después de responder respetuosamente, Leng Wuzui salió del palacio. Pero, en ese instante, su rostro era un poco feo e incluso ligeramente frío.
+
+"Joven Leng, ¿para qué te necesita el anciano Zhuge?"
+
+"Sí, joven Leng. ¿Es otra misión?"
+
+Fuera del palacio, dos discípulos principales se acercaron.Uno era hombre, uno era mujer.El hombre se llamaba Gao Le y la mujer se llamaba Liu Bing.Apesar de que eran más viejos que Leng Wuzui y entraron en el patiointerior más temprano, fueron dos de los ayudantes de confianza de LengWuzui."Ve al patio interior y verifica si hay un joven que haya cultivado el tercer estilo de los Tres Estilos del Trueno. Si lo encuentras, secretamente elimínalo. No dejes que nadie sepa que fue asesinado por ti. Ni siquiera Zhuge Liuyun puede saberlo ", dijo fríamente Leng Wuzui.
+
+"Haremos eso ahora". Gao Le y Liu Bing no lo dudaron. Después de responder, se marcharon rápidamente.
+
+LengWuzui volvió la cabeza y miró hacia el palacio en el que estaba Zhuge.Sus ojos ligeramente entrecerrados emitían una fría mirada.
+
+"Viejo, te he vendido mi vida por 3 años completos, pero quieres aceptar a otra persona como tu discípulo. Como me estás tratando tan cruelmente, no me culpes por ser injusto.Ni siquiera pienses en tomar a otro como tu discípulo ".
+
+Nadie en el patio interior sabía lo que sucedió en la zona central.Sin embargo, la cantidad de personas que se reunieron fuera del Edificio de Habilidad Marcial eran más y más.Todos fueron atraídos por la casa de color verde oscuro en la parte superior del escenario alto.Especialmente los ancianos del Edificio de Habilidad Marcial.Todos tenían caras estrechas y no apartaron su mirada de la Formación de Cultivo.Fue porque Chu Feng había ingresado a la Formación de Cultivo durante 6 horas completas."Gerente, nada le pasó a Chu Feng ¿verdad?Han pasado 6 horas, e incluso si fueras tú ... "Algunos ancianos comenzaron a preocuparse por Chu Feng."No.Si Chu Feng se desmayara debido a la falta de fuerza en la Formación de Cultivo, la formación dejaría de funcionar al instante.Pero actualmente, la Formación de Cultivo todavía está en progreso y el poder es aún más fuerte que antes.Esto significa que Chu Feng todavía aguanta, así que al menos no lepasó nada." Ouyang negó con la cabeza, pero la sorpresa parpadeó en sumirada.6 horas.Incluso si fuera él, con su cultivo actual, solo podría durar 6 horas en la Formación de Cultivo a lo sumo.Después de todo, fue la Formación de Cultivo planteada por Zhuge quien fue apenas más débil que el director de la escuela.Sin embargo, Chu Feng, con el cultivo del séptimo nivel soportó durante 6 horas en la Formación de Cultivo.Excedió los límites de los discípulos principales y todavía estaba persistiendo en ello.Eso realmente hizo que Ouyang sintiera admiración.Después de 8 horas en la Formación de Cultivo, la admiración se convirtió en shock.Cuando Chu Feng dejó la Formación de Cultivo por elección, todos vieron que Chu Feng estaba extremadamente relajado.Incluso tenía una sonrisa extremadamente feliz en su rostro e inclusohizo que la gente sospechara si realmente estuvo en la Formación deCultivo durante 8 horas.Sospechaban si la Formación de Cultivo realmente tenía una presión insoportable como las leyendas.Debido a eso, después de que Chu Feng salió, alguien entró firmementeen la Formación de Cultivo y quiso investigar hasta el final.Pero el intento de esa persona le permitió a la gente saber que la Formación de Cultivo fue absolutamente como se rumoreaba.El discípulo que entró solo se quedó por un momento antes de perder elconocimiento y fue sacado fuera por un anciano del Edificio deHabilidad Marcial."Cielos, eso significa que Chu Feng realmente se quedó en la Formaciónde Cultivo durante 8 horas y no se vio afectado para nada"."Eso es demasiado aterrador.¿Sigue siendo humano?Parece que apareció un monstruo en el patio interior ".Al ver aldiscípulo que tenía espuma blanca saliendo de su boca y mostrando elblanco de sus ojos mientras era llevado por el anciano, todos gritaroninterminablemente en sorpresa. Por supuesto, no estaban gritando por ese discípulo, estaban gritando por Chu Feng que salio antes.
+
+Después de eso, sin dudas, Chu Feng creó otra leyenda en el patio interior. Pero a Chu Feng no le importaban cosas así. La razón por la que estaba contento fue porque dominó la etapa inicial de la Técnica del Cielo Imperial.
+
+Aunque solo era la primera etapa, la velocidad del viento satisfizo a Chu Feng. Almenos, con la Técnica del Cielo Imperial, si no podía ganar contra losexpertos en el reino  Origen, al menos podría escapar con seguridad. Fue su carta de triunfo al correr por su vida.
+
+Pasó el tiempo y en un abrir y cerrar de ojos, llegó el día del examen de discípulo principal.La noche antes del examen, Su Mei que desapareció por unos días llegó a su puerta.

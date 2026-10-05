@@ -1,0 +1,41 @@
+---
+titulo: "Capítulo 3109"
+numero: 3109
+novelaId: "38"
+---
+
+"La Galaxia a la que pertenece nuestro Campo Estelar Marcial Ancestral se llama Galaxia de la Luz Santa"."En realidad, en los primeros días de la Galaxia de la Luz Santa, se la conocía como la Galaxia Marcial Ancestral. La razón por la que se llama la Galaxia de la Luz Santa ahora es porque el gobernante de la Galaxia de la Luz Santa es el Clan de la Luz Santa"."Como el señor supremo de una galaxia, el Clan de la  Luz Santa tiene la autoridad de cambiar el nombre de la galaxia sobre la que gobiernan"Chu Feng recordó firmemente el nombre del Clan de la Luz Santa.La razón de eso fue porque eran el señor supremo de una galaxia.Como solo había nueve galaxias en todo el vasto cielo estrellado, era obvio lo aterradoramente poderoso que era el Clan de la Luz Santa para poder convertirse en el señor supremo de una galaxia."Ya te mencioné antes que tu madre no está en el Campo Estelar Marcial Ancestral, sino en otro campo estelar. Creo que aún recuerdas eso"."Dicho esto, en realidad, la distancia entre tu madre y tú es mucho mayor que la distancia entre dos campos estelares. La distancia es la distancia entre dos galaxias"."La galaxia en la que estamos se llama la Galaxia de la Luz Santa".
+
+"En cuanto a la galaxia en la que está tu madre, se llama la Galaxia de los Siete Reinos".
+
+"Además, el poder al que pertenece tu madre se llama la Mansión Sagrada de los Siete Reinos".
+
+“¿La Mansión Sagrada de los Siete Reinos?” Al escuchar esas palabras, la expresión de Chu Feng cambió.
+
+Después de eso, la voz de Su Lady Reina sonó en los oídos de Chu Feng, "Chu Feng, el Clan de la Luz Santa es el señor supremo de la Galaxia de la  Luz Santa. El poder al que pertenece tu madre se llama la Mansión Sagrada de los Siete Reinos.¿No significaría que el poder al que pertenece tu madre es el señor supremo de la Galaxia de los Siete Reinos? "
+
+"Eso es muy posible", dijo Chu Feng.
+
+Mientras Chu Feng y su Lady Reina discutían esto, la formación que el padre de Chu Feng dejó atrás continuaba con su explicación.
+
+"Feng’er, creo que debes tener algunas conjeturas en tu corazón después de escuchar hasta este punto"."Es como lo has adivinado, el poder al que pertenece tu madre es muy poderoso.Son tan poderosos que controlan toda la galaxia "."Sin embargo, incluso entre las galaxias, hay diferencias en la fuerza.La Galaxia de los Siete Reinos a la que pertenece tu madre es más fuerte que nuestra Galaxia de la Luz Santa"."En otras palabras, la Mansión Sagrada de los Siete Reinos a la que pertenece tu madre es más fuerte que el poder más fuerte en nuestra Galaxia de la Luz Santa, el Clan de la Luz Santa"."Creo que debes ser muy curioso en cuanto a cuán poderoso es el poder al que pertenece tu madre, para que sea tan poderoso"."En realidad, está relacionado con el noble talento de las técnicas espirituales mundiales que fluyen a través de tu cuerpo".“Reunidos en la Mansión Sagrada de los Siete Reinos son los espiritistas mundiales más fuertes en todo el mundo marcial sin límites.Ese lugar es la tierra santa sagrada de los espiritistas mundiales.Esa es la razón por la que se llama la Mansión Sagrada de los Siete Reinos ".“La Mansión Sagrada de los Siete Reinos se estableció después de la Era Antigua y ha continuado existiendo durante decenas de miles de años.Y ahora, se ha vuelto similar a un clan, y no a un simple poder "."Por el bien de preservar la línea de sangre más pura y sobresaliente de los espiritistas mundiales, la Mansión Sagrada de los Siete Reinos tiene una regla especial".“La regla es que a los de la Mansión Sagrada de los Siete Reinos solo se les permite casarse con otros de la Mansión Sagrada de los Siete Reinos.Su línea de sangre no se permite pasar a los forasteros.Si uno va a pasar su línea de sangre a un forastero, será un delito muy grave ".“En cuanto a mí, no soy miembro de la Mansión Sagrada de los Siete Reinos.El hecho de que estuve junto a tu madre y te dimos a luz significaba que tu madre cometió un delito muy grave "."En cuanto a usted y yo, hemos cometido una ofensa capital".“¿Ofensa capital?” Al escuchar esas palabras, la expresión de Chu Feng cambió enormemente.Su estado de ánimo se volvió ligeramente emocional.La ira ardía en su corazón.Chu Feng finalmente se dio cuenta de por qué su padre tendría esa reacción en ese entonces.También parecía darse cuenta de por qué su padre y su madre no podían estar juntos.Resultó que se debía a que se suponía que el padre y la madre de Chu Feng no estaban juntos.Además, después de estar juntos, cometieron un delito muy grave.Chu Feng finalmente se dio cuenta de por qué su madre no lo crió después de dar a luz, y en cambio selló dos espíritus mundiales en su cuerpo antes de irse.Fue porque ella no tenía otra opción.Ella se vio obligada a tomar esa decisión.Al pensar en el sufrimiento que su madre tuvo que atravesar durante todos estos años, la ira en el corazón de Chu Feng estalló incontrolablemente.
+
+De hecho, la creciente intención asesina fluía del cuerpo de Chu Feng.Como grandes látigos, su intención asesina llenó toda el área prohibida."Feng’er, creo que debes estar enojado con rabia en este momento"."Sin embargo, espero que puedas estabilizar tu estado de ánimo y terminar de escuchar lo que voy a decir a continuación"."Tanto tú como yo somos delincuentes de la Mansión Sagrada de los Siete Reinos"."Quieren matarnos porque he hecho impura la línea de sangre de la Mansión Sagrada de los Siete Reinos.En cuanto a ti, eres lo que ellos ven como su línea de sangre impura "."Sin embargo, tú y yo seguimos a salvo.La razón de esto es que la Mansión Sagrada de los Siete Reinos no sabe exactamente quiénes somos todavía, ni saben dónde estamos "."La razón de esto es porque tu madre decidió asumir todo por sí misma".“Tu madre solía ser la persona más sobresaliente en la Mansión Sagrada de los Siete Reinos.Ella tenía la posibilidad de convertirse en el sucesor de dirigir la Mansión Sagrada de los Siete Reinos.Debido a este asunto, se convirtió en una criminal de la Mansión Sagrada de los Siete Reinos, y actualmente está siendo encarcelada"."Tanto tú como yo, padre e hijo, tenemos la responsabilidad de rescatar a tu madre"."Sin embargo, la Mansión Sagrada de los Siete Reinos es demasiado poderosa, tan poderosa que ni siquiera el yo actual posee la certeza de poder luchar contra ellos, y mucho menos el tú actual".“Solo deja el asunto de salvar a tu madre para mí, tu padre.Después de todo, comparado con usted, como esposo de su madre, yo, su padre, debería rescatar a mi amada con mis propias manos ”.“Además, aunque tu madre cometió un delito grave, debido a su talento, la Mansión Sagrada de los Siete Reinos realmente no le hará nada.Además, definitivamente la rescataré un día ".“Como tal, no tienes que preocuparte demasiado por tu madre.Ella está muy segura en este momento, y un día recuperará su libertad "."En cambio, el padre quería que realices otra tarea".Al escuchar esas palabras, la expresión de Chu Feng cambió.
+
+Un tipo especial de luz emergió en sus ojos previamente llenos de ira.
+
+Chu Feng naturalmente quería salvar mucho a su madre. Después de todo, ella era su madre biológica.
+
+Sin embargo, también sabía muy bien lo pequeño y débil que era actualmente.
+
+Simplemente no estaba calificado ni siquiera para hablar de salvar a su madre en este momento, y mucho menos intentar ir a salvarla.
+
+Sin embargo, Chu Feng no quiso no hacer nada.Él quería ayudar.Incluso si solo podía ayudar un poco a su padre, todavía quería poner todo su esfuerzo en ayudarlo.
+
+Y ahora, la oportunidad de ayudar a su padre parecía haber aparecido.
+
+"Feng’er, esto es algo muy importante, extremadamente importante".
+
+"Esto es algo que ni tu abuelo ni yo pudimos lograr".
+
+"Espero que puedas lograr lo que tu abuelo y yo no pudimos lograr", dijo el padre de Chu Feng.20 Capitulos adelantados enPatreon.Agregamos 2 niveles más , con 2 capitulos más en el nivelreino Cieloy 3 capitulos en el nivelSeñor Marcial.Si hay al menos 10 patrons en cada nivel se agregara 1 cap a cada uno de estos.Para consultas de patreon pueden comunicarse con nuestro equipo por whatsapp al +56976572857 o a facebook

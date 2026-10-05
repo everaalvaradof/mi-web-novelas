@@ -1,0 +1,43 @@
+---
+titulo: "Capítulo 2914: "Chu Feng, ¿lograste obtener la herencia?""
+numero: 2914
+novelaId: "38"
+---
+
+Los dos discípulos varones de la Tierra Santa de la Estrella Caída preguntaron emocionados.
+
+Larazón por la que le preguntaron a Chu Feng esto y no entraron a lapuerta para verificar las cosas por sí mismos fue porque desde que ChuFeng salió, el noveno Sitio de Herencia desapareció.
+
+Por lo tanto, incluso si quisieran entrar, no podrían hacerlo. Lo único que podían hacer era preguntarle a Chu Feng sobre eso.
+
+"¿Herencia? De hecho la he obtenido ", Chu Feng no trató de ocultar nada y habló con sinceridad.
+
+"¿Has obtenido la herencia? ¿Has obtenido toda la herencia? "Los dos discípulos masculinos de la Tierra Santa de la Estrella Caída preguntaron.
+
+"Así es, toda la herencia está conmigo", Chu Feng no lo negó.
+
+"¡Insolente!" Al escuchar esas palabras, los dos discípulos varones de la Tierra Santa de la Estrella Caída se enfurecieron de inmediato."¿Por qué no nos llamaste ?!¿No dijiste que mientras sea la Puerta de la Vida, nos lo informarías?""¡Chu Feng, tu personaje vil infiel!¡Hemos confiado en ti en vano!¡En verdad nos engañaste y acaparaste toda la herencia por ti mismo!"En ese momento, no solo los dos discípulos de la Tierra Santa de la Estrella Caída sevolvieron inmediatamente hostiles hacia Chu Feng, sino que inclusocomenzaron a hablar mal de Chu Feng.Al escuchar esas palabras, Chu Feng frunció el ceño.De una manera extremadamente disgustada, dijo, "Primero, después de que entré, la puerta se cerró sola.Incluso si hubiera querido salir e informarles a todos, no pude hacerlo "."Luego, necesitaba recibir toda la herencia para poder abrir la puerta nuevamente.Esa es también la razón por la cual la puerta incluso reapareció.Ustedes han estado aquí todo el tiempo.Por lo tanto, deberían haberlo visto, ¿no?""Lo más importante, después de que la puerta reapareció, solo vi a Milady Reina entrar a buscarme a mí y no a todos ustedes.¿Cuál es el significado de eso?""Todos ustedes solo se preocupaban por sus propias vidas y simplemente no se preocupaban por la mía. Sin embargo, ahora, en realidad están arremetiendo contra mí y declarando que estoy acaparando todo para mí ".
+
+"Déjame contarte todo esto. Yo, Chu Feng, no pensaba tomar todo para mí. Sin embargo, incluso si lo hago, todos se lo merecen esto".
+
+"La razón es que no se atrevieron a entrar en la puerta para recibir la herencia. Como tal, no están calificados para recibir la herencia ", declaró Chu Feng.
+
+Los dos discípulos varones de la Tierra Santa de la Estrella Caída se quedaron sin habla por Chu Feng.
+
+De hecho, lo que dijo Chu Feng no sonó como una mentira. Era cierto que después de que Chu Feng ingresara a la puerta, la puerta desapareció. Por lo tanto, incluso si quisiera salir e informarles, no habría sido capaz de hacerlo.
+
+Además, cuando la puerta reapareció nuevamente, era cierto que no tenían el coraje de entrar en ella.Indefensos, los dos miraron a Xia Yun'er.Parecían querer que Xia Yun'er dijera algo.Sin embargo, Xia Yun'er no tenía intención de hablar por ellos.En cambio, estaba mirando a Chu Feng con una sonrisa en su rostro.No solo no había culpa en sus ojos, sino que estaba llena de profunda preocupación.Al ver esto, Chu Feng se acercó a Xia Yun'er y pasó la palma de su mano a través de su Saco del Cosmos.Al siguiente momento, un total de veinte Armamentos Inmortales aparecieron ante Xia Yun'er."¿Esos son?"Al ver esos Armamentos Inmortales, por no mencionar los discípulos deTierra Santa de la Estrella Caída, incluso los ojos de los discípulos de la Secta Nueve Profunda comenzaron a brillar.La razón de eso fue porque esos veinte Armamentos Inmortales eran todos Armamentos Inmortales de alta calidad.Definitivamente no eran algo con lo que los Armamentos Inmortales ordinarios pudieran compararse.Incluso podrían considerarse tesoros reales.Además, también había materiales de cultivo y tesoros que poseíanefectos especiales además de esos veinte Armamentos Inmortales.Aunque no eran tan llamativos como los Armamentos Inmortales, todos eran tesoros valiosos."Jovenmaestro Chu Feng, ¿qué estás ...?" Los hermosos ojos de Xia Yun'ercomenzaron a girar mientras le preguntaba a Chu Feng de una manera algodesconcertada.
+
+"Aunque no entraste, siento que te mereces esto".
+
+"Esta es una porción de la herencia, acéptala", dijo Chu Feng.
+
+"Gracias joven maestro Chu Feng".
+
+Xia Yun'er estaba un poco indecisa. Sin embargo, al final, ella todavía lo aceptó.
+
+Si esos eran Armamentos Inmortales ordinarios y tesoros, ella podría terminar rechazándolos. Sinembargo, frente a los veinte Armamentos Inmortales que Chu Feng lepresentó, no había ninguna razón para que ella lo rechazara.
+
+Sinmencionar que ella los aceptó por sí misma, incluso si esos fueroncolocados en su Tierra Santa de la Estrella Caída, serían tesoros raros.
+
+"Hermano Chu Feng, nos equivocamos antes. Te hemos acusado erróneamente ".Justo en ese momento, los dos discípulos varones de la Tierra Santa de la Estrella Caída caminaron hacia Chu Feng con expresiones anhelantes en sus rostros.Al ver a los dos así, Chu Feng sonrió ligeramente, "¿Qué es esto?¿Quieren recibir tesoros también?""Mis disculpas, ustedes dos no están calificados para recibir ningún tesoro"."¡Tú!Chu Feng, ¡eres realmente despreciable!¡Debes saber que lo que has obtenido son nuestros tesoros de las Tierra Santa de la Estrella Caída!""¡Ya somos extremadamente benevolentes para estar dispuestos a compartirlos contigo!Sin embargo, ¿de verdad querías acaparar todo por ti mismo?¡Qué tan descarado puedes ser !?"Al ver que Chu Feng no solo se negó a compartir la herencia con ellos,sino que incluso los insultó, los dos discípulos se volvieron hostilesuna vez más.Chu Feng desaprobó por completo sus afirmaciones.Con una leve sonrisa, dijo: "¿Sus tesoros de la Tierra Santa de la Estrella Caída?Si fueran sus tesoros de la Tierra Santa de la Estrella Caída, ¿por qué no pudieron adquirirlos? ¿Por qué terminaron en mis manos? ""¿Sus tesoros de la Tierra Santa de la Estrella Caída?¿Por qué no le dices esas palabras al Clan Celestial Chu?Vaya y pregúnteles, vean si reconocerían que los tesoros aquí pertenecen a la Tierra Santa de la Estrella Caída"."¡¡¡Tú!!!"Los dos discípulos varones de laTierra Santa de la Estrella Caídaestaban tan furiosos que su tez se volvió verde.Sin embargo, no sabían cómo refutar a Chu Feng.No fueron solo ellos.Después de que Chu Feng dijo esas palabras, las expresiones de la multitud de la Secta Nueve Profunda también cambiaron.De hecho, este lugar no pertenecía a laTierra Santa de la Estrella Caída.Por lo tanto, no existía el primer en servirse.El Reino Superior Gran Chiliocosmo era el territorio del Clan Celestial Chu.Por lo tanto, si uno debe insistir en determinar la propiedad, el Clan Celestial Chu debería ser el propietario.No fue en absoluto laTierra Santa de la Estrella Caída o la Secta Nueve Profunda."Además, debo recordarte todo esto.Antes de entrar en la puerta, todos ustedes creían firmemente que la puerta en la que ingresé era la Puerta de la Muerte "."Si no fuera por mí, Chu Feng, todos ustedes ya habrían escuchado almayor Zhao y hubieran decidido entrar por la puerta de la izquierda"."Si no fuera por mí, Chu Feng, todos ustedes ya estarían muertos"."¿Y aquí quieres exigir la herencia de mí?""Humph, humph.Como yo lo veo, el desvergonzado no soy yo.Más bien, son ustedes dos ".Después de que Chu Feng terminó de decir esas palabras, de repente miró hacia el sudeste.No había nadie ahí.Sin embargo, Chu Feng sabía que la dirección hacia la que mirabaestaba unida al exterior de la Cueva de la Herencia, el lugar dondetodos los ancianos estaban reunidos.Mirando en esa dirección, Chu Feng simplemente miró a los ancianos cara a cara."También podría decirles la verdad.Este lugar es el remanente del Exaltado Arquero.La herencia que yo, Chu Feng, obtuve es la herencia del Exaltado Arquero "."Sin embargo, yo, Chu Feng, confié en mi propia habilidad para obtener la herencia.Por lo tanto, sin mencionar a estos dos tontos desvergonzados, inclusosi la Tierra Santa de la Estrella Caída quiere exigir la herencia de mí, solo diré ... ""... ni lo piensen".Chu Feng había resuelto firmemente que definitivamente no compartiría lo que había obtenido con nadie más.Ayudanos con tu donación , así poder mejorar la pagina y tener para caps adelantados en:https://www.patreon.com/devilnovels

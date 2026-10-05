@@ -1,0 +1,51 @@
+---
+titulo: "Capítulo 2346"
+numero: 2346
+novelaId: "38"
+---
+
+"También he oído hablar de la Secta del Alma Infantil antes.Nunca me hubiera imaginado que realmente existe "En ese momento,algunos de los ancianos comenzaron a expresar que habían oído hablar dela Secta del Alma Infantil."¡Realmente despreciable!¿Cómo podría existir una poderosa secta tan horrenda en este mundo?¡En realidad usan las almas de los infantes para aumentar su cultivo !? ""¡Tus crímenes son simplemente imperdonables!" Después de averiguarsobre el origen de la Secta del Alma Infantil, las personas que no sehabían arrodillado ante el Demonio Rakshasa comenzaron a arremetercontra él sin contener nada.Después de todo, ya se han preparado para la muerte.Cuando ni siquiera la muerte les asustaba más, no habría nada más que pudiera asustarlos.Como tal, naturalmente serían lo suficientemente atrevidos como para decir lo que quisieran.De hecho, incluso las personas que se habían arrodillado comenzaron a vacilar ligeramente.Después de todo, la acción de usar las almas de los infantes paraaumentar la propia cultivación era realmente capaz de hacer que elcabello se erizara de ira."Jajaja.El mundo de los cultivadores marciales es un mundo donde los débiles son presa de los fuertes.¿Cruel?¡Qué montón de tonterías!¿Estás insinuando que nunca has matado a gente más débil que todos ustedes?""Sinuestra conducta y nuestras acciones son crueles, ¿cuál de ustedes noson individuos crueles?", Dijo el viejo Demonio Rakshasa con frialdad.
+
+"Es cierto. Lo que dice el Señor Rakshasa está completamente justificado ", dijo Kou Kang de una manera halagadora. Muchos otros comenzaron a seguir a Kou Kang, y comenzaron a adular al Viejo Demonio Rakshasa al declarar que él tenía razón.
+
+"KouKang, nunca hubiera imaginado que hablarías en nombre de la escoria, ycometerías todas las fechorías imaginables como él solo para que puedasvivir. ¡Simplemente no eres digno de ser el discípulo de nuestro Salón de Tres Estrellas! "
+
+"¡Me siento avergonzado de ser un compañero discípulo tuyo!", Reprendió Song Biyu con voz fría.
+
+"Hermana menor, no creo que lo que Señor Rakshasa dijo sea incorrecto.Después de todo, todos aquí definitivamente han matado gente antes.En cuanto a los que podrían matar, esas personas eran definitivamente inferiores a ellos.Cuando son inferiores, significa que son individuos débiles "."Los débiles son presa de los fuertes. Esa es la regla de hierro del mundo de los cultivadores marciales. Sin embargo, hay personas como Chu Feng que insisten en distinguir la justicia y el mal. ¡Es esa gente así la sin vergüenza! "Kou Kang habló en voz alta.
+
+Al escuchar lo que dijo Kou Kang, muchas personas comenzaron a vacilar. Era como Kou Kang había dicho, prácticamente todos los presentes habían matado antes.Además, todos aquellos que fueron capaces de matar eran individuos más débiles que ellos mismos.Eso verificó el principio de que los débiles son presa de los fuertes.
+
+"Jaja, mocoso, ¿te llamas Kou Kang?¿Eresun discípulo del Salón de Tres Estrellas?" En ese momento, el ViejoDemonio Rakshasa se volvió para preguntarle a Kou Kang.
+
+"Señor Rakshasa, este Kou Kang es en verdad un discípulo del Salón de Tres Estrellas.Sin embargo, este joven no aprueba la llamada doctrina de la rectitud que sostiene el Salón de Tres Estrellas"."Además,este joven se ha opuesto totalmente a la forma en que el Salón de Tres Estrellas y el Valle Nube del Ocaso quieren unir sus manos para apoyar a Chu Feng",Kou Kang habló con un tono extremadamente respetuoso y una actitud muyamable.Simplemente no se parecía a alguien hablando con un gran malhechor.Más bien, era más como si estuviera hablando con su mayor."Entonces, dime, ¿por qué decidiste oponerte a esto?" Preguntó el viejo Demonio Rakshasa."Eso es porque siento que pagar con la vida por matar a otro, devolveruna deuda si uno debe a otro, es la ley del cielo y el principio de latierra"."Desde que Chu Feng mató a alguien del Clan Celestial Ying, esrazonable que el Clan Celestial Ying desee vengarse matándolo"."Sinembargo, el Salón de Tres Estrellas y el Valle Nube del Ocaso insisten en decirque Ying Liangchen merecía morir, que Chu Feng solo estaba haciendojusticia.Eso es algo que este joven no aprueba.Siento que sus argumentos no son más que sofistería", continuó Kou Kang."Muy bien.Aprecio mucho tu argumento.Si tuviera que decirte que nuestra Secta de Alma Infantil te daría labienvenida, ¿estás dispuesto a abandonar tu condición de discípulo delSalón de Tres Estrellas para unirte a nuestra Secta de AlmaInfantil? "Preguntó el viejo Demonio Rakshasa."Señor Rakshasa, a decir verdad, este joven no pudo aceptar la forma de conducta del Salón de Tres Estrellas, para empezar.Si Señor Rakshasa realmente está dispuesto a ofrecer refugio a estejoven, este joven está más que dispuesto, "Kou Kang estaba loco dealegría.Sabía muy bien que ya no tenía los medios para seguir quedándose en el Salón de Tres Estrellas.Para que el Viejo Demonio Rakshasa esté dispuesto a ofrecerle refugio, naturalmente sería la mejor opción para él."Muy bien.A partir de este momento, eres un discípulo de nuestra Secta del Alma Infantil ", dijo el Viejo Demonio Rakshasa."Por el bien de tu supervivencia, en realidad meneaste la cola a una secta demoníaca y me rogaste piedad.Es realmente una pena que el Salón de Tres Estrellas haya criado aun discípulo como él. "En ese momento, ese viejo extremadamenteanciano negó con la cabeza y suspiró."¿Pena?¡Es el honor del Salón de Tres Estrellas  poder criar a un discípulo como yo! ""Me atrevo a preguntar a todos, ¿es incorrecto lo que dije? ¿Qué es la justicia? ¿Qué es el mal? ¿Qué está bien y qué está mal?"
+
+"Lo que todos ven como correcto es lo que tus oponentes ven que está mal".
+
+"Lo que tus oponentes ven como un error es lo que todos ven que está bien".
+
+"Exactamente quién tiene razón y quién está equivocado, ¿quién podría distinguir eso?"
+
+"Solo los poderosos expertos poseen la autoridad para decidir lo correcto y lo incorrecto.¡Aquellos que son débiles simplemente no poseen las calificaciones para decidir en absoluto! "Kou Kang habló con rectitud.
+
+"Está bien.Lo correcto y lo incorrecto es algo realmente difícil de determinar.Sin embargo, el débil siendo presa de los fuertes es de hecho la regla de hierro del mundo del cultivo marcial "."Es cierto. Siento que lo que Kou Kang dice es muy razonable. Después de todo, no existe el bien y el mal en el mundo de los cultivadores marciales. La persona con mayor fuerza y puño más duro es la persona que tiene razón ".
+
+Cada vez más personas comenzaron a expresar su acuerdo con lo que dijo Kou Kang.
+
+"Jajaja ..." Justo en ese momento, Chu Feng estalló en una risa fría.
+
+"Chu Feng, ¿de qué te ríes? ¿Estás tratando de dar a entender que lo que dije es incorrecto? "Preguntó Kou Kang con voz fría.
+
+"Kou Kang, todos poseen el mismo tipo de conciencia en su corazón. Para ciertas cosas, todos sabemos muy bien lo que está bien y lo que está mal ".
+
+"Si insistes en decir sofisterías aquí y tergiversar la verdad, no tengo tiempo para molestarme en debatir contigo".
+
+"La razón de esto es porque sé que es imposible despertar a una persona que pretende estar dormida"."Sinembargo, si realmente creen que los bebés recién nacidos sean asesinadosy luego se utilizen como recurso de cultivo por otros, es como sesupone que son las cosas, que han muerto merecidamente, entonces solopuedo decir que las personas como ustedes no son diferentes de aquellosque matan bebés recién nacidos y matan abiertamente a inocentes.Para personas como todos ustedes, permitirles continuar viviendo solo será un desperdicio ", habló Chu Feng con frialdad.Su tono contenía un leve rastro de su ira."Dios mío, qué palabras tan arrogantes hablas.¡Las personas que van a morir ahora son todos ustedes! "Se burló Kou Kang.Sin embargo, Chu Feng ignoró a Kou Kang.En cambio, volvió su mirada hacia la multitud arrodillada en el suelo.Con voz fuerte, dijo: "Les preguntaréestoa todos una vez.¿Hay alguien más como Kou Kang entre ustedes, hay alguien más quesienta que los bebés recién nacidos asesinados y refinados como recursos de cultivo merecen su muerte? "Unavez que Chu Feng dijo esas palabras, sin mencionar a las personas queno se habían arrodillado, incluso aquellos que se habían arrodilladocomenzaron a dudar.Después de todo, todos sabían que los bebés recién nacidos no habrían provocado a nadie.Independientemente de por qué fueron asesinados, serían inocentes.No importa cuán enorme sea el odio que pueda existir, uno no debeimplicar a los niños, y mucho menos cuando no hay odio o agravio.Sin embargo, a pesar de que todos sabían que era incorrecto que laSecta del Alma Infantil matara y refinara las almas de los bebés reciénnacidos, por el bien de su supervivencia, muchas personas todavíadeclaraban que esos recién nacidos merecían su muerte."Muy bien". Al escuchar las respuestas de esas personas, la mirada de Chu Feng se heló aún más.Sin embargo, no desencadenó ninguna intención asesina.En cambio, dijo: "No los mataré a todos.Sin embargo, lo que todos ustedes han hecho hoy es algo que todos aquí han visto "."Independientemente de si todos ustedes podrían ser individuos quevendieron su dignidad para sobrevivir, o aquellos que verdaderamentesintieron que los bebés recién nacidos merecen morir, todos seránrecibidos con desdén por otros en el futuro"."¡Que broma!Actúas como si realmente pudieras matarnos si lo deseas.Chu Feng, no engañes a los demás para engañarte a ti mismo.En este momento, no somos nosotros quienes moriremos.¡Por el contrario, eres tú! "Declaró Kou Kang."¿Es eso así? ¿Estás seguro? "Chu Feng sonrió fríamente. Entonces, un poder ilimitado apareció de repente y llenó toda la región.
+
+Después de que apareció el poder, las expresiones de todos los presentes cambiaron enormemente.
+
+Esepoder era tan fuerte que en realidad logró suprimir por la fuerza lahabilidad marcial Tabú Ancestral del Viejo Demonio Rakshasa. Estohizo que todos se dieran cuenta de que la potencia de ese poder era másfuerte que la Habilidad Marcial Tabú Ancestral del Viejo Demonio Rakshasa.
+
+Lo más sorprendente es que ese poder en realidad estaba controlado por Chu Feng.
+
+¡Chu Feng realmente había captado un poder que superó las habilidades marciales Tabú Ancestral !

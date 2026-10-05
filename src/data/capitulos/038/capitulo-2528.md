@@ -1,0 +1,51 @@
+---
+titulo: "Capítulo 2528"
+numero: 2528
+novelaId: "38"
+---
+
+Las personas presentes pudieron dar testimonio de cuán poderosos eran Chu Feng y Kong Doumoyuan.Las ondas de energía que eran capaces de derrumbar montañas y volcarlos mares, las enormes olas que causaron estragos en el cielo y latierra demostraron y probaron la fuerza que poseían los doscombatientes.Esta fue una verdadera batalla de Picos de Ancestros Marciales.Esta fue una batalla entre dos de los individuos más fuertes debajo de Inmortales Verdaderos."La velocidad de progreso de Chu Feng es verdaderamente rápida.Su experiencia de batalla también es sorprendente "."Antes, nunca había creído ninguno de los rumores sobre Chu Feng.Sin embargo, al verlo hoy, este niño es realmente capaz de hacer que uno tenga un nuevo nivel de respeto hacia él ".En ese momento, ni una sola persona presente se atrevió a cuestionar las habilidades de Chu Feng.La razón de esto fue porque estaban convencidos por la fuerza de Chu Feng.Ademásde los poseedores de Línea de sangre celestial, a pesar de que también eran picos de Ancestros Marciales, simplemente eran incapaces de competircontra el actual Chu Feng."Hermanos, entre Chu Feng y el hermano Moyuan, ¿quién creen que ganarála batalla de hoy?" Mientras la multitud miraba la batalla, alguienformuló una pregunta."Si el hermano Moyuan va a ir a por todas, ese Chu Feng, naturalmente, no será rival contra él.Sin embargo, se negó deliberadamente a usar sus Alas de Trueno para mantener su fuerza igual a la de Chu Feng.Como tal, será muy difícil determinar quién ganará y quién perderá: "Alguien reveló una expresión deferente."Creo que el hermano Moyuan ganará.No importa qué, el Hermano Moyuan es conocido como el más fuerte debajo de los InmortalesVerdaderosen el Clan Celestial Kong .Esa reputación suya no es infundada "."Ya que es capaz de asumir esa reputación, esto naturalmente significa que posee la fuerza.En cuanto a Chu Feng, a pesar de que nos ha sorprendido con sushabilidades de hoy, sigue siendo que él es muy joven, "Alguien sintióque Kong Doumoyuan ganaría."Eso podría no ser necesariamente el caso.Después de todo, Chu Feng posee muchos logros pasados, y sus registros de batalla son simplemente asombrosos "."El hecho de que sea capaz de hacer todo eso significa que no es un personaje ordinario, sino que es un genio.No podemos juzgarlo como a los demás.Como tal, siento que Chu Feng tiene la oportunidad de ganar, "Tambiénhabía gente entre la multitud que sentía que Chu Feng iba a ganar.En ese momento, la gente comenzó a discutir debido a sus diferencias de opinión sobre quién ganaría.Mientras la multitud discutía, la batalla entre Chu Feng y Kong Doumoyuan se hizo cada vez más intensa.Al principio, los dos habían luchado entre ellos con sus armas.Luego, comenzaron a usar habilidades marciales, y luego Habilidades Marciales Tabú.Sus ataques se hicieron cada vez más feroces y cada vez más destructivos.En ese momento, los dos luchadores usaban Habilidades Marciales Tabú Ancestral.Kong Doumoyuan había desatado una Habilidad Marcial TabúAncestralque envió una miríada de bestias feroces.Densamente empaquetadas, las bestias feroces volaban en el cielo y atacaban a Chu Feng por todos lados.Loque es más importante, al ser controlado por Kong Doumoyuan, esas bestiasferoces no fueron impulsivas, sino que atacaron a Chu Feng deuna manera estratégica.Dicho eso, la Habilidad Marcial TabúAncestral que Chu Feng había desatado era aún más deslumbrante.La Habilidad Marcial Tabú Ancestral de Chu Feng fue cuatro dioses de la guerra deslumbrantes con luz dorada. Con apariencia humanoide, cada uno tenía una altura de cien metros y vestía una armadura.
+
+No solo era su armadura deslumbrante con la luz, sino que su armadura también cubría todo su cuerpo. Como tal, uno simplemente no podía ver sus caras. Solo sus ojos feroces emitían un destello rojo que era visible.
+
+En ese momento, los cuatro dioses de la guerra blindados estaban de pie alrededor de Chu Feng.Independientemente de cuántas bestias feroces haya, simplemente no pudieron acercarse a Chu Feng en lo más mínimo.
+
+Todoslos que intentaron acercarse a Chu Feng se encontraron con muertestrágicas por parte de las cuatro hachas gigantes de los dioses de la guerrablindado."¡Todos, miren eso, miren la habilidad marcial de Chu Feng ...!"
+
+Después de observar por un tiempo, alguien gritó alarmado mientras miraba la habilidad marcial de Chu Feng.
+
+Era una voz de incredulidad ...
+
+"¿Qué hay con esta?" Alguien expresó su confusión.
+
+"Segúnla leyenda, Zhan Haichuan, el gobernante absoluto del Reino Ordinariode Cien Refinamientos en aquel entonces, poseía una famosa habilidadmarcial con el nombre de Tabú Ancestral : Cuatro Guardias Celestiales".
+
+"Esetabú ancestral: cuatro guardias celestiales convocaron a cuatroguardianes con armaduras doradas para luchar por él", dijo esa persona.
+
+"¿Quieres decir que la habilidad marcial que Chu Feng está usando es ese Tabú Ancestral: Cuatro Guardias Celestiales?""Eso es imposible.Zhan Haichuan es del Clan de la Guerra de la Era Antigua.Sus habilidades son todas del Clan de la Guerra de la Era Antigua "."Además, desde que se hizo famoso a lo largo del Reino Ordinario de Cien Refinamientos, nunca tomó un discípulo.Por lo tanto, después de que desapareció, sus diversas habilidades también desaparecieron con él.Nadie las ha usado nunca más.Como tal ... ¿cómo podría este Chu Feng ser capaz de usar la habilidadmarcial de Zhan Haichuan? "Alguien expresó su incredulidad."Mayor Heng Hui, ¿no has estado estudiando al Mayor Zhan Haichuan todo el tiempo?Deberías conocer las características de sus habilidades marciales,¿no?" En ese momento, alguien dirigió su mirada hacia un viejo entre lamultitud.A ese viejo apenas le quedaba cabello en la cabeza.No solo estaba jorobado, sino que también estaba sosteniendo un bastón.Sin embargo, ese bastón suyo era un poco aterrador;estaba hecho de huesos humanos y apestaba a sangre.En cuanto a ese viejo, su nombre era Viejo Fenómeno Heng Hui.Era un monstruo muy infame en el Reino Ordinario de Cien Refinamientos.La razón por la que era infame era porque poseía un deseo extraño. Es decir, le gustaba comer carne humana.
+
+Aparte de la carne humana, no estaba interesado en ninguna otra delicia culinaria.
+
+Dicho eso, aparte de su ansia de carne humana, el Viejo Fenómeno Heng Hui tenía otro interés. Es decir, era un nerd de Zhan Haichuan.
+
+Consideró a Zhan Haichuan su ídolo desde que era un niño. Despuésde que su cultivo se hizo más fuerte, comenzó a investigar sobre losdiversos logros de Zhan Haichuan y a investigar los orígenes de ZhanHaichuan.
+
+Por lo tanto, si uno quisiera preguntarquién era el más conocedor de Zhan Haichuan en el Reino Ordinario de Cien Refinamientos en ese momento, entonces la primera respuesta que lagente daría fue definitivamente el Viejo Fenómeno Heng Hui.
+
+"Mayor Heng Hui, por ejemplo, ¿la habilidad marcial actual de Chu Fengse asemeja al TabúAncestral del mayor Zhan Haichuan: Cuatro Guardias Celestiales?", Preguntó otra persona curiosa.Frente a estas miradas curiosas, el Viejo Fenómeno Heng Hui no respondió su pregunta.En cambio, él abrió la boca.Cuando se abrió la boca, se podía ver que todos sus dientes eran realmente afilados.Esos no eran dientes de bestia, sino dientes humanos.Simplemente, fueron molidos a la fuerza y ​​pulidos a su nitidez actual.De un vistazo, sus dientes parecían muy extraños y aterradores."Humph!" El viejo fenómeno Heng Hui primero dejó escapar un extraño bufido.Luego, levantó la cabeza y reveló una expresión muy distante pero desagradable.Luego, él dijo, "¿Ustedes grupo de mocosos groseros realmente recuerdan a este viejo ahora?""Eh ... mayor Heng Hui, tu estado siempre ha sido muy alto en nuestros corazones.¿Desde cuándo nos hemos olvidado de ti?""Es cierto.Mayor Heng Hui, siempre has sido el ídolo de este joven.¿Cómo podría este joven atreverse a ser grosero con usted?Este es el regalo que he preparado para ti.Simplemente, no tuve tiempo de decírtelo todavía ".En ese momento, la multitud repentinamente recordó que ese Viejo Fenómeno Heng Hui era un individuo de mente estrecha.Por lo tanto, muchas personas comenzaron a halagarlo. Además, uno por uno, comenzaron a sacar regalos para entregar al Viejo Fenómeno Heng Hui.
+
+En cuanto al Viejo Fenómeno Heng Hui, aceptó todos los regalos sin dudarlo. Después de recibir todo, él asintió de manera satisfecha, "Eso es mejor".
+
+"Entonces, mayor Heng Hui, por favor eche un vistazo. ¿Esla habilidad marcial de Chu Feng el tabú ancestral del mayor ZhanHaichuan: Cuatro Guardias Celestiales? ", Preguntó la multitud.
+
+"No hay necesidad", el cuello del Viejo Fenómeno Heng Hui se torció hacia un lado, y ni siquiera se molestó en mirar. En lugar de eso, lanzó su mirada a otro lado.
+
+Al presenciar esa escena, la multitud se sintió molesta.Se quejaron en sus corazones, 'Viejo Fenómeno Heng Hui es verdaderamente avaro e insaciable.Ya lo hemos tratado tan bien, sin embargo, él todavía nos hace las cosas difíciles.Está claro que él piensa que nuestros regalos son insuficientes '.Enel momento en que la multitud expresaba sus quejas en sus corazones yestaban pensando en unir sus manos para encargarse del Viejo Fenómeno HengHui, volvió a hablar: "No solo la habilidad marcial que Chu Feng usa ahora es  la habilidad marcial del Señor Zhan Haichuan, varias otrashabilidades marciales que utilizó anteriormente también fueronhabilidades marciales que el Señor Zhan Haichuan había utilizado confrecuencia ".
+
+"¿Ah?" Al escuchar esas palabras, la multitud se sorprendió, "Mayor Heng Hui, ¿estás seguro?"
+
+"Este viejo ha prestado mucha atención a todo. Estoy absolutamente seguro ", dijo el Viejo Fenómeno Heng Hui.
+
+"Mayor, entonces, ¿quieres decir ...?" La multitud preguntó al unísono.
+
+"Loque estoy diciendo es que este Chu Feng ha obtenido el legado del Señor Zhan Haichuan, él es el sucesor del Señor Zhan Haichuan", dijo el Viejo Fenómeno Heng Hui.Pueden realizar las donaciones para caps adelantados en:https://www.patreon.com/devilnovels

@@ -1,0 +1,39 @@
+---
+titulo: "Capítulo 566"
+numero: 566
+novelaId: "38"
+---
+
+"¿Festival de la Luna?¿Qué festival es ese? "Su Mei parpadeó sus ojos grandes y nebulosos y preguntó, intrigada."¿Has descubierto que la luna de esta noche es particularmente grande,particularmente redonda y particularmente brillante?" Yuhe sonrióligeramente, respondiendo con una pregunta en su lugar."¡Sí, sí!La luna de esta noche es muy hermosa.Nunca he visto una luna tan hermosa. "Su Mei frunció sus pequeños labios, asintiendo con la cabeza."Heh, la luna no es normalmente así de bella.Cada año, ocurre solo una vez, y para este fenómeno, hay muchos tipos de explicaciones.Sin embargo, en la Región del Mar del Este, la más extendida es una leyenda ", dijo Yuhe."¿Leyenda?¿Qué leyenda?¡Mayor Yuhe, rápido dime! "Su Mei preguntó con curiosidad."Las leyendas dicen que en la antigüedad, solo existía el sol y no había luna.Tampoco había estrellas que llenaran el cielo.Entonces,durante el día, el sol iluminaba el cielo brillantemente, pero cuandollegaba la noche, era completamente negro, hasta el punto en que uno nopodía ver sus dedos si estiraban su brazo "."En la antigüedad, había un par de amantes.Ambos eran cultivadores "."Eran amigos desde una edad temprana, y no había nada de lo que no hablaran.Tenían una relación muy fuerte "."El hombre incluso tenía un talento excepcional, y era un genio de cultivación muy raro.En el mundo de la cultivación, siguió haciendo avances y se elevó poderosamente "."Perono se podía hacer nada con respecto a la aptitud ordinaria de lamujer, por lo que el hombre la dejó lentamente, muy lejos.Sin embargo, sus sentimientos no se desvanecieron debido a su distancia en la cultivación.Más bien, se volvieron más y más fuertes, y los hizo muy cercanos a ellos "."Sin embargo, con el correr del tiempo, ambos envejecieron y crecieron.Aunque, con la medicina especial, la mujer siempre podía mantener suapariencia joven y hermosa, el límite de su vida se acercabagradualmente "."El hombre era consciente de eso, y comenzó a pensar locamente en métodos para salvar a la mujer.No le importaba su complexión, pero absolutamente, no podía perderla.""Finalmente, pensó en una forma. Fue hacerse más fuerte, tan fuerte que podría prolongar la vida de la mujer ".
+
+"Y con su arduo trabajo, finalmente entró en un reino extremadamente excepcional. Solo le faltaba un paso antes de entrar en un reino en el que ninguno había entrado antes. Era un reino que iba a sorprender al mundo. Para poder dar ese solo paso con éxito, cultivó minuciosamente en aislamiento ".
+
+"Cuando salió de su reclusión, el mundo se estremeció. Él ganó el poder para gobernar el mundo, y ya era invencible. Todo estaba a su alcance ".
+
+"Pero lo que nunca, nunca hubiera pensado, era que su único cultivo a puerta cerrada duró varios cientos de años. Su amada ya no existía, los espeluznantes huesos blancos eran todo lo que quedaba ".
+
+"El hombre perdió todo el espíritu. Agarróel poder para gobernar el mundo entero, se convirtió en un dios a losojos de todos los vivos, pero no pudo hacer nada para salvar a lapersona que más amaba "."Lloró por un día entero. Cuando cayó la noche y vio el mundo negro, solo entonces pensó en algunas palabras que su amada le había dicho antes ".
+
+"Dijo que le desagradaba la noche porque si no había llamas, no podía ver su cara".
+
+"Ella dijo, qué grande sería si la noche también tuviera sol. Ella podría, en cualquier momento, ver su complexión ".
+
+"El hombre la amaba demasiado. La amaba tanto que sin ella, perdió toda importancia en la vida. Apesar de que tenía una cantidad incontable de años en su vida y recibióla adoración del mundo, todo eso era inferior a la compañía de la mujer".
+
+"Como ya había perdido el pensamientode sobrevivir, dado que ya había decidido acompañar la muerte de lamujer, decidió completar su deseo antes de morir y, al mismo tiempo,completó lo que su amadaquería.Él decidió traer luz a la noche "."Entonces,quemó su propio cuerpo como el precio del sacrificio, recogió muchasrarezas naturales, y colocó una formación que cubría todo el cielo.Se condensó sobre los Nueve Cielos, y finalmente, creó un objeto.Ese objeto aparecería durante la noche para iluminar el mundo "."Además, cuando el hombre estaba formando tal cosa, lo nombró con su aliento final.Luna, el nombre de su amada "."Es debido a la Luna que hay luz en la noche.Entonces, en recuerdo de Luna, las personas nombraron el día en quenació la luna como el Festival de la Luna, y hoy es ese día "."Aunque es solo una leyenda, está muy extendida y ha sido transmitida por generaciones.Además, se le otorgó un significado especial a la luna.Es para apreciar a los que están cerca de ti ". Yuhe narró detalladamente."¡Jaja, tonterías!¿Qué es la luna?Solohay una en este mundo, y no importa cuánto más fuerte sea uncultivador, no pueden ser tan fuertes para convertir su cuerpo en unaluna.Es meramente una leyenda.¿Cómo puede ser posible? "En ese instante, Jiang Wushang se rió a carcajadas, sintiendo que era basura."Así es. ¿Cómo puede la luna ser creada por un humano? Eso es muy absurdo. ¡Ven ven ven, bebe, bebe, bebe! "Zhang Tianyi también habló con desprecio.
+
+"Apreciaa los que están cerca de ti, ¿eh?" Sin embargo, la leyenda en broma enlos ojos de los hombres despertó pensamientos especiales de las mujeres.
+
+Su Rou y Su Mei no pudieron evitar mirar a Chu Feng, que estaba bebiendo con Jiang Wushang y Zhang Tianyi. No había nadie que supiera lo que estaban pensando.
+
+Después del banquete, Chu Feng regresó con impaciencia a su propia habitación y sacó al Hijo de Magma, queriendo refinarlo. Después de todo, actualmente tenía grandes responsabilidades, por lo que cuanto antes aumentara su fuerza, mejor.
+
+* dong dong dong, dong dong dong *
+
+Pero justo cuando Chu Feng se preparaba para sacar al Hijo de Magma, sus puertas fueron golpeadas. A través del poder Espiritual, Chu Feng sabía que la que vino era Su Mei."PequeñaMei, ¿nos separamos hace un momento y ya me extrañas?" Chu Feng abriólas puertas y descubrió que, de hecho, Su Mei estaba afuera. Entonces, no pudo evitar burlarse de ella.
+
+"Sí,te extraño." Sin embargo, sorprendentemente para Chu Feng, Su Mei, quegeneralmente se vería afectada por sus burlas, no solo no se vioafectada en lo más mínimo, sino que saltó y se abalanzó sobre el abrazode Chu Feng.
+
+Eso ni siquiera fue nada. Despuésde que Su Mei entró a la habitación, ella cerró las puertas y enrealidad, mientras abrazaba a Chu Feng, empujó a Chu Feng más adentro dela habitación y lo empujó sobre la cama.
+
+"Pequeña Mei, tú ..." Cuando se enfrentó a Su Mei, que actuó de maneracompletamente diferente a lo habitual, Chu Feng estaba un poco perdidosobre qué hacer.Aunque Su Mei a menudo era alegre, animada y muy íntima con Chu Feng, actuó de manera apropiada.Por ejemplo, la cosa entre un hombre y una mujer, o dormir en la misma cama.Esos fueron comportamientos prohibidos, sin embargo, hoy, ella parecía estar haciendo acciones tabú."Estanoche, quiero dormir contigo" Su Mei se arrastró lentamente sobre elcuerpo de Chu Feng, y de nuevo, puso su carita hermosa frente a la carade Chu Feng, y con una voz dulce, cálida, gentil y delicada, habló conChuFeng.* gulp * En ese instante, Chu Feng tragó saliva ferozmente porque Su Mei frente a sus ojos era demasiado encantadora.Debajo de sus pestañas, un par de ojos grandes, del tamaño de una nuez, emanaban una neblina.En su bonita cara, una capa de enrojecimiento impregnada.Fue bastante hechizante.Especialmente cuando Chu Feng desvió su mirada hacia abajo y escaneó su pecho, en realidad vio blanco como la nieve.Losobjetos esféricos originalmente firmes pero suaves, cuando sepresionaron contra su pecho, ya se volvieron ovalados, pero mirandodesde el centro, aún podía ver un barranco en forma de V.El tamaño de eso no debe subestimarse, y uno simplemente no puede ver el fondo.

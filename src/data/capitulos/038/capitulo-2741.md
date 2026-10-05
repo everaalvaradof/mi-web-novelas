@@ -1,0 +1,51 @@
+---
+titulo: "Capítulo 2741"
+numero: 2741
+novelaId: "38"
+---
+
+Chu Feng no negó lo que dijo el Maestro de la Villa de la Villa Armamento Inmortal.
+
+La razón de eso era porque elMaestro de la Villa de la Villa Armamento Inmortal había adivinado correctamente. ChuFeng había soportado una enorme presión para desatar simultáneamente la Espada de Guerra de la Era Antigua y el Hacha de Guerra de la Era Antigua.Y en ese momento, Chu Feng estaba sufriendo por su reacción violenta.
+
+En realidad, Chu Feng no estaría reaccionando de esa manera si solo hubiera usado el hacha de guerra de la Era Antigua.
+
+Sin embargo, el poder de la Espada de Guerra de la Era Antigua fue realmente difícil de manejar. Incluso ahora, Chu Feng no pudo sacar todo su poder.
+
+Porlo tanto, Chu Feng ya se estaba esforzando por usar habilidadesmarciales mientras usaba la Espada de Guerra de la Era Antigua.
+
+Encuanto al uso del Hacha de Guerra de la Era Antigua mientras se usabala Espada de Guerra de la Era Antigua, sería realmente extraño si nocausara una reacción violenta.Por supuesto, esto era solo para el actual Chu Feng.Las habilidades secretas eran técnicas milagrosas.A medida que su maestro se fortalecía, el poder de las habilidades secretas también se harían más fuerte.Además, una habilidad secreta también podía conectarse más con sumaestro y obtener una mejor comprensión mutua antes de fusionarsefinalmente.Chu Feng creía que a medida que aumentara su cultivo, no solosería capaz de obtener un mejor control sobre la Espada de Guerra de laEra Antigua, sino que también podría desatar sus verdaderos poderes.Simplemente, esas serían cosas para el futuro, y no el presente."Buzz ~~~"Justo en ese momento, una píldora medicinal surcó el aire como una estrella fugaz y se detuvo ante Chu Feng.Fue un píldora medicinal extremadamente fuerte."Pequeño amigo Chu Feng, toma esa píldora medicinal.Podrá aliviar el dolor de tu reacción violenta ", dijo el Maestro de la Villa de la Villa Armamento Inmortal a Chu Feng.Fue él quien le arrojó esa píldora medicinal a Chu Feng."Gracias, mayor", esta vez, Chu Feng no rechazó su buena voluntad.Inmediatamente se tragó la píldora medicinal.La razón de esto era porque él sabía que esta píldora medicinal podría traerle alivio.Además, Chu Feng no poseía una píldora medicinal de este tipo sobre él.Enese tipo de situación, no había ninguna razón para que Chu Feng tratarade impresionar a los demás pretendiendo ser más capaz.Por lo tanto, él naturalmente aceptó la píldora medicinal.Después de tragar la píldora medicinal, un poder suave inmediatamenteentró en el cuerpo de Chu Feng y en las profundidades de su alma.Si el dolor de la reacción era similar al de las llamas ardientes yardientes que incineraban el cuerpo y el alma de Chu Feng, entonces elpoder de la píldora medicinal sería similar al agua de manantial clara.Aunque el agua de manantial fue incapaz de extinguir por completo las furiosas y ardientes llamas, pudo debilitar su fuerza.En ese momento, cuando el poder de la medicina comenzó a extenderse através del cuerpo de Chu feng, fue como lo había dicho el Maestro de la Villa de la Villa Armamento Inmortal, y el dolor de Chu Feng habíadisminuido considerablemente."Gracias, mayor".Chu Feng miró hacia el Maestro de la Villa de la Villa Armamento Inmortal y apretó su puño respetuosamente. Estaba expresando su agradecimiento por la efectiva píldora medicinal.
+
+"Los que han venido están aquí como invitados. Por lo tanto, pequeño amigo Chu Feng, no hay necesidad de que seas tan cortés. Esto es simplemente algo que este viejo debería hacer, "El Maestro de la Villa de la Villa Armamento Inmortal sonrió débilmente.
+
+Luego, dijo: "La competencia de caza ha terminado. En este momento, es hora de presentar las recompensas. Pequeñosamigos que han participado en la caza, por favor saquen losHuesos Espirituales Mundiales que todos ustedes han obtenido en la caza, paraque nuestra Villa Armamento Inmortal pueda determinar la actuación detodos ".
+
+Después de que el Maestro de la Villa de la Villa Armamento Inmortal dijera esas palabras, muchos de losparticipantes en la caza comenzaron a sacar sus Huesos Espirituales Mundiales.
+
+Chu Feng tampoco fue una excepción.Cuando Chu Feng reveló sus Huesos Espirituales Mundiales, inevitablemente causó un alboroto nuevamente.La razón de eso fue porque Chu Feng simplemente poseía demasiados Huesos Espirituales Mundiales.Silos Huesos Espirituales Mundiales que otros poseían solo podían acumularse en unpequeño montículo, entonces la cantidad de Huesos Espirituales Mundiales queposeía Chu Feng podría acumularse en una montaña alta.Incluso si todos los Huesos Espirituales Mundiales de los otros participantes sesumaran, aún sumarían mucho menos de lo que Chu Feng había obtenido porsí mismo.Tal comparación fue simplemente demasiado impresionante."¡Asombroso!"Aquellas personas de la generación más joven que también habíanparticipado en la caza con Chu Feng revelaron admiración en sus ojosmientras lo miraban.La razón de esto fue porque personalmente habían experimentado la caza por sí mismos.Por lo tanto, sabían muy bien cuán poderosos eran las Bestias Espirituales Mundiales, así como lo difícil que era adquirir los Huesos Espirituales Mundiales.Porlo tanto, además del hecho de que Chu Feng había obtenido suficientes Huesos Espirituales Mundiales para acumularse en una montaña alta, Chu Feng mismoera una montaña en sus ojos.Era un pico de montaña que nunca podrían superar en toda su vida.Esta fue la disparidad entre un genio y la gente común.
+
+"Parece que el ranking en esta competencia de caza es obvio para todos".
+
+"Este viejo personalmente presentará la recompensa del primer lugar".
+
+Enese momento, las personas de la Villa Armamento Inmortal comenzaron apresentar recompensas a los competidores de acuerdo con susclasificaciones.
+
+En cuanto a la persona que estabapresentando la recompensa a Chu Feng, en realidad fue el Maestro de la Villade la Villa Armamento Inmortal.
+
+El Maestro de la Villa de la Villa Armamento Inmortal voló desde la plataforma de observación y llegó ante Chu Feng.
+
+Él estaba sosteniendo una espada en su mano.Esa espada era de color blanco plateado.Tenía solo un metro de largo y parecía muy corta y pequeña.
+
+Sin embargo, esa espada era extremadamente exquisita.No solo estaba muy bien hecha con tallas de un dragón y un fénix, sino que sus bordes también eran muy afilados.Esa espada era un Armamento Inmortal Incompleto.Además, era un artículo de alta calidad."Pequeño amigo Chu Feng, esta espada se llama Corriente Plateada del  DragónFénix.Es un Armamento Inmortal Incompleto que este viejo ha forjadopersonalmente ", dijo el Maestro de la Villa de la Villa Armamento Inmortal a Chu Feng."¡Guau!¡Es un Armamento Inmortal Incompleto forjado personalmente por elMaestro de la Villa de la Villa Armamento Inmortal! "La multitud exclamó en admiración.Esto fue especialmente cierto para las generaciones más jóvenes.Todos revelaron expresiones de admiración.Incluso si dos objetos fueran Armamentos Inmortales Incompletos de lamás alta calidad, siempre y cuando se haya sabido que fueron creadospersonalmente por elMaestro de la Villa de la Villa Armamento Inmortal, eseArmamento Inmortal Incompleto sería mucho más valioso.Naturalmente, otros sentían envidia del hecho de que Chu Feng había recibido tal recompensa.Por no hablar de las generaciones más jóvenes, incluso los expertos de las generaciones anteriores sentían envidia de Chu Feng."Pequeño amigo Chu Feng, esta es tu recompensa por obtener el primer lugar en esta caza"."Sin embargo, en realidad, hay otra opción para ti", dijo elMaestro de la Villa de la Villa Armamento Inmortal.Unavez que el Maestro de la Villa de la Villa Armamento Inmortal dijo esaspalabras, las expresiones de la multitud presente cambiaron.
+
+Chu Feng logró sentir el cambio en sus expresiones. Sintió que probablemente habría algo sospechoso con respecto a la otra opción. Es posible que la otra opción no sea algo bueno.
+
+Sin embargo, Chu Feng todavía preguntó con curiosidad: "Mayor, ¿cuál podría ser la otra opción?"
+
+"Puedes elegir aceptar directamente este Armamento Inmortal Incompleto y llevarlo contigo.Tambiénpuedes optar por renunciar a este Armamento Inmortal Incompleto yentrar en la Armería de Armamento Inmortal de nuestra Villa Armamento Inmortal ".
+
+"En alArmería de Armamento Inmortal no hay solo Armamentos Inmortales Incompletos, sino también Armamentos Inmortales"."Através de una formación especial que se establece en la Armería de Armamento Inmortal, las armas en su interior son capaces de detectar eltalento de una persona que ingresa.Siuna persona que ingresa a la Armería de Armamento Inmortal cumple conel requisito de un arma en el interior, las armas en su interioremitirán una respuesta.Esto se conoce como resonancia "."Independientemente de si pueden ser Armamentos inmortales incompletoso Armamentos inmortales, siempre que emitan una resonancia hacia ti, sete permitirá elegir un arma entre ellos como tu recompensa", dijo elMaestro de Villa de la Villa Armamento Inmortal."¿De hecho hay algo tan bueno?Chu Feng, ya que tienes la Regla de Sangre del Dragón Divino como tuArmamento Inmortal Incompleto, esa llamada Corriente Plateada del DragónFénix no te será de gran utilidad. ""Es mejor que intentemos con la Armería de Armamento Inmortal.Si obtienes un Armamento Inmortal de él, habrás obtenido un beneficio enorme ", dijo con entusiasmo Su Lady Reina.Para Su Lady Reina, esto era similar a un juego.Sin embargo, también fue una oportunidad.Su Lady Reina quería intentarlo."Milady Reina, por favor no estés tan ansiosa. Permítame hacer algunas preguntas más ", sonrió débilmente Chu Feng.
+
+Luego,le dijo al Maestro de la Villa  de la Villa Armamento Inmortal: "Señor Maestro de la Villa ,deseo preguntar si alguien alguna vez ha elegido ingresar a la Armería de Armamento Inmortal durante los varios años de la competencia de caza".
+
+Chu Feng quería saber sobre la probabilidad de éxito después de entrar en la Armería de Armamento Inmortal.Ayudanos con tu donación , así poder mejorar la pagina y tener para caps adelantados en:https://www.patreon.com/devilnovels

@@ -1,0 +1,45 @@
+---
+titulo: "Capítulo 74"
+numero: 74
+novelaId: "38"
+---
+
+"Incluso si tienes el poder Espiritual, no puedes cultivarte así.¿No sabes que en el camino del cultivo, enfatiza el ciclo del progreso gradual?Si estás avanzando tan rápido, te causará dificultades para tu éxito en el futuro "."Siquería, con la riqueza de mi familia, era completamente posible para míentrar en el noveno nivel del reino Espíritu cuando tenía 12 años.¿Sabes por qué estoy solo en el octavo nivel del reino Espíritu a la edad de 14? ""Eso se debe a que al utilizar recursos de cultivo para avanzar, se rompen las reglas del cultivo marcial.Al mismo tiempo que aporta poder, también carga al cuerpo y reducirá la comprensión en el futuro "."Inclusosi puedes convertirte en un experto del noveno nivel en un cortoperíodo de tiempo, lo que traerá el futuro es la dificultad de nuncapoder penetrar en el reino Origen.¿Entiendes lo que estoy diciendo? "El estado de ánimo de Su Mei era unpoco emocional, pero se podía ver que realmente estaba preocupada porChu Feng.Viendo a Su Mei así, Chu Feng estaba secretamente feliz pero le dolía el corazón.Naturalmente,sabía que el camino del cultivo marcial requería un progreso gradual yque uno no podía buscar beneficios instantáneos.Sin embargo, eso solo se aplicaba a personas normales, y obviamente, Chu Feng no podía ser visto como una persona normal.Chu Feng entendió su cuerpo al máximo. Su cuerpo no estaba agobiado por su rápida mejoría. En cambio, se hizo más y más fuerte.
+
+Pero no pudo decir la verdad a Su Mei porque no sabía cómo explicar su cuerpo. Nopodía decir que no solo tenía el poder Espiritual, sino que incluso teníaun cuerpo especial y que estaba ocultando un trozo de Rayo Divinoen su dantian ¿verdad?
+
+Chu Feng no le diría fácilmente a nadie ese secreto. Si pudiera, lo escondería toda su vida.
+
+"Entiendo y prestaré atención". Sin saber cómo explicar, Chu Feng solo pudo sonreír y decir brevemente.
+
+"Haz tu mejor esfuerzo entonces. Nodeseo que destruyas tu buen futuro debido a algunos beneficios a cortoplazo ". Al ver al sonriente Chu Feng, Su Mei estaba un poco enojada y sedio la vuelta y luego entró a su propia residencia.
+
+Mirando la espalda de Su Mei, Chu Feng sintió una oleada de calidez en su corazón.Tenía que decir que había sido bendecido por tener a una chica que lo cuidaba tanto.Mañana al día siguiente.El cielo comenzó a ponerse brillante y Chu Feng ya se había levantado de su cama.Hoy fue el día del examen de discípulo principal.Los discípulos principales.Los objetivos importantes del desarrollo de la Escuela del Dragón Azure y también la fuerza principal de la Escuela del Dragón Azure.Su posición comparada con los discípulos del patio interior era como el cielo y la tierra.En primer lugar, los discípulos principales pudieron disfrutar de los mejores recursos de cultivo de la Escuela del Dragón Azure .En segundo lugar, sus familias recibieron la protección de la Escuela del Dragón Azure.Para aquellos que se atrevieron a tocar a las familias de losdiscípulos principales de la Escuela del Dragón Azure, eso significaba queiban en contra de la Escuela del Dragón Azure.Además, no todos los discípulos principales eran como Zhou Zhiyuan.En realidad, muchos discípulos principales eran muy fuertes y la mayoría de ellos entraron en el reino Origen.Eran personas extremadamente talentosas y parte de la fuerza de losdiscípulos principales podía rivalizar con los ancianos principales.Por ejemplo, Su Rou.Si no fuera porque ella eligió ser un anciano del patio interior , ella habría sido una discípula principal.Lo que también significaba que, dentro de los discípulos principales, era posible que hubiera personas tan fuertes como Su Rou.Entonces, en comparación con el patio interior, la zona central era el lugar al que Chu Feng quería llegar más.Hubo más desafíos allí y disfrutó de ese tipo de vida.Fue una clase de vida que lo obligó a fortalecerse.La ubicación del examen del discípulo principal también era un gran palacio subterráneo.Pero, el tamaño del palacio subterráneo era mucho más grande que el del examen de discípulo del patio interior.Los mecanismos dentro eran mucho más peligrosos también.Lo más importante fue que ni un solo polvo de los mecanismos en el examen del discípulo del patio interior cambió.Por otro lado, los mecanismos de examen de discípulos principales cambiaron casi todos los años.Hubo cientos de trucos y nadie sabía cómo serían los mecanismos este año.Por supuesto, mientras tengas poder absoluto, podrías pasar incluso si hubiera mecanismos más difíciles.En ese instante, los 12 miembros de la Alianza Alas ingresaron al enorme palacio subterráneo."¡Oh!Esta vez, la Alianza Alas se está moviendo en una escala bastante grande.Hay tanta gente participando "."Solo hay 12 personas. ¿Cómo se puede contar esto como una gran escala?"
+
+"Solo hay 33 miembros en la Alianza Alas. Esta vez, podría decirse que usan casi la mitad de sus miembros. ¿No es eso una gran escala?"
+
+"Es verdad. Jajaja…"
+
+CuandoChu Feng y los otros miembros de la Alianza Alas ingresaron al salón principal del palacio subterráneo, escucharon voces burlonas.
+
+Enfocando sus miradas, desde cerca, había dos grupos de personas. Un grupo era la Alianza Espada y el otro era la Alianza Mundial.
+
+Chu Feng vio a los miembros de la Alianza Espada y ellos enviaron 30 personas esta vez. Ademásde Jian Fengyi, la única persona en el noveno nivel del reino Espíritu, había 3 personas en el 8º nivel y el resto solo en el 7ºnivel.La Alianza Mundial también tenía 30 personas. Uno de ellos estaba en el noveno nivel, dos estaban en el octavo nivel y el resto en el séptimo.
+
+Lapersona que tenía la fuerza del noveno nivel, el joven que se estababurlando de la Alianza Alas con Jian Fengyi, era obviamente el maestrode la alianza mundial.
+
+"¿Por qué están laAlianza Mundial junto con la Alianza Espada?" Al ver la armoniosaAlianza Mundial y la Alianza Espada, algunos de los miembros de laAlianza Alas sintieron que algo estaba mal.
+
+"No hay necesidad de preocuparse por ellos.Este examen de discípulo principal es diferente al examen de discípulo del patio interior. En lo que se basa es en la fuerza personal ".
+
+"Mira esas entradas. No están conectadas y cada persona solo puede ingresar a una de ellas.Lo que significa que los escenarios en el interior son completados por una sola persona ".
+
+"Pero,tengo que recordarles a ustedes que después de salir del palaciosubterráneo, no significa que el examen haya sido aprobado.Después de salir, entraremos en un jardín de flores "."El jardín de flores contiene muchas medicinas espirituales y cuenta como la recompensa por pasar el palacio subterráneo. En cuanto a cuántos pueden obtener, dependerá de su propio poder ".
+
+"Lo más importante es que el examen tiene un límite de 4 horas. Locual también significa que después de entrar al palacio subterráneo,debemos salir del jardín de flores dentro de 4 horas o de lo contrario se fallará el examen ".
+
+Situ Yu no se preocupaba por las personas de la Alianza Mundial o la Alianza Espada. Estaba explicando los puntos importantes del examen de discípulo principal a Chu Feng y los demás.
+
+Aunquela Alianza Alas no tenía la ventaja de los números sobre la AlianzaMundial o la Alianza Espada, sobre el tema de la fuerza, la Alianza Alastenía una superioridad absoluta.Especialmente cuando tenían un monstruo como Chu Feng, no tenían que preocuparse por nada.
+
+Por lo tanto, no tenían miedo de la Alianza Espada y la Alianza Mundial.Solo estaban preocupados si podían convertirse en discípulos principales o no.Si no pasaban el examen, regresarían al patio interior para continuar la cultivación.Para la Alianza Alas, eso era un tipo de humillación y estaban decididos a no permitir que eso sucediera."Chu Feng, escuché a mi hermana decir que el jardín de flores fuecreado por el fundador de la Escuela del Dragón Azure, por eso se llama Jardín de Flores de Dragón Azure"."Dentro del Jardín de flores de dragón Azure, hay un tipo de flor llamada Flor de 7 colores.La flor de 7 colores tiene 7 tipos de colores y es extremadamente hermosa.Pero, rara vez se ven y son mucho más valiosas que la medicina espiritual.No todas las personas tienen la oportunidad de verla, pero, realmentequiero echarle un vistazo ". Mientras Su Mei hablaba con Chu Feng, susojos se llenaron de anhelo."No te preocupes, te dejaré verlos". Chu Feng sonrió y dijo."No hables tonterías.El Jardín de Flores de Dragón Azure es extremadamente grande y la Flor de 7 colores es extremadamente rara.No se encuentran tan fácilmente y solo se puede depender de la suerte ". Su Mei no creyó las palabras de Chu Feng.Chu Feng solo sonrió levemente y no explicó nada.Porotro lado, mientras pasaba junto a Jian Fengyi, de repente se detuvo yle dijo: "No me dejes verte en el Jardín de Flores del Dragón Azure o delo contrario te daré una paliza tan fuerte que incluso tu madre noserá capaz de reconocerte ".Despuésde decir esas palabras, sin siquiera darle la oportunidad a Jian Fengyide refutar, rápidamente se alejó con Su Mei mientras enfurecíaterriblemente a Jian Fengyi.

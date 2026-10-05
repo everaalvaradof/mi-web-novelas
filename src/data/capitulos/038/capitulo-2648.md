@@ -1,0 +1,53 @@
+---
+titulo: "Capítulo 2648"
+numero: 2648
+novelaId: "38"
+---
+
+"Aunque no pudiste persistir hasta el final, también deberías haberobtenido algo de cosecha de este proceso de refinamiento de armamento,¿no?", Preguntó Chu Feng a Li Yue'er.Li Yue'er le había preguntado directamente cuánto había progresado alcompletar el proceso de refinamiento de armamento, y no si había logradoo no obtener una cosecha de él.Chu Feng sintió que Li Yue'er lo preguntó porque ya había obtenido comprensión marcial del proceso de refinamiento de armamento.Dadoque incluso ella había logrado obtener la comprensión marcial, esosignificaría que Chu Feng definitivamente debe haber obtenidocomprensión marcial también.Además, la comprensión marcial que debería haber recibido debería ser mayor que la de ella."De hecho, obtuve comprensión marcial.Sinembargo, debido a que no pude persistir hasta la segunda mitad, debido aque mi poder espiritual es insuficiente, lo que logré comprender se hizo  cada vez menos.Por lo tanto, no fue ideal "."¿Que pasa contigo?Deberías haber logrado ganar una buena cosecha, ¿no? ", Preguntó Li Yue'er."El aspecto más crucial en el refinamiento de los armamentos sería el último paso.Sin embargo, debido a que mi resistencia era insuficiente, habíadescuidado el método de comprensión del Diagrama de Refinamiento deArmamento de  Equilibrio Total durante el momento crucial para poder crearcon éxito el Armamento Inmortal Incompleto "."Sin embargo, incluso siendo ese el caso, aún recibí una buena cosecha.Creo que ... puedo intentar avanzar al reino Inmortal Verdadero ahora ", dijo Chu Feng."¿Cuándo planeas comenzar?", Preguntó Li Yue'er."Hemos pasado tres meses enteros en el proceso de refinamiento de armamento.Independientementedel tipo de conspiración que pueda tener la Secta del Alma Infantil,definitivamente estarán a punto de lograrlo.El tiempo es urgente, debo ingresar inmediatamente al entrenamiento a puerta cerrada ", dijo Chu Feng."¿Ahora mismo?" Li Yue'er estaba muy sorprendida.Estaba preocupada por la salud de Chu Feng.Sin embargo, cuando vio lo animado que parecía Chu Feng, sintió que sus preocupaciones eran algo innecesarias.Se podría decir que el estado actual de Chu Feng es extremadamente bueno.Noimportaba cómo lo mirara, no se parecía a alguien cuyo cuerpo estabacompletamente agotado y a punto de morir de agotamiento antes.Después de declarar que entraría en el entrenamiento a puertas cerradas, Chu Feng inmediatamente lo hizo.Sin embargo, Li Yue'er sabía que los Ancestros Marcialesdefinitivamente causarían una gran conmoción al abrirse camino al reino Inmortal Verdadero.En cuanto a esta conmoción, sería diferente según la Técnica Misteriosa de Auto Castigo en la que entrenaron.Cuando Li Yue'er alcanzó su avance, ella había hecho una conmoción bastante grande.En cuanto a Chu Feng, entrenó en la Técnica Misteriosa del Castigo Divino.Por lo tanto, ella sintió que la conmoción que provocaría Chu Feng podría no tener precedentes.Porel motivo de no llamar la atención de la Secta del Alma Infantil yhacer que vinieran y afectar el avance de Chu Feng, Li Yue'er no solosacó el paraguas que fue capaz de bloquear el Rayo Celestial, sino queincluso preparó deliberadamente muchos otros tesoros paraChu Feng.No solo fueron esos tesoros capaces de disminuir mucho la conmoción enel cielo, sino que también pudieron disminuir la ferocidad de losRayos de la Tribulación Divina para que Chu Feng tuviera una mayorcerteza de éxito en su intento de avance.Enel momento en que Chu Feng ingresó al entrenamiento a puertas cerradas,un gran grupo de personas se reunieron en un determinado bosque antiguoen algún lugar del Reino Ordinario de  Cien Refinamientos.Este grupo de personas eran Ying Mingchao, Zi Xunyi, Zhao Hong y los demás.
+
+Todos ellos estaban allí reunidos. El Ying Mingchao previamente herido de gravedad fue vigoroso y animado ahora. Él había sido completamente curado de su herida ese día.
+
+Sin embargo, en ese momento, todos parecían estar esperando algo.
+
+De repente, la tierra tembló y los árboles comenzaron a balancearse violentamente.Pronto, cuando el temblor se hizo aún más intenso, los enormes árboles que llegaron al cielo comenzaron a caer uno tras otro.
+
+De repente, se escuchó una fuerte explosión.Entonces, una figura salió volando de debajo de la tierra y llegó al aire.
+
+Esa persona poseía un aura extremadamente poderosa.Era el de un Inmortal Verdadero de rango dos.En cuanto a esa persona, en realidad era Wang Qiang.
+
+"¿Esposo, has tenido éxito?"
+
+Muy contenta, Zhao Hong inmediatamente se elevó al cielo al ver a Wang Qiang. Ella llegó a su lado.
+
+"E-esposa, he logrado exitosamente mi avance. E-encima de eso, tengo el p-poder de mi  CuerpoDivino. E-ese canalla, maestro de secta de la Secta del Alma Infantil, no podrá ... vivir por mucho más tiempo "."V-Vamos a ir y vengar a mi hermano ahora", dijo Wang Qiang.
+
+Alfinal resultó que Zhao Hong y los demás habían regresadodeliberadamente a la Ciudad Héroe después de escapar del maestro de secta dela Secta del Alma Infantil para que pudieran llevarse a Wang Qiang, queaún dormía.
+
+Poco después de que llevaron a Wang Qiang, Wang Qiang salió de la formación espiritual que lo rodeaba.Se había fusionado con éxito con el poder de su Cuerpo Divino.Despuésde obtener Poder Divino, la cultivación de Wang Qiang se habíaincrementado directamente a la de un  Inmortal Verdadero de rango uno.Además, su cultivación estaba en la cima del Inmortal Verdadero de rango uno.Después de la batalla ese día, no hubo más noticias de Chu Feng.Nadie sabía si estaba vivo o muerto.Como tal, todos se preocuparon mucho por él.Estofue especialmente cierto después de que verificaron que el maestro de secta de la Secta del Alma Infantil en realidad estaba vivo y saludable.Con eso, se hicieron aún más seguros de que un desastre podría haberle sucedido a Chu Feng.Dicho esto, independientemente de si Chu Feng estaba vivo o muerto,seguía siendo que el principal culpable era maestro de secta de la Secta delAlma Infantil.Por lo tanto, Wang Qiang, Ying Mingchao y los demás habían estadohaciendo planes sobre cómo cuidar a la Secta del Alma Infantil todo eltiempo.Desafortunadamente, incluso si Ying Mingchao se recuperara de susheridas, no sería rival para el maestro de secta de la Secta del AlmaInfantil.Como tal, Wang Qiang propuso ingresar a entrenamiento a puerta cerrada.Larazón de esto fue porque después de que se fusionó con su Poder Divino,no solo su cultivación alcanzó el Inmortal Verdadero de rango uno, sino queincluso su capacidad de comprensión había aumentado.Como uno de los Inmortales Verdaderos de rango uno de pico, Wang Qiang sintió que podría alcanzar un avance para Inmortal Verdadero de rango dos.Por lo tanto, entró en entrenamiento a puerta cerrada, y logró rompercon éxito hasta el Inmortal Verdadero de rango dos en la actualidad."Hermano menor Wang Qiang, discúlpeme por hablar con franqueza.Apesar de que tu cultivación ha aumentado al de Inmortal Verdadero de rango dos,todavía no necesariamente serás un rival para el maestro de secta de la Sectadel Alma Infantil.La razón de esto es porque no solo posee la asistencia de la TécnicaDemoníaca del Alma Infantil, sino que también posee un ArmamentoInmortal Incompleto ", dijo Ying Mingchao."No sé exactamente cuán poderoso podría ser un Armamento InmortalIncompleto, pero el poder de mi Cuerpo Divino definitivamente no es algocontra lo que una simple técnica demoníaca pueda competir".Cuando Wang Qiang habló, el clima comenzó a cambiar.En el cielo, rodando con nubes negras, apareció la imagen de cuatro bestias feroces de aspecto extremadamente feroz.Para ser exactos, esos eran cuatro bestias demoníacas.La razón de eso fue porque el aura que emitían era fría y oscura.Dicho esto,independientemente de lo que fueran esas bestias demoníacas, cuandoWang Qiang las desató, un aura extremadamente poderosa descendió delcielo y cubrió toda la región.
+
+Alsentir ese aura, sin mencionar a los demás, incluso Ying Mingchao y ZiXunyi, que eran ambos  Inmortales Verdadero de rango dos, revelaron expresionesserias.
+
+Wang Qiang había estado diciendo que su poder era Poder Divino todo el tiempo. Sin embargo, el Poder Divino generalmente estaba lleno de auras de rectitud. Incluso el feroz Poder Divino parecido a la bestia de Ying Mingchao emitió un aura justa.
+
+Sin embargo, el Poder Divino de Wang Qiang estaba emitiendo un aura concentrada de oscuridad. Paraser exactos ... el aura de su Poder Divino se asemejaba a las llamasgaseosas negras oscuras del maestro de secta de la Secta del Alma Infantil, olas llamas gaseosas carmesíes de la Espada del Dios Maligno.
+
+Tal Poder Divino era realmente raro.Podría decirse que el Poder Divino de Wang Qiang era extraño.Dicho esto,independientemente de cuán extraño pudiera ser el Poder Divino de WangQiang, seguía siendo que su aura era extremadamente poderosa. Estaba infinitamente cerca de alcanzar el Inmortal Verdadero de rango tres. Con un poder tan abrumador, podría ser capaz de luchar contra el maestro de secta de la Secta del Alma Infantil."Mingchao, el poder de batalla de Wang Qiang es así de fuerte. Sivamos a ayudarlo a usar la gran formación, él podría ser capaz dederrotar al maestro de secta de la Secta del Alma Infantil ", dijo Zi Xunyi.
+
+"N-n-no, i-independientemente de si es factible o no, todavía debo ir y resolverla deuda con el m-maestro de secta de la Secta del Alma Infantil hoy".
+
+"Yo soy-soy incapaz de esperar nada más. Debo ir y buscar su venganza para vengar a mi h-hermano, "Wang Qiang habló con intención asesina en toda su cara.
+
+"Muy bien. ¡Hermanos,déjenos matar en nuestro camino en la Secta del Alma Infantil hoy y vengaral Hermano Chu Feng! "Gritó Ying Mingchao en voz alta.
+
+"¡Vengar al Hermano Chu Feng!"
+
+"¡Vengar al hermano Chu Feng!""¡Vengar al hermano Chu Feng!"
+
+Al momento siguiente, la gente del ejército aliado comenzó a gritar con los brazos levantados.
+
+Sus voces resonaron a través del cielo como un trueno. Definitivamente no estaban gritando esas palabras como un lema.
+
+Todos iban a luchar con la muerte en mente. Estaban entrando en la batalla con la determinación de vengar a Chu Feng. No sabían si podrían o no sobrevivir.
+
+Aunqueel actual ejército aliado estaba disperso y mucho menos imponente queantes, estas personas que permanecieron eran un grupo de verdaderosguerreros.Ayudanos con tu donación , así poder mejorar la pagina y tener para caps adelantados en:

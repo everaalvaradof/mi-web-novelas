@@ -1,0 +1,35 @@
+---
+titulo: "Capítulo 3019"
+numero: 3019
+novelaId: "38"
+---
+
+“¡Prepárate para morir!” De repente se escuchó un grito furioso. SeñorYouyuan había desatado su ataque.Prácticamente en el mismo momento en que el Señor Youyuan desató suataque, el abuelo de Chu Haoyan también se disparó hacia el cielo ydesató su propio ataque.Potentes ondas de energía comenzaron a extenderse.Los dos expertos Exaltados de rango dos habían chocado en batalla.Para Chu Feng, los expertos de nivel Exaltado eran existencias tan poderosas que, simplemente, era impotente en comparación.No sería excesivo ni siquiera llamarlos dioses.Aunquelos dos expertos de nivel Exaltado estaban luchando actualmente antelos ojos de Chu Feng, Chu Feng no podía ver sus movimientos y no teníaidea de qué tipo de habilidades estaban usando.Lo único que era capaz de ver era las poderosas ondas de energía quese dispersaban en todas direcciones y golpeaban todo lo que estaba a sualrededor sin parar.Incluso el espacio mismo se hizo añicos a su alrededor.A medida que las ondas de energía continuaron, Chu Feng sintió como si hubiera sido colocado en el infierno.Sino fuera por la barrera defensiva que Señor Youyuan colocó a sualrededor para protegerlo, Chu Feng probablemente ya habría encontradouna muerte violenta.“Afortunadamente, ese viejo llamado Youyuan vino.De lo contrario, ni siquiera tu Espada del Dios Maligno podría manejar a ese tipo, ¿no?" —Dijo su Lady Reina.Chu Feng asintió con severidad a las palabras de Su Lady Reina.Antes, Chu Feng había pensado que sería capaz de matar al abuelo de Chu Haoyan con la Espada del Dios Maligno.Sin embargo, después de ser testigo de sus poderes, Chu Feng ya no estaba seguro.Los expertos de nivel Exaltado que poseían poder marcial de nivelexaltado, existencias por encima de los inmortales marciales, eransimplemente demasiado poderosos.¿Cómo iba a competir Chu Feng contra existencias como esas?El actual Chu Feng no era ni siquiera un rival para los Inmortales Celestiales, y mucho menos los Inmortales Marciales.En cuanto a los Exaltados, eran existencias a las que incluso los Inmortales Marciales pico admiraban.Además, el abuelo de Chu Haoyan no era un Exaltado de rango uno.En cambio, él era un Exaltado de rango dos.Chu Feng sintió que incluso si poseía la Espada del Dios Maligno, probablemente no sería rival para una existencia como esa.------Mientrastanto, a medida que la intensa batalla continuaba en la cueva, laspersonas que esperaban afuera ya se encontraban en una agitación.
+
+Chu Lingxi, Chu Huanyu y Chu Haoyan, esos tres genios, estaban trabajando juntos.
+
+Estaban atacando conjuntamente la pared de la cueva delante de ellos.
+
+La pared que atacaban era la entrada al camino por el que Chu Feng y los demás habían entrado.
+
+Por alguna razón desconocida, la entrada acababa de ser cerrada.
+
+No tenían idea de lo que estaba sucediendo dentro.
+
+Chu Lingxi estaba preocupada por Chu Feng.
+
+En cuanto a Chu Huanyu y Chu Haoyan, les preocupaba que los tesoros fueran malversados por Chu Feng y Chu Ruoshi.
+
+Esafue la razón por la que los tres estaban atacando conjuntamente lapared de la cueva, tratando de penetrar el poder que estaba sellando laentrada al camino para que pudieran entrar e investigar lo que habíasucedido.Desafortunadamente, no importa qué tipo de método intentaron, aún eran incapaces de romper el poder que sella la entrada.Después de intentar romper el poder que sellaba la entrada durante algún tiempo, Chu Haoyan se detuvo.Él declaró: “Olvídalo.Eso simplemente no es algo que podamos destruir.Parecería que ... no es algo que Chu Feng y los demás hicieron.Probablemente, deben haber disparado algún tipo de trampa para despertar ese poder de sellado ".Siguiéndolo, Chu Huanyu también se detuvo.Ambos sintieron que les sería imposible romper el sello.Como tal, decidieron renunciar a intentar continuar atacándolo.Sin embargo, Chu Lingxi no detuvo sus ataques.En cambio, sus ataques se hicieron cada vez más intensos.Sin embargo, ella todavía no pudo causar ningún daño al poder que sella la entrada."Lingxi, solo olvídalo.Es inútil.Con nuestra fuerza, es imposible que rompamos ese poder.Por no hablar de nosotros, es probable que ni siquiera los Inmortales Celestiales puedan ", exhortó Chu Huanyu."Cállate.Puede detenerse si lo desea, nadie lo instará a continuar.Porel mismo acuerdo, no posee los derechos para instarme a que me detenga", Chu Lingxi se dio la vuelta y lanzó una mirada feroz a Chu Huanyu yChu Haoyan.Entonces, ella continuó atacando ese poder de sellado."Humph,eres verdaderamente incapaz de reconocer las buenas intenciones de losdemás", enfrentado con una Chu Lingxi tan obstinada, Chu Huanyu resoplófríamente y se puso a un lado.Se sentía muy disgustado. Por su comprensión de Chu Lingxi, él sabía muy bien que ella no estaría haciendo un gran esfuerzo por los tesoros.
+
+Sin embargo, si no fue por los tesoros, ¿por qué Chu Lingxi actuaría de esa manera?
+
+Sólo podría haber una explicación posible: Chu Feng.
+
+Chu Lingxi estaba preocupada por la seguridad de Chu Feng. Esa fue la razón por la que ella estaba tratando tan duro.
+
+Alpensar en lo fría que era Chu Lingxi hacia él y lo preocupada queestaba por Chu Feng, Chu Huanyu comenzó a sentirse extremadamentedisgustado.
+
+"Oh Huanyu, eres verdaderamente miserable.Te gusta tanto Chu Lingxi, pero a ella solo le importa ese Chu Feng con todo su corazón y alma.Realmente siento lástima por ti ", Chu Haoyan se acercó a Chu Huanyu, suspiró y habló con un tono burlón.
+
+"Sentir lástima por mí?En realidad sientes lástima por ti mismo, ¿no?Tanto usted como yo nos conocemos muy bien.No hay necesidad de hacerse el tonto ", dijo Chu Huanyu."Jaja ..." Chu Haoyan en realidad no se enojó por las palabras de Chu Huanyu.En cambio, se rió.Fue una risa tan relajada.“Ya me he rendido con Chu Lingxi.Una chica como ella no es alguien que podamos obtener "."Sin embargo, soy realmente incapaz de entender.¿Exactamente que le hizoChu Feng para que ella se sintiera tan tentada por él? ", Preguntó Chu Haoyan.“¿Cómo se supone que debo saberlo?” Chu Huanyu lanzó una mirada de reojo a Chu Haoyan.El disgusto llenó sus ojos.Lo que sorprendió a Chu Haoyan era en realidad también lo que le desconcertó."Boom ~~~"Justo en ese momento, la cueva de repente comenzó a temblar."¿Qué está pasando?" El temblor repentino causó que las expresiones de la multitud cambiaran todo."Chu Feng y los demás deben haber disparado algo.Todos, rápido, salgan de este lugar.Este lugar podría colapsarse en cualquier momento ", dijo Chu Haoyan.Al escuchar las palabras de Chu Haoyan, la multitud se volvió aún más aterrada y, de hecho, comenzó a retroceder.La razón de esto fue que las paredes de roca de la cueva no eran un asunto menor.Como mínimo, no podrían destruir las rocas con su fuerza.Si la cueva se derrumbara, quedarían atrapados dentro, y todo lo que les esperaría sería la muerte.20 Capitulos adelantados enPatreon.Agregamos 2 niveles más , con 2 capitulos más en el nivelreino Cieloy 3 capitulos en el nivelSeñor Marcial.Si hay al menos 10 patrons en cada nivel se agregara 1 cap a cada uno de estos.

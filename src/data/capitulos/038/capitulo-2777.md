@@ -1,0 +1,45 @@
+---
+titulo: "Capítulo 2777"
+numero: 2777
+novelaId: "38"
+---
+
+"Hermano mayor Chu Feng, ¿qué sucede?", Preguntaron Li Xiang y los demás de manera confusa."No inculques tu poder espiritual en ellos directamente.Use formaciones espirituales ", dijo Chu Feng."Pero ellos ..." Li Xiang y los otros señalaron a la gran mayoría de las personas presentes.Aparte de Han Yu, todos los demás que estaban inculcando su poderespiritual en su bola de cristal lo estaban haciendo directamente sin eluso de formaciones espirituales.Además, la formación espiritual que Han Yu había establecido era meramente una formación de ocultación.Fue hecho para que otros no pudieran ver lo que estaba haciendo.No estaba claro si Han Yu estaba usando formaciones espirituales dentro o no.Por lo tanto, Li Xiang consideró que si usaran formaciones espirituales cuando los demás no lo hicieran, sería algo humillante."Lo que otros hacen es su preocupación.Solo les preguntaré esto, ¿todavía quieren entrar en la formación del laberinto? ", Preguntó Chu Feng."Queremos.Por supuesto queremos.¿Por qué más habríamos venido aquí? "Li Xiang y sus dos compañeros asintieron con la cabeza repetidas veces."Entonces hagan lo que digo.Solo comiencen después de que hayan hecho preparativos absolutos ", dijo Chu Feng."Bueno.Haremos como el hermano mayor Chu Feng dice ", dijeron Li Xiang y los demás.Si hubiera sido antes, Chu Feng no interferiría en los asuntos de los demás.Sinembargo, después de que Li Xiang y sus dos amigos se dirigieran a élcomo hermano mayor repetidas veces, Chu Feng se sentiría un pococulpable si los ignoraba.Además, era simplemente un consejo verbal, algo en lo que no tenía que esforzarse.Li Xiang y sus dos compinches fueron bastante obedientes.Después de aceptar el consejo de Chu Feng, no comenzaron inmediatamente a infundir su poder espiritual en sus bolas de cristal.En cambio, todos comenzaron a establecer formaciones espirituales.Además, fueron muy serios al establecer sus formaciones espirituales.Al ver esto, Chu Feng también estableció una formación de ocultación como la que hizo Han Yu.Se selló dentro de esta, luego comenzó a establecer una formación espiritual dentro.En realidad, hubo un beneficio para una formación.Es decir, podría aumentar el poder de las formaciones espirituales de pequeña escala.Aunque el efecto no fue muy fuerte, sería de alguna ayuda.Chu Feng sintió que Han Yu definitivamente sabía sobre esto.De lo contrario, él no habría establecido una formación de sellado a su alrededor.Después de que Chu Feng terminó de establecer la formación de sellado,comenzó a establecer meticulosamente otra formación espiritual.En cuanto a la formación espiritual, fue crucial para Chu Feng para inculcar el poder espiritual en esa bola de cristal.Después de todo, basándonos en los diferentes colores que se podríanobtener de esa bola de cristal, se obtendrían diferentes pistas.Chu Feng no sabía qué tipo de color podría obtener.Sin embargo, al menos, tendría que hacer su mayor esfuerzo.Precisamente porque Chu Feng quería hacer su mayor esfuerzo, pasó unperíodo extremadamente largo de tiempo estableciendo su formaciónespiritual.Sin embargo, Chu Feng no tenía idea de que durante el tiempo en queestaba estableciendo de todo corazón su formación espiritual, esa XiaYun'er en realidad también estableció una formación de sellado ante lamultitud.Su formación de sellado fue muy grande.No solo se selló dentro de esta, sino que también selló la formación de sellado de Chu Feng dentro de esta."¿Qué está haciendo la Santa Hija?"
+
+En ese momento, la multitud, incluidas las generaciones más jóvenes de la Tierra Santa de la Estrella Caída, revelaron expresiones confusas. Estaban realmente confundidos por la acción de Xia Yun'er.
+
+La razón de esto fue porque la actitud de Xia Yun'er hacia Chu Feng era simplemente demasiado inusual.
+
+Unodebería saber que aunque esta Santa Hija no era una persona fría, eraalguien que ignoraría a las personas y las arrojaría lejos de su líneade visión.
+
+Normalmente, sería extremadamente difícil para uno incluso hablar con ella.
+
+Sin embargo, Xia Yun'er era realmente tan entusiasta con Chu Feng. Dehecho, ella incluso estaba estableciendo una poderosa formación desellado para sellar tanto a Chu Feng como a ella misma por su propiacuenta.
+
+¿Qué estaba planeando exactamente?La multitud estaba adivinando sobre esto."Nuestra  santahija estableció su formación espiritual porque no desea que los demás sepan lo que está haciendo"."Porlo tanto, espero que todos los presentes no intenten examinar lasituación dentro de la formación espiritual a través de métodosespeciales.De lo contrario, si descubro que alguien lo hace, no me culpen por ser descortés ", dijo el anciano Xingyi con tono amenazante.De hecho, había mucha gente que planeaba usar varios métodos paraobservar la situación dentro de la formación de sellado de Xia Yun'er.Sin embargo, después de que el anciano Xingyi dijera esas palabras,naturalmente no habría nadie que se atreviera a intentar tal cosa.Encuanto a Chu Feng, él estaba completamente concentrado en establecer suformación espiritual, y no se dio cuenta de lo que estaba sucediendoafuera.Después de que Chu Feng terminó de preparar su formación espiritual,se sentó con las piernas cruzadas dentro de ella y comenzó a infundir supoder espiritual en la bola de cristal.Debido al hecho de que Chu Feng había hecho suficientes preparaciones, logró realizar un esfuerzo milagroso desde el principio.Después de que comenzó a infundir su poder espiritual en la bola decristal, había logrado volverla púrpura con solo la mitad del tiempo gastado de un palo de incienso.Sin embargo, Chu Feng no se relajó con solo esto.Encambio, apretó los dientes y continuó manteniendo su estado total ycontinuó inculcando su poder espiritual en la bola de cristal.Mientras Chu Feng estaba inculcando su poder espiritual en la bola decristal, su Lady Reina estaba haciendo un seguimiento del tiempo deChu Feng.Originalmente, su Lady Reina sentía que como Chu Feng podía hacer quela bola de cristal se volviera púrpura por la mitad del tiempo que lequedaba a un palo de incienso, debería ser capaz de convertirla en dorada en eltiempo de un palo de incienso.Sin embargo, a pesar de que el límite de tiempo estaba a punto de llegar, la bola de cristal todavía era de color púrpura.Su Lady Reina comenzó a preocuparse.Esta era la naturaleza humana.Sus deseos fueron ilimitados.Si uno sintiera que uno no sería capaz de hacer dorada la bola decristal, entonces uno naturalmente no tendría una esperanza extravagantede poder hacer dorada la bola de cristal.Si ese fuera el caso, uno no sentiría arrepentimiento, incluso si la bola de cristal no se tornaba dorada.Después de todo, uno no tendría una extravagante esperanza de que se torne dorada para empezar.Sin embargo, si uno siente que uno podría hacer dorada la bola de cristal, uno trataría de hacerlo.En ese momento, uno habría confiado la esperanza de convertir la bola de cristal en dorada.Si uno falla, uno naturalmente se sentiría decepcionado."Buzz ~~~"
+
+De repente, esa formación espiritual dejó escapar un sonido. En ese momento, Chu Feng detuvo la operación continua de su formación espiritual.
+
+El motivo fue porque sabía que había llegado al límite de tiempo. Chu Feng ya no era capaz de seguir inculcando su poder espiritual en la bola de cristal.
+
+En ese momento, Chu Feng se puso de pie y sostuvo la bola de cristal en su mano.
+
+"Parece que el anciano no miente. De hecho, es muy difícil convertir esta bola de cristal en dorada ", suspiró Chu Feng.
+
+"Incluso tú solo pudiste volverlo purpura. Probablemente, la gran mayoría de la gente ni siquiera habrá podido convertirlo en cian ", dijo Su Lady Reina.
+
+"Mientras Li Xiang y los demás se tomen en serio este asunto, deberían poder volverlo cian.Simplemente,aquellos que no establecieron formaciones espirituales y procedieron ainculcar directamente su poder espiritual en las bolas de cristalprobablemente les resulte muy difícil convertirlas en cian ", dijo ChuFeng."Buzz ~~~"
+
+Justo en ese momento, la bola de cristal en la mano de Chu Feng de repente comenzó a brillar deslumbrante.
+
+Chu Feng bajó la cabeza para mirar la bola de cristal. Inmediatamente, su expresión cambió cuando apareció alegría en sus ojos.
+
+La razón por la cual la bola de cristal había empezado a brillar era porque su color realmente había cambiado. Había cambiado de púrpura a dorado.
+
+"¡Guau! En realidad cambió el color. Chu Feng, has tenido éxito.Realmente has logrado convertirlo en dorado con éxito ".
+
+Su Lady Reina estaba loca de alegría y extremadamente emocionada.Ella era simplemente aún más feliz que Chu Feng.
+
+Encuanto a Chu Feng, a pesar de que él no reaccionó tan emocionado comosu Lady Reina, él tenía una sonrisa alegre en su rostro todo eltiempo.
+
+Después de todo, podría decirse que fue una sorpresa agradableinesperada.Ayudanos con tu donación , así poder mejorar la pagina y tener para caps adelantados en:
