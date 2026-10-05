@@ -683,6 +683,25 @@ export const novelas = [
         }
     },
     { 
+        id: "038", 
+        titulo: "Dios Marcial Asura", 
+        titulo2: "Martial God Asura, 修罗武神",
+        genero: "Fantasía, xuanhuan, Acción, Maduro,", 
+        anio: "2023", 
+        imagen: "/portada/38.webp",
+        sinopsis: "El joven Chu Feng siempre fue visto como un insulto a la familia Chu debido a su físico débil. Un día decide que ya ha tenido suficiente, y para recuperar el nombre de su padre y salvar a su madre, decide hacerse más fuerte pase lo que pase. ¿Qué quien soy? Todas las cosas vivientes en el mundo me ve como Asura. Como sea, no sabia nada de eso. Así que como Asura, me convertí en el Dios Marcial.",
+        totalCapitulos: 4705,
+        capitulosPublicados: "4705",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Kindhearted Bee",
+        tag: "",
+        seo: {
+            title: "Leer Dios Marcial Asura en Español - Novelas Ligeras",
+            description: "Disfruta de Dios Marcial Asura en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
         id: "037", 
         titulo: "Esclavo de las Sombras", 
         titulo2: "Slave to the Shadows",
@@ -756,6 +775,44 @@ export const novelas = [
         seo: {
             title: "Leer Sistema de Dominación Mundial en Español - Novelas Ligeras",
             description: "Disfruta de Sistema de Dominación Mundial en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
+        id: "042", 
+        titulo: "Registros de Batallas del Elegido", 
+        titulo2: "BATTLING RECORDS OF THE CHOSEN ONE, 天骄战纪",
+        genero: "Acción, Aventura, Fantasía, Selva, Xuanhuan", 
+        anio: "2026", 
+        imagen: "/portada/42.webp",
+        sinopsis: "En el Gran Mundo, un joven llamado Lin Xun salió solo del calabozo de la mina. Dominó el patrón del espíritu y emprendió un viaje legendario sin precedentes.",
+        totalCapitulos: 3232,
+        capitulosPublicados: "3232",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Xiao-Jinyu",
+        tag: "Cultivo, Magia, Espacio Mágico, Protagonista Masculino, Venganza",
+        seo: {
+            title: "Leer Registros de Batallas del Elegido en Español - Novelas Ligeras",
+            description: "Disfruta de Registros de Batallas del Elegido en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
+        id: "043", 
+        titulo: "Pequeno Agricultor Gran Estrella", 
+        titulo2: "LITTLE FARMER BIG STAR, 小农民大明星",
+        genero: "Novela Ligera, Ranobe, Vida Urbana", 
+        anio: "2026", 
+        imagen: "/portada/43.webp",
+        sinopsis: "En un accidente, Li Fan renace en un mundo paralelo similar a la Tierra. Vive en Xiaoqiao Liushui, un país como el cielo. Abre una granja y lleva una vida de pueblo sin prisas. Hay muchos ingredientes deliciosos, misteriosas bestias guardianas y varias leyendas. Su granja es famosa en todo el mundo y atrae a muchos turistas cada día. En su tiempo libre, escribe cuentos de hadas y ha sido llamado el rey de los cuentos de hadas; escribe artes marciales y se ha convertido en un maestro de las mismas; Escribe poemas, canciones, guiones, dibuja cómics, hace películas… Hace que los clásicos de la tierra reaparezcan en este mundo… Es un pequeño agricultor, ¡y también es la mayor estrella del mundo!",
+        totalCapitulos: 2556,
+        capitulosPublicados: "2556",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "In-the-Country",
+        tag: "Hermosa protagonista femenina, Gestión empresarial, Protagonista inteligente, Protagonista decidido, Protagonista trabajador, Protagonista afortunado, Espacio mágico, Protagonista masculino, Época moderna, Política, De pobre a rico, Sistema",
+        seo: {
+            title: "Leer Pequeno Agricultor Gran Estrella en Español - Novelas Ligeras",
+            description: "Disfruta de Pequeno Agricultor Gran Estrella en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
     }
 ];
