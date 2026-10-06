@@ -833,5 +833,24 @@ export const novelas = [
             title: "Leer La reencarnación de la empresaria en la escuela en Español - Novelas Ligeras",
             description: "Disfruta de La reencarnación de la empresaria en la escuela en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
+    },
+    { 
+        id: "045", 
+        titulo: "EL MAYORDOMO EMPERADOR DEMONÍACO", 
+        titulo2: "THE STEWARD DEMONIC EMPEROR, 魔皇大管家",
+        genero: "Acción, Aventura, Artes Marciales, Ranobe, Romance, Xianxia", 
+        anio: "2026", 
+        imagen: "/portada/45.webp",
+        sinopsis: "Zhuo Yifan era el Emperador Demonio. Un día, se las arregló para poner sus manos en un antiguo libro del emperador, los Registros Secretos de las Nueve Serenidades. Como el libro era codiciado por muchos, fue blanco de los expertos e incluso fue traicionado por su alumno. Tras su muerte, su alma tomó el cuerpo de otro. Volvió a la vida, en el cuerpo de un sirviente de la familia llamado Zhuo Fan. Debido a los remordimientos del niño, que Zhuo Fan heredó, se vio obligado a servir a la amante del niño. ¡¿Cómo puede llevar a esta familia descendiente a la cima de este continente?!",
+        totalCapitulos: 1313,
+        capitulosPublicados: "1313",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Night-Owl",
+        tag: "Alquimia, Personajes arrogantes, Hermosa protagonista femenina, Protagonista inteligente, Protagonista frío, Cultivo, Intereses amorosos devotos, Protagonista masculino, Subtrama romántica, Protagonista despiadado, Planes y conspiraciones, Protagonista desvergonzado, Intereses amorosos fuertes, Salto temporal",
+        seo: {
+            title: "Leer EL MAYORDOMO EMPERADOR DEMONÍACO en Español - Novelas Ligeras",
+            description: "Disfruta de EL MAYORDOMO EMPERADOR DEMONÍACO en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
     }
 ];
