@@ -852,5 +852,24 @@ export const novelas = [
             title: "Leer EL MAYORDOMO EMPERADOR DEMONÍACO en Español - Novelas Ligeras",
             description: "Disfruta de EL MAYORDOMO EMPERADOR DEMONÍACO en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
+    },
+    { 
+        id: "047", 
+        titulo: "Sólo yo soy un nigromante", 
+        titulo2: "ONLY I AM A NECROMANCER, 나 혼자 네크로맨서",
+        genero: "Acción, Aventura, Fantasía, Misterio, Sobrenatural", 
+        anio: "2026", 
+        imagen: "/portada/47.webp",
+        sinopsis: "Era una de esas sesiones ordinarias de clase en la universidad cuando, de repente, empiezan a aparecer textos y tarjetas de búsqueda en el aire. Mientras todo el mundo se inquieta por la extraña situación, todas las luces se apagan y la sala de conferencias queda sumida en la más absoluta oscuridad. Aterrados, todos tienen miedo de coger las tarjetas de búsqueda, pero no el protagonista, Seong-woo: Instintivamente se da cuenta de que tiene que elegir una carta para sobrevivir, y elige convertirse en nigromante. Poco después, aparece una búsqueda tutorial, y toda la escuela se vuelve caótica. De repente, aparecen duendes por todas partes y empiezan a masacrar a la gente. A los supervivientes les cuesta adaptarse a todos los cambios repentinos, pero Seong-woo vence a uno de los goblins utilizando su habilidad de nigromante y empieza a completar la búsqueda que se le ha encomendado. Seong-woo sigue aumentando su poder y también lo hacen varios de sus seguidores. Está rodeado de las fuerzas de la muerte que le juran lealtad, así como de seguidores con talento y colegas de confianza, pero se ve desafiado por numerosos villanos, además de un sistema que amenaza con degenerar a toda la humanidad. En un mundo que se enfrenta a un cambio que nunca antes había experimentado, un nigromante lo destruye todo con sus fuerzas comprometidas",
+        totalCapitulos: 508,
+        capitulosPublicados: "508",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Jijumjang",
+        tag: "",
+        seo: {
+            title: "Leer Sólo yo soy un nigromante en Español - Novelas Ligeras",
+            description: "Disfruta de Sólo yo soy un nigromante en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
     }
 ];
