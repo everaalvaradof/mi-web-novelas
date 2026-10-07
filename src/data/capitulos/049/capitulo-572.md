@@ -1,0 +1,83 @@
+---
+titulo: "Capítulo 572: ​ Gran Condenación de las Siete Familias (2)"
+numero: 572
+novelaId: "49"
+---
+
+"Tú... Tú..." Los cuerpos de Yun Waitian y Yun Duanshui temblaron de su furia. Aunque sabían que las siete Familias Guardianes estaban claramente en contra de ellos por malas intenciones, no tenían palabras para refutarlas. El crimen de perder el Sello del Emperador Demonio había estado presionando a la Familia Yun como una montaña durante todos estos años. Incluso si hubieran transcurrido cien años, era todavía pesado hasta el punto de hacer que fueran incapaces de respirar.
+
+En comparación con la identidad de Yun Che antes, este asunto era realmente el talón de Aquiles de la familia Yun. Era como un demonio de una pesadilla que no podía ser sacudida ni escapar, torturándolos durante cien años. A menos que llegara un día que pudieran recuperar el Sello del Emperador Demonio, tendrían que asumir los grilletes de este crimen de generación en generación.
+
+No importa cuán poderosa sea la Familia Yun hoy en día, no importa cuán grande genio hayan producido en estos cien años, y no importa qué tipo de mérito hicieron... Aún no podrían escapar de este talón de Aquiles que podría ser libremente escalonado por las otras familias.
+
+"Suficiente" La Pequeña Emperatriz Demonio se levantó las mangas y dijo fríamente: "El asunto de la Familia Yun que perdió el Sello del Emperador Demonio no fue propuesto en primer lugar. Ahora que ya habían sufrido cien años de severo castigo, incluso esta Emperatriz ha dejado de tomar en cuenta este asunto, ¡y bajo cuya autoridad los denuncias una y otra vez!”
+
+"Pequeña Emperatriz Demonio, ¿cómo podría un crimen tan pesado de la Familia Yun ser eliminado con sólo cien años de castigo?" Gritó Helian Kuang con una cara llena de angustia. "Lo que la Familia Yun había perdido era el Sello del Emperador Demonio... ¡el Sello del Emperador Demonio! ¡Lo que han destruido es el futuro de la línea de sangre del Emperador Demonio! Por un pecado tan grave, incluso el exterminio de toda su familia no sería ir por la borda. Un centenar de años de castigo, básicamente, no vale la pena ni siquiera un poco... Y el castigo que la familia Yun había sufrido no era más que una restricción de recursos, así que ¿cómo podría llamarse un "severo castigo?"
+
+Jiufang Kui dijo, "¡Lo que el Patriarca Helian ha dicho es correcto! Y definitivamente son las voces de los corazones de todos los ciudadanos de la Ciudad Imperial del Demonio en estos cien años. La gravedad del pecado de la familia Yun es demasiado grande, y la Pequeña Emperatriz Demonio también es demasiado indulgente. En estos cien años, La Pequeña Emperatriz Demonio ha sido tolerante con la Familia Yun. Pero para ser tan tolerante a un crimen tan grande, ¿quién en el mundo lo aceptaría? Dado que la Pequeña Emperatriz Demonio no está dispuesta a castigar severamente y no está dispuesta a desterrar a la Familia Yun, no tenemos más remedio que obedecer. Sin embargo, para otorgar esta ‘Píldora del Overlord’ a la Familia Yun... Perdona a mi Familia Jiufang, pero no podemos aceptarlo, ¡pase lo que pase!"
+
+En el momento en que la voz de Jiufang Kui se calmó, Nangong Zhi inmediatamente dijo: "Definitivamente no estamos mirando a esta Píldora del Overlord, pero desde que la Pequeña Emperatriz Demonio se instaló hace cien años, ha habido innumerables personas que ayudaron a la Pequeña Emperatriz Demonio y ganaron méritos. Sin embargo, la Pequeña Emperatriz Demonio desea otorgar esta Píldora del Overlord a una familia con un pecado mortal... Como Familias Guardianas, naturalmente no tenemos otra opción que obedecer las órdenes de la Pequeña Emperatriz Demonio. Pero incluso si aceptamos esto, si este asunto se extiende, las olas de la opinión pública definitivamente se pondrán en marcha en el reino demoníaco ilusorio, provocando innumerables quejas y acusaciones. Un impacto extremadamente enorme también será tratado con el nombre santo y poderoso de la Pequeña Emperatriz Demonio... Pequeña Emperatriz Demonio, reconsidere”.
+
+"¡Nuestras acciones son todas por el bien de la Pequeña Emperatriz Demonio, y el poderoso nombre que toda la línea de sangre del Emperador Demonio había llevado hasta hoy!"
+
+Los Patriarcas de las Siete Familias Guardianas del ala oriental intentaron persuadir una tras otra, cada palabra dirigida contra la Familia Yun, y sin embargo, cada una de sus palabras fue gritada sonora y justamente. En sus palabras, la Familia Yun había sido durante mucho tiempo una familia extremadamente vil e imperdonable, y si la Pequeña Emperatriz Demonio concediera a esta Píldora del Overlord a la Familia Yun, entonces sería un "gobernante necio" que desagradaría al mundo entero.
+
+Si las objeciones sólo hubiesen venido de una sola familia, la Pequeña Emperatriz Demonio podría haberla suprimido fácilmente. Sin embargo, estas siete grandes familias habían discutido esto en secreto, destacándose juntos. Sus palabras y actitud eran incomparablemente duras. Incluso las personas que estaban sentadas en la esquina del Salón Imperial Demonio y no tenían el menor indicio de las circunstancias políticas de la Ciudad Imperial del Demonio podían sentir claramente el pesado sentido de la presión.
+
+El Patriarca de la Familia Xiao, Xiao Xifeng dijo en voz alta, "Nuestras Doce Familias Guardianes han guardado la línea de sangre del Emperador Demonio durante diez mil años en un solo corazón, sin embargo, ha sido acortada por la Familia Yun. No importa a quién se le otorgue la Píldora del Overlord, nuestra Familia Xiao no tendrá la menor objeción. Sin embargo, sólo otorgándolo a la Familia Yun, nuestra Familia Xiao será desalentada sin fin... Incluso un sinnúmero de ciudadanos del mundo se sentirán desanimados, pensando que como el gobernante del Reino Demonio Ilusorio, la Pequeña Emperatriz Demonio todavía otorgaba recompensas sin importar el pecado de uno, permitiendo que los pecadores sean alegres, y dejando al meritorio desalentado. ¡Esta Píldora del Overlord no puede ser otorgada a la Familia Yun no importa qué! "
+
+"Además, la persona que perdió el sello del Emperador Demonio entonces era el anterior Patriarca de la Familia Yun, Yun Canghai! El ex emperador lo había instalado como rey, lo consideraba muy bien, e incluso le había entregado el Sello del Emperador Demonio para protegerlo. Sin embargo, Yun Canghai en su lugar había ido en contra de la confianza del antiguo emperador, infiltrado con fuerza al Continente Cielo Profundo, y al final, perdió el sello del emperador demonio. Esto podría decirse que es imprudente e insensato hasta el extremo, una acción totalmente imperdonable. Básicamente ya no merece el honor de ser el 'Rey Demonio'! Asi que…"
+
+"¡Cállate la boca! ¡¡No se le permite humillar a mi padre ! "
+
+"¡Cállate la boca! ¡¡No se le permite humillar a mi abuelo!! "
+
+Antes de que Xiao Xifeng pudiera terminar sus palabras, dos fuertes rugidos sonaron al mismo tiempo. Xiao Xifeng, con el cultivo de un monarca de nivel tres, se había estremecido ante el temblor causado por estos dos rugidos, e incluso su corazón se había encogido ferozmente por un momento. En el momento en que dio la vuelta, se encontró instantáneamente con la cara aterradora de Yun Qinghong que ya se había hundido de una furia inmensa.
+
+Entre estas dos voces rugientes, uno vino de Yun Qinghong, mientras que el otro vino de Yun Che.
+
+Cuando la Pequeña Emperatriz Demonio planteó la idea de otorgar el Píldora del Overlord a Yun Che, tanto Yun Qinghong como Yun Che habían predicho que el Duque Huai tendría definitivamente las siete grandes familias o los muchos Palacios Duque, y el mejor razonamiento sería naturalmente el pecado de la familia Yun de hace cien años. Por lo tanto, con las siete grandes familias colaborando juntas para ir en contra de ellos, no se sintieron sorprendidos en lo más mínimo. Ambos habían estado simplemente observando con frías miradas sin hacer un solo comentario.
+
+¡Sin embargo, las palabras de Xiao Xifeng, fueron claramente humillantes a Yun Canghai... que había pisado sin piedad en su línea de fondo!
+
+Yun Qinghong respetó a su padre toda su vida, y había tratado a su padre como su cielo. Cada vez que pensaba en ese cadáver viejo y marchito de su padre, que vio hace un mes, la culpa, el remordimiento, el odio y el dolor que sentía eran como innumerables flechas que le perforaban el corazón... Yun Canghai era el abuelo de Yun Che y era incluso una persona que usó su propia vida para salvar a Yun Che de la Formación de la Supresión del Alma del Cielo. Utilizando su propia muerte, le explicó a Yun Che su parentesco.
+
+Ellos podrían enfrentar innumerables asuntos tranquilamente y colectivamente; Sin embargo, cuando llegaron las palabras empañando a Yun Canghai, ¿cómo podrían soportarlas?
+
+Frente a la furia de Yun Qinghong, Xi Xiaofeng tembló ligeramente en su corazón, pero ¿cómo podía mostrar una actitud tan débil bajo los ojos de todos los presentes? Con una fría sonrisa, dijo: “¿Humillar? ¿La verdad que todo el mundo conoce realmente se ha convertido en humillación? ¿Podría ser que realmente he dicho mal en algún lugar? En aquel entonces, si no fuera por Yun Canghai... "
+
+"¡Cierra la boca!" La expresión de Yun Qinghong se volvió lívida. "Mi padre poseía un espíritu indomable, tenía una conciencia que era clara para los cielos y la tierra, clara para el antiguo emperador, y clara para la Familia Yun! ¡Una persona humilde como tú ni siquiera es digna de decir el nombre de mi padre! Si te atreves a empañar a mi padre con otra palabra, sin duda vendrá un día que yo, Yun Qinghong... personalmente tomará tu vida!! "
+
+Este discurso excesivamente agitado mostró claramente la ira en el corazón de Yun Qinghong. Evidentemente, al tocar los asuntos de Yun Canghai, había perdido hasta cierto punto su calma. Yun Che frunció las cejas y exclamó: “¡Padre, un humilde partidario con segundas intenciones como él ni siquiera es digno de que el Padre se encargue personalmente de ello! ¡Aunque tengo algunas preguntas que realmente deseo hacerles!"
+
+Yun Che dio un paso adelante, y con una expresión fría, se enfrentó a los Patriarcas de las siete familias. Con una sonrisa ligera, dijo, "Ustedes siete grandes familias, con el fin de evitar que nuestra Familia Yun obtenga la Píldora del Overlord, seguro que estan unidos como uno, ¿eh? ¡Eso es correcto... el grave pecado de perder el Sello del Emperador Demonio, una excusa tan maravillosa y perfecta! Entonces, déjame hacer una conjetura. Con respecto a los Cristales Divinos de Veteados Púrpura que todos ustedes han perdido ante nuestra Familia Yun antes, esa promesa definitivamente no se cumpliría tampoco, ¡verdad!”
+
+¡Lo que utilizó Yun Che fue un tono interrogativo, en lugar de dudoso!
+
+Las caras de las siete grandes familias cambiaron ligeramente. Antes, cuando transmitían sus voces entre sí, ya habían confabulado, diciendo que definitivamente no entregarían verdaderamente los Cristales Divinos de Veteados Púrpuras a la Familia Yun... Olvídense de dos kilos y medio, ni siquiera darían poco después de detener a la Pequeña Emperatriz Demonio de entregar la Píldora del Overlord a la familia de Yun, su plan siguiente, era trabajar juntos para ejercer presión, a galés en el acuerdo de entregar dos y medio kilogramos de Cristales Divinos de Veteados Púrpuras.
+
+Ahora que había sido sacado por Yun Che, ninguno de ellos reveló una expresión de torpeza, sino que aprovechó esto y dijo: "¡Yun Che, tu conjetura es correcta! ¡Esos dos kilos y medio de Cristales Divinos de Veteados Púrpura, mi Familia Chiyang definitivamente no los dara a tu Familia Yun!"
+
+"¡¡Nuestra familia de Jiufang, definitivamente no la entregará tampoco!!"
+
+"¡Hahahaha, parece que nuestros pensamientos eran todos iguales! Incluso si mi familia Nangong tuviera que destruir estos dos kilos y medio de Cristales Divinos de Veteados Púrpura, definitivamente no los entregaremos a la familia Yun ni siquiera un poquito”.
+
+"¡Mi Familia Lin es igual! Olvídate de dos kilos y medio de Cristales Divinos de Veteados Púrpura, ni siquiera entregaríamos cinco mechones de pelo!”
+
+"Tu Familia Yun lleva numerosos pecados, ¿qué cara tienes para recibir nuestros Cristales Divinos de Veteados Purpuras de las Familias Guardianes?"
+
+A pesar de que estaban siendo claramente de piel gruesa y descaradamente negando lo que habían prometido bajo los ojos de todos, cada uno de ellos estaba gritando con tales actitudes exaltadas y espíritus altaneros... Evidentemente, el "gran pecado" de la familia Yun que era conocido por todo el mundo era lo que confiaban. Yun Che rió fríamente, "¡Dos kilos y medio de Cristales Divinos de Veteados Púrpura son lo que ustedes prometieron! ¡El duelo anterior también había terminado en su derrota! Sin embargo, en la actualidad, todos ustedes lo están negando de una manera tan altisonante. Ustedes dignas Familias Guardianes que habían estado en la cima durante diez mil años, son realmente desvergonzadas. ¡Es simplemente ridículo y lamentable hasta el extremo! ¿¡No tienes miedo de que los poderosos nombres que has guardado durante diez mil años se conviertan así en risas en el Reino Demonio Ilusorio!?"
+
+"¿Y qué? ", Dijo el Patriarca de la familia Bai, Bai Yi. "¡Preferimos convertirnos en las risas del mundo que dar a su familia Yun la menor cantidad de Cristales Divinos de Veteados Púrpura!”
+
+"¡El pecado de la familia Yun, es totalmente imperdonable. Incluso el destierro sería el castigo más leve, y la limpieza de toda la familia ni siquiera sería suficiente! Sin embargo, en estos cien años, el hecho de que su familia todavía esté en pie de igualdad con nuestras Familias Guardianes ya está levantando las sospechas de todo el mundo. Si entregamos nuestros Cristales Divinos de Veteados Púrpura a la Familia Yun, la Familia Yun definitivamente se elevará a la prominencia, mientras que nuestras familias definitivamente se debilitaran... ¡La Familia Yun es una familia pecaminosa que ha acortado la línea de sangre del Emperador Demonio! No sólo no han recibido el castigo que se merecen, sino que incluso será la anulación del resto de las familias de los Guardianes. Si ese es el caso, no sólo el caos definitivamente se producirá en la Ciudad Imperial del Demonio, el caos definitivamente se producirá en todo el Reino Demonio Ilusorio! Incluso el antiguo Emperador Demonio será incapaz de dormir en paz bajo los Nueve Salientes! "
+
+"Comparado con el caos dentro de nuestro Reino Demonio Ilusorio y la vergüenza al nombre del Emperador Demonio, incluso si tenemos que ser ridiculizados como gente infiel, ¿y qué?" Helian Kuang dijo con una expresión solemne. "En estos diez mil años, hemos sido leales a nada menos que al Emperador Demonio, y si es por el Emperador Demonio, ¡ni siquiera temeríamos la muerte! Entonces, ¿qué pasa si nuestro nombre y reputación se mancha?"
+
+A pesar de que claramente negaban de manera tan desvergonzada y despreciable, bajo la cobertura del pecado de la Familia Yun, sus palabras se habían convertido en "hazañas" que demostraron lealtad a la línea de sangre del Emperador Demonio y el grado de responsabilidad que tenían por el Reino Demonio Ilusorio. Esto hizo que todos en la Familia Yun aparentemente explotaran en furia; Sin embargo, Yun Che simplemente se rió en voz alta, "¡Jajajaja! ¡Lo que dijo 'leal a ningún otro', y lo que un bien dicho es 'si es para el Emperador Demonio, ni siquiera tememos la muerte'! ¡Ustedes las grandes familias son tan leales, y por el bien de esta "lealtad", incluso abandonarían su reputación! Entonces…"
+
+En el momento en que terminó su risa, la expresión de Yun Che se volvió repentinamente fría. Dando un paso adelante, con una mirada de halcón, señaló hacia los Patriarcas de las siete grandes familias, y su voz tronó, "Hace cien años, cuando el antiguo Emperador Demonio cayó en el Continente Cielo Profundo, mi abuelo dio un paso adelante para salvarlo sin la menor vacilación... Entonces, ¿qué hay de ustedes !? ¿Dónde estaban? ¿Por qué fueron los que despreciaron sus temores de muerte, y arriesgaron sus vidas para salvar al antiguo Emperador Demonio?; ¿¡ayudar a mi abuelo y nuestra Familia Yun!? ¿Por qué no fueron sus llamadas familias las que son 'completamente leales, y por el bien del Emperador Demonio, ni siquiera temerían la muerte’!!? "
+
+"En ese momento, ¿¡dónde estaban ustedes!? ¿¡Y dónde estaba su llamada 'lealtad'!? "
+
+El interrogatorio furioso de Yun Che hizo que todos estos Patriarcas, que estaban dando varios discursos elocuentes antes, estuvieran completamente sin palabras.

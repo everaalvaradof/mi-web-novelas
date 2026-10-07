@@ -1,0 +1,53 @@
+---
+titulo: "Capítulo 1157: ED  El Comienzo en el Mundo Espíritu del Cielo"
+numero: 1157
+novelaId: "48"
+---
+
+El Mundo Espíritu del Cielo era un reino acuático. Magníficos océanos se extendían hasta donde alcanzaba la vista.
+
+En años lejanos, había una frase popular: ven al Mundo Espíritu del Cielo si quieres ver el océano.
+
+Esta frase resume con precisión el Mundo Espíritu del Cielo. Ningún otro océano en los nueve mundos fue tan grandioso como los que se encuentran aquí ...
+
+Uno no podría escapar del agua en este mundo. Lasolas gigantes se elevaron hacia el cielo mientras que los cráteressubmarinos que abarcaban millas interminables existían también. Un montón de piedras espirituales refinadas por los océanos estaban dispersas.
+
+Venir al Mundo Espíritu del Cielo y uno podría ver escenas que nunca antes habían visto.
+
+Por ejemplo, una parte del océano se dividió en el medio, dejando agua cayendo desde ambos lados.
+
+Otra vista fue donde el agua del océano se refinó en enormes pilares.Apoyaban las islas hasta el cielo, por lo que las islas parecían flotar en el aire.Una vista más común era que el océano se dividía en diferentes caminos.Estos caminos acuáticos fueron refinados en piedras, permitiendo a las personas viajar en cualquier dirección ...Era un mundo de escenas inimaginables.Muy pocos continentes se podían encontrar aquí, pero había muchas cordilleras.La mayor parte de la tierra fue creada por el refinamiento del agua, convirtiendo el líquido en formas sólidas.Grandes arrecifes de coral también estaban alrededor con grandes árboles que sobresalían del agua.Estos arrecifes y plantas crecieron en el fondo del mar.Formaron muchos bosques, el hábitat de innumerables criaturas ...Había tres océanos principales y un continente en este mundo.Los tres océanos eran el Mar del Abismo, el Mar de Jade y el Mar del Demonio Dragón.El continente fue llamado Detención de Dios, el único en este mundo.Aunque había otras masas de tierra, no eran continentes.Detención de Dios era el único continente verdadero y era grande en tamaño.Sinembargo, no muchos seres vivientes estaban dispuestos a vivir en elContinente Detención de Dios ya que no había muchas sectas y naciones establecidasallí.Solo el nombre era suficiente para que la gente lo entendiera;este era un lugar donde incluso los dioses tenían que disminuir su ritmo.¿Qué tan adecuado podría ser un lugar con un nombre como este para construir un hogar feliz?Eneste mundo, si el Mar del Abismo era el más majestuoso y extraño,entonces el Mar de Jade era el más encantador y magnífico con su cieloazul y agua.A muchas personas les gustaba una ubicación tan encantadora.En cuanto a los habitantes de este mundo, hubo tres razas principales, la Raza del Espíritu Encantador, Treants y la Raza Demonio de Mar.Las Treants y Raza Demonio de Mar eran existencias que solo se encuentran en el Mundo Espíritu del Cielo, y solo vivirían aquí también.[1.Espíritusencantadores Me imagino que parecen elfos o feys / hadas, pero he vistoa los elfos usar diferentes cosas antes en ED, así que fui en contra deeso.En cuanto a los Treants, estos son probablemente más humanoides que los árboles, pero Raza de Madera suena terrible.]Poralguna razón desconocida, las razas Treants y Demonio de Mar no seincluyeron entre las principales razas de los nueve mundos.Entérminos generales, las principales razas incluían humanos, demonios,gólems ... Nadie sabía por qué estas dos razas en particular no estabanincluidas porque eran extremadamente prósperas.Solo los espíritus encantadores eran comparables a ellos en el Mundo Espíritu del Cielo.Este era el patio de recreo de los espíritusencantadores, los treants y los demonios de mar.En cuanto a las otras razas, como los humanos y los golems, se los consideró muy raros en este mundo.Esto era doblemente cierto para la raza humana;eran raros hasta el punto de ser extremadamente preciosos.Isla Dorada era un linaje muy poderoso en el Mar de Jade e incluso en todo el Mundo Espíritu del Cielo.Como linaje de Treants, tenía dos padres árbol.Esta gran herencia les permitió andar orgullosamente por todo el mundo.Un ambiente festivo estaba en el aire hoy porque Isla Dorada estaba celebrando una competencia de novios.Si se selecciona, el ganador tomaría al descendiente principal de Isla Dorada como su esposa.Esta vez, solo a los hombres de la raza humana se les permitió participar.En el Mundo Espíritu del Cielo, cuando un linaje o una raza querían un novio o un príncipe, solo exigirían hombres humanos.Las princesas y descendientes con líneas de sangre extremadamentepoderosas o incluso aquellas que alcanzaron el atavismo deseaban unmatrimonio con hombres humanos.Los humanos eran muy escasos en Mundo Espíritu del Cielo.Al mismo tiempo, tenían un trabajo especial: ¡el semental de engendramiento!Su trabajo era crear descendencia con treants, demonios de mar e incluso espíritus encantadores.(jajaj esperare el comentario del cus02 probablemente hablando de profanar arbolesxD)Por supuesto, esas razas con líneas de sangre ordinarias que se aparean con humanos no tuvieron un gran efecto. Sinembargo, si heredaban una poderosa línea de sangre y alcanzaban elnivel de atavismo, entonces la superioridad del engendramiento con los humanosse haría obvia.
+
+Si las tres grandes razas se aparearon entre sí, todavía existía la posibilidad de dar a luz a un poderoso linaje. Sin embargo, era más probable que el niño heredara la línea de sangre más débil.
+
+Aunqueaparearse dentro de la misma raza podría resultar en una línea desangre aún más fuerte para su descendencia, la probabilidad de unareproducción exitosa fue abismal.
+
+¡Unespíritu encantador con una poderosa línea de sangre apareándose con otro espírituencantador tenía muchas posibilidades de dar a luz a un solo hijo oincluso ninguno!
+
+Poderosas líneas de sangre compitieron entre sí, por lo que fue difícil para una verdadera integración de la descendencia.Y aquí fue donde entró la raza humana.Fue la raza con el poder reproductivo más fuerte: nadie negaría esta afirmación.
+
+Almismo tiempo, el apareamiento entre un ser humano y uno con una línea de sangre poderosa daría lugar a una gran integración con las propias líneas desangre de las tres grandes razas.
+
+Por ejemplo,cuando un espíritu encantador se apareó con un golem, su descendenciatenía una gran posibilidad de heredar las características de ambasrazas.
+
+Este no fue el caso cuando se apareó con un ser humano. Lalínea de sangre del espíritu encantador mantendría su pureza, mientrasque la línea de sangre humana no competiría activamente contra ella. Loque es más importante, incluso si ambas líneas de sangre tuvieran elmismo poder, la línea de sangre humana a menudo sería suprimida por lalínea de sangre de las otras razas. Sus descendientes soloheredarían los rasgos de losespíritus encantadores o demonios de mar mientras renunciaban a la poderosa línea de sangre humana.Amenos que esta línea de sangre humana fuera del nivel del Emperador Inmortal,las otras tres grandes razas tenían una ventaja absoluta al transmitirsu línea de sangre.¡Debido a esto, los humanos tenían un papel extraordinario como sementales en el Mundo Espíritu del Cielo!
+
+En la raza humana, tanto los mortales como los cultivadores eran bienvenidos siempre que tuvieran un fuerte pedigrí. Algunos incluso fueron tratados como tesoros y se ganaron el favor de otras razaspoderosas.Esta selección de novios en Isla Dorada tuvo muchos cultivadores humanos decentes participando. Deben pasar el primer examen de la isla.
+
+Cuanto más fuerte sea la línea de sangre humana, mayor será la capacidad reproductiva al aparearse con un espíritu encantador. Tal línea de sangre fue especialmente popular y amada.
+
+Enlos tiempos actuales, cuanto más fuerte era el linaje, mejor era elmétodo que tenían para medir la línea de sangre de uno: esto era cierto tantopara los linajes de espíritu encantador como de los treant.
+
+La prueba se llevó a cabo en una plataforma alta con una poderosa matriz que la rodea. Las superficies fueron creadas a partir de jades refinados. Solo las personas con líneas de sangre poderosas podrían atravesar estas superficies de jade.El número de superficies pasadas fue la medición de la línea de sangre de uno.Hoy, el resultado final del examen fue determinado.Un joven muy fuerte había cruzado más de treinta superficies de jades refinados para convertirse en el ganador.Se paró en la plataforma y levantó los brazos mientras gritaba emocionado: "¿Quién más quiere asumir este desafío?"Este joven musculoso tenía cabello dorado al igual que un león, mientras que su energía de sangre era bastante pura.Esto significaba que su línea de sangre era poderosa y pura;una línea de sangre humana verdaderamente incomparable.Los ancianos de Isla Dorada asintieron con satisfacción después de ver esto.El examen de línea de sangre en este lugar tenía un total de 108superficies y podría decirse que es el campo de pruebas más completo delmundo.Hasta ahora, nadie había sido capaz de atravesar todas estassuperficies, pero si alguien podía, significaba que su línea de sangreera absolutamente inigualable.En este día y edad, una línea de sangre humana que podría penetrar a través de treinta superficies ya era bastante excepcional.Después de todo, los nueve mundos habían sido cerrados el uno al otro durante unos buenos treinta mil años.No se había agregado sangre nueva al Mundo Espíritu del Cielo, por lo que la línea de sangre de la raza humana estaba en declive.(apuesto a que llega li qiye volando y ya tendra otra novia xD)"¿Nadie? ¿Alguiense atreve a enfrentar este desafío? "El joven se quedó allí de pie y seflexionó para mostrar sus músculos mientras gritaba.
+
+En su opinión, convertirse en el novio de Isla Dorada era lo mismo que una carpa convirtiéndose en dragón. Se convertiría en un pez gordo de la noche a la mañana.
+
+"¡Swoosh!" En este momento, una figura de repente brilló a través del cielo desde el horizonte distante. Antesde que nadie supiera lo que estaba pasando, esta figura se estrellócontra el joven en la plataforma con un fuerte golpe y le hizo sangrar.
+
+Después de estrellarse contra el joven, esta figura continuó.
+
+"¡Boom! ¡Boom! Boom! "La figura al instante se estrelló a través de las 108 superficies de jade en la plataforma.
+
+"¡Boom!" Cuando esta figura atravesó todas las superficies, toda la matriz se activó y un poderoso rayo los envolvió de repente. La formación aquí fue estimulada por esta poderosa línea de sangre y comenzó a emitir infinitas runas de dao.
+
+Las runas de dao rodeaban esta figura como si quisieran analizar su línea de sangre y su origen.

@@ -1,0 +1,47 @@
+---
+titulo: "Capítulo 726: ED  Emboscado"
+numero: 726
+novelaId: "48"
+---
+
+"¿Una existencia más poderosa que el Padre árbol Allpine?¿Quién podría ser en el Mundo de la Medicina de Piedra? "Después de escuchar esto, la señora no pudo evitar ser movida.En este mundo, todos sabían del prestigio del padre árbol.Aunque no pretendía ser un Godking, muchas personas en este mundo lo respetaban como a uno.Durante muchas generaciones, era de conocimiento común que fuera delos emperadores inmortales, sería difícil encontrar a alguien más fuerteque él.La señora había escuchado que existían algunas existencias incluso másfuertes que el padre árbol, pero nunca las había visto oescuchado que se mostraran.TieYi negó con la cabeza y dijo: "No conozco los detalles, solo escuchéque elSupremoSer Celestial Ye Qingcheng es increíble y en realidadlogró convencer a algunos viejos imperecederos para que salgan.Un viejo imperecedero que había dormido durante millones de años también resultó ser su protector de dao "."¿Gigante invencible?" Li Qiye sonrió y dijo: "¿Y qué?¡Aquellos que bloqueen mi camino, no importa quiénes sean, serán asesinados sin piedad! "Habiendodicho eso, echó un vistazo a Tie Yi y dijo indiferente: "Parece que tusnoticias están al día, realmente sabes muchas cosas".
+
+"Jaja, gracias por tu elogio. Este pequeño solo ha escuchado rumores, eso es todo." Tie Yi se frotó las palmas y sonrió irónicamente de una manera muy humilde.
+
+Li Qiye solo sonrió y no ahondó más. Él dijo: "Vamos a ir. Una vez que nos establezcamos y preparemos los ingredientes, comenzaré el caldero para ti ".
+
+Tie Yi se emocionó e inmediatamente respondió: "Gracias, Joven Noble. Mientras Joven Noble dé la orden, la obedeceré incluso a riesgo de mi vida ".
+
+Li Qiye no dijo nada más y subió a su carruaje para continuar el viaje. Sin embargo, no llegaron lejos cuando de repente, un zumbido sonó en la distancia. Una runa dao apareció sobre ellos y se convirtió en una antigua formación a una velocidad increíble."¡Whooosh-!"La antigua formación de repente llovió innumerables flechas querápidamente sellaron el radio circundante de mil millas.
+
+"¡Nos están tendiendo una emboscada!" Gritó la señora con una expresión de asombro. En el momento en que quiso proteger a Li Qiye, descubrió que la lluvia de flechas del cielo no apuntaba hacia ellos.
+
+"¡Clank!" Apareció el sonido de una serie de cadenas haciendo ruido. Enun abrir y cerrar de ojos mientras la señora estaba sorprendida, todoel espacio estaba sellado por las flechas que se convirtieron en unacerradura gigante.
+
+Esta antigua cerradura podría sellar los cielos de arriba y suprimir el infierno abajo. De repente apareció con la intención de sellar todo el grupo.
+
+"Esto es ..." En esta fracción de segundo, tanto la señora como Tie Yi estaban asombrados ya que no podían moverse;era como si sus cuerpos estuvieran encadenados por algo.Incluso Li Qiye no fue la excepción. Una gigantesca cerradura capaz de sellar incluso el tiempo mismo lo atrapó a pesar de su increíble poder.
+
+Sin embargo, Li Qiye mantuvo la calma a diferencia de la atemorizada señora y Tie Yi. Solo sus ojos se estrecharon mientras miraba la formación en el cielo.
+
+"Moo-" Durante este momento peligroso, el Draco-Toro Imperial usó una fuerza increíble para escapar de la cerradura. ¡Rugió y tiró del carruaje hacia el cielo! Atravesó miles de millas en un abrir y cerrar de ojos a una velocidad asombrosa.
+
+Justo cuando escapó del borde, la formación en el cielo emitió una luz brillante. Incontables flechas, una vez más, se dispararon sobre la tierra para crear una nueva cerradura para sellar el toro una vez más.
+
+Sinembargo, mientras el toro atravesaba el cielo, era como un dragónvolando en los nueve cielos y parecía ser capaz de escapar de lasataduras de las leyes del mundo. Parecía haber eludido el tejido del espacio y el tiempo.No importaba lo que la cerradura intentara hacer, no podía detener al toro.Con detonaciones continuas, el toro pudo alejar el carruaje del radio de mil millas que abarcó la formación y cruzó la tierra.En un abrir y cerrar de ojos, viajó más de un millón de millas.¡Esa velocidad aturde a casi cualquier persona!Por supuesto, su gran nombre no era solo para mostrar.Para cuando el toro se detuvo, había escapado por completo de la formación;las cerraduras alrededor de la Señora Zi Yan y compañía desaparecieron.La señora finalmente se calmó, pero todavía estaba muy conmocionada a pesar de ser un Rey Celestial.Ella tomó un descanso profundo y dijo: "¿Quién nos emboscó?¡Temo que esa formación sea del nivel del emperador o de Godking!"Ellaera bastante poderosa, pero el sello de la cerradura en el cielo lahabía dejado inmóvil sin ninguna oportunidad de resistirse.¡Una supresión tan poderosa la asombró!"¿Es ese grupo del Templo de la Nube Blanca?" Preguntó la señora con dudas.Anteriormente, tuvieron una pelea con el templo, y ahora, de repente, alguien los tendió una emboscada.Esto fue bastante una coincidencia.Tie Yi se estremeció y exclamó horrorizado: "La persona que nos tendió una emboscada debe ser al menos un maestro legendario.¡Incluso si no son un Monarca Dios, todavía serían un Paragon Virtuoso increíble!"Li Qiye miró a Tie Yi antes de hablar despreocupadamente: "Lo averiguaremos de inmediato si volvemos y echamos un vistazo"."¿Volver?" La señora se estremeció y dijo: "El enemigo aún podría estar allí.Si volvemos ahora, ¿no es lo mismo que regresar a su trampa? ""¿En su trampa?" Li Qiye sonrió y dijo: "Si ya se han ido, entonces es su fortuna.Después de todo, no habría salida, de lo contrario ". Sus ojos se volvieron feroces después de terminar estas palabras.En este instante, tanto la señora como Tie Yi no pudieron evitar sentir escalofríos.Losojos feroces de Li Qiye los hicieron pensar que él era una bestiadespierta de las épocas prehistóricas, capaz de devorar el cielo y latierra.La señora tenía la ilusión de que Li Qiye estaba rechinando sus colmillos blancos, listo para hundir sus dientes.¡Él emitió un aura que infundiría escalofríos en casi cualquier persona!Dejó que el toro tirara del carruaje hacia atrás.Laseñora y Tie Yi no se atrevieron a subestimar a sus oponentes, por loque actuaron con cautela con los nervios deshilachados, prestandoatención a cada detalle.En el momento en que regresaron a donde solían estar, las antiguas flechas que bloqueaban el área habían desaparecido. La formación también se había ido, y tampoco estaba la cerradura que podía suprimir el mundo.
+
+En su lugar había otro carruaje de aspecto ordinario. Parecía que este carruaje acababa de llegar aquí también. El conductor era una mujer mayor. En este momento, ella saltó del carruaje y estaba mirando a su alrededor.
+
+"¿Quiéneres?" Después de ver a esta vieja , la señora se levantóinmediatamente y se dirigió al frente como si estuviera a punto deenfrentarse a un gran enemigo.
+
+La vieja miró a laseñora y dijo: "Señora Zi Yan, no soy su enemigo". Dicho esto, sus ojosse posaron en Li Qiye que estaba sentado en el carruaje.
+
+Lavieja pudo revelar la identidad de la señora, pero ella misma nosabía nada sobre el origen de la vieja , dejándola ansiosa. Ella no sabía si la vieja  era amiga o enemiga.No pudo evitar mirar a su Joven Maestro, queriendo dejarlo en manos de él. Li Qiye echó un vistazo a la vieja, luego en el carruaje se detuvo a un lado.
+
+Li Qiye no podría estar más familiarizado con este carruaje. Cuando viajaba hacia la Montaña Pico Celestial, ¡ya había aparecido antes! En ese momento, esta vieja también era la conductora.
+
+LiQiye dijo despectivamente: "No sé si somos enemigos o no, pero primero,salgan de su carruaje para hablar, dejen de esconderse dentro".
+
+Estas palabras hicieron que la vieja cambiara su expresión. En un abrir y cerrar de ojos, parecía haberse convertido en una persona completamente diferente.¡Sus viejos ojos absorbieron y expulsaron destellos estrellados mientras una galaxia entera emergía desde adentro!
+
+"¡¿Qué quieres hacer ?!" La señora también sintió lo aterradora que era esta mujer ante ella.Con una mirada de alarma, ¡continuó frente a Li Qiye, lista para proteger a su joven maestro!Lavieja no tomó medidas y en su lugar solo habló fríamente con Li Qiye:"Joven Noble Li, por favor habla con un poco de respeto.No queremos hacerte daño "."¿Es así?" Li Qiye dijo: "Si eres maliciosa o no, no me importa.No mucho antes de esto, me seguiste, y en el Pico Celestial , ¡también me espiaste!En ese momento, no hice nada porque estaba de buen humor.Pero ahora mismo, ese ya no es el caso.¡Ya que estás aquí, debes cumplir mi deseo! ""Joven Noble Li, eres demasiado autoritario.Este mundo es vasto, ¿quién dice que no podemos aparecer en el lugar en el que ya estás? ", Preguntó fríamente la vieja.Ella ahora estaba enojada.Tenían un origen aterrador.Los que los conocían temblarían de miedo, ¿quién se atrevería a provocarlos?Pero ahora, Li Qiye estaba actuando extremadamente dominante."No quiero desperdiciar palabras." Li Qiye no pestañeó y habló con unaactitud fría: "¡Ahora, sal de tu carruaje o lo destrozaré!"La expresión de la vieja se agrió.En este momento, su energía de sangre estalló en el cielo como un Dragón Verdadero volando en el aire.Ella pronunció fríamente: "Joven Noble Li, ¿de verdad crees que eres invencible en este mundo?"La erupción de su energía de sangre asombró tanto a la señora como a Tie Yi.¡Claramente sabían que esta vieja era una aterradora y absolutamente increíble Paragon Virtuoso!

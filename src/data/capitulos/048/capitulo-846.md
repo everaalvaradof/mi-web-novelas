@@ -1,0 +1,49 @@
+---
+titulo: "Capítulo 846: ED  Tumba Ancestral"
+numero: 846
+novelaId: "48"
+---
+
+Despuésde la declaración del Joven Rey de la Matriz Celestial, muchoscultivadores y sectas corrieron rápidamente alrededor de las ruinas paratratar de encontrar la entrada antes que los demás.Querían entrar en el mundo bestia antes de que el acuerdo entrara en vigor.Al mismo tiempo, un pez gordo hizo su entrada en las ruinas.Una luz dorada barrió el cielo.Fue extremadamente dominante y causó explosiones en toda el área.Una enorme figura en forma de un enorme Cuervo Dorado apareció sobre las ruinas, borrando el sol.Varios soles se levantaron de sus alas y comenzaron a flotar como si estuvieran a punto de quemar las ruinas."El Príncipe del Cuervo Dorado también está aquí". Mucha gente respiró hondo después de ver a este cuervo dorado volando en el cielo.Todos en el Reino de las Bestias conocían su poder.No solo era el descendiente del barranco sino también el nuevo maestro de la tribu del Cuervo Dorado.Solo la tribu del Cuervo Dorado era lo suficientemente aterradora, sin mencionar el barranco que tenía dos emperadores.Su tribu se consideraba descendiente del Dios Sol con un linaje divino.Esta sangre permitió a sus miembros tener varias ventajas innatas que no estaban disponibles para las otras tribus demonio.Primero, tenían una velocidad suprema. Segundo, tenían cuerpos poderosos; un rumor decía que sus cuerpos podían estar a la altura de los  físicossantos. En tercer lugar, sus afiladas garras podrían destrozar todo.Fueron elogiados como una de las tribus demonio más poderosas del Mundo de la Medicina de Piedra.
+
+El Príncipe del Cuervo Dorado entró en las ruinas y rodeó el área como si estuviera buscando a alguien.
+
+En solo unos pocos días, las ruinas abandonadas se volvieron animadas. Muchos linajes establecieron campamentos para convertirse en los primeros en entrar en el mundo bestia.
+
+Mientras tanto, Li Qiye había caminado por toda la zona mientras imprimía las leyes de su Capítulo de la Muerte en el suelo.
+
+Lasruinas tenían diez millones de millas de ancho, por lo que Li Qiyejunto con Jian Wushuang y Long Jingxian parecían estar de vacacionesmientras atravesaban las llanuras.De hecho, cada uno de sus pasos estaba destinado a imprimir leyes de muerte que llegarían a formar una red ineludible.Finalmente, terminó sus preparativos y entró en un estrecho valle que conducía a un santuario abandonado.Este santuario estaba hecho jirones y viejo con paredes derrumbadas.Sin embargo, los pilares principales de este santuario se mantuvieron firmes.Li Qiye caminó alrededor de estos pilares y los movió.Cuando se volvieron a colocar en cierto ángulo, se podía escuchar un sonido de chasquido.La pared en el frente del templo se resquebrajó.Una escalera de piedra emergió, conduciendo todo el camino hacia elsuelo, hacia la oscuridad como si fuera la entrada al infierno."Interesante". Long Jingxian vio estos escalones y su ser juguetón  estaba listo para precipitarse.Sin embargo, Li Qiye la arrastró hacia atrás.Li Qiye sacudió suavemente la cabeza y dijo: "Tenga cuidado, este no es un lugar para perder el tiempo".
+
+Él la acercó más y le ordenó: "Sígueme detrás, no es un asunto divertido." Dicho eso, bajó los escalones de piedra.Las dos siguieron atentamente detrás de él por los escalones.Caminaron por este camino durante un tiempo desconocido antes de llegar finalmente al final.Al final había un vasto espacio con muchos pilares de piedra imponentes, como si soportaran el peso de la tierra.Estos pilares fueron diferentes de los anteriores.Los de aquí fueron tallados en diferentes formas.Uno tenía la cabeza de un halcón en un cuerpo humano, mientras que otro tenía el cuerpo de una serpiente con cabeza humana.Era más exacto llamar a estas estatuas pilares.Una vez que el grupo llegó, estos pilares se iluminaron y surgieronfiguras de cada uno de los pilares que correspondían a lascaracterísticas de las tallas.Cada figura era como un dios demonio saliendo de las piedras.¡Todos ellos también estaban llenos de energía de muerte!"Humano, no deberías haber venido a este lugar". Una voz profunda resonó desde debajo de ellos y reverberó en la zona."Interesante, estoy ansiosa por pelear." Long Jingxian inmediatamentese limpió las manos y se preparó para luchar contra las figurasimponentes.Li Qiye inmediatamente la detuvo y echó un vistazo a las figuras que se acercaban a ellos.Él ni siquiera pestañeó cuando declaró: "¡Lárgate o voy a excavar todo este lugar!""Humano, ¿sabes dónde estás? ¡Este es el dominio del dios de la muerte! "La voz profunda se mantuvo en este espacio.
+
+"No traten de considerarse dioses". Li Qiye dijo despectivamente: "¡Todos ustedes son solo sentimientos no dispersos! Hoy, estoy aquí para pedir prestado un cadáver. Bloquea mi camino y destruiré este lugar! "
+
+Habiendo dicho eso, él abrió su mente, causando que su mar de recuerdos se iluminara. Las leyes universales de dentro se entrelazaron para formar instantáneamente una orden antigua.
+
+Esta orden se imprimió en el espacio de abajo con un zumbido.Con esto, parecía haber dejado una marca indispensable para toda la eternidad.
+
+"¡Hmph!" La voz profunda frunció el ceño después de ver esta antigua orden.Sin embargo, las figuras lentamente retrocedieron a sus pilares después de que la impresión fue plantada.
+
+Jian Wushuang se sobresaltó después de ver esto.Aunque estas figuras habían muerto y solo eran sentimientos, eran absolutamente poderosas, mucho más que Paragones Virtuosos.Sinembargo, incluso estos sentimientos poderosos retrocedieron como unamarea que retrocedía frente a la ordenantigua de Li Qiye. Esto fue bastante sorprendente."¡Guau!"Long Jingxian estaba emocionada y sus ojos se iluminaron cuandoexclamó: "Apestoso Qiye, este movimiento tuyo es demasiado dominante ygenial, enséñame, ¿quieres?"
+
+Li Qiye solo sonrió en respuesta. Esto no era algo que se pudiera enseñar por capricho. Enel pasado, se quedó en este lugar después de la destrucción del Reinode la Bestia Divina porque no tenía demasiados vínculos con el reinode las bestias. Dejó un sello que le pertenecía, por lo que tenía el control absoluto de esta área. Era una tarea simple si él deseaba destruir todo el lugar.
+
+El grupo atravesó muchos pilares antes de llegar a un lugar diferente debajo del santuario. Una serie de tumbas enormes surgieron repentinamente del suelo. Estas tumbas no tenían lápidas y eran gigantescas como si enterrasen gigantes.
+
+"¿Qué son estos?" Jian Wushuang se sorprendió al ver estas tumbas gigantescas.Long Jingxian miró a cada uno y alegremente exclamó: "Jaja, este es un lugar agradable con artículos increíbles dentro. Aunque su divinidad ya no existe, ¡todavía son buenas cosas!"
+
+Como alguien con un Destino Inmortal, tenía una gran ventaja en este aspecto en comparación con Jian Wushuang. Solo un vistazo fue suficiente para que ella obtuviera una pista o dos de estas tumbas.
+
+"Esta es la tumba ancestral del Reino de la Bestia Divina". Li Qiye dijo sonriendo.
+
+JianWushuang saltó de la sorpresa y espetó: "¿Estás diciendo que los tresEmperadores Inmortales del reino de las bestias están enterrados aquí?"
+
+"Por favor, Jian Wushuang, ¿todavía te llamas descendiente imperial? ¿De verdad crees que los Emperadores Inmortales morirían en este lugar? "Long Jingxian la reprendió.
+
+JianWushuang la miró por un momento antes de soltarla fríamente: "¿Quésabes? ¡Cargar con la Voluntad del Cielo no significa que los EmperadoresInmortales tengan una vida por siempre!""Esto no tiene nada que ver con los Emperadores Inmortales.De hecho, no tienen ninguna relación con el Reino de la Bestia Divina. "Li Qiye sonrió y negó con la cabeza:" ¿Ustedes dos conocen elverdadero origen del Reino de la Bestia Divina? "Long Jingxian respondió de inmediato: "Sé un poco sobre esto.La leyenda dice que el Reino de la Bestia Divina se llamaba a sí mismo descendiente de las bestias divinas.Eran los tiranos de la antigüedad y una vez reinaban en los nueve mundos.Desafortunadamente, después de un gran desastre, solo quedó una rama "."Solouna tonta como tú podría creer esta tontería". Jian Wushuang resopló ydeclaró: "Si el Reino de la Bestia Divina consistiera en verdaderasbestias divinas ... Hmph, otros linajes como el Reino Alquimista noserían nada ante ellos.El reino de las bestias ya habría barrido los nueve mundos.Solo mira hacia atrás cuando apareció el cadáver del fénix en el reino.Esa era una verdadera bestia divina;solo su cadáver podría matar a Monarcas Dios como perros.Si los del reino de las bestias fueran verdaderas bestias divinas, ¡entonces cuán poderosos hubieran sido !?""Bah, me gustan más las leyendas vagas como esta, ¿qué vas a hacer al respecto?" Replicó Long Jingxian inmediatamente.Li Qiye puso fin a esto: "Bien, ustedes dos, terminen.Estrictamente hablando, el Reino de la Bestia Divina no tiene nada que ver con las bestias divinas.Sin embargo, uno tiene que admitir que, como raza demonio, tienen ciertas divinidades de las bestias divinas "."¿Qué quieres decir?" Long Jingxian preguntó con curiosidad.
+
+Li Qiye explicó: "Los ancestros del Reino de la Bestia Divina fueron muy afortunados. Por casualidad, se encontraron con un reino celestial en el cielo. Enel interior, pudieron obtener grandes objetos y, lo que es másimportante, una gran cantidad de cadáveres de bestias divinas ".
+
+"¿Cadáveres de bestias divinas?" Jian Wushuang se sorprendió a pesar de provenir de un linaje imperial. Los cadáveres de estas bestias eran increíbles; eran los mejores materiales sin importar la época.
+
+"La mayoría eran huesos lisiados. Estos huesos habían perdido su divinidad y no tenían uso, pero ellos aún tenían mucha suerte.El tiempo no pudo erosionar a todos estos cadáveres divinos.Algunos de ellos mantuvieron cierta divinidad.Sinembargo, ¡la parte más crucial y preciosa es que algunos de estoscadáveres todavía tenían un poco de sangre verdadera! "Dijo Li Qiye.

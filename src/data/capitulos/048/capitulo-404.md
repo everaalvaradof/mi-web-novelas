@@ -1,0 +1,51 @@
+---
+titulo: "Capítulo 404: ED  La tormenta de un matrimonio"
+numero: 404
+novelaId: "48"
+---
+
+Tenga encuenta que un Soberano Joya no lanzaría palabras vacías, por lo quecualquiera que escuchara estos consejos se asustaría de su mente.
+
+Noera difícil para un Soberano Joya matar a un joven discípulo,especialmente si él tomaba acción personalmente cuando estaban afuera.
+
+Lu Baiqiu, como Señor de la Región, había experimentado muchas cosas. Ella sintió un escalofrío después de escuchar una amenaza tan flagrante. Li Qiye estaría realmente en peligro si un Soberano Joya como el anciano Lin deseaba hacer tal cosa.
+
+"¿Amenazarme?"Por otro lado, Li Qiye seguía tranquilo mientras sonreíatranquilamente: "En realidad quiero ver cómo lo llevarás a cabo. Anciano Lin, déjate llevar. He tomado mi decisión con respecto a este matrimonio. En cuanto a su discípulo idiota, Yan Long, no es digno de mi mujer.¿Un tonto como él quiere probar la carne de un cisne?Ni siquiera en su próxima vida podría hacerlo."¡Tú!" La expresión del anciano Lin se agitó bastante. Como un anciano respetado del Río Carpa Milenaria, un Soberano Joya como él rara vez salía a ocuparse de cosas mundanas. Esta vez, tuvo que interferir a causa de su propio discípulo. Sin embargo, este desconocido joven rechazó su petición e incluso se atrevió a mirarlo con desdén. ¿Cómo no podía volverse furioso y lleno de intenciones asesinas?
+
+Li Qiye se mantuvo tranquilo y relajado ante el atemorizante aura asesina del anciano Lin, pero Lu Baiqiu se puso pálida. Ella comprendió cuán aterrador era un Soberano Joya cuando decidieron tomar acción.
+
+"¡El anciano Lin también está aquí, ah!" En medio del aura asesina, una voz clara vino desde afuera.En ese momento, Lan Yunzhu estaba de pie junto a la puerta y preguntó: "¿Qué negocios tiene el anciano Lin en este lugar?""Mi buenasobrina, Lan." El anciano Lin convergió su aura asesina y dijo con unasonrisa: "Nada, estoy charlando con Joven Noble Li un poco. Si has vuelto, entonces no les molestaré a los dos! "Habiendo dicho eso, se volvió y se fue.
+
+Despuésde que él se fue, Lan Yunzhu miró a Li Qiye quien se encogió de hombrosy dijo: "No es nada, sólo una buena vieja amenaza. Pequeña Chica, ser tu prometido no es fácil. Estoy con un poco de dolor, por lo que tendrá que ofrecer una indemnización. "
+
+LanYunzhu lo miró severamente y luego, desgraciadamente, dijo: "-¡Desdecuándo los forasteros dictaron mi matrimonio!" Por supuesto, se estabarefiriendo al anciano Lin.
+
+"Heh, no necesariamente.Túeres la descendiente de la secta del río, así que ¿crees que de hechote dejarían casarte con un extraño? "Li Qiye sonrió y lentamentecontinuó:" Sé que realmente quieres casarte conmigo, pero hay algunascosas sobre las que no tienes control. ""Bah, nohay necesidad de alabarte a ti mismo, ¿quién querría casarse contigo?"Lan Yunzhu contestó airadamente, luego añadió ligeramente con un rayo deobstinación en sus ojos: "¡Mi matrimonio será decidido por mí misma!"
+
+"¿Puedes lidiar con los ancianos de tu secta?" Li Qiye sonrió y preguntó. Como descendiente de la secta del río, su matrimonio era ciertamente un asunto difícil de resolver. A pesar de ser su asunto personal, la secta definitivamente interferiría.
+
+LanYunzhu miró a Li Qiye y dijo: "El hermano mayor Yan Long puede teneralgunos ancianos apoyándolo, pero eso no significa que yo no tenganinguno en la secta también! No te preocupes, el abuelo Yang nos apoyará."
+
+"¿Abuelo Yang?" Li Qiye entrecerró los ojos y le preguntó mientras miraba a Lan Yunzhu: "¿Una persona de tu pueblo recuerdo altísimo?"Lan Yunzhu asintió y respondió: "Sí, el abuelo Yang es parte de la generación más antigua de nuestro pueblo.En este momento, él también es un anciano alto en la secta, así que amenos que un ancestro salga a interferir, el anciano Lin y los demás notendrán ninguna palabra tampoco! "En el Pueblo Recuerdo Altísimo, los hombres tenían el apellido Yang mientras que las hembras llevaban el apellido Lan.Porotra parte, el pueblo no tenía sólo Lan Yunzhu como un genio, ya quehabía producido muchos grandes personajes antes de ella.El "abuelo Yang" al que Lan Yunzhu se refiere es un anciano mayor del río Carpa Milenaria, así como su guía de dao."Hey,¿estás intentando usarme como una cuchilla?" Li Qiye la miró y dijo: "Paradecirlo con franqueza, simplemente no quieres casarte con Yan Long nicon un hermano marcial diferente, así que ahora mismo has elegidono cancelar este matrimonio.¡Estás intentando aprovechar esta oportunidad para escapar de tus propios problemas! PequeñaChica, ésta es la lucha interna de tu secta, no tiene nada que ver conmigo."Lan Yunzhu lo miró y respondió: "-¿Entonces?¿Tienes miedo?Si usted lo tiene, entonces usted puede optar por salir ahora.No voy a culparte, y voy a lidiar con mis propios problemas. "Eljuramento de Lan Yunzhu bajo el Árbol Desea Sueño del pueblo no fue sólo por sus padres, también quiso usarlo comouna excusa para escapar del matrimonio forzado de los ancianos de lasecta. No quería casarse con ningún hermano de la secta, incluyendo al hermano mayor Yan Long.
+
+Sucedeque, muy convenientemente, Li Qiye obtuvo su colgante de jade y se vioenvuelta en la lucha interna del río Carpa Milenaria.
+
+"¿Miedo? "Li Qiye no pudo evitar revelar una sonrisa natural:" El río Carpa Milenaria por sí solo no es suficiente para asustarme. Sin embargo, hay un dicho - con los méritos vienen recompensas. Si quieres usarme como una herramienta, Pequeña Chica, ¿no crees que deberías darme algo a cambio? ¿Qué tal esto, calentarás mi cama esta noche? "
+
+"¡Vete al infierno!" La ruborizada Lan Yunzhu lanzó una furiosa patada, pero Li Qiye fácilmente la esquivó."Pequeña Chica, deja de ser tan poco femenina. ¡No seas tan grosera así! "Li Qiye extendió la mano y le dio una nalgada, luego dijo con una carcajada.
+
+MientrasLan Yunzhu temblaba de rabia, Lu Baiqiu rió entre dientes porque, ensus ojos, los dos parecían estar flirteando como recién casados.
+
+Mientras Li Qiye y Lan Yunzhu iban y venían uno al otro, el Río Carpa Milenaria tuvo una reunión con todos los ancianos.Esta vez, fue dirigido personalmente por el maestro de la secta, el Daoista Bao Gui.
+
+"En cuanto a este compromiso ... ¿Qué tal si dejamos que Yunzhu decida?" El daoísta Bao Gui comenzó la reunión.Estose vio con la fuerte oposición de muchos ancianos, y uno de ellosdeclaró: "Hermano mayor, ¿cómo podemos tratar un asunto tan importantetan trivialmente?Esto no es sólo sobre el matrimonio de Yunzhu, sino que tambiéninvolucra la subida y caída de nuestro río  Carpa Milenaria en el futuro "."Maestro de secta, un joven no puede decidir este asunto." Por supuesto, lamayor oposición provino del anciano Lin, el maestro de Yan Long.El anciano Lin dijo gravemente: "Ese joven, Li, vino con intenciones desconocidas.Tal vez es incluso malicioso.Si él tiene intención de dañar a nuestra secta, ¿no sería lo mismo que llevar a un lobo a nuestra casa?Sin mencionar, nuestra secta es el linaje de un emperador y Yunzhu es nuestro futuro descendiente de dao.Su estatus solo exige una selección muy estricta para su pareja"."¡Elhermano Lin tiene mucho sentido!" Otro anciano repitió el sentimiento:"Hermano mayor, no podemos tomar este asunto a la ligera.Si ese chico no quiere cancelar este matrimonio, entonces podemos usar la fuerza.Él es sólo un don nadie, así que no puede causar ninguna agitación ".El daoísta Bao Gui frunció el ceño ante esa conducta y sacudió la cabeza:"Olvidar el hecho de que Yunzhu no aceptará tales acciones, tampoco esapropiado para nuestro río Carpa Milenaria.Somos linaje de un emperador, no hemos caído hasta el punto de cometerun acto tan vil para degradar el prestigio de nuestro patriarca "."Este asunto tiene que ser decidido por Yunzhu.Alfinal, esto también es una parte del destino, por lo que si Yunzhusiente que no son un buen partido, entonces todavía no sería demasiadotarde para disolverlo.Sin embargo, si a Yunzhu le gusta, entonces los ancianos como nosotros no debemos rechazarlo necesariamente.No es tan malo dejar que ese pequeño individuo entre en el río Carpa Milenaria.Alhacerlo, cortará las preocupaciones mortales de Yunzhu para que puedaalcanzar el pico en paz en el futuro. "No todos los ancianos seopusieron a este matrimonio;algunos eran realmente de apoyo."Esotambién estaría bien." Otro anciano continuó: "Este matrimonio fuedecidido por el destino, así que tal vez sea algo bueno para Yunzhu.El gran dao es largo con los caminos en disminución;si ella puede encontrar el compañero dao adecuado para caminar juntos, entonces será muy beneficioso para su futuro camino ".Aunque este asunto parecía ser sobre un matrimonio simple, era una batalla interna dentro de la secta. Y,por supuesto, como descendiente de la secta, Lan Yunzhu también teníael apoyo de un buen número de ancianos e incluso un anciano mayor.
+
+"¡Estoes una tontería!" La actitud del anciano Lin era muy agresiva mientrasdecía gravemente: "¿Cómo podría ese mocoso Li ser de alguna ayudapara el futuro camino de Yunzhu? Hmph, ya sería una bendición si no la ralentizara! Sihabláramos de ayudar al futuro camino de Yunzhu, entonces loscompañeros dao más apropiados para ella serían los discípulos jóvenes denuestra secta."
+
+"Por ejemplo, Yan Long es el mejor candidato. Los talentos de Yan Long son sólo más débiles que los de Yunzhu entre la generación más joven. Por no mencionar, él había cultivado por un tiempo más largo con gran experiencia y madurez. "
+
+El anciano Lin continuó: "¿Cómo puede alguien ser su compañero de dao si no nuestros propios estudiantes?"Unos cuantos ancianos estaban insatisfechos con el anciano Lin tratando constantemente de emparejar a Yan Long y Yunzhu juntos. De hecho, una vez lo había hecho antes, pero fue rechazado por Lan Yunzhu y el maestro de secta.
+
+A pesar de este revés, el anciano Lin no renunció a Yan Long ya que Yan Long siempre quiso casarse con Lan Yunzhu.
+
+"Hermano menor Lin, no traiga a Yan Long en este momento. Tenemos que hablar sobre este compromiso primero. "Daoista Bao Gui sacudió suavemente la cabeza y dijo.

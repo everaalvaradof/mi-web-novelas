@@ -1,0 +1,71 @@
+---
+titulo: "Capítulo 595: ​ Culpable principal"
+numero: 595
+novelaId: "49"
+---
+
+"¿Qué... qué dijiste?" El tono de la Pequeña Emperatriz Demonio era profundo y rígido, y revelaba una confusión increíble y violenta.
+
+“¡Oh!” el Duque Ming alzó los ojos, miró a Yun Che con cierto interés y dijo: “Este Duque no parece entender bien lo que está diciendo.”
+
+El rostro de Yun Che reveló una mueca de desprecio, y sus ojos incluso mostraron obvio desdén y burla: "Usted Duque Ming, tiene la ambición de hacerse cargo del mundo, tiene una fuerza inigualable, una mente calculadora que incluso los fantasmas y los dioses no pueden tener y un corazón que es diez mil veces más vicioso que las serpientes y los escorpiones... Originalmente pensé que eras una persona formidable que no podía ser más calificada, pero demasiado mal... viéndote hoy, parece que tú sólo eres un pollo que sólo se atreve a hacer pero no se atreve a confesar, realmente me decepciona."
+
+"¿Tienes un deseo de muerte?" Duque Huai instantáneamente se puso furioso, y abruptamente alcanzó y agarró hacia Yun Che. Esta fue la primera vez en toda su vida que vio a alguien realmente insultar a su propio padre.
+
+Sin embargo, el Duque Ming extendió la mano y detuvo al Duque Huai, siguió levantando la cabeza y riendo en voz alta: "¡Hahahahahaha! Eres realmente el joven que había hecho que mi hijo fracasara miserablemente. Tu boca y su mente tortuosa son muy afiladas como cuchillos, y tus palabras son tan duras que este Duque ni siquiera sabe cómo responder.”
+
+Duque Ming entrecerró los ojos una vez más. La luz procedente de la estrecha y larga hendidura de sus ojos era aún más aterradora que aquellos que venían de una serpiente venenosa: "Este Duque sabe que estás tratando de dilatar el tiempo. Sin embargo, hay muy pocas cosas en este mundo que interesan a este Duque, y muy pocas cosas que quiero saber la respuesta a que es triste, por lo que este Duque va a concederle un poco más de tiempo para vivir. Dile a este Duque, ¿qué más sabes?”
+
+Las palabras que dijo el Duque Ming no eran una pregunta, sino una confesión implícita. La respiración de la Pequeña Emperatriz Demonio estaba completamente desordenada, y las llamas de su cuerpo subieron de repente, y la llama que ardía en sus ojos no era simplemente la llama del Cuervo Dorado, sino que era como un odio espantoso del purgatorio del infierno.
+
+Yun Che se burló suavemente y dijo sin prisa: "En aquel entonces,  el Continente Cielo Profundo repentinamente invadió el Reino Demoniaco Ilusorio... ¡eso fue por tu culpa! Usted usó algún tipo de método para permitir que los Cuatro Grandes Terrenos Sagrados del Continente Cielo Profundo conocieran la existencia del ‘Espejo de Samsara’ del Reino Demonio Ilusorio que fue atesorado por el Emperador Demonio y falsificó que el ‘Espejo de Samsara’ era un artefacto inigualable, provocó su ambición y provocó también que las personas del Continente Cielo Profundo, con todos sus recursos, invadieran el Reino Demonio Ilusorio, sólo para apoderarse del Espejo de Samsara... y la razón por la que fueron capaces de invadir una y otra vez, y ser capaces de retirarse ilesos, era porque tú estabas allí, su espía por dentro!"
+
+Yun Che señaló al Duque Huai y le dijo fríamente: “¡Y la razón por la que hiciste lo que hiciste fue reemplazar al Emperador Demonio y convertirte en el dueño de Reino Demoniaco Ilusorio! La razón por la que el anterior Emperador Demonio perseguiría al Continente Cielo Profundo personalmente, no fue por culpa de la rabia y la imprudencia... ¡debe haber caído en su trampa! La muerte del Pequeño Emperador Demonio... no fue por haber actuado precipitadamente después de beber demasiado y arrastrarse violentamente al Continente Cielo Profundo, pero... ¡murió en manos de usted, Duque Ming!!"
+
+“¿Vas a negar estas cosas?”
+
+Casi cada frase que Yun Che había dicho hacía cambiar la cara del Duque Huai cada vez. En el fondo, sus ojos se llenaron de shock. Pensó que las cosas que había dicho en todo el mundo eran secretos que sólo ellos conocían, padre e hijo sabían, y que era absolutamente imposible que una tercera persona supiera... incluso aquellas personas en el Continente Cielo Profundo no sabían la identidad de su espía interior en ese entonces.
+
+Clap... clap... clap... clap...
+
+"¡Jajajaja!", El Duque Ming rió ruidosamente y aplaudió sus manos, y sus ojos estaban sin ondulaciones. "Brillante, realmente eres brillante. Yun Che, parece que no estaba mal para el hijo que estoy orgulloso de perder la cara delante de usted. Este Duque lo admitirá generosamente; Lo que dijo fue absolutamente correcto. La razón por la que estos Terrenos Sagrados del Continente Cielo Profundo invadieron el Reino Demoniaco Ilusorio fue a causa de este Duque. Este Duque simplemente les dijo entonces que el Espejo de Samsara del Reino Demonio Ilusorio que fue atesorado por el Emperador Demonio contenía un misterio profundo y divino. Si pudieran romper el secreto del Espejo del Samsara, entonces podrían romper el límite del Reino Soberano, entrar en el Reino Divino y convertirse en el legendario 'Dios Profundo'".
+
+“Esa gente era aún más codiciosa y estúpida de lo que este Duque había esperado. No sólo lo creyeron, sino un año más tarde, entonces ya no podían esperar y estaban preparándose para entrar en el Reino Demoniaco Ilusorio. Este Duque, naturalmente, estaba feliz de ayudarles a construir el túnel espacial, y decirles lo que este Duque quiere que ellos sepan... Estas personas del Continente Cielo Profundo realmente no decepcionaron a este Duque. ¡Trajeron a la Ciudad Imperial del Demonio en completo caos, e hicieron que las muertes del Emperador Demonio y del Pequeño Emperador Demonio fueran aún más perfectamente de lo que este Duque había planeado!”
+
+El Duque Ming se rió salvajemente, "¡Ja ja! Qué Profundo Tierras Sagradas, eran solamente pedazos de ajedrez que este Duque utilizó y jugó dentro de mis palmas. En cuanto a ese Emperador Demonio y Pequeño Emperador Demonio, en manos de este Duque, no eran más que dos lamentables insectos. Este Duque simplemente usó un pequeño truco y fácilmente llevó al Emperador Demonio a donde estaba el túnel espacial. Por supuesto, por estúpido que estuviera, no iría precipitadamente al túnel espacial y se suicidaría en el territorio del Continente Cielo Profundo... fue la aparición oportuna de este Duque lo que le ayudó. Princesa Caiyi, tu padre lamentable se sorprendió cuando vio la aparición de este Duque. Hasta que este Duque se acercó a una distancia de sólo dos pasos de distancia de él, no estaba en guardia, y fue golpeado ligeramente por este Duque en el túnel espacial... "
+
+Pequeña Emperatriz Demonio, "¡¡!!"
+
+"En el otro lado del túnel espacial, estaba la ‘Formación de Supresión del Alma del Cielo’ esperando por él. Tan pronto como entró en la ‘Formación de Supresión del Alma Del Cielo’, aunque tuviera la fuerza más fuerte, no podría usarla." Duque Ming se rió ligeramente, su expresión de arrogancia ilimitada fue como si todo en el mundo no podría escapar de su control. “En cuanto al Pequeño Emperador Demonio que acababa de ascender al trono, era aún más fácil. En la noche de tu gran boda, él era como tú hoy; Generosamente dio a este Duque una gran oportunidad. En realidad fue a conmemorar el anterior Emperador Demonio solo... Pero, este Duque no lo mató. Simplemente lo lisie, y lo arrojé al túnel espacial que condujo al Continente Cielo Profundo. De esta manera, no quedaría rastro de este Duque. Este Duque sólo al azar dejó algunas últimas palabras para él... Al día siguiente, todo el Reino Demonio Ilusorio sabía que el Pequeño Emperador Demonio que acababa de ascender al trono actuó precipitadamente después de beber demasiado en la noche de bodas con la Emperatriz Demonio, y fue al Continente Cielo Profundo solo... en comparación con el duelo por la muerte del Pequeño Emperador Demonio, debe haber aún más gente maldiciendo a su estupidez, jajajaja!”
+
+"¡¡¡Duque... Ming!!!"
+
+Las llamas de la Pequeña Emperatriz Demonio agitaban furiosamente, su pequeño cuerpo temblaba incluso de una manera increíblemente violenta. Yun Che, que estaba más cerca de ella, podía sentir claramente que su ira, odio e intención asesina estaban estallando tan fuertemente que casi iba a destruir por completo el espacio. Echó una ojeada a la Pequeña Emperatriz Demonio y descubrió que, aunque estaba cubierta de llamas, bajo el reflejo de las llamas de oro escarlata, su rostro todavía estaba tan pálido como una hoja de papel blanca... y en la esquina de su boca, había una sangre roja brillante que goteaba lentamente abajo.
+
+No estaba herida cuando luchaba contra el Duque Huai; Ese rastro de sangre... era de la lesión interna causada por su rabia y odio que era demasiado intenso.
+
+Y en este momento, un profundo respeto se elevó en el corazón de Yun Che para la Pequeña Emperatriz Demonio.
+
+Hasta el día de hoy, no sabía que el culpable que mató a su padre y a su hermano no era Continente Cielo Profundo, sino el Duque Ming delante de ella. Mató a las dos personas que estaban más cerca de ella, causó la extinción de la línea de sangre del clan del Emperador Demonio, causó caos en Ciudad Imperial del Demonio, e incluso perjudicó a todo el Reino Demonio Ilusorio. Yun Che podría imaginar lo fuerte que el odio y la intención asesina era
+
+Pero aun así, pudo mantener estrictamente su racionalidad y no dejó todo bajo la influencia del odio que atravesó sus huesos para atacar al Duque Ming. Porque no sólo era imposible matar al Duque Ming, cuya habilidad era increíblemente aterradora, más bien ella y Yun Che sólo morirían incluso antes... ¡En este momento, en este segundo, debe ganar cada aliento de oportunidad para vivir, así que  habría un posibilidad para su venganza en el futuro!
+
+El Duque Ming rodó los ojos, luego los estrechó y disfrutó de la expresión de la Pequeña  Emperatriz Demonio en este momento... Eso es, "disfruta". Ese odio que tan fuertemente deseaba quemar sus huesos a cenizas, ese odio que tan fuertemente deseaba arrancarle en pedazos, le hizo gozar y le dio placer, "Sabiendo la verdad, y todavía ser capaz de abstenerse de atacar a este Duque, era de esperar de la Princesa Caiyi. Vale la pena dejar que este Duque no tuviera la oportunidad perfecta de matarte por cien años. Deberías darle las gracias a este Duque, dejándote saber quién destruyó tu clan antes de morir... Oh, eso es correcto, ¿sabes entonces cuando el Pequeño Emperador Demonio vio claramente el rostro de este Duque, qué notable era su expresión? Tsk tsk, fue tan notable que incluso cuando este Duque piensa en ello ahora, me da un interminable satisfacción."
+
+"Duque... Ming...”
+
+La voz de la Pequeña Emperatriz Demonio era tan ronca y profunda que ni siquiera sonaba como la voz de un ser humano. Las dos palabras cortas eran tan frías como si fueran del purgatorio del infierno, pero no se podía comparar con una milésima parte del odio en su corazón. A pesar de que el rostro de Yun Che estaba tranquilo, el odio en su corazón no era menor que el de la Pequeña Emperatriz Demonio, porque la muerte de su abuelo, Yun Canghai, ¡también era por el Duque Ming! El descenso de la familia Yun, la tragedia de Xiao Yun y su destino... ¡todo por culpa de este Duque Ming delante de él!
+
+Respiró hondo y dijo fríamente: “Duque Ming, su palacio pudo ser un palacio real; ¡Eso fue todo por el clan del Emperador Demonio! Usted no sólo no estaba agradecido y no sirvió lealmente, sino que creció sus propias ambiciones, ¡y fueron crueles a este punto! ¿No tienes miedo de ser golpeado por un rayo por tus pecados?"
+
+“Estas palabras infantiles.” El Duque Ming sonrió con ligereza: “El emperador del mundo debe ser naturalmente alguien con habilidad. Desde el momento en que nació este Duque, estaba decidido a ser el que gobernara al pueblo bajo el cielo. Las personas que entran en el camino de este Duque, no importa quién sea, este Duque hará cualquier cosa para deshacerse de la persona. ¡Estos llamados "lealtad" y "justicia" son cosas que pertenecen a los débiles ridículos!"
+
+"Lo que usted quiere que este Duque confiese, este Duque ha confesado. Ahora, dile a este Duque, sobre la información de este Duque, ¿cómo lo averiguaste?”. El Duque Ming miró directamente a Yun Che, la mirada de sus ojos era como dos cuchillos afilados; Casi perforó su corazón y su alma mientras Duque Ming continuaba: "Este Duque pensó que no importaba lo que hiciera, no dejaría rastro alguno. Durante este siglo pasado, todo el Reino Demonio Ilusorio nunca ha tenido a nadie que sospechara de este Duque. ¿Cómo te enteraste, Yun Che? ¿Podría ser que este Duque cometió algún error en el camino?”
+
+"Muy simple." Yun Che retrocedió casualmente, se paró junto a la Pequeña Emperatriz Demonio y dijo: "Ya deberías saber, que aunque soy el hijo de la Familia Yun, soy del Continente Cielo Profundo. Cuando yo estaba en el Continente Cielo Profundo, estaba en contacto con la Poderosa Región de Espada Celestial de los Cuatro Grandes Terrenos Sagrados... estos temas, naturalmente, ¡fueron escuchados de la Poderosa Región de Espada Celestial! "
+
+"¿¡Poderosa Región de la Espada Celestial? ¡Heh!” Obviamente, el Duque Ming no estaba satisfecho con esta respuesta, pero no continuó preguntando; En vez de eso hizo una mueca de desprecio, y sus ojos que ya revelaban una luz peligrosa, que se hacían cada vez más fríos: “Este Duque creerá tu respuesta por ahora. Entonces, su objetivo de arrastrar el tiempo ya es lo suficientemente perfecto, pero por desgracia, el respaldo que usted ha estado esperando no apareció. Después, ¿cómo vas a salvar la tuya, y la vida de la princesa Caiyi delante de este Duque? ¿Mn?"
+
+Yun Che también se burló y dijo: “¿Entonces el Duque Ming piensa que la razón por la que vine aquí a pesar de saber que estabas aquí era morir por nada?”
+
+“Así que este Duque es curioso, ¿Por qué crees que podrías escapar de la palma de la mano de este Duque?” preguntó el Duque Ming con una sonrisa. Su peligrosa pero tranquila expresión era como si le estuviera diciendo a Yun Che que, aunque tuviera algún gran truco, era absolutamente imposible para él escapar de él: "¿Está basado en el Cristal Congelado del Cielo Absoluto que has estado sosteniendo ¿en tu mano?"

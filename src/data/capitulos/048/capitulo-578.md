@@ -1,0 +1,55 @@
+---
+titulo: "Capítulo 578: ED  Sendero de la Muerte"
+numero: 578
+novelaId: "48"
+---
+
+Segundo cap patrocinado por la donación, listos en menos de 2 horas .------------
+
+Los cobardes se mojarían los pantalones mientras caminaban por estesendero, pero Li Qiye permaneció tranquilo y relajado como si fuera unpaseo en su propio jardín.Después de alcanzar cierta profundidad, la niebla lentamente emitió un aterrador aura de muerte.La piel de uno comenzaría a chisporrotear cuando se reuniera con esteaura, y los músculos de uno envejecerían rápidamente hasta que sevolvieran docenas o incluso cientos de años más viejos.Sitrataban de bloquearlo con energía de sangre, no importa cuán poderosapueda ser esta energía de sangre, aún se marchitará por esta poderosaaura de muerte.Esta corrupción no se detendría hasta que la persona muriera.LiQiye sintió este aura de muerte corrosiva y murmuró: "Han pasadoinnumerables eras, pero tu aura de muerte todavía está aquí.Parece que todavía no estás muerto, qué alivio ".LiQiye sacó cuidadosamente la lámpara con el fuego que parpadeaba en elcentro que parecía que se apagaría en cualquier momento.Esta pequeña llama negra parecía ser la némesis del aura de la muerte.Cuando el aura intenta acercarse a Li Qiye, la llama la quema instantáneamente.Después de que se produjeron ruidos crepitantes, la llama quemó el aura en pequeños parches de humo. Li Qiye fue aún más adentro y el aura, sin importar cuán poderosa, no pudo acercarse a él debido a la llama negra de la lámpara.
+
+Los cadáveres que pavimentaron el sendero se hicieron menos, pero fueron incluso más poderosos que antes. Antesde esto, había peces gordos desafiantes del cielo, pero Li Qiye no losconocía porque la gente de ese nivel no podía entrar en su vista.
+
+Sin embargo, mientras caminaba más adentro, Li Qiye notó algunos personajes entre estos pocos cadáveres.
+
+Un viejo yacía en el sendero y había estado muerto por quién sabe cuánto. A pesar de que estaba siendo corroído por el aura de la muerte, su cadáver aún no estaba dañado y descompuesto.
+
+"Monarca  Todo el Cielo, ¿por qué no te quedaste en el Mundo Medicina de Piedra?¿Por qué venir hasta aquí para morir? "Li Qiye miró el cadáver y murmuró para sí mismo.Caminóun poco más y vio un esqueleto sosteniendo un cuenco de piedra quedesencadenó otra respuesta: "Emperador de Alquimia Logevidad Ilimitada, ¿has venido aquí a encontrar una medicina inmortal para la vidapor siempre?Qué vergüenza ... El Cuenco de Longevidad Ilimitada, como un tesoro supremo,fue despojado de su intención divina por el aura de la muerte."Dios verdaderoGlorioso- ¿Qué tan arrogante era este pequeño mocoso en el pasado?Así que después de que perdiste ante ese mocoso Min Ren, viniste aquí... Debe haber sido porque querías que ese elemento supresor delcielo para derrotar a Min Ren ..."Diosa de Otoño, qué lástima.La belleza número uno de la Raza del Espíritu Encantador en el pasado;innumerables prodigios de los nueve mundos se desvanecieron por tu encanto incomparable.Sin embargo, no importa cuán bonita puedas haber sido, ahora no eres más que un cadáver ".En el camino, Li Qiye reconoció a varias personas famosas del pasado.Algunosde ellos eran sus conocidos cuando era el Cuervo Oscuro, pero todasestas existencias invencibles finalmente murieron dentro del sendero dela muerte.Los corazones de los forasteros se detendrían si escucharan los nombres de estos personajes. Entre ellos había imponentes príncipes imperiales, diosesverdaderos sin igual y bellezas número uno. 1Nadiesabía por cuánto tiempo había estado caminando Li Qiye, pero habíamenos y menos cadáveres a medida que el aura de la muerte se hacía másfuerte. Finalmente, Li Qiye siguió un rastro a lo largo de un pequeño puente.
+
+Después de pasar por esta prueba, llegó a una llanura. Esta llanura era aún más aterradora con su aura de muerte espesa.
+
+Resplandores rojos destellaron dentro de esta espesa aura.Con una mirada más cercana, uno encontraría que estas miradas rojas pertenecían a personajes invencibles.Parecían personas vivientes, pero en realidad eran todos cadáveres.
+
+Estos cadáveres se veían como Dioses Verdaderos con luces divinas invencibles rodeando sus cuerpos.Los maestros legendarios se estremecerían frente a ellos, mientras que incluso las existencias eternas sentirían temor.2Algunos de los cadáveres también se parecen a Godkings.Tres de ellos llevaban coronas que también eran Tesoros Verdaderos, reales coronas de Godking.El número de coronas de Godking podría contarse con una mano única en este mundo, pero en realidad había tres justo en frente de él.Si otros estuvieran aquí, entenderían por qué incluso Godkings murieron en el sendero de la muerte.No era solo la corrosión del aura de la muerte, también tendrían queenfrentar a un grupo de cadáveres tan poderosos como dioses.LiQiye permaneció inamovible contra estos cadáveres de deidades a pesarde que el aura de muerte que venía de ellos podría aplastarlo porcompleto.Rápidamente dijo: "Los noventa y nueve fantasmas divinos, entonces realmente estaban aquí".Justocuando los noventa y nueve fantasmas querían apresurarse, Li Qiye sacóuna regla de madera y la levantó en alto: "¡La llave ancestral de origendel fantasma está aquí!¡Noventa y nueve fantasmas divinos, retírense!"Losnoventa y nueve fantasmas podrían desgarrar a Li Qiye miembro a miembroen cualquier momento, pero en este momento, todos se detuvieron ymiraron la llave con sus ojos rojos.Li Qiye obtuvo esta llave en las Cien Ciudades del Este, pero el mundo no conocía su efecto.
+
+Los fantasmas continuaron mirando fijamente la llave mientras estaban completamente quietos.
+
+"Pareceque esta cosa no puede comandarlos a todos, pero afortunadamente estoypreparado". Li Qiye sacó formalmente un objeto que causó que la miríadade dao gritara cuando el mundo se puso gris. Leyes universales supremas que aparentemente tenían su propia conciencia flotaban alrededor de su palma.
+
+"¡Dinnng!"El himno del gran dao apareció cuando innumerables hilos de leyesuniversales se entrelazaron cuando una lanza sin igual apareció en sumano.
+
+Li Qiye levantó la llave de maderacon una mano y la lanza con la otra mientras gritaba con voz fuerte: "LaLanza de Sellado del Origen está aquí.¡Noventa y nueve fantasmas divinos, retírense!"La Lanza de Sellado del Origen también tenía un origen increíble. Era un tesoro supremo tomado del Maestro del Flujo Ancestral , un tesoro mítico supremo que nadie había visto antes.
+
+Losfantasmas miraron la llave y luego a la lanza en las manos de Li Qiyecon miedo en sus ojos enrojecidos antes de retirarse para dejar paso aLi Qiye.
+
+Li Qiye sonrió al ver que los fantasmas se retiraban y dijo lentamente: "Han pasado millones de largos años. Ustedes han estado muertos por tanto tiempo, ¿aún así se quedan con remordimientos? Si tengo éxito esta vez, entonces podría ayudarlos chicos ". 3
+
+Los noventa y nueve fantasmas divinos no eran seres vivientes;unavez fueron existencias aterradoras en una era lejana, pero encontraronsu fin hace millones de años y se convirtieron en espíritus malignos quecustodiaban este lugar, esperando que llegara un día determinado.4
+
+Losnoventa y nueve fantasmas observaron a Li Qiye caminar, luegoregresaron al aura de la muerte espesa como espíritus malignos como sinada hubiera sucedido.---------------No muchodespués de que Li Qiye se infiltrara en el sendero de la muerte, unanoticia se extendió rápidamente a través de la Primera Tumba Ominosa y suscinco reinos.
+
+"¿Qué? ¿La Guardia Divina está descendiendo? ¿Es esto verdad? "Un ancestro de un gran poder se estremeció después de escuchar esta noticia.
+
+El discípulo mensajero informó de una manera seria: "Ancestro respetado, es cien por ciento verdadero. Elprimer tío lo vio con sus propios ojos ya que era el responsable desaludar a la Guardia Divina, así que vine a informar a toda velocidad."El discípulo garantizó que era de una fuente confiable.
+
+La expresión del ancestro cambió grandemente al escuchar esto. Hace dos días, el Maestro Yin Yang había mencionado esto, y muchos también habían oído hablar de esto. Entonces, en los últimos dos días, muchas grandes potencias y linajes imperiales tuvieron muchas especulaciones.
+
+Peroahora, había llegado más información y la Guardia Divina en realidadestaba descendiendo, entonces ¿cómo podrían estos poderes no alarmarse?De hecho, esta noticia viajó muy rápido y todos recibieron las noticias. Los linajes del emperador se enteraron incluso antes que las grandes potencias ordinarias.
+
+"Es tan extraño.Elseñor de la Ciudad Ancestral personalmente llegando es una cosa, peroahora la Guardia Divina también está aquí. "Todas las sectas eran muycautelosas, e incluso la raza fantasma estaba en alerta máxima.
+
+Unancestro del linaje de un emperador le dio gran importancia a esteasunto, por lo que solemnemente le preguntó al mensajero: "¿Quépersonaje está descendiendo esta vez?"
+
+El mensajero respondió con absoluta confianza: "Querido ancestro, escuché que es el capitán mismo".
+
+Lacara del ancestro se puso un poco fea cuando dijo: "La generaciónanterior de la Guardia Divina ... ¿Es solo por la islamítica perdida?¿Qué podría haber en ella?"Comolas noticias continuaron causando una tormenta, un experto se sintióbastante confundido después de escucharlo: "¿No dijeron las personas queel portal al Reino Ancestral solo se abrió una vez cada cien años?No ha pasado tanto tiempo desde la última vez que alguien bajó paraencontrar un descendiente, entonces ¿cómo podría ser abierto una vez mástan rápido? "Unrey fantasma que sabía más suspiró y dijo: "Hay métodos, por supuesto,si el Reino Ancestral realmente quiere enviar gente hacia abajo, perotienen que pagar un gran precio.Esto es absolutamente un evento desgarrador para ellos para enviar al capitán de la Guardia Divina.Porlo general, enviar a un miembro de la guardia regular sería suficientepara resolver todos los problemas, ya que solo podrían usar el prestigiodel Reino Ancestral para comandar a la raza fantasma.Pero ahora, el capitán está bajando, demostrando que este asunto es de la mayor importancia "."La ciudad ancestral nunca ha entrado a la tumba antes.Primerofue el mismísimo señor, ahora también viene el capitán de la GuardiaDivina. "Un gran personaje se preguntó emocionado:" ¿Podría haberrealmente un huevo de una bestia divina en la isla? "1-Los príncipes imperiales son candidatos al emperador inmortal, no príncipes reales.2-     Imperecederos, maestros legendarios y existencias eternas son los títulos generales de las personas fuertes.3-     El raw dice mil millones de años cuando se cuentan los ceros, pero también es una expresión durante mucho tiempo. Mil millones suena demasiado, así que elegí millones.4-Esto suena tonto, lo sé, pero recuerde que los fantasmas en ED son más humanos que fantasmas reales.

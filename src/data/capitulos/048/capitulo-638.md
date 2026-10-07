@@ -1,0 +1,49 @@
+---
+titulo: "Capítulo 638: ED  Gusano Alma de Sangre"
+numero: 638
+novelaId: "48"
+---
+
+CuandoLi Qiye regresó a su habitación, el monarca lo siguió y se disculpó:"Joven Noble, todo fue por mi negligencia y por no acompañarpersonalmente a Joven Noble.Ten la seguridad, te garantizo que estas personas del Clan Lie nunca volverán a aparecer frente a ti ".Después de escuchar el informe de Bai Weng, el monarca pensó que Li Qiye estaba quitando su disgusto hacia los demás.Li Qiye dijo despectivamente: "Una cosa tan trivial no es digna de mi atención.No le presto atención a personajes insignificantes como ese, por lo que Monarca Demonio tampoco tiene que preocuparse.Además, en el futuro, el Clan Lie no se atreverá a aparecer ante mí ".El monarca quedó desconcertado ya que no sabía lo que estaba implicando Li Qiye.Mientras el monarca estaba aturdido, Li Qiye continuó: "No sepreocupe, Monarca Demonio, me reuniré con su Señor Real mañana, ya que noestoy libre en este momento".El monarca se calmó y se despidió de Li Qiye.No se atrevió a decir nada más que pudiera molestarlo.Despuésde que el monarca se fue, Li Qiye sacó la penta puerta para sellar lahabitación de nuevo y también sacó el Ave de Alquimia de la Plaza Golem.
+
+El pollo emitió una luz brillante junto con una fragancia medicinal permeante; este fue de hecho un pájaro supremo. El sello en el cuerpo del pollo permaneció cerrado cuando Li Qiye lo puso sobre la mesa para una mirada cuidadosa.
+
+De vuelta en la plaza Golem, Li Qiye había echado un vistazo, pero ahora quería confirmación. Él miró sus ojos y luego tomó una decisión y sacó el Caldero Celestial Eterno.
+
+"¡Boom!" Aterrizó junto a Li Qiye y, con un gesto de su mano, una llama cayó sobre su palma.
+
+Lallama se condensó lentamente en un cuchillo parecido a un misteriosotrozo de hielo que emitía el espeso aroma de la medicina.
+
+Otros quedarían estupefactos ante esta escena. Controlaruna llama para convertirla en una cuchilla ya era difícil, ¡perocontrolar una llama para convertirla en hielo era aún más difícil!Li Qiye empujó el pollo hacia abajo y trató de diseccionar su estómago: "Pequeña cosa, déjame ver lo que tragaste".
+
+La Ave de Alquimia luchó con miedo, pero no pudo escapar.
+
+LiQiye lo tranquilizó: "No te preocupes, mi Cuchilla de Llama Congelada contiene laesencia de un alquimista, así que incluso cuando te corte el estómago,la herida se recuperará de inmediato y no te hará daño. Incluso si no quieres que lo haga, la cosa dentro de tu estómago saldrá de todos modos ".
+
+El Ave de Alquimia no era un pájaro ordinario y era muy sensible, por lo que se tranquilizó después de escuchar a Li Qiye.
+
+Lentamente diseccionó el estómago del ave con su hoja helada. Era tan suave como el agua que fluye; ni siquiera se cometió un pequeño error. Li Qiye era un maestro sin igual en la disección.
+
+Encontró algo que se parecía a un bloque de jade del tamaño de un dedo. Fue un poco como una semilla.Li Qiye lo sacó del estómago del pollo y dijo: "Pequeña cosa, eras demasiado codicioso. Querías quedarte un tesoro como este para ti mismo ".
+
+"Plufff!" De repente, un chorro de sangre salió disparado de la semilla. Suvelocidad era inigualable y era incluso más rápida que la velocidad dela luz cuando disparaba hacia Li Qiye, lanzándose hacia su corazón.
+
+Sin embargo, Li Qiye estaba preparado desde el principio y tenía la lámpara en su otra mano. La lámpara soltó una llama negra que barrió instantáneamente el chorro de sangre.
+
+Este sangriento hilo siguió cambiando. A veces, se parecía a incontables tentáculos delgados como pelos. Otras veces, parecía una cara feroz, pero luego, también adoptó la forma de una existencia santa.
+
+Estacosa que se parecía a una gota de sangre podía tomar muchastransformaciones espeluznantes: este era de hecho un monstruo terrible.La gota de sangre le tenía miedo a la llama negra y ya no se atrevía a acercarse a Li Qiye.Flotó en el aire mientras probaba la llama con un tentáculo delgado.En el momento en que este tentáculo se acercó a la llama negra, unsonido chisporroteante apareció cuando se quemó hasta quedar crujiente.Li Qiye ignoró la cosa atrapada por la llama negra y sostuvo lasemilla del estómago del pollo para una inspección más cercana.Era una pieza de jade negro del tamaño de un dedo en forma de una semilla.Li Qiye lo miró de cerca y luego miró al Ave de Alquimia y dijo: "Tuviste mucha suerte de encontrar un objeto tan divino.Sin embargo, usted era demasiado codicioso y se lo tragó al instante sin ninguna consideración.¿Querías convertirte en un Fénix Inmortal de un solo golpe?"Un elemento divino como este no puede ser acaparado por ti solo.Incluso el Gusano Alma de Sangre lo codiciaba, pero era más inteligente que tú.Solo se aferró al objeto y esperó a que un pájaro increíble como tú se lo tragara ".El Ave de Alquimia se relajó después de ver a la criatura parecida a la sangreatrapada por Li Qiye, pero tuvo una expresión reacia al ver eljade negro en la mano de Li Qiye.Li Qiye sonrió y negó con la cabeza: "Tienes suerte de haberme conocido.De lo contrario, tarde o temprano, el Gusano Alma de Sangre te hubiera secado.Eventualmente saldría de tu estómago y aprovecharía este elemento divino para sí mismo ".El pollo estaba arrepentido, pero no podía hacer nada en este momento.Li Qiye notó la falta de voluntad en sus ojos y solo sonrió antes de hablar: "No te preocupes, puedes seguirme;No te maltrataré.Deberías saber que un maestro como yo solo aparecerá una vez a través de los siglos ".Li Qiye guardó el jade negro y luego movió la mano cuando el calderodisparó una aguja de pomada con un hilo de medicina en su extremo.Nose debe subestimar esta aguja, es el tesoro medicinal transformadodentro del Caldero Celestial Eterno y podría cerrar instantáneamente unaherida.Li Qiye cosió el pollo, y la herida se cerró como si nada hubiera sucedido.Luego abrió el sello del pollo, haciendo que gritara por su nueva libertad.El pollo miró la gota de sangre que estaba atrapada en la llama negra y quería saltar sobre esta para matarla.Sin embargo, fue detenido por Li Qiye mientras hablaba: "Todavía tengo usos para el Gusano Alma de Sangre".
+
+Sacó una caja que contenía una semilla negra llena de espinas. Esta fue la semilla del Árbol Maligno Typha; Li Qiye lo había refinado durante mucho tiempo, por lo que su apariencia había cambiado mucho.
+
+Li Qiye miró la gota de sangre atrapada por la llama negra. Esto no era una gota de sangre, era una criatura venenosa muy malvada y aterrorizante llamada Gusano Alma de Sangre.
+
+Era tan raro como el Ave de Alquimia, y las dos criaturas eran enemigos eternos. Cuando ambas criaturas iban con todo, sería difícil determinar quién era el vencedor.
+
+Li Qiye agitó su manga una vez más cuando un grupo de llamas del caldero cayó en su mano.En un instante, este grupo de llamas se convirtió inmediatamente en carámbanos inmemoriales.Estos carámbanos comenzaron a apuntar al gusano Alma de Sangre atrapado dentro de la llama.El gusano trató de moverse, pero no pudo moverse en absoluto debido a estar atrapado por los carámbanos.LiQiye luego colocó el gusano encima de la semilla Maligno Typha yaque todas las espinas de la semilla se engancharon al gusano.El gusano luchó, pero fue sin sentido.Con eso, Li Qiye retiró sus carámbanos.¿Cómo podría sentarse allí y esperar su muerte?Enel momento en que el gusano fue liberado, se arrastró imprudentementehacia la semilla del Árbol Maligno Typha, queriendo devorarlo.Sin embargo, la semilla Maligno Typha no retrocedió.Apretó sus espinas e intentó tragar al gusano también.Eneste momento, Li Qiye insertó una ley universal tan fina como la sedaen la semilla Maligno Typha , dando lugar a una vorágine interior.Esta ilimitada runa mágica fue la culminación del refinamiento de Li Qiye, y se convirtió en una vorágine.Con este refinamiento, el Gusano Alma de Sangre y la Semilla Maligna Typha lentamente se convirtieron en uno.Después de un tiempo, la transmutación de los dos se finalizó.La semilla Maligna Typha ya no era negra, era de un color carmesí como la sangre."Excelente, había pensado en este método durante mucho tiempo, pero nohabía conocido a una criatura maligna adecuada". Li Qiye miró lasemilla en su mano y murmuró: "¡Crearé la planta más fuerte en estemundo!"Nohabía necesidad de describir la fuerza del Árbol Maligno Typha , y el Gusano Alma de Sangre también era una criatura maligna terriblemente poderosa.¡La amalgama de estas dos existencias se convertiría en un ser perverso y poderoso más allá de la imaginación!Volvió a colocar la semilla Maligna Typha en la caja y la selló.Habría un día en que necesitaría esta poderosa existencia.Después, sacó el artículo de jade negro otra vez para otra mirada:"Cosas buenas, no demasiadas personas han visto esto desde el principiode los tiempos".A los ojos de los demás, Li Qiye estaba loco por gastar 200 Jades Refinados Emperador Inmortal para comprar una Ave de Alquimia, solo un loco loharía.Sin embargo, Li Qiye estaba muy demente porque notó que había algo extraño en el Ave de Alquimia.No era apático por estar sellado, era porque su cuerpo tenía algo dentro. Se tragó un objeto divino, pero ¿quién hubiera pensado que su enemigo había estado durmiendo en su interior? El gusano Alma de Sangre y el objeto divino se arrastraron dentro del cuerpo del pollo.
+
+El gusano era una criatura muy maligna. Unavez que se aferró a una existencia, la sangre de longevidad de esaexistencia sería succionada hasta que el gusano se llenara. Luego saldría del cadáver y se iría. Muy pocas personas eran capaces de someter a una criatura tan siniestra.
+
+Debidoa que el pollo se tragó el gusano y su fuerza fue debilitada por elgusano, los tres Paragones Virtuosos pudieron capturarlo.
+
+Li Qiye tenía una rica experiencia y había visto innumerables cosas.Después de un solo vistazo, Li Qiye inmediatamente supo que el pollo tenía un gusano Alma de Sangre en su cuerpo.

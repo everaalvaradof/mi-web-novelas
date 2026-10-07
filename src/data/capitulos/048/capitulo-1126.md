@@ -1,0 +1,45 @@
+---
+titulo: "Capítulo 1126: ED  Qian Suyun"
+numero: 1126
+novelaId: "48"
+---
+
+Tanto Monarcas Dios de la generación anterior como genios inigualables de lageneración actual tuvieron que mantener la cabeza baja ante lademostración invencible y dominante de Li Qiye.Sin importar quiénes sean, todo lo que pudieron hacer fue arrodillarse en este momento."Amitabha-" Muchos Budas sagrados se adelantaron desde la puerta abierta de Nalanda.La luz budista se revitalizó una vez más en la meseta.Su afinidad les dio poder a sus cuerpos.Fuertes explosiones rugieron en la meseta.Los miles de millones de monjes aquí comenzaron sus cánticos para fortalecer el gran dharma de los Budas.Todos los expertos aquí estaban mirando con la respiración contenida por el miedo.Sintieron que no eran nada ante Li Qiye y la meseta.Li Qiye no tenía miedo de ver salir a estos Budas.Losmiró con frialdad y pronunció: "Por no mencionarlos a todos ustedes,incluso si Amitabha sale de su ataúd o Di Shi regresa de la perpetuaeternidad, ni siquiera piensen en detenerme o romperé su reino budistaentodos los costos! ""Buda misericordioso". Estos venerables Budas comenzaron a cantar.La luz en sus cuerpos se convirtió en espadas largas que se transformaron continuamente a medida que descendían del cielo.Ambos fueron los destructores y protectores del mundo.¡Este era el furioso Buda que subyugaba al mal!Mucha gente palpitó frente a esta ira entrante.La tormenta se acercaba rápidamente;cualquiera que sea el resultado, la batalla estaba llegando a su fin.Muchos incluso pensaron en dejar la meseta.Sin embargo, fueron reprimidos por su poder, por lo que escapar se hizo bastante difícil.Él fríamente miró a los Budas.Con la lámpara verde en su mano izquierda y la espada de dao en su derecha, declaró de una manera tiránica: "Muy bien.¡Vengan!¡Hoy mostraré al mundo lo que es matar a Buda! ""Bondad,bondad". Justo cuando la gran batalla estaba a punto de estallar, unavoz budista se hizo eco del reino como si viniera del pasado antiguo,como si nunca se hubiera dispersado incluso después de millones de años:"Déjalo entrar,él y yo estamos conectados por el destino "."Amitabha, aceptamos el decreto." Los Budas juntaron sus palmas e inmediatamente regresaron dentro de Nalanda.La luz budista desapareció junto con ellos."¡El Señor Budista!" Una persona conocedora sabía quién era el hablante de inmediato.Li Qiye retrajo sus trece palacios, la lámpara verde y la espada de dao y volvió a su aspecto ordinario.
+
+Miró intensamente en el portal para mirar la ubicación más profunda dentro. Su expresión era extremadamente extraña e ilegible.
+
+"Hum-"Un puente budista descendió del reino con muchas flores de lotofloreciendo abajo, emitiendo una atmósfera incomparablemente sagrada ysuprema. Solo este puente hizo que muchas personas sintieran un sentido de reverencia.
+
+Li Qiye estaba callado. Él no dijo nada cuando pisó al puente. Este lo llevó a la región más profunda del Reino Budista.
+
+Los espectadores finalmente se calmaron después de verlo desaparecer. Todos se levantaron inmediatamente.
+
+"¿Seestá peleando completamente con la Meseta Funeraria Budista?" Muchaspersonas estaban empapadas en sudor frío después de recordar la escenaanterior y rápidamente comenzaron a discutir entre ellos.De hecho,después de una larga conversación, no hubo conclusión porque no sabíanpor qué Li Qiye de repente rompió todas las pretensiones con la meseta. Parecía como si quisiera luchar hasta la muerte.
+
+De hecho, incluso Li Shuangyan y las demás estaban confundidas por las acciones de Li Qiye. No sabían por qué de repente se puso serio o quién podría haberlo causado.
+
+La única persona que todavía estaba aturdida era Pequeño Otoño. Miró el portal supremo en el cielo sin rumbo. Finalmente, recuperó su ingenio y soltó en estado de shock: "¿Podría ser ella?"
+
+"¿Ella? ¿De quién estás hablando? "Las chicas se volvieron curiosas de inmediato cuando la rodearon.
+
+"No lo sé." Rápidamente negó con la cabeza locamente y respondió: "Realmente no lo sé. Es solo una historia, no, una leyenda envuelta en misterios ".
+
+"¿Qué tipo de leyenda?" Mei Suyao preguntó más."Uhh, no sé." Se cerró completamente la boca en este momento.Estaba claro que no estaba dispuesto a revelar lo que sabía."¿Realmente no lo sabes?" Chen Baojiao miró ferozmente al gusano.Todas las otras chicas también estaban mirando a Pequeño Otoño;era como si lo fueran a golpear.Con una expresión de dolor, sacudió la cabeza: "Ladys, incluso si me golpean, nada va a cambiar.Algunas cosas son tabú y nunca pueden discutirse.Al igual que su Joven Noble, tiene su línea de fondo y temas fuera de límite.Este asunto es una de sus escamas inversas;quien se atreva a tocarla definitivamente morirá de una muerte miserable.Los hará sufrir un destino peor que la muerte mientras aúllan en agonía por una eternidad ".Mei Suyao miró a las otras chicas.A juzgar por la expresión de Pequeño Otoño, no pudieron entrometerse en este asunto más allá.Aunque querían saber qué estaba pasando, nadie se atrevió a preguntar.En lo profundo del Reino Budista se sentó un Buda sagrado.Fue el Señor budista.Contrariamente a la imaginación de todos, el Señor budista no tenía un avatar infinitamente alto.Tampoco emitieron una luz dorada brillante o tenían un aura capaz de garantizar la salvación.El señor budista por delante era muy delgado, una mujer, de hecho.¿Quién hubiera pensado que el señor budista del reino era en realidad una mujer?Ella no era hermosa sin igual, pero exudaba una sabiduría y espiritualidad indescriptibles.Si era posible convertirse en inmortal, entonces definitivamente era la principal candidata.
+
+Uno podría sentir repentinamente que ella nació teniendo la voluntad de los cielos. Nadie en este mundo era más espiritual que ella.
+
+Li Qiye se acercó para mirar la cara demasiado familiar. Poco después, innumerables emociones comenzaron a desbocarse en su corazón. Él no supo cómo describirlo.
+
+Li Qiye la miró durante un largo rato antes de hablar: "Siempre supe que todavía estabas viva".
+
+"También sé que siempre me has estado buscando". La chica se encontró con su mirada.Ella no estaba manchada por el mundo mundano y distante del alborotado reino mortal.Aunque no llevaba una túnica budista ni estaba decorada con marcas budistas en la frente, seguía siendo una verdadera Buda. Mientras el corazón se haya convertido en Buda, la carne ya no es importante."La Su'erque conozco siempre ha sido una mujer fuerte". Lentamente habló mientrasmiraba a la mujer que había alcanzado el verdadero dharma.
+
+Ella respondió lentamente: "El mundo mundano ha pasado, todo se ha convertido en humo".
+
+"Estoy un poco confundido. No importa si eres el Señor Budista o la vieja Qian Suyun. No entiendo por qué elegiste este sendero. Esto es completamente diferente de la Su'er inflexible y desafiante que yo conozco".
+
+Qian Suyun era un nombre que nadie había escuchado antes, pero tenía un lugar extraordinario en la mente de Li Qiye.
+
+Qian Suyun, el actual señor budista, respondió con calma: "Todos tienen su propio sendero. Tienes el tuyo y yo el mío ".
+
+LiQiye reveló una sonrisa irónica y dijo: "Zhan'er me dijo que el reinotenía un nuevo Señor budista, nunca pensé que sería usted. Todo el tiempo, creí que estabas viva y que me estabas evitando. No pensé que entrarías en la doctrina budista "."Sé que me has estado buscando.El pasado se ha ido ahora.No me debes nada.No te estaba evitando en ese momento, simplemente estaba buscando mipropio sendero. "Qian Suyun había salido de los tres reinos y se habíaescapado del Samsara.Él la miró intensamente y habló con una voz llena de poder: "¡Sinecesitas un sendero, puedo darte un sendero, no importa lo que sea!""No." Ella sacudió suavemente su cabeza: "Encontraré mi propio sendero.Podríaser una mujer débil, pero no necesito tu protección. "Ella lo miró concalma y respondió de manera natural:" Sientes que todavía me debes algo,pero esto está lejos de la verdad.En aquel entonces, sobre los nueve cielos, traicioné a mi padre, a mi raza y al mundo entero.Sin embargo, esto no fue por tu instigación.Simplemente me mantuve fiel a mi propia búsqueda y creencias ..."O, como dijiste, yo nací para ser una persona desafiante.Independientemente de su participación, hubiera dado ese paso de todos modos.Debo decir que sin ti, tal vez no hubiera causado una gran agitación "."Solo sé que no me debes nada.Te dije el secreto en ese entonces y te seguí a este mundo por mi propia voluntad.No fue debido a mi error o al hecho de que todo el mundo me estaba persiguiendo, lo que me obligó a huir a este lugar.Fueporque no podría encontrar la respuesta que quería allí, así que vine aeste mundo con la esperanza de forjar un sendero hacia mi objetivo."Ella habló con mucha seriedad.Era este tono sincero y genuino que enfatizaba su desapego de las emociones.Cada palabra era como la declaración de un transeúnte, como si todo esto no tuviera nada que ver con ella.

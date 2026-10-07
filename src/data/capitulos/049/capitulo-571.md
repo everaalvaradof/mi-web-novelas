@@ -1,0 +1,105 @@
+---
+titulo: "Capítulo 571: ​ Gran Condenación de las Siete Familias (1)"
+numero: 571
+novelaId: "49"
+---
+
+"Yun Qinghong, su llamado ‘hijo’... ¿De dónde vino?" El Duque Huai rugió con un tono solemne.
+
+Yun Qinghong ligeramente resopló. “Esto es asunto de mi familia, así que no hay necesidad de explicarte, Duque Huai. No importa aunque no creas que él es mi hijo tampoco, pero mi hijo Yun Che ya ha mostrado claramente el poder de su Mango Profundo, y ha demostrado que es un verdadero miembro de la Familia Yun! ¡Él naturalmente, y tiene absolutamente las calificaciones para representar a mi Familia Yun en la batalla! "
+
+“¡La razón por la que usted, Duque Huai, no pudo aceptar su derrota ya no existe!”
+
+"En esta batalla, los doce participantes de su equipo fueron derrotados, mientras que Yun Che de mi equipo se mantuvo hasta el final. ¡La victoria de este duelo que decide el destino de mi Familia Yun, pertenece a nuestro lado! Aunque fue una victoria cercana, hemos ganado justo y honrado, mantenerse fiel a nuestro nombre! "
+
+Aunque la expresión de Yun Qinghong parecía tranquila, su mirada era como la de un halcón, y sus palabras podrían sacudir el corazón. Con cada palabra que pronunciaba, las expresiones de las personas de las diversas familias y Duques de Palacio del lado opuesto se oscurecían. La mirada de Yun Qinghong atravesó al grupo contrario, y él dijo a la ligera: "De acuerdo con el trato hecho antes del duelo, si salimos victoriosos, la Familia Yun seguirá manteniendo el título de Familia Guardiana y tú, las siete grandes Familias de la Familia Helian, de la Familia Jiufang, de la Familia Chiyang, de la Familia Nangong, de la Familia Xiao, de la Familia Bai y de la Familia Lin, y sesenta Palacios Duque nunca traerán de nuevo a la cuestión de desterrar a nuestra Familia Yun! Además, las siete grandes familias tendrán que someter cada uno dos y medio kilogramos de Cristales Divinos de Veteados Púrpuras a nuestra familia Yun respectivamente en el término de un mes ".
+
+“¡Cuando tú, Duque Huai, dentro de un lapso de un mes, tengas que dar diez kilos de Cristales Divinos de Veteados Púrpuras a nuestra Familia Yun!”
+
+"¡Este es el acuerdo que ambas partes hicieron antes del duelo, y todos ustedes personalmente lo han asegurado!"
+
+"¡La Pequeña Emperatriz Demonio puede testificar de esto, y los héroes del reino pueden testificar esto también!"
+
+"¿Todavía tienes alguna objeción respecto a este resultado?... y, por supuesto, tendrían que ser objeciones justificadas".
+
+Las palabras de Yun Qinghong hicieron que las expresiones de las siete grandes familias se volvieran incomparablemente feas. Hasta ahora, todavía eran incapaces de aceptar la enorme diferencia, de ser claramente el lado con mayor fuerza absoluta, a repentinamente ser pisado por los pies de la parte contraria. La expresión del Duque Huai era cenicienta, y no habló durante mucho tiempo. Sin embargo, en la oscuridad, con profundas transmisiones de sonido, estaba transmitiendo su voz a varias personas al mismo tiempo.
+
+La Pequeña Emperatriz Demonio barrió los ojos al vestíbulo, y lentamente dijo. "La Ceremonia del Reinado de los Cien Años se celebra cada cien años, y en cada sesión, siempre tendrá lugar un duelo entre dragones y tigres. Sin embargo, nunca había sido tan fantástico como este”.
+
+Las cejas de la Pequeña Emperatriz Demonio se hundieron suavemente, y su voz contenía una fría intención. "Con respecto a la eliminación de la Familia Yun del título de una Familia Guardiana, ¡esta emperatriz nunca ha deseado que ocurra en primer lugar! Este resultado es la alegría de la Familia Yun, y sigue la voluntad de esta Emperatriz también. Aunque Yun Che es todavía de edad temprana, posee un talento incomparable, una fuerza asombrosa y un coraje extraordinario. ¡Su actuación hoy fue aún más impresionante e incomparable! Su origen no tiene importancia. Puesto que él es el hijo del Patriarca Yun, entonces eso sería la alegría de la Familia Yun, y también la fortuna de mi Familia Real del Demonio Ilusorio! En el futuro, definitivamente se convertirá en un pilar de mi Reino Demonio Ilusorio! "
+
+"Duque Baoqing, ¿dónde estás?"
+
+Desde el ala occidental, un hombre con una expresión suave y vestido sencillo se acercó lentamente y respetuosamente dijo: "Pequeña Emperatriz Demonio, por favor, proporcióneme sus instrucciones."
+
+Aunque este Duque Baoqing era semejantemente Duque, su vestido y su porte no mostraban el menor rastro de extravagancia. Cuando caminaba, un olor medicinal muy espeso era emitido por su cuerpo. El Duque del Palacio Baoqing fue una existencia única entre los muchos Palacios de Duques, debido a su capacidad y responsabilidad, establecidos en la refinación de píldoras y la medicina. Como contó la historia, sólo escucharon las órdenes del Emperador Demonio. Aquellas maravillosas píldoras y medicinas que podrían sacudir el Reino Demonio Ilusorio habían venido sobre todo del Palacio del Duque Baoqing. Los recursos que fueron distribuidos cada año a las diversas Familias de Guardianes y Palacios del Duque provenían en su mayoría del Palacio del Duque Baoqing.
+
+La gente del Palacio del Duque Baoqing siempre dedicó su vida a perfeccionar la medicina, mientras que sus fuerza profundas eran una prioridad secundaria. Debido a esto, todos poseían corazones suaves y claros, sin codicia ni ambición. Por lo tanto, a pesar de que el Duque Huai deseaba que el Duque Baoqing pudiera someterse a él en sus sueños, nunca había intentado corregirlos.
+
+“¿Ha refinado la Píldora del Overlord esta vez?” preguntó la Pequeña Emperatriz Demonio con frialdad.
+
+"Cuando se hablaron las dos palabras ‘Píldora del Overlord’, las expresiones de incluso las personas de las diferentes familias Guardianas y Palacios de Duques cambiaron. En cuanto a la gente que venía de fuera de Ciudad Imperial del Demonio, todos sus ojos habían redondeado al instante ampliamente. Esas expresiones eran como si hubieran oído hablar del nombre de una píldora divina celestial.
+
+El Duque Baoqing dijo con una reverencia: “En respuesta a la Pequeña Emperatriz Demonio; Hace tres meses, la Píldora del Overlord esta vez ya había sido refinado hasta su finalización. Su pureza es del noventa por ciento, y no causará la pérdida de la vida. "
+
+"Muy bien," la Pequeña Emperatriz Demonio asintió. "La Píldora del Overlord esta vez será otorgada a Yun Che de la Familia Yun entonces. Creo que nadie tiene objeciones a esta decisión”.
+
+“Sí. La altura del talento de Yun Che rara vez se ve en mil años, y como el hijo del Patriarca Yun, él será el futuro Patriarca de la Familia Yun. A pesar de que acaba de regresar a la familia Yun, su actuación impresionante ha provocado incluso la admiración del corazón de este anciano. En el futuro, definitivamente será un pilar del Reino Demonio Ilusorio. Conceder esta Píldora del Overlord a Yun Che no puede ser más apropiado ", respondió respetuosamente el Duque Baoqing. Evidentemente, sus pensamientos eran completamente iguales a los de la Pequeña Emperatriz Demonio.
+
+Con la actuación de hoy de Yun Che, y Yun Qinghong admitiendo personalmente su identidad, se podría decir que el otorgamiento de esta Píldora del Overlord fue bien merecida. Los corazones de todos en el pasillo eran incomparablemente envidiosos, sin embargo sabían que Yun Che era la persona que definitivamente tenía la mayor de la calificación para recibirla.
+
+Las palabras de la Pequeña Emperatriz Demonio habían hecho que las expresiones de las personas dentro de las Siete Grandes Familias y de varios Palacios Duques del ala este se volvieran extremadamente feas... La preciosidad de la  Píldora del Overlord era conocida por todo el mundo. Su proceso de refinamiento fue extremadamente difícil, y el Palacio del Duque Baoqing tuvo que pasar cincuenta años en promedio para refinar un único gránulo. Por no mencionar que sus efectos eran naturalmente increíbles a un grado incomparable... Una vez que un practicante profundo alcanzara el pico del Reino Emperador, siempre y cuando tomara una Píldora del Overlord, podría romper inmediatamente el cuello de botella del Reino Tirano, y fácilmente Alcanzar el nivel de un Tirano!
+
+Esta fue también la razón por la que fue llamada “Píldora del Overlord".
+
+Cuando se trataba de practicantes tiranos, así como los practicantes que poseían fuerza por encima del Reino Tirano, los efectos de la Píldora del Overlord no serían notables, simplemente trayendo un ligero grado de mejora a su fuerza profunda. Sin embargo, para aquellos que tenían una fuerza inferior a la de un Tirano, era realmente comparable a un "Píldora celestial". Practicantes del Reino Cielo dentro del  Reino Demonio Ilusorio eran muchos, pero el noventa y nueve por ciento de ellos sólo podían llegar hasta el pico del Reino Emperador y no podían romper con el Reino Tirano. Sin embargo, si uno tuviera una Píldora del Overlord, podría atravesar instantáneamente las nubes y volver a nacer.
+
+El nivel profundo de la Ciudad Imperial del Demonio era extremadamente alto, y el número de expertos era incontable. Esto era especialmente cierto en las Familias Guardianas y los muchos Duques de Palacios, en los cuales los Súper Señores no eran lo menos raro. A pesar de esto, eso definitivamente no significaba que pudieran lograr un avance en el Reino Tirano después de alcanzar el pico del Reino Emperador. Con la ayuda de muchos monarcas fuertes, los cuellos de botella del Reino Cielo y Reino Emperador podrían ser fácilmente rotos. Sin embargo, con respecto al cuello de botella del Reino Tirano, los Monarcas también eran impotentes. Aquellos con gran talento podrían estar atrapados durante varios años; Algunos podrían tomar más de diez, o varias decenas... Algunos podrían incluso no hacer un gran avance en toda su vida.
+
+Siempre habrían duelos secretos y clasificaciones entre las Familias Guardianas y varios Duques Palacios. Si pudieran obtener una Píldora del Overlord, ayudarían a que la siguiente generación que cuidadosamente plantearan romper instantáneamente en el Reino Tirano justo después de alcanzar el pico del Reino Emperador, permitiéndole directamente tener el liderazgo de un reino antes que otros que tengan niveles similares de talento... En cuanto a las razones por las que la fuerza del Duque Hui Ran del Palacio del Duque Huai fue tan aterradora, es debido su talento extremadamente alto, pero la otra razón más importante fue porque él Tomó una Píldora del Overlord justo después de que su nivel profundo había alcanzado el pico del Reino Emperador. Él era el único entre la generación actual de las Familias Guardianas y los Palacios de los Duques de jóvenes que habían tomado una Píldora del Overlord... Desde entonces hasta ahora, era imbatible entre la misma generación.
+
+Por lo tanto, incluso a los ojos de las Familias Guardianas y Duques de Palacios, la Píldora del Overlord era un tesoro invaluable.
+
+En cada sesión del Salón Imperial Demoniaco, habría una Píldora del Overlord... y sólo una Píldora del Overlord sería otorgada. No importa qué bando lo recibió, definitivamente habría una cifra en la próxima generación que podría abrumar la mayoría o incluso todos de la misma generación.
+
+La fuerza de Yun Che ya era sorprendente para el mundo, incluso con esta fuerza profunda simplemente estar en el pico del Reino Cielo. Si obtuviera una Píldora del Overlord, no tendría ningún obstáculo que rompiera en el Reino Tirano en el futuro, y sería básicamente imposible imaginar el grado de fuerza que él poseería entonces.
+
+Ni una sola persona de la Familia Yun descuidó expresar su alegría, y Mu Feiyan instantáneamente soltó una carcajada fuerte y abundante. Mu Yurou dijo con alegría, "Che'er, date prisa y agradece a la Pequeña Emperatriz Demonio por su gracia."
+
+"Sí," Yun Che asintió con una sonrisa. Justo cuando estaba a punto de darse la vuelta, un rugido de trueno repentinamente resonó. "¡Espera un minuto! Esta Píldora del Overlord no puede ser otorgado a Yun Che no importa qué! No está capacitado para recibir tal recompensa”.
+
+Los ojos de todos se desplazaron instantáneamente hacia la fuente de la voz. La persona que habló ya se había puesto de pie con una expresión severa, y en realidad era el patriarca de la familia Jiufang... Jiufang Kui!
+
+"Jiufang Kui, ¿cuál es el significado de esto?" Yun Duanshui, que ya se había preparado para ver alegremente a Yun Che recibir la recompensa ‘Píldora del Overlord’, se llenó instantáneamente de ira. No le importaba si era el patriarca Jiufang o quien fuera, mientras rugía de inmediato con un furioso resplandor.
+
+"Hmph!" Jiufang Kui resopló fríamente. "Dije... el hijo de tu familia Yun no está calificado para recibir tal recompensa".
+
+"¡Basura!" Yun Duanshui respondió furiosamente. "Si el joven patriarca de mi familia Yun no está calificado ... ¿Podría ser que el joven patriarca de su familia Jiufang esté calificado?"
+
+La manera en que Yun Duanshui se dirigió a Yun Che había sido elevada instantáneamente al "joven patriarca". En lo que respecta al joven patriarca de la familia Jiufang al que se refería, era naturalmente Jiufang Yu. Cuando las siete aperturas de Jiufang Yu sangraron con un solo golpe de Yun Che, todos los presentes lo habían presenciado personalmente. Estas palabras de Yun Duanshui eran, sin duda, sarcasmo que no llevaba el menor rastro de misericordia.
+
+Como era de esperar, la expresión de Jiufang Kui se contrajo ligeramente. Ignoró de inmediato a Yun Duanshui, se enfrentó a la Pequeña Emperatriz Demonio y dijo con las manos entrelazadas: "Sólo una Píldora del Overlord se produce cada cincuenta años, y permite convertirse en un Tirano con un solo paso. ¿Cómo podría otorgarse un artículo tan preciado a la Familia Yun? ... Pequeña Emperatriz Demonio, por favor, retire la orden”
+
+La Pequeña Emperatriz Demonio miró fríamente, "¿Razón?"
+
+Antes de que Jiufang Kui pudiera responder, el patriarca de la Familia Xiao, Xiao Xifeng, ya se había destacado y dijo en voz alta: "¡Mis pensamientos están completamente de acuerdo con los del Patriarca Jiufang! La razón es aún más simple. El talento de este niño, Yun Che, es realmente asombroso. Su identidad es el hijo de Yun Qinghong es un asunto que no tengo muchas sospechas sobre cualquiera. Sin embargo, Yun Che todavía sólo había aparecido en la Capital Imperial del  Demonio hace tres meses. ¿De dónde vino?, ¿dónde había estado en los últimos veinte años?, y por qué Yun Qinghong tuvo que ocultarlo durante esos veinte años impares, básicamente no sabemos nada. En última instancia, incluso si posee la línea de sangre de la Familia Yun, sigue siendo una persona cuyo trasfondo es completamente desconocido. ¿Cómo podríamos dejar de lado a los jóvenes genios y altezas que habían permanecido en el lado de la Pequeña Emperatriz Demonio, simplemente por el talento que había revelado hoy?”
+
+"Y esto es todavía una razón menor..." Xiao Xifeng dijo con una mirada de desconsuelo. "Pequeña Emperatriz Demonio, ¿podría ser que ha olvidado por completo el pecado mortal de la familia Yun !?"
+
+"¡El pecado de la familia Yun! ¡Es el pecado de la familia Yun otra vez! "Las cejas de media luna de la Emperatriz Demoniaca se arrugaron intensamente. "En estos cien años, esta emperatriz ha oído estas palabras de sus bocas innumerables veces. Desde ese tiempo, cien años han pasado, ¿pero todavía no vas a dejarlo ir? "
+
+"Pequeña Emperatriz Demonio, no es que no la dejemos ir... El pecado de la Familia Yun es simplemente demasiado severo ... ¡es básicamente imperdonable!" El Patriarca de la Familia Bai, Bai Yi, saltó también, Dijo: "Debido a nuestra derrota esta vez, al final, no pudimos desterrar a la imperdonable familia Yun de las Familias Guardianas. Esto se debe a nuestra incapacidad, y no hay nada que podamos decir al respecto. Permitir que la familia de Yun continúe permaneciendo es ya extremadamente irracional en el primer lugar, y es también la gracia divina de la Pequeña Emperatriz Demonio hacia la familia de Yun. Recompensar con la Píldora del Overlord a una familia tan pecaminosa... Esto realmente no puede suceder. No sólo no podemos aceptarlo, sino que incluso los ciudadanos del mundo podrían no ser capaces de aceptarlo”.
+
+"¡El patriarca Bai seguro es poderoso, para ser capaz de representar a todos los ciudadanos en el mundo por sí mismo!" Yun Waitian dijo con una fría sonrisa. Después de su sonrisa, su furia siguió inmediatamente después. "Después de soportar durante tantos años, ¡hoy en día, todas sus colas de zorro ya no podía soportarlo y se han revelado por completo! Desde el comienzo de la ceremonia de hoy, cada una de sus palabras se dirigió a nuestra familia Yun, ¡empujando a nuestra familia Yun a nuestras muertes un paso a la vez! Ahora que nuestro joven patriarca ha sido agraciado por la Pequeña Emperatriz Demonio, ustedes no sólo son claramente celosos de corazón, sino que son tan espesos y desvergonzados para que se sientan tan justos. Hmph... Hace cien años, todo el Reino Demonio Ilusorio estaba lleno de rumores de que nuestra Familia Yun cometía un crimen atroz, carecía de responsabilidad y no podía garantizar la paz en el mundo. Habíamos sospechado que debía de haber alguien que los propagaba con malas intenciones... Mirándolo ahora, debió haber sido la acción de sus siete grandes familias... ¿¡Te atreves a admitirlo!?"
+
+"¿Por qué no nos atreveríamos?" Chiyang Bailie se destacó. Con expresión directa y fría, dijo. "¡Está bien! Hace cien años, éramos nosotros las siete grandes familias colaborando para informar al mundo de los crímenes de la Familia Yun. En aquel entonces, debido a que la Pequeña Emperatriz Demonio acababa de ser instalada, era indiferente e indulgente, incapaz de llevarse la culpa a la familia Yun. Sin embargo, si un crimen tan pesado de la Familia Yun permanece impune, los ciudadanos del Demonio Ilusorio que son todos leales al Emperador Demonio sin duda se sentirán indignados, y en poco tiempo, el caos se produciría! Incluso la Pequeña Emperatriz Demonio ha sido atraída por este torbellino de la opinión pública. Como Familias Guardianas, para preservar el poderoso nombre de la Emperatriz Demonio y estabilizar su posición imperial, después de amargamente intentar persuadir a la Pequeña Emperatriz Demonio en vano, no tuvimos más remedio que adoptar este plan”.
+
+"¡La razón por la que hemos hecho tal cosa es todo por el bien de la Pequeña Emperatriz Demonio, y la paz y estabilidad de todo el Reino Demonio Ilusorio! ¡Incluso si somos condenados por varias personas, lo hicimos con la conciencia tranquila, sin arrepentimientos! Entonces, ¿por qué no nos atreveríamos a admitirlo? " El patriarca de la familia Nangong, Nangong Zhi, dijo con una mirada severa.
+
+"¡Qué tan bien dicho 'conciencia limpia', qué bien dicho ‘sin arrepentimientos ", qué bien dicho ‘por el bien de la Pequeña Emperatriz Demonio y el Reino Demonio Ilusorio’! ” La voz de Yun Duanshui comenzó a temblar de furia. "Al decir esas palabras, ¿ninguno de ustedes siente vergüenza?"
+
+"¿Vergüenza? ¿Por qué tenemos que sentir vergüenza?" Helian Kuang se levantó y dijo fríamente. "La razón por la que las siete grandes Familias, y muchos Duques de Palacios, quieren ir en contra de su Familia Yun... sus corazones realmente no saben? Desde hace diez mil años, nuestras doce familias siempre habían sido del tallo y ramas. Incluso si podemos tener pequeñas injusticias entre nosotros, nunca tuvimos rencores enormes. Si no es debido a la gran gravedad del pecado de su familia Yun, ¿por qué estaríamos dispuestos a perder tantas palabras, tanta energía? "
+
+El patriarca de la familia Lin, Lin Guiyan, rugió inmediatamente después: "Tu familia Yun ha perdido el sello más importante del Emperador Demonio perteneciente al Clan del Emperador Demoniaco, impidiendo que el Pequeño Emperador Demonio realmente suceda a la posición del Emperador Demonio. Si no fuera por esto, ¿cómo habría perdido su razón en medio de su dolor y aventuró solo al Continente Cielo Profundo? Esto le llevó a su muerte, e incluso ha cortado la línea de sangre del Emperador Demonio justo entonces y allí! En la actualidad, aunque la Pequeña Emperatriz Demonio ha sucedido a la posición, sin el Sello del Emperador Demonio, su poder de la sangre es incapaz de despertar realmente, e incluso tiene que sufrir a menudo el alboroto de la Energía de la Llama del Cuervo Dorado... ¡Y después de la Emperatriz Demonio, Ya no habrá otro Emperador Demonio! ¡¡Todo, es debido a su familia Yun!! "
+
+"Desde el comienzo de la línea de sangre del Emperador Demonio, había sido diez mil años; Sin embargo, ha sido completamente llevado a su fin por su familia Yun! En la actualidad, para que su familia Yun siga manteniendo su nombre como familia Guardiana ya está confiando en la gracia de la Pequeña Emperatriz Demonio. ¿Cómo podrías tener el rostro para enseñar a otros acerca de la vergüenza, y cómo podrías todavía tener la cara para aceptar una recompensa como la Píldora del Overlord? "

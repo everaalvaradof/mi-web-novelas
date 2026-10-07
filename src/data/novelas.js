@@ -890,5 +890,43 @@ export const novelas = [
             title: "Leer Sólo yo soy un nigromante en Español - Novelas Ligeras",
             description: "Disfruta de Sólo yo soy un nigromante en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
+    },
+    { 
+        id: "048", 
+        titulo: "El Dominio del Emperador", 
+        titulo2: "Emperor’s Domination",
+        genero: "Aventura, Artes marciales, Fantasia, Drama, Acción, Xuanhuan, Harem, Misterio", 
+        anio: "2026", 
+        imagen: "/portada/48.webp",
+        sinopsis: "Hace diez millones de años, Li Qiye plantó un simple bambú de agua en la tierra. Hace ocho millones de años, Li Qiye tenía un pez koi como mascota. Hace cinco millones de años, Li Qiye cuidaba de una niña pequeña... En la actualidad, Li Qiye despertó de su letargo; el bambú de agua alcanzó la cima del cultivo; el pez koi se convirtió en un Dragón Dorado; la niña pequeña se convirtió en la Emperatriz Inmortal de los Nueve Mundos. Esta es una historia sobre un humano inmortal que fue el maestro del Santo Demonio, la Bestia Celestial y la Emperatriz Inmortal.",
+        totalCapitulos: 7220,
+        capitulosPublicados: "7220",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Yanbi Xiaosheng",
+        tag: "",
+        seo: {
+            title: "Leer El Dominio del Emperador en Español - Novelas Ligeras",
+            description: "Disfruta de El Dominio del Emperador en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
+        id: "049", 
+        titulo: "Contra los Dioses", 
+        titulo2: "Against the Gods",
+        genero: "Acción, Artes Marciales, Aventura, Fantasía, Comedia, Misterio, Romance, Xuanhuan", 
+        anio: "2026", 
+        imagen: "/portada/49.webp",
+        sinopsis: "Un muchacho está siendo perseguido por varias personas debido a que sólo él tiene algún tipo de tesoro. Él salta de un acantilado para no dejar que ninguno de ellos lo obtenga y se despierta en el cuerpo de un chico con el mismo nombre en otro mundo. Afortunadamente, se ha mantenido el tesoro con el que saltó al barranco.",
+        totalCapitulos: 2206,
+        capitulosPublicados: "2206",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Mars Gravity",
+        tag: "",
+        seo: {
+            title: "Leer Contra los Dioses en Español - Novelas Ligeras",
+            description: "Disfruta de Contra los Dioses en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
     }
 ];

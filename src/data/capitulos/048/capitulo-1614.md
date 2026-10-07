@@ -1,0 +1,33 @@
+---
+titulo: "Capítulo 1614: ED  Subiendo las Escalas"
+numero: 1614
+novelaId: "48"
+---
+
+Li Qiye sonrió mientras miraba a Yulian: "¿Este tipo Aotian sabe que te gusta?"Yulian se sonrojó por esta revelación pública.Ella lo miró con enojo y dijo fríamente: "No es de tu incumbencia".LiQiye se burló de ella otra vez: "No me importa tu romance, ya que nadabueno saldrá de eso, pero tengo que decir que atreverse a amar y odiartan abiertamente no es algo malo.Si te gusta, entonces confiesa, no tiene sentido ocultarlo.Incluso si haces más cosas por él, él no lo sabrá y no serás nada más que una extraña insignificante en su mente ".Li Qiye tampoco tuvo problemas con Long Aotian.Sin embargo, Inmortal Altisimo salió a propósito en esta generación y esto ha sellado su destino.Han roto el acuerdo del pasado, así que no quedaba nada que decir.Su descarada declaración avergonzó a Yulian, mientras que a los muchachos que les gustaba ella, también se molestaron justificadamente."¡Li Qiye, deja mover tu boca aquí!" Gritó: "Si no puedes subir las escalas, entonces admite tu derrota, ¡no hay necesidad de ganar tiempo!""Si no quieres hacerlo, no es demasiado tarde para rendirte", dijo Yulian con frialdad."Muy bien, romperé tu sueño entonces para que no sigas cayendo más profundo.No es demasiado tarde para dar marcha atrás ". Li Qiye sonrió y dijo.Li Qiye solo quería que la  monarca echara un vistazo, pero no esperaba encontrar el asunto de Yulian.Como este era el caso, era hora de despertarla o sería demasiado tarde cuando su amado se convirtiera en cenizas en el futuro.Todos observaron con anticipación después de escuchar la confirmación de Li Qiye.Observaron atentamente cada uno de sus movimientos y se preguntaron cuántos escalones podría subir.En el pasado, el logro de Aotian en el undécimo escalón ya había dejado sin aliento a la generaciónjoven.Ningún joven se atrevió a desafiarlo, pero era diferente para Más Feroz.Algunos creían que si no podía llegar al undécimo escalón, Long Aotian lo eclipsaría un poco.Incluso si pudiera llegar a este escalón, solo demostraría que sería un rival capaz.Sabían que estaba en desventaja porque lo estaba haciendo después de Long Aotian.El chico ha robado toda la fama.Incluso si Li Qiye pudiera alcanzar el undécimo escalón, la reacción no sería tan contundente como antes.Necesitabaalcanzar el doceavo e escalón para estar en el mismo nivel que el genioeónico, Gu Zun, a fin de obtener el protagonismo y superar a LongAotian.De lo contrario, no estaría brillando tan brillante simplemente por ir de manera uniforme.Mientrastanto, los jóvenes que estaban enamorados de Yulian oraron en voz bajapara que Li Qiye rompiera el logro de Aotian y llegara al doceavo escalón.Querían que alguien derribara a Aotian y le robara su reputación.Esa era la única manera en que Yulian supiera que su amado no era tan excelente.De hecho, incluso la monarca se puso un poco ansiosa.No se trataba de si podía vencer a Aotian o no.Ella se preguntaba si él realmente podría llegar a la cima.Lo dijo hace un rato, así que si realmente pudiera permanecer fiel a sus palabras, sería bastante aterrador.Algunas personas creían que solo los emperadores inmortales podían romper las cadenas de dao para alcanzar la cima.En este momento, él había caminado hacia el primer escalón.Una nota tocó de inmediato.Los forasteros no podían sentir nada, pero este no era el caso del escalador.Este sonido atronador era el ruido del gran dao, tan sonoro como una campana.Instantáneamente atacó el corazón de dao con una fuerza devastadora como si pudiera desgarrar el cuerpo.Inculcó un miedo primordial;alguien con un corazón de daodébil se arrodillaría inmediatamente en el lugar.Sin embargo, Li Qiye no tenía necesidad de usar la determinación y la comprensión. ¡No era necesario que entendiera esta nota de dao en particular ya que su corazón de dao solo era suficiente! Ha sido pulido por las mareas del tiempo, no algo que estas doce escalas pudieran tocar.
+
+"¡Boom! ¡Boom! ¡Boom! ”Dio un paso a la vez ante la multitud que miraba.
+
+"Uno, dos, tres ..." Alguien contó en silencio cada paso.
+
+"Nueve, diez ..." Finalmente llegó al décimo para consternación de Yulian.Su respiración se aceleró cuando hizo una cruz con las manos y oró en secreto para que fallara el undécimo escalón.
+
+En este momento, el se detuvo deliberadamente para mirar al grupo.
+
+“¿Es todo?” Dijo un espectador con voz baja.
+
+Yulian dejó escapar un suspiro de alivio ante esta vista.
+
+"¿Debo continuar?" El sonrió alegremente.La multitud intercambiaba miradas con incertidumbre. No sabían si podía seguir adelante o solo estaba preparando una excusa. Quizás también podría ser una provocación.
+
+Yulian dijo lentamente: "Esta es una competencia amistosa. Si no puedes seguir avanzando, no te fuerces. Perder ante el hermano Long no es para nada vergonzoso. ¡Él es el hijo del cielo!"
+
+"Eso es correcto". Lin Hao pensó que Li Qiye también estaba tratando de escapar. Él resopló en respuesta: "Perder ante el futuro emperador está bien. No te fuerces, baja ya ".
+
+La gente vio a Li Qiye inmóvil en el lugar y pensó que se estaba rindiendo.Se decepcionaron por no haber derribado a Long Aotian.
+
+"Parece que tengo que intentarlo entonces". Él sonrió y dio otro paso.
+
+"¡Undécimo!", Gritó otro cultivador cuando llegó al siguiente escalón.Algunas personas no pudieron evitar aplaudir.
+
+Miró a la sombra de Long Aotian y se echó a reír antes de alcanzarla con un dedo."¡Boom!" La sombra de Aotian fue instantáneamente destruida y no quedó nada.“¡No!” Gritó Yulian con una tez pálida."Eso es demasiado feroz". La multitud se asombró al ver este gesto casual pero destructivo.Tenga en cuenta que Li Qiye estaba soportando la misma presión que Long Aotian.La sombra dejada atrás fue creada por la nota de dao.No fue tan fácil de romper."¿Qué hiciste?" Lin Hao aulló después de ver esto."No hay desafío en absoluto". Li Qiye los ignoró y dio otro paso hacia el siguiente."¡Doceavo escalón!" Otro gritó después de ver esto."Tan increíble". Los jóvenes cultivadores de aquí comenzaron a animar."El chico es irreal.¡Tal corazón de dao y talento pueden compararse con un genio eónico! ”Algunos estaban absolutamente convencidos.Li Qiye se rió de nuevo y sacudió la cabeza mientras miraba la sombra de Gu Zun.Disparó otro golpe de dedo.“¡Boom!” ¡La sombra de Gu Zun también se convirtió en cenizas!“¡Tú!” ¡Era el turno de los discípulos de Supresión del Cielo para enojarse y mirar furiosos a Li Qiye!Más de 200 Capítulos de ED avanzados en elpatreony aumentando cada día.. Para consultas pueden comunicarse con nuestro equipo por whatsapp al +56976572857

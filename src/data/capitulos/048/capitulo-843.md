@@ -1,0 +1,51 @@
+---
+titulo: "Capítulo 843: ED  Flirteando"
+numero: 843
+novelaId: "48"
+---
+
+Después de la ida de la venerable, el basilisco preguntó con curiosidad: "Oye, ¿qué estás tratando de hacer? ¿No me digas que intentas poner a mi hermana con tu padre?"
+
+Long Jingxian miró con orgullo al basilisco y dijo: "Bah, no creas que no sé que a tu hermana le gusta en secreto mi padre".
+
+El basilisco se rascó la cabeza y preguntó: "Uh, ¿es cierto?"
+
+Aunque no estaba muy seguro, su hermana siempre había estado soltera hasta ahora. Tal vez las palabras de Long Jingxian lleven algo de verdad.
+
+Long Jingxian no estaba equivocada en este sentido. La Venerable Basilisco y el Monarca Dragón-Tigre fueron los dos talentos más brillantes de la última generación. Ambos fueron considerados futuros Godkings por la raza demonio.
+
+Su fama se extendió al mismo tiempo y su relación no fue mala.Lavenerable estaba enamorada del monarca.Por desgracia, el sentimiento no fue mutuo.Además, una persona excelente como el monarca nunca tuvo una falta de pretendientes.Muchos de ellas eran bellezas supremas y princesas.Debido a este amor no correspondido, ella permaneció soltera hasta ahora.
+
+LiQiye negó con la cabeza y les dijo a los dos: "No hay necesidad de queustedes dos se preocupen por asuntos de la última generación. Ellos saben cómo manejarlo ellos mismos ".
+
+"Jaja, me gusta ver a esas bellezas pelear por mi padre". Long Jingxian se rió.
+
+Li Qiye solo pudo negar con la cabeza otra vez. Esta mocosa quería jugar demasiado y solo quería más caos en este mundo.
+
+"Sinembargo, Jefe, realmente debes tener cuidado con Ye Qingcheng." Elbasilisco rápidamente dijo: "Debes saber lo increíble que es el ValleDivino. Si esos vejestorios realmente vienen por ti, entonces podría ser peligroso ".
+
+LaTribu Basilisco también estaba relacionada con el Valle Divino, así queel basilisco de cuatro ojos sabía más sobre ellos que los forasteros.
+
+"El Valle Divino, ¿verdad?" Li Qiye se rió entrecerrando los ojos."¿Qué es el Valle Divino?¿Son tan increíbles?¿Cómo es que nunca había oído hablar de ellos antes? "La  viejatortuga  escondida en la esquina finalmente salió en este momento de una maneramuy cautelosa."Este valle es de hecho muy misterioso". Jian Wushuang habló: "Incluso los linajes imperiales lo desconfían.Algunos dicen que en el interior yace un grupo de viejos dioses imperecederos "."¿Dioses imperecederos?" La vieja tortuga estaba horrorizada: "¿No serían entonces imbatibles?¿Cuántas personas en este mundo se atreverían a llamarse a sí mismos dioses imperecederos?"El basilisco explicó: "Quién sabe si son imbatibles o no.Sin embargo, ningún linaje está dispuesto a ir en contra de esos vejestorios.Además, tampoco harían lo mismo fácilmente.Son un montón de monstruos escondidos en una guarida;ellos ni ven la luz del sol ni el mundo.Por lo tanto, los cultivadores en el Mundo de la Medicina de Piedra realmente no saben mucho sobre ellos "."¿Quées este título de dios imperecedero?" Li Qiye sonrió y negó con la cabeza:"Si se les puede llamar dioses imperecederos, entonces yo soy el gobernante delos altos cielos, el tirano de las eras eternas.Esos vejestorios son solo un grupo de veteranos derrotados "."Jaja,Smelly Qiye (apestoso qiye, no se si captan porque le dice asi pero smelly termina con ly, que es como su nombre, bueno o eso es lo que yo creo xD), esta personalidad tuya es lo suficientemente arrogante,justo de la manera que me gusta." Long Jingxian sonrió tiernamente:"¡Los dos juntos pisotearemos el Valle Divino y llegaremos a ser famosos!"
+
+La chica estaba muy emocionada ya que estaba lista para la matanza.
+
+Li Qiye sonrió: "¿De la manera que te gusta? Bien, puedo pensar en tomarte como concubina entonces. "Con eso, él la miró de arriba abajo.
+
+La verdad es que Long Jingxian era muy agradable. Ella tenía características increíbles y una figura increíble además de talentos supremos y una personalidad directa. Sería difícil no gustar de ella.
+
+"Así sea". Long Jingxian reveló una sonrisa encantadora que haría latir más rápido los corazones de los demás. Conconfianza agarró el brazo de Li Qiye y miró provocativamente a JianWushuang: "Jian Wushuang, eres mi sirviente a partir de ahora".
+
+"Es hora de que te despiertes de tu sueño". La orgullosa Jian Wushuang la miró y respondió con desdén.Ellaarqueó sus enormes pechos y declaró con orgullo: "No solo estoy soñandodespierta, definitivamente puedo hacer que este Apestoso Qiye caiga a mis pies.Sólo mira.""Está bien, dejen de ser tan ruidosas ustedes dos.Solo sigue entrenando duro hasta la apertura del Mundo Bestia Bi'an.Entonces habrá innumerables sorpresas agradables. "Li Qiye vio queesas dos estaban a punto de comenzar de nuevo y sacudió impotentementela cabeza."Haha, jefe, ¿hay alguna posibilidad de ver esas agradables sorpresas?" El basilisco no se perdería una buena oportunidad.La vieja tortuga escondida en la esquina también se arrastró muy rápido y dijo en voz baja: "Este humilde también".Li Qiye notó que se arrastraba rápidamente y lo echó de inmediato: "¿Tienes el coraje de venir a preguntar?Antes,el más rápido para esconderse eras tu, el primero en actuar como unatortuga negra que se escondía en su caparazón también.Pero ahora, eres más rápido que nadie cuando se mencionan cosas buenas ". [2.Tortuga negra escondida en su caparazón es una expresión idiomática sobre cobardes.]"Estehumilde, este humilde está estrechamente relacionado con una tortuganegra en primer lugar." La vieja tortuga se sonrojó después de escucharesto, pero él todavía respondió descaradamente.Li Qiye regresó a su lugar. Después de dos días, Li Qiye miró a lo lejos y asintió con la cabeza: "Esta vez no habrá problemas, aparecerá el mundo bestia".
+
+"¿En serio?" El grupo estaba feliz de escuchar esto.
+
+Li Qiye ordenó: "Cuatro ojos y la vieja tortuga buscarán alrededor. Cuando salga el mundo bestia, la entrada naturalmente estará en las ruinas. Háganos saber después de que lo encuentren ".
+
+"¿El jefe quiere ir a otro lugar?" Preguntó el basilisco.
+
+"Sí, Wushuang y Jingxian vendrán conmigo". Habiendo dicho eso, le dijo a Jian Wushuang que limpiara antes de irse.
+
+Lostres se marcharon mientras la vieja tortuga y el basilisco esperaban aque el mundo bestia saliera antes de buscar la entrada.
+
+"¿Novamos a salir de las ruinas?", Preguntó Long Jingxian al darse cuentade que no abandonaban las ruinas, solo caminaban al azar. Además, la energía de la muerte de Li Qiye surgió cuando las leyes del Capítulo de la Muerte se clavaron en el suelo."No, no nos vamos de las ruinas". Li Qiye negó con la cabeza: "Tenemosque prepararnos un poco antes de entrar en el mundo bestia"."¿Planeas convocar a más muertos vivientes?", Preguntó Jian Wushuang después de ver la energía y las leyes de la muerte.Li Qiye se rió entre dientes: "Esa es una forma de decirlo, pero el momento no es el correcto.Solo necesitamos estar listos antes de que comience la tormenta.Solo mire, la sangre correrá como ríos, pero los que caigan no seremos nosotros, serán nuestros enemigos ".Jian Wushuang se volvió en silencio.Siemprehabía sido orgullosa, pero después de chocar contra Li Qiye, comprendióque todos sus enemigos eventualmente sufrirían muertes horribles.Ella sabía que, aunque el actuaba de una manera escandalosa y arrogante, tenía el control en todo momento."¿Tienes miedo del Valle Divino ahora después de escuchar a la Venerable Basilisco?" Long Jingxian sonrió."El Valle Divino solo no puede asustarme". Li Qiye sonrió en respuesta: "Además, tengo muchos métodos si deseo destruirlo.Incluso si esas cosas salen del suelo, no me importaría en absoluto "."Entonces, ¿por qué de repente estás haciendo los preparativos en estemomento?" Long Jingxian parpadeó con sus ojos puros pero encantadores."Porque tengo algunas cosas que no quiero usar, ya que sería demasiadoderrochador". Li Qiye sonrió y negó con la cabeza: "Además, no esseguro que lidie con el Valle Divino"."Jaja, ¿qué otros artículos o esquemas tienes?Déjame echar un vistazo. "Long Jingxian miró a Li Qiye de una manera muy linda."Pequeña niña, no tengas ninguna idea". Li Qiye miró hacia atrás y supo exactamente lo que quería.A Long Jingxian no pareció importarle en absoluto.Ella abrazó íntimamente su brazo y con amor dijo: "No seas tan tacaño.Lo que es tuyo es mío, ¿verdad?Jaja, no estoy pidiendo mucho, solo tu capítulo de antes.Este capítulo es realmente increíble.Lo he mirado por tanto tiempo, pero todavía no puedo entenderlo ". Ella parpadeó mientras decía esto.Sustalentos de Destino Inmortal eran indescriptibles ya que incluso podíacopiar una ley de emperador con un potencial de sesenta a setenta porciento con una sola mirada a pesar de no ser capaz de captar susverdaderas profundidades.Sin embargo, había mirado el Capítulo de la Muerte de Li Qiye durante mucho tiempo y no podía entender en lo más mínimo.Por supuesto, era parte de la Escritura de la Muerte, una de las nueve grandes escrituras.Si pudiera entenderla después de solo una o dos miradas, entonces no merecería ser parte de las nueve.Ni siquiera un Destino Inmortal podría lograr esta hazaña."Buen intento." Li Qiye negó con la cabeza y sonrió.Luego la miró y dijo en broma: "Ya que dijiste que lo tuyo es mío,entonces muy bien, tu Ciudadela del Maestro Bestia tiene varios tesoros queme gustan mucho, ¿por qué no me los das?""Estábien, no hay problema". Long Jingxian estuvo de acuerdo de inmediato ysiguió abrazada a su brazo: "Esposo y esposa deben ser solidarios, asíque todo lo que tengo es tuyo.Si quieres algo, definitivamente te ayudaré a conseguirlo.¿Cuáles quieres?""Wow, ya le quitas cosas a tu clan incluso antes de casarte." JianWushuang la miró y bromeó: "Hay un gran dicho, uno no puede aferrarse auna hija para siempre"."¿Y qué?Así es como me gusta, ¿qué vas a hacer? "Long Jingxian la miró regodeándose:" ¡Ni siquiera pienses en casarte con mi esposo! "Jian Wushuang se puso furiosa y miro enojada hacia ella.Li Qiye se había acostumbrado a ellas discutiendo al menos tres veces al día.Suavemente sacudió su cabeza hacia Long Jingxian y dijo: "Esta es una gran duda.E incluso si realmente te casas conmigo, no te pasaré este capítulo ".

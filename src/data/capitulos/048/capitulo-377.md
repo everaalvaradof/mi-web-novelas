@@ -1,0 +1,57 @@
+---
+titulo: "Capítulo 377: ED  Salida"
+numero: 377
+novelaId: "48"
+---
+
+Las palabras de Li Qiye dejaron al viejo daoísta con una cara triste.Entonces, Li Qiye lo miró y continuó: "Puede parecer que usted es firme, pero su corazón ha estado vacilando.Si sigues así, ¿cuándo terminarás de cultivar la Física Eterna?"El viejo rostro del daoista se caldeó al forzar una sonrisa irónica: "Hehehe, es sólo un pequeño viaje al exterior.Cultivar día tras día es muy aburrido.Tomar aire fresco me ayudará a cultivarme.""Siese es el caso, entonces debes hacer un viaje al Gran TerritorioMedio." Li Qiye se puso serio y dijo: "Hay algunos reinos secretos enesa región.Puedo decirle algunas de las ubicaciones, para que pueda tratar de encontrar algunas delicias supremas.Yya que ya estarás en la región, puedes quedarte en la Secta Antigua deIncienso Purificador por alrededor de diez años como anciano invitado.No sería una mala elección.""¡Ah,quieres arrastrarme a un pozo de fuego!" El viejo daoísta Peng noestaba dispuesto a hacerlo y respondió: "Este sería un viaje laborioso..." El viejo daoista era tan astuto como un diablo.Li Qiye lo miró y dijo tranquilamente con una sonrisa: "Si no quieres ir, entonces no te obligaré. Sin embargo, creo que realmente hay ruinas de la era legendaria que no habían sido visitadas por nadie durante mucho tiempo. Lacarpa divina en ese lago sagrado podría haberse convertido en un dios... El pargo de la montaña Buzhou ... Esta debe ser la cosa másdeliciosa de este mundo, algo que sólo pertenece a la tierra de lashadas ... "1
+
+Li Qiye entonces se balanceó la cabeza como si estuviera imaginando este singular y extremadamente delicioso pescado.
+
+"Elpargo de la montaña Buzhou ..." Después de oír estas palabras, elviejo daoista no pudo evitar tragar su saliva varias veces antes depreguntar: "¿Dónde están localizadas estas ruinas?"
+
+"Oh?"Li Qiye extendió sus palabras mucho y dijo: "Una ubicación tan buena... Sólo podía dejar que los ancianos invitados de mi secta la conozcan.¿Cómo podría decirle a un extraño esto?""Hehehe, voy a discutirlo con mis hermanos menores. ¡Si me dan permiso, entonces iré al Gran Territorio Medio!" El viejo daoista se frotó las manos rápidamente y habló ansiosamente.
+
+Li Qiye se rió y le dijo la ubicación de varios lugares. Después de escuchar, el viejo daoísta tragó saliva varias veces, como si las delicadezas estuvieran delante de sus ojos. Entonces exclamó en voz alta antes de desaparecer como un relámpago: "¡Voy a discutirlo con mis hermanos menores!"
+
+Li Qiye no pudo evitar sonreír mientras observaba la excesiva figura del viejo daoista. Si la Secta del Incienso Purificador tenía un experto como el viejo daoísta como invitado, ¡entonces sería aún más poderosa!
+
+Antes de irse, Li Qiye fue a ver a Chi Xiaodie y dijo: "Regresa a la Puerta Rugido del León.Y si quieres quedarte en la academia, sólo quedarse uno o dos años más.Estar más tiempo sería innecesario ".Chi Xiaodie lo miró con emociones desenfrenadas e indescriptibles. Quería decir algo, pero las palabras no salían. Al final, sólo podía poner una mirada de abatimiento.
+
+"Chica tonta." Li Qiye acarició su cabello suavemente y dijo: "Un día volveré a las Cien ciudades del Este. Por supuesto, la Secta Antigua del Incienso Purificador siempre te dará la bienvenida también. "
+
+Ella finalmente se relajó con una sonrisa después de escuchar esto, pero ella todavía no dijo nada al final.
+
+El día del viaje finalmente había llegado, y Li Qiye estaba bien preparado.Inmediatamente se dirigió a la morada del Dios del Reino con Li Shuangyan y las otras chicas que lo iban a despedir;El viejo daoísta Peng también fue.Al pasar por el Pico Elegante, Li Qiye no pudo evitar mirarlo desde la distancia. Al darse cuenta de esto, el viejo daoísta susurró en voz baja: "-¿Quieres decir adiós a la Matriarca?"
+
+LiQiye sacudió la cabeza mientras contemplaba el pico y respondió: "¡Nohay necesidad, habrá otra reunión al final!" ¡Habiendo dicho eso, retirósu mirada y se fue!
+
+En las profundidades de la Academia de Dao Celestial, había un árbol de pino antiguo tan majestuoso como un dragón.Esta fue la primera vez que Li Shuangyan y los otros vieron al Dios del Reino.Después de darse cuenta de que el Dios del Reino era sólo un árbol de pino, no podían evitar quedarse asombrados.Una existencia invencible era un simple árbol de pino, ¿cómo podría alguien creer esto?
+
+"-¿Estás listo?" La vieja voz del Dios del Reino apareció.Li Qiye respiró hondo y dijo: "¡Estoy listo, llévame a ese lugar!""Quiero comprobar las paredes espaciales.No estoy muy seguro si puedo llevarte a tu lugar deseado, pero sinimportar si la turbulencia espacial ocurrirá o no, todavía puedollevarte al Sagrado Mundo Inferior. "El Dios del Reino dijo.Li Qiye asintió solemnemente y dijo: "Esto no es un problema.Incluso si es otro lugar, tengo otros medios de entrar.""¡Comienza!" El Dios del Reino no dijo nada más como una rama lentamente se adelantó.Esta rama tenía el grosor de un pulgar, pero su corteza era como las escamas de dragones;era aparentemente muy duro como la lanza de un dios.Li Qiye despidió al grupo de Li Shuangyan, luego saltó encima de esta rama y dijo con un tono serio: "¡Lléveme allí!""-¡Ve!"  El Dios del Reino gritó ligeramente mientras la rama del pino levantabaa Li Qiye y luego desaparecía en el horizonte en apenas un segundo.Esta rama de pino de las profundidades de la academia se extendía hasta el firmamento.La rama delpino utilizó una velocidad inimaginable para tomar a Li Qiye, queestaba de pie encima de él, todo el camino hacia el espacio mientras sedirigía hacia un cierto lugar. Su velocidad era comparable a viajar a través de portales dao.
+
+Ante la rama del Dios del Reino, incluso el vacío y las estrellas se retiraban rápidamente de su camino.
+
+"El Sagrado Mundo Inferior tiene una tierra siniestra. Talvez esa cosa diabólica surgirá en esta generación. "Durante el viaje,la voz del Dios del Reino sonó por la oreja de Li Qiye.
+
+Li Qiye se rió y dijo: "Hablando de tierras siniestras, están por todos los Nueve Mundos.Son sólo cosas del pasado antiguo; incluso el mundo del emperador mortal tiene tal lugar, pero está simplemente en un estado latente. "
+
+El Dios del Reino estuvo de acuerdo con un pensamiento cuidadoso."En cuanto aesa cosa diabólica en el Sagrado Mundo Inferior... Realmente espero queesta cosa se arrastre fuera de ese lugar horrible. Hah, esacosa ha estado ocultándose durante tanto tiempo que algunos misteriosdel Sagrado Mundo Inferior tienen algo que ver con eso. Mientrassalga, entonces habrá una oportunidad de aprender las respuestas sobretodos ellos. "Li Qiye dijo con una expresión seria.
+
+El Dios del Reino no respondió a Li Qiye. Este tema tenía algo que ver con un gran secreto de este mundo; incluso implicaba una vieja divinidad de generaciones anteriores!
+
+En un abrir y cerrar de ojos, el Dios del Reino finalmente llevó a Li Qiye a un cierto lugar en el espacio. Aquellos que nunca habían visto esta escena antes seguramente estarían sorprendidos.
+
+En las profundidades del espacio interminable, se podía ver una imponente ciudad antigua.Sin embargo, no había habitantes ni signos de vida como si hubiera estado desierta durante mucho tiempo."Puerta ( portal igual puede ser pero el dejare puerta) Estelar ah, algo capaz de alcanzar todos los otros mundos.Dentro de poco, este lugar será muy próspero;un lugar donde todos los principales patrimonios se mantendrán juntos", dijo Li Qiye con emoción después de ver esta antigua ciudadabandonada."Enese entonces, cuando el Rey Dragón Negro luchó contra el EmperadorInmortal Ta Kong, no se atrevieron a permanecer en los Nueve Mundos ytuvieron que entrar en el espacio, el campo de batalla de la EraLegendaria, pero todavía lo destruyeron todo".ElDios del Reino continuó: "El Rey Dragón Negro destrozó la Voluntaddel Cielo y eventualmente rompió los canales que conectaron los NueveMundos, de modo que las paredes espaciales quedaron selladas.A partir de ese día, los nueve mundos fueron separados y los cultivadores ya no podían viajar de un mundo a otro.Incluso las personas capaces de abrir la lista de investidura divina no podían hacerlo descuidadamente ".Hace más de treinta mil años, los nueve mundos estaban conectados.Mientras uno tenía suficientes jades refinados o era lo suficientemente poderoso, podrían usar puertas estelares.Cada mundo tenía una puerta estelar capaz de viajar a otro mundo mientras se pudiera pagar la tarifa.Desafortunadamente,la lucha entre los dos grandes destruyó los caminos a los nueve mundos,así que las conexiones fueron cortadas totalmente.
+
+De hecho, en los últimos treinta mil años, muchas personas trataron de abrir el camino a los otros mundos. Desafortunadamente, como las paredes espaciales estaban cerradas, era imposiblemente difícil.
+
+Incluso si uno pudiera abrir un canal, el camino en sí sería extremadamente inestable.Incluso Paragones Virtuosos no intentarían imprudentemente utilizar ese canal yaque el colapso del camino daría como resultado consecuenciasinimaginables.Incluso la muerte no estaba fuera de la cuestión.
+
+Cuandoel Dios del Reino llevó a Li Qiye al espacio, muchas personas sealarmaron al ver una rama de pino extenderse hacia el cielo."¿Quéestá haciendo el Dios del Reino?" Después de la batalla que agito los cielos del  Dios del Reino, en este momento, incluso un chorro de viento de laacademia atraería el foco de todos los demás.Asíque este movimiento repentino del Dios del Reino sorprendióinstantáneamente muchos viejos imperecederos dentro de las Cien Ciudades del Este.En un corto período de tiempo, muchos miraron hacia el horizontemientras los cultivadores más poderosos abrieron sus miradas celestialespara mirar hacia el espacio.Estos ancestros ​​vieron una rama del Dios del Reino llevando a Li Qiye al espacio, y todos quedaron bastante sorprendidos.Una mirada celestial de un ancestro notó su destino y murmuró: "¡Ése es el lugar con la puerta estelar!"Muchos ancestros ​​y maestros legendarios fueron tocados por esta escena.Desde que los caminos que conectaron los Nueve Mundos fuerondestruidos, todos los linajes en este mundo abandonaron la puerta estelar, por lo que se convirtió en una ciudad vacía en los últimostreinta mil años.Muypocas personas viajaron a la puerta estelar en los últimosaños, ya que viajar en el espacio necesitaba un gran tesoro volador conun poderoso maestro al timón.En lostiempos actuales, no había ningún punto en ir a la puerta estelar, por lo que ningún maestro estaba dispuesto a perder su tiempohaciendo tal cosa.
+
+Hoy, el Dios del Reino de repente llevando a Li Qiye a la puerta estelar conmocionó a muchas personas. Un ancestro de una gran secta respiró profundamente y murmuró: "¿Esta este Li Qiye tratando de ir a otro mundo?"
+
+Muchos se estremecieron al pensar en un pensamiento semejante. Li Qiye, en el Mundo del Emperador Mortal, fue capaz de hacer lo que quisiera. ¿Por qué de repente quería ir a otro mundo?
+
+"¡Tan audaz!Quiere ir a otro mundo en los tiempos actuales.Tiene que abrir con fuerza la pared espacial;es difícil imaginar las consecuencias del fracaso ". Incluso un maestrolegendario sintió un escalofrío en su corazón.1-La montaña de Buzhou es una montaña mítica.2-     La lista de la investidura divina es simplemente otra frase usada para describir los altos Paragones Virtuosos.

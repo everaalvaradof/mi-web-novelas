@@ -1,0 +1,51 @@
+---
+titulo: "Capítulo 1133: ED  Contraofensiva"
+numero: 1133
+novelaId: "48"
+---
+
+El mundo fue inmediatamente silenciado. Tanto los enemigos como los amigos quedaron aturdidos durante mucho tiempo.
+
+Incluso los discípulos del Incienso Purificador no podían creer que el edificio triangular tuviera tal uso. De hecho, incluso el grupo de Gu Tieshou lo encontró inconcebible.
+
+Todos los escalones de la secta pensaban que era solo un lugar para almacenar tesoros y leyes. Nadie pensó que podría ser usado como arma.
+
+Lo que fue aún más sorprendente fue que este enorme edificio era tan ágil como una estrella arrojadiza; era capaz de decapitar a las personas con facilidad.
+
+La gente eventualmente se calmó. Unapersona respiró profundamente y murmuró: "Más Feroz siempre es así sinimportar a dónde vaya, siempre matando hasta que fluyan ríos de sangre. Tanto la Montaña Aplasta Espacio como el Reino Antiguo Misterioso Azure no son dignos de mención en sus ojos. Él es un monstruo, un monstruo rampante sin nada que lo frene ".
+
+"¡Pop!" Centinela de la Era y el ancestro demonio que fueron capturados por Bu Lianxiang fueron arrojados al suelo.Las dos legiones fueron aniquiladas.Aunque estos dos eran poderosos, ahora se habían convertido en prisioneros.A pesar de ser un general veterano bajo el Emperador Inmortal Ta Kong, ni siquiera pudo resistir un golpe de Bu Lianxiang.Ella era demasiado poderosa y la galaxia en su mano era aún peor.Era bastante desafiante para el cielo, por lo que era inevitable que estos dos fueran tan vulnerables ante ella.Hubo algunos peces gordos corriendo desde la meseta funeraria budista.Lahabían visto en acción en el Mundo del Diablo Imperial Menor antescuando mató al Ancestro Divino y al Maestro de la Secta de los MilEmperadores.Comparado con esos dos, el ancestro demonio era mucho más débil, así que esto era de esperar.Pero aquellos que nunca la habían visto pelear solo podían estremecerse dentro.Un general del último emperador fue capturado en tan poco tiempo; estefue realmente un giro sorprendente de los acontecimientos."¿Es eso un Agresor de Emperador?". Un viejo maestro de secta fue asediado por su poder.Sintió un escalofrío y el sudor le corría por la espalda.Unancestro podría adivinar débilmente su poder y murmuró: "Probablementeno esté en ese nivel, pero definitivamente no está lejos".
+
+Li Qiye pateó al Centinela de la Era y ordenó fríamente: "¡Arrodíllate!"
+
+El general se puso de pie y dijo con orgullo: "¡Joven, haz lo que quieras! Ni siquiera sueñes con hacerme arrodillar ".
+
+A pesar de ser capturado, todavía era bastante inflexible. Después de todo, él era general de un emperador.
+
+"Crack-crack!" Li Qiye aplastó sus huesos con una patada.
+
+"¡Pop!" Centinela de la Era involuntariamente se arrodilló en el suelo.
+
+Incluso si era más persistente, no había nada que pudiera hacer, ya estaba en la tabla de cortar.
+
+"Inclusosi el Emperador Inmortal Ta Kong estuviera en este mundo, aún no me importaría, ¿quién crees que eres?" Li Qiye lo miró antes depisotear al ancestro demonio."¡Pop!" El ancestro demonio no tuvo más remedio que postrarse.En este momento, carecía del poder para incluso atar un pollo.Mucha gente se quedó sin aliento después de ver esto.Uno era un general celestial, mientras que el otro era un ancestro demonio, pero se vieron obligados a arrodillarse ante Li Qiye.Sus ojos se movieron hacia la montaña divina en el cielo, así como el Reino Antiguo Misterioso Azure."General principal y bestia guardianadivina, ¿y qué?¡Incluso si los ancestros invencibles de la Secta Inmortal Altisima estuvieran aquí, todavía tendrían que postrarse ante mí!Debo decapitar a mis enemigos para que el mundo los vea.¡En los nueve cielos y las diez tierras, los que se oponen a mí seconvertirán en cenizas, incluso si son dioses eternos! "Su voz fría hizotemblar al mundo."¡Ah!" En el momento en que hizo su declaración, tanto el general como elancestrodemonio gritaron.Las manos de Li Qiye ahora agarraban sus cabezas.Con un crack, les arrancó la cabeza y las espinas.Esta sangrienta escena fue realmente impactante.Todos los espectadores se asustaron.Dos grandes seres fueron ejecutados públicamente.Solo los emperadores inmortales se atreverían a hacer algo como esto."¡Esto es demasiado despiadado!" Todo el mundo estaba temblando por dentro, incluidos Monarcas Dios y Godkings.Hoy entendieron lo que era el miedo, algo que Más Feroz no poseía.Él no podía ser disuadido por nadie ni por ningún poder.Cualquiera que haya venido hoy debe arrodillarse ante él.¡Sus enemigos, sin importar quiénes fueran, serían aniquilados inclusosi fueran los emperadores y dioses sobre los nueve firmamentos!Li Qiye casualmente arrojó sus cabezas y ordenó: "¡Shuangyan, Baojiao, Baijian, obedezcan mis órdenes!""¡Tus criadas están aquí!" Las tres salieron e inclinaron la cabeza.[1.Esto puede sonar extraño en inglés y un poco degradante, pero es eluso normal / esperado del discurso y del pronombre / autodirección en unevento formal y público.]Él pronunció con frialdad: "Las tres de ustedes, traigan algunos discípulos y destruyan la Secta del Dios celestial por mí.¡Asegúrate de que cuando salga el sol mañana, la Secta del Dios celestial ya no exista!""Afirmativo". Las tres chicas se fueron.Tomaron algunos discípulos del Incienso Purificador y abrieron un portal para atacar a la Secta del Dios celestial."Solo Más Feroz está calificado para hacer algo como esto". Todosestaban maravillados de ver a estos genios incomparables que se llamabana sí mismas criadas ante Li Qiye.LiQiye señaló a Viejo Diablo y al fornido hombre encadenado: "Mu Shaodi, MuShaohuang, ustedes dos van a destruir la Montaña Aplasta Espacio para mí.¡No deseo ver que exista después del amanecer de mañana! "[2.Suspiro.Ahora sabemos que estos son nombres reales, no títulos.Por lo general, es al revés.Mu Shaodi = Joven Emperador Mu;Mu Shaohuang = Joven Rey Mu.]El Viejo Diablo y el hombre encadenado se miraron el uno al otro,pero finalmente, el Viejo Diablo inclinó la cabeza y dijo: "¡El mandatode Su Excelencia es la voluntad suprema!"¡Con eso, se elevó en el cielo y se dirigió directamente hacia la Montaña Aplasta Espacio!El hombre corpulento también dio un paso en el cielo sin ninguna duda.Sus cadenas de hierro emitieron más ruidos metálicos."Buzz-" La montaña en el cielo sabía que enemigos poderosos se acercaban.¡Activó su formación imperial y preparó su legión!Li Qiye echó un vistazo a la montaña y habló de una manera impresionante: "Arcano, ¿dónde estás?"Un viejo con un sombrero de papel apareció de la nada.Se postró en el suelo y respetuosamente dijo: "¡Esta humilde está a las órdenes de Su Excelencia!""Ve, préstales una mano.¡Destruye rápidamente la Montaña Aplasta Espacio! "Li Qiye emitió su comando mientras apuntaba al cielo."¡Afirmativo!" Gurú Arcano reconoció la orden.Llevó un ataúd dorado con ambas manos mientras se elevaba hacia el cielo y persiguió a Mu Shaodi.Esta fue una escena increíble.Mu Shaodi había sido famoso durante 50,000 años, y muchas personas le tenían mucho miedo.Mientras tanto, el Guru Arcano tenía la fuerza de un Monarca Dios.Pero ahora, todos obedecían a Li Qiye mientras actuaban tan respetuosos como jóvenes.Li Qiye miró en dirección al  reinoantiguo y habló lentamente: "¡Lianxiang, te dejaré el Reino Antiguo Misterioso Azure!"Ella dijo en voz baja: "No te preocupes, si no quieres que vean el sol naciente mañana, nunca lo harán".
+
+"¡Boom!" El vacío se hizo añicos. Con una velocidad sin igual, ella cruzó de inmediato innumerables reinos para llegar al reinoantiguo .Las alarmas sonaron de inmediato en el reino. Un ancestro gritó: "¿Quién es?"
+
+"¡La persona que terminará tu reino!" Su bella mano pasó. Hubo una sensación inmediata de que el mundo se estaba derrumbando. El terreno ancestral del reinoantiguo fue destrozado junto con su gran formación."¡Rumble!"Después de notar el poderoso ataque, las armas imperiales volaron desdeel terreno ancestral, incluidos los tesorosverdaderos .La bestia guardianadivina del reino finalmente gritó: "Compañero daoísta,no tenemos agravios o enemistades, ¿por qué estás atacando nuestroreino?"Ella declaró dominantemente: "¡La voluntad de mi hombre es el mandato del alto cielo! ¡Si él quiere destruir el Reino Antiguo Misterioso Azure, este ya no existirá!"(jajaj donde estan estas mujeres??? ahora todas feministas y quieren ordenarnos a nosotros hombres xD)
+
+Con eso, ella sacó el Espejo Inmortal Refina Yin Yang. "¡Boom!" Yin y Yang dieron marcha atrás. Dos rayos de luces inmortales descendieron y destrozaron el reino. Un arma imperial fue destruida tras otra.
+
+"¿Es esto un cataclismo?" ¡Todos se estremecieron antes de este golpe que causó que todo el Mundo del Emperador Mortal temblara!
+
+"¡Ábrete!" La bestia divina tuvo que salir personalmente después de ver a la invencible Bu Lianxiang. Mientras controlaba dos Tesoros Verdaderos del Emperador Inmortal, corrió directamente hacia ella. Estas fueron las armas del destino verdadero del Emperador Inmortal Qing Xuan y el Emperador Inmortal San Dao. Bajo su embestida, incluso las estrellas en el cielo y la tierra abajo temblaban."No lo harás". La mujer dominante sacó una galaxia capaz de cruzar eones. El tiempo se detuvo y el espacio fue confinado. Innumerables estrellas la orbitaban. En este momento, se parecía al maestro de los nueve mundos, el señor supremo de los celestiales.
+
+"¡Bang!" Los dos comenzaron su pelea devastadora. La bestia divina quería suprimirla usando sus dos  tesorosverdaderos.Sin embargo, ella era mucho más poderosa que él, especialmente la galaxia en su palma. Envolvió a miles de dao, por lo que el fue el único reprimido.
+
+"Ella, ella es demasiado poderosa". La multitud quedó estupefacta mientras veía esta escena.
+
+"Tan arrogante. Solo una mujer así puede ser una buena pareja para Más Feroz. "Alguien murmuró aturdido después de recordar sus palabras antes.
+
+"¡La voluntad de mi hombre es el mandato del alto cielo!" La gente se distraía mientras reflexionaba sobre estas palabras.
+
+¡Tener una mujer así en la vida era más que suficiente!

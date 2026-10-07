@@ -1,0 +1,53 @@
+---
+titulo: "Capítulo 292: ED  Le Yi"
+numero: 292
+novelaId: "48"
+---
+
+Alestar de pie frente a este monolito y ver el nombre de "MonarcaLeónBaXian", Chi Xiaodie no podía dejar de sentirse emocional y orgullosa.¡Era el antepasado de su abuelo!No sólo estudió en la academia, sino que también barrió los Ocho Desolados.A pesar de que nació durante la época del Emperador Inmortal Tun Ri, todavía era una figura increíble para toda una generación!Éste era el autógrafo personal del Monarca León - un recuerdo de su familia.Mirando fijamente este magnífico recuerdo, el corazón de Chi Xiaodie se llenó de orgullo;no pudo evitar apretar fuertemente los puños.Su antepasado eran Rey Dios de Cien Batallas, alguien que fue aceptado por los Dioses Verdaderos.Su otro antepasado era el Monarca León;un modelo de una generación.Como su descendiente, tal vez un día, ella será capaz de reavivar la gloria de sus antepasados ​​y el aura divina de nuevo!Li Qiye miró fijamente el monolito sin decir nada.Unnombre familiar, una persona famosa, un personaje invencible, unsonriente genio orgulloso ... Ay!, al final, no importaba si uno erainvencible o un Emperador Inmortal, todo desaparecería a lo largo delrío del tiempo.Cualquiera de los nombres de este monolito representaba un pico en un momento u otro, lo que simbolizaba una era dorada. Conocíaa algunos de ellos y había oído hablar de otros, y había inclusoaquellos que luchaban junto a su carro y contribuían en gran medida ...Desgraciadamente, todos ellos desaparecieron porque caminar por elsendero del gran dao era un camino solitario; era un destino cruel y despiadado.
+
+"Vamos." Li Qiye suspiró suavemente y habló con Chi Xiaodie, que estaba aturdida frente al monolito.
+
+Chi Xiaodie logró calmar sus emociones y siguió a Li Qiye. Cuando los dos entraron en la academia, un joven bajó de la escalera para saludarlos.
+
+"Este debe ser el Hermano Li, ¿verdad?" Él juntó sus manos hacia Li Qiye y Chi Xiaodie, luego sonrió y preguntó.
+
+Este joven tenía un cuerpo alto y robusto como una montaña inquebrantable. No exudaba un aura presionante, pero sus ojos eran como piedras negras, brillantes, firmes y heroicas."Mi nombre es Le Yi. Misdisculpas por la tardía recepción a pesar de su largo viaje. "El jovenera cortés y juicioso y también tenía un extraordinario porte.
+
+Li Qiye no dijo nada, pero Chi Xiaodie se sobresaltó al enterarse de que era Le Yi. Ella no esperaba que el primer discípulo de la academia los saludara personalmente.
+
+LeYi era una persona de renombre en las Cien Ciudades del Esteaunque su fama no era como Zu Huangwu del Reino Antiguo Brillantez,alguien cuyo trasfondo y talento eran absolutamente brillantes junto conun imparable cultivo ascendente.
+
+Le Yi tampoco eracomo el primer príncipe Ba Xia del PaísSanto Inmortal Furioso, alguienque tenía una aura supresora y aterradora que desafió a todos y se hizofamoso de sus batallas.Le Yi se unió a la Academia de  Dao Celestial y se convirtió en su discípulo principal;mientras soportaba un entrenamiento arduo, su cultivo se mantuvo muy bajo perfil.Raravez desafió a los forasteros a la batalla, pero Le Yi se sentó fuerteen su trono en la academia y nunca temió ningún reto.Seguía siendo una montaña inquebrantable, sin importar qué genio probara su poderío.Incluso cuando Ba Xia, con su fuerte aptitud natural de lucha, lo desafió, Le Yi todavía calmadamente accedió.Nadie sabía el resultado de esta pelea, pero Ba Xia entró en meditación aislada después de regresar a su país.El PaísSantoanunció entonces que la batalla entre Ba Xia y Le Yi era un empate.Algunas personas especularon que Ba Xia no fue capaz de derrotar a LeYi y que el amistoso Le Yi se detuvo en el momento apropiado.Gente curiosa clasificó a la generación más joven dentro de las cien ciudades del este.Una clasificación colocó a Mei Suyao en el primer lugar y Le Yi y Zu Huangwu en segundo lugar.Esteranking no fue sin razones, pero por supuesto, hubo quienes lorechazaron y pensaron que la fuerza de Le Yi no era comparable a ZuHuangwu.En resumen,Le Yi era uno de los genios más fuertes de las Cien Ciudades del Este, perosiempre había mantenido un perfil bajo en la academia y simplemente seentrenó, por lo que su fama no fue tan fuerte como la fama de Zu Huangwuo Ba Xia.
+
+Li Qiye sonrió y dijo tranquilamente:"Disculpe, nosotros dos vamos al Gran Salón de la Era a registrarse". Li Qiyeestaba muy despreocupado como si fuera un turista que miraba el paisaje.
+
+Chi Xiaodie calló junto a Li Qiye y simplemente siguió su ejemplo.
+
+"Entonces voy a abrir el camino para el hermano Li y la señorita Chi." Le Yi no se retrasó con una charla.Llamóa un velero y lo abordó antes de decir: "Todavía hay un largo caminohasta el Gran Salón de la Era, permítanme llevarlos a ustedes dos".Los dos entraron en el barco, entonces Le Yi lo controló para volar hasta el cielo. La velocidad del velero era extremadamente asombrosa y recorría diez mil millas en un abrir y cerrar de ojos.
+
+"El vehículo de transporte de Wang Yuan es realmente interesante; estebarco se había hundido una vez en el océano, pero todavía logró salireventualmente. "Li Qiye se paró en el velero y se puso un pocoemocional después de ver este viejo objeto familiar.
+
+Chi Xiaodie se sobresaltó; ella no esperaba que este diminuto velero fuera el tesoro del Segundo Sabio. ¿Cuán grande fue el estatus del Segundo Sabio en la historia de la academia? Esto era indicativo de la posición de Le Yi en la academia.
+
+"El hermano Li está muy bien informado, me avergüenzo de mi inferioridad." Le Yi también se sorprendió.1Le Yi siempre había utilizado este velero, pero muy pocas personas reconocieron su origen a primera vista.Li Qiye reconociendo este tesoro lo tomó desprevenido, peroahora vagamente entendía por qué los altos de la academia reclutaron derepente a un estudiante con un fondo desconocido como éste.El velero se dirigió directamente a la Academia de Dao Celestial.Una vez dentro, uno finalmente comprendería cuán amplio era este pedazo de cielo y tierra.En este lugar, los grandes ríos fluyeron por cien mil millas;en este lugar, las montañas cubrían millones de millas como dragones gigantes;en este lugar, había ciudades con millones de habitantes;en este lugar, los puentes divinos acortaron los huecos entre las ochodirecciones, conectando las divinas montañas que atravesaban todo elcamino hasta el cielo ...Chi Xiaodie estaba asombrada mientras visitaba este cielo y la tierra por primera vez.Fue un completo error pensar que la Academia de Dao Celestial era simplemente una academia simple como su nombre indica.Era más como un país gigante, una existencia gigante.Su territorio era extremadamente extenso;sólo la Escuela Río Eterno era comparable a la monstruosa academia de las Cien ciudades del Este.Eventualmente, llegaron al Gran Salón de la Era . Era más apropiado llamarla una gran secta que un gran salón. Toda la sala tenía decenas de valles y montañas, creando una región que se extendía por miles de kilómetros. Lastierras ancestrales de las herencias ordinarias no tendríannecesariamente la misma densidad rica de energía mundana que este lugar.
+
+Sólo se podía imaginar lo aterrador que era la vena del cielo y la tierra de la academia. Huboun rumor que decía que la academia poseía la mejor vena en las Cien Ciudades del Este, tal vez incluso en todo el Mundo del Emperador Mortal. 2
+
+Debido a esto, durantemillones de años, innumerables grandes personajes codiciaron elterritorio sagrado de la academia, pero desafortunadamente, ninguno deellos pudo sacudir su fundamento.
+
+Li Qiye y Chi Xiaodie fueron a la cima de una montaña. Le Yi consiguió la orden de los escalones superiores para dar a los dos de ellos una montaña. Este tratamiento fue muy generoso dentro del Gran Salón de la Era.Después de organizar todo para los dos, Le Yi dijo: "Hay decenas de miles de discípulos en el Gran Salón de la Era. Si el hermano Li y la señorita Chi quieren conocer a otros, entonces les puedo presentar a ustedes dos.
+
+Chi Xiaodie escucharía completamente el comando de Li Qiye entonces ella no hizo ningún comentario. Mientras tanto, Li Qiye sacudió la cabeza y sonrió y respondió: "No hay necesidad, voy a descansar por ahora".
+
+LeYi entonces explicó la situación en el salón a Li Qiye: "Muy bien,habrá una conferencia cada cuatro horas por un mayor de la academia. Los dos pueden elegir cualquier curso que quieran."
+
+Finalmente,terminó con un comentario educado: "Si el hermano Li y la señorita Chitienen algo en mente, siéntete libre de venir a buscarme en cualquiermomento".
+
+De hecho, Le Yi estaba bastante perplejo y no sabía por qué los superiores le decían que recibiera a dos estudiantes. Estos dos estudiantes no pasaron por ningún examen, ni pagaron ninguna matrícula.Había innumerables genios en la época contemporánea, pero la academia no permitía que nadie pasara por la puerta de atrás. Inclusogenios como Ba Xia y Zu Huangwu tuvieron que pagar una cuota dematrícula muy alta o aprobar una serie de evaluaciones para unirse a laacademia. Incluso la enseñanza extremadamente cara tenía una prueba básica; si uno no podía cumplir con este requisito básico, entonces no sería capaz de unirse, no importa lo ricos que eran. Sólo los genios fueron permitidos en la academia.
+
+Sin embargo, los absolutamente brillantes tendrían su matrícula cedida si lograron pasar todos los exámenes. Estos picos prodigios estaban felices de someterse a estos exámenes porque era una especie de gloria.
+
+A pesar de que el Gran Salón de la Era tenía los requisitos más bajos, siempre había aplicado sus normas estrictas.Los estudiantes que se unieron a este salón tuvieron que pagar la matrícula o pasar la prueba.Si pasaron la prueba con creces, entonces su matrícula se reduciría.Le Yi encontró extraño que Li Qiye y Chi Xiaodie no hicieran exámenes ni pagaran ninguna clase. Chi Xiaodie era una cosa; siendo la princesa del país rugido del león - había demasiados personajes como ella. El problema era el misterioso origen de Li Qiye.
+
+Loque realmente desconcertó a Le Yi fue que si Li Qiye tenía un origenaterrador, no se uniría al Gran Salón de la Era sino al Salón de la EraSagrada. Sin mencionar que incluso si Li Qiye fuera un genio extraordinario, la academia no abriría la puerta trasera sólo para él. Zu Huangwu y Deidad Jikong Wudi fueron tan poderosos e invencibles, ¡ah! Sin embargo, incluso tenían que pasar exámenes para entrar en los salones más fuertes!1-Esto es sólo una alabanza cortés / formal.2-     Sólo para aclarar - la vena del cielo y de la tierra es lo que produce la energía del mundo para los cultivadores para entrenar.

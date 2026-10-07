@@ -1,0 +1,45 @@
+---
+titulo: "Capítulo 1193: ED  Fosa Sin Fondo"
+numero: 1193
+novelaId: "48"
+---
+
+Según la leyenda, la fosa sin fondo fue la fosa más profunda y más larga en el Mundo Espíritu del Cielo.
+
+Durante muchos años, muchas personas han explorado esta particular fosa, pero ninguna pudo hacerlo completamente.
+
+Alguien dijo una vez que esta fosa era lo suficientemente larga como para cruzar todo el Mar de Jade. Sus profundidades seguían siendo un misterio porque nadie había sido capaz de llegar al fondo.
+
+Seextendió más allá del territorio de las Tres Escuelas de laImperfección del Vacío y trajo un paisaje diferente a esta región.
+
+Esto fue especialmente cierto cuando estaban más cerca de las tres escuelas. Se había dicho que este extremo de la fosa cerca de Playa Poco Profunda era el tramo más hermoso.
+
+Cuando el grupo de Li Qiye se acercó, vieron una hermosa vista llena de bosques de coral.
+
+Este campo de coral puede extenderse por miles de millas a lo largo de los dos lados de la zanja.Un campo tan grande fue realmente espectacular, un espectáculo que solo se encuentra en el Mundo Espíritu del Cielo.Había todo tipo de coral colorido de diferentes formas y tamaños hasta donde alcanzaba la vista.Algunos eran tan grandes como árboles que crecían desde el fondo del mar hasta la superficie.Bajo estos árboles, grupos de algas se balanceaban con peces felices.También había cuevas llenas de gambas y cangrejos, así como tortugas grandes descansando sobre ...Algunos crecieron en un patrón entrecruzado y se entrelazaron en un enorme laberinto.Si uno entraba a esta cueva de coral, seguramente se perderían.Con todo, este campo fue un deslumbrante espectáculo de encanto indescriptible e inolvidable.Se puede encontrar una depresión después de cruzar este campo por completo.Esta fue la famosa fosa sin fondo.Era amplia hasta el punto de que parecía dividir todo el mar.Era completamente negra;mirar hacia la fosa era como mirar las fauces abiertas de unmonstruo que devoraría cualquier cosa que cayera dentro de él, una causade temor y asombro.El grupo se detuvo dentro del bosque de coral y no siguió adelante.Aquí, Li Qiye examinó meticulosamente un enorme coral.Los dos no sabían lo que Li Qiye quería hacer.Se quedaron detrás de él con la respiración contenida y no se atrevieron a molestarlo.Luego, Li Qiye se movió tan rápido como un rayo.Sus dedos avanzaron con una velocidad más allá de la percepción de los dos.Luegoextendió las palmas de las manos ante Teng Jiwen y Ye Tu para mostrarun insecto con el pelo difuso alrededor de la longitud de un dedo.Este insecto estaba retorciéndose en su palma y le dio una sensación bastante espeluznante.[1.No estoy seguro de qué tipo de insecto es, ya que no está claro.No es una palabra clara para gusano, oruga u otra cosa, por lo que lo mantenemos como un insecto para ir a lo seguro.]"Está bien, ya que ustedes dos están aquí, les confiaré este importante asunto a ustedes dos.Atrapen estos insectos por mí, mientras más, mejor.Después, tuestelos y muelalos en polvo ". Li Qiye arrojó el insecto sobre estos dos.Los dos estaban bastante perplejos y no sabían el propósito de esta sesión de captura de insectos.Sin embargo, siguieron sus órdenes y buscaron a través de estos arrecifes de coral sin decir nada.Estos dos tenían estatus geniales.Unoera supervisor de la Escuela de la Imperfección del Vacío, mientras queTeng Jiwen era aún mejor como el prestigioso sucesor de la Ciudadelade la Vid Celestial.Sin embargo, actuaron obedientemente como seguidores de Li Qiye para encontrar estos insectos.Despuésde pasar este asunto a la pareja, Li Qiye inmediatamente se fue a lasuperficie del mar y comenzó a caminar sobre el agua.Después de caminar un poco mirando el cielo, se dejó caer y comenzó a flotar con la cara fuera del agua. Cerró los ojos como si estuviera durmiendo.
+
+El mar estaba en silencio y movió a Li Qiye. Todo el proceso fue sin sonido, como si Li Qiye fuera uno con el mar.
+
+Durmió y dejó que el mar lo llevara a donde quisiera. El día pasó así.
+
+"¿Eres joven Noble Li?" Algún tiempo después, una dulce y clara voz surgió cuando Li Qiye estaba a la deriva.
+
+Li Qiye abrió los ojos y vio a una bonita criada parecida a un hada parada sobre las olas. Fue una escena hermosa.
+
+"¿Sí?" Li Qiye cerró los ojos y respondió perezosamente.
+
+La bella criada le dijo a Li Qiye: "Joven Noble Li, mi señora desea invitarlo. ¿Podrías seguirme?"
+
+"Estoy ocupado". Respondió de manera despreocupada: "Dile que venga a verme".La bella criada no sabía qué decir en respuesta a esta rudeza. Después de un rato, ella dijo: "Joven Noble Li, mi señora es la maestra de escuela del Manantial Sagrado...".
+
+"Estetío no esta libre". Li Qiye agitó su manga y no se molestó en abrir losojos: "Incluso si es el gobernante supremo de los cielos, que venga siquiere verme".
+
+La bonita criada se puso roja. Nunca antes había estado en semejante situación con este tipo de persona arrogante y grosera.
+
+Ella vaciló un momento antes de alejarse silenciosamente.
+
+Li Qiye actuó como si nada hubiera sucedido y dejó que las olas lo empujaran nuevamente mientras se sumergía en el agua.
+
+Pasó más tiempo y se escuchó una voz extremadamente melodiosa: "No sabía que Joven Noble Li estaba ocupado. Disculpe mi visita no solicitada ".
+
+Esta voz era muy agradable, nítida y clara pero suave como la seda. En la suavidad había un toque de encanto. En la atracción había un toque de elegancia.Cualquiera se sentiría cómodo y relajado después de escuchar esto.Era fácil imaginar qué tan elegante era esta mujer solo por escuchar su voz.Ella era madura y encantadora de una manera refinada.Esta era una emperatriz natural.Li Qiye volvió a abrir los ojos para ver a una mujer parada en el mar.Llevaba un ligero vestido amarillo con una simple flor blanca en el frente.Su figura era elegante y madura.Una rápida primera mirada mostró que tenía casi treinta años y una aura excepcional llena de grandeza.Su madurez hacía parecer que era una mujer casada, pero dentro de esteencanto sofisticado estaba la sensación refrescante de una jovendoncella.Estas auras yuxtapuestas se combinan perfectamente para proporcionar un atractivo exquisito.Ella no estaba en el nivel de ser sin igual.Su apariencia no era tan increíble como la de Ming Yexue o Mei Suyao, yera inferior en comparación con Li Shuangyan y Chen Baojiao también.Sin embargo, su encanto especial de una nueva novia realmente podría tirar de las fibras del corazón de los demás.Su vestido no se ajustaba demasiado a su cuerpo, pero sus curvas eran evidentes y atractivas.Este encanto se asemeja a una uva madura a la perfección.Ella no era demasiado madura ni completamente inocente.Dentro de la piel purpura había un jugo dulce, cualquiera querría recoger esta uva y probar el sabor que contiene."No es un mal trabajo para cultivar el Físico del Manantial Sagrado." Li Qiye la miró y declaró antes de volver a cerrar los ojos.La chica se estremeció después de escuchar esto.Li Qiye podía decir lo que estaba cultivando con solo una mirada.Este tipo de percepción era simplemente demasiado atemorizante.Ella se inclinó y dijo: "Gracias por tu elogio.Mi nombre es Zhuo Jianshi, actualmente a cargo de la Escuela del Manantial Sagrado.Disculpe mi falta de cortesía por la visita repentina "[2.Ella es muy respetuosa esta vez, refiriéndose a sí misma como "pequeñaniña"."Esta pequeña niña es Zhuo Jianshi".]Li Qiye dijo claramente: "Lo sé, para poder cultivar el físico a este nivel, puedes manejar el puesto de maestra de escuela".Ella no se sintió ofendida por su actitud más bien grosera y altiva y se sentó junto a él en la superficie del agua."No hemos podido mostrarte nuestra hospitalidad desde que llegaste..." Su actitud noble también era natural y bastante accesible.Li Qiye agitó su mano y la interrumpió: "Habla si quieres y tira un pedo si es necesario, no te vayas por las ramas conmigo.No estoy de humor para adivinar y perder el tiempo ".Una actitud tan dominante la hizo lamentar en secreto la situación.Como una de los maestros de escuela de la Imperfección del Vacío, era una persona bastante influyente.Sin embargo, Li Qiye simplemente no la tomó en serio.Finalmente, ella respiró hondo y habló seriamente: "Me gustaría invitarlo a mi Escuela del Manantial Sagrado como invitado"."Ya veo, así que sigue siendo lo mismo.Todos me ven como el mejor semental.Sin duda, quieres que vaya allí y encuentre varias damas para acercarme y tomar mi semilla ".Estas palabras fueron demasiado directas y sexuales, dejando a Zhuo Jianshi momentáneamente sin palabras.Una línea de sangre imperial como la de Li Qiye era demasiado preciosa para los espíritus encantadores.Esto fue lo mismo para su Escuela del Manantial Sagrado, por lo que querían reclutarlo.Más de 15 Capítulos de ED avanzados en elpatreony aumentando cada día.

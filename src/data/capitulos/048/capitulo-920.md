@@ -1,0 +1,45 @@
+---
+titulo: "Capítulo 920: ED  ¿Qué eres tú?"
+numero: 920
+novelaId: "48"
+---
+
+"Bienentonces, dejaré de transformarme, ¿cuál es el problema?" La mujerrápidamente se volvió hacia la sombra borrosa situada en el escondrijomás reservado del cielo, una ubicación por encima de todo lo demás.[1.Otra Long Jingxian?]Li Qiye se quedó sin palabras después de ver la ley transformarse en tantas cosas diferentes.Se sintió un poco culpable después de ver esto ya que él había corrompido a la pobre ley.La ley que protege el estanque fue creada desde el cielo y la tierra.Era la más pura de las leyes, una sin vida ni emociones.Sin embargo, fue capaz de transformarse en todas las cosas, o al menos tomar sus formas.La sombra borrosa preguntó: "Ah, claro, ¿cómo está esa mujer ahora?"Li Qiye lo miró con un ojo y respondió: "¿Qué tiene que ver contigo?No eres un ser vivo, así que deja de preocuparte por los asuntos de los demás ".La sombra borrosa bromeó: "Oh, entonces rompieron.¿Qué pasa, esa mujer te dejó?Mira tu lamentable estado, debo estar en lo cierto.Pero sí, ¿a quién le gustaría un cuervo de todos modos?"Li Qiye dijo enojado: "Joder, ¿desde cuándo una cosa sin vida como tú ganó una boca tan grande? Eres como los chismosos de afuera, te encanta balbucear todo el tiempo ".
+
+"Balbucea mi trasero". La sombra borrosa replicó con desdén: "¿Quién era el incesante en aquel entonces? Solo balbuceando en mis oídos todo el día sobre Su'er y luego sobre Zhan'er ... me hiciste sentir mal escucharlo todo el tiempo ".
+
+Li Qiye frunció el ceño después de escuchar esto: "¡Joder, sabía que no debería haberte dicho todas esas cosas!"
+
+"Jejeje, es demasiado tarde ahora.Ya conozco muchos de tus secretos. "La sombra dijo con satisfacción.
+
+Li Qiye lo miró: "Solo estaba jugando contigo.Además, ¿cómo podría contarte secretos?"
+
+"Por favor, jugando conmigo?Soyla ley del cielo y la tierra y puedo derivar todas las cosas confacilidad. "La sombra preguntó:" ¿Cómo no puedo diferenciar lashistorias reales de las falsas? "Li Qiye estaba un poco sin palabras.El oponente no era un ser vivo o incluso una existencia, era solo una ley universal.Sin embargo, la maldita cosa realmente sabía cómo burlarse;su actitud era como él en el pasado.Esto casi lo hizo vomitar sangre.La sombra dijo: "Oye, me di un par de nombres, dime cuál es el mejor"."¿Por qué quieres un nombre, tu nombre es simplemente ley", respondió Li Qiye."Olvidalo entonces.Si no quieres escuchar, no vuelvas a suplicarme más tarde." La sombraresopló con una actitud arrogante que casi vuelve loco a Li Qiye."Bien, dime entonces". Li Qiye no tuvo más remedio que consentir.La sombra se animó después de encontrar un oyente: "Hay un par, compruébalo.Sha Qiye, Zhen Qiye, Mie Qiye, Tu Qiye, Zhan Qiye ... ¿cuál crees que es el mejor? "[1.Sha = matar, Zhen = suprimir, Mie = extinguir, Tu = masacre, Zhan = cortar / decapitar.]Después de que la sombra dijo más de diez nombres en un aliento, Li Qiye casi vomitó sangre nuevamente.(creo que es la segunda vez que li qiye casi vomita sangre por alguien o en este caso por algo)"Ninguno de ellos eres tú, solo debes llamarte '¡Matar a tu hermana'!" La cara de Li Qiye se volvió negra.[2.Esta es una réplica común para decir algo grosero + tu hermana.No creo que funcione tan bien en inglés.]Con esa respuesta, la sombra inclinó la cabeza y reflexionó seriamentepor un momento antes de continuar: "Creo que sería bueno llamarme Cuervo Oscuro"."¡Ese es mi título!", Espetó Li Qiye: "Además, eres solo una ley universal.¿Quieres un nombre?¿Qué tal mi culo!""Bah, ¿quién dice que no quiero un nombre?Soyel mejor en este mundo, el único a través de todos los eones, ¡así quenaturalmente querría un nombre genial! "La sombra arrogantementedeclaró:" Este inmortal quiere tu nombre.¡De ahora en adelante, soy el Cuervo Oscuro!""Bien,¿podemos hablar de verdad ahora?" Li Qiye se sintió impotente y hablódébilmente: "Llamarse Cuervo Oscuro solo es copiar a otra persona.Si eres el mejor en este mundo, ¿no sería vergonzoso?""Tiene sentido." La sombra pensó un poco más: "Yo soy el mejor, entonces ¿por qué debería compartir un título contigo?De acuerdo, entonces, de ahora en adelante, ¡soy Zhan Xian! "[3.Zhan Xian = Pelea (Contra) Inmortal.]"¿Por qué Zhan Xian?" Li Qiye sonrió curiosamente.
+
+"Lo dijiste antes, en la era antigua, los inmortales eran las únicas cosas en este mundo; estabanpor encima de todo ". Arrogantemente proclamó:" Por lo tanto, quieroderrotar y matar a todos los inmortales, de ahí el nombre de Zhan Xian".
+
+"Muy pegadizo, buen nombre." Li Qiye elogió de inmediato. No importa si era la verdad o simplemente la adulación, era mejor que dejar que la sombra tuviera el nombre Cuervo Oscuro. Li Qiye pensó que su prestigio se arruinaría de lo contrario.
+
+"Sé que es bueno.¿Cómo podría un nombre elegido por mí no ser bueno? "La sombra se rió de una manera muy narcisista y arrogante.
+
+Li Qiye se rió entre dientes y dijo: "¿Cómo está la cosa en el lago?"
+
+"¿Estas preparando algo nada bueno otra vez?" La sombra inmediatamente se volviócautelosa y preguntó fríamente después de escuchar esto.Una ley universal debería ser sin emociones. Sin embargo, había sido influenciado por Li Qiye desde que se quedó aquí por mucho tiempo en el pasado. Incluso lo estaba copiando hasta cierto punto.
+
+"Nada mal". Li Qiye sonrió alegremente: "La verdad es que me encontré con algunos nuevos hallazgos recientemente ..."
+
+"¿Nuevos hallazgos? Nome interesa. "La sombra respondió:" Además, no pienses que no sé queeres una mala persona y que siempre has estado mirando este lugar ".
+
+"Bueno, no voy a negar que me interesa lo que hay dentro". Li Qiye sonrió: "Eso no es un secreto ni nada. Solo déjame hacer lo que quiero y quizás sea beneficioso para ti también ".
+
+"¿Qué beneficios? No trates de sobornarme." La sombra no estaba muy interesada en absoluto.
+
+"Si, digamos, esa cosa se completa, ¿no serías libre también?" Li Qiye sonrió.La sombra instantáneamente se volvió feliz después de escuchar esto. Pero después, miró a Li Qiye para decir: "¡Tanto usted como yo sabemos que esto es muy difícil de lograr! ¡No trates de engañarme!"
+
+"Puedo garantizarle que definitivamente tendrá éxito esta generación". Li Qiye convenció: "Sin embargo, me falta un poco. Si puedo hacer lo otro, entonces puedo hacer esto también ".
+
+"Jaja, no hay necesidad de tentarme". La sombra se burló: "Sé exactamente qué tipo de persona eres. Me engañaste la última vez, así que no voy a escuchar tu mierda otra vez ".
+
+Li Qiye no se sonrojó en absoluto.Élsonrió y dijo: "Sí, te engañé la última vez, pero técnicamente, lo quetengo dentro ya me pertenece desde que perdiste, ¿verdad?"
+
+"Entonces,¿y que si te pertenece?" La sombra bajó la mirada hacia Li Qiye: "Si no tedejo pasar, no podrás tomarlo aunque te pertenezca a ti"."¿Cómo debería poner esto?A pesar de que esto podría considerarse tuyo en ese momento, en última instancia sigue siendo un elemento sin maestro.Pero has estado aquí tanto tiempo que realmente debería ser tuyo.¿No lo quieres para nada? "Li Qiye trató de persuadirlo nuevamente.La sombra habló con una falta de interés: "No estoy interesado.Tienes razón sobre una cosa, no soy un ser humano o una existencia o cualquier cosa en absoluto, solo soy una ley universal.¿Qué gano al obtenerlo? "Li Qiye encontró esto bastante problemático.Si no mordió no importa qué, entonces todos sus planes estaban perdidos."¿Qué tengo que hacer para que me dejes pasar?" Li Qiye sonrió:"Debido a nuestra amistad, no tenemos que luchar hasta que el cielo secolapse en este lugar, ¿verdad?""El cielo se colapse mi trasero." La sombra dijo con desdén: "Si no te quisieraaquí, podría teletransportarte lejos en el momento en que ataques.¡Como dijiste antes, incluso los Emperadores Inmortales no pueden hacer nada! "Li Qiye se arrepintió de contarle toda esta información en ese momento."Además, no tengo emociones, así que no tenemos ninguna amistad de la que hablar." La sombra miró a Li Qiye con un ojo.La actitud de la sombra dejó a Li Qiye indefenso.Levantó las manos y dijo: "Está bien, está bien, me rindo.Indique sus condiciones.Si es posible, cumpliré con todas sus demandas "."¿Estás seguro?" La sombra de inmediato miró intensamente a Li Qiye.Li Qiye estaba poniendo los pelos de punta de esta mirada."Bien, dilo", dijo Li Qiye con una sonrisa.La actitud de la sombra se parecía mucho a Li Qiye en este momento.Dijo pausadamente: "Bueno, mi condición es muy simple.Te quedarás aquí y me harás compañía como en el pasado y yo te dejaré pasar "."Eso no servirá". Li Qiye negó con la cabeza: "Te estás aprovechando de mi por completo.Además, no soy el mismo que antes.En el pasado, tuve vida eterna, pero si me quedo atrapado aquí ahora, eso significa que estaré completamente jodido "."Entonces olvídalo, no me importa.Ni siquiera pienses en pasar ". La sombra se burló.Li Qiye se rió entre dientes y dijo: "No deberías decir que no tan rápido.Qué tal esto, para hacer las cosas bien, haremos una apuesta.Si pierdo, me quedaré.Si gano, tienes que dejarme pasar ".

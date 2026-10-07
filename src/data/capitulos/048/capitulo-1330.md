@@ -1,0 +1,43 @@
+---
+titulo: "Capítulo 1330: ED  Entrada del Mar de Hueso"
+numero: 1330
+novelaId: "48"
+---
+
+El daoista Sol Puro sonrió para responder a Li Qiye: "Si el hermano Li viene a mis cuatro ramas, estoy dispuesto a ser tu guía. Podemos hacer un recorrido por el Palacio de la Era Dorada. Con tu carisma, estoy seguro de que tendrás una cosecha considerable allí. Los humanos y nuestras cuatro ramas tienen lazos profundos, así que sé que puedes estar en casa allí ".
+
+Las palabras del daoista eran razonables. El Emperador Inmortal Yan Shi era un ser humano. Además, la línea de sangre humana en el palacio e incluso las cuatro ramas completas lo estaba haciendo muy bien.
+
+Ruyan se divirtió mucho cuando, juguetonamente, dijo: "La verdad es que el Maestro del Palacio de la Era Dorada es una belleza suprema. Solo una mirada a ella podría enamorar a muchos otros. Joven Noble, el daoista puede presentarte a ella. Con tu encanto sin igual, estoy segura de que puedes conquistar su corazón ".
+
+Li Qiye sonrió también y le preguntó al daoista: "¿Es esta la verdad?"
+
+El daoista dudó por un momento: "Bueno ..."
+
+Incluso la elegante Jianshi se rió entre dientes. Estaba claro que Ruyan estaba jugando con el Daoista Sol Puro."¿Oh? ¿No quieres presentar a tu tía marcial a nuestro Joven Noble? "La encantadora postura de Ruyan era fascinante.
+
+El actual maestro de palacio era la tía marcial del daoísta. No era porque fuera mayor que él, sino porque estaba a una generación por encima de él.
+
+El daoista se puso rojo y torpe. Se volvió bastante vacilante a diferencia de antes. Finalmente respondió: "Si hay una posibilidad de que nos visites, sin duda te presentaré a ella".
+
+Jianshi negó levemente con la cabeza después de escuchar esto: "Sol Puro, eres valiente y sabio y tus talentos son incomparables. Desafortunadamente, hay algunas cosas ... "
+
+Ella no terminó su oración.
+
+"Joven Noble, ¿oíste eso? Debes visitar el palacio.Si existe la posibilidad de conquistarla, no debes decepcionar al daoista ". Ruyan era como una pequeña diablesa.Su risa oscilante pertenecía a un diablo.El daoista sabía que Ruyan intentaba ser molesta deliberadamente, pero no podía hacer otra cosa que sonreír torpemente.Li Qiye supo al instante lo que estaba pasando después de ver la expresión del daoísta.En este momento, un discípulo entró e informó: "Maestra de escuela, hemos llegado al Mar de Hueso"."Estamos aquí." Ambas chicas se levantaron de la emoción.Los ojos de Li Qiye se volvieron serios.Fue a la terraza a mirar esta región antes de sonreír: "Las cosas volverán a ser emocionantes".Frente a ellos había montañas incomparables que bloqueaban el sendero de todos.Aparecieron sin previo aviso como si fueran guardianes impidiendo que todos entren.Los espectadores sintieron la ilusión de que el Mar del Demonio Dragón terminó aquí.Estas montañas no eran parte de una cordillera, había pequeñas brechas entre ellas.Por supuesto, eran pequeñas en relación con el gran tamaño de las montañas.Pero para la gente de aquí, eran lo suficientemente grandes y podían acomodar muchos barcos grandes uno al lado del otro.Esta enorme brecha en el centro de la hilera de montañas daba lasensación de que una montaña se había derrumbado aquí por algún motivodesconocido.Si uno pudiera pararse en el cielo del Mar del DemonioDragón y mirarhacia abajo en esta larga hilera de montañas, encontrarían que parecíanser una mandíbula inferior.Si no fuera por las flores y la vegetación, estas montañas se verían como una serie de dientes.Si hubiera una fila invertida de montañas en el cielo, entonces sería la mitad superior de la mandíbula.La parte faltante en el centro sería un diente frontal faltante.Porsupuesto, la mayoría no creería que se trataba de una hilera dedientes, ya que se extendía a través del Mar del Demonio Dragón pormillones de millas.Su longitud era demasiado larga para ser imaginada.Si realmente era la mitad inferior de una mandíbula, ¿qué tan aterrador era este monstruo?¡Podría tragarse todo el Mundo Espíritu del Cielo!Después de atravesar estas montañas, otro océano apareció ante ellos.Sin embargo, hubo una clara diferencia entre este y el anterior.El agua del Mar del Demonio Dragón era incomparablemente azul con olas en todas partes.Sinembargo, el mar que se extendía hacia adelante estaba turbio por lo quepodían ver los ojos, lo que parecía ser una puerta de entrada alinfierno.Una sensación escalofriante asaltó a todos los espectadores.Este sentimiento fue especialmente cierto al estar parado en la montaña derrumbada.De hecho, esta analogía no era irrazonable.Aquellos que habían estado en el Mar de Hueso antes sabían que esto era solo la entrada y no el Mar de Hueso mismo.La multitud experimentada sabía que uno solo sabría qué era el miedo cuando llegaron al Mar de Hueso.Había muchos cultivadores esperando en esta brecha entre las montañas y las crestas cercanas.Esto fue porque todos estaban esperando los barcos de hueso.Sin ellos, no había forma de llegar al Mar de Hueso, independientemente del tesoro utilizado.Los principiantes no creyeron demasiado esta afirmación.Despuésde esperar por un largo tiempo y ver cómo no había llegado ninguno delos barcos de hueso, alguien se impacientó y dijo: "¿Es este mar realmente tanextraño?Mi embarcación familiar puede viajar a través de cualquier cosa, no creo que no pueda cruzar este mar ".Este escéptico convocó a su barco.Este era realmente extraordinario ya que irradiaba una luz divina.Poco a poco navegó en las aguas fangosas.Sin embargo, no llegó a más de cien pies antes de que comenzara a hundirse.A continuación, se escucharon algunos ruidos.Este barco del tesoro se hundió por completo en el mar y desapareció.El cultivador fue testigo de toda la escena y quedó estupefacto debido a la incredulidad.Su barco tenía un origen sorprendente y era capaz de atravesar todos los mares, pero ahora se ha hundido.Se estremeció de horror y alabó su fortuna por no estar sobre este cuando se hundió, o de lo contrario su vida se habría perdido.Un cultivador más viejo le dijo al joven: "¿Cómo podría ser tan fácil entrar al Mar de Hueso?Sin mencionar que incluso un Godking se ahogaría en esas aguas fangosas ".Un demonio del mar agregó: "El Mar de Hueso no perdona víctimas.Incluso el barco más increíble se hundiría, y el tuyo no es una excepción.En términos de evasión y purificación, nadie es mejor que la Extensión Inmaculada.Pero su maestro, el daoísta Lin, todavía esperaría obedientemente aquí por un barco de hueso.Su Físico de la Imperfección del Vacío es virtualmente invencible, pero aún no se atreve a probar su suerte.No juegues sin un barco de hueso".Un cultivador declaró: "Escuché que aparte de la Concha del Mar, nadie más se atrevió a no usar las barcos de hueso para entrar"."Sí, la Concha del Mar es una excepción". Un demonio del mar respondió: "Se rumorea quesu progenitor, el Dios Concha, obtuvo un montón de huesos de Yin ymadera de cocodrilo. Con ellos, pudo crear algunos bajels que podrían cruzar el Mar de Hueso ".
+
+Un espíritu encantador repentinamente intervino: "¿Está el Daoista Lin aquí ahora?"
+
+"No solo el daoista, el Monarca del Yang Extremo , el Dios Celestial del Dao Veloz, también están aquí. Esteviaje al Mar de Hueso será muy animado ". Un viejo cultivador respondió:"Las olas gigantes también aumentarán con la llegada de Meng Zhentian ".
+
+Después de escuchar esto, alguien murmuró: "¿Un duelo de genios?"
+
+Un paragón intervino: "Ese día llegará, pero el grupo de Daoista Lin debería estar bien. No tienen un fuerte deseo de la Voluntad del Cielo. Sin embargo, el dios celestial y sus compañeros deben tener la Voluntad del Cielo. Una gran batalla es inevitable ".Un  maestro espíritu encantador reflexionó: "¿Pero quién puede competir con Meng Zhentian? El dios celestial podría ser fuerte, pero su ser actual no puede competir contra Zhentian ".
+
+Mucha gente reflexionó sobre estas palabras. Aunque algunas personas no querían creerlo, de hecho era la verdad. Nadie estaba calificado para competir contra Meng Zhentian, al menos por ahora.
+
+"Feroz está aquí." Durante el silencio, alguien con buena visión vio el barco de Li Qiye.
+
+Muchos dieron vuelta. Efectivamente, el barco gigante de la Escuela  Devoradora Maligna cayó lentamente en la brecha. Los cultivadores cercanos rápidamente abrieron camino para ellos.
+
+Inclusosi no fuera por la notoriedad de Feroz, solo el nombre "Escuela Devoradora Maligna" fue suficiente para que todos aquí retrocedieran.Más de 100 Capítulos de ED avanzados en elpatreony aumentando cada día. Promoción de 12 cupos para los primeros 12 patrons a $7.

@@ -1,0 +1,77 @@
+---
+titulo: "Capítulo 398: Feng Hengkong"
+numero: 398
+novelaId: "49"
+---
+
+La Divina Secta del Fénix era la secta más grande dentro del Continente Cielo Profundo. A pesar de que su fuerza global era un poco inferior a la de los Cuatro Grandes Terrenos Sagrados, basada en su escala, ninguna secta en el Continente Cielo Profundo entero podría alcanzar su tamaño. Era también la única secta en el continente que fue calificada para desafiar los Cuatro Grandes Terrenos Sagrados.
+
+Al mismo tiempo, la Divina Secta del Fénix  poseía la única especialidad dentro del continente: ¡Era una fuerza sectorial, y también una fuerza imperial! La Divina Secta del Fénix tenía dos bases principales, una era la Ciudad del Fénix, la otra era el Palacio Imperial Divino Fénix! Y todas las ramas exteriores de la secta se extendieron por toda la Nación Divino Fénix; Sin excepción, era el señor de esta región.
+
+La Divina Secta del Fénix sin duda poseía la fuerza más fuerte dentro de las Siete Naciones del Profundo Cielo, así como el más alto poder político. Además, estos dos aspectos fueron abrumadores. Las otras seis naciones dieron las ofrendas secretas al Imperio Divino Fénix, todas sin excepción ... especialmente la nación más débil de Viento Azul.
+
+Palacio Imperial Divino Fénix.
+
+Feng Hengkong, un nombre conocido por todo el mundo que resonó a fondo a través del continente con prestigio por encima del mundo. Porque era actualmente el maestro de secta de la Divina Secta del Fénix y también el emperador del Imperio Divino Fénix. Poseía una fuerza inigualable, el poder que sostenía en sus palmas cubrió todo el Cielo Profundo, era como una figura de las leyendas en los corazones de la gente del Cielo Profundo. Para las otras seis naciones, el emperador ya era una existencia inalcanzable, y el emperador Feng Hengkong del divino fénix superó con creces al emperador de su nación, era como un emperador de la corte imperial celestial. Mientras se limitaran a pensar en su nombre, todos sentirían una especie de profunda opresión.
+
+En las otras seis naciones, el vestíbulo principal del monarca estaba rodeado por una enorme fuerza de guardia y un sinnúmero de expertos máximos lo guardaban en secreto. Era el lugar que tenía la más estricta seguridad en todo el palacio imperial. Pero el Salón Principal del Divino Fénix, donde Feng Hengkong estaba ubicado, era en realidad un campo de silencio. No había guardias en el entorno, ni siquiera tanto que los guardias de patrulla del palacio imperial se ocuparan de evitar este lugar ... En el palacio imperial de otra nación, se trataba de un paisaje absolutamente inimaginable. Pero en el Palacio Imperial Divino Fénix, esto no podría ser más común. ¡Qué broma, Feng Hengkong no era simplemente un emperador, él era el Maestro de Secta de la secta número uno del continente - la Divina Secta del Fénix! ¿Qué clase de fuerza era eso? Con su fuerza, ¿por qué habría que proteger a otros? En el Cielo Profundo entero, ¿cuántas personas estaban incluso calificadas para poder protegerlo?
+
+En todo el Cielo Profundo, ¿cuántos tendrían incluso las entrañas, o incluso serían capaces de cargar en el Palacio Imperial Divino Fénix?
+
+Salón Principal Divino Fénix. Con las manos detrás de la espalda, Feng Hengkong centró su mirada en el tótem de Fénix en la pared. Su mirada estaba concentrada, como si estuviera reflexionando sobre algo. El atuendo de un emperador era generalmente de un color amarillo dorado, bordado con un dragón de cinco garras, pero la túnica imperial de Feng Hengkong era de color rojo fuego, bordada con un ave fénix abrasador.
+
+Tenía más de ciento cincuenta años este año, pero toda su persona era innecesariamente blanca, sin la menor de las arrugas. Tenía las cejas como espadas y los ojos estrellados, con su majestuoso aire heroico, parecía que tenía más de cuarenta años de edad ... Con su nivel de cultivación, si no fuera por él esperando para aparecer con la actitud de un monarca prominente y queriendo manifestar una diferencia en antigüedad entre sus hijos, podía fácilmente mantener una apariencia de alrededor de veinte si quería. En total, tenía un total de dieciséis hijos, quince eran hijos y uno era hija. Su hijo mayor Feng Ximing ya tenía cien años, mientras que su hija menor cumplió dieciséis años.
+
+Y el decimotercer hijo, era exactamente el Feng Xichen que había sido violentamente golpeado por Yun Che.
+
+Tomó mucho tiempo para que un cambio apareciera por fin en los ojos de Feng Hengkong. No se dio la vuelta y repentinamente dijo con indiferencia: “Ming'er, ¿qué es esto?”
+
+No se sabía cuándo, pero alguien de  mediana edad con una bata roja apareció detrás de él. Cuando se acercó, no hizo el menor ruido. Había estado detrás de la espalda de Feng Hengkong desde hacía bastante tiempo, pero todavía no hacía el menor ruido, por temor a que lo molestara. Ahora que finalmente escuchó hablar Feng Hengkong, el hombre de mediana edad inmediatamente hizo una reverencia y dijo: "Este hijo saluda padre real ... Este hijo vino aquí para informar de dos cosas al padre real."
+
+Feng Hengkong se dio la vuelta. Tan valiente como una montaña, su rostro sereno y digno no mostraba ninguna emoción mientras escupía dos palabras extremadamente indiferentes: “Vamos.”
+
+"Sí, padre." Como hijo mayor de Feng Hengkong, Feng Ximing era también el Joven Maestro de la Secta del Divina Secta del Fénix y el príncipe heredero del Imperio Divino Fénix. Estaba claro que él todavía poseía una reverencia extrema hacia Feng Hengkong. No importaba su postura o sus palabras, todos seguían las normas. Sin atreverse a parecer impudente, bajó ligeramente la cabeza: “La primera cuestión en realidad es sólo un asunto pequeño y no es digno de inquietar al padre. Pero este asunto está relacionado con el decimotercer hermano, por lo que este hijo se muestra vacilante en si debe o no mencionarlo al padre real.”
+
+"Hmph!" Las cejas de Feng Hengkong se tensaron ligeramente: "Como el príncipe heredero de mi Divino Fénix, ¿cuándo te volviste tan irresoluto, tan indeciso ?! Si quieres decirlo, dilo. No quieres decirlo, entonces no! ¿Por qué hablas tanto absurdo ?! "
+
+La reprimenda de Feng Hengkong no era algo menor. Feng Ximing tembló por todas partes y prontamente dijo: "La conferencia del padre es correcta, este hijo sabe que estaba equivocado. A pesar de que este asunto es pequeño, todavía se relaciona con el linaje de nuestra secta, por lo que es mejor que lo informe al padre real ".
+
+“¿La línea de sangre de nuestra secta? Porque está relacionada con la línea de sangre de nuestra secta, ¿cómo puede ser un asunto pequeño?” La mirada de Feng Hengkong se concentró: “¿Qué es exactamente este asunto? ¡Rápidamente, habla!”
+
+"Sí ... ¿El padre real todavía recuerda el nombre 'Yun Che' que mencionó este hijo hace dos años?", Preguntó Feng Ximing.
+
+"Yun Che?" Los ojos de Feng Hengkong se movieron ligeramente: "¿Estás hablando de esa persona que lanzó las llamas del Fénix en el torneo de clasificación de la Nación Viento Azul? ¿No murió hace dos años?
+
+"Informando a su padre, Yun Che fue sellado bajo la Villa Espada Celestial del Viento Azul en ese momento, así que todos creyeron que él estaba indudablemente muerto, nunca esperaban que él saliera más tarde con vida. Una vez que este hijo obtuvo esta noticia, permitió que el decimotercer hermano se marchara personalmente a la nación Viento Azul para que entregara la tarjeta de invitación del Torneo de Clasificación de las Siete Naciones, con el propósito principal de manejar este asunto. Después de que el decimotercer hermano vio a Yun Che, descubrió que Yun Che realmente posee el linaje divino de nuestra Secta Divino Fénix! ¡Su llama es sin duda la llama de nuestra secta!
+
+“¡En realidad hay algo así!” La expresión de Feng Hengkong cambió ligeramente. La línea de sangre, era el núcleo de la Secta Divino Fénix y el tabú más grande. La primera regla dentro de la Secta Divino Fénix era precisamente que la línea de sangre no podía ser filtrada. Dijo con gravedad: “Quién es exactamente, para ser lo suficientemente audaz, y permitió que la sangre de nuestra secta saliera... Este asunto, ¿cómo se manejó? Esa persona de Yun Che, sus padres y parientes cercanos, ¿los ha investigado a fondo? "
+
+Feng Ximing respondió: "Los padres de Yun Che y parientes cercanos, este hijo ya había enviado personas hace dos años para investigarlos. Pero, por desgracia, parece que los padres de Yun Che habían muerto no mucho después de haber nacido de enemigos de su familia. El que lo crió es una persona llamada Xiao Lie que no tiene nada de sangre con él. Además, cuando se expuso la verdad, Yun Che había sido expulsado de su clan.
+
+"Sus padres biológicos debieron haber muerto hace mucho tiempo, o bien no habrían mostrado a su hijo durante veinte años enteros. Pero estos son todos secundarios, hace unos cinco meses, cuando Decimo Tercer Hermano partió personalmente a la Nación Viento Azul y manejara este asunto, ocurrió un accidente ".
+
+"¿Accidente? ¿Qué quieres decir con accidente? "Feng Hengkong apretó las cejas una vez más.
+
+El rostro de Feng Ximing comenzó a llenarse de furia, su voz se hizo visiblemente nublada: "Decimo Tercer Hermano originalmente quería agarrarlo después de confirmar que Yun Che poseía la línea de sangre de nuestra secta, pero no esperaba que fuera obstruido. En última instancia ... en última instancia, volvió en la derrota. "
+
+"¡Vergonzoso!" Feng Hengkong balanceó ferozmente un brazo:" Con la línea de fénix, Chen'er es extremadamente talentoso, y es difícil para él encontrar un oponente digno de la misma edad, incluso en mi Nación Divino Fénix. En una nación pequeña, sin valor y humilde como el Viento Azul, él podría ir completamente en contra de la ley y nadie sería capaz de obstaculizarlo! ¡Con su identidad como mi Príncipe del Divino Fénix y mi hijo de Feng Hengkong, quien tiene las agallas para impedirlo!
+
+"Padre, por favor calme su ira!" Feng Ximing inmediatamente respondió: "Este hijo tampoco esperaba este resultado. A pesar de que Yun Che es conocido como el número uno de la joven generación del Viento Azul, que está sólo en el cómico Reino Profundo Tierra. El decimotercer hermano que quería capturarlo, debería haber sido tan fácil como soplar el polvo.
+
+"Pero lo que no esperaba, fue que Yun Che confió en su identidad como el número uno de la joven generación del Viento Azul para convertirse en el yerno del emperador del viento azul Cang Wanhe! Cuando Treceavo Hermano llegó al Palacio Imperial del Viento Azul, coincidía con la ceremonia de boda de Yun Che y la Princesa del Viento Azul. Puesto que era una boda imperial, la familia imperial había invitado naturalmente a héroes excepcionales de todo el viento azul. Aunque los expertos dentro de la nación azul del viento son lamentablemente pocos en número, todavía hay algunos tronos. En ese día, parecía que esos Tronos estaban todos presentes, y cuando Decimo Tercer Hermano estaba a punto de capturar a Yun Che, el Emperador del Viento Azul dio una orden de furia. Bajo el mando del emperador, esos tronos y unos cuantos practicantes profundos del cielo se movieron... El decimotercer Hermano sigue siendo, después de todo, demasiado joven. Agregado al hecho de que sólo había dos Tempranos Profundo  Emperadores que lo protegían a él y ellos no esperaban enfrentar a todos los expertos del Viento Azul en el pináculo, ellos fueron pesadamente superados en número al final ... "
+
+Feng Hengkon inmediatamente voló en una gran rabia. Bajo su cólera extrema, una corriente de aire extremadamente abrasador instantáneamente impregnó todo el Salón Principal Divino Fénix, e incluso distorsionó el aire sustancialmente. Sus cejas como una espada se hundieron, mientras hablaba con una voz incomparablemente nublada: "Una pequeña nación de viento azul tiene la mejilla de ser tan desafiante. ¡Incluso agruparse y atacar a mi hijo de Feng Hengkong! ¿Dónde exactamente se pusieron las agallas para ser tan ambiciosos?! "
+
+"Este hijo también estaba extremadamente enojado cuando recibió la noticia ayer, pero el decimotercer hermano no puede ser culpado por esto. Retroceder en la derrota de la pequeña nación como el Viento Azul es, sin duda, una gran vergüenza, por lo que el decimotercer hermano no tuvo la cara de contar esto a nadie. Agregado al hecho de que el padre real había estado preocupado con los preparativos para el Torneo de Clasificación de las Siete Naciones y el Arca Profunda Primordial,  Decimo Tercer Hermano temía que este asunto distraería al padre real. Como resultado, él siempre había ocultado este asunto ... Sin embargo, en el lado de Viento Azul, están claramente profundamente asustados también desde que sellaron cualquier información. Ni siquiera un poco de este asunto se había extendido en los rumores en estos últimos meses. Además, hay otra razón por la que Decimo Tercer Hermano nunca había dicho este asunto ... "
+
+"Yun Che había dicho en ese momento que representaría al Viento Azul y personalmente vendría a participar en el Torneo de Clasificación de las Siete Naciones de esta sesión". Feng Ximing dijo sombríamente: "Así que en comparación con el gran asunto de prepararse para abordar el Arca Profunda Primordial , El pequeño asunto de un pequeño mocoso del Viento Azul que es arrastrado hasta este mes no tiene ninguna consecuencia. "
+
+"Hmph!" Feng Hengkong dijo furiosamente: "¿Todavía se atreve a venir? ¡Probablemente porque él sabe que no puede evitarlo, así que él vino a tirar su vida! "
+
+"Este hijo también piensa que esto es así. Su resistencia ese día, tal vez sólo estaba buscando unos meses de paz. "Feng Ximing rió fríamente:" Así que el padre real no necesita enojarse por este pequeño asunto. Si realmente se atreve a venir a nuestro Imperio Divino Fénix, no debería pensar en irse nunca. Si él no viene, este hijo simplemente resolverá este asunto personalmente. Después de todo, como lo que el padre había dicho, aunque la persona misma es humilde, el asunto de nuestra línea de sangre sigue siendo un asunto importante ".
+
+Para este asunto, Feng Ximeng había oído hablar realmente de esto de Feng Xichen ayer. Pero el pretexto era muy diferente de la verdad que había ocurrido ese día ... Ese día, Feng Xichen, así como sus dos guardaespaldas, fueron golpeados vergonzosamente por sólo Yun Che, e incluso fueron pisoteados. Pero le dijo a Feng Ximing que había sido sitiado por casi todos los expertos Emperador del Viento Azul, y se retiró en la derrota después de ser fuertemente superado en número ... Al mismo tiempo, los dos guardaespaldas también dieron testimonio de este pretexto.
+
+Esto se debía a que él, como gran Príncipe Divino Fénix, no aceptaría la derrota y no permitiría que nadie supiera que había sido golpeado como un perro por un reino profundo Tierra más joven que él, nacido de una pequeña Nación Viento Azul! Porque esa era una marca eterna en la profundidad de su alma, una humillación que nunca se desvaneció por toda la vida! ¿Cómo podría permitir que la gente supiera de esta vergonzosa marca?
+
+"¡Absurdo ... simplemente absurdo!" Feng Hengkong apretó fuertemente ambas manos mientras todo su cuerpo se llenaba de ira: "Originalmente estábamos algo indecisos, pero parece que ya no es necesario que exista esta pequeña Nación Viento Azul".

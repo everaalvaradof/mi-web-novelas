@@ -1,0 +1,57 @@
+---
+titulo: "Capítulo 303: ED  Great Child Yao Guang"
+numero: 303
+novelaId: "48"
+---
+
+"¡Bien! "Después del silencio, los discípulos de Gran Era comenzaron a animar; por supuesto, las más ruidosas eran las hermanas de Chi Xiaodie.
+
+Estaban orgullosos porque tanto Chi Xiaodie como Li Qiye eran del Gran Salón de la Era . Los dos que mataron a dos genios del Salón de la Era Zenith se convirtieron en una fuente de orgullo.
+
+"Dao Mirada Divina Marcial Milenaria!" Sikong Toutian, que estaba mezclado entrela multitud, finalmente recordó el nombre de la técnica de Chi Xiaodie ymurmuró. Luego pensó en una leyenda, una leyenda extremadamente antigua.
+
+El Maestro del Salón de la Era Sagrada también dijo lentamente con emoción: "¡Dao Mirada Divina Marcial Milenaria!Una de las dos artes más grandes de Rey Dios de Cien Batallas.No esperaba que el descendiente del Clan Chi heredara por completo este arte supremo de su antepasado ".Despuésde escuchar esto, muchos discípulos se quedaron conmocionados e inclusolos diabólicos genios de la Era Zenith perdieron sus colores.Todo el mundo sabía que el ClanChiy la Puera Rugido de León se clasificaron como una secta de primera categoría;no eran nada comparado con los linajes del Emperador Inmortal.Noesperaban que el antepasado del Clan Chi fuera el Rey Dios de Cien Batallas, alguien a quien se le otorgó el título de Rey Dios.Sólo el nombre por si mismo era indicativo de su asombrosa invencibilidad en el pasado.Mientrastodo el mundo estaba aturdido, los restos de cenizas de Gui Fushuquemado a un crujiente repentinamente se agrietaron como una mariposaemergiendo de un capullo.En este momento, lo impensable ocurrió cuando Gui Fushu salió de entre las cenizas.Renació de su propio cuerpo mientras estaba empapado de agua y luces inmortales.Su cuerpo era suave y delicado como si acabara de quitarse la piel quemada."Esto, ¿cómo es esto posible?" Una persona exclamó horrorizada después de presenciar una escena tan espeluznante."Increíble, la 'Persecución Inmortal Brillantez' es de hecho una Ley del Emperador creada por el emperador inmortal Yao Guang.Mientrasexista un resto de alma, entonces incluso si el cuerpo es destruido yel Destino Verdadero se rompe, todavía habría una oportunidad para elrenacimiento. "El Maestro de Salón de la Era Sagrada dijo con ciertoasombro.Muchos estudiantes sintieron el rastro después de presenciar la exhibición de esta habilidad. ¿No significaba esto que sería muy difícil matar a alguien que cultivara esta ley de mérito? Cualquier persona estaría en problemas cuando se enfrenta a un rival tan difícil de matar.
+
+En un instante, Li Qiye ligeramente cambió su cuerpo y de inmediato cogió a Gui Fushu por el cuello. Gui Fushu acababa de renacer y era muy débil;él esencialmente no era un partido para Li Qiye.
+
+"Matara alguien no es nada más que dejar caer la cabeza en el suelo." ElMaestro de Salón de la Era Sagrada habló: "No es un gran asunto ahorrarle, ¿verdad?"
+
+"Voy a pensar enello." Li Qiye todavía agarró a Fushu con una mano, luego lo miró y dijo:"Anteriormente, me preguntó cómo quería morir?""Usted ..." Al ver los ojos indiferentes de Li Qiye, Gui Fushu se asustó.Su aire siempre arrogante ha sido reemplazado por un verdadero miedo en este momento.No pudo evitar gritar: "Tú, tú, si te atreves a matarme, mi Reino Antiguo Brillantez no te dejará ir!¡No habrá lugar para ti en las Cien Ciudades del Este si te conviertes en enemigo con el Reino Antiguo Brillantez!"El asustado Gui Fushu usó a toda prisa sus antecedentes para tratar de intimidar a Li Qiye."Oh?" Las palabras de Gui Fushu hicieron reír a Li Qiye.Éllo miró con atención y dijo: "Reino Antiguo Brillantez". Se detuvo unpoco mientras inclinaba la cabeza como si reflexionara, luego continuó:"¿Qué diablos es este Reino Antiguo Brillantez?¿Crees que esto me asusta?"En este momento, el Maestro de Salón de la Era Sagrada sólo podía suspirar.Después de ver la expresión de Li Qiye, sabía que Gui Fushu moriría seguro y nadie sería capaz de hacerle cambiar de opinión.Había visto a innumerables personas, así que ¿cómo no podía ver que Li Qiye no podía ser disuadido por la intimidación?"Toda la gente grande de mi reino está aquí. ¡Incluso si corres al final de la tierra, seguramente morirás! "Gui Fushu gritó en voz alta.
+
+LiQiye entrecerró los ojos y dijo tranquilamente: "Si usted no meamenazara, entonces tal vez le hubiera dejado ir en consideración por surenacimiento. Pero ahora, desde que se atrevió aintimidarme, mis temblorosas manos temblaban sin parar, me temo quepodrían accidentalmente estrangularlo hasta la muerte."
+
+"¡Es mejor si lo dejas ir!" En este momento, una voz surgió como una luz sagrada emanada por un millón de millas. Unapersona vino caminando en el aire como si hubiera cientos de santosabriendo un nuevo camino de dao - como si estuviera protegido por todos losgrandes sabios. Su llegada parecía un príncipe celestial que descendía de los cielos.
+
+Era un joven rodeado de luz divina. Tenía una esbelta estatura y una belleza incomparable; entre sus cejas había un precioso jade natural que aparentemente tenía un encanto sin fin."Great Child Yao Guang, Zu Huangwu!" Un estudiante pronunció después de ver a este joven disfrutando de la luz divina.
+
+Incluso los estudiantes del Salón de la Era Sagrada cambiaron a una apariencia más austera. Great Child Yao Guang - Zu Huangwu, él era definitivamente un genio diabólico. Incluso había rumores de que había llegado al reino santo antiguo.
+
+"ZuHuangwu está casi aquí." Los estudiantes de la Gran Era perdieron suscolores después de ver su llegada y fueron suprimidos por su aura. Incluso los estudiantes de EraZenith estaban asombrados.En las cien ciudades del este, no mucha gente estaba dispuesta a oponerse a Zu Huangwu. Esto no era sólo por su gran trasfondo, sino porque él mismo era un personaje insondable.
+
+"Una persona con dos enseñanzas de Emperadores." Un estudiante murmuró con temor en su corazón.Los discípulos de la Gran Era no podían meterse con un genio tan superior y diabólico. En sus mentes, Zu Huangwu era una montaña intocable. En la misma generación, la brecha entre ellos y Zu Huangwu era la distancia entre el cielo y la tierra.
+
+Serumorea que Zu Huangwu cultivó las supremas  Leyes del Emperador tantodel Emperador Inmortal Yao Guang como del Emperador Inmortal Fu Mo.Además, logró combinar estas artes, por lo que incluso la generaciónanterior de los Santos Antiguos tenía miedo de él. 2Habíaun dicho en las cien ciudades del Este: si un Soberano Celestial nosale, entonces nadie podría detener a Great Child Yao Guang!
+
+Había una persona juguetona que clasificó los genios de las Cien ciudades del Este. Si la diosa Mei Suyao era la número uno, entonces Zu Huangwu era el número dos.Un joven estudiante miró al divino Great Child Yao Guang y murmuró: "Un cuerpo de piedra cultivado en carne; tal logro en una edad joven - verdaderamente asombroso. No es de extrañar por qué los ancianos del Reino Antiguo Brillantez piensan que puede alcanzar la Voluntad del Cielo."
+
+ZuHuangwu era de la raza Golem de piedra, pero había logradocultivarse en un cuerpo hecho de carne hace mucho tiempo paraincorporarse a sí mismo en el gran dao.
+
+La raza Golem de piedra era una de las razas más grandes en los tiempos contemporáneos. En el pasado antiguo, la gente solía listarlos bajo la Raza Demonio; sin embargo, no se consideraban demonios y formaban su propia tribu. Por otra parte, sus talentos naturales eran grandes y poseían un cuerpo de piedra extremadamente poderoso! Poreso, desde la antigüedad, la Raza Golem de Piedra no sólo poseíauna firme solidaridad, sino que también era muy poderosa.Ellos eran completamente diferente a la Raza Demonio que tenía demasiadas variedades complejas - tanto buenas como malas.Losmiembros de la Raza  Golem de Piedra nacieron con cuerpos de piedra,pero si querían realmente poner el pie en el camino hacia el pico oincluso apuntar a la Voluntad del Cielo, entonces tenían que cultivarsus cuerpos de piedra en carne porque la carne era el mejor cuerpo en este mundo para almacenar y aceptar la esencia del mundo.
+
+Poreso, aunque era una gran ventaja mantener el cuerpo de piedra, era unaimportancia creciente cultivarse en un cuerpo de carne. Cuantasmás partes del cuerpo se convirtieron en carne significaba que lapersona era más poderosa y tenía un mayor potencial futuro.
+
+Zu Huangwu fue un gran genio sin duda. Élno sólo poseía las enseñanzas de dos emperadores, sino la parte másaterradora era que él creó su carne en una edad muy joven. La única parte restante de su cuerpo que aún era piedra era su hueso de jade entre sus cejas que no podía refinarse en carne.
+
+En este momento, su hueso de jade parecía un adorno, haciendo que su aterrador yo fuera mucho más atractivo."Déjalo ir. Entonces,mi Reino Antiguo no seguirá este asunto más allá. "Con una mirada como de antorcha y una luz divina altisima, Zu Huangwu era como un príncipe de loscielos, haciendo que otros sintieran admiración. Noimportaba el joven genio, cualquiera que estuviera ante él y hubieravisto tal apariencia sentiría vergüenza por un complejo de inferioridad.
+
+En este momento, todos los ojos estaban en Li Qiye mientras contenían la respiración. Los estudiantes de Gran Era sudaban por Li Qiye. ChiXiaodie matando a Huangfu Feng y Li Qiye derrotando a Gui Fushu fue unasunto glorioso para el Gran Salón de la Era , y se ganó mucho orgullo yalegría a sus estudiantes.
+
+Sin embargo, Zu Huangwu apareció y esto hizo que los estudiantes de la Gran Era se preocuparan por Li Qiye. Ningunos buenos resultados podrían venir de ser enemigos con Zu Huangwu y el reino antiguo.Los estudiantes de la era Zenith se burlaban llenos de desprecio. HuangfuFeng y Gui Fushu ambos vinieron de este lugar, pero habían perdido,dando por resultado un semblante severo en todos sus estudiantes. Era como si fueran abofeteados por el Gran Salón de la Era . En este momento, con la aparición de Zu Huangwu, todos sentían que Li Qiye estaba muerto seguro.
+
+"Cosa tonta, atreviéndose a provocar el Reino Antiguo ... Temo que élmuera sin una tumba." Un estudiante de la Era Zenith se burló.
+
+Conuna mano todavía sosteniendo a Gui Fushu, Li Qiye miró a Zu Huangwumientras permanecía tranquilo y cómodo, entonces él habló conindiferencia: "¿Y si no lo dejo ir?"
+
+"¡Morirás sin piedad!" Los ojos de Zu Huangwu se entrecerraron;un resplandor divino aterrador disparó hacia fuera como los rayos en la salida del sol hasta el cielo alto."Pequeña cosa, déjame ir! ¡Si no, no terminará solo matándote! Las cien razas del Reino Antiguo Brillantez destruirán tu secta yaniquilarán a tus nueve parientes. "Después de ver la llegada de suhermano marcial, Gui Fushu se volvió más valiente y gritó.
+
+El Reino antiguo Brillantez era la nación con la mayoría de las razas dentro de las cien ciudades del este. Por lo tanto, no era irrazonable que la gente lo llamara el Reino de las Cien Razas. De hecho, los Emperadores Inmortales del Reino antiguo Brillantez no eran humanos. Elemperador inmortal Yao Guang era de la raza Golem de piedra, yel emperador inmortal Fu Mo era de la raza del diablo celestial, quecontribuyó al nombre coloquial del reino.1-Esto es lo que mi teaser se refería a, una amenaza vacía y sin sentido a Li Qiye.2.     Fu Mo = sometiendo el Mal , Yao Guang = Brillantez.

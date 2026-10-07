@@ -1,0 +1,63 @@
+---
+titulo: "Capítulo 175: ED  Un Azulejo que Trae una Calamidad (1)"
+numero: 175
+novelaId: "48"
+---
+
+A cualquier cultivador de la generación anterior, aceptar a un discípulo era una cuestión muy prudente. Sin mencionar a un hombre sabio, incluso los expertos de nivel Noble Real eran muy exigentes al elegir un discípulo!
+
+Elviejo delante de ellos era, sin duda, un hombre insondable y oculto,pero en ese momento estaba pidiendo a Li Qiye que fuese su aprendiz. Tal cosa era realmente rara de ver.
+
+Loque sorprendió al grupo de Li Shuangyan aún más fue que este viejocomenzó inmediatamente con los tesoros de nivel Paragon Virtuoso comoun regalo de bienvenida. Esto era demasiado extravagante y los dejó repentinamente sin palabras.
+
+Con un maestro tan lujoso, incontables jóvenes héroes en este mundo clamarían querer convertirse en su discípulo. Parapoder tener a un hombre tan sabio como su maestro, no tendrían quepreocuparse por los costos de comidas y bebidas por el resto de susvidas.Li Qiye, por el contrario, no estaba interesado. Él negó con la cabeza y dijo: "No estoy interesado, todavía deberías encontrar a alguien más para ser tu discípulo".
+
+"Hehe, pensar en ello, pensar en ello, primero aceptar estos tesoros. Esperahasta que los uses, entonces comprenderás la ventaja de los tesoros." Elanciano continuó entregando los tesoros hasta la puerta; colocó los tesoros en los brazos de Li Qiye una y otra vez.
+
+"Estoymuy conmovido por tu entusiasmo, pero no necesito un maestro." Li Qiyedijo con una sonrisa y devolvió los dos tesoros de Paragon Virtuoso alanciano.
+
+El viejo se quedó sin palabras y no pudo evitar decir: "Hey, hey, Pequeño Chico, ¿tienes que ser así? ¡Adorarme como tu profesor es muy ventajoso para ti! ¿Qué tal esto? Mientras sigas al maestro, este asunto del tesoro no es nada. Dices las palabras, ¿qué tesoros te satisfacerían para aceptarme como tu maestro?"La frase del anciano se elevó heroicamente hasta el cielo con una mirada de lanzamiento de toda la precaución al viento!
+
+"-Bien,encontrarás diez Tesoros Verdaderos Emperador Inmortal para mí, entonces teadoraré como maestro." Li Qiye miró al anciano cuyo orgullo estaballegando al cielo y dijo alegremente.
+
+"¡Diez Tesoros Verdaderos Emperador Inmortal !? ¿Crees que son sólo repollos?" El anciano oyó esto y su expresión se hundió en gran medida.
+
+"Yasea que sean coles o no, no lo sé." Li Qiye se encogió de hombros ydijo sonriente: "Este es tu negocio, piensa cuidadosamente". Con eso,se echó a reír y se volvió para irse.
+
+El grupo de Li Shuangyan no pudo evitar sonreír irónicamente.Otras personas deseaban adorar a un hombre tan sabio como su maestro, pero Li Qiye actuó como si no fuera nada de qué preocuparse!"Pequeño chico, realmente piensa en ello. Me alojaré en la calleantigua por algún tiempo. Una vez que lo averiguaste, siempre puedes volver y encontrarme. Siemprey cuando me adore como su maestro, podrá comer bien y beberextravagantemente - ¡esto no es gran cosa! "El viejo no se dio porvencido y gritó después de que Li Qiye se marchara.Li Qiye sólo se encogió de hombros y sonrió de lejos con una apariencia desinteresada.
+
+Con tal entusiasmo y sinceridad del anciano, incluso Chen Baojiao no podía dejar de preguntar: "¿Por qué Joven Noble es tan reacio?En mi perspectiva, este viejo es insondable;él tiene absolutamente un gran fondo. "
+
+"Los nueve mundos pueden ser grandes, pero, todavía no hay nadie calificado para ser mi maestro." Li Qiye dijo tranquilamente.¿Adorar a otros como maestro? ¿Qué clase de broma era esta? Incluso arregló a Emperadores Inmortales. ¡Ni siquiera podía contar todas las existencias que enseñaba a ser capaz de recorrer los ocho desolados y las seis direcciones! Alguien capaz de ser su maestro en este mundo ... Uno realmente no pudo ser encontrado.
+
+"Sinembargo, Maestro de secta  Su es tu maestra." Li Shuangyan quiso reprimir aLi Qiye, y ella dijo tranquilamente con su actitud siempre fría como elhielo.
+
+Li Qiye la miró una vez y dijo: "-Es una coincidencia, una coincidencia. ¿Sabes qué es una coincidencia?"
+
+Esta actitud de Li Qiye hizo a Li Shuangyan y Chen Baojiao reírse por un momento. Lasdos bellezas supremas sonriendo tímidamente eran tan bonitas, haciendoque las almas de innumerables personas se volvieran locas mientrasentraban en las paredes, inconscientes.Shi Gandang, que siempre había estado siguiendo en la espalda, sólo podía suspirar ligeramente.Esta fue una brecha.Siera él, cuando un hombre tan sabio aceptaba a un discípulo, inclusopodía desprenderse de todo rostro e inmediatamente se inclinaba paraadorarlo como un maestro.Este lujoso maestro sería difícil de encontrar en millones de años.Sin embargo, Li Qiye ni siquiera pensó que era una cosa.Incluso cuando los tesoros de Paragon virtuoso se usaban como un regalo de bienvenida, él ni siquiera miró.Esta era una brecha de la vida que no podía alcanzar."¿Porqué se puede abrir el cofre de piedra?" Pensando en el asunto desdeantes, Chen Baojiao no podía dejar de preguntar sobre un asunto tanincreíble.Aunque había visto muchas cosas asombrosas mientras seguía a Li Qiye, no podía evitarlo.Li Qiye hizo una pausa un poco después de escuchar su pregunta.Suspiró suavemente en su corazón;¿cómo no sabría abrir este cofre?Si no podía abrirlo, entonces ¿podría haber alguien más en este mundo que fuera capaz de hacerlo?Uno tenía que saber que el personalmente enterró este cofre de piedra ese año.Este fue un viejo cuento ah ..."Esto es un secreto. Una vez revelado, ya no será misterioso ". Al final, Li Qiye respondió a Chen Baojiao así.
+
+Chen Baojiao estaba, por supuesto, insatisfecha con esa respuesta y miró furiosamente a Li Qiye.
+
+Sin embargo, Li Shuangyan entendió Li Qiye mejor. En ese momento, se dio cuenta de que el cofre de piedra recordaba a Li Qiye algunos viejos asuntos. Pero en cuanto a lo que estaba en su mente, ¡era imposible para ella saberlo!
+
+LiQiye dijo a Li Shuangyan: "La Formación de las Seis Bestias y la Placa Celestial del Cielo, las tomas y haces un buen trabajo cultivando.Estos dos artículos tendrán muchas cosas buenas para ti."
+
+ALi Shuangyan le encantaban las formaciones, así que Li Qiye quería laFormación de las Seis Bestias y la PlacaCelestialdel Cielo fueadaptada para Li Shuangyan.De lo contrario, no abriría el cofre de piedra para el anciano."¿Qué pasa con la hermana menor Baojiao?" Li Shuangyan, a la inversa, hizo esta pregunta. No le faltaban tesoros; además, también tenía la Espada Seis Dao. Sin embargo, Chen Baojiao - después de dejar el Clan Chen - no obtuvo ningún tesoro.
+
+"Estosdos tesoros no son adecuados para ella." Li Qiye negó con la cabeza ydijo: "Esperen hasta que haya tesoros adecuados, la ayudaré a encontraruno o dos".
+
+Chen Baojiao tenía un sentido de propiedad y no le preguntó a Li Qiye por un tesoro. A pesar de que incluso el grupo de Nan Huairen fue dado los tesoros, sólo ella estaba sin uno, pero ella todavía no preguntaba.Sabía que Li Qiye tenía una orden para aquellos que lo seguían.Eltiempo que le había seguido fue mucho más corto que el grupo de LiShuangyan, así que compartir tesoros después de ellos no fue unasorpresa."¿Qué habíaen ese pequeño ataúd de oro?" Después de caminar una corta distancia,Li Shuangyan, que siempre había entendido a Li Qiye, no pudo evitarpreguntar tranquilamente. Vio el objeto dentro del cofre de piedra, y estaba claro que el viejo valoraba mucho este pequeño ataúd de oro. Sólopara abrir el cofre de piedra y obtener este ataúd, el anciano no leimportaba usar grandes tesoros de Paragon Virtuoso para comerciar. Estosignificaba que el objeto dentro del pequeño ataúd de oro eraextremadamente agitador del cielo, o el pequeño ataúd de oro en sí era un tesoroque sacudía los cielos.
+
+Refiriéndose al pequeño ataúd de oro, Li Qiye suspiró suavemente y finalmente dijo: "Lo que nadie en este mundo podría esperar."
+
+La respuesta de Li Qiye fue lo mismo que no haber respondido en absoluto, pero Li Shuangyan no preguntó más. En realidad, Chen Baojiao también era muy curiosa con respecto al tema dentro del pequeño ataúd de oro. Puesto que Li Qiye no contestó, no podía volver a preguntar.La calle antigua era muy animada con gente que iba y venía con negociaciones sin parar. Algunas personas vendían medicinas divinas mientras que otras adquirieron tesoros. Entonces hubo algunos que querían encontrar a sus destinos ... Había todo tipo de personas en este lugar.
+
+Encomparación con los halcones callejeros en las calles de Ciudad Antigua del Cielo, los vendedores de la Calle Antigua simplemente no gritaron. Siquerían vender tesoros, simplemente los colocaban en el suelo yesperaban a que los compradores vinieran a preguntar sobre ellos.
+
+Sin embargo, hubo excepciones.En un rincón de la calleantigua, había un puesto establecido.Esto era una tienda de medicinas con dos personas.Uno era un anciano y el otro era una joven chica.Elanciano gritó para atraer a los clientes mientras la chica tenía lacabeza baja, aparentemente mostrando las hierbas medicinales." Farmacia ViejoSu Xui, 3.000.000 de años de reputación de oro.Los amigos que viajan , absolutamente no te lo puedes perder. Medicina del alma, Médulas de Bestia, Sangre de Longevidad- todo lo necesario está aquí.Medicina de la longevidad, píldora de la vida, pasta dorada ... Nada falta.Unmedicamento para extender cien años, un dan para satisfacer las nuevenecesidades, una pasta dorada para salvar a una persona muerta ... Elprecio es justo, el precio es justo ... A lo largo de todo el GranTerritorio Medio, no, a lo largo de todo el Mundo del Emperador Mortal, no hay una tienda de medicamentos más barata. "El anciano en el puesto reunió su garganta y gritó.Conuna barba de chivo, los ojos del tamaño de frijoles verdes, y una cara llena dearrugas, este viejo era un poco gracioso en apariencia.Cuando sonreía y gritaba, ¡las arrugas parecían olas ondulantes!Sin embargo, su negocio estaba muy en auge.Para muchos cultivadores, Medicinas de Longevidad y Píldoras de vida fueron ambos gastos necesarios.Además, los Alquimistas de cada secta eran limitados.Dentrode las grandes sectas, los discípulos que podían recibir estasmedicinas no eran muchos, así que muchos cultivadores sólo podíancomprar estos artículos fuera.Por supuesto, los medicamentos vendidos fuera no eran baratos. Los cultivadores que eran capaces de pagarlos definitivamente provenían de las grandes sectas.
+
+Losmedicamentos de la longevidad y las píldoras del destino junto con lahierba del alma y las médulas de la bestia de este viejo no eran pocosmientras que él tenía un flujo constante de compradores.
+
+"¿Tienes píldoras de destino cinco transformaciones o no? ¿Qué precio? "Un Santo Antiguo entró en el puesto de medicina del anciano y preguntó.
+
+"¿Píldorasde destino cinco transformaciones ? Sí,sí, sí, sólo quedan tres píldoras. "El viejo curandero se rió y dijo:"¡Una píldora de destino se vende por 600,000 Jades Refinados Soberano Celestial! ""600,000Jadees Refinados Soberano Celestial?" Escuchando la respuesta delanciano, el Santo Antiguo saltó y dijo: "Viejo, tú eres demasiadosombrío, ¡tú también puedes robar gente!Unapíldora del destino de cinco transformaciones es utilizada principalmentepor los santos antiguos, con todo usted la está vendiendo para losjades refinados soberano celestial.¡600,000 Jades refinados santo antiguo es más razonable! ""Este amigo Dao, ya eres un Santo antiguo, un experto raro en este tiempo, también debe ser consciente de esto.Para un maestro de alquimia, las píldoras de destino son las más difíciles de refinar.Mis píldoras de destino son seis transformaciones y siete logros, estos son definitivamente populares.Setarda un tiempo muy largo para que yo perfeccione sólo una píldora, yla recolección de la hierba dan junto con las medicinas espirituales noson fáciles.Además,mi probabilidad de siete logros ... Este abuelo de la medicina Su Xuipuede apostar que a través de toda la CiudadAntiguadel Cielo, nomuchos lugares pueden vender siete logros.Si este tipo de Píldora de Destino fuera vendido con los Jades refinados Santo Antiguo, ¿no estarían todos aquí para robarlos?"Este santoantiguo se calló de inmediato. A pesar de que este precio no era de sentido común, pero, lo que dijo era cierto. Paralos cultivadores, Pastas Fisicas y Medicinas de Longevidad eran másfáciles de encontrar mientras que Píldoras del Destino era más difícil.Especialmente píldoras de destino de nivel Santo Antiguo, eran aún más difíciles de encontrar.

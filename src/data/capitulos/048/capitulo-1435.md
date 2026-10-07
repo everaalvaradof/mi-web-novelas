@@ -1,0 +1,39 @@
+---
+titulo: "Capítulo 1435: ED  Cadáver Árbol Embarazada"
+numero: 1435
+novelaId: "48"
+---
+
+"Bueno, no necesitas saberlo". Li Qiye se rió de la muchacha inquisitiva.
+
+"Hmph, lo que sea entonces, no quiero escuchar de todos modos, incluso si quieres decírmelo". Ella lo miró con insatisfacción.
+
+Li Qiye estaba divertido por su respuesta decepcionada.De repente, su mirada cambió.
+
+Al segundo siguiente, presionó la palma de la mano en el suelo y pareció ser uno con el mundo. Estaba parado allí mismo, pero parecía que había desaparecido de la vista.
+
+Se levantó de nuevo al siguiente momento y tiró del brazo de Xiaoxiao: "¡Vamos!"
+
+En un abrir y cerrar de ojos, su velocidad estalló de una manera incomparable.Incluso el tiempo no podía compararse con esta rapidez.
+
+"¿Dónde?" Ella estaba alarmada por este movimiento repentino y su rara y digna actitud.
+
+Aunque Li Qiye no respondió, ella sabía que algo grande había sucedido.Desafortunadamente, ella no sabía los detalles exactos.Cruzó este mundo tan rápido que Xiaoxiao no podía ver las escenas circundantes.La vista ante ella cambió rápidamente y se convirtió en una imagencambiante, por lo que no tenía idea de en qué tipo de mundo estaba.Li Qiye parecía estar muy familiarizado con cada montaña y río en esta área, permitiéndole maniobrar sin el menor error.Finalmente se detuvo, permitiendo que Xiaoxiao pudiera ver mejor su entorno al fin.Se encontró a sí misma en medio de una gran gruta celestial.Ella no tenía ni idea de dónde estaba esto.El techo era bastante alto con rocas tan duras como metal por todas partes.Estaban parados a la entrada de esta cueva.Delante de ellos había un valle gigante debajo de un precipicio escarpado.Cuando tuvo una buena vista del valle, se sorprendió bastante debido a la gran cantidad de cadáveres árbol que había debajo.No solo eso, ella los había visto todos antes.Estos fueron los que deseaban reubicarse en la Cresta del Árbol Divino.No esperaba volver a verlos hoy.Además, los tablones pequeños y las chozas de madera también fueron trasladados a una esquina del valle aquí.Parecían estar construyendo una cerca para un patio interior.Se pararon en un grupo de varias capas alrededor de un árbol seco.Se había caído al suelo y parecía una cama grande.Había en realidad el cuerpo de un cadáver árbol tendido en este viejo árbol.Fueron llamados cadáveres, pero pertenecían a la categoría de cadáveres vivos.La vida estaba presente, solo faltaba el alma.Sin embargo, el cuerpo en el árbol era un verdadero cadáver.Estaba completamente muerto sin un poco de vida.A juzgar por sus características, este era un cadáver femenino.Había una protuberancia en su vientre que era grande y redonda.Además, era ondulada como si algo estuviera dentro."Esto es ..." Xiaoxiao casi gritó, pero rápidamente se tapó la boca.Respiró hondo y finalmente se calmó: "¿Está a punto de dar a luz?""Sí". Li Qiye asintió con una actitud seria: "Esto es realmente un milagro.Pensé que los cadáveres árbol  solo podían vivir una generación, pero ya no parece ser el caso.También tienen la oportunidad de dar a luz a una vida completamente nueva "."¿Qué pasó aquí?" Muchos cadáveres árbol  habían caído alrededor de la hembra muerta.Sin duda, aquí habían muerto trágicamente."Sigue mirando y ya verás". Li Qiye continuó mirando la gran barriga.El no se atrevió a pensar en el nacimiento de esta raza en particular.¿Era esto el anuncio de algo siniestro?¿Cuál sería el efecto de esto en el mundo?¿Superarán los cadáveres árbol a los marchitos en términos de reproducción?Incluso un experto como él no estaba seguro.Lo único que sabía era que el futuro estaría lleno de lo inesperado.En este momento, varios poderosos cadáveres árbol  se hacían gestos con signos que solo ellos entendían.Finalmente, cuatro cadáveres árbol salieron y fueron lentamente hacia el cadáver femenino en el árbol.“¿Qué van a hacer?” A Xiaoxiao le preocupaba que estos cuatro seres pudieran hacer algo por la nueva vida."Solo mira." Li Qiye la presionó para evitar que actuara precipitadamente."¡Crackle!" Un estallido de trueno resonó justo cuando los cuatro cadáveres árbol se acercaron.El enorme vientre salió disparado de gruesos rayos de luz que instantáneamente impactaron a estos cuatro.Se estremecieron después de este golpe.A pesar de ser poderosos, no pudieron soportar un ataque tan horrible.Sin embargo, perseveraron mientras gritaban algo.Mientras tanto, tres cadáveres árbol más de la multitud salieron al instante.Claramente hicieron un plan de antemano mientras estos tres saltaban hacia la campana.Estaban usando estos otros cuatro para desviar ese rayo."¡Boom!" Sin embargo, el vientre disparó una llama aterradora esta vez y encendió los tres.
+
+Gritaron miserablemente y fueron quemados hasta las cenizas. Al mismo tiempo, los otros cuatro finalmente cayeron directamente al suelo con humo verde saliendo de sus cuerpos.
+
+Siete poderosos cadáveres árbol fueron asesinados en un instante. La multitud se volvió caótica después de ver esto. A pesar de que querían acercarse a la nueva vida, no había nada que pudieran hacer.
+
+Xiaoxiao murmuró: "¿Qué están tratando de hacer? ¿Quieren sacar a la fuerza esa nueva vida del útero?"
+
+"No, están tratando de salvarlo". Li Qiye sacudió suavemente la cabeza mientras observaba sin parpadear.
+
+"¿Salvarlo?" Ella no esperaba esta respuesta: "¿Cómo?"
+
+Li Qiye explicó lentamente: “Al ayudar a que se convierta en realidad.Esta es una forma de vida única, un milagro.Su vida comenzó desde el cielo y la tierra.Si realmente pudiera salir, este podría ser el comienzo de una raza completamente nueva ".El respiró hondo y continuó: “Ya que es un regalo de este mundo, debe aceptarlo el cielo y la tierra.Cuando su madre estaba viva, actuó como el medio, permitiéndole conectarse con el mundo.Por desgracia, ahora está muerta, por lo que está atrapado dentro del cuerpo de su madre y separado del mundo.Si esto continúa, morirá seguro ”."Pero si todos los cadáveres árbol de aquí intentan salvarlo, ¿por qué los ataca?" Estaba bastante desconcertada.“Debidoa que es solo un bebé con cero conocimientos del mundo, escompletamente ignorante”. Li Qiye dijo: “En su mente, aparte del cuerpode su madre, todas las demás existencias que se acercan son amenazaspotenciales.Sin la protección de su madre, es una pequeña bestia asustada que atacará a cualquiera que se acerque "."¿Qué debemos hacer entonces?Estos cadáveres no pueden acercarse y no pueden evitar que salga ". Se sentía preocupada.Li Qiye no dijo nada mientras observaba esta situación."Oye, Rey Ego, eres omnipotente y omnisciente". Xiaoxiao inmediatamentemovió su brazo de un lado a otro: "Nada es difícil para ti, así que talvez deberías salvar esta pequeña vida".Li Qiye la miró y se echó a reír: "Necesitas saber que la llegada de esta nueva vida está llena de lo desconocido. Su nacimiento podría ser la voluntad del cielo y la tierra, pero también lo es su muerte ".
+
+"¿Quées esto del cielo y la tierra?". No estaba satisfecha con estarespuesta y puso mala cara: "¿Vas a ver morir a este pequeño bebé sinhacer nada?"
+
+Li Qiye sonrió en respuesta: "No lo entiendes. Dejar que salga no es difícil, pero no sabes lo que traerá al mundo, especialmente para personas como tú.Puede resultar en una consecuencia inimaginable.Sientiendes las implicaciones internas, desde un punto de vista egoísta,no quisiera que esta forma de vida naciera en este mundo si fuera tú".
+
+"Bueno, déjalo para más tarde." Ella dijo infelizmente: "Salvalo primero.Es solo un bebé, ¿quién sabe si será bueno o malo?Tal vez incluso se convertirá en el salvador del mundo ".Más de 200 Capítulos de ED avanzados en elpatreony aumentando cada día.. Para consultas pueden comunicarse con nuestro equipo por whatsapp al +56976572857

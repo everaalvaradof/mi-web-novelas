@@ -1,0 +1,59 @@
+---
+titulo: "Capítulo 232: ED  Contienda por los barcos del inframundo (2)"
+numero: 232
+novelaId: "48"
+---
+
+Li Qiye permaneció en silencio mientras enfocaba su mirada en cada barco cuando salían. Un momento después, el último maestro de la Puerta de Mil Emperadores finalmente hizo su movimiento. Rápidamente pisó la cima de un Barco del Inframundo. En el momento en que tomó acción, todo el mundo podía oír claramente los sonidos nítidos y claros de los huesos rompiéndose. Todo el que compitió con él por el barco fue triturado en carne picada. Una escena tan dominante hizo temblar los corazones de todos.
+
+"¡Verdaderamentedigno de venir de la Puerta de Mil Emperadores!" Incluso elantepasado del Templo de Dios de la Guerra murmuró con asombro.
+
+A medida que los barcos flotaban hacia afuera, había cada vez más personas que apuntaban hacia ellos.Sin embargo, había demasiados cadáveres de la Tierra;incluso cuando salieron más de diez mil barcos, cada uno seguía siendo muy disputado.La verdad era que era una apuesta enorme escalar para arriba en un barco del inframundo. Más de diez mil barcos volaron en cada generación, pero eran esencialmente barcos de la muerte. Los legendarios barcos de vida no eran más de tres. Por otra parte, cada uno de ellos prolongó su vida por una cantidad diferente de tiempo. Algunos dieron decenas de años, mientras que otros dieron varios cientos o incluso varios miles de años. Incluso había un legendario que voló fuera del infierno y concedió una vida entera!
+
+"¡Ese!"Finalmente, Li Qiye seleccionó un barco para el Antepasado del Templode Dios de la Guerra e inmediatamente gritó hacia la persona dentro delantiguo ataúd.
+
+Después de las palabras de Li Qiyesalió, con un "whoosh", el ataúd de madera se apresuró y se elevó haciaese barco del inframundo.Este Barco del Inframundo también fue disputado por cientos de personas, siendo la mayoría Cadáveres de la Tierra."Zhangggg-" La persona dentro del ataúd de madera no salió. En lugar de eso, él sólo cortó una luz de espada hacia afuera. Esta luz de espada iluminó las nueve esferas con un sonido "phoosh". Elbrillo de este único barrido de la espada aniquiló todos los imperecederos,señores del tesoro, y cadáveres de la tierra mientras que el ataúd demadera voló hacia el barco.
+
+"Estrellas en la Espada del Cielo" Un gran personaje reconoció el origen de esta espada después de ver la luz de la espada.Este SeñorSagrado -con una expresión conmocionada- exclamó: "¡Es el Templo de Dios de la Guerra!"Al oír las palabras "Templo de Dios de la Guerra", todos sintieron un escalofrío por dentro.¡El Templo de Dios de la Guerra!Estopodría decirse que es una de las existencias más antiguas en el Mundo del Emperador Mortal por su inicio fue durante la Era Desolada.Todavía se mantenía fuerte y tenía lazos secretos con muchos emperadores inmortales.¡Era misterioso y poderoso y tenía un fundamento inquebrantable en este mundo!Alrededor de este tiempo, muchas personas miraron al grupo de hombres vestidos de negro que estaban de pie detrás de Li Qiye.¡Finalmente entendieron que Li Qiye estaba trabajando para el Templo de Dios de la Guerra y ayudando a su asunto de entierro!Al mismo tiempo, muchos hombres inteligentes estaban interesados ​​en la actitud discreta del Templo de Dios de la Guerra.¿Quién era la persona enterrada del Templo de Dios de la Guerra?Mientraslos barcos flotaban suavemente río abajo, Li Qiye finalmente dijo a LiShuangyan y Chen Baojiao: "Este es mi tiempo para abordar.Ambas, junto con la Puerta del Demonio Nueve Santos, deben regresar con estos ancianos.Nadie se atreverá a causar problemas con ellos alrededor.Si no vuelvo en medio mes, vuelva a la secta del Incienso Purificador con el grupo de Niu Fen.No tienen que preocuparse por mí.""¿Qué ...?" Había diez mil palabras y preguntas en las mentes de Li Shuangyan y Chen Baojiao, esperando para ser hablado.Naturalmente, no querían que sus joven noble abordaran el Barco del Inframundo, pero no había manera de persuadirlo."¿Quieresir al Barco del Inframundo?" En este momento, incluso los antepasadosdel Templo de Dios de la Guerra tenían la boca abierta. ¿Este mocoso estaba loco? Sólo las personas cercanas a su muerte - sin otra opción - se embarcaría en los barcos del inframundo. Todo el mundo era consciente de que ir en el barco del inframundo era similar a morir. La posibilidad de prolongar la vida era verdaderamente minúscula; fue uno de cada diez mil! Sin embargo, este mocoso en una edad tan joven realmente quería abordar un barco - esto era verdaderamente locura.
+
+"Debería irme ahora." Después de ver el último Barco del Inframundo volar, Li Qiye habló.
+
+Mientras tanto, Chen Baojiao y Li Shuangyan no querían irse. Quisieron cambiar completamente la mente de Li Qiye, pero las palabras no saldrían. Ellas eran conscientes de que ningún consejo disuadiría a su joven noble.
+
+"Si muero, entonces ustedes son libres. El cielo será alto y la tierra será inmensa otra vez;siéntase libre de volver a casarse. "Viendo la renuencia de las dos niñas a salir, Li Qiye hizo una broma.1"Boca de uncuervo oscuro!" Chen Baojiao no pudo evitar exclamar: "¡Seguramentevolverás vivo!" Habiendo dicho esto, sus ojos se llenaron de lágrimas. 2
+
+Li Shuangyan mostró su actitud de fría como hielo. Las miles de palabras que esperaban para ser dichas en su mente sólo salían como una frase: "¡Esperaré que vuelvas!"
+
+"¡Vayan,esperen mi regreso triunfante!" Comparado con los tristemente abatidos estados de las dos chicas, Li Qiye - por otra parte - estaba bastanteanimado.Gritó y mandó al Carro de Bronce Tetra-Guerra a volar hacia el último Barco del Inframundo.
+
+En este punto, hasta el último barco estaba siendo competido por otros.Sin embargo, con el carro de bronce Tetra-guerra saltando y sus relinchos, Li Qiye gritó: "Largarse!"Los cuatro caballos de bronce se precipitaron hacia adelante mientras pataleaban con sus pezuñas. Todos los contendientes fueron pateados volando cuando Li Qiye montó el carro al frente de la proa del barco.
+
+"Vuelvan, yo volveré." En la proa, Li Qiye saludó a Li Shuangyan y a los demás mientras sonreía en voz alta.
+
+"Que tengas un buen viaje". Al final, los hermosos ojos de Li Shuangyan y ChenBaojiao se llenaron de niebla mientras sus narices se sentían doloridas. A continuación, saludaron hacia Li Qieye.
+
+Con una risa galante, Li Qiye condujo el carro en el barco mientras sus puertas se cerraban lentamente.Después de embarcarse en el Barco del Inframundo, todos quedaron atónitos. Este era un asunto impensable porque todos los que iban en estas embarcaciones estaban cerca de la muerte. Estaspersonas habían tomado una gran cantidad de medicamentos de longevidad ytesoros junto con medicinas inmortales y verdadero dan. Estas personas ya no podían ser curadas y sólo podían esperar su muerte. Si tenían otras opciones, ¿quién estaría dispuesto a ir en estos barcos? Uno tenía que saber que ir en el barco no era muy diferente de ir a su desaparición!
+
+Sin embargo, Li Qiye era todavía joven; sólo tenía entre quince y dieciséis años. El mundo seguía siendo hermoso para él, y su aventura apenas había comenzado. Sin embargo, este mocoso optó por ir en el Barco del Inframundo; de verdad se había vuelto loco.
+
+"-¿Este chico ha perdido la cordura? ¡Estávivo y bien así, sin embargo, está corriendo a su muerte! "Muchaspersonas se quedaron atónitas al ver el último bote entrando en lascapas brumosas del río.Algunaspersonas encontraron que esto era insondable cuando murmuraron: "Estechico debe estar poseído por un Espíritu de Longevidad suicida. ¡Sólo las personas que están cansadas de vivir subirían al Barco del Inframundo! "
+
+En este momento, nadie entendió la razón. Era comprensible para los muertos a bordo del barco, pero un joven? Verdaderamente suicida.
+
+Saint Child Bao Zhu, con brillantes destellos en sus ojos, estaba muy emocionado. Li Qiye simplemente buscó su propia muerte al abordar el barco! Si Li Qiye no regresó, entonces ese sería un enemigo menos poderoso para él. Lo que era lamentable era que este mocoso llevó a la suprema físicainmortal  a morir!Bai Jianzhen, descendiente de la Tierra Sagrada Dios de la Espada, todavía estaba fría y sin emoción como siempre. Miró al último barco que flotaba por el río y no pudo evitar contemplar. Este asunto era realmente extraño.Mientras tanto, Li Shuangyan y Chen Baojiao desanimadas suspiraron. Ellas oraban en silencio por su joven noble y esperaban que pudiera regresar sano y salvo. Ellas creían que él sería capaz de hacer un milagro y volver vivo.
+
+De hecho, estaban tan perdidas como los otros. Nadie sabía dónde estaba el final del río del inframundo. Una vez que uno subió a un Bote del Inframundo, sólo la gente de los botes de vida regresaría viva; el resto nunca volverá.
+
+Lagente empezó a evacuar después del final de los Barcos del Inframundoporque el CementerioCelestial Antiguo pronto recuperará suenergía. Si no se fueran ahora, tal vez morirían dentro del cementerio.Porsupuesto, muchos expertos en su momento de retirada comenzaron la búsquedadel tesoro una última vez antes de que el cementerio recuperara sufuerza.Naturalmente, muchos de ellos todavíamurieron en este momento porque el cementerio era todavía un lugarpeligroso, incluso cuando todos los cadáveres de la Tierra no habían  regresado.Un gran poder tuvo mala suerte porque ellos saquearon tesoros en el territorio de un Señor del Tesoro. Uno sólo podía imaginar el resultado; un Señor del Tesoro subió de la tierra y aniquiló a todos, causando grandes pérdidas a esta gran potencia.
+
+Encuanto a Li Shuangyan y Chen Baojiao, fueron junto con la Puerta delDemonio Nueve Santos y los ancianos del Templo de Dios de laGuerra para abandonar el cementerio, para regresar a la Ciudad Antigua del Cielo para esperar a Li Qiye.
+
+Los barcos del inframundo flotaron en silencio, y estaban completamente sin sonido dentro también. Uno no sabía dónde flotaban; incluso si abrieron la puerta, no podían ver el paisaje fuera. Era una inmensa nada sin imágenes. Ni siquiera los otros barcos estaban a la vista.
+
+¡Era como si sólo hubiera un bote que se deslizara por encima de este río interminable y todos los otros hubieran desaparecido!Dentro del Barco del Inframundo, no había nada más que una cama. Li Qiye se sentó en ella con una actitud tranquila como si fuera su propia casa. Li Qiye sacó entonces un artículo de su Palacio del Destino. Esta era una tableta de piedra que no era demasiado grande; sin embargo, era extremadamente pesada. La tableta tenía muchos agujeros y las líneas rúnicas complicadas fueron talladas en la parte superior; éstos eran completamente indescifrables por otros.
+
+Esta tableta de piedra fue tomada por Li Qiye de la Armería del Tesoro de la Secta Antigüa del Incienso Purificador. Sus ancianos no sabían el uso ni los efectos de esta tableta de piedra. La verdad era que nadie sabía lo que hacía, de dónde venía o quién la tomaba. Todo era desconocido desde que se crearon los anales históricos de la secta.
+
+En el momento en que lo obtuvo, Li Qiye inmediatamente supo que el origen de esta tableta de piedra era aterrador.Después, siempre había estado investigando esta tableta de piedra.Uno tenía que saber que había vivido durante un tiempo interminable e incluso había entrenado a Emperadores Inmortales. Habíapisado los doce Cementerios y seis Grandes Tierras InmortalesAntiguas - ¡los lugares que los humanos no se atrevieron aentrometerse! ¿Qué no había visto en este mundo? Sin embargo, él nunca había visto esta tableta de piedra antes.
+
+Recientemente, tuvo un pequeño avance a la hora de investigar esta tableta de piedra, por lo que se le ocurrió una idea.1-Esto es una broma. El nuevo matrimonio es realmente mal visto en la antigua China2-     Ella está diciendo que está diciendo palabras siniestras, por lo que es un cuervo oscuro. Encuentro esto divertido porque él es realmente un cuervo oscuro

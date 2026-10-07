@@ -1,0 +1,57 @@
+---
+titulo: "Capítulo 704: ED  Secreto"
+numero: 704
+novelaId: "48"
+---
+
+"¡Alto!" Justo cuando Li Qiye colocó la tela sobre el fuego, un grito salió de la tela. Al final, ella cedió.
+
+Li Qiye apartó la tela del fuego y la volvió a colocar sobre la mesa, mientras sonreía diciendo: "Esto es mejor. Una persona sensata es el verdadero héroe, ¿verdad?"
+
+"Eresun bastardo desdichado, despreciable, vil, desagradable, desvergonzado..." La pequeña sombra estaba especialmente descontenta con la amenazade Li Qiye y desencadenó un aluvión de insultos.Parecía que estaba escupiendo todas las toscas palabras que sabía para pintar a Li Qiye como el villano más atroz del mundo.
+
+ALi Qiye no le importó en absoluto y levantó la barbilla mientrasescuchaba en silencio sus insultos, como si la persona que estaba siendomaldecida no tuviera nada que ver con él.
+
+Después de dejarlo salir todo, la sombra finalmente se cansó y se detuvo.Mientras tanto, Li Qiye todavía estaba tan alegre como antes.Éldijo con una sonrisa: "Si estás cansada de maldecir y quieres parar,entonces por favor dime el método, estoy más que dispuesto a escuchar".La sombra sobre la tela frunció el ceño y dijo: "¡Hmph! Bastardo, escucha bien, este señor solo dirá esto una vez. Si no entiendes, no me culpes por no haberlo dejado claro ".
+
+"Por favor, soy todo oídos". Li Qiye no estaba enojado en absoluto. Era raro para él tener tan buen temperamento y buen humor.
+
+La sombra no tenía otra opción. Incluso si no quería contarle a Li Qiye, aún tenía que revelar el método para mirar las palabras en la tela.
+
+Después de aprender el método, Li Qiye inmediatamente desplegó la tela.En un abrir y cerrar de ojos, surgieron palabra tras palabra de una era antigua.Unas pocas imágenes arcaicas aparecieron también.Tantolas antiguas palabras como las imágenes eran registros de unos pocossecretos del pasado extremadamente desgarradores de la tierra que desconocían todos.
+
+"Bien, bien, este fue el caso". Li Qiye tenía una expresión digna mientras examinaba el texto.Ocasionalmente golpeaba la mesa en señal de exclamación después de mirar estos diagramas.Durante incontables años, Li Qiye conoció más secretos que cualquier otra persona.Para los que no tienen respuestas, formuló sus propias teorías sobre ellos.Por estas incógnitas, había comenzado a encontrar algunas pistas, peroahora fue capaz de descubrir las respuestas a algunas de ellas de estatela, causando que se sintiera extremadamente feliz.Después de leer cuidadosamente todas las escrituras y examinar todas las imágenes, finalmente lanzó un largo suspiro.Él ya había adivinado algunos de estos asuntos de antemano.Li Qiye sonrió y le dijo a la pequeña sombra desde dentro de la tela: "Tal vez pueda ayudarte con tus problemas"."¿En serio?" La sombra no era muy acogedora con Li Qiye;su actitud cautelosa era aún más evidente.Ella había perdido con él en este momento, entonces ¿cómo no podía estar en guardia hacia él?"¿Qué tal si me cuentas tus historias?Por ejemplo, ¿por qué estás presa en esta cosa?¿Quién fue el que le lanzó una maldición tan nefasta? ", Preguntó Li Qiye con una sonrisa.La sombra no parecía interesada y respondió secamente: "¡Quién querría decírtelo!"Li Qiye continuó alegremente: "¿Cómo debería poner esto? La confianza se basa en la comprensión mutua, ¿correcto?Si quiere confiar en mí, o si quiere ganarse mi confianza, ¿no cree que debería contarme sobre su pasado?Entonces, tal vez pueda quitarte el anzuelo ".
+
+La pequeña sombra respondió en un tono frío: "¿Es eso así?Espera hasta que puedas ir a ... ese lugar, entonces podemos hablar de nuevo.Hmph!Incluso si puedes llegar a ese lugar, ¿cómo puedo confiar en ti?"
+
+"Aizz, soy una persona tan buena y confiable, sin embargo, tengo que sufrir sospechas injustificadas.Esto es realmente hiriente ", dijo conmovedoramente Li Qiye.
+
+La sombra solo resopló y no dijo nada más.
+
+Li Qiye sonrió y dijo: "Por supuesto, soy una persona paciente, especialmente cuando se trata de ciertos asuntos.Puedo esperar varios millones de años.Si lo piensas un día, puedes venir a contarme en cualquier momento y discutirlo.Soy una persona que acepta fácilmente buenos consejos ".No hubo respuesta de la tela. Era como si la pequeña sombra ahora lo estuviera ignorando por completo.
+
+Li Qiye solo sonrió mientras guardaba la tela. Fue justo como él dijo, él era una persona paciente. Un día, la sombra tendría que pedir su ayuda.
+
+Después de obtener algunos secretos de la tela, Li Qiye entró en cultivo aislado durante tres días completos. Porsupuesto, los secretos de la tela no eran leyes de mérito, sino queeran solo algunos secretos máximos que los forasteros nunca conocerían.
+
+Durante este tiempo, comenzó a maquinar por un camino. Él requirió un plan extremadamente grandioso. Por supuesto, solo él sabría de este gran plan.
+
+La señora no quería molestarlo durante este período. Ella no sabía lo que su joven maestro estaba haciendo.
+
+En el segundo día del cultivo de Li Qiye, Tie Yi finalmente regresó y se arrastró fuera de la tierra. Conoció a la señora que estaba actuando como guardia de Li Qiye."Jajaja, Su Majestad Zi Yan, por favor no entienda mal.Este pequeño demonio solo está trabajando para Joven Noble, no soy unamala persona ". Tie Yi se presentó apresuradamente después de notar lamirada extremadamente aguda de la señora.La señora lo miró y lentamente dijo: "El joven maestro se está cultivando actualmente y no verá a nadie en este momento"."Entonces este humilde tendrá que esperar un poco". Tie Yi fue muy sensato con su respuesta.Si actuaba de una manera que suscitara la más mínima sospecha, entonces la señora inmediatamente lo atacaría.Debido a esto, obedientemente se quedó en el otro lado del valle y no tomó ninguna acción frívola.Después de tres días, el crujido de las puertas indicaba que Li Qiye finalmente había salido de su meditación.Parecía bastante fatigado como si acabara de librar una gran batalla contra un enemigo."Joven maestro, ¿estás bien?" Preguntó la señora preocupada después de ver su aspecto fatigado.Li Qiye solo negó levemente con la cabeza.Luego vio a Tie Yi, que estaba en el otro lado del valle."¡JovenNoble, finalmente saliste!". Tie Yi vino inmediatamente a saludar a LiQiye después de verlo salir y exclamó: "Este humilde no te decepcionó yobtuvo algunos resultados".
+
+Li Qiye miró a Tie Yi por un momento antes de decirle a la señora: "Zi Yan, estoy un poco ocupado en este momento. Deberías dar un paseo para relajarte si tienes tiempo ".
+
+La señora entendió que su joven maestro tenía algo que hacer y se fue sin decir una palabra. Li Qiye abrió la puerta y dejó entrar a Tie Yi.
+
+Dentro de la habitación, Tie Yi sacó solemnemente una caja del tesoro y le dijo a Li Qiye: "Fue realmente increíble. Eselugar era como un laberinto de truenos, nadie puede siquiera dar unpaso más dentro ". Con eso, le dijo a Li Qiye todo lo que vio.
+
+Despuésde escuchar la historia, los ojos de Li Qiye se pusieron serios cuandose acarició la barbilla y murmuró: "Un poco interesante, parece que el Padre árbol Allpine no está pasando un buen rato"."Jaja, este humilde asumió un gran riesgo y consiguió algo para Joven Noble desde allí.Joven Noble, mira detenidamente, tal vez puedas obtener algo de ello."Tie Yi levantó la caja del tesoro con ambas manos y se la entregórespetuosamente a Li Qiye.Li Qiye aceptó la caja y miró a Tie Yi, luego se rió entre dientes y dijo: "Parece que eres bastante sorprendente también.Fuiste capaz de entrar furtivamente sin ser detectado por el antepasado, e incluso lograste tomar el objeto de allí.Tal habilidad es extremadamente rara, solo conozco un arte secreto que permitiría esto ".Tie Yi sonrió irónicamente y dijo: "El joven maestro es gracioso.Solo soy un pequeño demonio, el hecho de que haya adquirido con éxitoesta pequeña cosa solo se debe a su gran fortuna y protección ".Li Qiye solo sonrió y no respondió a la adulación de Tie Yi.Después, casualmente sacó una lista y se la entregó a Tie Yi antes de hablar: "Como trabajas para mí, no te maltrataré.Puedes contar conmigo para tu problema.Las medicinas espirituales en esta lista no son tan raros;puedes ir a reunirlos todos.Yasea que los compre o los robe, eso depende de usted ... Después de eso,hay uno o dos ingredientes principales importantes que solo se puedenobtener de la vena principal del Reino Alquimista.En ese momento, irás conmigo al reino, y después de elegir los ingredientes faltantes, voy a refinar la medicina para ti ".Después de escuchar a Li Qiye, Tie Yi se puso un poco nervioso. Con un comportamiento lento, dijo: "¿Al Reino Alquimista? La Vena de Alquimia está bajo el control de la familia imperial ".
+
+Después de ver su expresión, Li Qiye lo miró nuevamente y preguntó: "¿Hay algún problema?"
+
+TieYi tosió y frotó sus palmas torpemente con una expresión ligeramenteavergonzada mientras decía: "No hay problema, es solo que este humildeha escuchado que no es fácil conocer a la familia imperial del Reino Alquimista. Me pregunto si nos encontrarán o no ".
+
+"No tienes que preocuparte por eso. No les corresponde a ellos decidir ". Li Qiye miró a Tie Yi y dijo:" ¿No me digas que tienes miedo de ir al Reino Alquimista? "
+
+"Ah,Joven Noble ha visto a través de mí." Tie Yi tosió y respondió con unaactitud incómoda: "El joven Noble debe saber que un pequeño demonio como estehumilde nunca ha visto el mundo antes. Me tiemblan las piernas cada vez que veo un gran personaje ".Unavez dicho esto, Tie Yi se tragó su saliva y forzó una sonrisa paradecir: "Joven Noble, también debes saber qué tipo de existencia es elReino Alquimista.Una secta, tres emperadores: ¡la existencia más monstruosa del Reino de la Alquimia!La familia imperial es inalcanzable como inmortales en los nueve cielos ".Li Qiye lo miró y dijo: "Deja de parlotear y ve al grano".TieYi mantuvo su expresión incómoda mientras respondía: "Joven Noble,debes saber que no soy más que un personaje humilde, me caeré y medefecaré en el momento en que vea a unos miembros incomparables de lafamilia imperial.Si bien no podría volver a levantarme, Joven Noble es diferente.Eres un genio único a través de las edades sin iguales, el más majestuoso y supremo de todos.¿Qué pasa si me avergüenzo a mi mismo y mancho tu reputación? ""¿Creesque no te retorceré como masa frita si continúas parloteando sinparar?" Li Qiye lo miró y lentamente dijo: "No quiero escuchar estamierda.Quiero escuchar algo sustancial, ¿entiendes? "1"Haha, Joven Noble me malentendió." Tie Yi rápidamente se rió ya que no tenía otra opción.Bajó la cabeza y dijo honestamente: "Joven Noble, estás dispuesto a hacerme la medicina;Estoy muy agradecido y siempre recordaré esto en mi corazón.Sin embargo, soy solo un pequeño demonio y no tengo el coraje de ingresar al Reino Alquimista.¿Quéhay de Joven Noble, déjame esperar fuera de la frontera del Reino Alquimista hasta que Joven Noble tome esos ingredientes y nos volvamos areunir?"1-Locrudo es: "Quiero escuchar las palabras de un hombre, ¿sabes qué eseso?". Esta es una expresión china que no tendrá demasiado sentido.Li Qiye dice que el chico está haciendo demasiadas tonterías, y que solo quiere tener una verdadera conversación con él.Esto puede ser realmente insultante en un entorno más regular porque implicaría que la otra parte es un animal.Este uso particular no es tan ofensivo.

@@ -1,0 +1,51 @@
+---
+titulo: "Capítulo 963: ED  Chi Zixian"
+numero: 963
+novelaId: "48"
+---
+
+"¿A dónde quieres ir?", Preguntó Ye Chuyun después de escuchar a Li Qiye.
+
+Li Qiye levantó la cabeza y miró las majestuosas montañas del Dragón Oculto: "Quiero ir a las Montañas del Dragón Oculto. Puede tomar algo de tiempo ".
+
+"Iré contigo." Ye Chuyun respondió con prisa: "Tal vez pueda ayudarte".
+
+"No." Li Qiye sacudió suavemente la cabeza: "Este viaje es un asunto personal. Al mismo tiempo, espero que te quedes atrás ya que tengo algo más que hacer ".
+
+Ella respondió: "Solo da la orden".
+
+Li Qiye miró a Si Yuanyuan y dijo: "Parece que el Reino de la Noche Carmesí no se dará por vencido. Antes de regresar, solo necesitas proteger a Yuanyuan "."Me temo que eso involucrará a la hermana Ye y la Escuela del Loto Puro". Si Yuanyuan se sintió apologética en su mente.No solo estaba arrastrando a Li Qiye con ella, sino también a Ye Chuyun.Li Qiye negó con la cabeza: "No te preocupes por eso.No soy alguien que tenga miedo a los problemas, y los que están a mi lado deberían ser igual.Si el reino es inteligente, huirán lo más lejos posible.De lo contrario, si me enfadan, personalmente los visitaré "."No te preocupes, hermana menor." Ye Chuyun la consoló también: "Con elhermano Li como tu protector, el reino no podrá hacerte nada".Si Yuanyuan solo suspiró suavemente al final y sostuvo sus palabras.Ella no quería que los dos pelearan contra el reino, pero había unabuena posibilidad de que fuera puesta bajo arresto domiciliario siregresaba.Esto fue porque ya era hora de que Chi Zixian ascendiera al trono real.¡Los ancianos de la familia imperial naturalmente no querían que un competidor como ella apareciera en este momento crucial!"Si no ocurre nada inesperado, volveré pronto. Como mucho, solo serán diez días ", afirmó Li Qiye.
+
+Ye Chuyun asintió en respuesta: "¿Qué pasa con la Montaña de la Guerra de los Dioses?"
+
+Inicialmente vinieron a la Montaña de la Guerra de los Dioses, pero el viaje se había retrasado todo este tiempo.
+
+Li Qiye miró hacia el horizonte y dijo: "No hay prisa, todo está a mi alcance sin importar lo que pase. Cuando termine con las Montañas del Dragón Oculto, iremos a la Montaña de la Guerra de los Dioses ".
+
+De hecho, el viaje de Li Qiye a las montañas del dragón fue solo para confirmar algo, no por un tesoro.
+
+Durante los días siguientes, Li Qiye enseñó las leyes primordiales a Si Yuanyuan.Aunquelas leyes eran bastante abstrusas, Si Yuanyuan tenía una gran fundación debido a la Escritura del Resplandor del Ocaso, por lo que aprendió muy rápido.Además, ella fue capaz de entender la escritura en esta medida sin ninguna guía, y ahora tenía a Li Qiye para enseñarle.Por lo tanto, no fue difícil para ella aprender las leyes primordiales.Después de hacerlo, Li Qiye dejó la Ciudad Santa y entró solo a las montañas.Dentrode este período de tiempo, las noticias de la muerte trágica del Anciano Supremo del Reino de la Noche Carmesí llegaron a ellos.Chi Zixian lo escuchó también.¡Su expresión rápidamente cambió a una mirada fría!Ella fue una de los cinco santos de la Raza de Sangre.Se ubicó en una posición más alta que la Princesa de la Media Luna y ChiTianyu porque venía del Reino de la Noche Carmesí y estaba destinada a lagrandeza.En términos de talento puro, ella podría ser más débil que Bai Jian y el Duque del Soporte del Cielo.Sin embargo, ella tenía una ventaja incomparable al venir de una secta con dos emperadores.Ella no nació como la heredera del trono y tuvo que derrotar a varios competidores en la familia imperial.En este momento, lo más afortunado para ella era que su reino no había producido un genio brillante como Ye Tiandi.De lo contrario, no habría sido capaz de ganar esta posición sucesora a pesar de su poderoso respaldo.Sin embargo, todavía había una gran sombra en su mente: ¡Si Yuanyuan!Si Yuanyuan vino de una rama secundaria y tuvo que aprender por sí misma, sin embargo, tuvo éxito en la Escritura del Resplandor del Ocaso. Sus logros tuvieron un gran impacto en la posición actual de Chi Zixian.
+
+Másimportante aún, la rama lateral de Si Yuanyuan tenía un ancestro queprovenía de la familia imperial, ¡así que ella tenía el linaje directode un Emperador Inmortal!
+
+Sin embargo, lo másimpactante para Chi Zixian fue que la iluminación de Si Yuanyuan de laEscritura del Resplandor del Ocaso era incomparable. Esto significaba que Si Yuanyuan que venía a gobernar el Reino de la Noche Carmesí no estaba fuera de discusión.
+
+El reino tenía una tradición de rastreo hacia el origen. Además, esta tradición fue iniciada por su progenitor, el Emperador Inmortal Chi Ye.
+
+A una edad temprana, el emperador cultivó la Escritura del Resplandor del Ocaso como su punto de partida. Él también ingresó al Terreno Primal de Sangre para entrenar. Suestado fue reconocido por el terreno primal, ¡e incluso tomó lasriendas de la Raza de Sangre en lugar del Terreno Primal!Más tarde, el Reino de la Noche Carmesí comenzó a declinar hasta el nacimiento del Emperador Inmortal Chen Xue.¡Tambiénregresó al terreno primal a una edad temprana para trabajar en sugran dao y finalmente ganó el trono para revitalizar su reino!Esto permitió que el reino una vez más se hiciera cargo de la Raza de Sangre en lugar del terreno primal.
+
+Debido a su prestigioso pasado, el reino siempre había querido volver ala cima de su raza, ¡convertirse una vez más en su líder!A pesar de que la Dios Tormenta que respaldaba a Chi Zixian era muyinfluyente, esto no significaba que todos los ancestros ​​en el reinola apoyaran.Esto fue especialmente cierto después de la aparición de Si Yuanyuan.Hasta cierto punto, realmente afectó la posición de Chi Zixian.Algunos ancianos pudieron ver la esperanza en Si Yuanyuan debido a su dominio de la Escritura del Resplandor del Ocaso.¡Estosignificaba que tenía una gran oportunidad de regresar al terrenoprimal para cultivar las legendarias leyes primordiales al igual queel Emperador Inmortal Chi Ye en ese entonces!¡Si ella pudiera lograr esto, entonces significaría que el Reino de la Noche Carmesí podría regresar a la cima de la Raza de Sangre y ganar lahabilidad de comandar toda la raza a través de los nueve mundos!Siesta situación se hiciera realidad, Chi Zixian no solo perdería sutrono real, sino que su rama también perdería el control del reino.Por lo tanto, tanto ella como su rama nunca permitirían que esto sucediera.Los ancestros de la rama imperial de su rama decidieron borrar todoslos signos de la existencia de Si Yuanyuan, por lo que los extrañosnunca descubrieron que el reino todavía tenía un discípulo tanbrillante.De hecho, si ciertos poderosos ancestros ​​no lo permitieron, Si Yuanyuan ya podría haber desaparecido de este mundo.Chi Zixian pronunció fríamente con una expresión torcida: "¡Esta zorrase atrevió a mostrar su rostro de nuevo en lugar de esconderse por elresto de su vida!""Su Alteza podrá ascender al trono pronto, por lo que su repentinaaparición en este momento podría ser una reacción a eso". Un experto allado de ella especuló.Chi Zixian respondió fríamente: "¿Alguien de una rama lateral como ella quiere competir por el asiento real en mi contra?¡Solo el sueño de un tonto! "Apesar de decir eso, Chi Zixian sabía muy bien que si Si Yuanyuanpudiera regresar al terreno primal, ella realmente tendría laoportunidad de tomar el control del reino."Suaparición podría no ser un ataque contra Su Alteza". Su estrategareflexionó: "La inauguración de Su Alteza ya ha sido decidida.Incluso si Si Yuanyuan tiene la protección de los ancestros, aún no podrá revertir la situación.Su Alteza debería esperar en paz antes de su ascensión en lugar de distraerse con este asunto "."¡No!" La expresión de Chi Zixian se oscureció: "Esta puta no puede quedar viva.¡Mientras más viva, más tiempo seguirá siendo una amenaza!¡Incluso si me convierto en gobernante, ella todavía puede regresar ytomar el trono real cuando regrese al terreno primal! ""SuAlteza, ¡no deberíamos hacerlo!". El estratega se sobresaltó: "Si SuAlteza mata a Si Yuanyuan, entonces rompería el pacto.¡Los ancestros ​​no serán felices!"La única razón por la que Si Yuanyuan todavía estaba viva ahora era porque tenía ancestros ​​que la protegían.Sin embargo, debido a la autoridad imperiosa del Dios Tormenta, ambos lados hicieron concesiones.SiYuanyuan no pudo ingresar a la familia imperial para aprender las leyesdel emperador, mientras que el lado de Chi Zixian garantizó que no ladañaría a pesar de ser una espina en los ojos de Chi Zixian."¿En serio?" Sus ojos se volvieron fríos y sus palabras fueron aún más frías: "Es diferente ahora. La zorra sedujo a extraños para asesinar al Anciano Supremo. ¡Esto es traición y debe ser castigado con la muerte! ¡Yo,como el principal descendiente de la Noche Carmesí, tengo tanto laresponsabilidad como la autoridad para eliminar a los traidores de la secta!"
+
+¡Chi Zixian no quería que Si Yuanyuan viviera más ya que su existencia siempre sería una amenaza para ella! ¡En la mente de Chi Zixian, Si Yuanyuan tenía que morir!
+
+"Hmm ..." El estratega reflexionó: "No será fácil responder a esos viejos antepasados una vez que matemos a Si Yuanyuan".
+
+"No hay nada que decir". Chi Zixian se burló: "¡Todos tienen la responsabilidad de tratar con los traidores!Esa zorra conspiró con extraños para matar a nuestro  AncianoSupremo: ¡esto es un pecado de renunciar a sus ancestros y secta!Incluso si los antepasados nos culpan, ¡el ancestro todavía puede manejarlo!"El ancestro al que Chi Zixian se refería era la Dios Tormenta. Como hija del Emperador Inmortal Chen Xue, ¡ella tenía autoridad absoluta en el reino!
+
+ChiZixian dijo secamente: "¡Haz los preparativos, iré a la Ciudad Santamañana para tratar personalmente con esa zorra traidora!"
+
+Sus subordinados aceptaron su orden y fueron a llevarla a cabo.
+
+Luegomiró hacia afuera con una sonrisa escalofriante, '¡esa zorra está muertade seguro esta vez!' Podría dormir profundamente después de que lazorra estuviera muerta.
+
+Para sus objetivos futuros,quería usar al Dios Tormenta el mayor tiempo posible mientras elancestro todavía estaba viva para suprimir a los otros ancestros.¡Ella debe planear reformas agresivas para que el control del reino realmente esté en las manos de su rama!

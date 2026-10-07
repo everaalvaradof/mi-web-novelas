@@ -1,0 +1,49 @@
+---
+titulo: "Capítulo 1116: ED  El Viaje Comienza"
+numero: 1116
+novelaId: "48"
+---
+
+Incluso los Reyes Imperiales se conmovieron al ver este poderoso ejército de héroes.Uno de ellos murmuró: "El Reino de los Emperadores es uno de los extraños gigantes en nuestra frontera".Estabanmuy recelosos de este gran ejército porque este reino en particular yase había convertido en una leyenda en este lugar.Desde que los gigantes más poderosos en ese entonces entraron al Senderode la Expedición, ningún otro reino se atrevió a oponérsele.Los tres imperios actuales eran fuertes, pero incluso si combinabanfuerzas, aún eran bastante débiles en comparación con el Reino de losEmperadores.Este poderoso ejército fue dirigido por Zhan Qi.En el momento en que este ejército llegó a la base del sendero, la atmósfera de esta región se volvió extremadamente solemne.Su fuerza por sí sola fue suficiente para dejar a todos sin aliento.De hecho, fue invencible.Almismo tiempo, una existencia como Zhan Qi no sería más débil quecualquier Godking, aumentando aún más el prestigio de este ejército.Cualquiera se sentiría insignificante ante este ejército;se sentirían como una mantis tratando de patear un carruaje.El mundo estaba en silencio.Este ejército heroico del reino no hizo un solo sonido.Los ejércitos de los tres imperios también estaban callados.Por supuesto, los espectadores tenían miedo de decir algo.Después de una cantidad desconocida de tiempo, alguien habló: "Li Qiye está aquí".
+
+La mayoría de los espectadores se dieron vuelta y vieron a Li Qiye acercarse al cielo. Llevaba su armadura imperial y exudaba un ímpetu imperial envolvente como un Rey Imperial invencible. Aparte de Mei Suyao y las otras tres chicas, la imponente Princesa del ContinenteMedio también estuvo presente.Todos contuvieron la respiración después de su llegada. Sinimportar quiénes eran o de qué secta provenían, nadie se atrevía adecir una palabra frente a Li Qiye, y mucho menos a mostrar signos defalta de respeto.
+
+¡Hoy, Li Qiye estaba calificado para provocar a cualquiera y cualquier linaje!
+
+"¡Su Majestad!", Gritó el ejército heroico a su llegada.Su canto sacudió al mundo y atemorizó a innumerables personas.
+
+Muchospalidecieron y se tambalearon hacia atrás en confusión después de verla reverencia que este ejército mostraba hacia Li Qiye.Nadie sabía cómo se convirtió en su maestro.Esta era una fuerza capaz de luchar contra la legión de cualquier Emperador Inmortal.Si Li Qiye trajo este ejército afuera, entonces sería demasiado aterrador.Cualquier linaje tendría que recorrer el largo camino a su alrededor.Li Qiye miró en silencio al gran ejército y luego a Zhan Qi.Después, se volvió hacia el horizonte lejano.Emperador del Ojo Maligno habló con gravedad: "Emperador de la Guerra, ¿estamos listos para partir?"Li Qiye todavía estaba mirando hacia la distancia mientras respondía: "¡Espera un momento, alguien debería venir!""¿Quién?" El Emperador Erudito también preguntó: "En la FronteraImperial, ¿hay alguien digno de hacer esperar a nuestros ejércitos?""Di Wei". Li Qiye solo dijo un nombre sin mirar a los reyes.Todavía estaba esperando ver si la persona aparecía o no.[1.Di Wei = Guardia Imperial.Podría ser un título, pero se siente raro tener esto como un título en particular porque debería haber más de un guardia.Sería una palabra más genial si fuera un título.]La verdad era que ya sabía la respuesta en su mente;sabía lo que Di Wei escogería, pero aún esperaba que el tipo cambiara de opinión en el último segundo.Para Li Qiye, en lugar de arriesgarlo todo depositando su confianza enla meseta y convirtiéndose en su carne de cañón, deseó que Di Weientrara en el Sendero de la Expedición con los cuatro imperios.Sabía lo que sucedería en el momento en que la meseta decidiera ir a la guerra.Todavía quedaba una posibilidad al ingresar al Sendero de laExpedición ya que había algunas incertidumbres y una pizca de esperanza,pero solo la muerte aguardaba a aquellos que se quedaban en la MesetaFuneraria Budista ...Después de escuchar el nombre "Di Wei", los tres reyes se asombraron.También miraron hacia el horizonte como Li Qiye con gran esperanza.En su mente, si Di Wei realmente los siguió en el Sendero de la  Expedición, entonces sus posibilidades de éxito podrían ser aún mayores.Otros no sabían quién era Di Wei, pero como eran tres Reyes Imperiales, sabían exactamente qué tipo de existencia era.Erael guardaespaldas personal del Señor Imperial y conocía muchos secretosde la Frontera Imperial así como también de su señor.Por supuesto, su fuerza era indiscutible.De lo contrario, no habría sido el guardaespaldas personal del Señor Imperial.Pasaron unos momentos y todavía no había señales de él en la distancia.
+
+Li Qiye se dio vuelta y suspiró. Sabía que Di Wei había tomado una decisión y no había cambiado su decisión.
+
+Los tres Reyes Imperiales también estaban decepcionados, pero este asunto no podía ser forzado.
+
+Li Qiye miró a Zhan Qi y habló con un tono solemne: "¿Estás preparado?"
+
+Zhan Qi lo miró directamente con determinación en los ojos antes de asentir.
+
+Li Qiye colocó una mano sobre la cabeza de Zhan Qi. Con un ruido metálico, las piezas de la armadura imperial sobre el cuerpo de Li Qiye volaron hacia Zhan Qi. En un abrir y cerrar de ojos, la armadura imperial estaba en su cuerpo en su lugar.
+
+"Boom!" El ímpetu imperial de Li Qiye se parecía a una inundación rompiendo una presa. Entró sin fin en el cuerpo de Zhan Qi. Cuando Zhan Qi aceptaba este ímpetu increíble, su cuerpo temblaba junto con el suelo.Eventualmente, todo el ímpetu de Li Qiye se transfirió a él.Con zumbidos, surgieron imágenes maravillosas detrás de Zhan Qi.Se convirtió en el nuevo supremo Rey Imperial que gobernaba sobretodos los reinos de este mundo, un emperador que presidía personalmenteuna expedición."Hoy le otorgo el título de Emperador de la Guerra.¡Dirigirás a la heroica legión del Reino de los Emperadores para que avance en el Sendero de la Expedición! "Li Qiye anunció con su manopuesta en la cabeza de Zhan Qi.Mientras se arrodilla sobre una rodilla, Zhan Qi acepta la concesión.Luego se postró y gritó: "¡Su Majestad es eterno e invencible a través de todos los eones!""¡SuMajestad es eterno e invencible a través de todos los eones!" Laheroica legión también se postró y gritó en voz alta con sus ojos sobreLi Qiye.Esta sería su última postración.Li Qiye levantó a Zhan Qi y dijo solemnemente: "Su Majestad, levántese.De ahora en adelante, eres el Rey Imperial del Reino de los Emperadores ".Zhan Qi se despidió formalmente de Li Qiye una vez más, y la legión detrás de él hizo lo mismo.Li Qiye suspiró después de mirar al cielo antes de decirle a Zhan Qi: "Se está haciendo tarde, ve ahora".
+
+Con una actitud seria, los ojos fieros de Zhan Qi miraron a los otros tres reyes. Los reyes asintieron después de mirarse el uno al otro. Triunfante se volvió y miró a su propia caballería: "¡Marchar!"
+
+"¡Marchar!" Ojo Maligno y Erudito también dieron órdenes a sus tropas.
+
+"¡Pa! ¡Pa! Pa!"En un abrir y cerrar de ojos, los soldados imperiales de los tresimperios volaron hacia el cielo y allanaron un sendero hecho de oro real.
+
+"¡Rumble!" Los tres imperios fueron los primeros en embarcarse en este camino hacia el Sendero de la Expedición.
+
+Uncultivador murmuró después de ver esto: "Así que este es el Sendero dela Expedición". Mucha gente entendió que el Sendero de la Expediciónestaba pavimentado con Oro Real.
+
+Después de entrar en el sendero, los tres ejércitos continuaron. La legión del Reino de los Emperadores también se preparó.Zhan Qi miró a Li Qiye por un largo tiempo antes de inclinarse de nuevo. Él no miró hacia atrás y ordenó: "¡Marchar!"
+
+Con eso, condujo a la gran legión al Sendero de la Expedición.
+
+Li Qiye observó la marcha durante un largo tiempo en silencio.
+
+"¡Rumble!"Después de que los heroicos soldados entraron al Sendero de laExpedición, los batallones en la retaguardia recogieron el Oro Real queacababan de ser pavimentados.
+
+Justo así, loscuatro imperios continuaron adelante mientras los soldados en laretaguardia seguían rompiendo el sendero para recuperar el oro. De esta manera, se adentraron en la vasta extensión.
+
+A pesar de esto, el Oro Real estaba siendo dañado cada vez que era pavimentado. Después de una cierta cantidad de uso, el ímpetu interno se agotaría y se convertiría en chatarra.Alguien murmuró: "¿Qué está esperando al final del Sendero de la Expedición?" Prácticamente todos los cultivadores estaban mirando a lossoldados imperiales que construían y rompían el sendero hacia la vastaextensión.Nadie podía darle una respuesta, ya que nadie sabía cuánto tiempo este sendero estaba.Un Rey Imperial murmuró: "En las leyendas, el Reino de los Emperadores tiene una gran cantidad de Oro Real.Con la adición del Oro Real de los tres imperios, tal vez inclusotres generaciones de todos los reinos restantes cavando no resultaríatanto como la cantidad reunida aquí ".UnRey Imperial diferente agregó: "Si no pueden llegar al otro lado apesar de tener tanto Oro Real, entonces deberíamos dejar de pensar enello.Si excavamos durante otras diez generaciones juntas, entonces podría ser posible ".Mientras tanto, Li Qiye siguió mirando hasta que las heroicas legiones desaparecieron en el vacío.Su mirada todavía no se movió.Lo único que podía hacer ahora era rezar por ellos y esperar quepudieran llegar al otro lado con seguridad, que había un lugar paraellos allá."Vámonos". Un cultivador habló un tiempo después de que todos los soldados imperiales desaparecieron de la vista.En este momento, la mayoría de los cultivadores ya se habían ido.El Sendero de la Expedición era como la Plataforma del Asesinato del Mal.No hubo respuesta con respecto al destino final.

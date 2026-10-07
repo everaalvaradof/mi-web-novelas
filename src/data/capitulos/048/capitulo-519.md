@@ -1,0 +1,47 @@
+---
+titulo: "Capítulo 519"
+numero: 519
+novelaId: "48"
+---
+
+ED Capitulo 519: La piedra más arrogante acepta un maestro
+
+"No lo hagas, no lo hagas, él absolutamente no puede hacerlo. Porfavor, no tengas éxito. "Los cultivadores fantasmas estaban maldiciendosecretamente a Li Qiye ya que, en este momento, todos estaban esperandoque ocurriera un milagro.
+
+Antes, sería un milagro si la piedra aceptara a un maestro, pero ahora era una historia diferente; ¡sería un milagro que la piedra no acepte a Li Qiye!
+
+Estaera una piedra que no se preocupaba por un Emperador Inmortal y habíasido probada por innumerables personas en generaciones futuras. Sería un milagro de toda una generación si esta piedra aceptara a un maestro. Sin embargo, Li Qiye había invertido esto hoy. Parecía muy natural que la piedra lo aceptara como su maestro.
+
+Li Qiye fue al lado de la piedra y lentamente se sentó. Todos habían contenido la respiración mientras sus emociones bailaban en cada una de las acciones de Li Qiye.Simplemente se sentó sin la fluida energía de sangre y haciendo acciones impresionantes, solo acarició suavemente la piedra.
+
+"Viejo amigo, ha pasado un tiempo". Li Qiye sonrió y dijo. Su acariciar causó que la piedra temblara ligeramente, junto con los corazones de todos los demás.
+
+"¡Por favor, no lo aceptes!", Murmuró alguien. Nadie sabía quién dijo esto en voz alta, pero este era el consenso general en la mente de todos.
+
+Afortunadamente, la piedra solo se sacudió ligeramente una vez, luego no se movió de nuevo. La gente dio un suspiro de alivio después de ver esto; Sentía como si un gran peso hubiera sido levantado de sus espaldas.Sinembargo, todavía no se atrevieron a hacer un sonido mientras mirabanintensamente el pico porque sabían que no había terminado.Li Qiye sonrió y dijo después de ver la piedra estacionaria: "Una piedra tan arrogante, ¿cuánto tiempo piensas quedarte aquí?"Para placer de todos, la piedra permaneció en silencio.Uno de los espectadores exclamó emocionado: "¡Esto es un milagro, los cielos tienen ojos!"Mucha gente asintió con la cabeza.La piedra que no aceptaba a Li Qiye hizo que todos se relajaran y se emocionaran.Sin embargo, Li Qiye todavía estaba muy tranquilo.Tenía una sonrisa en su rostro con las manos contra el suelo mientras miraba al cielo.Su actitud era como si estuviera hablando con un viejo amigo: "¿Recuerdas cuando llegó el Emperador Inmortal Qian Li?No lo aceptaste.Siemprehabía pensado que tal vez no era el momento adecuado en aquel entonces,sin mencionar al Emperador Inmortal Ming Du antes que él.Pero hoy, personalmente he venido para que el pasado ya no importe, ¿verdad?"La piedra todavía estaba inmóvil como antes.La gente en la montaña todavía aguardaba nerviosamente;nosabían lo que Li Qiye le estaba diciendo a la piedra, pero estabanesperando que sucediera un milagro, que la piedra no aceptara a Li Qiyecomo su maestro."Sé que eres muy arrogante". Li Qiye dijo con una sonrisa: "Pero he visto incluso mayores muestras de arrogancia, ¿sabes?Para mí, nada es imposible siempre y cuando realmente me lo haya propuesto ".La piedra todavía estaba en silencio, pero Li Qiye no tenía prisa.Continuó con una actitud alegre: "Hay demasiadas cosas increíbles en este mundo, como matar dioses y acabar con inmortales.¿Cómo te sientes acerca de estos asuntos?¿O tal vez sientes que masacrar dioses no es nada?Entonces, ¿qué tal matar a un Emperador Inmortal?"De pie a un lado, Lan Yunzhu estaba muy confundido sobre por qué le estaba diciendo estas cosas a esta piedra.Matar a dioses ya era algo aterrador, ¿pero matar a un Emperador Inmortal?Francamente, esto era imposible."¿Otal vez piensas que matar inmortales y dioses no es nada?" Li Qiyesonrió y agregó: "Si quiero aplastar una roca, no importa qué tipo deroca sea, mientras esté determinado ... entonces creo que puedoencontrar algunos métodosAsícomo piensas que matar inmortales y dioses no es nada, con una voluntaddeterminada, aplastar una roca tampoco es nada para mí.Si no puedo tenerlo, incluso el artículo más valioso e invaluable no valdría una moneda en mis ojos.Como no puedo tenerlo, ¿por qué dudar en aplastarlo?¿Qué piensas sobre esto?"Esta vez, la piedra finalmente reaccionó con un leve revoloteo.
+
+Loscultivadores distantes de la raza fantasma sintieron que sus corazoneslatían más rápido después de ver la sacudida de la roca. Muchos oraron por un milagro: "¡Por favor, no acepte a un maestro!"
+
+Eneste momento, Li Qiye continuó alegremente: "Aunque soy feroz, no soycruel". Luego procedió con calma: "Adoro talentos y tesoros, por lo queno te aplastaré hoy. El cielo y la tierra tomaron innumerables generaciones solo para dar a luz a una piedra como tú, esto de hecho no fue fácil. Si te aplastara, sería un desperdicio ".
+
+LiQiye luego se dio unas palmaditas en las manos después de ponerse depie y dijo: "Si quieres continuar quedándote en este maldito lugar paraesta generación, entonces confío en que te estarás perdiendo de la eramás brillante y colorida desde el principio de los tiempos.Nunca antes hubo una era así, y también te perderías el maestro más supremo de todos los tiempos."Pero si estás satisfecho y prefieres quedarte aquí, entonces no me importa. Hay una gran cantidad de armas en este mundo, y si así lo deseo, incluso las mejores armas eventualmente llegarán a mis manos. No te necesito. "Con eso, Li Qiye dio media vuelta para irse.
+
+Todos los cultivadores fantasmas finalmente pudieron respirar nuevamente. Todos estaban jubilosos, y lo mismo se aplicaba a los cultivadores humanos. En este momento, sintieron que este era el momento más feliz de sus vidas.
+
+"Jajaja, Li Qiye solo es tan ..." Un cultivador fantasma se burló felizmente. Sin embargo, antes de que pudiera terminar, su boca se abrió de par en par otra vez; era lo suficientemente grande como para caber un huevo de gallina!
+
+"¡Thump!" Justo cuando Li Qiye se giró, la piedra de repente saltó a su palma."¡No!" Alguien aulló miserablemente. Este aullido era más triste que el llanto de alguien que acaba de ser cortado por un cuchillo.
+
+"Mierda, ¿no hay justicia en este mundo?" Un genio emocional señaló hacia el cielo y maldijo: "Cielos, ¿no tienen ojos? ¿Acabas de intimidar a personas débiles como nosotros? Todavía estaría bien si le dieras todas las piedras de destino en este mundo, ¡pero no esta la más arrogante! ¿Cómo viviremos los pequeños cultivadores a partir de ahora?"
+
+"Un milagro no sucedió. ¡Maldita sea! ¡Este mundo no es justo! "Exclamó un cultivador fantasma.
+
+Los cultivadores fantasmas fueron los que sufrieron el mayor golpe en este momento.Li Qiye había eclipsado a Di Zuo y Tian Lunhui, los dos mayores orgullos de la raza fantasma.En solo un instante, la brillantez de Li Qiye había contribuido al ímpetu de la raza humana.Por otro lado, los humanos tenían sentimientos encontrados;ellos no sabían si estar felices o tristes.En resumen, una miríada de emociones corrió desenfrenada en sus mentes.Unmaestro de secta humana dijo con ironía: "La aparición de un hijoorgulloso como él es una fuente de orgullo para nosotros los humanos.Sinembargo, un monstruo diabólico como él barrerá a través de estageneración y desgarrará el camino de todos los demás genios.De ahora en adelante, cualquiera que quiera alcanzar el pico debe superar a este diablo primero ".En este corto período de tiempo, todos tenían sentimientos diferentes.Los cultivadores humanos no pudieron evitar ponerse celosos de Li Qiye.Él era el hijo predilecto de los cielos, tan injusto."Esta es la elección correcta". Li Qiye frotó la roca y dijo con una sonrisa.Luego lo guardó mientras otros lo miraban con ojos enloquecidos y enrojecidos.Sin embargo, no tenía sentido estar celoso de Li Qiye ya que uno no podía robar una piedra de destino.Incluso si se roba con éxito, la piedra no los aceptaría como su maestro y simplemente escaparía."¡Thump,thump, thump!" Todas las piedras de destino justo debajo del picotambién saltaron como si fuera el momento más feliz de sus vidas.
+
+Los cultivadores se perdieron cuando vieron una escena así: "¿Qué está pasando?"
+
+"Uno a la vez, sin prisas, sin prisa". Li Qiye sonrió y dijo, luego extendió la palma de su mano. Adquirióla mayoría de las piedras de ocho y nueve acumulaciones, así como unaporciónpiedras de cinco, seis y siete acumulaciones .Arrojó unaspiedras de ocho y nueve acumulaciones. Algunasde las piedras de cinco, seis y siete acumulaciones no estabandispuestas y parecían como si lo estuvieran mirando con anticipación."Vuelvan y crezcan con el tiempo.Todos ustedes tendrán una oportunidad, y su futuro no terminará aquí ", dijo Li Qiye mientras agitaba su mano.Finalmente, estas piedras sin mucha gana volvieron a sus lugares originales.En solo un momento, la Montaña del DragónDivino quedó vacante. Las piedras de ocho y nueve acumulaciones casi todas fueron tomadas por Li Qiye, por lo que no quedaron muchas.Esta escena rompió el sentido común de todos cuando sus ojos casi se cayeron al suelo.
+
+Incluso Lan Yunzhu no pudo evitar asombrarse. LiQiye causando que todas las piedras compitieran por él ya era bastanteimpactante, pero se quedó sin palabras después de obtener esa otrapiedra también. Un genio diabólico era realmente diferente, estaban mucho más allá de la imaginación. Y no fue solo eso, incluso se llevó muchas piedras, esto también rompió la convención común.
+
+Todos sabían que los cultivadores solo podían elegir una piedra de destino.Incluso si fueran aceptados por muchas, después de elegir una, las otras piedras no los seguirían.

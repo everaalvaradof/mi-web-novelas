@@ -1,0 +1,43 @@
+---
+titulo: "Capítulo 973: ED  Imparable"
+numero: 973
+novelaId: "48"
+---
+
+"Jaja, ¿puedes creerle a este tipo?" Muchos se avergonzaron después de escuchar a Li Qiye.
+
+"Qué tonto fanfarrón. La Noche Carmesí es un linaje de dos emperadores y puede matarte con un dedo. "ChiTianyu se burló mientras estaba sentado en un asiento de honor.
+
+Unmaestro de escuela de Sangre de la misma región resopló fríamente:"Los jóvenes humanos realmente son demasiado impertinentes hoy en día. ¿Creen que la Tierra Estéril sigue siendo su territorio? ¡Hmph, solo una hormiga humana pero aún se atreve a provocar el prestigio de nuestra Raza de Sangre! "
+
+"Su Alteza, en mi opinión, no necesitamos matar a este insecto tan rápido. Solo destruye su cultivo, corta sus extremidades y destruye sus tendones. ¡Entoncesamarradlo fuera de la Ciudad Santa para que la gente sepa el resultadode aquellos que desafían nuestra Raza de Sangre! "Otro experto de Sangreen esta región pronunció fríamente.
+
+"Li,escucha." En lo alto de su trono imperial, Chi Zixian miródesdeñosamente a Li Qiye: "¡Ni sueñes con dejar este lugar vivo hoy!"Ella levantó la mano y aparecieron ruidos metálicos.Dos líneas de expertos del reino desenvainaron sus espadas con sus agudos reflejos que iluminaban el cielo.Los expertos armados rodearon a Li Qiye con un aura asesina que atravesó el escenario marcial."Ya viene." Los espectadores retrocedieron rápidamente después de ver esto para evitar quedar atrapados en el fuego cruzado.Ye Chuyun salió ante Li Qiye.Ella echó un vistazo a los expertos de los alrededores y dijo: "¡Todos ustedes se unen para no perder el tiempo persiguiéndolos!"Tales palabras dejaron a muchas personas sin aliento.Anteriormente, estaba parada obedientemente detrás de Li Qiye para que la gente no pudiera sentir su fuerza.Pero ahora, el aura de ParagónVirtuoso se elevaba hacia el cielojunto con su creciente energía de sangre, llena de vida y poder.Cualquiera presente sentiría la presión.¡Genios como Chi Zixian y Chi Tianyu tenían un sentimiento difícil de explicar en sus mentes!Chi Zixian era orgullosa y se consideraba la mejor de los cinco santos.Sin embargo, la brecha fue evidente cuando Ye Chuyun salió.El potente aura de Ye Chuyun eclipsó por completo a Chi Zixian.Ella se puso muy celosa.A pesar de venir de un linaje de dos emperadores, ella no era tan buena como Ye Chuyun.¡Esto la hizo sentir como si algo estuviera mordiendo su corazón adentro!"¡Maestra de escuela Ye, es posible que desee pensarlo de nuevo!" Chi Zixian fríamentedijo: "¡No se puede arrastrar toda su escuela del Loto Puro por motivospersonales!Esto no terminará bien para tu escuela ".Ye Chuyun se encontró con su mirada y respondió: "Sé exactamente lo que estoy a punto de hacer.El que debería reconsiderar eres tú.No te dejes cegar por tu propia estupidez y empujes a la Noche Carmesí al abismo.¡Serás el pecador de tu reino!""Maestra de escuela Ye, solo estoy tratando de persuadirla porrespeto". Chi Zixian respondió con frialdad: "No digas que no te loadvertí una vez que una calamidad sobrevenga a tu escuela ..."Ye Chuyun la interrumpió: "¡No actúes como si fueras alguien que puede hablar conmigo como iguales!Incluso si te conviertes en el Señor Real de la Noche Carmesí, sin convertirte en un paragon, ¡aún eres una joven ante mi!"La expresión de Chi Zixian se volvió amarga después de escuchar esto. Ye Chuyun la humilló frente a todos. Esto fue más que solo desafiar su autoridad.
+
+"Maestra de escuela Ye, fuiste demasiado lejos." Un paragón que protegía a ChiZixian intervino: "Nuestra Noche Carmesí te está mostrando algo deconsideración ..."
+
+"¡No hace falta decir más!" YeChuyun lo interrumpió: "O haz lo que dijo el hermano Li y libérala yadmite tus errores, o lucha hasta el final y perece. ¡La decisión es tuya!"
+
+"Parece que estás completamente segura de él". Los seis paragones la miraron agresivamente. ¡A sus ojos, nadie podía cuestionar la autoridad de su reino!
+
+"Entonces los seis ancestros pueden unirse. Nuestrapelea terminó abruptamente la última vez y no tuve la oportunidad dever sussupremas leyes de emperador. "Ye Chuyun desafió decisivamente alos seis paragones.Tales palabras sofocaron a la multitud. Eran demasiado dominantes.
+
+"¡Esees el primer paragon virtuoso de la generación más joven, digno deser el genio de nuestra raza humana!" La sangre de un experto humanocomenzó a hervir después de escuchar este desafío.
+
+Los seis paragones se miraron rápidamente. Revelaron un frío brillo asesino en sus ojos.
+
+Sin duda, querían matar a Ye Chuyun. Aunque su posición era problemática, el Reino de la Noche Carmesí no le tenía miedo a la Escuela del Loto Puro.
+
+LiQiye sonrió y dijo: "Chuyun, manejaré este pequeño asunto antes de quela gente realmente piense que me gusta esconderme detrás de lasmujeres".
+
+Ye Chuyun solo miró a los expertos antes de retroceder detrás de él. LiQiye subió al escenario y habló directamente con Chi Zixian: "No teníaintención de asesinar dentro de la Ciudad Santa, pero como ese es tudeseo, voy a ir a lo grande"."¿Solo tu?" Chi Zixian resopló con desdén: "Si Ye Chuyun noparticipa, puedo aplastar a un don nadie como tú con una mano ..."En una fracción de segundo, antes de que nadie pudiera reaccionar, Chi Zixian dejó de hablar bruscamente.Esta escena parecía durar para siempre.Vieron una mano que se elevaba, agarrando a Chi Zixian por el cuello, haciéndola parecer un pato indefenso.No podía moverse en absoluto mientras sus ojos se volvían blancos."¡Bang!" El tiempo finalmente comenzó a fluir de nuevo.Los expertos que bloqueaban a Li Qiye antes fueron enviados volando en el aire mientras les brotaba sangre por todas partes.Ya no respiraban en el momento en que tocaron el suelo.Todo este proceso, desde el envío de expertos hasta la asfixia de Chi Zixian, todo sucedió en un abrir y cerrar de ojos.Muchos no pudieron ver lo que sucedió.Solo Paragones Virtuosos pudieron mantenerse al día;sin embargo, sus seis protectores no pudieron reaccionar a tiempo para ayudarla.Fue inimaginablemente rápido.Li Qiye tranquilamente dijo: "Sí, aplastando con una mano ... Desafortunadamente, la víctima eres tú y no yo"."Junior,¿qué, qué estás haciendo ?!" Uno de los paragones gritó: "¡Si tocas unsolo cabello suyo, nuestro reino te dejará probar un destino peor que lamuerte!"
+
+Los seis tenían miedo de romper el jarrón persiguiendo a la rata. Querían ayudar, pero temían que Li Qiye reaccionara al estrangularla.
+
+"Note preocupes, no tocaré ni un pelo suyo, no tengo ningún interés eneso". Li Qiye no se molestó en mirar los seis paragones: "Solo quieroagregar un poco más de fuerza para aplastarle el cuello."
+
+Mientras luchaba por respirar, Chi Zixian gritaba estruendosamente: "Si ... tú ... me matas, Si Yuanyuan ... ¡morirá!"
+
+Efectivamente, los grilletes en el cuerpo de Si Yuanyuan se tensaron después de su amenaza, haciendo que Si Yuanyuan gimiera. Aunque no gritó en voz alta, su expresión dejó en claro que estaba sufriendo un dolor tremendo.
+
+"¿Me amenazas?" Los ojos de Li Qiye se estrecharon cuando él apretó su agarre.¡Los ojos de Chi Zixian se volvieron inyectados de sangre mientras sus extremidades se crispaban!"¡Buzz!" Mientras su vida pendía de un hilo, la Torre del Trueno se sacudió de repente.Antes de que nadie supiera lo que estaba pasando, Chi Zixian cayó al suelo con un fuerte ruido.Chi Zixian tosió duramente mientras sentía su propio cuello.Ella luchó por levantarse.Al mismo tiempo, los seis paragones rodearon rápidamente a Chi Zixian para evitar que Li Qiye la atrapara nuevamente."Joven amigo, este no es un lugar donde puedas hacer lo que quieras".Una voz antigua vino de la Torre del Trueno después de que Chi Zixianapenas logró sobrevivir."El Señor de la Torre del Trueno ..." Alguien exclamó después de escuchar esta vieja voz.Aquítodos se quedaron boquiabiertos, especialmente los expertos de la Raza de Sangre, incluidos los señores reales y los maestros desectas.Alguien murmuró: "¡Esto finalmente llamó la atención del señor de la torre!""¡Hmph, este mocoso está acabado por ahora!" Chi Tianyu celebró.Estaba temblando después de ver a Li Qiye sujetando el cuello de Chi Zixian en un instante.Pensó que el mocoso era demasiado aterrador;¡no se dio cuenta de que Li Qiye estaba escondiendo su fuerza antes!Se sintió desesperado después de ver la velocidad aterradora de Li Qiye, pero ahora, el señor de la torre había aparecido.Esto cambió toda la situación e hizo que la gente se diera cuenta de que la muerte de Li Qiye se acercaba rápidamente.

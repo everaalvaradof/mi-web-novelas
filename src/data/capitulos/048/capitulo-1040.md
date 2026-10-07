@@ -1,0 +1,47 @@
+---
+titulo: "Capítulo 1040: ED  Viendo a Mei Suyao otra vez"
+numero: 1040
+novelaId: "48"
+---
+
+Después de dejar el templo, Li Qiye se fue a otra parte de la ciudad. Esta parecía bastante empobrecida.Parecía ser una ciudad mortal sin nada especial.Li Qiye entró a una casa sin que nadie intentara detenerlo.Después de dar el primer paso dentro, la escena cambió inmediatamente.En este lugar había un vasto reino con puentes y paisajes verdes que pertenecían a los poemas.Su intrusión se encontró con la erupción de varias auras poderosas.Una de ellas era incluso del nivel Monarca Dios.Sin lugar a dudas, esta pequeña casa discreta tenía paragones virtuosos extremadamente poderosos que la protegían."El Emperador Inmortal Xiu Shui es realmente sorprendente.No solo estableció allí una gruta celestial, sino que también logró protegerla de la afinidad budista de la meseta.Tal perspicacia es realmente admirable. "Se tomó su tiempo caminando por este lugar para disfrutarlo plenamente.Las auras poderosas surgieron;sus dueños querían atacar a Li Qiye.Sin embargo, una voz que parecía un himno inmortal resonó: "Es un invitado, no sean groseros".Li Qiye solo sonrió y paseó por el lugar para llegar a un pabellón en particular.Fue construido en el medio de un lago con una mujer sentada en una silla de piedra.Ella estaba mirando la hermosa vista del lago.Cualquiera se maravillaría al ver a esta mujer adelante.Ella era hermosa más allá de las palabras.No fue suficiente llamarla una diosa.Mei Suyao!La mujer alabada como una diosa en el Mundo del Emperador Mortal.Estaba sentada en silencio con una actitud indiferente, como un hada separada de este mundo mundano.Ella también tenía esta apariencia en el pasado, pero la actual Mei Suyao era completamente diferente de antes.En el pasado, sus pasos fueron acompañados por fenómenos visuales como una deidad descendiendo a este mundo.Pero ahora, ella había regresado al origen y mantenía una simplicidad lejos de vistas llamativas e himnos del gran dao.Sin embargo, ella todavía era una diosa separada de la contaminación del mundo y estaba a punto de fusionarse con la naturaleza.Su núcleo se mantuvo sin cambios, pero ahora usaba una actituddiferente para tratar con el mundo, lo que resulta en un estilodiferente.Se levantó en el momento en que vio a Li Qiye entrar al pabellón.Ella lo miró y, con una expresión ligeramente sorprendida mientras sufrente brillaba con un destello, preguntó: "¿Eres tú, Joven Noble Li?"Ella tampoco estaba completamente segura de esto."No está mal, un Hueso Inmortal es digno de su prestigio.El poder ver la verdad y comunicarse con los diosesverdaderos". Li Qiye asintió con la cabeza y elogió.Él reveló su verdadera forma y se sentó libremente en otra silla de piedra.Después de ver su forma, Mei Suyao inclinó la cabeza suavemente conuna actitud respetuosa: "Discúlpeme por no saludarlo personalmente".Él agitó su manga y la interrumpió: "Bien, pequeña niña, no hay necesidad de trámites engorrosos".La Diosa Mei Suyao siempre fue el foco del espectáculo, independientemente del tiempo y el lugar.Incluso genios sin igual como el grupo de Jikong Wudi siempre mostrarían su mejor lado frente a ella.Solo Li Qiye no le hizo caso.Ella no estaba enojada y se sentó.Ella le sirvió un poco de té en una taza de jade mientras hablaba: "Por favor, tome esta simple taza de té".Élaceptó su taza de jade y tomó un sorbo antes de comentar libremente:"Parece que finalmente has entendido, este es el Dao de la Fragancia Celestial Alaya del Emperador Inmortal Xiu Shui.""Esto es gracias a ti.En los últimos años, fui iluminada y pasé un tiempo meditando antes decomprender las profundidades internas ". Ella habló con sinceridad:" Sino me despertaras de mi sueño, mi sendero hubiera sido aún más largo ".Li Qiye sonrió y disfrutó de su té, así como de la encantadora belleza que tenía delante.Estaba relajado y sin preocupaciones;todo lo demás se volvió insignificante.Ella no habló y solo le hizo compañía en silencio, vertiendo más té para él de una manera recatada y natural.El cerró los ojos para sentir el ritmo tranquilo.Después de un rato, él asintió suavemente: "Mmm, es este sentimiento.Realmente has entendido el núcleo del dao fragante y podrás ingresar al dao celestial.Este será un gran dao que te pertenecerá, lo que te permitirá embarcarte en uno que sea único para ti ".Mei Suyao sonrió sutilmente como un capullo de albaricoque floreciendo lentamente.Fue toda una escena para la vista.[1.Mei es flor de albaricoque / ciruelo.]Ella no era arrogante ni orgullosa;todo era natural y concordante con su voluntad."¿Puedo preguntar el motivo de su visita? Esta hermana menor es todo oídos. "Ella preguntó suavemente mientras vertía más té.
+
+LiQiye miró perezosamente y dijo: "Chica, ¿puedes confirmar que estásaquí para la ascensión del mayor de tu escuela?"
+
+Ella respondió su pregunta con calma: "Entiendo tu escepticismo. La verdad es que de hecho estoy aquí para la ascensión de mi mayor ".
+
+"¿Y luego qué?" Probó el té una vez más mientras la miraba libremente.
+
+"El joven Noble debe haberse encontrado con el VajraVedas ". Ella era extremadamente inteligente. Al nacer, ella recibió un hueso del alma del nivel inmortal y fue capaz de ver a través de todo directamente a su esencia. Esto se amplificó después de que realmente entendió el dao fragante."Mmm ..." Li Qiye tarareó de acuerdo.Esperó a que ella continuara.
+
+Ella continuó: "No lo esconderé de Joven Noble.La verdadera razón por la que vine a la meseta es por la ascensión.Obtener el tesoro de VajraVedas fue una idea del momento "."¿Qué pasa después?" Él sonrió tranquilamente.
+
+Ellarespondió: "Pensé que seguramente llegarías a la meseta, y si ese fuerael caso, el Mundo del Diablo Imperial Menor se abriría con seguridad,indicando la aparición del Templo de la Nihilidad. Después deser guiada por mi ancestro, aprendí el lenguaje de este mundo menor,así que fui al Vajra a comerciar por su tesoro ".
+
+"Algo interesante". Li Qiye se rió: "Parece que finalmente apareció un viejo bastardo de tu escuela. ¿Qué más sabes además de esto?"
+
+Mei Suyao lo miró y dijo: "La verdad es que quiero saber más sobre ti. Tu batalla en la Montaña de la Guerra de los Dioses te hizo famoso, así que el ancestro de mi escuela corrió inmediatamente aquí ".
+
+"Entre los viejos de tu escuela, sé muy bien que solo uno de ellos conoce las runas de la montaña de la Guerra de los Dioses".
+
+Él entrecerró los ojos para mirarla: "¿Qué te dijo?""No mucho". Ella sacudió suavemente la cabeza: "Sé que el ancestro sabe algo de ti. También soy muy curiosa, especialmente sobre tu identidad. Desafortunadamente, el ancestro no quiso revelarla ".
+
+"¿Es eso cierto?" Li Qiye sonrió como si estuviera en casa.
+
+Ella se encontró con su mirada de una manera directa y natural y habló sin culpa: "No me atrevería a esconder esto de ti".
+
+Despuésde mirar en las profundidades más profundas de sus ojos por un largotiempo, Li Qiye finalmente asintió satisfactoriamente.
+
+"El viejo de tu escuela todavía no está senil. Supongoque esta sabiduría durará para siempre. "Li Qiye retiró su mirada yhabló con calma:" Chica, ya que estoy aquí, no necesito decir más ".
+
+Mei Suyao sacó una caja vieja y lentamente se la entregó: "La mitad del tesoro está aquí, por favor eche un vistazo".
+
+Li Qiye lo abrió y echó un vistazo al objeto dentro antes de asentir con la cabeza: "¿Dónde está la otra mitad?""Fuerecuperado por el ancestro". Mei Suyao respondió con calma: "Mi huesoinmortal todavía tiene dificultades para entender esto, así que le pedíal ancestro que tomara la mitad para que los otros ancestros ​​pudieran echarle un vistazo.Tal vez puedan ver a través de sus misticismos "."También consulté a VajraVedassobre este tema.Él tampoco lo sabía, lo único que dijo fue que el objeto es extremadamente insondable. "Mei Suyao dijo la verdad."Si  VajraVedaspudiera comprenderlo, entonces no sería VajraVedas". LiQiye dijo despectivamente: "Esto está conectado a un antiguo misterio.Las personas que no conocen las antiguas leyendas nunca podrían entender los secretos del objeto".Ella preguntó con curiosidad: "¿El joven Noble se está refiriendo a la era anterior a la Era Desolada?¿La mítica Era Legendaria?"Procedente de la Escuela del Río Eterno, una secta con tres emperadores, era una persona erudita con pocos iguales.Sin embargo, ella no sabía si el objeto provenía de la Era Legendaria."Puede ser incluso más viejo." Li Qiye solo sonrió sin decir mucho.
+
+Mei Suyao estaba aturdida por un momento. En la mente de los cultivadores comunes, la Era Desolada era la más antigua. Ella sabía acerca de la existencia de la Era Legendaria que la precedió, pero ¿qué clase de era era aún más antigua?
+
+Li Qiye guardó la caja y dijo: "Quiero todo. La mitad es equivalente a basura ".
+
+"No te preocupes, Joven Noble. Heenviado un mensaje a los ancestros y le dije a la escuela que se lotrajera sin demora ". Ella fue muy abierta y estuvo de acuerdo deinmediato.
+
+Li Qiye la miró y se rió entre dientes: "Chica, si no supiera que has entendido la esencia del dao fragante, tampoco lo creería. ¡Un cambio tan grande en un corto período de tiempo, incluso puedes llamarlo una metamorfosis! Antes de venir, esperaba que hicieras negocios. Parece que te he subestimado ".

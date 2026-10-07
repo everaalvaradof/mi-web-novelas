@@ -1,0 +1,61 @@
+---
+titulo: "Capítulo 171: ED  Cofre de piedra Sellado (1)"
+numero: 171
+novelaId: "48"
+---
+
+Bajo lasinnumerables miradas de celos asesinos, Li Qiye esencialmente lo ignoró ycaminó tranquilamente con suaves pasos por la calle Antigua.
+
+La calleantigua era de hecho un buen lugar con pabellones y balcones de agua. Eneste lugar, la gente no sólo podía comerciar, sino que incluso podíaencontrar amigos en este lugar para congregarse y caminar por la callejuntos.Era extremadamente animado y vasto. No se podía ver completamente con sólo varios pasos. Los ojos de Li Qiye fueron atraídos por muchos tesoros mientras caminaban por la calle Antigua.
+
+Habíaun viejo cultivador sentado en un balcón cerca de la esquina con unsigno muy grande que tenía estas palabras escritas arriba: "Hoja Sagrada Condensación de Plata!"Otrocultivador en frente de ellos tenía un gran cofre con las siguientespalabras grandes en la parte superior: "Medicina Mitad Santo, se comercia por un manual de Ley de Longevidad  Espíritu de Fuego!"
+
+Li Qiye caminó por la calle antigua con el grupo de Li Shuangyan. Inclusolas hijas orgullosas del cielo que venían de grandes sectas como LiShuangyan y Chen Baojiao estaban asombradas y convencidas por losartículos extraordinarios para el comercio en esta calle.
+
+Nollegaron demasiado lejos antes de que Li Qiye se sintiera de repenteatraído por un artículo en venta por un cultivador en una esquina. Este cultivador era un dragón de agua envejecido.Una mirada a los cuernos duales en su cabeza dejó claro que había vivido durante diez mil años.
+
+El objeto en venta por este viejo dragón de agua estaba contenido en un cilindro de cristal.Era un pez no grande de tamaño.Además, de un vistazo, era muy lindo y redondo como una pequeña pelota de cuero.Había parches hinchados de cinco colores remendados en su cuerpo - aparentemente muy bonito.Este era un pez que no era particularmente notable. Enla calle antigua, con gente que iba y venía, muchos no se daban cuentade ese pez, y a lo sumo, algunos sólo lo miraban de vez en cuando. Sin embargo, la mayoría de las miradas fueron atraídas por el viejo dragón de agua. Al final, un dragón de agua de diez mil años de antigüedad que llega al dao sería absolutamente un gran personaje.
+
+"Dum-dumm-dumm" Li Qiye avanzó y golpeó el cilindro de cristal con el dedo. Golpeó con un ritmo muy específico, como una espada que golpea repetidamente el cilindro de cristal.
+
+Lamanera en que el dedo de Li Qiye chasqueaba de repente el cilindro decristal como una espada alarmaba al pez, y su cuerpo inicialmenteregordete se hinchó cuando la luz roja salió de repente. En un abrir y cerrar de ojos, el cuerpo entero del pez se encendió con llamas de fuego y gritó rugidos de dragón!
+
+Latransformación repentina no sólo asustó al grupo de Li Shuangyan, sinotambién a los cultivadores cercanos que luego vinieron y se reunieronalrededor"¿Quéobjeto divino es este?" Viendo a este pez arrojando rugidos de dragóncon llamas de fuego por todo su cuerpo, dijo un viejo cultivador con unaexpresión cambiada.
+
+"Dragón Pez Ardiente!" Li Qiye, viendo el pez completamente en llamas delante de él, no podía dejar de ser un poco movido. Quería comprar el pez.
+
+El viejo dragón levantó la cabeza, revelando una luz brillante y aterradora en sus ojos. En este momento, él asintió ligeramente con la cabeza y dijo: "Correcto. Dragón Pez ardiente - una especie pura del dragón. Aunque todavía es joven, es incomparablemente supremo. "
+
+Los verdaderos dragones puros - no importa si eran Bestias Celestiales o Bestias Misteriosas, eran extremadamente raros.¡Una especie pura del dragón podría un día convertirse en un dragón verdadero, convirtiéndose en una bestia sagrada!"Dragón Pez Ardiente..." Un viejo cultivador exclamó emocionalmente: "Las leyendasdicen que sólo el Mar Ardiente del Norte tendría tal existencia. Incluso uno es difícil de encontrar cada diez mil años! "
+
+De repente, los corazones de los cultivadores circundantes comenzaron a latir más rápido. ¿Quién no podría ser movido por tal tesoro? Si pudieran criar un Dragón Verdadero en el futuro, sería realmente asombroso.
+
+"¿Cómo vendes este Dragón Pez Ardiente?" Un gran personaje no pudo contenerse y preguntó.
+
+Elviejo dragón levantó lentamente la cabeza con ojos como un relámpago ymiró al grupo de personas, luego dijo lentamente: "-¡Se comercia por unPez de Nueve Longevidad!"Al oír la respuesta del viejo dragón, todos se miraron. El Dragón Pez Ardiente era precioso, pero el pez de nueve longevidad era tan valioso!
+
+Li Qiye sacudió la cabeza e inmediatamente se fue sin hacer una segunda pregunta. El grupo de Li Shuangyan también siguió. Después de una buena distancia, Li Shuangyan preguntó suavemente: -"¿Querías ese Dragón Pez Ardiente?"
+
+"Ese pez no es malo, pero desafortunadamente, no vale ese precio." Li Qiye sonrió y dijo.
+
+"¿Porqué?" El siguiente Shi Gandang en la espalda no podía dejar depreguntar: "Joven Noble, he oído que el Dragón Pez Ardiente y el pez denueve longevidad eran igualmente preciosos, ambos son artículos espirituales extremadamente raros"."Eso no está mal." Li Qiye sonrió y dijo: "El verdadero destino de Dragón Pez Ardiente es incompleto. Si uno quiere prepararlo en un verdadero dragón, sería más difícil que llegar a los cielos. El uso de un pez de nueve longevidad para el comercio de él - esto es claramente una pérdida. Coger un Dragón Pez Ardiente es más fácil decirlo que hacerlo; de lo contrario, el viejo dragón no habría tenido tanta prisa en venderlo."
+
+Por no hablar de las dos chicas Li Shuangyan, pero incluso Shi Gandang fue muy sorprendido. Esta fue su primera vez viendo un Dragón Pez Ardiente. Comoun Ser Iluminado, no podía ver nada malo con el Dragón Pez Ardiente, sinembargo Li Qiye - con sólo un vistazo - sabía que el verdadero destinodel pez era incompleto. Esto era demasiado increíble.
+
+Li Qiye siguió paseando por las calles antiguas con las dos chicas.Unotenía que decir que, aunque los artículos exhibidos en la calle antiguaeran de hecho tesoros, no había muchos artículos que se podríanse seleccionados por Li Qiye."Un tesoroverdaderoParagonvirtuoso ..." Cuando Li Qiye caminaba por debajo de una colina rocosa, alguien exclamó por delante. Escuchando este grito, muchas personas cambiaron sus expresiones y, en poco tiempo, mucha gente rodeó el área."-Quienquieraque pudiera ayudar a este anciano a hacer una cosa, este anciano ledará a la persona un tesoro." En ese momento, una gruesa vieja voz resonóentre la multitud.
+
+Li Qiye, que estaba de paso, también se sorprendió. El primer gesto fue dar a otros un tesoroverdadero de Parangón Virtuoso - esto era realmente insondable. Se acercó con las dos chicas a la multitud para observar.Debajode la colina rocosa había un anciano vestido de gris que llevaba unextraño sombrero de papel lleno de polvo que formaba capas aceitosas.Nadie sabía cuánto tiempo llevaba puesto este papel.También tenía una mirada dócil - aparentemente normal.En ese momento, el anciano sacó lentamente un tesoroverdadero . Apesar de que este tesoro verdadero parecía que fue recogido de unmontón de basura y estaba cubierto por un pedazo de papel hecha jironesal azar, este verdadero tesoro exhaló débilmente un rayo de luz,haciendo que todos temblaran. Al ser tocado por estas luces, incluso un Santo Antiguo estaría asustado dentro con miedo."Para ser exactos, este es un Tesoro Verdadero Señor Virtuoso! Está hecha de la extraordinariamente rara mineral Sagrado de Ocho Dao. "El viejo colocó lentamente el tesoroverdadero  en el suelo.El Señor Virtuoso era un título de Paragones Virtuosos. Dentro de Paragones Virtuosos, hubo distinciones y Antepasado Virtuoso fue el más fuerte!¡Había una leyenda que si los emperadores inmortales no aparecieron, entonces los antepasados virtuosos eran invencibles!Sacar a un tesoro verdadero de Señor virtuoso en su primer movimiento inmediatamente atrajo a innumerables espectadores. Después de que el anciano sacó el Tesoro Verdadero Señor Virtuoso, entonces lentamente sacó un Tesoro de Longevidad. También parecía que fue tomado de un montón de basura y también estaba cubierto por un trozo de papel rasgado. Era lo más despreocupado posible.
+
+Este tesoro de la longevidad colocado en el suelo reveló una esquina del pedazo de papel rasgado. Emana un humo de energía sanguínea. Derepente, esta energía monstruosa de la sangre llenó el cielo como unocéano sin fin, y los cultivadores aquí no podían dejar de perder suscolores.
+
+"Este es un tesoro de longevidad paragón virtuoso. Es de un Espíritu de Longevidad; se usó un Anillo de Vida de 4,000,000 años de Bestia de Fuego Verdadero para crearlo. "El anciano continuó hablando lentamente.Al oír esto, todos tuvieron que respirar hondo. Una Bestia del Fuego Verdadero de 4.000.000 de años - ¿qué tan aterradora era esta existencia? Incluso un Paragonvirtuoso sería aspirado seco por ella!De repente, la multitud observadora miró a su alrededor sorprendida. Esteanciano era demasiado desafiante para los cielos, sacando un tesoro verdadero paragón virtuoso y un tesoro de longevidad paragón virtuoso. Cualquiera era suficiente para destruir una secta o un linaje. ¡Qué diablos era el origen de este hombre!
+
+Loque impulsó a la gente incluso más loca fue que el preciosísimo Tesoro Verdadero y Tesoro de Longevidad  Paragón Virtuoso fueron envueltos entrozos de papel rasgado por el anciano. Era como si los recogieran del montón de basura.
+
+Despuésde sacar los dos objetos, volvió a entrar dentro de su cofre y buscó atientas como si estuviera encontrando otro tesoro. De repente, todo el mundo se preocupó y se sintió picazón por dentro. Ellos estaban curiosos acerca de lo que sería el tercer artículo sacado por el anciano."Viejo, date prisa y saca el tesoro.No nos torture, ¡ah! "Un gran personaje vio que el viejo buscabadentro de su cofre durante medio día, pero no sacó nada, así que no pudoevitar gritar."¡No molestes a este viejo a buscar cosas!" El viejo ni siquiera levantó la cabeza y sólo agitó su mano.Parecía como si estuviera ahuyentando una mosca."Pop", sonó un ruido, y este gran personaje ni siquiera tuvo tiempo dereaccionar antes de ser lanzado fuera de laCalle Antigua mientrasarrojaba un bocado de sangre.Todo el mundo tomó una respiración fría.El gran personaje que habló antes era un Ser Iluminado, pero ahora era como una mosca siendo expulsada de la Calle Antigua.Esto hizo que todos los espectadores dieran un paso atrás mientras se estremecían en sus corazones.Todo el mundo entonces se dio cuenta de que este anciano ante ellos no podía ser intimidado.De lo contrario, no sacaría fácilmente un tesoro verdadero paragón virtuoso y un tesoro de longevidad.Como dice el dicho, uno no puede mostrar fácilmente su riqueza.Unapersona que sacaba fácilmente dos tesoros que incitaban a la avariciaenrojecimiento de los ojos - ¡esto significaba que no tenía miedo de serrobado por otros!Con este evento interrumpido, todos los espectadores de este lugar no se atrevieron a hablar. Todos contuvieron el aliento cuando el anciano que estaba delante de ellos buscaba algo.
+
+Finalmente, encontró un antiguo pergamino que lucía viejo de su cofre. Este rollo estaba atado por una cuerda hecha de hierba. El anciano la colocó en el suelo y dijo lentamente: "Esta es una Formación de Seis Bestias".
+
+Al oír esto, muchas personas se miraron. Nunca habían oído hablar de esta Formación de las Seis Bestias. Sinembargo, el viejo acaba de sacar un tesoro verdadero Paragon virtuoso  junto con un tesoro de longevidad ... Esta cosa llamada la "formación deseis bestias" también debe ser de un origen extraordinario.El viejo - en este momento - aparentemente quería hacer algo divertido, y sacó un tronco de piedra de algún lugar. Este tronco de piedra no era grande ni pequeño. Era simple y sin adornos, y no atraía mucha atención.
+
+Li Qiye, en esta multitud mientras miraba el animado evento, se puso serio al ver este tronco de piedra y su corazón tembló.No creía que pudiera volver a ver este artículo.En este momento, miró intensamente al viejo que estaba delante.

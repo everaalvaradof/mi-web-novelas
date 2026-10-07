@@ -1,0 +1,51 @@
+---
+titulo: "Capítulo 789: ED  La rendición del reino"
+numero: 789
+novelaId: "48"
+---
+
+Una mirada tan larga como una eternidad; millones de años pasaron en solo un momento. El mar azul se había convertido en campos de moras, y todos habían desaparecido como humo disperso.
+
+Enaquellos días, llorando y sonriendo, perdido en los tiempos oscuros yseguía persistentemente avanzando, sin admitir nunca la derrota hasta elápice, la eterna invencibilidad ... Todo esto había perdido todo susentido.
+
+En aquellos días, durante sus momentos de lágrimas, él permanecía silenciosamente a su lado. Cuando ella barrió a través de miríadas de reinos, él era un compañero tranquilo.
+
+Entonces,un día, cuando se pararon en la cima sin oposición, los dos rompieronel firmamento y se separaron para no volver a verse nunca más.
+
+Mientrasmiraba a la mujer en la distancia que era capaz de hacer que los nuevemundos dieran origen a fenómenos extraños materializando reinos, Li Qiyeno tenía palabras.El pasado estaba muy lejos y este mundo era una fuente de tanto dolor ...Independientementede la razón de cómo se convirtieron en extraños a partir de esemomento, Li Qiye trató de no prestarle atención.Para él, ¡el tiempo podría arruinar todas las cosas!Finalmente, suspiró suavemente.No había necesidad de palabras;¡Todo se había ido con el viento!Dentro de Ciudad Alquimista había innumerables cultivadores arrodillados en el suelo.Bajo las auras invencibles, todos tenían miedo.Sin embargo, muchos todavía se sorprendieron al ver a la vieja figura arrodillada dentro del terreno ancestral."Él es ..." Una gran existencia desde la distancia vio la figura y murmuró.Muchos discípulos y maestros de los reinos y ancestros ​​fueron sacudidos mientras continuaban postrados en el suelo.Finalmente, Li Qiye gentilmente asintió hacia la mujer como un saludo.Nadie podía ver su rostro, pero parecía que podían escuchar un suave suspiro del pasado distante.La mujer levantó su palma hacia el cielo.Antes de que todos pudieran calmarse, fueron transportados al instante fuera de Ciudad Alquimista.Tanto los jóvenes cultivadores como los ancestros actuales perdieron el control de sus cuerpos en este proceso.Tal desarrollo sorprendió a todos. Incluso Paragones Virtuosos no pudieron resistir esta poderosa transferencia. No había portales, pero su leve gesto fue suficiente para alejarlos a todos.
+
+Los espectadores en la ciudad no fueron los únicos enviados, incluso la señora Zi Yan y Yuan Caihe también se fueron.
+
+La mujer desapareció en este momento junto con las tres figuras inigualables del terreno ancestral.
+
+Dentro del terreno ancestral, todos los escalones de los discípulos se apartaron en silencio.En la montaña solo había una figura vieja y postrada.
+
+Li Qiye entró en el terreno ancestral y se dirigió hacia la montaña donde se encontraba esta vieja figura.Este era un viejo al borde de la muerte.Podría decirse que su esperanza de vida estuvo casi agotada, ya que casi no le quedaba tiempo.
+
+Se arrodilló allí mientras levantaba algo con ambas manos.Era un caldero con una apariencia ordinaria.Parecía piedra y metal, pero no estaba hecho de ninguno."Cien Vida, oh Cien Vida, sigues usando este truco una y otra vez". Lossentimientos se elevaron en el corazón de Li Qiye mientras suspirabasuavemente mientras miraba al viejo arrodillado.
+
+"Mi señor, puede llamarme Shi Qian". El viejo habló con sinceridad.Actuó como joven ante Li Qiye.
+
+"Estábien, prefiero llamarte Cien-Vida". Li Qiye sacudió suavemente lacabeza: "Si mi memoria me sirve correctamente, hiciste esto antes en eseentonces cuando quería destruir tu reino".
+
+"Lo sé". El viejo asintió seriamente: "Mi señor me otorgó este caldero y me mostró una gran bondad.Nunca me olvidé de esto ".
+
+"Está bien, levántate.Yaestás viejo, así que no hay necesidad de arrodillarte. "Li Qiye suspiróde nuevo:" No perdoné tu reino en el pasado porque te di este caldero.Hoy, voy a perdonar tu reino una vez más, pero tampoco está relacionado con este caldero "."¡Aunquesoy alguien que aprecia los viejos sentimientos, este caldero por sísolo no es suficiente para que los valore tanto!" Li Qiye dijodespectivamente: "Perdoné el reino en el pasado y lo haré de nuevo estavez no por estecaldero, sino gracias a ti!Porque confío en ti y pienso altamente en ti ".El viejo se puso de pie y habló con franqueza: "Nunca olvidaré la bondad de mi señor.Si mi señor no me enseñó en aquel entonces, yo no tendría futuro "."No hay necesidad de esto". Li Qiye agitó su manga: "El oro siempre brillará sin importar la ubicación.Simplementenoté que eras enseñable, así que casualmente te enseñé una cosa o dos,eso fue todo. "Li Qiye miró al viejo y continuó:" ¿Cuánto tiempo creesque puedes vivir?¿Uno o diez años?O más bien, ¿cuánto tiempo más puedes estar enterrado bajo tierra?¿Otra generación, diez más o cien más?"El viejo permaneció en silencio por un largo tiempo sin respuesta.Li Qiye dijo suavemente: "Puedes proteger el Reino Alquimista por una generación, pero ¿podrás protegerlo para siempre?¡Durante un millón de años, has luchado de esta manera!¡Sí, tu reino es un gigante, así que su grupo de vejestorios se ha vuelto inquieto!Honestamente,no me importa, pero ¿de verdad crees que alguien de este grupo deviejos seniles podría comenzar una reforma como el Emperador Inmortal BiShi? "El viejo finalmente se compuso y suspiró suavemente para decir: "Mi señor, al final, soy viejo y no me queda mucho tiempo.Ser enterrado bajo tierra es el único método para sobrevivir, así quedespués de muchas generaciones, no he podido contribuir con mi gente "."¿Entonces no te importaba desperdiciar una cantidad incalculable deesencias y tesoros del reino para permitir que Ming Yexue surgiera?" LiQiye sonrió.El viejo sonrió irónicamente: "Si Yexue puede convertirse en un Emperador Inmortal no es importante para mí.¡Solo espero que sea como el Antepasado Bi Shi y traiga cambios al Reino Alquimista, otra reforma! ""Yexue me pertenece.Siempre tuve confianza en ella.Si no estuviera aquí en esta generación, ella seguramente se convertiría en el Emperador Inmortal.Sin embargo, estoy aquí, así que la llevaré al lugar donde los Emperadores Inmortales deberían ir ", dijo Li Qiye."Soy demasiado viejo y no tendré la oportunidad de ir a echar un vistazo". El viejo estaba abatido y suspiró de desilusión.Li Qiye negó con la cabeza y sonrió: "Te tengo en alta estima, incluso ahora.Tuviste la capacidad de convertirte en el Emperador Inmortal en ese entonces.Por desgracia, naciste en la época equivocada.Estar en la misma generación que Hong Tian es una tragedia predestinada.Incluso alguien con talentos sin igual en aquel entonces no tenía ninguna posibilidad "."Nadiepodía hacer nada durante la abrumadora era de la Emperatriz". Elviejo dijo: "Aunque competí por la Voluntad del Cielo con laEmperatriz, perdí de manera convincente.Incluso si la Emperatriz no reclamara el trono para suprimir unamiríada de reinos, de todos modos, nadie habría sido capaz de vencerladurante esa época. "Su expresión se volvió de admiración después dedecir esto."Desafortunadamente, ¡el Reino Alquimista no tenía los mismospensamientos que tú!" Li Qiye comentó: "¡De lo contrario, no hubierapermitido que Hong Tian reprimiera tu reino por una eternidad!"El viejo sonrió amargamente y se produjo un largo silencio.Si Li Qiye no mostró misericordia en aquel entonces, el reino habría dejado de existir.Esto era algo que siempre recordaría.LiQiye miró el terreno ancestral y lentamente dijo: "No he puesto un pieen esta tierra durante mucho tiempo, echemos un vistazo".El viejo no puso objeciones e inmediatamente fue con Li Qiye a disfrutar de los hermosos paisajes.
+
+Este lugar se había dividido antes, pero era perfecto una vez más sin ningún signo de daño. Incluso la tierra destrozada se había recuperado en solo un corto período de tiempo.
+
+Esta era la propiedad mágica de este terreno que escondía la vena de alquimia. Aunqueel terreno ancestral del reino no era la fuente de la vena, elEmperador Inmortal Yao Zu usó un gran método para conectar este lugarcon la Vena de Alquimia, para que el reino pudiera disfrutar de laesencia concentrada de este mundo.
+
+Aunque estaba lejos de ser comparable a la fuente, ya era increíble. ¡Era difícil para el reino no ser poderoso cuando ocupaba tal ubicación!
+
+Los Manantiales Sagrados se desbordaban mientras caminaban por esta tierra. Uno podía ver hierbas del tesoro en cada esquina y pájaros espirituales volando en el cielo. Uno podría estar seguro de que había tortugas divinas que se zambullen en el fondo de los ríos ...Era una tierra pacífica y santa. Cualquiera se sentiría abrumado por la codicia después de ver esta tierra invaluable. Había tesoros por todas partes junto con abundantes medicinas espirituales. ¡Hierbas que eludían el mundo abundaban en esta tierra!
+
+Elviejo llevó a Li Qiye a todas partes para ver la belleza del terreno ancestral, mientras que los discípulos del reino se escondieronrápidamente sin atreverse a salir. Incluso sus ancestros no se atrevieron a respirar fuerte en este momento.
+
+Nadie era más fuerte que este viejo ante ellos.¡La mayoría de los ancestros en el reino eran solo jóvenes para él! Todos lo abrazaron con reverencia.Incluso el ancestro Wushuang, que era mayor que este viejo, era muy respetuoso con él.
+
+Solo los personajes de nivel ancestro sabían acerca de la identidad de este viejo que destroza la tierra.Muy pocas personas en este mundo incluso sabían que él todavía estaba vivo.Si los forasteros supieran sobre su identidad, se asustarían sin aliento o incluso se morirían de miedo.
+
+Los otros ancestros temblaban de miedo. Cuando incluso su ancestro se arrodilló, ya no se atreverían a oponerse a Li Qiye. Entre ellos, solo dos de los más antiguos sabían lo que estaba pasando.
+
+Pensaron en el pasado y se volvieron aún más temerosos. Ellos ordenaron que nadie molestara al antepasado y Li Qiye. Cualquiera que mirara o escuchara sin permiso sería asesinado sin excepción. ¡Ellosentendieron que su reino finalmente había provocado un tabú legendariocomo en aquel entonces cuando el reino enfrentaba la destruccióncompleta!

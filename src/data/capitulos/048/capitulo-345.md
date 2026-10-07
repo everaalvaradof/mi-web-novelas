@@ -1,0 +1,55 @@
+---
+titulo: "Capítulo 345: ED  Fortunas en el Templo del Mundo"
+numero: 345
+novelaId: "48"
+---
+
+"Entrar. La oportunidad está ahí, pero depende de usted para determinar lo grande que es. Sólo puedo ayudarte un poco." Li Qiye sonrió y dijo mientras los otros tres seguían aturdidos.
+
+Él tomó la iniciativa para entrar en el templo mientras los otros tres con entusiasmo seguían detrás de él. Para ellas, esto tal vez podría ser su mayor oportunidad en su vida.
+
+¡Nadie en el mundo sabía de la existencia de este templo, pero lograron alcanzarlo! Esta fue la fortuna más tentadora y misteriosa!
+
+Una vez que entraron, descubrieron que este antiguo templo fundido de bronce estaba completamente vacío.Todo el lugar daba la impresión de que nadie había entrado por decenas de millones de años.También encontraron que la cúpula del templo estaba abierta como un patio.Miraron arriba sólo para encontrar una vasta e indiscernible nada.
+
+Debajo de la cúpula había una grulla de bronce que era extremadamente vibrante.Eracomo si solo esta grulla de bronce existiera por sí sola, manchada porlos estragos del tiempo al igual que el resto del templo.
+
+Además de esta grulla de bronce, no se podía encontrar nada más dentro.Las tres chicas estaban bastante aturdidas porque no esperaban encontrar sólo esta grulla en este lugar.
+
+"¿Dónde están las fortunas?" Chen Baojiao no pudo evitar mirar a su alrededor y decir: "¿Hay sólo esta grulla de bronce?Pensé que habría innumerables tesoros inmortales y armas divinas apiladas unas encima de otras como una montaña.Esta grulla de bronce por sí sola no es suficiente para ser compartida entre los cuatro de nosotros, ¡ah! ""Lostesoros inmortales y las armas divinas - estas cosas son demasiadocomunes." Li Qiye sonrió y sacudió la cabeza: "Para nosotros, lostesoros inmortales y las armas divinas son sólo cosas externas.Vine aquí para pedir una oportunidad de auto-mejora, una nueva fortuna.No necesitamos venir a este lugar por tesoros inmortales y armas divinas.Después de todo, este mundo es extremadamente extenso y tiene tantos lugares que podemos robar estos artículos! ""¿Cómo pedimos una nueva creación?" Chi Xiaodie no pudo contener su curiosidad.1Li Qiye miró fijamente la grulla de bronce y sonrió: "Golpee la grulla.Recuerde, cada persona sólo tiene una oportunidad, por lo que debe atesorarlo.No importa qué tipo de cosas te encuentres, debes mantener la calma.A veces, una recreación afortunada tiene que ser identificada con una vista perspicaz;¡no dejes que una perla caiga en el pajar!""Golpear la grulla de bronce?" Li Shuangyan, Chen Baojiao, y Chi Xiaodie fueron sorprendidos por un momento.No esperaban que la oportunidad de una nueva fortuna comenzara con tocar esta grulla."¡Déjame!" La animada Chen Baojiao se dirigió emocionada a la grulla para tocarla, pero no tuvo reacción.Entonces ella dijo decepcionada: "¿Por qué no me das una fortuna ..."
+
+Antes de que pudiera terminar su sentencia, fue disparada como una flecha y desapareció en medio del inmenso vacío.
+
+"Adelante, atesora esta única y sola oportunidad para un yo nuevo y mejorado." Li Qiye recordó a los otros dos.
+
+Chi Xiaodie respiró profundamente y reunió su coraje para tocar la grulla.Ella fue lanzada por encima de la cúpula y desapareció en medio del vacío como Chen Baojiao.Ella fue seguida por Li Shuangyan, quien también experimentó la misma experiencia en un abrir y cerrar de ojos.
+
+El último en ir fue Li Qiye. Frotó la grulla y fue enviado al vasto cielo por encima de la cúpula. La grulla le disparó por una distancia desconocida antes de que sus pies llegaran al suelo. Allí, se encontró de pie junto a un estanque de peces. Este estanque no era muy grande, pero estaba lleno de un cierto suero líquido.
+
+Este suero era como el latón. A primera vista, parecía que era latón licuado. Sin embargo, después de una observación más cuidadosa, este no era el caso en absoluto. La gente común no sería capaz de ver a través de los misterios de este suero.Aunque parecía latón, dentro del líquido moraba un caos interminable como el comienzo primordial."Liquido Primal Mundano!" Viendo la sustancia en el estanque, Li Qiye exclamó emocionalmente: "¡Una gran fortuna!Una fortuna capaz de revertir todas las cosas.Estoes "verdaderamente incapaz de encontrar el destino después de usar lassuelas de hierro, y luego sin darse cuenta encontrarlo sin ningúnesfuerzo." Ese año, si Pequeño Negro tenía este Liquido Primal Mundano,entonces tal vez todo habría sido diferente.
+
+Li Qiye respiró hondo y lentamente entró en el estanque.Se envolvió por este líquido como una cáscara de huevoprotegiendo la yema mientras sus poros relajados devoraban locamenteeste líquido.-----La aparición del árbol del mundo llevó a un sinnúmero de personas a la locura. ¡Muchasgrandes potencias deseaban que pudieran precipitarse en el portal ytrepar al árbol para obtener estas deliciosas fortunas!
+
+Lamentablemente,debido a las reglas establecidas por la academia, los expertos de lasgeneraciones anteriores no se les permitió entrar en el portal. Unavez que un buen número de descendientes volvió a pedir armasancestrales, estas grandes potencias se saltaron de la discusión y deinmediato volvieron a dar a sus descendientes armas ancestrales parallevar al portal.
+
+Para muchas grandes potencias, las armas ancestrales eran sus tesoros protectores y definitorios. Sin embargo, estaba bien para convocar estas armas con el fin de obtener una gran fortuna del Árbol del Mundo.
+
+Todo el mundo entendió el significado detrás de una gran fortuna del Árbol del Mundo.Enel pasado, los logros personales del emperador inmortal Hao Haiprovienen de una gran fortuna, y una fortuna de este calibre fue elsueño y la aspiración de muchos cultivadores.En cuanto asu milagro de la creación de la Puerta de Mil Emperadores ... Nohace falta decir que este fue un milagro absoluto a través de las edadesque condujo al resto del mundo loco!
+
+De repente,muchas herencias no les importó dar a sus descendientes armasancestrales con la esperanza de que pudieran usarlas para escalar elÁrbol del Mundo.
+
+Después de que Li Qiye, Jikong Wudi y Mei Suyao entraran al área del Árbol del Mundo, ¡Le Yi fue el siguiente!
+
+Tenía el apoyo completo de la academia, así como todos los beneficios de ser el primer discípulo.Con el poder de la academia, no era un asunto difícil entrar en un espacio de tiempo cambiante.Se rumoreaque los descendientes de muchas grandes potencias también entraron justodespués de él, como Saint Childs de la Tierra Sagrada de las MilMontañas, el Acantilado del Dragón Durmiente, la Montaña Majestuosa delCielo y algunos otros ...
+
+Después de que estanoticia se difundió, todos los descendientes de los linajes delEmperador Inmortal en todo el Mundo del Emperador Mortal trajeron Armas Verdaderas de Emperador Inmortal a la academia. No sólo querían escalar el Árbol del Mundo, sino que también tenían la intención de alcanzar el pico!
+
+Sinembargo, entrar no significaba que pudieran trepar al árbol, y subir elárbol no significaba que hubiera una oportunidad segura de obtener unafortuna.
+
+Efectivamente, algunos discípulos con armasancestrales fueron capaces de abrir el camino al espacio tiempo,pero estas armas ancestrales no les ayudaron a subir al Árbol del Mundo. Sólo podían reunir sus propias fuerzas para ascender. Desafortunadamente, muchas personas no llegaron muy lejos antes de que la supresión los obligara a retroceder.Por supuesto, estos discípulos no se desanimaron.Fue muy difícil entrar, así que ¿cómo podrían darse por vencido?Siguieron subiendo y cayendo.Al final, algunos de ellos apenas lograron alcanzar la rama más cercana desde el suelo.Aquellos que no tenían métodos de escalada se atormentaban el cerebro.Algunos de ellos decidieron cortar el árbol del mundo.Pensaronque incluso si no podían subir más alto, podían cortar un pedazo decorteza o dos y tomarlo de nuevo - esto todavía sería un gran mérito!Sin embargo, la dureza del Árbol del Mundo fue mucho más allá de su imaginación.Teníanarmas ancestrales con ellos, pero incluso después de usar cada últimopedazo de fuerza, no podían cortar una gran pieza de corteza.Uno o dos de ellos, con armas ancestrales extremadamente poderosas,fueron capaces de raspar un pedazo de corteza del tamaño de una uñadespués de usar toda su energía sanguínea.Innecesario decir que las grandes fortunas del Árbol del Mundo no eran tan fácilmente obtenibles.Incluso alguien que subió con éxito no necesariamente será capaz de encontrar alguna fortuna.La primera persona desafortunada fue descendiente de un gran poder en el Desierto de Desolación Occidental. Llegó a la primera rama y entró en su mundo, pero fue expulsado no demasiado tiempo después y fue sin ningún beneficio. Después de ser enviado fuera, ya no se le permitió entrar.
+
+Despuésde aprender la lección de un tipo tan desafortunado, muchos expertos sedieron cuenta de que la oportunidad de una fortuna aumentó con lo altoque ascendieron, por lo que arriesgaron sus vidas para alcanzar mayoresalturas!
+
+"¿Alguien puede llegar a la cima del Árboldel Mundo?" Mientras muchos estaban ansiosos por escalar, también había unsinnúmero de personas que estaban emocionadas por la expectación  mientras esperaban.
+
+Puesto que tantasgrandes potencias enviaron a sus discípulos aquí usando los medios másrápidos sin preocuparse por el derroche de jades refinados, losespectadores estaban discutiendo este asunto con gran interés."Tengo miedo de que hacerlo sea muy difícil." Alguien respondió: "Serumorea que incluso el emperador inmortal Hao Hai no alcanzó la cimadurante su subida"."Aunque el emperador inmortal Hao Hai no alcanzó la cima, él consiguió la creación más grande.Unos cuantos predecesores anteriores dijeron que alcanzar la cima noera un requisito previo para obtener las creaciones más grandes. "Unexperto más viejo dijo."Los primeros en entrar fueron Jikong Wudi, Mei Suyao y Li Qiye.Talvez esos tres ya han tomado la creación más grande. "Una persona dijocon admiración:" He oído que Li Qiye incluso trajo a muchas personasjunto con él.Este mocoso es demasiado desafiante del cielo.Deidad y Diosa solo iban por su cuenta, pero Li Qiye realmente trajo a otros con él.¡Esta persona es diabólica más allá de todas las leyes celestiales!"Amedida que pasaba el tiempo, más y más personas querían entrar en esteespacio tiempo cambiante para subir al Árbol del Mundo.Muchosdescendientes de las grandes potencias renunciaron a investigar dentrodel portal sin tiempo y se centraron únicamente en el Árbol del Mundo.1-Aquí, estoy usando creación en lugar de la fortuna porque son dos palabras diferentes. La "creación" aquí está en un nivel más alto que la palabra "fortuna". En chino, puede significar buena suerte, existencia y natural. Asíque cuando Li Qiye está usando esta palabra "creación", está hablandode un cambio en uno mismo, una fortuna que daría un renacimiento o algotan grande que ya no sería lo mismo.

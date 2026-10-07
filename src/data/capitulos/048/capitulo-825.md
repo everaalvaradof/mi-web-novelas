@@ -1,0 +1,53 @@
+---
+titulo: "Capítulo 825: ED  Asesinando Paragones"
+numero: 825
+novelaId: "48"
+---
+
+(al parecer es treeking (rey arbol) en el cap anterior le pusieron trekking en el ingles que es senderismo por eso lo deje en ingles)
+
+En todo el mundo de la Medicina de Piedra, muy pocas personas en la generación más joven podían desafiar a los paragones. Ye Qingcheng era uno y Mei Aonan otro.
+
+Pero ahora, Jian Wushuang estaba a punto de luchar contra dos paragones por sí misma. Todos estaban ansiosos por ver el resultado. Si la generación más joven pudiera desafiar a los paragones, entonces eso significaba que estaba por llegar una gran era. ¡Aparecería la nueva voluntad del cielo y este mundo sería el patio de recreo de los jóvenes!
+
+"¡Muere!" El Ancestro de rayas negras y el Rey Árbol Antiguo atacaron al mismo tiempo. Uno era un Paragon de la Era Temprana y el otro un Paragón de la Era Creciente; ambos convocaron sus armas de destino verdadero. Uno era un látigo largo que atravesó el cielo como un dragón de inundación. El otro era un artefacto de escudo; tener un impacto directo era similar a una montaña que se derrumba sobre ti.
+
+Sus ataques fueron extremadamente tiránicos.Rompieron el espacio circundante y sacudieron todo el condado.En medio de las luces deslumbrantes, el grito de un fénix resonó.Justo después, un fénix tras otro se elevó hacia el cielo.Todos eran deslumbrantes y cegadores, como si volvieran a la vida a través de un renacimiento ardiente.En un abrir y cerrar de ojos, el cielo estaba cubierto de imágenes de aves fénix.Mientras tanto, Jian Wushuang desapareció.Aunque los feroces ataques de los dos paragones golpearon a estos fénixs bailarines, no golpearon a Jian Wushuang. Uno nopodía verla entre las innumerables sombras.Físico Fénix de las Sombras: esta fue la creación de Li Qiye diseñada para Jian Wushuang.Tenía dos propiedades increíbles.El primero fue su elusividad;En el momento en que aparecieron estos fénix, Jian Wushuang desaparecería.Incluso un paragon no sería capaz de identificar su ubicación."Pluff!" Inmediatamente después de que los dos paragones no lograron aterrizar sus ataques, se desencadenó una flecha.Nadie vio cómo Jian Wushuang apareció justo detrás del Rey Árbol Antiguo.La flecha se convirtió en una formación que generó una lluvia de flechas.Todas estas poderosas flechas apuntaban al Rey Árbol."Pluff!Pluff!¡Pluff! "El Rey Árbol inmediatamente usó su escudo para bloquear eltorrente de flechas y gritó:" ¡Esta pequeña cantidad de poder no puededañarme! ""¡Buzz!" Una flecha cegadora surgió en medio de la acción.El arco verdadero de nueve palabras reunió toda la energía del mundo en este punto.La fuerza de los cien mil kilómetros que lo rodeaban se centró en elmantra "Luchador" y culminó en una flecha suprema que perfora el vacío.La expresión del Rey Árbol se movió rápidamente.Su escudo también se iluminó con una deslumbrante luz divina.Parecía que se crearon capas y capas de defensas.Al mismo tiempo, el Rey Árbol también se desvaneció rápidamente para escapar de esta flecha tiránica."Pluff!" Aunque era muy rápido, todavía no podía evadir esta flecha a tiempo.Le atravesó el hombro cuando desapareció la palabra "Luchador".La flecha portaba una poderosa fuerza.Sin embargo, el Rey Árbol todavía era un paragon.Pudo sobrevivir a esta flecha;la herida en su hombro se cerró como corteza de árbol, sanando su herida."¡Un joven como tú no puede matarme!" Gritó el Rey Árbol. Ser lastimado por un joven era muy humillante en sus ojos.
+
+Muchossintieron un escalofrío después de ver que el Rey Árbol era capaz deresistir el daño infligido por esta flecha: su capacidad desupervivencia era demasiado grande. Incluso si se parara para que un Rey Celestial lo atacara continuamente, ¡no necesariamente podrían matarlo!
+
+El Rey Árbol era un árbol muy raro e iluminado. Aunque no tenía un físico inmortal ni nada, su capacidad de supervivencia era bastante aterradora. ¡Pudo resistir la embestida de poderosos tesoros!
+
+"¡Whoosh!"Justo después de la represalia de Jian Wushuang, un látigo que seasemejaba a una serpiente venenosa apuntaba furtivamente hacia suespalda.Este látigo del Ancestro de rayas negrasllegó sin advertencias, invisible como una serpiente escondida en lassombras, lista para dar un mordisco fatal en cualquier momento.Sin embargo, Jian Wushuang desapareció una vez más entre los fénixes en el cielo.
+
+Cuando ella emergió nuevamente, ella desató la flecha de "Formación". Otra andanada de flechas llenas de intención asesina apuntaron directamente al ancestro.
+
+"¡Joven,cómete esto!" El Rey Árbol pretendía correr hacia adelante y atacar aJian Wushuang por detrás al unísono con el ancestro. Sin embargo, apareció el extraño tintineo del metal. Las leyes universales en forma de cadenas sellaron instantáneamente más de la mitad de su cuerpo. Eventualmente, una serie de flechas se dispararon desde el interior de su cuerpo y sellaron el espacio circundante.
+
+El rey estaba completamente sellado en el cielo.No importaba lo enfurecido que estuviera, no podía quitar esas cadenas que lo ataban en el cielo.
+
+Después de que la flecha "Luchador" de Jian Wushuang le atravesara el hombro, el mantra desapareció.Sin embargo, los efectos no terminaron allí.Jian Wushuang usó las leyes del  arcoverdadero y se infiltró en el cuerpo del rey árbol para poder sellarlo."¡Bang! ¡Bang! Bang! "En el otro lado, el Ancestro de rayas negras se movió extremadamente rápido. Aunquelas flechas indiscriminadas llovieron sobre ella, su látigo como un dragónse balanceó de izquierda a derecha y destrozó todas las flechas que seaproximaban.
+
+"Pluff!" Después de destruir todas las flechas, su látigo apareció justo detrás de Jian Wushuang de la nada. Un resplandor frío brilló cuando fue directamente hacia su espalda como los colmillos de una serpiente.
+
+Las imágenes del fénix aparecieron una vez más para señalar la desaparición de Jian Wushuang.
+
+"Joven, ¡qué tan hábil es esconderte!" La ancestro estaba enojada y alarmada.No podía vislumbrar a Jian Wushuang dentro de las imágenes del fénix.
+
+"¡Pffuff!" Pero después de pronunciar la burla, la sangre comenzó a brotar.Una flecha fue disparada a través de su pecho;nadie vio de dónde vino esta flecha, ¡ni siquiera la Ancestro!Este fue el mantra "Todo", una flecha invisible.Era completamente indetectable y voló sin dejar rastro.Nadie podría darse cuenta de su existencia, y mucho menos detenerla.[1.Anochepasé una buena hora tratando de organizar el mantra de nueve palabrasen una forma comprensible en inglés, pero es virtualmente imposible.Losdos idiomas son muy diferentes, ignorando el hecho de que el mantramismo es abrupto en primer lugar, incluso en la forma original.En retrospectiva, debería haber guardado estos en pinyin.Hubiera hecho la vida mucho más fácil.No tengo una buena solución para las frases completas mientrasmantengo el orden de las palabras, ya que no tendrá sentido en inglés.]"¡Joven, morirás!" La ancestro gritó furiosamente y al instante reveló su verdadera forma: una serpiente gigantesca.Ella abrió la boca y arrojó una gran cantidad de gas venenoso.Instantáneamente se tragó el cielo buscando matar a Jian Wushuang.Incluso la tierra se derritió después de entrar en contacto con la niebla.Esto arrastró a todos;ninguno de ellos se atrevió a acercarse al campo de batalla!La neblina venenosa del ancestro era extremadamente aterradora.Este era su veneno de vida, así que a menos que no hubiera otra forma, ella no lo soltaría fácilmente.Esta niebla no solo era capaz de envenenar a cultivadores poderosos, sino que también podía derretir muchas armas y tesoros.Sinembargo, los himnos de los fénix continuaron sonando y sus imágenescontinuaron cubriendo el cielo dentro de la niebla, sin mostrar rastrode Jian Wushuang.Lo siguiente fue una serie de sonidos de desplume.Más flechas "Todos" dispararon a través del cuerpo del ancestro, provocando que la sangre brote en todas partes.Sin embargo, esto no fue suficiente para matar al ancestro."¡Animal, sal y lucha!" El ancestro se volvió loca bajo el asedio de los ataques furtivos.Apesar de que era muy poderosa, todavía estaba en desventaja contra elFénix de las Sombras y las flechas invisibles de "Todos".¡Una emboscada exitosa vino después de otra mientras ella continuaba fallando en atrapar a Jian Wushuang!Finalmente, a pesar de sangrar en áreas múltiples, ella todavía era un Paragón de la  Era Creciente.No fue tan fácil para un Rey Celestial matarla.La gente se estremeció después de ver esta escena y la aparente brecha entre los dos.Aunquela arquería de Jian Wushuang no tenía rival, no era tan poderosa comoel ancestro, por lo que matarla era una tarea bastante difícil.¡Unparagon solo necesitaba un movimiento para matar a un Rey Celestialmientras que cien cortes  de un Rey Celestial podrían no ser suficientespara matar a un paragon!
+
+Jian Wushuang finalmente apareció de nuevo. Ella empuñó su arco mientras su aguda mirada estaba fija en el ancestro.
+
+El ancestro dejó de escupir niebla y se burló: "Pequeña miserable, finalmente te atreviste a mostrarte. ¡Mientras no te escondas, te haré pedazos! "
+
+Después de escuchar esto, el semblante de Jian Wushuang se volvió frío mientras su intención asesina aumentaba. El arco en su mano se iluminó como un sol ardiente.
+
+"¡Muere!" El ancestro eventualmente lanzó un ataque que podría terminar con los seis daos y suprimir los nueve mundos.Todas las cosas se eclipsarían cuando un paragon desatara su ataque más poderoso."Zzzh!" El himno del arco apareció. ¡Las primeras cuatro palabras del mantra completo parecían formar una frase completa! Luego se convirtieron en una flecha filosa capaz de destruir todas las leyes. Los dioses y los diablos temblarían ante su poder.
+
+Soldados y Luchadores, el poder de esta flecha era indescriptible. ¡Nada podría detener su ímpetu y fuerza destructiva! Parecía que la atmósfera en sí estaba completamente congelada.
+
+"Pluff!" Después de un rato, el aire comenzó a fluir lentamente de nuevo. La flecha sangrienta de las cuatro palabras atravesó la cabeza del ancestro.
+
+En este momento, su ataque más poderoso fue completamente derrotado. Sus ojos se abrieron en shock cuando su enorme cuerpo de serpiente cayó al suelo con un gran golpe.
+
+El mundo se volvió silencioso.Todosquedaron estupefactos porque, aunque nadie entendió esta única flecha,solo pudieron describirla con una frase: ¡su apariencia les hizosaborear la sensación de la muerte!¡Era como si incluso las deidades no pudieran detener esta flecha!

@@ -1,0 +1,43 @@
+---
+titulo: "Capítulo 929: ED  Espada de Dao"
+numero: 929
+novelaId: "48"
+---
+
+La Matrona de Primavera finalmente habló: "Comienza. Si no puedes convertirte en el Antepasado de Sangre, ¡te enseñaremos una buena lección! "
+
+Antes de esto, Li Qiye repetidamente se burlaba de las cuatro e incluso las engañaba. Habían estado deseando enseñarle una lección por un tiempo.
+
+"Pequeña niña, no te preocupes, ustedes no tendrán la oportunidad". Li Qiye sonrió: "Solo prepárate, soy una persona quisquillosa. ¡Ustedes cuatro me han ofendido, así que prepárense para ser mis portadores de palanquines! "
+
+Las cuatro matronas no estaban contentas con esta respuesta. Sin embargo, finalmente lo soportaron y solo fruncieron el ceño.
+
+Li Qiye miró el estanque de sangre y sonrió: "¡El sueño de tantos en millones de años!Mi turno. "Con eso, entró en el estanque.
+
+"¡Boom!". Al entrar en la piscina, todo el estanque de sangre entró en erupción como un volcán.¡Una ilimitada cantidad de sangre ardiente se levantó y se lo tragó entero!"¿Qué está pasando?" Tanto las matronas como los ancestros ​​en la oscuridad se sorprendieron por este desarrollo."¡Ábrete!", Rugió Li Qiye en respuesta.Él abrió su mente y una ley universal salió volando.Esta fue la ley que obtuvo del Domo del Cielo. Esta se dividió a una velocidad increíble.Aparecieron diferentes  runas de dao, más delgadas que los mechones de cabello.Estasrunas de dao similares a la seda atravesaron rápidamente toda lasangre ardiente que surgió del estanque y se integró en ella.Si los riachuelos de sangre ardiente eran hilos de lana, entonces las runas de dao eran agujas.Las agujas de dao parecían estar bajo el control de un par de manos magistrales.Rápidamente se unieron para formar un patrón.Todo el proceso fue demasiado rápido y terminó en un abrir y cerrar de ojos."¡Buzz!" Después de que las runas de dao terminaran de tejer la sangre ardiente, comenzaron a retirarse.Su retirada dio como resultado que toda la sangre formara una gran secuencia de runas.Esta escena hizo que pareciera que las runas de dao estaban tejiendo una gran red de la que luego comenzaron a extraer el fuego.Despuésde hacerlo, el fuego de sangre sin límites se disparó frenéticamentehacia el cuerpo de Li Qiye como si quisiera desgarrarlo."¡Absorber!" Li Qiye gritó y abrió su palacio de destino;Su caldero de la vida saltó.Con una gran explosión, se tragó la sangre ardiente.Parecía insondable y apuntaba a devorar todo el estanque de sangre."¿Cómo, cómo es esto posible?" Todos los espectadores se quedaron sinaliento ante esta escena mientras miraban con incredulidad.Durante decenas de millones de años, muchos discípulos se han sometido al proceso de bautismo de una generación a otra.Sin embargo, todos sus bautismos consistieron en refinar lentamente la sangre.Fue un proceso muy suave como un tipo de entrenamiento.Un intento tan violento como el de Li Qiye nunca había sucedido antes.Además, no sabían que una secuencia de runas como esa estaba escondida en la sangre."¡Rumble!" El estanque e incluso el palacio comenzaron a temblar con la devoración de Li Qiye.Parecía que la secuencia escondida en la sangre ardiente era gigantesca como una red arrojada a un vasto océano.Las runas de dao arrastraron locamente las secuencias como si nunca se dieran por vencidas hasta que obtuvieran la última.Mientras tanto, su caldero de la vida continuó absorbiendo el fuego.¡En solo un corto período de tiempo, Li Qiye drenó el estanque!Sin embargo, no terminó ahí debido al tamaño monumental de la secuencia.Li Qiye había sacado mucho, pero la otra mitad de esta secuencia todavía estaba escondida dentro del estanque de sangre.En este momento, a pesar de los valientes esfuerzos de las frenéticas runas de dao, no pudieron sacar a la otra mitad.Li Qiye gritó: "¡Ábrete!" Un palacio se elevó tras otro.Con una serie de explosiones, los trece saltaron y se alinearon.En este momento, todo se volvió brumoso.Li Qiye había desaparecido junto con el estanque de sangre."¡¿Qué?!¡Esto es imposible! "Todos los ancestros ​​estaban asustados.Incluso las matronas estaban horrorizadas y dieron varios pasos hacia atrás.Para los cultivadores de este mundo, tener doce palacios ya era prácticamente único a lo largo de los siglos;trece palacios eran simplemente inimaginables.Sin embargo, esta visión inimaginable estaba justo ante sus ojos, dejándoles horrorizados.Una persona finalmente apareció desde dentro de la vasta nada; ¡era Li Qiye! Estrictamente hablando, este no era su cuerpo real, era los Cielos Nirvana. Esta figura era aún más aterradora y poderosa que el actual Li Qiye.
+
+"¡Buzz!" Su Cielos Nirvana atacó y selló el mundo. Todos los ancestros y las matronas sintieron la necesidad de postrarse. Ante los Cielos Nirvana, todos los seres temblarían de miedo y reverencia.
+
+En este momento, Li Qiye era el cielo, el gobernante de todos. ¡Era el único soberano del universo y miríadas de reinos!
+
+"¡Boom!" Los Cielos Nirvana arrastraron la mitad restante de la secuencia enterrada debajo del estanque de sangre.
+
+"¡Rumble!" Después de hacerlo, explotó todo el estanque. El estanque inicialmente marchito arrojó sangre aún más ardiente.Sin lugar a dudas, había aún más sangre escondida debajo del estanque.
+
+El caldero de la vida de Li Qiye continuó devorando la sangre.Eventualmente, la sangre fue gradualmente vaciada por su caldero.Al mismo tiempo, las secuencias se habían completado.Se convirtieron en un capítulo celestial completo que era verdaderamente profundo.¡Nadie podía ver a través de él, como si fuera el origen de la miríada de dao en este mundo!"¡¿Esto es ... ?!". Un ancestro se destacó y exclamó después de vereste capítulo completo mientras todos sus compañeros estabanconmocionados.Eventualmente, este capítulo completo zumbó e se imprimió en el caldero de la vida de Li Qiye.Era un grabado eterno, siempre indeleble."Estees un gran sentimiento", dijo emocionado Li Qiye después de devorartoda la sangre ardiente y grabar el capítulo profundamente en su calderode la vida.¡Este sentimiento supremo y confortable hizo que pareciera que estaba controlando la miríada de dao!"Zzz-" En este momento, gruesas leyes universales surgieron del fondo del estanque como serpientes.Li Qiye extendió su mano y el capítulo que estaba impreso en su caldero se iluminó.Estas leyes que se asemejaban a serpientes espirituales nadaron en sus manos y se enrollaron lentamente."¡Dum!" Finalmente, todas las leyes universales se unieron para formar una espada.Esta espada irradiaba un resplandor tan oscuro como la tinta.Sin embargo, con una observación cuidadosa, ¡se vería que estaba hecho de una increíble cantidad de runas de dao!Li Qiye suspiró con la espada en la mano. ¡La miríada de dao estaba en su agarre tiránico!
+
+LiQiye apuntó su espada al cielo y masculló emocionalmente: "Espada de Dao,justo como dicen las leyendas." ¡Con esta espada en su mano, se hizoinvencible a través de los eones!
+
+"¿Qué ...?" Un ancestro perdió la razón y no pudo hablar por un momento. Eventualmente, logró decir: "¡La leyenda, la leyenda es real!"
+
+Todo el mundo estaba asombrado en este momento desde que Li Qiye había secado el estanque. A partir de ahora, ¡el estanque solo sería un pozo seco!
+
+¡No solo obtuvo todo el estanque de sangre sino también el tesorolegendario !Había un secreto dentro del terreno primal; ¡dentro del estanque de sangre descansó el capítulo más profundo y definitivo de su origen!Todoslos ancestros sabían que aquellos que podrían obtener el capítuloserían reconocidos por su progenitor y obtendrían el legado real parasuceder al Antepasado de Sangre.Hoy, Li Qiye no solo obtuvo este capítulo, sino que también obtuvo el elementolegendario. Su terreno primal siempre había codiciado esta espada, ¡pero nunca habían tenido éxito!"¡Clank!" ¡La Espada de Dao volvió a las leyes universales y desapareció en el cuerpo de Li Qiye!
+
+Li Qiye lentamente fijó su mirada en las cuatro matronas y luego en la oscuridad. Preguntó tranquilamente: "¿Creen que estoy calificado para ser si Antepasado de Sangre?"
+
+De repente, todo el palacio quedó en silencio. Incluso las cuatro matronas no tenían nada que decir. Si, por ejemplo, Li Qiye no estaba calificado, entonces nadie más en este mundo lo estaría. ¡Había obtenido todo de la Raza de Sangre, incluido su capítulo de origen y su tesoro legendario!
+
+"¡Pero, pero eres humano!" Después de un largo silencio, un ancestro finalmente habló.
+
+El terreno primal quedó atrapado en un dilema.Permitir que un humano se convirtiera en su Antepasado de Sangre no era adecuado, sin importar cómo lo miraran.

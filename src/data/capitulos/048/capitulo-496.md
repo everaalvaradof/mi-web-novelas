@@ -1,0 +1,53 @@
+---
+titulo: "Capítulo 496: ED  Fama mundial"
+numero: 496
+novelaId: "48"
+---
+
+Sin embargo, al final, Li Qiye solo mató a todos sus enemigos y la Doncella Fénix sufrió una derrota decisiva. Las nubes negras que se cernían sobre la tribu de sombra de nieve se disiparon. Esteestrecho escape hizo que los discípulos de la Sombra de Nieves seexcitaran más allá de las palabras mientras saltaban de alegría.
+
+Qiurong Wanxue, que había estado mirando la pelea desde lejos, se quedó sin habla emocionalmente.De repente, una lágrima goteaba por el rabillo del ojo.Li Qiye no luchó contra tantos por sí mismo, sino también por la tribu de la sombra de nieve.
+
+Mientras tanto, los otros cultivadores humanos también estaban entusiasmados.Uno de ellos no pudo evitar reír locamente y decir: "¡Hahahaha!¡Nuestra raza humana barrerá a todos los enemigos en esta generación y alcanzará el ápice! "
+
+Muchos monjes humanos aplaudieron al unísono y exclamaron entusiasmados: "¡Es cierto!¡De ahora en adelante, hay un genio de nuestra raza que es comparable a los tres héroes del Sagrado Mundo Inferior! "Los que se entristecieron más por el resultado de la batalla tuvieron que ser la raza fantasma.Ser derrotado por los humanos en la Nube Distante del sur era comprensible;después de todo, los humanos tenían poderes formidables allí.Sin embargo, ¡esta fue la frontera inferior del este!Decenas de miles de expertos se unieron para ser aniquilados por Li Qiye al final.Li Qiye había establecido su fama con esta batalla y destrozado el orgullo de la raza fantasma.Losfantasmas siempre se consideraron los gobernantes del Sagrado MundoInferior, especialmente cuando los tres héroes de la generación actualeran tan brillantes.Todos asumieron que el Emperador Inmortal de este mundodefinitivamente sería un fantasma, por lo que miran a las otras razas,como humanos y demonios, con desdén en sus ojos.Pero hoy, Li Qiye barrió a sus enemigos y derrotó a la Doncella Fénix;esto a su vez también golpeó el impulso arrogante del fantasma bastante duro.Podría decirse que la raza fantasma había perdido toda la cara después de esta batalla.Unavez que Li Qiye se reunió con el grupo de Lan Yunzhu, ella dijo con unasonrisa alegre: "Oye, tío, te volverás famoso durante la noche despuésde esta batalla.De ahora en adelante, solo los tres héroes serán comparables a ti ".Li Qiye la miró y respondió: "Chica, realmente estás despreciándome. Poniendo a los tres héroes de la basura en el mismo nivel que yo ... ¿Quién crees que soy? "
+
+A pesar de su actitud prepotente, el anciano Zhi y los otros discípulos de la sombra de nieve no creían que se jactaba.
+
+Lan Yunzhu lo miró furiosa y luego dijo juguetonamente: "Oh, tío, ¿no sabes que la humildad es una virtud? Solo un poco de alabanza y ya está sobre su cabeza, ¿no tienes vergüenza? "
+
+LiQiye se echó a reír y luego le dijo a Qiurong Wanxue: "Vuelve ycontrola la situación, tus discípulos necesitan un jefe para cuidarlos".
+
+Qiurong Wanxue era demasiado emocional para hablar mientras sus ojos se volvían llorosos.Al final, ella solo habló suavemente: "Gracias".El grupo de seis de Peng Zhuang miró a Li Qiye.Al principio, pensaron que solo era un cultivador humano ordinario.Noesperaban que Li Qiye eventualmente atravesara el mundo y se uniera almismo nivel que los tres héroes, por lo que se sintieron orgullosos dehaber conocido a Li Qiye.Peng Zhuang le dio un pulgar hacia arriba y dijo: "Joven Noble, no, Gran Jefe, ¡eres realmente invencible!¡Eres tan increíble!"Losseis no pudieron evitar enorgullecerse de haberse hecho amigos de LiQiye, caminando hombro con hombro con él durante su tiempo juntos.Las existencias como los tres héroes eran personas que pequeños personajes como ellos solo podían admirar.Despuésde agradecer a Li Qiye, Qiurong Wanxue rápidamente llevó al grupo dePeng Zhuang y al anciano Zhi a la Tribu de sombra de nieve.Después de haber sobrevivido a esta tormenta, los discípulos aúnestaban ansiosos y necesitaban a Qiurong Wanxue para dirigir elespectáculo.Despuésde que ella se fue, Lan Yunzhu le dijo a Li Qiye: "El grupo de Maestrosllegará mañana a más tardar, ¿abrirá la Primera Tumba Ominosa en estemomento?"Li Qiye negó con la cabeza y respondió: "No, no tengo prisa en este momento. Aprendí mucho y debo reflexionar sobre ello. Tengo una nueva perspectiva sobre las batallas y tal vez pueda crear una técnica invencible ".
+
+Estabatalla sangrienta refinó todo lo que Li Qiye había aprendido y loscombinó, especialmente sus Mil Manos contra los Nueve Mundos, habíaalcanzado una nueva cúspide. La semilla de una ley demérito supremo se había formado en su cabeza, por lo que necesitabatiempo para tratar de comprender los frutos de esta batalla.
+
+"Vigilaré por ti". Lan Yunzhu no dijo nada más e inmediatamente preparó un lugar seguro para él. Ella actuaría como su protector de dao.
+
+Como Lan Yunzhu había dicho, Li Qiye se hizo famoso durante la noche de esta batalla.Sufama se extendió por la frontera norte y se convirtió en un temacandente para muchos cultivadores, especialmente para aquellos quevieron la batalla con sus propios ojos.Estas personas tuvieron la oportunidad de volver a contar los eventos de una manera grandilocuente.Feroz LiQiye: este título resonó en todas partes en un corto período de tiempocon una magnitud atronadora no menor a las historias de los tres héroes.
+
+"¡Feroz Li Qiye es el orgullo de nuestra raza humana!" Algunos cultivadores humanos incluso crearon un eslogan para él.
+
+Mientras la gente estaba discutiendo esta batalla, también había otro asunto a tener en cuenta: la Primera Llave Ominosa. Fue difícil evitar este problema cuando Li Qiye fue mencionado.
+
+"¿Cuándo Li Qiye abrirá la Primera Tumba Ominosa?" Nadie se atrevió a preguntarle directamente, por lo que solo podían especular.
+
+Sin embargo, la gente esperaría hasta que abriera la tumba. Después de la batalla, incluso más personas de varias sectas fueron y acamparon justo afuera de la Primera Tumba Ominosa. En cuestión de días, una multitud de grupos de todo el mundo acamparon en este lugar, esperando que Li Qiye abriera la tumba.Querían seguirlo adentro, pero si alguien tenía algún éxito o no dependía de su propia fortuna.
+
+La noticia de que se abriría la tumba era trascendental y se extendió rápidamente por todo el Sagrado Mundo Inferior. Un sinnúmero de linajes enviaron expertos y maestros a la frontera inferior.
+
+Incluso pequeñas sectas y cultivadores vagabundos se apresuraron aquí de inmediato sin importar el costo.
+
+La Primera Tumba Ominosa estaba llena de tentación sin límites para los cultivadores sagrados. Elmétodo legendario para la vida por siempre, las Medicinas Rey y losElixires inmortales, tesoros antiguos y artefactos sagrados, cualquierade estas creaciones dentro de la tumba allanaría el futuro camino decasi cualquier persona.Muchas sectas y clanes recluidos salieron después de escuchar las noticias.Incluso enviaron un mensaje para informar a sus maestros.El río Carpa Milenaria fue una de las primeras sectas en llegar a la Primera Tumba Ominosa.En el momento en que llegaron, se vio una enorme carpa nadando en elhorizonte sobre los nueve cielos como un dragón que crea ondas de olas."Elrío Carpa Milenaria está aquí, ¿es para respaldar a Li Qiye?" Muchassectas se mostraron muy cautelosas al ver a los Daoístas Bao Gui y losotros ancianos con sus majestuosas energías de sangre.El río Carpa Milenaria había recorrido con orgullo el Sagrado Mundo Inferior con una sonrisa durante mucho tiempo debido a su poder sustancial.Ayer,la batalla de Li Qiye podría considerarse un desafío para la razafantasma, así que hoy, cuando el daoísta Bao Gui trajo consigo a muchosexpertos, probablemente no fue por la primera tumba ominosa sino quele prestó ayuda a Li Qiye.Tal vez la secta del río quería decir al Sagrado Mundo Inferior que era un linaje que nadie debía subestimar ni despreciar.El Daoísta Bao Gui y los ancianos rápidamente llegaron a ver a Lan Yunzhu justo después de que llegaran.El viejo daoista estaba un poco preocupado y preguntó: "¿Cómo está Joven Noble?"Después de escuchar el desafío de Li Qiye al mundo, el viejo daoísta quedó bastante sorprendido. No solo trajo a los ancianos, sino que incluso invitó a un ancestro para que lo protegiera.
+
+"Élestá bien y está en un cultivo aislado en este momento". Lan Yunzhuinformó sobre la situación de Li Qiye a su maestro y a los ancianos.
+
+Después de escuchar su informe, el antiguo daoísta se sintió aliviado y conmocionado. Incluso un anciano de la secta del río no pudo evitar murmurar: "Verdaderamente formidable. Sercapaz de matar a tantos enemigos solo ... No es de extrañar por qué elpatriarca eligió a Joven Noble para ser nuestro Guardián ".
+
+El venerable Yang elogió: "Nuestro Río de la Carpa Milenaria es una secta con dos genios. Yunzhu ya es lo suficientemente brillante, y ahora también tenemos a alguien como Joven Noble. ¡Estoes más que suficiente para competir contra los gustos de Di Zuo por laVoluntad del Cielo! "Él ya sabía que el árbol de los sueños escogió a LiQiye por una razón, así que ahora que Li Qiye mostraba su talento, eramuy optimista.Los ancianos estaban bastante entusiasmados. Colocaron grandes esperanzas en Lan Yunzhu; aunqueella, como la descendiente de la secta del río, no barrió el mundo comoDi Zuo, ella había cultivado la ley secreta a una edad temprana y podíacomunicarse con la Voluntad del Cielo. Los ancianos creían que, en el futuro, Lan Yunzhu no sería más débil que Di Zuo, Tian Lunhui y Chan Yang.
+
+Ahora,con la adición de un genio que desafía al cielo como Li Qiye, el río carpa milenaria se volvió aún más seguro de competir por la voluntad delcielo. Una secta con dos genios era bastante rara.
+
+A la secta del río no le importaba que viniera de la lejana Nube distante del sur hasta este lugar. Mientras tanto, las otras sectas de la Frontera Inferior también se habían congregado justo afuera de la tumba. Entre ellos, la llegada del trono Miriada de Huesos fue especialmente grandioso."¡Boom!"Con una explosión ensordecedora, una montaña divina que se parecía a unacorona imperial cayó de repente justo fuera de la Primera Tumba Ominosa. Una energía inmortal rodeaba esta montaña divinacon débiles celestiales a su alrededor como si esta montaña fuera el centrodel cielo y la tierra.
+
+"¡Incluso la montaña ancestral está aquí!" Al ver aparecer esta montaña divina, muchas personas se sorprendieron.Cualquier persona e incluso cualquier secta sentirían temor y horror frente a esta montaña ancestral.

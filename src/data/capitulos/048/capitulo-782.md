@@ -1,0 +1,53 @@
+---
+titulo: "Capítulo 782: ED  Derrota Aplastante"
+numero: 782
+novelaId: "48"
+---
+
+Esta pregunta hizo que el alquimista contemplara por un momento.Elgrupo se reunió de nuevo para otro intercambio y finalmente, elalquimista reflexionó: "En nuestra opinión, muy conservadora, Paragones Virtuosos no deberían usar esta medicina de la longevidad.Al menos uno debe tener el nivel de existencia eterna para usarlo, o de lo contrario sería demasiado desperdicio "."¿Cuántos años ganará un Monarca Dios?" Una voz vino desde el lejano terreno ancestral del Reino Alquimista.Estas palabras conmocionaron a la multitud.Sin lugar a dudas, incluso el reino que era conocido por tener el  mejor dao de alquimia tenía un Monarca Dios que fue tentado por estamedicina."Como ya he dicho, para un Monarca Dios que nunca ha tomado medicinasde la longevidad, debería poder aumentar su vida de seiscientos a setecientosaños". El alquimista respondió.En realidad, esta era una idea imposible.Aquellos que habían alcanzado el reino de Monarca Dios ya habrían tomado innumerables medicinas de la longevidad.Incluso podría decirse que este tipo de medicina era completamente inútil para ellos."Esta es una Fruta de Longevidad de alquimia que nunca hemos visto antes.Haciendoreferencia a los registros anteriores, nuestro cálculo conservador paraun Monarca Dios que está tomando este tipo de medicina por segunda vezes de cuatrocuentos a quinientos años porque se trata de una fruta delongevidad, la forma definitiva.Si es la tercera vez, entonces es difícil de decir.Tal vez cien años, o tal vez solo setenta a ochenta años. "El alquimista explicó en voz baja."¿Qué pasa si es la quinta vez?" Otra voz antigua vino del terreno ancestral.No hace falta decir que otro Monarca Dios codiciaba este lote medicinal.Después de todo, una Fruta de Longevidad de alquimia era extremadamente rara.Incluso para el reino, solo tenían una persona capaz de refinar tales medicinas.Sin embargo, había dejado de refinar las píldoras desde hace un tiempo."Hmm ... no tenemos respuesta para esto". El alquimista habló: "Dehecho, hasta ahora, pocas personas han tenido la oportunidad de usar una Fruta de Longevidad de alquimia"."Parael quinto uso, tres años más no es ningún problema". Cuando losalquimistas de aquí no pudieron encontrar una respuesta, Li Qiye dijotranquilamente: "Desafortunadamente, mi medicina de longevidad no está ala venta para ustedes".Todos se callaron después de escuchar a Li Qiye. ¡Todos sabían que él y el Reino Alquimista eran como fuego y agua y entendían por qué no iba a vender su medicina al reino!
+
+El Monarca Dios no respondió. ¡Sabía que abrir la boca solo provocaría una mayor humillación!
+
+"Unamedicina especializada para Monarcas Dios ..." Un ancestro de unafamilia antigua preguntó: "Joven Noble Li, ¿cuál es el precio de estamedicina? Solo fija un precio ".
+
+Unospocos grandes ancestros se emocionaron y salivaron cuando lospensamientos sobre este tipo de medicina surgieron en sus mentes. Aunque no serían ellos quienes lo usarían, tenían ancestros aún más poderosos en casa.
+
+Li Qiye tranquilamente dijo: "¿Cuál es la prisa? La apuesta aún no ha terminado ".
+
+Estos ancestros no se atrevieron a decir nada después de que estas palabras salieron a la luz. El refinamiento de la medicina de longevidad de Li Qiye los había asombrado. Querían pedirle más ayuda, ¡así que no se atrevieron a ofenderlo!"Ahora bien, ¿quién es el vencedor?" Li Qiye miró al alquimista de pelo blanco.El alquimista palideció y ya no pudo mantener su actitud sobresaliente.Parecía que su alma había dejado su cuerpo, lo que resulta en un estado lento.Esto fue un gran golpe para él.En realidad, ni siquiera se preocupaba por su vida en ese momento, ¡tal derrota era demasiado difícil de aceptar!Siempre había sido un hijo orgulloso del cielo, un genio de la alquimia.Aunqueno era tan hábil como Yuan Caihe en lo que respecta al cultivo deplantas o Cao Guoyao en el refinamiento de las píldoras, se considerabaintocable en las medicinas de la longevidad entre las generaciones másjóvenes.¡Tenía la confianza suficiente para desafiar a los Alquimistas legendarios de la generación anterior!Sin embargo, había sufrido una derrota completa en el campo en el que se destacó.Su única advertencia imperial fue suficiente para que se enorgulleciera y quedó muy satisfecho con ese resultado.Sin embargo, Li Qiye refinó una medicina que tenía cuatro advertencias.Tal golpe era insoportable y simplemente destrozó su orgullo.Perderante el poder de Li Qiye hubiera estado bien, ya que incluso los EmperadoresInmortales perdieron cuando eran jóvenes, y ni hablar de él.Sinembargo, perder ante Li Qiye en el refinamiento de la medicina de lalongevidad estaba más allá de su tolerancia porque era su mejor área,¡su fuente de orgullo!¡Esta derrota destrozó por completo su confianza!"¿Por qué dios me dio a luz después de crearte a ti?" El alquimista empalidecido miró a Li Qiye con ojos tristes; su confianza estaba completamente agotada.
+
+Este rápido cambio de mentalidad de la confianza a la nada lo dejó en la desesperación.
+
+Li Qiye simplemente se encogió de hombros: "¿No es esta la naturaleza de la vida? Siempre hay una montaña más alta, un horizonte más amplio, un hombre más grande ".
+
+"Yaveo ... Un horizonte más amplio y un hombre más grande ..." Elalquimista se rió entre dientes con una mirada triste: "Li Qiye, erescapaz. Acepto mi pérdida hoy. ¡Este Dios Alquimista del Pelo Blanco puede permanecer fiel a sus palabras incluso en la derrota! "
+
+Habiendo dicho eso, su cuerpo se estremeció, la sangre goteando desde las comisuras de sus labios.
+
+Finalmente, cayó directamente cuando sus ojos se cerraron lentamente.No hubo quejas;no tenía miedo a la muerte, ya que se había convertido en una forma de alivio para él."Qué lástima." Li Qiye sacudió ligeramente la cabeza mientras miraba el cuerpo del alquimista. De hecho, si el alquimista hubiera aceptado su pérdida antes, Li Qiye lo habría perdonado. En su opinión, este alquimista era mucho más agradable que Cao Guoyao.
+
+Desafortunadamente, el alquimista era aún más orgulloso que Cao Guoyao y no podía manejar la derrota. Él prefería la paz de la muerte al inclinarse ante Li Qiye.
+
+Mucha gente suspiró emocionalmente mientras la escena permanecía en silencio. El Mundo de la Medicina de Piedra había perdido a un gran alquimista.
+
+"Elorgullo excesivo conduce a la muerte de uno". Un viejo alquimista suspiró suavemente: "Hay momentos en que incluso los emperadores pruebanla derrota, entonces, ¿por qué apostar con tu vida?"
+
+Muchos aquí todavía veían al alquimista como un genio extraordinario a pesar de perder. Todos sabían de su actitud arrogante, y muchos no le gustaban cuando estaba vivo.Era demasiado difícil llevarse bien con él.Sin embargo, después de perder la vida, incluso  a los que no le gustaba el se sentían tristes.El mundo había perdido a un gran alquimista.Después de un período de silencio, un gran ancestro tuvo quepreguntar: "Joven Noble Li, ¿está a la venta su medicina de longevidad?"De hecho, Ming Yexue también quería comprar este lote de medicinas para el Monarca Dios en su secta.Sin embargo, ella no dijo nada, ya que entendió que solo le haría las cosas difíciles a Li Qiye.Li Qiye tomó los dos lotes de medicina porque la parte del alquimista se había convertido en su botín de victoria.Luego negó con la cabeza como respuesta a la pregunta del ancestro :"No me preguntes sobre esto, deberías estar preguntándole a Hada Yuan".Unavez dicho esto, le entregó las medicinas a Yuan Caihe: "Losmateriales eran del Jardín Sereno, por lo que estos dos lotes tambiénpertenecen al jardín.Tómelos, depende de usted si vender o no ".Yuan Caihe dudaba un poco, pero bajo el suave e insistente asentimiento de Li Qiye, finalmente aceptó los dos lotes."Hada Yuan, ¿están a la venta? Simplemente diga el precio. "Muchos ancestros estaban felices después de ver el cambio de propietarios. Esto se debía a que muchos grandes poderes tenían relaciones amistosas con el Jardín Sereno. Además, Yuan Caihe era una persona muy amable. Comprarle a ella sería mucho más fácil que comprarle a Li Qiye.
+
+YuanCaihe anunció a los ancestros codiciosos: "Caballeros, en aras de lajusticia, las medicinas se confiarán a la casa de subastas más grandedel Mundo de la Medicina de Piedra. El mejor postor se irá a casa con ellos ".
+
+Algunos estaban felices, mientras que otros estaban preocupados después de escuchar esta decisión.Unospocos se fueron inmediatamente para regresar a sus sectas para quepudieran decirle a sus superiores que preparen fondos suficientes parala próxima subasta extraordinaria.
+
+"Nos vamos." Li Qiye subió a su carruaje para regresar a su habitación.
+
+No mucho después de su regreso, muchas personas vinieron a visitar.No faltaron personajes de nivel ancestro entre ellos.Era comprensible para tantas sectas e incluso ancestros visitar. Con la muerte del alquimista de pelo blanco, Li Qiye se había convertido en el nuevo prodigio de la alquimia. ¡Además, su habilidad de refinamiento de la medicina de longevidad era incluso mejor que la del alquimista de pelo blanco!
+
+¿Qué linaje no quería tener una buena relación con un genio como Li Qiye? Esto fue especialmente cierto para los ancestros. Esperabanestablecer lazos de amistad con Li Qiye, ya que eventualmente buscaríansu ayuda para refinar las medicinas cuando llegara el día en que lasnecesitaran.
+
+Li Qiye deja que la señora vea a las sectas visitantes. De acuerdo con su plan, el estatus del País Bambú Gigante se volvió mucho más prestigioso.
+
+Estohizo que otros se dieran cuenta de que para pedirle ayuda a Li Qiye enla refinación de medicinas, deben establecer vínculos con el País Bambú Gigante.Si la señora pudiera pronunciar una buena palabra para ellos, entonces la situación cambiaría por completo.La interminable sucesión de invitados continuó por los próximos días. Finalmente,Li Qiye impidió a la señora ver a más invitados y anunció su sesión decultivo a puerta cerrada junto con una nueva línea limítrofe en la base de lamontaña. A nadie se le permitió escalar la montaña para molestarlos.
+
+Nadie se atrevió a armar un escándalo acerca de este enfoque. Por el momento, todos querían que él refinara las píldoras, entonces ¿quién querría enojarlo?
+
+Lo que es más, comprendieron que Li Qiye no era el mismo que antes.Con una palabra, ¿Cuántas personas estarían dispuestas a ayudarlo?Debido a esto, ¿quién querría ofenderlo?

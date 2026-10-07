@@ -1,0 +1,55 @@
+---
+titulo: "Capítulo 379: ED  Pueblo Recuerdo Altísimo"
+numero: 379
+novelaId: "48"
+---
+
+El Sagrado Mundo Inferior y el Mundo del Emperador Mortal son dos de los Nueve Mundos.Si el Mundo del Emperador Mortal era el hogar ancestral de la raza humana,entonces el Sagrado Mundo Inferior fue el origen de la raza fantasma.Dehecho, si los seres humanos se originaron o no del Mundo del EmperadorMortal todavía estaba en debate, pero desde el comienzo de la EraDesolada, los humanos habían estado en ese mundo y comenzaron susexploraciones.Después de innumerables esfuerzos de muchos sabios, finalmente se arraigaron en ese mundo como la raza más fuerte.Hoy en día, si el Mundo del Emperador Mortal era el origen de la raza humana ya no importaba a sus habitantes.El único asunto pertinente era que se había convertido en el terrenoancestral para las generaciones humanas a partir de ese momento.Sinembargo, el Sagrado Mundo Inferior era diferente, ya que sus habitantesfantasmales estaban seguros de que este lugar era su origen.Porsupuesto, ciertas tribus fantasmas llamaban a este mundo el MundoInmortal Fantasma porque preferían llamarse FantasmasInmortales , ¡perolos forasteros seguían llamándolos la raza fantasma!Dado queeste mundo fue el origen de la raza fantasma, tal vez la gente pensaríaen ella como un lugar infestado de energía de las tinieblas (aqui sería energía inferior pero no creo que sea eso, asi que lo dejare como energia de las tinieblas). Sin embargo, la realidad era que esto era completamente falso. El Sagrado Mundo Inferior era un lugar con hermosos paisajes, al igual que el Mundo del Emperador Mortal. Había una cantidad interminable de montañas y ríos que vale la pena explorar.
+
+Ni siquiera los miembros de las tribus fantasmas tenían toda su energía de tinieblas. Dehecho, había muchas razas fantasmas diferentes con característicasúnicas, pero los forasteros las generalizaban todas como una razafantasma unificada para distinguirlas de la raza humana, la razade sangre y otras.
+
+Sólo un puñado de tribus tenía un aura más débil, mientras que otras no eran tan diferentes de los humanos comunes. Luego, hubo también algunos que tenían cuerpos físicos y no eran realmente fantasmas. La mayoría de las tribus fantasmas eran como los seres humanos - sus generaciones futuras estaban compuestas de su descendencia.Los dos mundos eran similares en que eran extremadamente extensos. Había cuatro dominios en el Sagrado Mundo Inferior; al este estaba la frontera Inferior, el sur era la Nube Distante, el oeste era el Río Verde, y el norte era el Campo Brumoso. Estos cuatro lugares fueron llamados los cuatro desolados. 1
+
+Aunque el origen de la raza fantasma estaba situado en el Sagrado Mundo Inferior, no estaban unificados en este lugar. Éste era apenas como el Mundo del Emperador Mortal, donde los seres humanos eran la mayoría mientras que todavía había otras razas.
+
+Era lo mismo para el Sagrado Mundo Inferior. Laraza fantasma era la mayoría, pero también vivían otras razas, como loshumanos, los demonios, la raza de sangre y los golems de piedra ...
+
+Sin embargo, la Frontera Inferior, el Río Verde y el Campo Brumoso fueron los lugares donde se reunieron los fantasmas.Las pocas fuerzas de las otras razas eran muy débiles en estos tres desolados.Sin embargo, fue diferente en la Nube Distante. Losseres humanos, los demonios, los golems de piedra, y otros eranextremadamente poderosos en este desolado así que la raza delfantasma no podría gobernar sobre esta parte del mundo.
+
+Como una de los cuatro desolados, la Nube Distante era inmensa, con innumerables habitantes de diferentes razas viviendo juntos. También estaba llena de numerosos cultivadores y linajes como carpas en ríos.
+
+Las sectas más débiles eran demasiado abundantes para contar, y las grandes potencias eran también todo en este dominio.
+
+Sin embargo, uno debe hablar de un cierto linaje en la nube distante, y era el Río Carpa Milenaria.No era un río, era una secta que gobernaba sobre un país muy poderoso que se extendía por decenas de millones de millas.En este lugar, el Río Carpa Milenaria era absolutamente un linaje grande y aterrador. Fue creado por el Emperador Inmortal Qian Li y se había mantenido fuerte desde su creación. Inclusoen un lugar donde la raza fantasma reinaba suprema, todavía era difícilpara alguien sacudir una existencia como el Río Carpa Milenaria.
+
+El Río Carpa Milenaria siguió al dao demoníaco porque las leyendas afirmanque su progenitor, el Emperador Inmortal Qian Li, era un demonio quetuvo éxito en el camino del cultivo.A pesar de esta creencia, el emperador había sido siempre un misterio, incluso durante su propia época.2
+
+Algunoscreían que el emperador era una carpa, otros pensaban que el emperadorera un dragón ... Algunos incluso creían que el emperador era un pezcapaz de saltar sobre la puerta del dragón para finalmente convertirseen un emperador inmortal.Con todo, había una variedad de teorías sobre el Emperador Inmortal Qian Li. Pero,por supuesto, se limitaban a simples rumores y leyendas, porque elemperador era uno de los emperadores inmortales más misteriosos inclusodurante su propia generación. Nadie sabía del origen del emperador, de su hogar, o incluso si el emperador era hombre o mujer. 3
+
+Despuésde decenas de millones de años, muchas personas trataron de resolvereste misterio elusivo, pero el más importante era si el emperador erahombre o mujer!
+
+Incluso la respuesta a la pregunta más simple del sexo del emperador permanecía desconocida. Eracomo si el emperadorinmortal Qian Li estuviera envuelto en niebla yfuera incapaz de ser visto por otros habitantes mundanos. El emperador desapareció en el río del tiempo junto con todos sus secretos.Tal vez sólo el emperador sabía las respuestas a todas estas preguntas, y sólo el emperador sabía su verdadero sexo!No importaqué, a pesar de ser envuelto en una miríada de misterios, una cosa erasegura, y esto era que el emperador cultivó el dao demoníaco antes definalmente convertirse en un Emperador Inmortal. En cuanto al tipo de demonio que era, los descendientes sólo podía adivinar.
+
+El Pueblo Recuerdo Altísimo, también conocido como Distrito Recuerdo Altísimo, era un lugar tranquilo. No era ni grande ni pequeño y tenía varios cientos de aldeanos. Sin embargo, muchos grandes personajes vinieron de este pueblo. Algunos tenían gran fama y algunos eran generales en el mundo de los mortales. Algunos eran incluso inmortales cultivadores a los ojos de la gente común. Incluso entre estos cultivadores, algunos resultaron ser personajes sorprendentes.
+
+Sinembargo, no importa cuántos grandes personajes vinieron de este pueblo,se mantuvo sin cambiar como un pueblo eternamente tranquilo. La aparición de estos personajes no pudo romper la paz de este pequeño pueblo.Aligual que la Escuela Río Eterno, no importa quién iba y venía,ellos no podían afectar al Pueblo Recuerdo Altísimo.Esteera un buen lugar para aquellos que buscaban paz y tranquilidad, unlugar como el Jardín de los Melocotones de la Inmortalidad.4
+
+Era como si hubiera una fuerza invisible que protegiera a este pueblo, una fuerza que no permitía que nadie perturbara su paz.
+
+Esta pequeña aldea presidió dentro del Río Carpa Milenaria con su aspecto particularmente ordinario.
+
+Sinembargo, la casa del viejo jefe de la aldea había sido muy turbulentaporque había ocurrido un fenómeno inquietante dentro de su casa.En el Sagrado Mundo Inferior, el dominio de la raza fantasma, sería tonto hacer un escándalo sobre los fantasmas.En este mundo, por no hablar de los cultivadores, incluso los mortales ordinarios no creían que había fantasmas en este mundo. Sien realidad hubo fantasmas sobrenaturales, y si eran como la razafantasma, entonces no eran tan diferentes en comparación con los sereshumanos, por lo que los mortales nunca tendrían miedo de tal cosa.
+
+Sin embargo, cosas extrañas habían estado sucediendo en el patio trasero del viejo jefe del pueblo. Una sombra espantosa se desplazaría hacia adelante y hacia atrás regularmente, sin importar si era de noche o de día. Aquellos que eran más cobardes eran fácilmente asustados de su mente en tal vista.
+
+Parecíaque un joven fantasma estaba atormentando el patio del viejo jefe de laaldea, pero su grupo no podía describir su figura exacta. En resumen, era una sombra joven, pero esta sombra no tenía sustancia verdadera.Voló como una existencia etérea en el patio trasero del viejo jefe del pueblo.Este fantasma inquietante era absolutamente una vista para el par del marido y de la esposa. Habíanvivido por mucho tiempo, así que para ellos, los humanos y losfantasmas eran los mismos, pero esto realmente hizo que su casa sevolviera más viva. Por lo menos, los aldeanos visitarían su casa para mirar a este fantasma.
+
+Sin embargo, los otros aldeanos todavía intentaron convencer a la pareja para realizar un rito de paso para este fantasma. Conrespecto a este tipo de consejos, el viejo anciano del pueblo dijo conuna sonrisa: "Este fantasma esta simplemente vagando por nuestro patiotrasero y no está cometiendo ninguna mala acción. Un día, naturalmente se aburrirá y se marchará."
+
+"Viejo Yang, este no es el caso. ¿Quién realmente entiende estos fantasmas? Talvez un día, le hará daño a alguien, ¿qué vamos a hacer entonces? "Unapersona en el pueblo trató de persuadirlo con buenas intenciones."-Ah, cierto ¿no es tu pequeña niña la que estudia en el Río Carpa Milenaria? ¿Por qué no vuelve ella a echar un vistazo? Con sus habilidades, dar a un pequeño fantasma un paso pacífico no debería ser difícil. "Otro aldeano se le ocurrió una idea.
+
+Porfin, el viejo jefe del pueblo no podía manejar todos los consejos delos aldeanos, por lo que sólo podía ir al Templo de la Gran Sabiduríajusto fuera del pueblo para invitar al abad que preside el templo,Monje Dazhi. 5
+
+Según los aldeanos, Monje Dazhi era un monje con una sabiduría budista ilimitada, pero unoestaría gravemente equivocado si lo imaginaban como un monje con lascejas largas y una barba blanca.Él era un monje muy joven - sólo alrededor de la edad de veinte. Su cabeza era lisa y reflexiva y tenía dos filas torcidas de tres marcas de ordenamiento. Al ver lo torcidos que quedaban, la gente se preguntaba si sus marcas eran reales o no.
+
+Los ojos de Monje Dazhi eran muy brillantes, y siempre tenía una sonrisa en su rostro.Cuandoestaba de pie ante el público, esta sonrisa parecía ser amable ycompasiva, pero cuando nadie estaba prestando atención, la sonrisa sehizo un poco ruín.¡Daría a otros la impresión de que era un ladrón!1-Desolace no es una palabra, pero debe serlo!2-     Qian Li = Mil carpas.3-Lo siento por usar "el emperador" tanto, pero no sabemos si EL EMPERADOR es una ella o un él ...4-Un lugar de los inmortales.5-     Dazhisignifica Gran Sabiduría, así que el título del monje es también eltítulo del templo, pero llamarlo Monje Gran Sabiduría es un poco raro?

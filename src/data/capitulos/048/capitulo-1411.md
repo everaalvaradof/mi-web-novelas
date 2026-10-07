@@ -1,0 +1,41 @@
+---
+titulo: "Capítulo 1411: ED  Cresta del Árbol Divino"
+numero: 1411
+novelaId: "48"
+---
+
+Ye Xiaoxiao respondió con burla: “Por favor, Rey Ego, deja de pensar tan bien de ti mismo todo el tiempo. Preferiría casarme con un perro o un gato al azar antes que tú ". [1]
+
+Él rió y dijo: "Bien, ve a casarte con un perro entonces".
+
+"¡Tienes un problema!" Ella enojadamente rechinó los dientes antes de pisotear el pie una vez más mientras lo miraba ferozmente.
+
+Li Qiye la retuvo con una mano y dijo: "Está bien, pequela niña, pórtate bien ahora. Iremos a la Cresta del Árbol Divino".
+
+"Vamos, entonces, ¿crees que tengo miedo?" Ella murmuró antes de escapar de su apretón.
+
+"Está bien, vamos." Continuó adelante.
+
+"¿Qué vamos a hacer allí?" Ella lo siguió apresuradamente como un niño inquisitivo.
+
+Él sonrió y respondió: "Un poco de observación".Sus ojos se iluminaron enseguida: "¿Está saliendo un tesoro? ReyEgo, no hay forma de que vayas a la cresta sin ningún motivo "."¿Quién dice eso?No puedo ir allí para disfrutar de los paisajes? "Él sonrió misteriosamente."Bah, nunca confiaré en tus mentiras". Ella resopló y pareció pegarse a él.Dondequiera que el fuera, ella estaría justo detrás de él ya que deseaba ver su objetivo al ir a la cresta.Él sonrió y continuó hacia su destino con Xiaoxiao justo detrás de él.La Cresta del Árbol Divino era uno de los doce cementerios, uno en el mismo nivel que el Mar de Hueso en Espíritu del Cielo.Sin embargo, no era tan peligroso como su contraparte.Algunos incluso dijeron que fuera de la meseta funeraria budista, la cresta era el lugar menos peligroso.De hecho, todos estos cementerios eran peligrosos.La cresta podría parecer segura, pero eso era solo un velo.Era peligroso como cualquier otro.El dúo llegó rápidamente y sintió que el aire que soplaba en sus caras cambiaba.Los recién llegados descubrirían que el gran aura de Godhalt provenía de la Cresta del Árbol Divino.Esta aura era tan ilimitada como un océano.Más importante aún, se puede encontrar una gran cantidad de fuerza vital aquí.Laspersonas sentirían como si estuvieran bañándose en su energía encualquier esquina de la cresta, lo que resultaría en una sensaciónindescriptiblemente placentera.Independientemente de cuán cansado, débil o viejo sea, todo sería diferente mientras esté parado en esta tierra.La fatiga sería barrida, el débil se haría más fuerte, y el viejo se sentiría más joven ..."Sila gente no supiera que esto era un cementerio, ¿quién lo pensaríarealmente después de venir aquí?" Xiaoxiao se paró en un pico y tomó unarespiración profunda y relajante.Su cuerpo estaba inmerso en esta fuerza vital como si estuviera bañándose en un océano.Era cómoda y llena de vitalidad ...Li Qiye simplemente sonrió y miró hacia la aldea debajo de la cima.Sus ojos se volvieron bastante profundos.Si alguien pudiera ver el lugar en el que se encontraban estos dos, ciertamente se sorprenderían.Esta era una gran cordillera con picos ondulantes llenos de exuberante vegetación y vida.Por supuesto, una gran cordillera con muchos picos se vería normal, incluso cuando fuera a gran escala.Por desgracia, era diferente aquí en la Cresta del Árbol Divino porque estagran cordillera no estaba situada en el suelo, sino que estabaclavada en el suelo.Imagínense, una cordillera que se extendía por miles o incluso decenas de miles de kilómetros estaba boca abajo.Los picos se insertaron en el suelo mientras que la base apuntaba directamente al cielo de una manera inimaginable.Además, había más de una cordillera como esta que cruzaba la Cresta del Árbol Divino.Con esta perspectiva en mente, ¡las cordilleras parecían ramas de un gran árbol que echa raíces en la tierra!Una escena tan espectacular estaba fuera de este mundo y solo se podía encontrar en la Cresta del Árbol Divino.Cualquier cultivador que venga aquí quedaría asombrado por esta vista.Durantemillones de años, las personas han explorado la razón de este diseñogeográfico, pero nadie podría llegar a una respuesta concreta.Por supuesto, hubo numerosas especulaciones.Uno declaró que la cresta en sí fue creada por la fusión de un árbol gigantesco y la tierra que resultó en esta escena mágica.Algunos no estaban de acuerdo con esta creencia.Su versión era que en una era imposible de rastrear, había una guerra entre inmortales.¡En el gran firmamento, un inmortal desarraigó una cordillera tras otra y las usó como lanzas contra sus enemigos!A partir de ese momento, estos picos fueron clavados en este lugar.De cualquier manera, era imposible sacar una conclusión exacta ya que nadie podía dar una respuesta definitiva.En Espíritu del Cielo, la gente decía que había tres grandes razas: los espíritus encantadores, los treants y los demonios del mar.Sin embargo, algunos creían que había cuatro, ¡el último era el marchito!Por supuesto, no todos estuvieron de acuerdo con esta afirmación.Consideraban que los marchitos no eran existencias vivientes, por lo que no podían ser una raza.El marchito era una raza que solo se encuentra en la Cresta del Árbol Divino y también es la única que podría habitar en esta tierra.Era impensable que la gente viviera en uno de los cementerios.Por supuesto, esa era la razón por la cual las personas también los consideraban cadáveres.El dúo fue a la aldea debajo del pico anterior.Era una aldea de buen tamaño con solo unas cien personas.El humo de las ollas estaba volando con pollos y perros haciendo ruido, una vida de simplicidad.Tal aldea ordinaria podría encontrarse en todas partes en Espíritu del Cielo.Si no fuera habitada por los marchitos, entonces el único factordistintivo entreesta aldea en particular y las otras aldeas sería suarquitectura.
+
+Todos los edificios aquí tenían una sensación áspera.Todos fueron hechos con pragmatismo en mente y carecían de cualquier tipo de decoración.Se remonta a los días prehistóricos.Todo tipo de criaturas en la era distante también hicieron lo mismo.Era como si los marchitos compartieran el mismo estilo de vida.No entendieron ni apreciaron el arte y la belleza;¡Todo tenía que ser de naturaleza práctica!"¿Qué tipo de raza es el marchito?" Xiaoxiao se volvió curioso.Él la miró y le preguntó: "¿Has estado aquí tanto tiempo pero todavía no has visto su transformación?"Ella preguntó con confusión: "¿Qué quieres decir con transformación?"
+
+Él sonrió y respondió: "Eso es una vergüenza. Su transformación es un proceso muy interesante. Si tenemos una oportunidad, definitivamente iremos para que puedas verla ".
+
+“¿Qué es este proceso? Solo dímelo ya." Ella estaba insatisfecha y lo fulminó con la mirada.
+
+Apesar de que ha estado aquí por un tiempo, la mayor parte de su tiempose dedicó a saciar su adicción al robo, así que, ¿cómo podría importarleotras cosas?
+
+"Te llevaré allí cuando se presente una oportunidad". Sonrió y continuó bajando.Xiaoxiao no estaba feliz, pero no había nada que pudiera hacer más que seguirlo.
+
+No llegaron demasiado lejos antes de ser detenidos.Era un joven cultivador y obviamente un espíritu encantador.Sin embargo, emitió un débil resplandor que lo diferenciaba de los espíritus encantadores ordinarios.Le hacía parecer un poco santo.“¡Ustedes dos, deténganse!” Él inmediatamente les gritó con un tono agresivo y arrogante.
+
+Esto oscureció la expresión de Xiaoxiao. Ella era la hijadoradade la isla. Normalmente, nadie se atrevería a hablarle así.Mientras tanto, Li Qiye sonrió; La presa ha llegado a su puerta.
+
+Aquellosque lo entendieron empezaron a temblar después de ver esta sonrisa, yaque eso significaba que alguien estaba a punto de ser realmentedesafortunado.
+
+Desafortunadamente, este espírituencantador no tenía ni idea y mantuvo su actitud dominante: "¿Han vistoustedes dos un tesoro que parece un monstruo? Es casi así de alto con un par de ojos de buey ”. Hizo un gesto para expresar la apariencia del monstruo.
+
+[1] Perro o gato al azar es la frase.También significa personas al azar o don nadie y lleva desprecio.La razón por la que lo mantuve en esta forma es para que la siguiente oración tenga sentido.Más de 200 Capítulos de ED avanzados en elpatreony aumentando cada día.. Para consultas pueden comunicarse con nuestro equipo por whatsapp al +56976572857

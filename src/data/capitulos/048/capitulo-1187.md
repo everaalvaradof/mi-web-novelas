@@ -1,0 +1,41 @@
+---
+titulo: "Capítulo 1187: ED  Calamidad"
+numero: 1187
+novelaId: "48"
+---
+
+Dentro de la vid había un vasto mundo de raíces gigantescas y circulares. Algunos se elevaron hacia el cielo para alcanzar cerca de las nubes ...
+
+Cascadas descienden desde arriba con pilas de lodo tan altas como montañas. Algunas raíces verdes intrincadamente retorcidas para parecer monstruos gigantescos.
+
+Deslumbrantes destellos brillaban en todo el cielo, como si muchas estrellas colgaran allí.
+
+Sihubiera una diferencia entre los mundos internos del Árbol PavoReal y el Árbol Vid Celestial, sería que las raíces aquí eran mucho máspoderosas y llenas de vida. Las estrellas de arriba también fueron más brillantes.
+
+Teng Jiwen notó la luz estelar arriba y preguntó: "¿Son esas estrellas?"
+
+El Antepasado Girasol y el señor de la ciudadela levantaron sus cabezas también ya que no sabían la respuesta.
+
+"Esasson Estrellas de Edad". Li Qiye las miró y explicó: "El oscurecimientode estas Estrellas de Edad significa el momento de marchitarse.Es como los anillos de vida de un árbol: significan cuánto tiempo le resta al árbol para vivir ".Teng Jiwen continuó observando el cielo.Había demasiadas estrellas hasta el punto de que eran innumerables.Sin embargo, no fue difícil encontrar que algunas de ellas eran significativamente más oscuras que sus pares.Teng Jiwen dio un suspiro de alivio después de ver las innumerables estrellas.El antepasado y el señor de la ciudadela se sentían de la misma manera.Las abundantes estrellas significaban que su vid ancestral aún teníauna larga vida útil, siempre y cuando Li Qiye se hiciera cargo de lacalamidad.Después de una larga búsqueda, finalmente encontró la raíz principal.Era enorme y gruesa.Pararse ante esta era lo mismo que pararse frente a un acantilado.Se puso de pie en una posición particular para mirar por encima todo antes de hablar: "Aquí mismo".El resto del grupo miró para encontrar un pequeño agujero.Dentro había una brizna de hierba de unos tres centímetros de alto.No había nada que justificara ninguna atención.Era de color verde claro con un tono blanco debido a la falta de luz solar.Sinembargo, después de una inspección más cercana, esta no era una pequeñabrizna de hierba, sino pequeñas partículas invisibles a simple vista.Estas pequeñas partículas verdes se unieron para formar un arco eléctrico verde que parecía una hierba pequeña."¿Por qué es así?" La expresión del antepasado cambió después de ver esto, lo que le obligó a respirar profundamente.
+
+"Esta es la calamidad de nuestra vid ancestral?" Tanto Teng Jiwen como el señor de la ciudadela también se sorprendieron.
+
+Ensus mentes, sus ancestros habían estado indefensos por generaciones acausa de ello, por lo que al menos debería ser una existenciaaterradora y peligrosa. Imaginaron que esta calamidad tendría el cuerpo de un diablo con una sonrisa demoníaca. Cada hebra de su aura podría quemar todo en este mundo.
+
+¿Quién hubiera pensado que esta pequeña brizna de hierba era realmente la calamidad agonizante de su vid ancestral?
+
+"Podemos sacar algo como esto con una mano", espetó Teng Jiwen, pero de inmediato se dio cuenta de que estaba equivocado. Si eso fuera posible, ¿por qué los ancestros no lo hicieron antes en lugar de esperar durante generaciones? ¿Eran estos ancestros invencibles más débiles que un joven?
+
+"Entonces puedes intentar sacarlo". Li Qiye sonrió.El señor de la ciudadela se dio cuenta de que su discípulo había elegido las palabras equivocadas.No solo ofenden a Li Qiye, también insultan a todos los ancestros generacionales, incluido el antepasado ante ellos.Intentabadiligentemente suavizar las cosas: "Señor, bueno, mi pequeño discípuloes ignorante sin ningún sentido de la corrección.Él no ve qué peligroso ...Li Qiye gentilmente agitó su mano para interrumpirlo: "No es nada, no estoy enojado con él.Él puede seguir adelante e intentarlo una vez para comprender la situación ".Con eso, Teng Jiwen miró a su maestro.El señor, en este momento, estaba indefenso y no podía hacer otra cosa que asentir.De hecho, también quería ver qué tipo de habilidad tenía esta pequeña brizna de hierba.Teng Jiwen respiró hondo y avanzó para tomar la hierba para sacarla.Sin embargo, antes incluso de tocarla, sus manos comenzaron a temblar;él ya no se atrevió a hacerlo.La razón era muy simple: esta era la calamidad de su vid ancestral.¿Qué tan aterrador y peligroso era esto?Si la tocó, ¿no sería lo mismo que tirar su vida?"Relájate, tirala". Li Qiye, naturalmente, podía decir lo que estaba pensando y sonrió: "Estoy aquí, no te dejaré morir".Con esta garantía, Teng Jiwen se calmó y finalmente tomó una decisión.Después de apretar los dientes, alcanzó la hierba una vez más."Bzzz-" Sin embargo, en el momento en que su mano tocó la hierba, se produjo una serie de crepitantes relámpagos.La hierba se dispersó en innumerables partículas que desaparecieron en la raíz principal.Todo el proceso dio la sensación de que algo proliferaba en la raíz principal con extrema velocidad.Nadie podría reaccionar a tiempo, y mucho menos atrapar esas diminutas partículas."¿Qué está pasando?" Los maestros y discípulos estaban perdidos.En este momento, todas las raíces, independientemente de su tamaño eneste mundo, tenían pequeñas luces parpadeando y crujiendo dentro deellas.Debidoa las muchas raíces aquí que estaban estrechamente unidas ocompletamente tejidas como una sola, surgió un arco de rayos cuandotodos ellos destellaron juntos. Esta llegó tan rápido como un rayo antes de desaparecer al instante.Aunque las luces individuales no eran brillantes, todas ellas apareciendo juntas era otra historia.Este mundo se iluminó por completo con cada crujido.Fue un proceso impactante como un sol explotando; era bastante difícil mantener los ojos abiertos en medio de esta luz. ¿Quién podría imaginar que esta era una escena creada por estos pequeños destellos?
+
+La oscuridad se produjo poco después. Este cambio repentino fue bastante difícil para acostumbrarse.
+
+Teng Jiwen eventualmente se calmó y preguntó con horror: "¿Qué es esto?"
+
+"La calamidad". El antepasado respiró hondo y respondió: "Ha invadido cada raíz de la vid ancestral. Una vez que reúna suficiente poder, exprimirá la vid ancestral hasta que no quede nada ".
+
+Teng Jiwen se estremeció. Cada raíz que constituía la fundación de su ciudadela estaba infectada.
+
+Li Qiye comentó despectivamente: "Es porque todos lo aplazaron por mucho tiempo.Los innumerables años le dieron esta oportunidad ".
+
+Los otros solo pudieron suspirar.Nunca pensaron que escalaría a este nivel.El señor de la ciudadela no pudo evitar preguntar: "La vid ancestral es invencible, ¿por qué no puede aplastar esta calamidad?"LiQiye se rió entre dientes y señaló hacia el cielo para decir: "¿Sabesqué tipo de existencia está reprimiendo a tu ancestro?¡Es ese ladrón, los altos cielos!Volver y echar raíces en esta tierra ya va contra él.Situ ancestro se rebelara, provocaría una represión suprema queinstantáneamente convertiría el árbol en cenizas a menos que hubieraalguien tan fuerte como un Emperador Inmortal ayudando a detener estecastigo celestial.¡De lo contrario, el implacable ataque tanto desde dentro como desde fuera no es algo que este pueda soportar!""En lugar de convertirse inmediatamente en cenizas, es mejor vivir unavida prestada y esperar a que los jóvenes expulsen la calamidad". Miróal Antepasado Girasol después de decir esto.El viejo rostro del antepasado se puso rojo cuando tosió.Esta situación fue culpa de ancestros como él.Tenía que admitir: "Todo se debe a nuestra incompetencia.No pudimos ayudar a nuestra vid ancestral y pensamos que la calamidad había sido sellada con éxito "."Bzzz-" Un pequeño crujido resonó en el cuerpo de Teng Jiwen.Las luces débiles surgieron de su cuerpo en forma de partículas brillantes.De repente fue envuelto en esta capa de rayos."¿Qué está pasando?" Estaba asustado después de ver esto.Tratóde apartar las partículas de su cuerpo, pero antes de que pudieratocarlas, las partículas se dispersaron de inmediato y penetraron en sucuerpo.Más de 10 capítulos de ED hasta el 1199 en elpatreony aumentando cada día.

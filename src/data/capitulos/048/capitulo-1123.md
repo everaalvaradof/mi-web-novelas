@@ -1,0 +1,45 @@
+---
+titulo: "Capítulo 1123: ED  Yéndose"
+numero: 1123
+novelaId: "48"
+---
+
+"No te emociones demasiado, respira profundamente primero". Bu Lianxiang habló en serio después del grito de Li Qiye. Continuó vertiendo la fuerza de dao más pura en el cuerpo de Li Qiye.
+
+Li Qiye respiró hondo y calmó sus emociones. Lo que más le entusiasmó no fue obtener la Escritura del Espacio sino derrotar a los monjes en el templo.
+
+Por supuesto, ganar usando la fuerza no era digno de tanta emoción. Pero ahora, usó su dharma para derrotar a los monjes allí. Además, era una prueba en la Escritura de la Nihilidad, lo que estos monjes entendían más.
+
+Con la ayuda de la fuerza de dao de Bu Lianxiang, Li Qiye se recuperó bastante rápido.
+
+"Jejeje, jefe, ¿lo tienes ahora mismo?" Pequeño Otoño lo miró emocionado.
+
+Li Qiye miró hacia atrás y se rió: "¡Por supuesto! Desde que vencí a esos monjes, la Escritura del Espacio está naturalmente en mis manos ahora "."¿La escritura del espacio?" Bai Jianzhen se quedó sin aliento.No especificó lo que estaba buscando antes de venir aquí para desafiar a los monjes.Pero ahora, ella estaba bastante sorprendida de escuchar esto: "¿Unade las Nueve Grandes Escrituras Celestiales de las leyendas?""Sí, eso es". Li Qiye asintió.Las chicas se miraron una a la otra.Bai Jianzhen fue la más asombrada. La Escritura del Espacio, un artefacto mítico que el mundo pensó que no existía.Las nueve escrituras eran deseadas incluso por emperadores inmortales,pero hoy, Li Qiye había obtenido una de estas escrituras legendarias.Ella murmuró: "La leyenda dice que el Emperador Inmortal Hao Hai también obtuvo las Escrituras del Espacio en el pasado".Este fue su malentendido.Debido a que el emperador había estado aquí antes, ella asumió que la Escritura del Espacio fue dejada atrás por él."Paraser exactos, solo obtuvo una porción muy pequeña de las Escrituras,solo un capítulo". Li Qiye dijo sonriente: "La Escritura del Espacio enel Templo de la Nihilidad no tienen nada que ver con él".De hecho, el emperador realmente quería la Escritura del Espacio después de llegar al Templo de la NIhilidad en ese entonces.Por desgracia, perdió la apuesta."Heh,nadie ha visto la verdadera Escritura del Espacio desde hace millones deaños." Pequeño Otoño sonrió y mostró su conocimiento: "Cuando el joven Emperador Inmortal Hao Hai trepó al Árbol del Mundo en aquel entonces,encontró un rollo dejado porlos antepasados ​​que contenían técnicas de la Escritura del Espacio "."En cuanto a la Escritura del Espacio en el Templo de la Nihilidad, tiene un origen aún mayor desde que nació por el orden natural.Esun elemento supremo en este mundo ". El gusano prosiguió:" Porsupuesto, cuando decimos que nadie lo ha visto antes, estamos hablandode la Era Desolada hasta ahora.Dehecho, en las eras imposibles de rastrear, una existencia suprema la había encontrado y la había cultivado a un nivel insondable.Delo contrario, no habría Mundo del Diablo Imperial Menor, este fue unlugar creado de la nada ... "Pequeño Otoño estaba muy bien informadosobre la Escritura.La razón por la que sabía tanto se debía a que su maestro quería el libro en aquel momento.Como un Dios Verdadero, desafió al Templo de la Nihilidad, pero desafortunadamente terminó en su fallecimiento.ChenBaojiao preguntó con curiosidad: "La escritura ha estado en el templode la Nihilidad durante tanto tiempo, ¿nadie más ha intentado cultivarla?"LiQiye sonrió y negó con la cabeza: "Para los monjes del Templo dela Nihilidad e incluso para toda la meseta, las leyes de mérito ytécnicas,incluidas las Escrituras del Espacio, carecen de importancia.Estas cosas no importan, solo necesitan a Buda en sus corazones "."Con Buda en sus corazones, lo tendrán todo". Li Qiye continuó: "Son eternos en este sentido.Es una creencia lo suficientemente fuerte como para que nada más valga la pena "."Eldharma en la meseta funeraria budista es un hechizo embrujador, unopodría incluso llamarlo un arte maligno". Añadió la callada BaiJianzhen.Parece que tenía una opinión bastante negativa sobre el dharma de la meseta.Li Qiye solo sonrió y no hizo ningún comentario en respuesta."Jejeje, jefe, ¿qué pasa con la olla rota?¿La conseguiste también?" Pequeño Otoño miró a Li Qiye y sonrió.Li Qiye lo miró con un ojo y dijo: "Si obtuviera esa olla, ¿seguirías parado aquí ahora mismo?Toda la meseta estaría en caos en este momento si ese fuera el caso "."Eso es verdad". El gusano se rascó la cabeza y dijo: "Aizz, qué vergüenza, dejar esa olla suprema a esos burros calvos" [1.No me preguntes cómo un gusano se rasca la cabeza, pero de nuevo, ahora es más un dragón, ¿verdad?]Li Qiye lo miró con frialdad en respuesta: "Incluso si tienes las manos en la olla, ¿podrías manejarla?Te volverías loco en menos de tres días "."Bueno ..." El gusano se frotó las palmas juntas por la vergüenza.Sabía que Li Qiye estaba diciendo la verdad.Nadie podría resistir la olla.Sin suficiente fuerza de voluntad, su maestro se volvería loco de inmediato.Desde tiempos inmemoriales, solo existencias increíbles como Di Shi podrían manejar el poder de la olla y controlarla."¿Qué es esa olla rota de la que hablan?" Li Shuangyan tenía curiosidad.Los escuchó hablar sobre eso muchas veces, pero Li Qiye nunca reveló qué era la olla.Li Qiye dijo insípidamente: "Olla de la Miriada de Pensamientos"."Olla de la Miriada de Pensamientos!" Mei Suyao fue sacudida mientras murmuraba: "La leyenda es verdad.¡La meseta realmente oculta uno de los Nueve Grandes Tesoros Celestiales! "La expresión de Bai Jianzhen cambió: "Pensé que no existían ..."Su punto de vista era el mismo que muchos otros.Li Qiye sonrió un poco: "¿Cómo puede haber humo sin fuego?Muchas cosas se convierten en leyendas por una razón ".Las chicas no pudieron evitar mirar el Templo de la Nihilidad nuevamente.¿Quién hubiera pensado que un templo de aspecto tan humilde en realidad estaba ocultando la Olla de la Miriada de Pensamientos?Bai Jianzhen se dio cuenta de algo y murmuró para sí misma: "Así queel Emperador Inmortal Hao Hai vino aquí por laOlla de la Miriada de Pensamientos ..."Li Qiye negó con la cabeza y dijo: "Tal cosa no es tan fácil, incluso para los Emperadores Inmortales.Además, obtenerlo no es necesariamente algo bueno.Hay muchos tesoros en este mundo, y no todos son beneficiosos para quienes los obtienen ".Las chicas estaban en silencio.Los nueve tesoros celestiales no eran cosas con las que se atrevían a soñar."Jejeje,jefe, ya que has obtenido la Escritura del Espacio, ¿ hehehe, quieres enseñarme un par de movimientos?" Pequeño Otoño estaba babeando en estemomento.Li Qiye lo miró y dijo: "No te preocupes, te enseñaré un par de movimientos, pero no me decepciones. Sino te esfuerzas más por fortalecer tu línea de sangre, es mejor que tecuides a ti mismo o te desterraré por una eternidad ".
+
+Como un gusano Atraviesa Espacio, Pequeño Otoño tenía una línea de sangre muy rara. Tenía una ventaja sin paralelo en la comprensión espacial. En otras palabras, Pequeño Otoño nació como un genio con respecto al espacio.
+
+Sin embargo, le encantaba jugar y no podía realmente aprovechar su línea de sangre natural.No fue hasta después de que hicieron un viaje al Árbol del Mundo que su línea de sangre finalmente saltó hacia adelante.
+
+"Jejeje, jefe, no te preocupes. Solo di la palabra y entrenaré día y noche para no defraudarte.Enunos pocos años, me convertiré en el maestro del espacio ..." Pequeño Otoño dio unas palmaditas en el pecho y expresó su promesa.
+
+Li Qiye solo lo miró brevemente antes de ordenar: "Vamos, nos vamos"."¡Jefe, espéreme!" Pequeño Otoño rápidamente lo persiguió justo como un perrito lindo.
+
+Li Qiye no solo quería abandonar el templo de la Nihilidad, sino que también quería abandonar el mundo menor. Hizo todo lo que quería hacer aquí, por lo que ya no buscó nada más.
+
+Antes de irse, volvió a mirar al mundo menor una vez más.
+
+"Adiós, Mundo Diablo Imperial Menor. En el futuro, no existirás más. "Li Qiye suspiró.
+
+Tales palabras sorprendieron a las chicas. Chen Baojiao tuvo que preguntar: "¿Por qué dices que el mundo menor ya no existirá más?"
+
+"En esta generación, el mundo menor se convertirá en ceniza". Li Qiye respondió lentamente."¿Ese monje realmente va a tomar medidas?" Bu Lianxiang sabía más que el resto y también estaba bastante sorprendida.
+
+LiQiye asintió suavemente y la miró: "Sí, así que si los restos de tuContinente Medio se van ahora, todavía hay una posibilidad".
+
+"Una vez que uno entra en la meseta, uno siempre será monje". Bu Lianxiang dijo: "No es como si no supieras esto".
+
+Li Qiye suspiró de nuevo. Él naturalmente entendió esta lógica.
+
+"¿Quépasa con los cultivadores oscuros y los soldados imperiales que todavíaestán aquí?", Murmuró Li Shuangyan mientras miraba al mundo menor.
+
+"En cenizas." Li Qiye gentilmente suspiró. Él no quería quedarse más tiempo y se dio vuelta para irse.

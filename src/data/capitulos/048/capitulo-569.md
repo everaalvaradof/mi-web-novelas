@@ -1,0 +1,47 @@
+---
+titulo: "Capítulo 569: ED  Muerte de Di Zuo"
+numero: 569
+novelaId: "48"
+---
+
+Cuatropalacios para formar un dominio, ocho para formar un reino y doce paraformar los cielos: esta frase había sido transmitida durante muchotiempo, pero nadie había visto el espectáculo de doce palacios formandoel cielo.
+
+Pero en este momento, muchos pudieron presenciar este milagro.
+
+En este momento, Li Qiye era un gobernante inmortal adorado por las otras deidades. En el cielo, él era la existencia suprema y nada más importaba. ¡Incluso los inmortales deben postrarse y declararse sus súbditos leales!
+
+Esta escena fue demasiado impactante; era como si ya estuviera por encima de la Voluntad del Cielo a pesar de tener aún que cargar con ella. En este momento, él estaba en la cúspide de todas las existencias.
+
+Todas las leyes de mérito y las artes secretas se volvieron insignificantes y débiles. Los cielos creados a partir de los doce palacios ya eran la ley de mérito más fuerte; doce palacios eran más que suficientes para representar todo.¿Qué arte oley de mérito podría ser más desafiante para el cielo que tener los propios cielos? Todas las leyes y dao estaban debajo de los cielos.Li Qiye, con su propio cielo, estaba más allá de la imaginación de nadie. Esto no se pudo describir con meras palabras.
+
+"Finalmente logró abrir el duodécimo palacio". Murmuró Lan Yunzhu.Sabía que, tarde o temprano, él podría hacerlo, pero no esperaba que ese día llegara tan rápido.
+
+"¡Los cielos de doce palacios!" La boca del daoísta Bao Gui se secó después de ver el cielo sobre la cabeza de Li Qiye.En este momento, él y los ancestros de las grandes potencias estaban completamente pálidos por el asombro.Nadie sería capaz de detener el ascenso de Li Qiye;ni Di Zuo ni Tian Lunhui podrían hacerlo.
+
+"¡Es hora de terminar con esto!", Dijo Li Qiye con una sonrisa.No había técnicas o leyes ya que el cielo de Li Qiye era suficiente.Una vez que extendió su influencia, nada podría impedir su camino."¡No!", Exclamó Di Zuo con expresión sorprendida, pero no tenía poder.
+
+"¡Boom!". Quedó impresionado cuando la sangre brotó por todas partes, haciendo palidecer su expresión. El dao Afotico había sido completamente reprimido por el cielo de Li Qiye sin ningún esfuerzo. Todo se volvió insignificante; ¿Qué era más fuerte y más alto que los cielos?
+
+La supresión del cielo hizo que todos respiraran profundamente al sentir que sus espinas se congelaban.Cualquiera se rompería en un sudor frío mientras miraba esta escena.
+
+Todos sintieron que el dao Afotico de Di Zuo era extremadamente aterrador.Cualquiera moriría seguro cuando se encontrara con tal dao.
+
+Sin embargo, se volvió tan débil y tenue y fue completamente suprimido ante el cielo de Li Qiye.Di Zuo estaba aturdido. Él sabía que su dao era el mejor, que era la razón por la que estaba siendo llevado a la locura. ¡Él no quería perder de esa manera!
+
+"¡Te ordeno que te abras!", Exclamó Di Zuo locamente mientras decidía arriesgarse.
+
+"Clakkkk-"En este momento, el sonido pesado de la apertura de una puerta apareciócuando la Sangre de longevidad de Di Zuo tiñó de rojo la puerta doradaque estaba detrás de él.
+
+Una luz dorada llenó el mundo una vez que se abrieron las puertas. Una sombra salió de la puerta.Esta era una sombra invencible que despreciaba todas las existencias mientras temblaban ante ella.Esta sombra era tan poderosa que hizo que todos los espectadores palpitaran como si hubiera llegado un Emperador Inmortal.
+
+Al llegar, utilizó un impulso invencible para atacar a Li Qiye.Las estrellas se oscurecieron con este ataque imperial."Incluso el tú del futuro es inútil, ¡sin mencionar el hecho de que no tendrás futuro!" Li Qiye rugió en respuesta.Estaba completamente despreocupado de la sombra opresiva.En este segundo momento, él era la encarnación imparable de la invencibilidad.Su voluntad fue la voluntad de los cielos.El peso de su mano era la carga insoportable del firmamento."¡Boom!" La sombra invencible se rompió bajo la mano gigantesca de Li Qiye.Contra la voluntad absoluta y la fuerza aplastante del cielo, nisiquiera la intención de batalla de Di Zuo del futuro era inútil."¡Pop!". La mano de Li Qiye golpeó el cuerpo de Di Zuo, lo ensangrentó y lo barrió.Todos sus huesos se hicieron añicos, y ya no tenía la fuerza para defenderse.Li Qiye lo agarró rápidamente antes de tocar el suelo.La cara de Di Zuo estaba mortalmente pálida mientras él mismo no tenía ninguna voluntad de resistir.Li Qiye lo tomó por el cuello y lentamente le preguntó: "Ahora, ¿tienes alguna última palabra?"Lamente de Di Zuo regresó de su ausencia momentánea cuando cerró los ojosy dijo: "Haga su movimiento, no tengo nada que decir". En este punto,él permaneció impávido y todavía tenía una actitud elegante.Di Zuo fue de hecho Di Zuo; la muerte no era nada para él.
+
+"¡Espera!" El ancestro del Trono Miriada de Huesos gritó con horror desde la Montaña Ancestral.
+
+"¿Asi que? ¿Esnecesario que nosotros, los viejos, participemos también? "Una vozdébil respondió de inmediato desde el ataúd divino de la secta del río.
+
+"Monarca-Dios Azure, esa no es mi intención". El Ancestro de Trono de Huesos forzóuna risa y dijo en serio: "Compañero Daoista Li, suelta a nuestrodiscípulo y podemos hablar de cualquier condición. Definitivamente cumpliremos sus demandas ".
+
+Este ancestro quería salvar Di Zuo ya que no era fácil entrenar a un descendiente. DiZuo tenía el mayor potencial en el trono de huesos, por lo queincluso si no se convirtiera en un Emperador Inmortal, sus logros aúnserían bastante grandes. Sus talentos y su aptitud física eran el tesoro más preciado del trono. Debido a esto, no importa lo que sucedió después, el ancestro esperaba salvarlo.
+
+"Eso es un poco interesante", Li Qiye dijo lentamente mientras miraba a Di Zuo.Pero en este momento, Di Zuo abrió los ojos y sacudió la cabeza para decir: "No, Ancestro, déjame ir. He dejado caer a los ancestros y al trono Miriada de Huesos.Me disculpo por mi derrota hoy ".Un anciano salió de la Montaña Ancestral y respondió con un aura majestuosa: "No, niño.Ganar y perder son parte de la vida;¿Qué tiene de devastador perder una batalla?¿Quién ha estado realmente invicto desde el principio de los tiempos?Ni siquiera los emperadores inmortales reclamarían tal cosa.Su logro de hoy ha sido increíble y no menos que cualquier logro de los jóvenes emperadores.¡Está bien perder una vez! ""No, Ancestro.Micorazón está muerto. "Di Zuo sonrió amargamente y continuó:" Esto no setrata solo de perder una vez, realmente me he vuelto impotente.¿Cuál es el sentido de vivir temporalmente en este mundo sin convertirse en un Emperador Inmortal?Ancestro, no soy filial y he cometido un error para el trono, así como para los mayores que me cuidaron.Es mejor dejarme morir con dignidad que vivir avergonzado.¡Ancestro, por favor entiérrame con la Doncella Fénix en la montaña, eso es suficiente para mí!"La expresión del ancestro cambió mucho.Él entendió que su discípulo quería morir y que no era solo por una batalla perdida.Fue porque Di Zuo no pudo superar a Li Qiye.Un genio como él no podría manejar esta realidad;fue un dolor peor que el fracaso!Yasea que quisiera morir para encontrarse con la Doncella Fénix nuevamente oporque nunca sería capaz de superar a Li Qiye, era mejor morir ahoraque vivir en agonía.Su última elección no fue la vergüenza de perder una sola batalla contra Li Qiye.El ancestro solo suspiró y lentamente cerró los ojos.Sabía que su discípulo era el mejor y ya no trató de convencerlo.Al final, este ancestro volvió silenciosamente a la Montaña Ancestral.En este momento, todos permanecieron en silencio.Aunque Di Zuo había sido derrotado, había perdido de manera brillante y era digno de orgullo.Nadie sintió que esto era vergonzoso.De hecho, pensaron que era asombroso que lograra perseverar durante tanto tiempo.Nadie más podría hacer lo mismo.Un sentido de respeto por Di Zuo se levantó en este momento.Si él era un enemigo o amigo, él era un genio supremo y un rival digno.Di Zuo volvió a cerrar los ojos y habló con gravedad: "Hazlo.No tengo nada más que decir sobre mi propia falta de habilidades ".LiQiye lo miró y lo soltó antes de decir despreocupadamente: "Si tucorazón está muerto, entonces te dejaré tener una muerte digna.Termínese usted mismo ".Di Zuo se enderezó y abrió los ojos.Respiró profundamente para echar una última mirada al mundo antes de volver a cerrarlos.Sin ninguna vacilación o falta de voluntad, el cuerpo de Di Zuo seestremeció cuando la sangre goteó desde las comisuras de su boca antesde caerse directamente.El mundo estaba en silencio;un orgulloso hijo del cielo se había suicidado.Este final causó que otros se lamentaran."¿Es hora de terminar esto?" Li Qiye estaba de pie al lado del estanque mientras miraba a todos los demás a su manera pausada.Esta vez, sin embargo, nadie respondió, ni siquiera la raza fantasma.Ningún jovenfantasmapodía competir con Li Qiye después de que Di Zuo había perdido, ni siquiera Tian Lunhui.Solo los ancestros ​​tuvieron una oportunidad, incluso los reyesfantasmas del nivel del Rey Celestial probablemente no podríanenfrentarse a Li Qiye.Finalmente, con un estruendo fuerte, el Trono Miriada de Huesos se llevó el cadáver de Di Zuo.En un abrir y cerrar de ojos, la Montaña Ancestral desapareció de los ojos de todos.

@@ -1,0 +1,59 @@
+---
+titulo: "Capítulo 316: ED  Sólo usar una mano contra dos expertos"
+numero: 316
+novelaId: "48"
+---
+
+En este momento, el Señor Real de Rugido de León quedo en un aturdimiento.Incluso Chi Xiaodao, que estaba mentalmente preparado, se sorprendió.Sólo Chi Xiaodie se mantuvo en calma y respiró hondo.Por otra parte, Sikong Toutian sentía que este era el flujo natural de los acontecimientos;estaba muy temeroso de Li Qiye y pensaba que Ba Xia y Hu Yue eran maníacos suicidas.El señor real estaba allí, sin habla.Oyóa su hija diciéndole que Li Qiye era extremadamente poderoso, perosentía que no importaba lo poderoso que estuviera, el reino de SerIluminado era su límite.Sin embargo, después de ver a Li Qiye enviando lejos a los dos genios hoy, no lo creería si no lo viera con sus propios ojos."¡Retumbar!"Dos explosiones rugieron desde debajo de la tierra plana.Hu Yue y Ba Xia eran como dos estrellas que caían al ser derribadaspor Li Qiye de la Puerta Rugido del León , creando finalmente dos enormespozos."¡Quésucedió!" Este repentino acontecimiento hizo que muchos cultivadores delos campamentos cercanos salieran corriendo de sus viviendas y miraranalrededor para averiguar qué estaba pasando.Muchas personas quedaron horrorizadas después de ver a Hu Yue y Ba Xia ser golpeados lejos. Especialmente, la generación más joven; estaban rendidos en incredulidad.
+
+Alguien perdió la calma y gritó al notar que Li Qiye salía colapsando de la Puerta Rugido de León: "Li Qiye!"
+
+De repente, todos volvieron la mirada hacia él. Los más jóvenes no podían quedarse quietos dentro; todos salieron corriendo a ver, incluyendo a los estudiantes de la academia.
+
+Ba Xia y Hu Yue fueron los genios más excelentes en las Cien Ciudades del Este de hoy. BaXia tenía lanatural Física Tiránica - uno de los veinticuatro Físicos Rey, y él cultivó la Ley de Física Inmortal Tiránica menor que define al País Santo . El rumor dice que él hizo un cierto progreso con su físico, así que otros eran muy cuidadosos de sus habilidades.Con elcultivo de Ba Xia, si su físico estaba en realización menor , entonces podríamasacrar a los Santos Antiguos tan fácilmente como voltear la palma dela mano. Si este no fuera el caso, entonces la gente noelogiaría una gran realización de física inmortal como algo que podríadetener incluso a los emperadores inmortales.
+
+Hu Yue no era más débil que Ba Xia; se rumorea que se convirtió en un Ser Iluminado de Cinco Celestiales hace mucho tiempo. La sangre extremadamente misteriosa del dios tigre también fluía dentro de su cuerpo.
+
+En este punto, su revés - causado por Li Qiye - creó una conmoción enorme y nadie podría soportar perder este espectáculo.
+
+Todoslos genios diabólicos del Salón de la Era Sagrada también se derramaron,incluyendo el descendiente del Acantilado del Dragón Durmiente y el Saint Child de la Montaña Majestuosa del Cielo (creo que antes se había mencionado pero no se si le puse el mismo nombre).El príncipecelestial Qing Xuan también vino a observar a Li Qiye desde lejos conun par de ojos sin emociones mientras estaba envuelto en una nieblaazul. La última vez, en la Cima Infestada del Mal, perdió y casi murió ante Li Qiye. Después de varios años, se hizo mucho más fuerte que antes, pero la humillación todavía lo perseguía.
+
+Hu Yue y Ba Xia se elevaron hacia el cielo. En un instante, uno fue a bloquear a Li Qiye desde el frente mientras que el otro fue a su espalda.
+
+A pesar de que fueron enviados volando, fue sólo una lesión menor - lejos de ser fatal.Un gran ruido resonó. Laenergía de sangre de Ba Xia y Hu Yue creció locamente mientras susRuedas de Vida aparecieron, emitiendo una monstruosa fuente de poder.
+
+ChiXiaodao se sintió ligeramente preocupado y preguntó: "Están a punto dedesencadenar sus movimientos asesinos, ¿el hermano Li estará bienluchando contra los dos solo?"
+
+"No te preocupes." Sikong Toutian sacudió la cabeza y dijo: "No sabes de sus conquistas pasadas. Siusted se enteró de sus batallas en el cementerio celestial antiguo , entonces no sería capaz de dormir durante tres días, yseguramente no tendría las agallas de llamarle hermano. Haha, Ba Xia y Hu Yue - no son nada.Incluso si el antepasado del PaísSanto vino personalmente, él mismo no sabría las razones de su inevitable muerte ".Chi Xiaodao estaba bastante asombrado al escuchar estas palabras. Inclusoel Señor real del Rugido de León sentía que las palabras de Sikong Toutianestaban subestimando demasiado a los dos genios contemporáneos, Hu Yue yBa Xia. Sólo Chi Xiaodie permaneció en silencio porque ella sabía más lo aterrorizante de Li Qiye que su padre y su hermano! Inclusoun personaje ancestral como el viejo daoísta Peng estaba aprensivo deél, por lo que sólo se podía imaginar su verdadera fuerza.
+
+SikongToutian siguió murmurando a sí mismo: "Heh, no importa dónde o cuándo, yo no tendría miedo de luchar contra ese pequeño mocoso, Jikong Wudi. SóloJoven Noble Li, es la primera persona que inculcó miedo dentro de mí, laprimera persona que no podía entender, sería alguien a quien nunca me cruzaría. Incluso el hijo de un dios moriría si lo provocaba."
+
+"¿Qué dijiste?" Chi Xiaodao no podía oírlo claramente, así que tuvo que preguntar.Sikong Toutian sacudió la cabeza y alzó la vista, luego sonrió y respondió: "Nada, sólo espera y verás. Alguien va a morir una muerte muy, muy miserable, pero la culpa es con ellos por provocar a alguien que no podían permitirse hacerlo."
+
+El ambiente se volvió tenso cuando Ba Xia y Hu Yue convocaron sus Ruedas de Vida. La sangre de la longevidad entró en la rueda, creando una tormenta torrencial. Nubes de esencia mundana tan densas como la niebla se concentraron en sus cuerpos; en este momento, eran muy poderosos.
+
+Ba Xia declaró agresivamente: "Li, no debiste haberte metido conmigo hoy. ¡Incluso si eres un Santo Antiguo, sólo la muerte te esperará! "
+
+Eneste momento, después de reunir su poder, el cuerpo de Ba Xia emitió unbrillo reluciente como una llama divina rodeó su cuerpo.Su energía sanguínea, tan vasta como un océano, flotaba sobre su cabeza y envolvió el cielo."¡Boom!"
+
+Suenergía de la sangre subió un nivel cuando un anillo magnífico aparecióalrededor de su cuerpo, dándole una apariencia muy trascendente.
+
+Alver que este anillo divino se desarrollaba alrededor de su cuerpo,alguien gritó horrorizado: "Soberano Celestial - ¿podría ser que hayallegado a este reino?"
+
+Aunque el Soberano Celestialera sólo un reino sobre el Santo Antiguo, uno no podía comprender cuántomás espantoso era un soberano comparado con un Santo Antiguo.Alcanzar este nivel significaba que uno alcanzaba el gran dao, y uno sería capaz de recrear su profundidad.Siun Rey Celestial era un gobernante de este mundo que reinaba sobremillones de existencias, entonces un Soberano Celestial era el gran daoque conducía al trono de oro.Para lamayoría de los cultivadores, Santo Antiguo fue el final del camino ySoberano Celestial fue el pináculo sublime - el punto de partida parallegar al gran dao para iluminarse. Ya no estarían limitados a los límites de su camino anterior y empezarían a desarrollar su propio dao.
+
+Elreino Soberano Celestial fue donde se estableció el fundamento paraconvertirse en un invencible Paragon Virtuoso, y fue el primer paso haciala Voluntad del Cielo.
+
+Si todos los reinos antes del Soberano Celestial formaban parte del camino del cielo y de la tierra,entonces ser un Soberano Celestial significaba que finalmente habíaentrado en el gran palacio del cielo y la tierra.
+
+UnSoberano Celestial podría fácilmente someter a un Santo Antiguo, ya queya han escapado de la frontera de un gran dao ordinario y han tocado elcielo y el gran dao del planeta.Sin su presencia, los Santos Antiguos y los Nobles Reales estarían a cargo de los asuntos mundanos. Sin embargo, a la llegada de un solo Soberano Celestial, se decía que dos reinos no podían alcanzar el ápice.
+
+"No,es la Física Tiránica Inmortal Furiosa". Un genio diabólico del Salón de la Era Sagrada dijo con gravedad mientras llevaba una expresiónseria.
+
+Después de oír este nombre, mucha gente tomó una respiración fría. Una persona murmuró: "Física Tiránica Inmortal Furiosa - ¿Podría este físico estar en realización menor ?"
+
+Uncultivador predecesor dijo con una expresión sorprendida: "Este físicoaumenta la destreza de una batalla como su cultivo aumenta temporalmenteen un nivel.¡Si Ba Xia es un Santo Antiguo, entonces tendrá el poder de desafiar a un Soberano Celestial! "Muchaspersonas perdieron sus colores después de ver el anillo divino flotandoalrededor de Ba Xia, incluyendo a los genios diabólicos del Salón de laEra Sagrada. Si era de hecho una realización menor de Física Inmortal, entonces era realmente aterrador. Aunquenadie sabía el cultivo exacto de Ba Xia, ¡pero si era un Santo antiguo,entonces podría matar a un Soberano Celestial con una Física Inmortalde realización menor!
+
+El codiciado Físico Tiránico Inmortal Furioso podría incrementar locamente la energía sanguínea deun cultivador y desatar temporalmente un potencial sin fin, dándolesdiez veces más poder de batalla. Aquellos con un potencial aún más sin explotar podrían tener su fuerza de aumento de cien veces sin efectos secundarios!
+
+BaXia era un natural Físico Rey Tiránico y cultivó la ley de física dedefinición del país santo, así que uno podría imaginarse solamente sugran potencial."Pequeño Demonio, hoy, te mostraré lo que la gente llama un destino peor que lamuerte!" Después de que Ba Xia desató su físico, Hu Yue no vaciló detrás.De repente, su energía sanguínea rugió como un tigre divino cuando el Palacio del Destino de Hu Yue se abrió.Una pagoda hecha de oro apareció con las llamas que la rodeaban.Era el arma del Destino Verdadero de Hu Yue, y fue creada por una poderosa Piedra Verdadera de la Voluntad del Cielo.En este momento, siete estrellas emergieron para llevar la pagoda.Entonces, esta torre de repente se iluminó y un fuerte "boom" resonó.La pagoda se abrió como si fuera la entrada al reino de las deidades;gritos de dragón y himnos de fénix, acompañados por el rugido de una Tortuga Negra.Entonces,un dragón azure voló fuera de la pagoda, seguido por un pájaro bermellónmientras que una tortuga negra llevó a cabo el océano.La energía de la sangre de Hu Yue se convirtió en un Tigre Blanco con una presencia divina que llenó el cielo.En este segundo, el Dragón Azure, Pajaro Bermellón y Tortuga Negra se reunieron alrededor para proteger al Tigre Blanco.Alver las siete estrellas que sostenían la pagoda, los habitantes de lasCien Ciudades del Este estaban bastante sorprendidos: "Ser Iluminado Siete Celestiales!Él ya es un siete celestiales!Sólo oí que era un cinco celestiales antes ... ¡Así que él estaba ocultando su fuerza! ""Esteno es el asunto más aterrador." Un viejo cultivador que sabía acercade la Escuela Aullido del Tigre emocionalmente dijo: "Su Tesoro Verdadero de la Voluntad del Cielo es la parte más aterradora.¡Esta pagoda de cuatro bestias divinas fue creada de una piedra Verdadera de la Voluntad del cielo con cuatro daos! "Uncultivador más joven preguntó en confusión: "A pesar de que una Piedra Verdadera de la Voluntad del Cielo de cuatro daos es preciosa, pero con los dones de Hu Yue,él debería tener una piedra mejor.Me siento, por lo menos, que debe ser siete daos.""-No" -respondió su señor real y lo corrigió-: "El valor de la Piedra Verdadera de la Voluntad del Cielo no miente en su cantidad de dao;más no es necesariamente mejor.La verdad es que es difícil discernir el poder y las ventajas de estas piedras.Nos referimos a ellos por los daos dentro de ellos sólo por el bien de la clasificación. "

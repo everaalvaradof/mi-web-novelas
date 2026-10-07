@@ -1,0 +1,61 @@
+---
+titulo: "Capítulo 208: ED  Verdadera Invencibilidad (2)"
+numero: 208
+novelaId: "48"
+---
+
+"Pequeño Demonio, acepta tu muerte!" Inmediatamente enojado, la persona dentro del antiguo ataúd convocó un tesoro.
+
+"Boom!" En este momento, el cielo y la tierra se pusieron pálidos como los celestiales se desplomaron. ¡Una multitud de dao gritaban mientras la voluntad del cielo se retiraba! Un tesoro salió volando, haciendo que muchas personas se arrodillaran en el suelo.
+
+Lostruenos se agrietaban en el aire, pero las innumerables leyesuniversales de Ciudad Antigua del Cielo protegían la ciudad con el persistentetemor de que este invencible tesoro crearía un cráter en esta área.
+
+"¡Un tesoro de la vida del emperadorinmortal !" Una persona pálida gritó enfáticamente.En el momento en que apareció este tesoro, el poder del emperador y la inmortal intención se multiplicaron sin cesar.No sólo Ciudad Antigua del Cielo, sino también innumerables personajes en el Gran Territorio Medio sentían este vasto poder torrencial."¿Quiénestá usando un tesoro de la vida del emperadorinmortal ?" ¡En estemomento, los ojos incontables miraban hacia la dirección de la ciudadantigua del cielo!En un abrir y cerrar de ojos, elpoder del Gran Dao en este mundo fue succionado como la esencia delcielo y la tierra todo apoyando este tesoro de la vida del emperadorinmortal!
+
+El tesoro de la vida del emperadorinmortal era justo como la llegada de un emperador inmortal. ¡No era algo que la Posesión del Emperador o el Decreto del Emperador pudieran compararse!"Se acabó ..." En este punto, el grupo de Chi Yun se puso tan pálido que eran tan blancos como hojas de papel.Definitivamente se aniquilarían una vez que este tesoro de la vida golpeó abajo.Incluso la expresión de Niu Fen se hundió en gran medida cuando estaba aturdido.
+
+"Tesoro de la Vida del Emperador Inmortal". En este momento, Li Qiye, de pie en la partesuperior del Carro de Bronce Tetra-Guerra, entrecerró los ojos."Bang!" Una fuerte explosión golpeó directamente a Ciudad Antigua del Cielo. En este mismo segundo, Li Qiye no tomó acción, y ni Niu Fen. De repente, en un rincón de Ciudad Antigua del Cielo, había una mano marchita extendida. Esta mano venía de arriba, abarcando incluso el altísimo Tesoro de la Vida del Emperador Inmortal.
+
+"¡Bang-bang-bang!" Sonaron innumerables sonidos claros como todo laCiudad Antigua del Cielo tembló como si fuera el fin del mundo. Quién sabía cuántas personas perdieron la cabeza por miedo dentro de la ciudad.Cuandola mano lentamente se empujó hacia abajo, tanto el Tesoro de la Vida del Emperador Inmortal como el antiguo ataúd fueron completamente suprimidos.Dentrode la Gruta Celestial del Reino Antiguo, cámaras antiguas y pabellonesde jade se derrumbaron uno tras otro mientras la tierra misma se hundía."Bang!" Finalmente, después de una explosión ensordecedora, todo el mundo presenció una escena impactante. Elataúd antiguo y el tesoro de la vida del emperadorinmortal fueronpresionados en la tierra - debajo del fango - junto con los edificiosque se derrumbaban.En un instante, este gran cráter fue completamente enterrado.Todo el mundo se congeló con la boca abierta;¡no pudieron cerrarla por mucho tiempo!
+
+"¡Ruidoso!"¡Después de enterrar el ataúd antiguo y el tesoro de la vida delemperador inmortal, la mano desapareció mientras que una voz bajólentamente del cielo!
+
+Después de escuchar esta voz, Li Shuangyan y Chen Baojiao quedaron atónitas cuando sus mentes se estremecieron.Era porque habían oído hablar de esta voz antes ... ¡El viejo fantasma!¡La voz del viejo fantasma de la pequeña tienda!¡Sólo ellos sabían - en este momento - que el viejo fantasma era el que actuaba! Con una sola acción, sorprendió a todos. Con una sola mano, él fácilmente suprimió un Tesoro de la Vida del Emperador Inmortal bajo el suelo. Aunqueno podía destruir el tesoro de la vida del emperador inmortal, sinoatraparlo directamente bajo tierra, sólo se podía imaginar loaterrador que era este viejo fantasma.
+
+En estemomento, finalmente comprendieron el poder desastroso del viejo fantasmay por qué su joven noble quería que el viejo fantasma le debiera unfavor!
+
+Luego se quedaron mirando a su joven noble,pero Li Qiye todavía estaba calmadamente de pie en la parte superior del Carro de Bronce Tetra-Guerra como si todo estuviera dentro de susexpectativas!
+
+¡Los espectadores, con las bocas abiertas, todavía no la habían cerrado porque sus almas aún no han vuelto! Este era un Tesoro de la vida del emperador inmortal ah, sin embargo, fue presionado por una persona con sólo su mano desnuda.Esto, esto era demasiado ilógico.Al cabo de un rato, la multitud confusa finalmente regresó y se frotó los ojos.Después de ver los edificios derrumbados del Reino Antiguo, sabían que esto no era un sueño!"Quién ..." Tomó mucho tiempo antes de que la gente comenzara a pensar en la pregunta girando en sus mentes.LosSeres Iluminados, los Santos Antiguos, e incluso los ancianos ocultos yeternos que surgieron, no se atrevieron a hacer un solo ruido.¡Era como si tuvieran miedo de molestar al gigante sin precedentes que dormía en Ciudad Antigua del Cielo!¡Una mano que domina sobre un tesoro de la vida del emperadorinmortal!Uno tenía que saber que el arma de un Emperador fue desatada por uno de los Nueve Ancestros del Reino Antiguo.Este fue un golpe extremadamente aterrador.Si fuera desatada en la parte superior del Gran Territorio Medio, sería capaz de hundir una enorme cantidad de tierra!Sinembargo, esteataque de Tesoro de la Vida de Emperador Inmortal que era capaz dematar a los dioses y decapitar a los demonios fue sometido a la tierrapor una mano, y el destino del antepasado dentro del ataúd eradesconocido también!En estemomento, todos los grandes personajes, maestros de sectas, señoressagrados, reyes mortales ... Todos ellos dejaron de respirar dentro dela Ciudad Antigua del Cielo , sin atreverse a hacer ruidos fuertes portemor al gigante sin par en la ciudad! ¡Sólo esta palabra "ruidoso" era tan pesada como millones de jin! Esta sola palabra bastó para mostrar la actitud de este gigante dormido.
+
+En este momento, un sinnúmero de personas sólo se miraban y no se atrevían a discutir.
+
+Este evento podría ser el momento más tranquilo de Ciudad Antigua del Cielo en los últimos diez mil años. Incluso se podía oír el sonido de una aguja cayendo dentro de esta enorme ciudad.
+
+El Reino Antiguo Misterioso Azure fue muy desafortunado. Su Tesoro de la Vida de Emperador Inmortal despertó a un gigante sin paralelo, por loque su tesoro y antepasado fueron presionados en el suelo!"Un tesoro de la vida del emperadorinmortal no significa la invencibilidad. Incluso   un  tesoro verdadero emperador inmortal no es necesariamente invencible."Al final, Li Qiye, de pie en la parte superior del carro de bronce,habló perezosamente.Li Qiye siendo el primero en hablar de nuevo finalmente alivió a todos. Empezaron a respirar nuevamente, pero permanecieron extremadamente cautelosos. No importa quién fuera, todos tenían miedo de despertar al gigante dormido.
+
+En este momento, Li Qiye controló el carro de bronce y entró lentamente en la mansión del Reino Antiguo. El grupo de Chi Yun también se calmó y rápidamente siguió a Li Qiye.
+
+La mansión dentro de la Gruta Celestial del Reino Antiguo era mucho más grande de lo que parecía desde fuera.Ésta era una gruta celestial formada naturalmente.No sólo había cámaras antiguas y pabellones celestiales por todas partes, sino que también había curvadas cordilleras.Todavíahabía muchos discípulos del Reino Antiguo, incluyendo los Nobles Reales,los Seres Iluminados, e incluso los Santos Antiguos, presidiendodentro!
+
+Éste era el poder de una secta con dos emperadores. Encomparación con las grandes sectas y países, era difícil para ellostener santos antiguos durante la Difícil Era de Dao, pero el Reino Antiguofue capaz de enviar a los Santos Antiguos para proteger el campo!
+
+Aunqueen la gruta hubo Poderosos Seres Iluminados y Santos Antiguos, pero eneste momento, sólo pudieron ver a Li Qiye traer a los otros dentro. Incluso los santos antiguos en el nivel de Gran Santo no tomarían acción fácilmente!
+
+La mano de antes que suprimió su antepasado y el Tesoro de la Vida de Emperador Inmortal había destruido completamente su moral. ¡Inclusolos poderosos santos antiguos tenían pavor y temor en sus mentesmientras temblaban y no se atrevían a hacer ningún ruido fuerte, miedode despertar al gigante sin precedentes una vez más!Li Qiye entró en esta gruta como si estuviera dando un paseo en su propio patio - completamente relajado y cómodo.
+
+Enesta coyuntura, el odio de muchos nobles reales del reinoantiguo haciaLi Qiye penetró profundamente en sus huesos, ¡pero no se atrevieron ahacer nada!Finalmente, un anciano rápidamente diola bienvenida a Li Qiye mientras se inclinaba mientras abrochaba lospuños y dijo: "Esta persona debe ser el joven Noble Li. Esteasunto sólo comenzó con unas pocas personas de la generación más jovenque no conocían nada mejor, por eso tenemos este tipo de conflicto ".
+
+"¿Una generación más joven que no conoce nada mejor?"Dela arrogancia al respeto, al ver el repentino cambio en la actitud delReino Antiguo, Li Qiye se echó a reír mientras decía:" ¿Entonces elanciano acostado en ese ataúd es también un menor de tu Reino Antiguo Misterioso Azure?"Las palabras de Li Qiye cambiaron inmediatamente la expresión de este anciano, pero logró arreglar su ira.Hoy, la situación era desventajosa para su Reino Antiguo.El destino de su antepasado aún era desconocido después de haber sido presionado bajo tierra.En este segundo, aunque no pudieran soportar más esta humillación,todavía tenían que morderse los dientes y tragarse esta animosidad!"Estavez, mi Reino Antiguo Misterioso Azure ha ofendido ..." El viejo eraun personaje experimentado y había sido testigo de innumerables olas yvientos.Eneste momento clave, respiró hondo y se inclinó para decir: "Esta vez,mi Reino Antiguo Misterioso Azure está dispuesto a pagar por todos losdaños.Mientras Joven Noble Li diga la palabra, ¡estaremos absolutamente de acuerdo! "El viejo era un personaje capaz de realizar grandes tareas con su pronta decisión.A pesar de que era difícil de tragar, todavía se mordía los dientes para aceptar que era su culpa.Paraellos, en este momento, nada era más importante que cavar para sacar a suantepasado, así que el anciano no tenía otra opción que ceder!"Joven Noble, incluso mientras mataban, todavía debemos ahorrar aalguien un camino para vivir..." Viendo a un anciano original del Reino  Antiguo aceptar su derrota, Chi Yun no pudo evitar hablar suavemente. Sin embargo, sólo la mitad de la frase salió; no era su lugar decir más. En esta situación, Li Qiye tuvo la última palabra.
+
+¡Li Qiye miró a Chi Yun sin decir nada!
+
+LiQiye comprendió que la Puerta del Demonio Nueve Santos no queríalibrar una guerra contra el Reino Antiguo Misterioso Azure. Todavía no habían aplacado el Templo de Dios de la Guerra.¡Sinsu apoyo absoluto, la Puerta del Demonio Nueve Santos realmente notuvo el coraje de librar una guerra contra el Reino Antiguo!
+
+"¡Contra mis enemigos, yo siempre les decapitaba a todos!" Li Qiye miró fijamente al anciano del Reino Antiguo.La declaración de Li Qiye sorprendió al anciano. SuReino Antiguo nunca había tenido miedo de problemas, pero bajo lascircunstancias de hoy, no podían permitirse el lujo de no agacharse amenos que realmente querían luchar desesperadamente hasta el final! Sinembargo, todavía se desconocía si su antepasado enterrado bajo tierraestaba muerto o vivo, y nada era más importante que sacarlo!
+
+"Sinembargo, como la Puerta del Demonio Nueve Santos - como lavíctima - está dispuesta a dejar pasar este asunto, no es mi lugar paradecir lo contrario." Li Qiye sutilmente miró a Chi Yun.
+
+Podría decirse que Li Qiye estaba dando cara a Chi Yun, así como la Puerta del Demonio Nueve Santos. Este fue el resultado de Chi Yun y la puerta de verdad apoyándolo!
+
+Chi Yun no era tonto, y sabía que Li Qiye le estaba dando una cierta consideración, así que inclinó la cabeza.

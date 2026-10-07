@@ -1,0 +1,49 @@
+---
+titulo: "Capítulo 802: ED  Regalando el Arco"
+numero: 802
+novelaId: "48"
+---
+
+Li Qiye podría haber matado fácilmente a Jian Wushuang en lugar de sellarla con este puño. Sin embargo, eligió no hacerlo porque quería un talento tan orgulloso y feroz como ella.
+
+Quitó el sello e insípidamente declaró: "Has perdido".
+
+Ella no pudo calmarse incluso después de que se quitó el sello. Su mente había abandonado su cuerpo ya que estaba congelada por un largo tiempo. Los eventos anteriores fueron demasiado impactantes para ella.
+
+"¿Qué tienes que decir ahora?", Preguntó Li Qiye sonriendo después de ver su aspecto aturdido.
+
+Sus ojos perdidos finalmente recuperaron su enfoque después de un tiempo. Ella miró a Li Qiye como si fuera un monstruo; ella nunca había visto a alguien como él antes.
+
+"No tengo nada que decir, estoy absolutamente convencida de mi derrota". Ella respondió con la cabeza en alto. A pesar de sentirse orgullosa, perder era perder y no renegaría de la apuesta.Li Qiye la miró fijamente: "Es el momento de que cumplas la promesa.Usted puede decidir el término.Por supuesto, los beneficios corresponderán a cuánto tiempo te quedes ".Ella respiró hondo, sin esperar que sucediera lo imposible.Ella habló con una voz profunda: "¡No tengo nada que decir excepto quecumpliré mi promesa!". Luego juró con su destinoverdadero .Su juramento fue sin duración, esto realmente demostró que ella era notablemente decisiva.Aunque no era fácil llevarse bien con alguien tan orgulloso como ella, ella se mantuvo fiel a sus palabras.Ella fue capaz de manejar la derrota con gracia y nunca incumpliría un trato o huiría de él.La desesperación y la autocompasión estaban fuera de cuestión también.Estos fueron rasgos admirables y las razones por las cuales Li Qiye la valoraba.Li Qiye estaba un poco indispuesto, pero al final aún se decidió.Sacó un objeto y se lo entregó a Jian Wushuang: "Como me has prometido lealtad, te daré un tesoro"."Esto, ¿no es este tu arco?" Jian Wushuang se conmovió después de ver el objeto en su mano.Este arco fue el Arco Verdadero de Nueve Palabras.Como un genio del tiro con arco, ella había muerto una vez ante este arco, por lo que, naturalmente, sabía lo precioso que era.En el futuro, este arco podría incluso superar el arco de su Clan Jian."Sí,este será el mejor arco del mundo en el futuro cercano". Li Qiyeinsípidamente dijo: "Yo, por supuesto, soy el mejor maestro para ello.Sin embargo, si un arco tan bueno no se usa a diario o en cada batalla, sería un desperdicio.¡Hoy te lo estoy regalando con la esperanza de que florezca en tus manos y crees una leyenda eterna! "Finalmente eligió darle este arco sin igual.Aunque fue increíble, rara vez lo usó en la batalla.Tenía muchos métodos y tesoros diferentes, y la mayoría de las veces, no había necesidad de usarlo.Al mismo tiempo, Jian Wushuang tenía grandes talentos de arquería.¡Nadie podría compararse a ella en la generación más joven!Por lo tanto, Li Qiye le dio el arco para que pudiera usarlo en todo su potencial.Ella estaba un poco sorprendida en este momento.Tal arco sin igual fue entregado tan fácilmente.Aunque ella provenía de un linaje imperial, no podía calmarse en un corto período de tiempo.Un maestro tan generoso fue difícil de encontrar.Ella mantuvo su actitud orgullosa y respondió: "¡Pero aún no he hecho ninguna contribución!"Li Qiye colocó con fuerza el arco en su mano.Después de tomar una decisión, no hubo vuelta atrás. El ligeramente dijo: "Tienes que trabajar más para convertirte en mi mejor general.¡Solo el guerrero más fuerte es digno de este arco!La mejor manera de pagarme es masacrando las cuatro direcciones en los campos de batalla futuros ".Li Qiye tenía la intención de prepararla.Aunque podría haber subordinado existencias incluso fuertes como elpadre árbol, estas existencias eran viejas y podrían no ser capacesde luchar con él hasta el final en un futuro lejano.Jian Wushuang, por otro lado, todavía era joven y podría seguirlo hasta el final de la guerra.Además, tenía un potencial desaprovechado que valía la pena explorar, así como un amplio espacio para el crecimiento.Ella aceptó el Arco Verdadero de Nueve Palabras de Li Qiye y dijo fríamente: "Definitivamente llegaré al pináculo del tiro con arco".El emperador Inmortal Diyi Jian fue elogiado como el mejor arquero del mundo.Sin embargo, la verdad es que él no tomó ese sendero hasta el final.Finalmente abandonó el dao de tiro con arco y usó otra arma para convertirse en un Emperador Inmortal.En resumen, su dao no fue probado usando el arco.JianWushuang, en este mismo momento, estaba decidida a caminar por el sendero  que no había andado su antepasado hasta el ápice, ¡hasta el límite!
+
+"Haz un buen trabajo para acostumbrarte". Li Qiye ordenó: "Vale la pena el esfuerzo de este arco para aprender. En el futuro, te acompañará en muchas grandes victorias ".
+
+"Entiendo." La orgullosa Jian Wushuang asintió.
+
+LiQiye la miró y dijo: "Cuando llegue el momento, ve al Reino Bestia, ¡te estaré esperando allí para llevarte al Mundo Bestia Bi'an!"
+
+"¡Mundo Bestia Bi'an!" Se puso seria después de escuchar este nombre.
+
+Li Qiye asintió suavemente: "Sí, el Mundo Bestia Bi'an. Como me has prometido lealtad, es hora de que amplíes tus horizontes ".Jian Wushuang no indagó más y solo asintió antes de irse con su nuevo arco.
+
+Li Qiye regresó al terreno ancestral del reino. Ming Yexue no preguntó nada después de su regreso. Incluso sin preguntar, ella naturalmente sabía que Li Qiye ganó.
+
+"Partiremos mañana" ordenó.
+
+Ella no dijo una palabra más e informó al Emperador Alquimista Cien Vida de la decisión de Li Qiye.
+
+Al día siguiente, Li Qiye llegó antes de la plataforma de dao. Fuera del emperador alquimista y de Ming Yexue, también había algunos ancestros del reino.
+
+"Es hora de partir". Li Qiye habló con voz clara mientras miraba el portal.
+
+Elemperador alquimista dijo: "Mi señor, si no puede ingresar al Patio de Piedra Seca, caerá en cualquiera de las tres grandes venas, porlo que debe estar preparado"."Yo sé eso. Si no tengo éxito, entonces no hay necesidad de volver a abrirlo. Encontraré un método diferente de entrada. "Li Qiye asintió suavemente.
+
+El emperador alquimista miró a Li Qiye y luego ordenó a los otros ancestros: "Todos ustedes, váyanse".
+
+Unavez que los ancestros y Ming Yexue se habían ido, el emperador alquimista le dijo a Li Qiye: "Mi señor, mientras estuvo ausente ayer,vino el anciano del Clan Jianlong".
+
+"¿Oh? ¿Qué quiere el Clan Jianlong? "Li Qiye sonrió.
+
+El Clan Jianlong también era un linaje famoso junto con el Reino Alquimista en los tiempos contemporáneos. ¡Tenía tres emperadores también!
+
+El emperador alquimista sonrió y dijo: "¿Cómo podría el Clan Jianlong tener alguna idea ante mi señor? ¡Solodesean que en esta generación, si mi señor los necesita a ellos,simplemente envíe la orden y demostraran su lealtad! ""¿También quieren disipar la supresión del pasado?" Li Qiye se rió entre dientes: "Esto no está fuera de discusión.Les avisaré si los necesito en el futuro ".Habiendodicho eso, Li Qiye miró al emperador alquimista: "Los viejos de eseclan son mucho más inteligentes que la multitud de tu reino.Han mantenido la cola baja mientras tratan con el mundo.Ese año, tu Reino Alquimista creyó en la invitación del Reino de la Bestia Divina y decidió ir primero a la batalla.Mientras tanto, el Clan Jianlong también había perdido, pero no sufrieron tanto como tu reino "."¿Porqué es que no los obligué a hacer un juramento, sin embargo, ellostodavía obedientemente decidieron abandonar su territorio?" Li Qiyeasintió con la cabeza: "Esos viejos sabían que mientras yo sigaexistiendo, entrenaría a másEmperadores Inmortales.Son lo suficientemente inteligentes como para no bloquear mi sendero.Aunque han estado recluidos durante mucho tiempo, en el momento en querealmente salgan a este mundo otra vez, ¡serán mucho más fuertes que tureino!""Losancestros ​​en aquel entonces pensaban que una alianza con el Reino de la Bestia Divina les permitiría vencer a todos los enemigos". Elemperador alquimista sonrió amargamente.Antes de la gran guerra, el se opuso fuertemente a competir con la Emperatriz Hong Tian por la Voluntad del Cielo.Él sabía que nada bueno podría salir de eso.Por desgracia, el reino era muy poderoso en aquel entonces.Además, había muchos ancestros más distinguidos que él a cargo.Su oposición fue inútil, por lo que no pudo controlar la situación.La última batalla fue muy sangrienta.La sangre manchó todo el Mundo de la Medicina de Piedra.¡El incomparable Reino de la Bestia Divina fue masacrado de la noche a la mañana y dejó de existir!"¿Unaalianza con el reino de la bestia para poder vencer a todos losenemigos?" Li Qiye resopló: "Comparado con el MingAntiguo, tu reino y el reino de la bestia no eran nada.Durante la Era Ming Antigua, ellos gobernaron los nueve mundos enteros por sí mismos.Fuera de Bu Zhan y Xue Xi, ¿quién más logró romper el monopolio de los Emperadores Inmortales durante su reinado?Después de hacer mi movimiento, ¿qué pasó con el Ming Antiguo al final?""El mundo no sabía acerca de la invencibilidad de mi señor.Todo había terminado para ellos cuando probaron tus métodos de carnicería." El emperador alquimista gentilmente suspiró.Aunque no vio el baño de sangre en esa lejana era, había oído hablar de las leyendas.Fue un período espeluznante.El Ming Antiguo una vez gobernó sobre los nueve mundos y, finalmente, el Cuervo Oscuro anunció un nuevo amanecer.A partir de ese momento, la Era del Ming Antiguo terminó y su raza desapareció."Estábien, no hay necesidad de mencionar el pasado". Li Qiye se puso un pocosentimental y gentilmente agitó su manga: "No muchos de los que solíanestar de mi lado todavía están vivos.Cuidate.Espero que cuando recorra la miríada de dominios, aún estés vivo para verlo ".

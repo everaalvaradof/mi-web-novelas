@@ -1,0 +1,45 @@
+---
+titulo: "Capítulo 1112: ED  Decapitador del Dao Inmortal"
+numero: 1112
+novelaId: "48"
+---
+
+"¿Es así?" Li Qiye miró al último maestro de la secta y respondió tranquilamente: "En realidad, quiero ver qué tesoros traes.Si los cuatro están juntos, deben haber traído algo extremadamente desgarrador del cielo.Pequeñasexistencias como la Montaña Aplasta Espacio y el Reino Antiguo Misterioso Azure solo pueden sacar chatarra, pero usted son diferentes.¿Qué sacarán?¿Qué grandes tesoros todavía existen allí desde los cofres de laPuerta de los Mil Emperadores? "Comenzó a reír de anticipación despuésde decir esto.El venerable gritó: "¡Pequeño animal, hemos traído lo suficiente para hacerte pedazos!"Su corazón estaba chorreando sangre en este momento.Trabajaron juntos para crear la gran formación.Mientras Li Qiye entrara, se volvería impotente.Incluso si él fuera un Monarca Dios, solo la aniquilación lo esperaría antes de la Masacre Imperial de Jikong Wudi.En sus ojos, si Jikong Wudi podía matar a Li Qiye, se haría famoso una vez más y el trono sería suyo en el futuro.Pero, ¿quién hubiera pensado que el golpe seguro terminó con la muerte de Jikong Wudi?Esto los forzó a llevar las cosas al último paso, ¡haciéndoles usar su as!Esto era algo que no querrían hacer a menos que no hubiera otra opción.Además, definitivamente no querían desperdiciarlo en Li Qiye.Li Qiyedesafiaba el cielo por completo, por lo que el grupo sabía que debíacontar con algunos protectores de dao insondables detrás de él. Debido a esto, los cuatro decidieron trabajar juntos.
+
+Elúltimo maestro de la secta incluso sacó un elemento extremadamenteincreíble para utilizar como el as oculto para matar a los protectores de dao de Li Qiye.
+
+Sin embargo, sus protectores de dao aún no habían aparecido, pero ya tenían que usarlo en Li Qiye.
+
+"Pequeñoanimal, incluso si eres la reencarnación de un Emperador Inmortal o elhijo de las deidades, todavía no podrás escapar de la muerte". ElAncestro Divino también gritó.
+
+Sin embargo, Li Qiye lo interrumpió con un movimiento de desprecio: "Está bien, deja de jactarte. Entonces, ¿y qué si mato a los discípulos de su reinoantiguo ? Es solo una secta con dos emperadores, un grupo de perros que no pueden alcanzar el ápice".Tales palabras dejaron a la multitud con la boca abierta. ¿Una secta con dos emperadores solo estaba compuesta por un grupo de perros? Entonces otros grandes poderes no necesitaban existir en este mundo ya que eran tan lamentables.Pero hoy, nadie se atrevió a replicar. ¿Quién en la generación actual podría decir esas palabras aparte de Li Qiye?
+
+"Tú ..." El AncestroDivino temblaba de ira.El maestro de la secta de la Puerta de los Mil Emperadores ordenó: "Ataquen ahora para evitar complicaciones adicionales".
+
+"Clank-" Con su orden, toda el área estaba sellada. El cielo y la tierra se separaron con Li Qiye atrapado dentro.
+
+Cuatro grandes decapitadores sellaron las cuatro esquinas. Eran cuchillas de palanca que parecían decapitar todo dentro del radio.
+
+Li Qiye estaba en el centro de esta zona muerta y no tenía dónde correr debido a las cuchillas circundantes.
+
+"Decapitadores del Dao Inmortal". Li Qiye hizo una leve mueca ante las cuatro cuchillas.Otros no sabían de estos, pero él lo sabía. Nosolo eran capaces de matar inmortales y diablos, incluso el cielo y latierra podían ser víctimas de su filo y origen increíble.
+
+Quien estuviera dentro de su rango de corte estaría en un gran problema y escapar de esta región era prácticamente imposible.
+
+"¿Qué son esas cosas?" Todos temblaron un poco después de que aparecieron los decapitadores. En un instante, los expertos reaccionaron rápidamente y se retiraron. Los más débiles no pudieron responder a tiempo e inmediatamente cayeron inertes al suelo.
+
+Independientemente de lo lejos que estuvieran, todos sentían un extremo filo cortando su piel.
+
+Sintieron que tanto el tiempo como el espacio se rompieron junto con el poder del gran dao. Parecía que en el momento en que las cuchillas cayeran, cortarían el mundo entero y rasgarían todas las relaciones.
+
+Eneste momento, el embajador jefe, Venerable Nueve Espadas, el AncestroDivino y el último maestro de la secta controlaron cada una de lasesquinas de las cuchillas y las dirigieron hacia Li Qiye.Usaron su sangre de longevidad para bañar a estos decapitadores mientras los empujaban más cerca de Li Qiye.
+
+No fue fácil ejercer el poder real de estas armas. Aunque los cuatro eran bastante poderosos, aún tenían que ofrecer su sangre de longevidad. Además, cuanto más rápida sea la velocidad de corte, más sangre de longevidad se requerirá.
+
+Para personas cercanas a la muerte como ellos, estas gotas de sangre eran extremadamente valiosas. Por lo tanto, solo usaron una pequeña cantidad para empujar estas cuchillas de corte hacia Li Qiye en el centro.
+
+Enel momento en que las cuchillas cortaran las cuatro esquinas de estaregión, Li Qiye sería decapitado dentro tarde o temprano.
+
+"Pluff!" La sangre tiñó de rojo la ropa, mientras que las cuchillas aún no lo habían cortado directamente. Aunqueestaban a incontables millas de distancia, los terribles bordes yahabían dejado cortes horribles en su cuerpo y le habían salpicado lasangre.
+
+"¡Ábrete!", Gritó Li Qiye. Su energía de sangre se elevó al cielo y comenzó a derivar una ley del mundo.Sin embargo, las fuerzas del tiempo, el espacio y el gran dao habían sido cortadas.No importaba si uno tenía poderosa energía de sangre o las leyes másprofundas en este mundo, todas se volverían bastante débiles y nopodrían ejercer su verdadero poder.Li Qiye canalizó una ley de mérito con un increíble poder defensivo.Sin embargo, esta defensa se volvió bastante débil sin el gran dao apoyándola.Bajo la fuerza de los decapitadores, las leyes parecían frágiles hasta el punto de ser insignificantes.Fue instantáneamente cortado en pedazos por las cuchillas."Pluff!Pluff!Pluff! "Más laceraciones aparecieron en su cuerpo manchado de sangre poco después."¡Ábrete!" Li Qiye rugió nuevamente e intentó varias veces contraatacar.Por desgracia, no podía escapar de la propiedad omnipresente de los decapitadores.Sus invencibles artes fueron instantáneamente cortadas mientras más heridas aparecían en su cuerpo.Venerable Nueve Espadas gritó cruelmente: "Pequeño animal, sigue luchando.Te desollaremos en pedazos finos al igual que un pez ".Continuaron empoderando lentamente a los decapitadores sin ansiedad.Las cuchillas todavía estaban bastante lejos de Li Qiye, pero el filo que emanaba de ellas aún lo estaba lastimando.Esta escena hizo que mucha gente jadeara y temblara.Un paragon murmuró: "Todavía no lo están cortando directamente.Están tan lejos, pero Más Feroz ya no puede resistirlos.Si estuviéramos en su lugar, ya nos habrían cortado en pequeños pedazos "."¡Incluso los Godkings podrían no ser capaces de escapar de este tipo de cuchilla inmortal!", Murmuró un espectador horrorizado.Todoshabían visto antes el poderoso cuerpo de Li Qiye, pero hoy estabacubierto de heridas incluso antes de que las cuchillas lo alcanzaran.¿Cómo no podrían tener miedo de esas cuchillas tan aterradoras?"¡Ábrete para mí ahora!" Li Qiye aulló de nuevo, pero él era un perro en apuros que no podía resistir las cuchillas.No había ninguna parte en su cuerpo que aún no hubiera sido tocada.Los cuatro en el otro lado se burlaron repetidamente mientras miraban a Li Qiye a punto de ser cortado en pedacitos.Incluso deliberadamente redujeron la velocidad para que el mundopudiera ver el destino de quienes desafiaron su prestigio, un destino deser desollado en finas rebanadas."¿Y ahora qué?" Bai Jianzhen notó que Li Qiye ya no era capaz de pararse y que podría caerse en cualquier momento.Con expresión temblorosa, preguntó: "¿Deberíamos ayudarlo?""No." Mei Suyao negó con la cabeza: "El Joven Noble debe tener una razón para decirnos que no debemos interferir antes.No podemos arruinar su asunto "."Esta es solo su fuerza normal". Li Shuangyan sintió dolor al vertodas las heridas, pero no se atrevió a tomar medidas: "El joven Nobletodavía tiene muchas jugadas letales".Ella era consciente de su arsenal completo.¡En este momento, todavía no había usado un arma imperial!"¡Pop!" Eventualmente, bajo la constante canalización de los cuatro, los decapitadores se acercaron un poco más.Li Qiye no pudo contenerse y de repente cayó.Trató de levantarse varias veces pero falló."Se acabó para Más Feroz." Muchas personas se sorprendieron al ver esto.Algunos incluso no estaban dispuestos a mirar."¡Bang!" Mientras Li Qiye estaba sentado allí esperando la muerte, unamano blanca descendió del cielo y golpeó las cuatro esquinas de estelugar, causando que la tierra temblara.Incluso los Decapitadores del Dao Inmortal fueron sacudidos por este ataque.Su brillo comenzó a parpadear con incertidumbre.Alguien gritó de muy buen humor: "¿Es eso un ataque de Godking?""¿Quién se atreve a interferir ?!" El grupo del venerable fue sacudido por el temblor.Agregaron aún más sangre de longevidad para controlar los decapitadores.Las cuchillas emitieron una terrorífica luz inmortal.Cualquiera que se acercara sería cortado en pedazos por estos rayos.

@@ -1,0 +1,91 @@
+---
+titulo: "Capítulo 698: ​– Destruyendo la Escultura del Dios Fénix"
+numero: 698
+novelaId: "49"
+---
+
+“Yun… ¿¡Yun Che!?”
+
+Aunque fuera el nombre de alguien que había caído hace tres años, en los oídos de los discípulos del Divino Fénix, resonó como un trueno. El discípulo de la derecha al instante se dio cuenta de por qué el rostro frente a él parecía tan familiar... Hace tres años, durante el Torneo de Clasificación de las Siete Naciones, fue uno de los guardias también. ¡De hecho, estaba en un lado de las puertas principales durante ese evento!
+
+Incluso después de que los dos discípulos hubieran superado su estado de shock, la arrogancia en su rostro no disminuyó en lo más mínimo... porque este lugar era la Ciudad del Divino Fénix, y ellos eran discípulos del Divino Fénix que poseían la línea de sangre del Fénix, la existencia más noble dentro de las Siete Naciones. Por no hablar de un Yun Che, aunque llegaran los emperadores de los otros seis países, ellos no lo tratarían con respeto.
+
+“¿No murió Yun Che hace tres años? ¿Podría ser un impostor?”
+
+“¿A quién le importa si es un impostor, pensar que él tendría la audacia de pedir una reunión con nuestro reverenciado Maestro de Secta en cuanto él llegó? Jaja, ¿cómo tienes la cara para hacer tal cosa?”
+
+“¿Podría ser que has venido a abogar en nombre de la pequeña Nación del Viento Azul que está a punto de ser extinguida? Hehe...” Los dos discípulos que vigilaban la puerta se miraron y simultáneamente lanzaron un enorme rugido de risa.
+
+“Jeje” Yun Che se unió también antes de continuar, “Olvídalo, no necesito que transmitas mi mensaje, esto realmente ha sido una pérdida de tiempo. Lo llamaré yo mismo.”
+
+Mientras él se reía fríamente, Yun Che dio un paso adelante mientras todo su cuerpo ardió con una llama roja carmesí que estaba teñida de color oro opaco. La risa salvaje de los dos discípulos murió en el momento en que se encendieron las llamas del Cuervo Dorado. Su túnica de fénix comenzó a arder repentinamente mientras las llamas se extendían rápidamente por todo su cuerpo, haciéndolos frenéticamente retirarse mientras soltaban gemidos de dolor.
+
+Las Llamas del Cuervo Dorado se precipitaron hacia delante y explotaron con un fuerte estallido cuando un pilar de fuego disparó cientos de metros al aire; El sonido que reverberaba por toda la Ciudad del Fénix era lo suficientemente fuerte como para impactar al cielo. El emblema de la fuerza y el prestigio del Divino Fénix, la gran puerta y la Escultura del Dios Fénix, que había estado en pie durante los cinco mil años de existencia de la Ciudad del Divino Fénix, cayeron al suelo mientras se hacían pedazos...
+
+Reunidos en el Salón Principal del Fénix estaban todos los miembros principales de la actual generación de la Secta Divino Fénix. Entre los cincuenta y seis ancianos de la Secta Divino Fénix, además del fallecido anciano Feng Feiyan; El difunto decimonoveno Anciano, Feng Feiheng; El fallecido cuadragésimo tercer Anciano, Feng Feiying; El fallecido quincuagésimo segundo Anciano, Feng Hengjiang; Y los otros dos ancianos que todavía estaban supervisando la invasión de la Nación del Viento Azul, el resto de los ancianos habían tomado sus asientos y ni un solo anciano de ellos faltaba.
+
+Dado el poder absoluto que la Secta Divino Fénix poseía sobre el resto de las siete naciones, durante los últimos milenios, todos sus ancianos habían muerto de vejez en vez de caer en una batalla contra otros. Feng Feiyan mereció ricamente la muerte miserable que se ganó por sí mismo, y no toleró ninguna discusión. Pero hoy, en el lapso de un solo día, los cristales del alma de tres ancianos se habían roto; Todos habían caído en la Nación del Viento Azul. En la historia del Imperio Divino Fénix, este tipo de cosas nunca había ocurrido antes, y nadie habría pensado jamás que los ancianos de la Secta Divino Fénix, todos los cuales eran por lo menos Señores Supremos de etapa intermedia y eran existencias invencibles para las otras seis naciones, terminarían cayendo en la Nación del Viento Azul cuando ellos se encontraban allí como supervisores.
+
+El ambiente de esta gran reunión de ancianos fue opresivo desde el principio. Pero lo sorprendente fue que el tema principal de discusión no fue la muerte de los tres ancianos, sino el retorno de una persona de entre los muertos...
+
+La discusión osciló entre el dramático aumento de la fuerza profunda de Yun Che que le permitió matar a Feng Huwei, las palabras que había transmitido mediante huella de muerte de Feng Huwei el día anterior... y la sospecha de que él era el principal responsable de la desaparición de ese Ejército del Divino Fénix que estaba compuesto por varios cientos de miles de personas fuertes.
+
+El nombre de Yun Che era naturalmente conocido por todos los ancianos reunidos de la Secta Divino Fénix. El hecho de que regresara vivo del Arca Profunda Primordial, que de repente había desaparecido, fue suficiente para aturdirlos a todos. Sin embargo, cuando gradualmente se dieron cuenta de que la agenda principal de la reunión de ancianos que Feng Hengkong había convocado era discutir cómo tratar con Yun Che, incluso sugirió que invitaran a uno de los grandes ancianos que estaba en reclusión para que personalmente viajara hacia la Nación del Viento Azul a matar a Yun Che, las expresiones de todos los ancianos se convirtieron en perplejidad y asombro... El regreso de Yun Che de entre los muertos fue realmente extraño y el hecho de que su fuerza profunda había avanzado hasta tal punto, haciéndolo capaz de matar a Feng Huwei, era realmente alarmante. Dado el hecho de que era el Príncipe Consorte de la Nación del Viento Azul, su intención de vengar su país contra el Imperio Divino Fénix era completamente comprensible... Sin embargo, él era sólo un mero Yun Che; Incluso si su fuerza actual fuera diez veces más fuerte de lo que se había estimado previamente, ¿qué amenaza poseía para merecer una movilización tan grande del Imperio Divino Fénix?... ¿y qué calificaciones poseía para que consideraran la posibilidad de solicitar que uno de sus grandes ancianos saliera de reclusión para tratar personalmente con él?
+
+Fue sólo cuando Feng Hengkong planteó el asunto de Feng Xue’er... que todos repentinamente se dieron cuenta.
+
+¡Como Feng Xue’er era el futuro Dios Fénix de la Secta Divino Fénix, sin importar cuán pequeño fuera el asunto, cualquier cosa relacionada con ella sería un gran problema que la Secta Divino Fénix definitivamente no podría ignorar! Si ella realmente sostuvo a Yun Che en tan alta consideración... ¡entonces dado el hecho de que la muerte ya había sido lanzada con respecto a la situación actual entre el Imperio Divino Fénix y la Nación del Viento Azul, además de la actitud que Yun Che había mostrado desde su regreso, Yun Che tenía que ser eliminado en la menor cantidad de tiempo posible a toda costa!
+
+Dado que éste era el caso, para asegurarse de que no habría accidentes, incluso si la movilización de un gran anciano era similar a usar una cuchilla para matar a un pollo, siempre y cuando el asunto concerniera a la Princesa de la Nieve, entonces era algo que tenía que ser hecho.
+
+En este momento, una gran explosión resonó desde fuera, y era como si un rayo hubiera descendido del cielo para atacar la gran sala, haciendo que toda la sala temblara violentamente.
+
+“¿Qué está pasando?” Feng Hengkong y los ancianos reunidos se pusieron inmediatamente de pie. La  luz del fuego brilló en sus caras cuando el Príncipe Heredero del Imperio Divino Fénix, Feng Ximing, se precipitó al vestíbulo con una velocidad fulminante mientras gritaba con urgencia: “¡Padre Emperador, estamos bajo ataque! ¡La puerta de la Ciudad del Divino Fénix y la Escultura del Dios Fénix... han sido destruidas por alguien!”
+
+“¿Qué?” La complexión de Feng Hengkong cambió abruptamente, y todos los ancianos también se habían puesto pálidos de shock. A pesar de que la reciente explosión había sacudido los cielos, todavía mantuvieron su compostura. A pesar de haber sido sorprendido desprevenido, nadie había entrado en pánico. Eran la Secta Divino Fénix, y nadie se atrevería a actuar precipitadamente contra ellos cuando estuvieran en el territorio de la Secta Divino Fénix. Como tal, era muy probable que fuera un accidente, pero incluso si alguien estaba tratando de pelear con ellos, esa persona sólo estaría cortejando la muerte... sin embargo, la puerta de la ciudad y la Escultura del Dios Fénix, que representaban el poder del Divino Fénix habían sido destruidos... así que ya no era simplemente un acto de violencia contra ellos; ¡Esta era una acción que había superado completamente la línea inferior de lo que la Secta Divino Fénix podría soportar!
+
+Feng Hengkong tomó la delantera cuando corrió inmediatamente fuera del Salón Principal del Fénix; Todos los ancianos lo siguieron de cerca. Mientras miraban hacia la puerta de la ciudad, sus rostros se volvieron oscuros y sombríos.
+
+La puerta de la Ciudad del Divino Fénix había estado durante cinco mil años enteros, y la Escultura del Dios Fénix encima de ella era el símbolo de su Secta Divino Fénix. Era costumbre que un anciano de la secta fuera personalmente e imbuyera la escultura con fuego de Fénix cada siete días, por lo que cada rincón de la Ciudad del Divino Fénix sería capaz de disfrutar de la eterna gloria y la luz del fuego que las llamas del fuego de fénix exudaban por la Escultura del Dios Fénix. No era sólo una simple Escultura del Dios Fénix; Más bien, era una representación de los cinco mil años de orgullo y gloria del Divino Fénix.
+
+Cuando la gente normal contemplaba de lejos la Escultura del Dios Fénix, se sentirían abrumados por una sensación de intimidación irresistible, e incluso su manera de caminar se volvería más retraída y cautelosa. Incluso si los miembros de los Cuatro Grandes Terrenos Sagrados llegaran, no se atreverían a mostrar una actitud irrespetuosa frente a la Escultura del Dios Fénix…
+
+Pero en este momento, todo lo que vieron fue que la Escultura del Dios Fénix, que había permanecido a cientos de metros de altura, había sido derrocada del cielo... fragmentada en muchos pedazos antes de caer al suelo con un gran estruendo. Entonces, fue quemada en una pila roja carmesí de la escoria junto con la puerta de la ciudad.
+
+El colapso de la Escultura del Dios Fénix se podía ver claramente incluso desde las afueras de la Ciudad del Divino Fénix, e indudablemente causó una gran conmoción en toda la ciudad, ya que casi todo el mundo estaba enraizado en el lugar o salió corriendo de los edificios mientras todos miraban aturdidos hacia la dirección de la Ciudad del Divino Fénix.
+
+“¿Quién... quién fue la persona que hizo esto?” El cabello de Feng Hengkong estalló hacia afuera mientras cada mechón de su cabello se ponía de punta. La rabia fundida salió de su cuerpo de una manera que era similar a una erupción volcánica. Pensar que la Escultura del Dios Fénix sería destruida durante su reinado... ¡era un insulto intolerable! ¡Sin importar quién fuera el culpable, basándose únicamente en esta acción, esa persona y todo lo relacionado con esa persona se convertirían en los enemigos mortales de la Secta Divino Fénix... y mientras ninguno de ellos muriera, no habría fin a las cosas!
+
+“¡Y pensar que alguien se atrevería a profanar al Espíritu Divino de nuestra secta... y tocar la escala inversa de nuestra secta! ¡Imperdonable! “Feng Feiran, el Segundo Anciano del Divino Fénix, dijo con una voz que temblaba de ira.
+
+“Yo personalmente lo voy a rasgar en pedazos!”
+
+Feng Hengkong se transformó en un haz de fuego mientras corría hacia la puerta de la ciudad. En realidad había dejado una explosión sónica en su estela cuando él salió disparado por el aire; nadie podía decir cuán volátil era la furia en su corazón.
+
+Todos los ancianos de la Secta Divino Fénix hicieron lo mismo. Cincuenta ancianos de la Secta Divino Fénix movilizándose junto con su Maestro de Secta era algo que nunca había sido visto en la historia de la Secta Divino Fénix. Por otra parte, la destrucción de la puerta de la ciudad y de la Escultura del Divino Fénix era semejante a un trueno explosivo dentro de la Secta Divino Fénix, y todos los príncipes, Señores de Salón, Maestros de Palacios, Asistentes, Discípulos de Alto Rango, y los Discípulos de Bajo Rango estaban todos inmóviles ante la insensibilidad. Sin  importar cuán importantes eran los asuntos que estaban asistiendo en ese momento, sin preocuparse de las consecuencias posibles, cesaron inmediatamente su trabajo ya que todos ellos se precipitaron hacia la puerta de la ciudad también.
+
+En un breve instante, toda la Ciudad del Divino Fénix se había vuelto un caos, ya que estaba envuelta en un aura que era a la vez ardiente y furiosa. La gente empezó a congregarse en el aire como un enjambre de langostas.
+
+Puerta de la Ciudad del Divino Fénix... oh, ahora, la puerta ya no existía, y lo único que quedaba era una torre de escombros. Las llamas de Fénix dentro de la Escultura del Dios Fénix también se habían disipado completamente después de la destrucción de la escultura. A pesar de que había brillado al principio como una gran conflagración de llamas rojas carmesí, todavía rápidamente se apagaron también.
+
+Frente a los escombros estaban los dos afortunados discípulos del Divino Fénix que eran los encargados de vigilar la puerta. Con sus pupilas dilatadas, permanecieron paralizados, con las piernas ferozmente temblorosas y los rostros completamente blancos por la conmoción. El terrible terror en sus rostros hizo que pareciera que acababan de despertar de una pesadilla, e incluso habían olvidado por completo el dolor que les habían infligido las llamas del Cuervo Dorado.
+
+El fuego y la arena cayeron rápidamente a la tierra, revelando una figura que estaba de pie sobre los escombros. Feng Hengkong dejó una tormenta de viento en su estela mientras se deslizaba por el aire. Una vez que había echado un vistazo a la persona que estaba encima de los escombros, sus ojos se ensancharon de inmediato mientras las llamas chisporroteaban sobre todo su cuerpo. “¡Yun Che... eres... tú!”
+
+Aunque Feng Hengkong estaba extremadamente furioso, no perdió la compostura. De hecho, durante el tiempo que había pasado volando hasta aquí, ya había hecho varias conjeturas... ¡pero los únicos culpables potenciales en los que podía pensar eran los Cuatro Terrenos Sagrados! Al mismo tiempo, se dio cuenta de que existía la posibilidad de que la muerte del Dios Fénix ya estuviera completamente expuesta.
+
+¡Porque sólo los Cuatro Terrenos Sagrados, bajo la condición de que hubieran confirmado la muerte del Dios Fénix, se atreverían a atacar la Secta Divino Fénix de una manera tan flagrante!
+
+Sin embargo, ni siquiera se había puesto a pensar que sería Yun Che. Él tenía una razón que era suficiente para descartar por completo de él... y era el hecho de que cuando Yun Che había utilizado la huella del alma de muerte de Feng Huwei para comunicarse con él ayer, él todavía estaba en la Nación del Viento Azul. Por otra parte, la Ciudad Nube Flotante estaba a cincuenta mil kilómetros de distancia de la Ciudad del Divino Fénix, y sin una Arca Profunda de alto grado que sólo poseían los Terrenos Sagrados, sería imposible para él llegar a este lugar en un día.
+
+Sin embargo, la persona que estaba de pie en la cima de los escombros era de hecho Yun Che.
+
+Y mientras Feng Hengkong seguía conmocionado y furioso, también soltó un enorme suspiro de alivio al mismo tiempo. A menos que fueran los Cuatro Terrenos Sagrados, la Secta Divino Fénix no se sentiría ni un poco intimidada. Además, también estaba claro que la muerte del Dios Fénix no había sido expuesta al mundo, por lo que el peligro que había atravesado su mente no se materializó en la realidad.
+
+Además, lo mejor de todo era que, mientras estaban ocupados discutiendo el asunto de eliminar a Yun Che, él se había entregado a su puerta... ¡y lo había hecho cuando todos los ancianos estaban reunidos! Incluso les había dado una muy buena razón para matarlo... ¡una razón tan buena que no habría mejor razón para existir! Originalmente, debido al hecho de que había rescatado a la Princesa de la Nieve hace tres años, si hubieran matado a Yun Che y salieran noticias de ello, sin duda se enfrentarían a muchas críticas. ¡Pero hoy, él personalmente había destruido la Escultura del Dios Fénix, así que incluso matarlo diez mil veces no sería irrazonable!
+
+¡Así que, sin importar qué, Yun Che no debería pensar... que él podría dejar este lugar vivo el día de hoy! Con eso, Feng Hengkong pudo resolver un asunto que le había estado picando en su corazón.
+
+“Humph, seguro que elegiste un gran momento para venir, todas las personas detrás de Feng Hengkong están en las etapas intermedias a finales del Reino Profundo Tirano, por lo que todos deben ser ancianos de la Secta Divino Fénix. Para pensar que todos estarían reunidos en un solo lugar, debieron de estar en medio de una gran reunión” Dijo Jazmín mientras se regodeaba con la desgracia de Yun Che.
+
+Yun Che cruzó los dos brazos sobre su pecho mientras su boca se inclinaba y torcía en una sonrisa fría y siniestra. Estaba frente a Feng Hengkong y a todos los ancianos y discípulos reunidos de la Secta Divino Fénix, pero su rostro estaba desprovisto de temor. En su lugar, se enfrentó a ellos con esa sonrisa fría cuando dijo: “Maestro de la Secta Divino Fénix, no nos hemos reunido en los últimos tres años, por lo que espero que usted todavía este con buena salud. Che, pensar que todos esos años atrás, el Maestro de Secta Divino Fénix se había fijado en deshacerse de mí, en la medida en que no se olvidó de arreglar que alguien me asesinara cuando estábamos en el Arca Profunda Primordial. Pensar que en tan sólo un corto lapso de tres años se han vuelto tan corteses. Acabo de llegar, pero no sólo el Maestro de la Secta Divino Fénix vino a saludarme personalmente, sino que incluso trajo a todos los ancianos y discípulos de la secta para que también me recibieran... Ah, esto realmente hace que este humilde se sienta algo avergonzado.”

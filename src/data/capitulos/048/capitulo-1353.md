@@ -1,0 +1,41 @@
+---
+titulo: "Capítulo 1353: ED  Madre Demonio"
+numero: 1353
+novelaId: "48"
+---
+
+Li Qiye no dio ninguna respuesta. Continuó navegando el barco en silencio. Durante un tiempo, el resto del grupo también guardó silencio. La escena que se avecinaba era demasiado impactante. El Kun y el gigante humanoide eran criaturas enormes e imparables. Sin embargo, se han convertido en meros huesos.
+
+Li Qiye de repente rompió el silencio con un grito: "¡Listos!"
+
+"¡Bang!" El agua de mar salpicó. En una fracción de segundo, el barco de Li Qiye saltó de repente sobre el mar y viajó más de diez mil millas.
+
+"¡Boom!" Al mismo tiempo, un esqueleto largo y grande se precipitó desde el lecho marino.
+
+Parecía bastante extraño.No había cabeza ni cola, solo un tubo hecho de huesos.Dentro había numerosos dientes entrelazados como engranajes afilados y fuertes.Cuando estos engranajes extraños parecidos a dientes comiencen a girar, podrían aplastar todo en pedazos.
+
+"¡Splash!" Saltó directamente del agua hacia el esqueleto.
+
+"¡Ven!" El daoista sonrió y soltó un puño con prisa.En este momento, no trató de ocultar su poder.El aura de un Godking se elevó hacia el cielo junto con una magnífica energía de sangre que surgió como una presa rota.Inmediatamente se iluminó como si su cuerpo estuviera hecho de oro.Bajo su físico diamante, su puño se veía como una montaña dorada que se estrelló contra este extraño esqueleto."¡Boom!" ¡El esqueleto fue devuelto al mar, creando un gran maremoto!Sin embargo, después de un momento, saltó fuera del agua para perseguir al barco.Li Qiye se rió: "Ve afuera para luchar, no rompas mi barco". Habiendo dicho eso, movió el timón.Con el sonido de una escotilla abierta, un bote más pequeño sedesprendió de la capa inferior de donde estaban parados y flotó hacia lasuperficie del mar."¡Está bien!" El daoista saltó a este bote y se enfrentó al esqueleto entrante sin temor."¡Rumble!" Mientras el daoísta se enfrentaba al extraño esqueleto, sonaron más salpicaduras.Varios esqueletos más que se veían exactamente como el que acaba de saltar.Las chicas contaron rápidamente y descubrieron que había nueve de ellos.
+
+Estas nueve figuras sin cabeza paradas en el mar eran bastante espeluznantes, sin importar cómo uno lo mirara. Esto fue enfatizado por ellos rechinando sus dientes, emitiendo crujidos.
+
+Ambas chicas exclamaron: "¿Qué demonios son estas cosas?"
+
+"Unamadre demonio tiene nueve conectores". Li Qiye miró estos tubos óseos ydijo: "Es una criatura diabólica que murió hace mucho tiempo perotodavía causa problemas".
+
+"Clank!" El daoista no se atrevió a ser descuidado y subestimar estos extraños tubos. Sacó su Cuchilla de Pureza Antigua y se preparó para luchar contra los enemigos.
+
+"¡Woooo!" Los nueve extraños tubos de repente emitieron un agudo y espeluznante grito. Se escucharon silbidos cuando estas criaturas abrieron la boca. Los discos circulares hechos de huesos salieron disparados a velocidades extremas.Estosdiscos en realidad se unieron para formar un cabrestante grande,atrapando al daoista en el medio en un abrir y cerrar de ojos.Incontables dientes afilados dentro del artilugio destinados a molerlo en carne picada.Al mismo tiempo, estos tubos también escupieron largas espinas huesudas con una agudeza increíble.Con la velocidad del rayo, apuntaron a su corazón.Su cuerpo quedó atrapado por el cabrestante de corte con un espolón óseo fatal que apuntaba directamente hacia él.Tal técnica asesina dejaría a muchos maestros indefensos.Sin embargo, el daoista todavía era indiferente.Soltó una larga carcajada y dijo: "¡Buen movimiento!"En este momento de la vida y la muerte, su físico diamante estalló con una luz ardiente.Con su estado actual, ignoró tanto el cabrestante como el espolón óseoletal mientras movía su cuchilla horizontalmente hacia los nueve tubosóseos."¡Clang!¡Clank!¡Clank! "El cabrestante se tensó alrededor de su cuerpo.Los engranajes afilados parecían estar cortando en el metal más duro del mundo con chispas volando por todas partes.No pudieron lastimarlo en lo más mínimo.Al mismo tiempo, los largos espolones finalmente golpearon su corazón.Con una luz cegadora como una estrella explosiva, solo quedó una abolladura superficial;no podían atravesar su pecho."¡Clank!" Un himno de espada resonó cuando la Cuchilla de Pureza Antigua cruzó el cielo.Bajo el empoderamiento de su energía de sangre, esta espada emitió un aura imperial invencible.Un solo corte podría cortar una miríada de eras, enterrar el Yin y el Yang, y decapitar a los dioses y diablos.En este momento, otros podrían ver el poder del daoísta así como la formidable espada.Este corte iluminó todas las eras.Con un fuerte chapoteo, los nueve tubos fueron cortados en dos y cayeron al agua.Sufísico diamante además de su cultivo de un Godking podríapermitirle barrer fácilmente a través del Espíritu del Cielo.Sería difícil encontrar a alguien entre la generación más joven que podría competir contra él.Tal vez solo Meng Zhentian podría ser su rival."¡Crash!" Una ola se elevó hacia el cielo y los tubos cortados se elevaron una vez más.Uno podía escuchar los sonidos de chasquidos de huesos reconectandose.En un corto período de tiempo, estos tubos cortados se conectaron completamente de nuevo.Los tubos individuales desaparecieron y un esqueleto completo apareció ante él.Este esqueleto era enorme.Encima de él había una gran calavera que contrastaba en gran medida con su exo-armazón, bastante esbelto, de mujer.Espolones espinosos extendidos alrededor de esta figura esbelta.Cada uno de ellos tenía un brillante brillo oscuro que parecía bastante horrible.También arrojó una niebla negra ondulante de su boca como una tormenta horrorosa."¿Qué pasa ahora?" Jianshi se sorprendió al ver este enorme esqueleto.
+
+"Esa es la Madre Demonio". Li Qiye sonrió y respondió: "El espectáculo apenas comienza. Es suficiente para darle a él un momento difícil por un tiempo ".
+
+Habiendo dicho eso, él continuó moviendo su barco.
+
+Qianbei no pudo evitar preguntar: "¿No estamos esperando al Señor de la Isla Sol Puro?"
+
+"No te preocupes, él no puede morir. ¿Alguien que puede llevar la Cuchilla de Pureza Antigua con él al exterior muriendo tan fácilmente? Eso sería una desilusión. "Li Qiye ni siquiera se molestó en mirar hacia atrás.
+
+EstaMadre Demonio esquelética arrojó una tremenda cantidad de niebla negra enla forma de cráneos que volaron directamente al daoista.
+
+Sin embargo, su físico ya estaba activado, por lo que no le importaba que estos cráneos de niebla lo golpearan."¡Bang!" Todos estos cráneos explotaron con una fuerza no menor que la explosión de una estrella.La niebla negra continuó barriendo sobre él.No solo eran poderosos sino que portaban una aterradora toxicidad másque suficiente para convertir en cenizas una existencia poderosa."Sizzle!" Inicialmente, una luz brillante del físico diamante se podía ver dentro de la niebla negra.Sin embargo, este físico comenzó a cambiar.Su luz dorada se atenuó.La niebla estaba empezando a corroer su físico.Tuvo que canalizar más energía de sangre para que el físico pudiera volver a encenderse.Su cuerpo que se estaba volviendo negro por la erosión comenzó a arrojar capas de ceniza.La niebla negra de una Madre Demonio podría aniquilar a un Monarca Dios, pero su físico diamante podría resistir su corrosión.Al mismo tiempo, atacó con su espada vibrante.Cruzó el cielo como un arcoíris y fue directamente hacia el gigantesco cráneo de la criatura."¡Bang!" En esta fracción de segundo, la Madre Demonio repentinamente golpeó sus palmas para formar un mudra que veníapresionando hacia abajo.Este mudra era demasiado rápido.¡El daoista no pudo bloquearlo, así que fue volado!Su pecho se hundió como si se hubiera colapsado.Suataque con la espada también era capaz de matar fácilmente a Monarcas Dios, pero no fue suficiente para derrotar a la Madre Demonio.Él claramente perdió este intercambio en particular.Afortunadamente, sobrevivió debido a su constitución especial.Cualquier otro Godking en el mismo nivel que él se habría convertido en sangre.Más de 100 Capítulos de ED avanzados en elpatreony aumentando cada día. Promoción de 12 cupos para los primeros 12 patrons a $7. Para consultas pueden comunicarse con nuestro equipo por whatsapp al +56976572857

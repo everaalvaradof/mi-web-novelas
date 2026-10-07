@@ -1,0 +1,53 @@
+---
+titulo: "Capítulo 373: ED  Cuatro Imágenes Ominosas(ominosa=siniestro)"
+numero: 373
+novelaId: "48"
+---
+
+"¡Matad!"El Ancestro del Aullido del Tigre lanzó un fuerte grito cuando toda su energíasanguínea fue consumida por las cuatro tumbas ominosas.Independientemente del resultado de esta batalla, su muerte estaba asegurada.Incluso si Li Qiye no lo mató, estaba condenado a morir de vejez."Retumbar!" Las cuatro grandes imágenes vinieron avanzando con una cantidad interminable de energía oscura."Bang!" Li Qiye se enfrentó a este ataque con las armas del emperador, pero todavía fue soplado lejos.Sin embargo, rugió cuando el cielo se volvió brillante debido a su gran dao.En este momento, Li Qiye reveló todas sus técnicas más fuertes: milmanos contra los nueve mundos, el secreto inmortal de la luz del día, y la Ley de Nueve Soles Bloqueando el Cielo.Con las manos levantando tres mil mundos menores, su poder combinado se agregó en las dos armas del emperador.La Ley Secreta de la Voluntad del Cielo descendió como un camino celestial con todas las fuerzas del mundo centradas en el cuerpo de Li Qiye.Losnueve soles comenzaron a subir como una cantidad interminable de llamasrefinadas se convirtieron en el catalizador más poderoso para las dosarmas del emperador ..."¡Boom! "Despuésde una fuerte explosión, las dos armas del emperador en las manos de LiQiye exudaron un inmemorial poder del emperador para detener lasupresión de las cuatro grandes imágenes.
+
+Sin embargo, como antes, Li Qiye era todavía incapaz de soportar esta fuerza. En ese momento, el gran dao se rompió cuando la tierra bajo sus pies se fracturó. Losríos y los pabellones antiguos se derrumbaron a medida que las leyesuniversales bajo la Escuela Aullido del Tigre ya no podían protegeresta área. Los gruesos hilos de leyes comenzaron a estallar.
+
+En un corto período de tiempo, gritos miserables emanaron en toda la escuela. Muchos discípulos trajeron a los jóvenes y ancianos para escapar de este lugar que estaba enfrentando su inminente destino.
+
+"¡POOF! ¡Poof! Poof! "En el peor momento posible, apareció un problema en el cuerpo de Li Qiye. Su DestinoVerdadero parecía afectado por las cuatro imágenes cuando surgió un aura maligna y arrojó innumerables llamas. ¡Estas llamas malvadas se elevaron sobre Li Qiye como una marea y se convirtieron en un aterrador vórtice que quería engullirlo!"¡Calamidaddel Destino!" Al ver que este malvado vórtice parecido al océanoapareció por encima de su cabeza, incluso el grupo de Li Shuangyan sesorprendió. Su Calamidad del Destino eligió el peor momento para aparecer.
+
+"¡Noes bueno, la Calamidad del Destino de Li Qiye apareció!" Muchaspersonas fuera de la Escuela Aullido del Tigre se asombraron al vereste vórtice torrencial.
+
+"¡Hasta los cielosquieren destruirte!" El Ancestro del Aullido del Tigre lanzó una risa enloqueciday ordenó a los ancianos y protectores que quedaban: "Usa todos nuestros jadesrefinadosy abre todos los fundamentos ancestrales.Hoy, si nuestros enemigos no mueren, entonces pereceremos! "Un fuerte sonido estalló tras su orden. Laluz de jades refinados salió de la parte más profunda de la escuela,seguida por el aura de las cuatro tumbas ominosas como si la entrada alinfierno se hubiera abierto. Esta energía oscura fue devorada inmediatamente por las cuatro imágenes gigantes. Se volvieron mucho más fuertes cuando cayeron sobre Li Qiye. Li Qiye lanzó chorros de sangre mientras se retiraba. Cada uno de sus pasos llevaba una fuerza tan grande que rompía montañas y picos.
+
+En este momento, la escuela dejó de ser cautelosa y desató todos sus fundamentos ancestrales. En un corto período de tiempo, la tierra se rompió y sólo quedaron los ancianos y protectores. ¡Todos los discípulos débiles llevaban a los viejos y jóvenes al exterior!
+
+"¡Om-!" Una cosa aún más aterradora sucedió después de un zumbido.Una puerta maligna extremadamente grande se abrió en el horizonte con la energía oscura que ondeaba como un océano furioso.Era como si esta puerta quería convertir este lugar en una tierra de maldad."¡Latribulación de la Calamidad del Destino está aquí!" Numerosas personasafuera de la escuela miraron hacia arriba para ver la malvada puertaabriendo sus puertas en el cielo, creando muchos fenómenos siniestros. Todos los espectadores quedaron horrorizados.
+
+"Este demonio del corazón es tan poderoso. Sóloun Noble Real de seis palacios tendría una Calamidad deDestino tan poderosa. "Algunos en la distancia se sobresaltaron mientrasotros se regodeaban por la desgracia de Li Qiye.
+
+"Hahaha,Pequeño Animal, ¡los cielos seguramente te terminarán!" Después de vertantas imágenes malvadas descendiendo del cielo, el Ancestro del Aullido del Tigrese rió salvajemente.
+
+"Tiempo para terminar esto.Echa un vistazo a mi carta de triunfo! "Li Qiye no tenía miedo y se rió en contra de las expectativas.Con un auge, sus seis palacios se convirtieron en un dominio sin fin que estaba lleno de energía primordial."¡Auge!" La vena de tigre de la Escuela Aullido del Tigre se desgarró como la tierra misma se agrietó.
+
+Dentro del dominio absoluto de Li Qiye estaba un enorme lago lleno de esencia del mundo; la raíz de Terra crecía dentro de este lago.
+
+Una cosa increíble sucedió en este momento. Laenergía del mundo sin fin de la grieta en la vena del tigre de repentearrojó un enorme pilar que fue absorbido locamente por el dominio de LiQiye!
+
+"¡No!" El Ancestro del Aullido del Tigre rugió y no se atrevió a creer en sus ojos. Esta era una cuestión imposible, ya que ni siquiera él podía controlar la esencia del mundo de la Vena del Tigre Blanco. Incluso su Progenitor, el Dios Tigre, apenas podía controlarlo. Sin embargo, en este momento, su esencia del mundo repentinamente fue devorada por Li Qiye. Él estaba completamente reacio a creer que tal cosa estaba sucediendo!"¿Cómoes esto posible?" Incluso los espectadores del exterior quedaronatónitos ante el dominio de Li Qiye que de repente se tragó la esenciadel mundo de la Vena del Tigre Blanco.Uno no debe ser capaz de controlar esta gran vena, y mucho menos tragar su energía.Sinembargo, nadie sabía que la Raíz de Terra de este lugar ya había sidorefinada por Li Qiye y ahora estaba firmemente plantada en su dominio.Con su ayuda, devorar la energía de toda esta vena del tigre blanco era una cuestión trivial."¡Bang!"Despuésde que terminó el proceso devorador, su dominio absoluto de repente seconvirtió en su tercer ojo, inmediatamente formando el brillo más caliente ybrillante.En este momento, su dominio absoluto parecía ser el origen del gran dao cuando estallaba con su poder;este era el dao más fuerte y ordenado que podía aplastar todas las cosas!Antesde que las innumerables imágenes malignas que estaban siendo liberadasdel malvado mar por encima de la cabeza de Li Qiye pudieran descender alsuelo, todas ellas se convirtieron en cenizas antes de este golpeinvencible y destructivo de la radiación más brillante."¡Estabaesperando este momento!" Li Qiye, de la manera más elegante, destruyó su Calamidad del Destino- fácil y absolutamente perfecto.
+
+Todo esto sucedió en un simple abrir y cerrar de ojos. Dedevorar la esencia del mundo de la vena del tigre y usar un golpe paradestruir la Tribulación de la Calamidad del Destino, apenas habíatranscurrido un tiempo.
+
+Todo el mundo miraba con la boca abierta porque nunca habían visto una escena tan impactante. ¡Un golpe para superar la Calamidad del Destino y destruirla completamente!
+
+"¡Se acabó!" La expresión de Li Qiye se oscureció. Con la Lanza de Sangre del Inmortal en su mano, la tiró abajo. Esta fue una huelga para castigar a los dioses y demonios! ¡Una lanza que envió el miedo a los corazones de miles de mundos!¡Algo que era capaz de causar la caída de los dioses y que justificaba la retirada de los Emperadores Inmortales!¡Cuando esta lanza fue lanzada, dejó una marca indeleble en el horizonte!En una gran batalla, desgarrar el cielo era una cosa común. Inclusosi el cielo estaba dividido, se recuperaría fácilmente ya que muy pocaspersonas podrían destruir la tela del tiempo y el espacio para siempre. Sin embargo, esta lanza dejó atrás una marca eterna que era poco probable que se vaya por un tiempo muy largo!
+
+Independientementede si estaban fuera de la escuela aullido del tigre o simplementedentro de las cien ciudades del este, un sinnúmero de personas se vieronobligadas a postrarse en el suelo. En este momento, muchos ancestros de las grandes potencias perdieron sus mentes del miedo.
+
+"Alguien está desatando una Masacre Imperial o una Aniquilación Celestial!" Un viejo ancestro soltó un grito fuerte.
+
+Una masacre imperial fue el último golpe de un tesoro de la vida del emperador inmortal.Fuera de los Emperadores Inmortales, muy pocos descendientes podrían desencadenar tal ataque.Una aniquilación celestial, por otro lado, fue el último ataque de un tesoro verdadero de emperador inmortal!Estosataques eran como sus nombres: la masacre cometida por los EmperadoresInmortales o la aniquilación llevada a cabo por los altos cielos! Estosfueron los ataques más aterradores que este mundo se enfrentaría, eincluso ParagonesVirtuosos perderían sus colores cuando se enteraron deellos!"¡No!" Al final, el Ancestro del Aullido del Tigre lanzó un grito indignado. Con una fuerte explosión, el suelo ancestral de la escuela fue súbitamente borrado, dejando sólo un cráter negro sin fondo!
+
+Enese momento, Li Qiye llevaba la Lanza de Sangre del Inmortal con unaespantosa intención asesina que llenaba todo el horizonte. Incluso los viejos imperecederos que se ocultaron en la oscuridad para mirar la lucha sentían sus piernas temblar.Encuanto a las existencias como el Rey Celestial del Rugido del León, sequedaron tumbados en el suelo después de estar completamentehorrorizados.
+
+Algunos de los espectadores atónitos tenían la boca abierta tan grande que uno podía encajar un huevo dentro.¡Algunos encontrarían que sus mandíbulas se dislocaron de este shock!Bajo esta lanza, el terreno ancestral de la escuela se convirtió en cenizas. Estelugar que una vez se parecía a un tigre gigante se había fragmentadocomo incontables montañas y ríos se derrumbaron, mientras que la zonaprincipal se convirtió en un cráter horrible.
+
+"¡Quévergüenza!" Li Qiye guardó la Lanza de Sangre del Inmortal y murmuró:"¡Un paso demasiado tarde para apoderarse del Tesoro Verdadero de Emperador Inmortal!"
+
+Tomó prestada la lanza de Zi Cuining con el fin de suprimir el tesoroverdadero , pero se tomó la acción demasiado tarde!"¡Vamos!" Al final, mientras el grupo de Li Shuangyan todavía estaba aturdido, comandó Li Qiye.Todos se despertaron de inmediato y lo siguieron enseguida.

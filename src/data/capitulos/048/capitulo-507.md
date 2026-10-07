@@ -1,0 +1,47 @@
+---
+titulo: "Capítulo 507: ED  Gran creación legendaria"
+numero: 507
+novelaId: "48"
+---
+
+El daoista respiró hondo y puso una expresión solemne. Encendióun poco de incienso y arregló su ropa, luego sacó lentamente uncaparazón de tortuga antes de finalmente sentarse con las piernascruzadas.
+
+Al ver la apariencia del daoista, Lan Yunzhu se rió y preguntó: "Quieres tomar la gran creación, no la fortuna de alguien. ¿Para qué sacas el caparazón de tortuga?"
+
+El daoísta avergonzado sonrió y respondió: "Los objetos creados por los cielos son únicos y no cualquiera puede disfrutarlos.Inclusoapoderarse de él podría no ser algo bueno, así que calcularé mi propiodestino para ver si puedo soportar tal supremo tesoro o no ".
+
+"¿Existe tal creencia?", Preguntó Lan Yunzhu con escepticismo.Luegosonrió y dijo: "Entonces, dado que nuestro río Carpa Milenaria tiene Tesoros de Vida Emperador Inmortal y Tesoros Verdaderos, ¿no significa eso quetambién seremos castigados por los cielos?"El daoista negó con la cabeza en respuesta: "Hada Lan, nuestra tribucorazón-fantasma es diferente del río Carpa Milenaria. Nuestra tribu divina obedece a los cielos mientras tu Río de Carpa Milenaria va contra los cielos. Si calculamos algo demasiado sorprendente, vamos a sufrir un castigo celestial.""Deacuerdo con nuestros cálculos, tu Emperador Inmortal Qian Licontinuamente fue contra los cielos hasta que alcanzó el nivel deEmperador Inmortal. Esto significa que, hasta cierto punto, la voluntad de los cielos permitió al emperador llevar la Voluntad del Cielo. Luego,el emperador creó la fundación de un emperador supremo para el río Carpa Milenaria para protegerlo durante millones de años. "Cuando setrataba de la adivinación, el daoísta farfullaba incesantemente.
+
+"¿Contra los cielos? De acuerdo con la voluntad de los cielos? "Mientras escuchaba, Lan Yunzhu se interesó mucho. En general, a los cultivadores no les interesaba la adivinación y solo consideraban a los adivinos como charlatanes callejeros.LiQiye se rió entre dientes y sacudió la cabeza para añadir: "Este asuntoes muy misterioso, pero puedes expresarlo así: Tu Río Carpa Milenaria es el linaje de un emperador con suficiente fuerza.Ustedes tienen las leyes del emperador por lo que la secta se ha vuelto bastante poderosa.Incluso aquellos que quieren las armas del emperador no se atreverán a maniobrar contra ti.""Pero ahora hablemos de una secta más pequeña.Porejemplo, una secta más pequeña o un cultivador vagabundo que poseevarias armas de emperador o una escritura mítica, ¿serían capaces deprotegerlos?Una vez descubiertos, serían aniquilados dentro de varios días "."Ah ..." La explicación simple de Li Qiye dejó boquiabierto al daoista.Finalmente agregó: "El argumento de Sir es de hecho una explicación alternativa, hay algo de cierto en ello"."Muy bien.En sus enseñanzas de adivinación, existe este dicho: solo los valientes prosperarán.No importa si serás capaz de soportarlo o no, aprovecha la oportunidad de agarrarlo primero y luego decidir más tarde.¿Qué existencia invencible no enfrenta dificultades?Aquellosque llegaron al ápice pasaron por innumerables pruebas de vida omuerte y mediante bautismos de sangre." Li Qiye negó con la cabeza ycontinuó con una sonrisa: "Como dijiste antes, calcularías por ti mismoantes de salir de casa.Enuna generación como esta, es mejor que nunca salgas de la casa ya quees más seguro permanecer allí como una tortuga en su caparazón "."¿Dónde puedes adquirir un tesoro definitorio tan fácilmente? Por supuesto, obtener una creación también sería difícil. "Li Qiye sacudió la cabeza con una sonrisa.
+
+"Bien, déjame calcular para ver qué artículo sería aceptado por el Reino Secreto." El daoista respiró profundamente y decidió. Al final, no pudo cambiar su hábito ocupacional.
+
+"Craa-craa-craa-"Con una expresión seria, el daoista sacudió meticulosamente su caparazónde tortuga, creando sonidos crujientes.
+
+"¡Ding ding ding ding!" Finalmente, arrojó el caparazón de tortuga al suelo para ver cómo podía obtener esta gran creación.
+
+"¡Crack!" Sin embargo, el caparazón de tortuga se rompió de inmediato en el momento en que tocó el suelo.Conuna expresión blanqueada, el daoista dio varios pasos hacia atrásmientras temblaba como si acabara de clavarse un martillo en el pecho.Ver este repentino desarrollo sacudió a Lan Yunzhu con una sacudida cuando preguntó: "¿Qué pasó?"
+
+"Es incalculable". Li Qiye negó con la cabeza y respondió.
+
+"¡El castigo del cielo!". El daoísta ya no se atrevía a adivinar más.Como miembro delcorazón-fantasma, entendió el significado del castigo del cielo.Luchópor respirar hondo para calmarse antes de inclinarse hacia Li Qiye:"Estoy agradecido por la oportunidad de Sir, pero desafortunadamente, nopuedo ser dueño de esta creación.Tal vez traerá una calamidad a toda mi tribu ".
+
+"¿Es tan terrible el castigo del cielo?" Lan Yunzhu vio el miedo en él y le preguntó emocionalmente."Eso fue solo una advertencia de los cielos".Si me obligo a adivinarlo, entonces tal vez compartiré el mismo destino que mi ancestro.Y no sería solo mi muerte, tal vez toda mi tribu enfrentaría el rayo celestial también.Estas creaciones son extremadamente desafiantes y no creo que deba poseer tales artículos.Incluso obtener uno por casualidad no sería necesariamente una bendición "."¿Que hay de mí?¿Crees que puedo soportarlo?O más bien, ¿tengo la fortuna y la capacidad de disfrutar del tesoro definitorio? ", Preguntó Lan Yunzhu a Li Qiye.Li Qiye respondió con una sonrisa: "¿Tú?Conrespecto al poder del Río de Carpa Milenaria, así como a la adivinación,deberías tener la suficiente fortuna para soportarlo.Sinembargo, ¿sabes cómo adquirirlo? "Aquí, señaló al daoista y dijo:" Siarriesga su vida para calcular como un Maestro Espejos Sincorazón, entonces talvez él encontrará algunas pistas, pero tú ... No lo harás ".Sabes algo ..."Es por eso que le di una oportunidad.Otros no podrán saberlo, solo Maestros Espejo Sincorazón de la Tribu Corazón -Fantasma tienen la oportunidad de resolverlo "."¿Maestro del espejo sincorazón?" Lan Yunzhu miró al daoista ypronunció asombrosamente: "¡La leyenda dice que estos maestros nacen connaturales y calculadores pupilas divinas en tu tribu delcorazón-fantasma!""Dehecho, Hada Lan, nací naturalmente sin un Sincorazón, así que elcielo me compadece". El daoísta no se atrevió a jactarse y solorespondió con sinceridad: "Sin embargo, nacer con pupilas divinas paraver no es necesariamentealgo bueno ".Todos sabían que los miembros de Corazón-fantasma nacieron con espejo corazón, pero Daoista Calculo del Cielo nació sin uno.La mayoría de los miembros sin un espejo corazón no podrían convertirse en adivinos.Sin embargo, había una cierta posibilidad de que tuvieran pupilas divinas.¡Estas personas se llamaban Maestros del Espejo Sincorazón y estabandestinados a ser grandes adivinos desde el momento de su nacimiento!"Y así, solo un Maestro espejo sincorazón como él tiene una cierta posibilidad de adivinar el secreto.Tú, por otro lado, no puedes, a menos que tengas algo más para ayudarte ", dijo Li Qiye con una sonrisa.Al escucharesto, Lan Yunzhu inmediatamente miró a Li Qiye y reveló una sonrisaresplandeciente, una sonrisa que abarcaba encanto y belleza, una sonrisaque pedía simpatía. Luego dijo: "Entonces cuéntame sobre esta creación, o simplemente ayúdame a conseguirla".
+
+"Losiento, pero tienes que obtener esta creación por ti misma." Li Qiyenegó con la cabeza y agregó: "El que te traiga aquí ya es una creaciónen sí misma".
+
+Lan Yunzhu le dio un codazo enojada y lo miró con ira cuando dijo: "Tacaño, no importa entonces".
+
+Li Qiye luego cambió su atención al daoista y dijo: "Todavía tienes una oportunidad. Si puedes descubrir el significado último, entonces aún puedes tomarlo sin tener que hacer nada.Concederte el poder de las pupilas divinas solo podría verse como los cielos amando a los Maestros del Espejo sincorazón "."Graciaspor su amabilidad." El daoista fue razonable y dijo: "Obtener este tesorosupremo es inútil si no estaré vivo para disfrutarlo. Este pequeño no tiene la fortuna de disfrutar de un tesoro tan precioso ".
+
+"¡Hmph! Bien,entonces olvídate de este tesoro definitorio ". Lan Yunzhu dijocoquetamente:" Puedes agarrar esto tú mismo, conseguiré una creacióndiferente. Rápido, dime cómo conseguir uno diferente ".
+
+Li Qiye se rió entre dientes y señaló a los elfos durmientes junto al lago, diciendo: "Ve y despiertalos". Ustedes pueden elegir un duende e intercambiar algo con ellos. Cualquier cosa que obtengas dependerá de tu propia fortuna ".
+
+Lan Yunzhu y el daoista miraron a los elfos durmiendo junto al lago.Eran como rocas redondas sin ningún movimiento en absoluto.
+
+"¿Qué deberíamos intercambiar?", Preguntó Lan Yunzhu.Li Qiye respondió: "Es muy simple, les gustan más las cosas doradas. Saque algo con un color dorado brillante, pero por supuesto, el oro es lo mejor. Les gusta mucho el oro ".
+
+Lan Yunzhu y el daoista de repente se callaron. Alos ojos de los mortales, el oro era realmente muy valioso, pero erabasura para los cultivadores, ya que no tenían necesidad de artículosmortales.
+
+Algunos cultivadores vagabundos,especialmente los más débiles que a menudo se mezclan con el mundomundano, tendrían un montón de oro en sus bolsillos. Lamentablemente, Lan Yunzhu provenía del linaje de un emperador, por lo que no tenía necesidad de tales cosas.
