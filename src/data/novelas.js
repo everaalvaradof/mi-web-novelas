@@ -854,6 +854,25 @@ export const novelas = [
         }
     },
     { 
+        id: "046", 
+        titulo: "Renacimiento de la reina del apocalipsis", 
+        titulo2: "REBIRTH OF THE APOCALYPSE QUEEN, 重生末世女王：帝少，跪下！",
+        genero: "Romance, ciencia ficción, romance", 
+        anio: "2026", 
+        imagen: "/portada/46.webp",
+        sinopsis: "Qin Yi volvió a nacer y regresó a ella medio mes antes del final de la vida. Al ver los verdaderos colores de la hermana escoria y del padre escoria en esta vida, juró hacerles probar la sangre. Se disfrazó de hombre, escalando y haciéndose cada vez más fuerte. El mundo la respetaba como la “Maestra del Señor”, lo que hizo que innumerables personas se inclinaran. Es sólo que este hombre que la molesta, no se rompió la manga, se cayó. Frente a un grupo de hombres y mujeres que quieren agarrar a alguien de ellos, alguien parecía asesino, Qiqi es mío. Entonces descaradamente se inclinó frente a Qin Yi, “Qiqi, no me importa tu género. Todos:..",
+        totalCapitulos: 861,
+        capitulosPublicados: "861",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "The-Glass-Pearl",
+        tag: "Hermosa protagonista femenina, protagonista masculino guapo, espacio mágico",
+        seo: {
+            title: "Leer Renacimiento de la reina del apocalipsis en Español - Novelas Ligeras",
+            description: "Disfruta de Renacimiento de la reina del apocalipsis en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
         id: "047", 
         titulo: "Sólo yo soy un nigromante", 
         titulo2: "ONLY I AM A NECROMANCER, 나 혼자 네크로맨서",
