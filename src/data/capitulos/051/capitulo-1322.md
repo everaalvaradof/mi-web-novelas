@@ -1,0 +1,7 @@
+---
+titulo: "Capítulo 1322"
+numero: 1322
+novelaId: "51"
+---
+
+"Su Majestad, Su Majestad!"¿Un  cultivador emperadoravanzadoque tose sangre antes de intercambiar golpes con el enemigo?A este ritmo, ¿no se colapsarían antes de que se sacara la primera espada?La reunión se disolvió en desorden."Mis condolencias, Su Majestad, ¡por favor cuiden su augusto ser!""Su Majestad, el destino del imperio descansa sobre sus hombros!"Los oficiales estaban en pánico.Normalmente disfrutaban de la mayor riqueza y el estatus más eminente gracias al sistema imperial.La familia imperial era el núcleo de ese sistema, y ​​el emperador el pilar de la familia imperial.Sin el emperador, lo perderían todo.Pero ahora, los pensamientos de auto-ganancia estaban volando de la cabeza.El enemigo estaba en la puerta, y si el emperador se derrumbaba, todoscaerían con él como fichas de dominó, dejando a los ministros el trigoindefenso para ser cosechado por la guadaña del enemigo.Aellos no les importó invadir a otra persona y saquear las riquezas porsus propios deseos egoístas, pero absolutamente no podían aceptar queles sucediera lo mismo.El viejo Guo se acercó al emperador, casi tropezando."Su Majestad…"El emperador lo pateó de nuevo y gritó: "¡¿Qué demonios están haciendo ?!¡No estoy muerto todavía y no moriré! "

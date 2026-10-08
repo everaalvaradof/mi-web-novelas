@@ -1,0 +1,15 @@
+---
+titulo: "Capítulo 921"
+numero: 921
+novelaId: "51"
+---
+
+Sin embargo, Jiang Chen aún no sabía nada sobre las reglas. Tampoco sabía exactamente cuántos genios sobresalientes había en CapitalVeluriyam . El emperador Peafowl parecía capaz de ver a través de los pensamientos de Jiang Chen cuando vio la mirada inquisitiva del joven. Élsonrió, "No has estado en Capital Veluriyam por mucho tiempo, por loque debes estar muy poco familiarizado con las batallas de la PagodaMarcial. ¿Sabes cuántas personas se registran para ello?"Jiang Chen no tenía prisa por responder la pregunta. En cambio, preguntó: "¿Hay un límite de edad?"
+
+El emperador Peafowl asintió, "Todos los participantes deben tener menos de sesenta años. Esto se debe a que la reunión de la Pagoda Veluriyam se celebra cada sesenta años. Por lo tanto, todos solo tienen una oportunidad en la vida para participar en la reunión ".
+
+"¿Qué hay de los genios bajo un gran emperador?" Preguntó Jiang Chen con curiosidad.
+
+El emperador Peafowl se rió, "Los genios bajo un gran emperador no necesitan participar en el concurso de Rankings de Genios. Solo necesitan participar en el concurso final Ranking de Jóvenes Señores ".
+
+"¿Qué? ¿Nosignifica eso que pueden esperar tranquilos para que llegue la batallafinal mientras todos los demás luchan por llegar a la cima?""Sí.Espor eso que los doscientos mejores de los Rankings de Genios realmentedeberían contarse después de restar la cuota tomada por los genios bajo los grandes emperadores.Por lo tanto, de hecho solo hay un centenar de espacios abiertos para todos los demás ".Jiang Chen no supo cómo reaccionar."Los genios bajo un gran emperador ocupan un total de treinta y seis espacios.¿Eso no significa que van a tomar muchos de esos espacios en los primeros treinta y seis? ""No es mucho, pero la mayoría de ellos.El llamado concurso del Ranking de Jóvenes Señores es en realidad una oportunidad dada a los genios de abajo para desafiarlos.Elsistema se ha establecido con la esperanza de que unos pocos geniossobresalientes puedan derrotar a esos genios del gran emperador y formenun sistema en el que solo sobreviven los más fuertes.Desafortunadamente, hay muy pocas personas que han logrado elevarse desde el fondo después de todas estas reuniones.El mayor número de genios comunes para reemplazar a los  genios de los grandes emperadores fue de cinco.En promedio, el número rondaba alrededor de dos o tres.En realidad, hubo un par de veces en que ningún genio común logró destronar a un solo  genio delgran emperador ".Jiang Chen no se sorprendió por esto en lo más mínimo.Ungenio bajo la bandera de un gran emperador excedía con creces a todoslos demás genios que estaban debajo de ellos, ya sea en términos detalento, recursos o horizonte.Era demasiado difícil para las personas que estaban en un nivel diferente desde la infancia para vencerlos.

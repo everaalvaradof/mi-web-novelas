@@ -1,0 +1,19 @@
+---
+titulo: "Capítulo 786: Convertirse en Hermanos Jurados"
+numero: 786
+novelaId: "51"
+---
+
+Graciasa las poderosas protecciones del Clan del Dragón Enrollado, variastramas tortuosas que el Clan Majestuoso tramó en secreto no secumplieron.Jiang Chen hizo suficiente preparación para sus próximas conferencias.Organizó muchos estudios de casos y materiales de la Facción de la Píldora Desviada.Dio conferencias durante cuatro horas seguidas todos los días durante tres días seguidos.El primer día, solo había alrededor de dos mil personas que vinieron a escucharlo.Al día siguiente, el número aumentó a aproximadamente cuatro mil.Como decía el refrán, las noticias pasaron rápidamente de boca en boca.En el tercer día, tenía más de decenas de miles de oyentes.Alver cuán populares eran las conferencias de Jiang Chen, la TorreTaiyuan aprovechó la oportunidad para promocionar sus creaciones entrela multitud.Vendieron todas las píldoras que promovieron y tomaron pedidos por adelantado, llenando el libro para el próximo medio año.Esta popularidad hizo que el padre y el hijo Wei sonrieran de oreja a oreja.Duranteun tiempo, se inundaron de emociones mientras veían a Jiang Chen dandouna conferencia elocuente en la plataforma de un orador.Nunca imaginaron que una mera coincidencia traería un giro completamente nuevo en el destino a la Casa Wei.Gracias a Jiang Chen, la Casa Wei había reprimido con éxito sus conflictos civiles.Gracias a Jiang Chen, la Casa Wei recuperó la buena voluntad del Clan del Dragón Enrollado.
+
+Graciasa Jiang Chen, la Casa Wei finalmente se estaba levantando como un nuevopoder en la industria de las píldoras en el Mercado de Dios Agricultor. Estas eran cosas que ni siquiera se habían atrevido a imaginar en sus cabezas hace solo unos meses. Ni siquiera podían soñar estas escenas cuando dormían.
+
+"Todos,el tiempo es lamentablemente limitado, así que esto es lo único que voya hablar hoy", anunció Jiang Chen desde la plataforma del orador. Su conferencia de tres días finalmente había llegado a su fin. La audiencia debajo de él, sin embargo, gritó en voz alta.
+
+"Rey de la píldora Zhen, te lo ruego, ¡por favor continúa tu conferencia por unos días más!"
+
+"Rey de la píldora Zhen, CapitalVeluriyam no ha escuchado conferencias tan interesantes durante muchos años"."Rey de la píldora Zhen, ¡soy tu firme seguidor de ahora en adelante!"
+
+"Por favor, háblelo, joven maestro Ji San".
+
+El joven maestro sonrió. "Tu y yo nos llevamos bastante bien desde el principio, y tengo la intención de convertirme en hermanos jurados contigo. Es un honor el pedirte esto"El padre y el hijo Wei se sorprendieron por esto.Aunqueel joven maestro Ji San aún no había sido elegido como el sucesor delClan del Dragón Enrollado, era el candidato favorito.Había muy pocas personas a quienes el joven maestro reconoció en CapitalVeluriyam.Incluso ellos eran simplemente subordinados que no tenían la calificación para hablar con él en igualdad de condiciones.Una persona con quien el joven maestro estaba dispuesto a convertirseen hermanos jurados no había aparecido en toda la CapitalVeluriyam ,hasta este día.Jiang Chen no había esperado que el joven maestro Ji San planteara tal pedido.Cuando notó la apariencia absolutamente sincera del joven maestro Ji San, él también se sintió abrumado por una gran emoción.Él se rió, "No, es un honor para mí ser hermanos jurados contigo"."¡Bien muy bien!¡Jajaja!Hehecho innumerables amigos en toda mi vida, ¡y ahora finalmente heencontrado un hermano a quien también puedo mostrar devoción completa! Señor de la CasaWei, por favor haga algunos preparativos y permítanos tomar prestada su tierra preciada por un momento.Megustaría quemar incienso en oración al cielo y a la tierra y tenerloscomo testigos del día en que me convierto en hermano jurado del rey de la píldora Zhen! "

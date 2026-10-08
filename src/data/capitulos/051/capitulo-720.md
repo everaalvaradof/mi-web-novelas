@@ -1,0 +1,27 @@
+---
+titulo: "Capítulo 720"
+numero: 720
+novelaId: "51"
+---
+
+Huang'er también se sorprendió un poco al escuchar eso.Habíatesoros que podían detectar rostros disfrazados, y muchos expertos conconciencia fuerte podían hacer lo mismo sin el uso de tesoros.Pero que la Capital Celestial Eterna repartiera tesoros capaces de hacerlo, significaba que estaban yendo con todo.Sería casi imposible que los dos atravesaran las puertas, a menos quepudieran transformarse de la misma manera que los dragones.Los dos se miraron, el abatimiento claro en los ojos del otro.Justo cuando estaban momentáneamente abatidos, comenzó un jaleo afuera.Pronto se acercó, y pronto un grupo de treinta personas se metió dentro.Lamayoría de ellos iban vestidos con atuendos de guerreros, y eranconducidos por un hombre de mediana edad que vestía una túnica azul.En general, se parecía a un mayordomo que dirigía a un grupo de guardias de la casa.Expulsaban la intención de matar, y sus cuerpos llevaban las marcas de una batalla intensa.Sinembargo, sus caras parecían contener una ansiedad apenas oculta, y losguardias parecían estar protegiendo la camilla construidaapresuradamente que se llevaba en el medio.No parecían querer correr ningún riesgo, cada uno en alerta máxima.Sus cabezas parecían estar girando, sus ojos nunca paraban mientras buscaban amenazas.El mayordomo se acercó al asociado de entrenamiento con bastante estilo: "Date prisa y prepara una de tus buenas habitaciones; ¡que sea la mejor! "
+
+El asociado era obviamente alguien que sabía cómo evaluar la situación. Solopor su atuendo podía decir que este grupo tenía un trasfondoextraordinario que los diferenció de los cultivadores errantes. Inmediatamente llamó: "¡Hemos honrado a los invitados y hemos preparado una de las habitaciones del cielo!"
+
+El mayordomo apartó al empleado, "No te molestes, tomaremos todas las habitaciones del cielo".
+
+El asociado se sobresaltó y se rió con tristeza: "Esto será difícil de hacer, amigo.Hay muchas reservas para las habitaciones del cielo ".
+
+Esta vez, fue el turno del mayordomo para sobresaltarse.Frunció el ceño, "¿Entonces cancelalos todos?Pagaremos el doble ".El asociado sonrió con ironía: "Honorable invitado, no es una cuestión de dinero, pero nadie hace negocios de esta manera. No podríamos explicarnos a esos clientes ".
+
+Elmayordomo estaba en una encrucijada, pero inmediatamente pensó en algo y fruncióel ceño, "Entonces reservaremos todas las habitaciones delcielorestantes "."Entendido, de inmediato." El asociado se relajó interiormente cuando vio suavizar la actitud del cliente. Tenía más miedo de los huéspedes con poder y autoridad que se volvieron tercos. Siempre fue una pesadilla lidiar con alguien que simplemente no escuchaba la razón. Despuésde todo, eran solo un pequeño campo de entrenamiento en Ciudad Popular Miriada, no podían soportar la retribución de una facción importante.
+
+"¡Espera!", Gritó el mayordomo cuando vio que el asociado estaba a punto de irse."¿Qué más necesita el huésped?" Las fibras del corazón del asociado se tensaron nuevamente.
+
+"¿Hay reyes de las píldoras de renombre en Ciudad Popular Miriada?"
+
+Reyes de la píldora? El socio se rió despreciativamente: "Honorable invitado, no somos más que una pequeña ciudad fronteriza. ¿Cómo soportaría un verdadero rey de la píldora pasar el tiempo aquí?"
+
+LaCiudad Popular Miriada era realmente una ciudad bulliciosa, pero esose debía a su ventajosa geografía y no a la superioridad innata de laciudad misma.Ningún verdadero rey de la píldora estaría dispuesto a aceptar la residencia a largo plazo en ese lugar.
+
+"¿Ni siquiera uno?" La expresión del mayordomo se oscureció."Bueno, ya los habíamos tenido antes, pero la mayoría eran visitantes.Tomarían residencia temporal, pero realmente no hay ninguno que mantenga una residencia aquí "."¿Ha habido alguna vez reyes de píldorasvisitantes ?" El mayordomoluchó por controlar su temperamento mientras continuaba su línea depreguntas.El asociado negó con la cabeza, "No según lo que sé, pero también puedes preguntar por ahí.Soy de baja puesto y es posible que no sepa de asuntos superiores ".Las noticias de un rey de la píldora eran de hecho un asunto que sería mejor circular entre la gente de un puesto superior.Naturalmente, un asociado no viajó en esos círculos.Elmayordomo agitó su mano, "Ve y prepárate la habitación". Tenía elrostro serio mientras se volvía para mirar a la persona en la camilla.Un atisbo de ansiedad y profunda preocupación apareció en su rostro.Sevolvió para dar algunas órdenes, "Ve a preguntar en las distintasfacciones de píldoras en Ciudad Popular Miriada para ver si hay un rey dela píldora dentro de la ciudad.Si los hay, invítalos aquí sin importar lo que tengas que hacer.Si usted tiene que…"Una luz particular brilló en los ojos del mayordomo. Sus hombres eran todos personas inteligentes y asintieron, saliendo rápidamente. Jiang Chen estaba sentado en la plaza, observando al grupo con gran asombro. Todos estos guardias de la casa se jactaban de poderosos cultivos; estaba claro que no eran cultivadores ordinarios. Además, mientras el mayordomo estaba vestido con la túnica de un sirviente, él era un cultivador del reino emperador. Incluso el aura que irradió involuntariamente fue suficiente para hacer que Jiang Chen lo tratara con cautela.Este grupo definitivamente no era una mezcolanza de cultivadores errantes.

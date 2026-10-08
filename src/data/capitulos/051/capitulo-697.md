@@ -1,0 +1,33 @@
+---
+titulo: "Capítulo 697"
+numero: 697
+novelaId: "51"
+---
+
+"¡Informe para el anciano! El hermano mayor Ding Rong, regresó hace un momento y dijo que había descubierto algunas pistas. Necesitahacer un viaje urgente al cuartel general del Palacio real de la píldora parareunirse con el jefe de la secta. "Un anciano que patrullaba vino ahacerle un informe al anciano del reino sabio del octavo piso de pie enla puerta.
+
+"¿Ah?" El anciano frunció el ceño, "¿Dijo qué tipo de pistas eran?"
+
+"No se, y no me atreví a preguntar", el anciano patrullero negó con la cabeza.
+
+El anciano patrullero respondió apresuradamente: "Estaba con el discípulo Hua y dos de los seguidores de Hua, Feng y Zhang. Sin embargo, no vi a los dos seguidores ".Feng y Zhang eran personajes menores en el reino origen, por lo que el anciano no les prestó mucha atención.Tenía más curiosidad por las supuestas pistas que Ding Rong había descubierto.Por curioso que fuera, no se atrevió a albergar la menor insatisfacción con las acciones independientes de Ding Rong.Ding Rong era el discípulo personal del jefe de la secta y había alcanzado el reino sabio del quinto nivel a su corta edad.Sus logros serían mucho más altos que los de los ancianos en el futuro.Pensó por un momento y extendió sus manos."Entiendo.Mantenga la alta densidad de patrullas;no te vuelvas complaciente y descuidado ".Jiang Chen y Huang'er tuvieron un viaje fácil a la sede central de Palacio real de la píldora.Sus identidades ahora eran Ding Rong y hermano mayor Hua."Señorita Huang'er, esta vez es un poco peligroso, quieres..." JiangChen en realidad no quería llevar a Huang'er a una situación peligrosa.Huang'er,sin embargo, le devolvió la sonrisa débilmente, "Sir Jiang, hasta ahorahemos pasado inadvertidos, enfrentando la vida y la muerte juntosvarias veces.¡Es más interesante si aventuro con Sir Jiang! "Jiang Chen se rió de buena gana.Era una persona sincera y sentía que aquellos en el jianghu no tenían necesidad de mostrarse coquetos."Me temo que no podré explicarme al anciano Shun si algo sucede"."El anciano Shun es una persona comprensiva", Huang'er sonrió levemente.Jiang Chen asintió.Él realmente necesitaba el apoyo de Huang'er para esta empresa.Aunque su plan fue muy audaz, no fue lo suficientemente bueno con solo él en solitario .Sus posibilidades de éxito serían mucho mayores con Huang'er.Los dos llegaron a las puertas del Palacio real de la píldora cuatro horas más tarde.Aquí la seguridad era notablemente más pesada que en el cuartel genereal del Palacio real de la píldora.Sinembargo, como discípulo personal del Salón Nota de Trueno, la posición deDing Rong era alta y, naturalmente, no había necesidad de controlesadicionales cuando apareció.Cuando escucharon que tenía algunas pistas importantes para el jefe de la secta, nadie en la secta se atrevió a detenerlo.Por el contrario, todos charlaron y se rieron con él, la verdadera imagen de la cortesía.Jiang Chen fue muy cuidadoso al interactuar con estas personas.Ahora estaba en la guarida del león, y solo podía seguir adelante con sus planes."Hermano mayor Ding, el maestro Gong ha convocado al jefe de la secta y el jefe de la secta del Gran Roc. Parecen estar discutiendo algo muy importante. Esposible que tengas que esperar un tiempo." El que había ido a hacer suinforme volvió con una respuesta ligeramente arrepentida para JiangChen.
+
+Jiang Chen tampoco quería ver al jefe de la secta, por lo que preguntó: "¿Qué asunto importante es este?"
+
+Su compañero negó con la cabeza en tono de disculpa, "No me atreví a preguntar".
+
+"¿Quién más está allí?", Preguntó nuevamente Jiang Chen.
+
+La expresión de Gong Qi se oscureció, "¿Qué, Ding Rong, me negarás la cara? Tuviste todo tipo de excusas las dos primeras veces. ¿Todavía planeas no darme cara esta vez?"
+
+Rápidamentehabía cambiado su estado de ánimo ya que ahora estaba frunciendo elceño, el aire a su alrededor descendía algunos grados también. JiangChen estaba contento con cómo iban las cosas y retuvo una expresiónirónica en su rostro, "Joven maestro Gong, no es que no te dé la cara,pero me siento bastante aterrorizado en el combate con usted ante elMaestro Gong. Su aura es simplemente demasiado fuerte ".
+
+Gong Qi estaba bastante molesto cuando escuchó estas palabras y puso los ojos en blanco. "Ding Rong, ¿a qué te refieres? ¿Quieres decir que fue por el aura de mi abuelo que derroté a todos ustedes, genios?"Jiang Chen se rió entre dientes, "No quise decir eso".El temperamento de un niño hizo que Gong Qi se sintiera aún más humillado cuando vio que Ding Rong se estaba riendo."¡Cómo te atreves!Ding Rong, ¿cómo te atreves a pensar tan poco de mí?¡Bien!¡Mi abuelo esta en reunión con tu maestro adentro, así que escojamos un lugar lejano y peleemos bien! "Jiang Chen miró a los dos guardias detrás de Gong Qi.Uno de ellos era del reino emperador de primer nivel, el otro de medio paso al reino emperador.Ninguno de ellos eran personajes fáciles.Su expresión era bastante animada cuando miró a los dos guardias, haciendo que pareciera que él quería decir algo más.Para Gong Qi, su oponente todavía se estaba quedando que Gong Qi estaba intimidando a otros con sus números superiores.Él se enfureció: "¡No me sigan, ustedes dos!Le daré una lección a este chico hoy y le haré saber que golpeé sus caras al suelo con pura habilidad! "De hecho, Gong Qi era un genio increíble para tener ese nivel de cultivo a los catorce años.El orgullo de un genio le hizo difícil tragarse la mirada de "usted es tan tramposo" que Jiang Chen le estaba enviando.Los dos guardias rápidamente hablaron: "Joven maestro Gong, esto no pasará. El Maestro Gong nos instruyó que nunca debemos dejar siquiera un pie de tu lado ".
+
+Jiang Chen se encogió de hombros, "Entonces para otra vez, joven maestro Gong".
+
+"¡No!" Gong Qi estaba completamente enojado. La mirada y el movimiento de Jiang Chen parecían descuidados, pero eran completamente provocativos en los ojos de Gong Qi. Todos los otros genios fueron más educados cuando vieron a Gong Qi. No pudieron evitar al chico lo suficientemente rápido. Pero Ding Rong hoy se atrevió a hablar y reír tan casualmente con él. GongQi podía sentir su presión arterial subir mientras miraba la pose deJiang Chen "No te temo a ti, no quiero ofender a tu abuelo".
+
+Jiang Chen sonrió, "Bien, el joven maestro Gong es un genio de una secta de primer rango después de todo. De hecho, es la fortuna de varias vidas que puedo entrenar contigo. Por lo tanto, ¿el joven maestro Gong me dejará hacer tres movimientos primero? "
+
+Gong Qi comenzó y luego sonrió con orgullo, "Te daré incluso diez movimientos, ni mencionar solo tres".

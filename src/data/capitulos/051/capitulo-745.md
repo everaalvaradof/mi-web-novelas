@@ -1,0 +1,51 @@
+---
+titulo: "Capítulo 745"
+numero: 745
+novelaId: "51"
+---
+
+Jiang Chen y Wei Jie estaban encantados cuando escucharon esto.Pensaban que el anciano Zhuo no sería tan fácil de convencer.Nuncapensaron que no solo lo persuadirían, sino que incluso tomaría lainiciativa de ponerse en acción él mismo, llevándolos a persuadir alanciano Feng.¿No fue una sorpresa maravillosa?Siellos pudieran aprovechar la oportunidad para resolver al anciano Fengtambién, entonces el plan de Wei Tiantong terminaría en completofracaso.Él habría ido por la lana y volvería esquilado en su lugar.El anciano Feng claramente no había esperado una llamada repentina del anciano Zhuo.Incluso había venido a visitar con Wei Jie, el hijo del señor de la casa.Él también se sintió muy desconcertado.Él y el anciano Zhuo decidieron tomar partido por Wei Tiantong y era un secreto del que no se debía hablar.Pero hoy, el anciano  Zhuo estuvo aquí con el hijo de Wei Tianxiao.¿No era eso ponerse en un lugar incómodo?Afortunadamente, para empezar, la relación entre el anciano Feng y el anciano Zhuo fue buena.Ambos habían pertenecido previamente al mismo campo neutral.Nohabían sido particularmente íntimos con Wei Tianxiao, mientras que susrelaciones con Wei Tiantong también habían sido a medias."¿Qué te trae por aquí hoy, hermano mayor Zhuo?" El anciano Feng miró aWei Jie de pie junto al anciano Zhuo, con alguna duda brillando en susojos.El anciano Zhuo no ofreció una respuesta directa."Viejo amigo, llama a tu discípulo directo.Tengo asuntos urgentes "."Hermano Zhuo, ¿de quién estás hablando?"
+
+"¿De quién has estado preocupado en estos últimos días?"
+
+El anciano Feng parecía pensativo. Se preguntó qué canción cantaba el anciano Zhuo, pero siempre había respetado mucho al anciano.Dio instrucciones a sus siervos para ir y convocar al discípulo sin más demora.El discípulo directo del anciano Feng, Mu Ge, llegó poco después de la citación.
+
+MuGe era un tipo rubio y guapo, pero tenía una línea negra grabada en lafrente que hacía que el área entre las cejas pareciera negra.Toda su persona parecía estar en una condición bastante mala.
+
+"MuGe, ven y presenta tus respetos al anciano Zhuo", dijo el anciano Feng atoda prisa cuando vio que el discípulo del que estaba orgulloso se habíapresentado en su camino.Mu Ge estaba claramente muy familiarizado con el anciano Zhuo. Miró al anciano Zhuo, luego miró a Wei Jie y le ofreció un puño ahuecado a modo de saludo. "Mu Ge respetuosamente saluda al anciano Zhuo y al joven maestro Wei".
+
+Wei Jie respondió con una sonrisa, "Mu Ge'er, mucho tiempo sin verte".
+
+Mu Ge sonrió y asintió, pero no dijo nada más, dócilmente ocupó su lugar detrás del anciano Feng. Al ver que la situación era un poco incómoda, el anciano Feng miró al anciano Zhuo y susurró: "Hermano Zhuo, ¿qué pasó?"
+
+"Su tono es bastante grande para ser un niño ignorante", el anciano Feng tenía un temperamento ardiente por naturaleza. Naturalmente, no estaba contento con la interrupción de Jiang Chen.
+
+El anciano Zhuo se apresuró a hablar, "Viejo amigo, él no es una persona trivial. Quizás puedas dejarle echarle un vistazo al veneno de Mu Ge."
+
+La expresión del anciano Feng era un poco desagradable. "Hermano Zhuo, tengo muchos discípulos, pero Mu Ge es el único con un talento innato extraordinario. Sabes que esto no es una apuesta que pueda pagar ".
+
+Jiang Chen sonrió débilmente. "No puedes pagar la apuesta, ¿así que preferirías cargar con la infamia y arruinar los cimientos de la Casa Wei?"
+
+El anciano Feng de repente estalló en cólera."Chico, si dices una palabra más grosera, ¡no culpes a este anciano por no mostrar misericordia!"Wei Jie también estaba constantemente señalando a Jiang Chen con los ojos, diciéndole que no enojara al anciano Feng.Jiang Chen estalló en carcajadas, como si no hubiera visto."Anciano Feng, vine a visitarlo con buenas intenciones, tratando de compartirsus problemas, pero parece que no puede reconocer a un amigo.Algunaspersonas planean en tu contra y envenenan a tu discípulo, y luego tedicen hipócritamente que pueden resolver el problema.Pero preferirías considerarlos como amigos.Dime, ¿qué diablos estás haciendo?"Jiang Chen no estaba siendo impulsivo.Podía decir que este Anciano Feng tenía una disposición ardiente y un temperamento caprichoso.Convencerlo probablemente no sería una tarea fácil.La razón podría no resonar de inmediato con alguien como este.En su lugar, una sorpresa feliz podría ocurrir en su lugar si uno choca con él.El anciano Zhuo también habló de nuevo, "Viejo amigo, este asunto es muy sospechoso.Nuestra casa siempre ha sido pacífica, pero las cosas le siguen sucediendo a la generación más joven en los últimos meses.¿No crees que es extraño?"Jadeando de ira, el anciano Feng dijo: "Hermano Zhuo, este asunto es realmenteextraño, pero dicen que esto es obra de Wei Tiantong.Sin embargo, tampoco tienen pruebas de que no sean ellos los que manejan las cuerdas ".Fue el turno de Wei Jie de sentirse infeliz cuando escuchó estas palabras.Se puso de pie abruptamente, "anciano Feng, me he mantenido respetuoso porque usted es mi mayor.Sin embargo, estás tratando nuestra buena voluntad como un engaño con estas palabras.Si trazamos este asunto, entonces ¡que los cielos nos ataquen hasta morir! "WeiJie tenía un temperamento bastante equilibrado, pero la palabra delanciano Feng claramente se había aguzado en su autoestima.Era cierto que quería llevar al anciano Feng a su lado.Sin embargo, el anciano Feng obstinadamente se negó a distinguir amigo de enemigo.Incluso sospechaba de Wei Jie y padre de orquestar este asunto, confundir lo correcto y lo incorrecto.Esto era algo que Wei Jie no podía tolerar.El anciano Feng pareció darse cuenta de que sus palabras se habían ido por la borda.Él resoplo suavemente, pero no dijo nada más.Sin embargo, Jiang Chen en realidad comenzó a reírse."Anciano Feng, ni siquiera tienes miedo de creer en Wei Tiantong y asumir la infamia de traicionar a la Casa Wei, entonces ¿por qué tienesmiedo de enfrentar la realidad?""¿Enfrentar la realidad?¿Leestás pidiendo a este anciano que se siente y mire morir a su amadodiscípulo? "El tono del anciano Feng era una mezcla de tristeza eindignación."¿Quién dijo que tu brillante discípulo tiene que morir? ¿Existe un solo maestro de píldoras en existencia? Sin el maestro de píldoras de Wei Tiantong, ¿no hay nadie más en el mundo que pueda curar el veneno de su discípulo?"
+
+"¿Qué ... qué quieres decir?" El anciano Feng fue inesperadamente sometido por la actitud imponente de Jiang Chen.
+
+"Mi único significado es, ¿qué vas a hacer si curo a tu discípulo?" Jiang Chen tampoco se dio por vencido. Sabía que había incitado a este anciano todo lo lejos que debía.
+
+"¿Puedes curar esto?" El anciano Feng soltó una risita. Él no tenía fe en Jiang Chen, viendo a este último como alguien todavía mojado detrás de las orejas. "Si puedes curarlo, entonces todo lo que digas se hará. Si me opongo a cualquier cosa que digas, entonces soy un hijo de puta ".
+
+Jiang Chen rugió de risa y se puso de pie."Anciano Zhuo, ¿oíste eso?Consideremos esto como una apuesta entre el anciano Feng y yo.Si puedo curar a Mu Ge ... "El anciano Feng resopló con ira, "¡Chico, deja de hablar en círculos! Sé que viniste aquí en nombre del señor de la casa. No tengo ninguna opinión sobre el señor de la casa. Sirealmente puedes curar a Mu Ge, ayudaré al señor de la casa convoluntad inquebrantable y no tendré ningún pensamiento errante por el resto de mi vida ".
+
+"¿Qué pasa si Wei Tiantong presenta algunos otros engaños en el futuro? Temo que alguien se deje influenciar de nuevo ", dijo Jiang Chen con una leve sonrisa, continuando con su insistencia.
+
+El anciano Feng estaba furioso. "¿Crees que soy uno de esos que vuelve a sus palabras?"
+
+Elanciano Feng habló de repente con frialdad, "Hablas mucho, pero tengo querecordarte que Wei Tiantong presentará una propuesta para una reuniónen la casa pasado mañana. Hablaremos de la tienda en el Mercado de Dios Agricultor entonces. Solo tienes dos días ".
+
+La sonrisa de Jiang Cheng era débil. "No hay necesidad de dos días. Te devolveré un animado discípulo esta noche ".
+
+"Esas son tus propias palabras. ¿Y qué pasa si no puedes?"
+
+"Si no puedo curarlo, entonces por supuesto, no lo dudes y ponte de pie con Wei Tiantong cuando llegue el momento.No tendremos nada que decir ". Jiang Chen rebosaba confianza.El anciano Feng miró al anciano Zhuo y luego miró a Wei Jie. "Caballeros, esas son sus propias palabras. Porel bien de Mu Ge, no tendré más remedio que apoyar a Wei Tiantongcuando llegue el momento, incluso si tengo que ir en contra de misconvicciones ".
+
+Jiang Chen se rió en respuesta, "No te preocupes, no tendrás la oportunidad de estar con él". No fue una charla vacía.Elmaestro de píldoras de Wei Tiantong era definitivamente un rey de la píldora, pero todavía estaba lejos de la cima cuando se trataba deusar veneno.Ya sea el Polvo de Buda Dorado de Nueve Risas o el veneno de Mu Ge, ninguno de esos eran asuntos difíciles para Jiang Chen.------------En la biblioteca privada del anciano Feng, Wei Jie bebió té con el anciano Zhuo y el anciano Feng.Sus ojos se posaron en una cámara privada de vez en cuando.Jiang Chen estaba dentro y proporcionaba el antídoto al discípulo amado delancianoFeng, Mu Ge.Wei Mo estaba al lado del anciano Zhuo.JiangChen ya le había dado dos píldoras, además de una receta secreta,diciéndole que regresara y siguiera lo que estaba escrito en ella."Mo'er, ¿qué prescripción secreta te dio ese maestro depíldora  Zhen?" Preguntó de repente el anciano Zhuo, sintiéndose curioso.La cara de Wei Mo se puso roja espontáneamente tan pronto como escuchó la pregunta.Tosía, vacilaba, balbuceaba y tartamudeaba, sin saber cómo responder.Al final, solo pudo entregar la receta al anciano Zhuo.El viejo rostro del anciano Zhuo quedó petrificado instantáneamente tan pronto como lo leyó, la torpeza escrita en su rostro.Wei Jie y el anciano Feng intercambiaron una mirada al ver esta escena.Esta es solo una receta secreta, ¿ustedes dos tienen que ir tan lejos?

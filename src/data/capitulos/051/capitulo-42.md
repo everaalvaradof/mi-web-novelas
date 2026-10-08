@@ -1,0 +1,73 @@
+---
+titulo: "Capítulo 42"
+numero: 42
+novelaId: "51"
+---
+
+Loque mucha gente no entendía, era que a pesar de que la emboscada sobreJiang Feng se convirtió en la charla de la ciudad, la gran tormentaanticipada y las olas no siguieron.
+
+No hubo grandes movimientos de la familia real.
+
+El duque de Dragón Altísimo tampoco parecía tomar ninguna acción.
+
+Lo más curioso fue que la mansión de Jiang tampoco hizo grandes movimientos.Fue como si Jiang Feng fuera emboscado era sólo un pequeño interludio, y no causó grandes repercusiones.
+
+Jiang Chen también mantuvo un perfil extraordinariamente bajo.Se quedó dentro de la mansión, se ocupó de la situación y se lanzó al entrenamiento.ElJiang Chen de ahora, después de practicar el "Secreto de los Nueve Océanos Risueños", usó el qi verdadero de olas extensas para fortalecer susmeridianos todos los días. Hacía tiempo que había forjado sus seis meridianos para que fueran extremadamente fuertes y duraderos.
+
+Siagrega a eso el estímulo y el apoyo proporcionado por la medicinaespiritual, los seis meridianos de Jiang Chen podrían ser etiquetadoscomo conteniendo el vigor de los dragones y la ferocidad de los tigres. Estaban llenos de vitalidad y tenían una explosividad extrema.
+
+Jiang Chen también localizó con éxito su séptimo punto de acupuntura a través del método "Resonancia de Puntos de Acupuntura Verdadero".Sin embargo, un foso notable existía entre seis meridianos de qiverdadero y siete meridianos de qi verdadero .Seis meridianos de qiverdadero contaban sólo como el reino intermedio de qi verdadero.
+
+Siete meridianos de qi verdadero serían el reino avanzado del qi verdadero.Avanzar sólo un pequeño paso aquí significaba un gran aumento en el nivel. Por lo tanto, contra este obstáculo, cualquier practicante tendría más resistencia hacia su ascensión.
+
+Fue lo mismo para Jiang Chen. No tenía prisa en atacar las barreras para el avance antes de que hubiera encontrado el momento adecuado.
+
+Cercade cuatro o cinco días después de la emboscada, Jiang Chen todavíamantuvo un perfil bajo mientras visitaba el Salón de la Curación.
+
+Qiao Baishi había estado esperando sin aliento en el Salón de la Curación. Sus ojos se iluminaron cuando vio que Jiang Chen había llegado. Había estado esperando las estrellas, la luna, y finalmente esperó con éxito la llegada de Jiang Chen.
+
+"Eljoven duque Jiang, finalmente yo he esperado tu llegada." Qiao Baishiestaba muy contento y él invitó directamente a Jiang Chen a lahabitación secreta."¿Qué pasa?" Jiang Chen sintió que era bastante extraño que Qiao Baishi hubiera tenido una manera tan vergonzosa acerca de él."Joven duque Jiang, nuestra asociación debe avanzar antes de lo planeado." Qiao Baishi rectificó el punto."Hemosreunido noticias de muchas maneras diferentes de que el Jardín del Rey de las Píldoras está investigando un nuevo tipo de medicina milagrosa para lacuración, en preparación para asaltar el mercado.Si el Jardín del Rey de las Píldoras obtiene la ventaja del primer movimiento, entonces sería un golpe fatal para nuestro Salón ".Qiao Baishi estaba realmente un poco ansioso.No había pensado que el Jardín del Rey de las Píldoras jugaría de repente esta mano.Uno tenía que decir, la mano que el Jardín del Rey de las Píldoras había jugadohabía venido con una rapidez inesperada, cogiendo al Salón de la Curacióncon la guardia baja."Jardín del Rey de las Píldoras?" Una insinuación de la intención de matar pasó a través delos ojos de Jiang Chen cuando oyó estas tres palabras.Naturalmente, no habría olvidado cómo el Jardín del Rey de las Píldoras había suprimido a su familia Jiang en la mansión Dragón Altísimo.Y, él nunca creería que el Jardín del Rey de las Píldoras no había tenido una mano en la emboscada de su padre esta vez. ElInstinto le dijo a Jiang Chen que había definitivamente la sombra del Jardín del Rey de las Píldoras detrás de todo esto."¿Qué sucedió exactamente?", Jiang Chen no estaba alterado.Si se trataba de un combate de medicina curativa, no creía que alguien pudiera superar a Jiang Chen, dentro de la capital."Asíes como están las cosas: En siete días, el Jardín del Rey de las Píldoras llevará acabo una exhibición de medicamentos para píldoras en el mercado másgrande de la capital.Se dice que contarán con una nueva medicina espiritual llamada "La píldora de sangre del dragón y del tigre".Es una píldora de rango supremo para curar lesiones físicas y su eficacia es lo máximo.Reinará victoriosa sobre cualquier otra píldora de la misma categoría que está actualmente en el mercado ".El tono de Qiao Baishi contenía algunos rastros de negativa a someterse en este punto.El Salón de la curación fue el aclamado número uno de peso pesado en el mundo de la medicina espiritual en el Reino del Este.En términos de negocio de medicina espiritual, el Salón de la Curación ocupó la mitad del territorio del mercado por sí solo.En cuanto al Templo del Granjero de Dios y el Jardín del Rey de las Píldoras, ellos, junto conotros pequeños vendedores dispersos, ocuparon la otra mitad delmercado.Si se le permitiera al Jardín del Rey de las Píldoras hacer un gran chapoteo con la"píldora de sangre del dragón y el tigre" y obtener la ventaja delprimer movimiento, entonces sería un golpe extremadamente enorme para elSalón de la Curación.Primero sería el golpe a la reputación.El Jardín del Rey de las Píldoras sólo podía contar como un tercer peso pesado en elmercado de la medicina espiritual en el Reino del Este.Si pudiera batir a fondo el Salón de la Curación negro y azul en elsegmento de las panaceas curativas, entonces sería sin duda un grangolpe en la cara del Salón.En segundo lugar sería el golpe a los negocios.Todoel mundo sabía que los medicamentos curativos para píldoras eran elmercado más grande en el campo de la medicina de la píldora.Lasmedicinas de la píldora eran también mercancías acabadas, diferentes delas medicinas espirituales que tuvieron que ser cultivadas.Sus precios eran a menudo bastante asombrosos.Siel Jardín del Rey de las Píldoras era capaz de comer completamente este mercado,entonces su fuerza sería segura de aumentar en gran medida después deunos años.Pero en términos de competencia, otros disminuyen cuando otro aumenta.¿Quiénsabía, tal vez la posición de peso mediano número uno de la medicinaespiritual en el Reino del Este cambiaría de manos en diez años.No importaba cómo uno lo mirara, el Salón de la Curación no se quedaría ocioso mirando el Jardín del Rey de las Píldoras.Jiang Chen también había escuchado estas connotaciones de las palabras que Qiao Baishi había hablado."El Jardín del Rey de las Píldoras de repente se está convirtiendo en tan alto perfilprobablemente significa que han lanzado completamente sus fichas con elduque de Dragón Altísimo y encontró un gran apoyo!" Jiang Chen riófríamente."Este movimiento es probablemente su primer paso en una declaración de guerra con el Salón de la Curación.Tercer maestro de salón, perdona mi sinceridad.Las ambiciones del Jardín del Rey de las Píldoras son grandes, y es másprobable que se apresuren  con el objetivo de reemplazar al Salón de laCuración ".Elrostro de Qiao Baishi estaba pálido, "Mi Salón de la Curación haocupado la posición de peso pesado número uno de la medicina espiritualen el Reino del Este durante cientos de años.Como un arribista tardío, las ambiciones de la Jardín del Rey de las Píldoras son simplemente un poco demasiado grandes. Joven duque Jiang, no quiero poner aire alguno.A partir de hoy, tu casa y la mía son en realidad dos saltamontes atados en la misma cuerda."Jiang Chen sonrió tranquilamente, "Si ellos pusieran la exhibición mañana, entonces realmente no tendríamos tiempo suficiente. Siete días a partir de ahora nos deja mucho tiempo."
+
+La expresión severa de Qiao Baishi se relajó ligeramente al oír las palabras de Jiang Chen.
+
+"¿Podemosrefinar la píldora del Karma Celestial en siete días?" Qiao Baishirealmente no podía hacer una estimación y habló estas palabras convacilación.
+
+"Tercer maestro de salón, ¿sólo quieres refinar la Píldora del Karma Celestial?Jugar por oído significa siempre residir en la pasividad.Nohacemos un movimiento porque elegimos hacerlo, pero cuando lo hacemos,necesitamos hacer un movimiento en que el Jardín del Rey de las Píldoras notenga espacio y capacidad para contrarrestarnos! "
+
+Una asombrosa aura pasó entre las cejas de Jiang Chen.¡Finalmente había revelado suextraordinario carácter oculto !"Joven duque Jiang, ¿tienes otros planes?" Jamás Qiao Baishi pensaríaque el apetito de Jiang Chen sería aún más grande de lo que él habíaimaginado.
+
+"Dígame primero, ¿cuál es la píldora de la que el Jardín del Rey de las Píldoras está más orgullosa y por lo tanto la base de su posición en la capital? O para decirlo de otra manera, ¿cuál es su competencia principal? "
+
+QiaoBaishi reflexionó en silencio por un momento y dijo: "Una gran parte delos negocios del Jardín del Rey de las Píldoras se concentra en dos áreas. Una de las cuales es la píldora que repone y reúne qi, y la otra píldora que limpia el fuego interno y calma la mente ".
+
+La medicina de la píldora que repone y reúne qi se utiliza en gran parte en batalla. La situación de agotamiento del qiverdadero a menudo apareció en batallas entre los fuertes. En ese momento, una medicina de la píldora que reabastece y recolecta qi serviría a la función de repostar instantáneamente qi.Limpiar el fuego interno y calmar la mente se utiliza más a menudo en el entrenamiento.Lospracticantes de dao marcial a menudo se enfrentaban a numerososdemonios internos cuando se entrenaban, y mantener un ser desapasionadoera algo que un practicante tenía que lograr en todo momento.Excepto que los demonios internos de un practicante no eran tanfáciles de controlar, así que la píldora que limpiaba el fuego interno ycalmaba la mente se empleaba para controlar los demonios internos yprevenir a los practicantes de una desviación de cultivo.Lacosa coincidente era, Jiang Chen había escrito una lista para laprincesa Gouyu hace unos días, y su uso era aclarar el fuego interno ycalmar la mente.No era una receta de la píldora, apenas una prescripción regular de la medicina.Ella sería capaz de tomarla directamente si mezclaba los ingredientes adecuados de medicina espiritual juntos."¿Cuánto qi verdadero puede la píldora que repone y reúne qi instantáneamente recuperar?", Preguntó Jiang Chen con curiosidad."NuestroSalón de la curación tiene un producto similar, pero una píldora puederecuperar como máximo el veinte por ciento del qi verdadero.Tampoco puede ser tomado en sucesión - será ineficaz si es retomado dentro de dos horas. "Qiao Baishi estaba un poco avergonzado. "NuestroSalón siempre ha querido expandirse en esta arena, pero la barreratécnica para una píldora de reabastecimiento de Qi es alta y difícil dealcanzar. El Jardín del Rey de las Píldoras realmente está por delante en esta área. Supíldora de reabastecimiento de qi puede recuperar instantáneamente eltreinta por ciento de qi verdadero, y el uso puede repetirse después deuna hora ".
+
+Jiang Chen asintió con la cabeza. "-¿Qué pasa con su píldora calmante?"
+
+"Nohay medidas cuantitativas para este tipo de píldora, pero sus efectosson instantáneos y fácilmente evidentes después de ser tomados.Nuestro Salón también es ligeramente inferior al Jardín en este sentido. "
+
+Qiao Baishi no se engañó a sí mismo y sinceramente transmitió la situación a Jiang Chen.
+
+Jiang Chen no respondió de inmediato, pero cerró los ojos y reflexionó.Después de un largo rato, el dedo de Jiang Chen tocó ligeramente en la mesa."¿Quépasaría si produjéramos una píldora que pudiera recuperarinstantáneamente el cuarenta al cincuenta por ciento de qi verdadero. ¿Derrotaría al Jardín del Rey de las Píldoras en esta área? "
+
+"Instantáneamente recuperar de cuarenta a cincuenta por ciento?" Qiao Baishi se puso en pie con una cara llena de emoción. "Sinuestro salón tenía un producto tan bueno, basado en nuestros canalesde ventas y redes, así como nuestra capacidad de distribución fuerte,absolutamente podemos hacer que los productos del Jardín se vayan enel montón de basura dentro de medio mes!"
+
+"Silos costos de la píldora tranquilizadora de la mente eran sólo unadécima de productos de píldora similares, pero sus efectos eransuperiores, ¿sería suficiente para arrojar los productos de Jardín del Rey de las Píldoras una vez más a la basura?", Preguntó Jiang Chen de nuevo.
+
+"¿Los costos de los bienes vendidos son sólo una décima parte?Sus efectos son superiores?Entonces, ¿qué más hay que decir?Definitivamente, los pondrá en el montón de basura!¡Sólo necesitamos una guerra de precios para limpiar el piso con ellos! "Qiao Baishi estaba agitado de emoción y sus ojos estaban llenos de deseo. "Joven duque Jiang, ¿está bromeando cuando dice todo esto?"
+
+Jiang Chen dijo débilmente, "¿Parezco que estoy bromeando?"
+
+"Esto..." Qiao Baishi estaba en una pérdida momentánea de palabras, pero suslabios temblorosos traicionaban las emociones salvajes y locas quecorrían a través de él.
+
+El mero hecho de que estasituación llegara a fructificar y la escena victoriosa de golpear afondo el Jardín del Rey de las Píldoras, fue suficiente para hacer que el corazónde Qiao Baishi corra y su sangre caliente vibrara rápidamente.
+
+"Sólo tengo una solicitud y eso es para pulverizar completamente el Jardín del Rey de las Píldoras.¡Haz que desaparezcan y que el miembro del jardín Wang mendigue en las calles!"Jiang Chen sintió un profunda disgusto interior sentado hacia el gran maestro de la corte Wang. Cadavez que pensaba en el tono altanero que esa persona había adoptado aldarle una conferencia al padre de Jiang Chen, Jiang Chen tenía laurgencia de matarlo.
+
+"Joven duque Jiang, sifuéramos a aplastar el Jardín del Rey de las Píldoras en estas dos áreas, entoncesel Jardín sería una mosca sin alas. ¡No sería capaz de luchar por mucho tiempo, y podríamos sacarlos con un movimiento de la mano! "
+
+Qiao Baishi asintió con la cabeza repetidamente."Así es como debe ser.El joven duque Jiang es de hecho un fénix o un dragón entre los hombres.Permítame decir algo de adulación y eso es veraz: nuestro Salón es honrado incluso para una división.Qiao Baishi era un hombre inteligente. Cuanto más bajo fuera su perfil ahora, más buena voluntad engendraría de Jiang Chen.
+
+Eneste momento, el inteligente Qiao Baishi sabía claramente que laasociación entre el Salón de la Curación y Jiang Chen no era deigualdad. El Salón dependía de Jiang Chen y favoreció a Jiang Chen.
+
+¡Si él no conseguía esa relación honrada, entonces el salón definitivamente no estaría en el negocio por mucho tiempo!

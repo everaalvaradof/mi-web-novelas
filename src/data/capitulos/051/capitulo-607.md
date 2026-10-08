@@ -1,0 +1,57 @@
+---
+titulo: "Capítulo 607"
+numero: 607
+novelaId: "51"
+---
+
+Wei Zikua era un inspector cuya responsabilidad era sentar las bases para el plan de Dominio Eterno. Por otro lado, a Cao Jin no le importaban esos asuntos.Comoun discípulo genio, lo único que buscaba era el beneficio, por loque no estaba en lo más mínimo interesado en la situación global del Dominio Eterno.Lo que le interesaba eran las hierbas rango de la tierra y cielo.¿Cómo podría Cao Jin no ser movido cuando escuchó que Jiang Chen había recibido cien hierbas de rango tierra?¡Por no mencionar las siete hierbas adicionales del rango del cielo que él sostuvo!
+
+TantoZhu Changsheng como el anciano Tan Lang habían jugado un pequeño truco alomitir deliberadamente el hecho de que las hierbas del rango cielopodrían estar con Jiang Chen en lugar del Palacio Real de la píldora.Todo lo que querían era instigar asuntos y ver caer la desgracia sobre el Palacio Real de la píldora.Zhu Changsheng se rió."Sinceramente,si atacas al Palacio real de la Píldora , las otras sectas podrían noayudarles aparte de la Secta del Norte Oscuro.Por lo menos, está garantizado que el palacio de la espada sagrada estará parado y relamerá.La secta Walkabout también prefiere no entrar en la batalla hasta que otros se hayan agotado.La respuesta de la Gran Catedral podría ser un poco más ambigua, peropor lo general no actúan a menos que tengan ganancias para que no ayudentampoco ".Cao Jin asintió ligeramente.Estas cosas no eran importantes para él en absoluto.Desde el principio, no había tomado en serio ninguna de las sectas del Dominio Eterno.Si o no ayudarían al palacio real de la píldora era apenas una preocupación fugaz para él.Consu cultivo en el pico del reino sabio, ¿quién podría impedirle queadornara el Palacio Real de las Píldora con su presencia?¿No sería capaz de tomar lo que fuera y cuanto quisiera?Lashierbas del rango de la tierra fueron utilizadas por los cultivadoresdel reino emperador, pero incluso los expertos del reino emperador no podían utilizar tanto como quisieron.En todo el Continente del Abismo Divino, el rango superior de la hierba espiritual, menor es el suministro. Aunque Cao Jing estaba solo en el reino sabio en el momento, estaba a un paso del reino emperador. Naturalmente, sintió una oleada de emoción al oír que el Palacio real de la Píldora tenía tantas hierbas de la tierra. Lo que es más que había incluso varias hierbas de rango del cielo. Para él, estos rangos del cielo eran lujos que rara vez circulaban incluso en las Ocho Regiones Superiores.
+
+Cao Jin sonrió casualmente, después de haber tomado su decisión.Levantó las manos hacia Weizi Kua."Enviado Weizi, usted tiene su deber, pero tengo mis ambiciones.Tengo que hacer este viaje al Palacio Real de la píldora."
+
+La cara de Weizi Kua se oscureció al mirar a Zhu Changsheng y al anciano Tan Lang. "-¿Estás regocijándote en secreto ahora que crees que tus juegos mentales funcionaron?"
+
+Zhu Changsheng y Tan Lang se miraron, sin saber cómo responder."No seas ingenuo. Cao Jin tiene un fuerte corazón dao, ¿cómo podría influir en él? La razón por la que fue es a causa de las hierbas espirituales y la Píldora de Longevidad. Si él no estaba interesado, entonces sería inútil incluso si usted habló directo a sus oídos . Olvídalo. Apartede unos cuantos detalles finales, el plan de nuestra secta para eldominio eterno está cerca de su finalización y sólo estamos esperandoalgunas cosas finales. Esperanzadamente nada va mal o bien,o todo nuestro trabajo anterior habría sido para nada. "Como era unapersona cautelosa por naturaleza, Weizi Kua estaba preocupado después deque vio a Cao Jin salir. Mientras que abiertamenteinvadiendo el palacio Real de la píldora podría ser gratificante y agradable,sería mucho más difícil de conquistar el dominio eterno sinderramamiento de sangre una vez que había alarmado la región. Así, decidió que era mejor seguirlo como observador.............
+
+Cao Jing rayaba a un ritmo fulminante hacia el Palacio real de la Píldora en un haz de luz. Siesto hubiera sido las Ocho Regiones Superiores, entonces tal vez nohubiera volado tan impetuosamente, pero no tenía tal miedo en el DominioEterno.
+
+Llegó a los límites del Palacio Realde la píldora medio día después, y en las afueras del complejo Palacio Real de la píldora en otras dos horas. Cao Jin se quedó en el aire y miró con condescendencia por todo el Palacio. De repente, sus ojos se posaron sobre una residencia en el valle Rosado. "Hm? Esa residencia es un poco extraña. Parece haber algún tipo de formación sobre él?" Cao Jin abrió su conciencia, escaneando todo el complejo del Palacio real de la píldora. Inclusola residencia de Dan Chi no captó su interés, pero la Formación deIncineración de Nueve Puertas de Jiang Chen había despertado la atenciónde Cao Jin.Mientras laconsciencia de Cao Jin saltaba afuera de la residencia de Jiang Chen,Huang'er, que estaba bañándose en el manantial del espíritu de madera,frunció el ceño. "-¿De dónde ha salido este tío? ¿Alguienrealmente se atreve a barrer mi residencia con su conciencia? "AunqueHuang'er era normalmente modesta, no podía evitar ser más sensiblecuando se bañaba en el manantial.
+
+Aunque sabía quela conciencia de esa persona era incapaz de ver a través del manantial de espíritu de madera o espiar su baño, Huang'er todavía se sentíaprofundamente ofendida. No sólo una muchacha sin su ropa siempre muy sensible, esta conciencia se sentía condescendiente, amenazadora y sin escrúpulos. Esto hizo a Huang'er segura de que esto no era un experto del palacio Real de la píldora, sino alguien con malas intenciones!Huang'er surgió del manantial de espíritu de madera con un chapoteo.Su cuerpo perfecto parecía aún más de hada después de haber sido purificado por el manantial.La niebla del manantial se elevó en mechones y envolvió el área, exudando un sentimiento santo y espiritual.Al salir del manantial, su ropa inmediatamente cubrió su impecable cuerpo con un destello de luz.Aunquela persona no pudo haber venido para la residencia de Jiang Chen, sesintió responsable de salvaguardarlo desde que Jiang Chen le habíaconfiado su residencia.Así,aunque Huang'er nunca había prestado especial atención a nada en suvida antes, este asunto se volvió particularmente importante para ella.Huang'er no estaría absolutamente de acuerdo con cualquiera que tuviera mala intención hacia esta residencia.A medida que la conciencia de Cao Jin era extremadamente arrogante, el palacio Real de la píldora entero pronto fue alertado.ElMaestro de salón del Salón del Poder, Lian Cheng, fue inmediatamenteconsciente del fuerte sentido de la provocación dentro de estaconciencia.Con un largo silbido, se transformó en un haz de luz y disparó al cielo con un impulso tan feroz como dragones y tigres."¿Qué persona presuntuosa se atreve a barrer mi secta con su conciencia?" El anciano Lian Chen no era un violeta encogido.Una vez que su temperamento violento estalló, incluso el anciano Yun Nie necesitaba darle un poco de espacio.Cao Jin tenía un rostro de indiferencia y apretó las manos a la espalda, la misma imagen de un viejo sabio.
+
+"Chico,¿fuiste tú quien usó tu conciencia para barrer mi Palacio Real dePíldoras?" El anciano Lian Cheng rápidamente notó a Cao Jin. Sinembargo, Cao Jin se limitó a dirigirle al anciano Lian Chen una miradasuperficial antes de continuar con la investigación de la secta con suconciencia.
+
+"Chico, ¿estás sordo o mudo? ¡Este asiento lo está interpelando! "El anciano Lian Chen tronó.
+
+"¿Qué cualidades tienes para interrogarme?" Cao Jin se burló, "Viejo, déjame hacerte una pregunta. ¿Quién es el encargado de tu Palacio real de la píldora?"
+
+¡¿Viejo?!El anciano Lian Chen estaba a punto de salir disparado.En este día y edad, había alguien que en realidad se atrevió a venir al Palacio real de la píldora y lo llama un viejo hombre ?!¿Se había vuelto loco este chico."¿De dónde eres, niño ignorante? ¿Están todos sus ancianos muertos? ¿Es por eso que nadie nunca te ha enseñado a respetar a tus mayores? "El anciano Lian Chen estaba loco.
+
+"¿Mis ancianos?" Cao Jin se burló, "Un viejo podrido como tú, ¿eres digno de ser considerado mi mayor?"
+
+El anciano Lian Cheng estaba completamente enfurecido, "¡Esta pequeña bestia! Parece que si este anciano no te enseña un ... "
+
+Antes de que pudiera terminar su frase, el rostro de Cao Jin se volvió frío y de repente gritó: "¡Largate!"
+
+Su voz era tan imponente como el relámpago de la tribulación que tronaba hacia el anciano Lian Cheng con un ímpetu abrumador.Justo cuando el anciano Lian Cheng se precipitaba, esta ola de sonido similar al trueno se estrelló contra él en la cabeza.Bam!
+
+Incapaz de soportar la menor resistencia, maestro de salón Lian Cheng fue directamente sorprendido. Se desplomó desde el cielo.
+
+Casi todos los discípulos del Palacio real de la píldora fueron testigos claros de esta escena como ocurrió en los cielos sobre la secta. Lapersona que era semejante al Dios de la Guerra en sus corazones, el pico del reino sabio de la tierra , el anciano Lian Cheng, había sidoderribado con un solo grito! ¡Esto fue horrible! Afortunadamente, alguien en el suelo había visto al anciano Lian Cheng caer y se apresuró a atraparlo. Aúnasí, la persona que atrapó al anciano Lian Cheng también se sentía comosi le hubieran golpeado en el pecho y había dado varios pasos antes deque pudiera mantenerse firme. Tenía el pecho agitado y no podía recuperar el aliento. ¡Una sola onda sonora había sido tan inimaginablemente poderosa! Cuando volvió a mirar al anciano Lian Cheng, éste tenía una boca llena de sangre y jadeaba débilmente."Date prisa... rápido ... comienza la Gran Formación de Protección", el anciano LianCheng luchó para escupir estas palabras antes de que se derrumbara enun desmayo.
+
+"¡El anciano Lian Cheng está gravemente herido! Rápido, empieza rápidamente la Gran Formación de Protección! "
+
+"¡Comienza la formación!"
+
+"¡Informe a la cabeza del palacio, vaya, vaya!"
+
+"¡Suene la alarma de nivel más alto, suene la alarma de nivel más alto!"Todo el Palacio real de la píldora inmediatamente descendió un desorden caótico que recuerda a una colina de hormigas derribada. Afortunadamente,los discípulos que formaban la Gran Formación de Protección fueron bienentrenados y rápidamente iniciaron la matriz de formación al recibir elmensaje.
+
+¡Auge! ¡Auge! ¡Auge!
+
+La Formación de la Gran Protección comenzó rápidamente, encerrando todo el complejo Palacio real de la píldora. Cao Jin sonrió y cruzó los brazos, al parecer no tenía prisa para atacar. Esto causó que la gente de abajo se sintiera aliviada en medio de su miedo. Afortunadamente,el enemigo era arrogante y no había tomado la oportunidad de comenzarsu asalto antes de que se formara la formaciónSin embargo, ¿quién fue capaz de lidiar con un enemigo tan vicioso?
+
+No era que Cao Jin no hubiera visto la oportunidad de atacar, sino que lo había dejado deliberadamente. Quería esperar a que completaran su Gran Formación de Protección.
+
+Sabía que ese viejo era el primer paso. Esto no fue suficiente para intimidar completamente el Palacio real de la píldora. Sólocuando había desintegrado completamente a la Gran Formación deProtección de la que estaban tan orgullosos, sus espíritus seríanaplastados. Y cuando eso sucediera, sería fácil para él escoger lo que quisiera.

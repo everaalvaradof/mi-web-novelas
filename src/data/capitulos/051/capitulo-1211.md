@@ -1,0 +1,11 @@
+---
+titulo: "Capítulo 1211"
+numero: 1211
+novelaId: "51"
+---
+
+Nadie realmente había visto las verdaderas profundidades de la fundación de dao de la píldora de Huang'er. Ni siquiera Jiang Chen. Eljoven señor no estaba completamente seguro de que fuera algo buenocomenzar con una batalla de dao de la píldora, pero como la flecha ya estabaentallada en la cuerda, era demasiado tarde para considerar cualquierotra cosa.
+
+"Viejo hermano Mo, Huang'er, hagan su mejor esfuerzo, no se sientan agobiados." Jiang Chen los animó a través de su conciencia. "Todavía podemos ganar la competencia, incluso si solo logramos ganar una ronda en dao de la píldora".
+
+El Emperador Inigualable y Huang'er asintieron. Ya eran los mejores candidatos de la Sagrada Montaña Peafowl. Incluso si fueran reemplazados por otra persona, la situación probablemente sería la misma.Silos seguidores del emperador Shura realmente fueran de Ciudad Fuego de Píldora,Jiang Chen sería el único que podría enfrentarlos de frente.Incluso si el rey de la píldora Lu Feng y rey de la píldora Bu estuvieran aquí, era poco probable que la situación fuera mejor.En cuanto a Lin Yanyu y Mu Gaoqi, todavía eran demasiado jóvenes para soportar tal peso en sus hombros."Daoista Shura y joven señor Zhen, ya que ambos son líderes de susrespectivas facciones, se requiere que luchen uno contra el otro en cadatema.Encuanto a sus candidatos, también deberían enfrentarse a sus iguales entodos los temas, excepto en las batallas de dao marcial.¿Tiene más reglas que pueda querer agregar?" El Emperador Petalpluck les preguntó a los dos.Era una necesidad tener a los líderes luchando unos contra otros.Si el Emperador Shura y el joven señor Zhen pudieran pelear contra losdemás, toda la competencia perdería su significado y valor deentretenimiento.Jiang Chen sonrió suavemente."Absolutamente ninguna".El emperador Shura sabía que Jiang Chen era extremadamente excepcional en dao de la píldora, pero no podía retroceder ahora.Estaba preparado para una pérdida en el dao de la píldora.¿Pero no hubo tres batallas de dao de la píldora?El Emperador Shura miró al Emperador Inigualable y a Huang'er, una sonrisa extraña se formó en sus labios.

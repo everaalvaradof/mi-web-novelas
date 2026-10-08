@@ -1,0 +1,19 @@
+---
+titulo: "Capítulo 1190"
+numero: 1190
+novelaId: "51"
+---
+
+La convención de la Reunión de Vasallos animó significativamente a  CapitalVeluriyam.Debido a la llegada de reyes y señores de todas partes, la ciudad bullía de actividad.Trece grandes naciones, ochocientas ciudades y todos sus séquitosasociados ... en total, se esperaba que llegaran cien mil reciénllegados.CapitalVeluriyamno tuvo problemas para alojar otros cien mil.De hecho, podría hacerlo con bastante facilidad.Cada vasallo tenía su propio fondo y patrón.De ellos, el emperador Peafowl cultivó personalmente al menos un tercio.Estas personas dieron tremenda buena voluntad hacia la Sagrada Montaña Peafowl.Debido a que el Emperador Peafowl siempre había sido el mayor granemperador de Veluriyam por el tiempo que nadie podía recordar, los reyesy los señores hicieron que visitar la Sagrada Montaña Peafowl fuera la primera orden de sus asuntos al llegar.Todos habían oído hablar de los rumores, por supuesto.Los vasallos que debían sus posiciones al emperador especialmente querían saber más una vez que estuvieran allí.Sin embargo, escucharon otra noticia tan pronto como entraron a las puertas de la ciudad.El joven señor Zhen de la SagradaMontaña Peafowl residía en la Torre Taiyuan de Avenida Pájaro Bermellón."¿Han oído todos?¡El joven señor Zhen está de vuelta!""¿Qué? ¿No había rumores de que el joven señor Zhen desapareció también? ¿Ha regresado, entonces?"
+
+"Sí. El joven señor también ha anunciado que el emperador Peafowl no está perdido ".
+
+"¡Noticias fantásticas! Quiero decir, ¿quién bajo los cielos puede matar a un experto como el Emperador Peafowl? ¡Nunca creí el cotilleo sobre su muerte!"
+
+"Exacto. Solo con el Emperador Peafowl alrededor puede CapitalVeluriyam mantener la estabilidad. ¡Nadie puede reemplazar a un hombre de su grandeza en nuestra gran capital!""Shh, hermano.No puedes decir eso demasiado alto por aquí.No arriesgues a enojar a las personas equivocadas ".
+
+"Hmph, no le tengo miedo a nadie. El emperador Peafowl es el único que reconoceré.Incluso si ya no está, preferiría apoyar al joven señor Zhen ".
+
+El Príncipe Li Mai se llenó de devoción. "Joven señor Zhen, soy de un lugar de poca monta. En Ciudad Torre Dorada, los mejores maestros de píldoras que tenemos son reyesde píldoras que apenas sobrepasan el umbral de rango alto. Yo ... quería rogarle que me permitiera quedarme aquí en la Torre Taiyuan. ¡Sería feliz solo de trabajar como aprendiz! "
+
+Como un joven absorto en el dao de la píldora, Li Mai adoró de todo corazón al joven señor Zhen."¿Qué piensas, Rey Li?" Jiang Chen miró al padre del joven."Si lo quieres tener, joven señor", respondió el rey."Sería su mayor honor, una bendición única en la vida.Debería considerarse realmente afortunado de poder quedarse "."Ustedes dos son padre e hijo, no hay duda", el joven señor se rió entre dientes."Las palabras que salen de tus labios son igualmente dulces.He observado el entusiasmo de Li Mai por el dao de la píldora.Es raro que el príncipe heredero de una nación grande refine píldoras en el palacio real.Si está seguro de su decisión, entonces puede quedarse.Le enseñaré por mí mismo si tengo el tiempo, y mis mejores discípulos pueden tomar mi lugar de otra manera.No te preocupes, Su Majestad.¡La Sagrada Montaña Peafowl te devolverá a unpríncipe experto en píldoras!"Esto no fue jactancia ociosa por parte de Jiang Chen.Era un verdadero hacedor de milagros cuando se trataba de dao de la píldora.Además, no era como si Li Mai fuera tonto o sin talento.Como príncipe de la corona, era dotado e ingenioso, sin duda más que un contrincante para el vástago típico de un gran clan.

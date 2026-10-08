@@ -1,0 +1,13 @@
+---
+titulo: "Capítulo 1108"
+numero: 1108
+novelaId: "51"
+---
+
+El hombre astuto obviamente tenía mucho miedo de la zona.Incluso con Gu Xintang alrededor, no pensó bien en su intención de visitar los Diez Últimos en absoluto.Quienno estaba enterado en las Celdas Sable de que los Diez Últimos eranun lugar ni siquiera los capitanes del Salón de la Luna Inhóspita se atrevían aentrar descuidadamente.Incluso en la ocasión en que tenían que entrar, estarían en alerta máxima todo el tiempo.Todos los demonios encarcelados en los Diez Últimos eran desalmados y locos.Un simple capitán no tenía derecho a emitir aires en ese lugar.Si ofendían a estos monstruos, podrían ser asesinados en el acto.Definitivamente había una gran prioridad, y muchas veces en el pasado también.Los capitanes no serían tan cautelosos de este lugar de lo contrario.Los encarcelados en los Diez Últimos no eran alguien a quien un simple capitán pudiera intimidar.Para decirlo sin rodeos, los capitanes eran los que tenían que mirarsea sí mismos y descartar todos los aires, o de lo contrario lasconsecuencias calamitosas les sobrevendrían.Entonces, ¿cómo se atrevió el hombre astuto a entrar en los Diez Últimos?Ni siquiera tenía las agallas para acercarse al área, especialmente dado que él fue quien la planteó en primer lugar.Si los expertos en los Diez Últimos supieran que él fue quien habíarevelado su secreto, no sobreviviría a su ira, incluso si tuviera diezvidas."No iré, Capitán Gu". El hombre astuto soltó cuando pensó en este punto.Gu Xintang frunció el ceño. "Claro, haz lo que quieras. Sinembargo, si tu información es incorrecta, es mejor que estés preparadopara permanecer en las Celdas Sable por el resto de tu vida ".
+
+El hombre astuto negó con la cabeza. "Mi información es absolutamente correcta. Es lo que concluí después de recopilar información de muchos lugares, por lo que no hay manera de que pueda estar mal ".
+
+JiangChen arrojó las diez Píldoras de Sabio Heroico al hombre astuto antes depreguntar en voz baja: "Si los Diez Últimos es tan aterrador comodices, entonces ¿por qué sus cultivadores estarían tan interesados en uncultivador del reino origen? ¿Qué demonios están planeando al llevarlo a la zona? ¿Es algo bueno o algo malo?"
+
+El hombre astuto sonrió con ironía. "¿Crees que algo bueno puede suceder en este lugar? Nome atrevo a decir que todos en las Celdas Sable son criminales irredimibles,pero a nadie que entre en los Diez Últimos le queda una pizca demisericordia en el corazón ".

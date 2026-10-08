@@ -928,5 +928,43 @@ export const novelas = [
             title: "Leer Contra los Dioses en Español - Novelas Ligeras",
             description: "Disfruta de Contra los Dioses en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
+    },
+    { 
+        id: "050", 
+        titulo: "Arte corporal del hegemón de las nueve estrellas", 
+        titulo2: "Nine Star Hegemon Body Art",
+        genero: "Comedia, fantástica, china, Xianxia, Xuanhuan, Acción, Creación, Alquimia,", 
+        anio: "2026", 
+        imagen: "/portada/50.webp",
+        sinopsis: "Long Chen, un joven lisiado incapaz de cultivar, es constantemente acosado y hostigado por sus compañeros herederos nobles. Tras una paliza particularmente brutal, despierta y se da cuenta de que el alma de un Soberano de las Píldoras se ha fusionado con él, otorgándole recuerdos adicionales. Entre esos recuerdos se encuentra el misterioso Arte Corporal del Hegemón de las Nueve Estrellas, una técnica de cultivo que incluso él puede dominar, pero cuyos secretos y origen siguen siendo un misterio para él. Confiando en sus instintos mejorados al comenzar finalmente a cultivar, descubre una enorme conspiración en el Imperio del Grito del Fénix; una conspiración que involucra a su padre, miembros de la familia imperial e incluso al propio Emperador. Para resolver los misterios que lo rodean, debe recurrir a sus nuevas técnicas de alquimia y al poderoso pero desconcertante Arte Corporal del Hegemón de las Nueve Estrellas. Innumerables enemigos se interponen en su camino hacia la cima del mundo del cultivo. El destino lo condenó a ser solo una pieza en el ajedrez, pero él no se doblegará ante la voluntad de los Cielos.",
+        totalCapitulos: 3660,
+        capitulosPublicados: "3660",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Ordinary Magician",
+        tag: "",
+        seo: {
+            title: "Leer Arte corporal del hegemón de las nueve estrellas en Español - Novelas Ligeras",
+            description: "Disfruta de Arte corporal del hegemón de las nueve estrellas en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
+    },
+    { 
+        id: "051", 
+        titulo: "Soberano de los Tres Reinos", 
+        titulo2: "Sovereign of the Three Realms",
+        genero: "Acción, Aventura, Cultivación, Alquimia, Fantasía, Harem, Artes Marciales, Líneas de Sangre, Trasmigración, Xuanhuan,", 
+        anio: "2026", 
+        imagen: "/portada/51.webp",
+        sinopsis: "Jiang Chen, el hijo del Emperador Celestial, reencarna inesperadamente en el cuerpo de un joven noble despreciado, por lo tanto, se embarcará en el camino del desvalido derrotando a todos. Nadie tiene el derecho a llamarse a sí mismo un genio delante de Jiang Chen, ya que nadie tiene una mejor comprensión de los cielos que el hijo del Emperador Celestial. ¿Genio? Aquellos que estén a mi lado han de ascender, los que se oponen… Pueden encontrar consuelo en el infierno.",
+        totalCapitulos: 2377,
+        capitulosPublicados: "2377",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Li Tian",
+        tag: "",
+        seo: {
+            title: "Leer Soberano de los Tres Reinos en Español - Novelas Ligeras",
+            description: "Disfruta de Soberano de los Tres Reinos en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
     }
 ];

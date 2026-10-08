@@ -1,0 +1,39 @@
+---
+titulo: "Capítulo 688: Siguenos en facebook :https://www.facebook.com/ATG-Against-the-gods-espa%C3%B1ol-1766848850293014/"
+numero: 688
+novelaId: "51"
+---
+
+La expresión del Jefe de secta Qin Mo, se hundió, "¿Qué quieres hacer, Jiang Chen?"
+
+Jiang Chen no respondió y sacó un tallo de hierba espiritual de rango cielo con una risa fría en su lugar. Luego, respondió en un tono remoto y desinteresado, "Este es el primer tallo de una hierba espiritual de rango cielo. Si mi hermana mayor no está segura a mi lado para cuando cuente hasta cinco, lo destruiré ".
+
+Qin Mo frunció el ceño, "¿Qué tonterías estás vomitando a plena luz del día, chico?¿Debo dejar que tu hermana mayor solo camine solo para que ustedes dos escapen a través de un talismán?"
+
+Wang Ha asintió con la cabeza, "Honorable maestro, este chico es aficionado a los planes y las trampas tortuosas.¡No caigas en sus planes! "
+
+Jiang Chen no se molestó en perder más palabras.Él sonrió extrañamente, se frotó las manos y redujo la hierba espiritual al polvo.Luego, inmediatamente sacó otro."Voy a contar hasta cinco de nuevo ..." Su tono era frío y cruel.El Jefe de la Secta, Qin Mo, tembló, incluso sus órganos comenzaron a sufrir espasmos.¡Jiang Chen había destruido una hierba espiritual de rango cielo como si nada!¡Eso fue cortar la carne del cuerpo de Qin Mo!Incluso Wang Han no había pensado que Jiang Chen estaría tan resuelto.Las expresiones en todas sus caras eran bastante feas de contemplar.Cada nueva palabra de la cuenta regresiva de Jiang Chen era similar a una flecha filosa.Cadanúmero hablado apuñaló profundamente en el corazón del jefe de lasecta, haciendo que los músculos de su rostro se torcieran y espasmaran."¡Espera!" Qin Mo extendió una mano.Jiang Chen sonrió débilmente, "¿Quieres hablar?Regresa mi hermana mayor.Recuerde, sin trucos.Si descubro que se le han impuesto restricciones o algo así, tampocopodrá obtener ninguna de las hierbas espirituales de rango cielo".Dichasrestricciones eran precisamente lo que Qin Mo tenía en mente, y sintióla fuerza abandonar sus extremidades cuando Jiang Chen dio la voz deadvertencia.Apretólos dientes y arrojó a Ling Bi'er con un "¡Tenla!" Luego hizo que suscuerdas de cítara barrieran el aire para formar una red ineludible, queencerraba todo el aire que había dentro.Esto fue hecho para evitar que Jiang Chen y otros escapen por medio de talismanes.Una vez que la red estaba completa y el área sellada, incluso un poderoso talismán no sería capaz de atravesarlo.ElJefe de la Secta, Qin Mo, estaba muy seguro de que con su fuerza en elreino emperador de tercer nivel, podría capturar a Jiang Chen, inclusocon algunas demoras momentáneas.Cuando Jiang Chen vio a Ling Bi'er volar hacia él, inmediatamente hizo un selló de mano y materializó la Formación de Artificio Menor. "¡Hermana mayor, por aquí!"
+
+Estaformación era algo que había proyectado desde el disco de formación,por lo que no había necesidad de hacer muchos preparativos de antemano. Jiang Chen llevó a Ling Bi'er directamente a la residencia.
+
+"Hermano menor, te he arrastrado conmigo". Ling Bi'er sintió que había arruinado las cosas con sus buenas intenciones. "Te hice destruir una hierba espiritual del rango cielo ... ¡Te compensaré en el futuro!"
+
+ElJefe de la Secta, Qin Mo, agitó su mano mientras miraba a su alrededor ysonreía levemente. "Pensar que tal residencia existiría en la regióntrascendente". Jiang Chen, parece que tuviste mucha suerte. Debe haber alguna herencia sorprendente en este palacio ".
+
+El tono del anciano era casual, pero estaba bastante alerta mientras recorría los alrededores con su conciencia.
+
+Jiang Chen lanzó una mirada burlona y sarcástica al anciano, "¿Qué, esto también te llama la atención?"
+
+El Jefe de la Secta Qin Mo se rió de buena gana, "Chico, hablas duro aún en este momento.Yo admiró bastante tu coraje ".Wang Jianyu y Wang Han comenzaron a sonreír de forma siniestra. Era evidente que todos consideraban que Jiang Chen y Ling Bi'er no eran más que peces en un barril. Podríanhaber huido con la ayuda de talismanes de escape en el mundo exterior,pero el palacio estaba completamente sellado y sus alas se cortaríansiempre que la salida estuviera bloqueada.
+
+JiangChen no los agració con una respuesta, sino que se volvió parapreguntarle a Ling Bi'er: "Hermana mayor, ¿estos son todos ellos?"
+
+Ling Bi'er se sobresalto pero aún contó la cantidad de personas presentes, "Sí. Esto es todos ellos. No nos falta a nadie ".
+
+Jiang Chen asintió, sonriendo tranquilamente, "Mientras todos estén aquí ..."
+
+Jefe de secta Qin Mo se sintió muy incómodo al ver esta sonrisa relajada. Sintió que algo estaba un poco raro, pero no podía ubicar lo que estaba mal. Entonces, en cambio, se volvió hacia sus hombres y les dijo: "Wang Jianyu, tú primero. ¡Lo quiero vivo!"Él era una persona extremadamente cautelosa. Comoel Palacio de la EspadaSagrada quería desertar y quedar bajo subandera, este era precisamente el lugar para hacer uso de ellos. Wang Jianyu se burló, no podía pedir nada más. Blandió su espada con las palabras, "¡Jiang Chen, déjame enviarte en tu camino!"Jiang Chen se rió entre dientes fácilmente, "¿Enviarme en mi camino? ¿Por qué no te miras al espejo primero y compruebas si estás en condiciones de hacerlo? En cuanto a mí, hace tiempo que hice arreglos para todos ustedes. ¡El camino al inframundo es largo, y no te veré allí! "
+
+Nodesperdició más palabras después de esto mientras enviaba un comandomental, desencadenando las restricciones del palacio con su conciencia.El palacio respondió.Inmediatamenteestalló como un volcán, innumerables restricciones explotando con lafuerza capaz de destruir los cielos y la tierra."¡¿Qué?! ¡Necesitamos irnos! "El Jefe de la Secta, Qin Mo, instantáneamente sintió que las cosas estaban mal y entraba en pánico. Pero fue demasiado tarde. La fuerza ilimitada e interminable de las restricciones se agitó con suficiente ímpetu para barrer cualquier obstáculo. WangJianyu y el resto del Palacio de la EspadaSagrada fueron convertidosen polvo sin miramientos cada vez que el poder desbocado los tocó. Se tornó en Qin Mo al último.El jefe de la secta sintió una amargura indescriptible mientras llamaba asu cítara, tratando de establecer algunas defensas frente a él.Sinembargo, las fuertes restricciones abatirían continuamente cualquierdefensa que conjurara, desgarrándolas a todas como papel.
+
+Las defensas finales fueron destruidas cuando la tremenda potencia se estrelló contra el jefe de la secta.¡Bang Bang Bang!Tambiéntenía la protección de una armadura interna a la que recurrir, peroseguía gravemente herido tan pronto como sus defensas se rompieron.Qin Mo estaba verdaderamente asustado ahora."Jiang Chen ... Jiang Chen ... podemos hablar de cosas.Me rindo, tengo información... "Sinembargo, una nueva oleada dominante desgarró su armadura interna tanpronto como terminó de hablar y lo golpeó hasta la nada.Elalma que partió del cuerpo borrado no tuvo tiempo siquiera de huirantes de que otra oleada de poder la convirtiera en polvo.Ese feroz y deslumbrante cultivador del reino emperador de tercer nivel había sido reducido a la nada en un instante.Elúltimo enemigo vivo fue Wang Han, un poco más afortunado que los demásen virtud de esconderse detrás del Jefe de la Secta Qin Mo. Todavíahabía sido atrapado tras los ataques, sin embargo sus heridas no fueronfatales.En este momento, Jiang Chen hizo un sello a mano y desactivó las restricciones.Todo el palacio volvió a su apariencia previa y tranquila, como si el asalto infernal de ahora no hubiera sucedido en absoluto.No había nadie al lado de Wang Han.Ni siquiera había un cadáver completo en el suelo.Surostro estaba pálido cuando comenzó a contemplar la repentina sensaciónde que, aunque el mundo era vasto, no había lugar para él en absoluto.Queríadarse la vuelta y huir, pero al recordar lo aterradoras que habían sidolas restricciones en ese momento, no se atrevió a moverse.

@@ -1,0 +1,19 @@
+---
+titulo: "Capítulo 1193"
+numero: 1193
+novelaId: "51"
+---
+
+"Escuché que hay otra gran noticia de la Sagrada Montaña Peafowl".
+
+"¿Qué noticias?"
+
+"¿Realmente no sabes? Hay una píldora milagrosa llamada Píldora Grulla de Pino. Permite a los cultivadores del reino emperador vivir mil años más. ¡Incluso funciona hasta cierto punto con los grandes emperadores!"
+
+"¿Cómo puede ser esto? Eso suena bastante infundado. "Algunos no creían en las noticias.
+
+"Hmph, la Sagrada Montaña Peafowl tiene una reputación muy confiable. Nunca difunden noticias falsas ".
+
+"Quizás no sea de ellos, sin embargo. Tal vez sus seguidores lo hicieron con segundas intenciones ".
+
+"Disparates. ¿Qué quieres decir con motivos ocultos?Escuché que la Torre Taiyuan fue donde se anunció por primera vez, y el joven señor Zhen personalmente lo confirmó "."¿Confirmo personalmente?¿Lo oíste con tus propios oídos o lo viste con tus propios ojos?""No estoy interesado en perder el tiempo discutiendo.Por una vez, este rumor está respaldado por una fría y dura verdad.Hay una montaña de evidencia "."¿Qué montaña de evidencia?""¿No sabes sobre el emperador del Dragón Enrollado?Todavía deberías recordar la crisis del Clan del Dragón Enrollado, ¿verdad?El señor del clan estaba casi al final de su vida mortal, y estaba muy cerca de que su cultivo se disipara.Creo que todos en la ciudad lo sabían en ese momento, ¿no?""¿Qué?¿Qué estás tratando de decir?""¿Aún no entiendes?¿Cómofue que el señor del Clan del Dragón Enrollado pasó del borde de ladisipación a un asiento entre los otros grandes emperadores?¡Utilizó la píldora Grulla de Pino del jovenseñorZhen!Eljoven señor primero alargó su vida por unos años usando un artesecreto, luego aprendió y perfeccionó una receta  de píldorasmagistral.Con algo tan inigualable como la píldora Grulla de Pino, el señor del Clan del Dragón Enrollado recibió otros mil años de vida.¡Sucuerpo mejoró, finalmente pudo romper sus límites mortales y de cultivopara ascender como un gran emperador! "La persona que relató lahistoria lo contó con cierta animación, como si él mismo hubiera vistotodo."Tsk tsk, casi suena real.¿Pero crees que tal cosa es realmente posible?¿Un cultivador del reino emperador que vive otros mil años?¡Lo haces sonar tan fácil como comer y respirar!Entonces, según usted, nadie moriría de viejo en el mundo del dao marcial.Si usas tu cerebro para pensarlo un poco, ¡llegarás a una conclusión más razonable!""¿De qué estás hablando?¿Estás diciendo que no tengo cerebro?""¿Crees que lo tienes?""Mi cerebro es mucho mejor que el tuyo, tonto.Eres increíblemente ignorante, pero sigues fingiendo que eres todo eso.Hmph, no olvides de dónde viene la píldora de la longevidad.Antes de que saliera, no existía una píldora que pudiera extender la vida de los cultivadores del reino sabio.Pero ¿qué pasa ahora, hmm?""La píldora de la longevidad es lo suyo.Los cultivadores del reino sabio son abundantes en el dominio humano.No hay nada de maravilloso en eso "."Simplemente no crees en el joven señor Zhen, al final del día.Sin embargo, no importa si lo haces o no.Sus logros son claros para que todos lo vean.¿Quién derrotó al rey de la píldora Ji Lang de Ciudad Fuego de Píldora ?¿Quién sanó al Árbol Precioso del Dios de la Luna en la Región de la Luna Inclinada?¿Quién comprendió los nueve Obeliscos Veluriyam dentro de la Pagoda? "El orador era claramente un fanático de Jiang Chen.Él recitó una sarta de las obras del joven casi sin esfuerzo.Argumentos similares estaban teniendo lugar en todas partes de la ciudad.Las noticias sobre la píldora Grulla de Pino se extendieron cada vez más en una marea inexorable.En un día, todos y todo en la ciudad conocían esta impactante información.Incluso algunos que no eran súbditos de la ciudad se habían enterado.

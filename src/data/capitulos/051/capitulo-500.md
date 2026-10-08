@@ -1,0 +1,57 @@
+---
+titulo: "Capítulo 500"
+numero: 500
+novelaId: "51"
+---
+
+Muchos delos ancianos adivinaron que Jiang Chen simplemente había dejado laspreguntas más difíciles para terminar más rápido. Dado el nivel de dificultad, era una suposición completamente razonable. Los candidatos que terminaron más rápido tendrían una mayor ventaja si las puntuaciones de todos eran similares.
+
+"Este Jiang Chen es todavía demasiado joven, al parecer. No pudo retener su compostura y pensó que las finales serían tan casuales como los preliminares. "Un anciano suspiró suavemente.
+
+Eraevidente que algunos de los ancianos ya habían hecho sus propiosjuicios sobre la calidad de las respuestas de Jiang Chen, dado que habíaterminado en una hora. Todos sentían que Jiang Chen estaba haciendo esto por el centro de atención, poniendo demasiado énfasis en la velocidad. Este tipo de método afectaría absolutamente la calidad de sus respuestas.El élder Yun Nie, por otra parte, permaneció sereno e imparcial. Jiang Chen era alguien con quien tenía los ojos puestos. Por lo que sabía de Jiang Chen, este último no era el tipo de perder la calma tan fácilmente. Debe haber tenido sus propias razones para entregar sus respuestas tan pronto.
+
+Sin embargo, las reglas le impidieron mirar el rollo de Jiang Chen antes de que todos los demás hubieran terminado. Todos los rollos tenían que ser calificados al mismo tiempo.
+
+En ese momento, Mu Gaoqi estaba respondiendo a las últimas preguntas de cinco puntos en su habitación.Estaba bastante agitado en este momento, porque acababa de descubrir los frutos de su conversación con Jiang Chen anoche.Las tres últimas preguntas se referían directamente a dos de las recetas antiguas que habían hablado!Esto hizo que Mu Gaoqi sintiera que un golpe de suerte había descendido de los cielos y lo golpeó al revés de la cabeza."Hermano Chen, usted es verdaderamente mi benefactor." Mu Gaoqi estaba excitado más allá de la creencia."Esimposible para mí hacer algo malo en las preguntas de dos puntos y trespuntos, y estoy bastante seguro acerca de las preguntas de cinco puntosantes.Si puedo responder a dos de estas preguntas finales correctamente, voy a ser capaz de estar en un sólido 95 puntos!Incluso Ouyang Chao no será capaz de hacer esto, ¿verdad ?? "Sería una mentira decir que Mu Gaoqi no estaba nervioso en este momento.Sin embargo, rápidamente se calmó.Sabía que ahora no era el momento de sentirse orgulloso.El que rió al final se reiría más fuerte.Cuando llegó a la última pregunta, Mu Gaoqi estaba en una pérdida cuando se enfrentó con la antigua receta.Pero rápidamente tomó la decisión de renunciar a ella.A diferencia de perder tiempo aquí, era mejor comprobar sus otras respuestas.Debe asegurarse de que no hubo errores y entregarlo antes para ganar más tiempo.Despuésde todo, era muy probable que una competición de este calibre llegara atiempo de finalización al decidir el ranking final.Las mayoresganancias de Mu Gaoqi después de seguir a Jiang Chen, además delconocimiento del dao de la píldora y el bautismo en el manantial, fue elcambio en su personalidad. Había estado indeciso y sinespinas antes, temeroso de la pérdida, pero ahora había algunos indiciosde determinación y resolución en su personalidad.
+
+Fuera del área de pruebas, los ancianos todavía estaban sentados allí. Incluso quince minutos después de Jiang Chen, ni siquiera una persona había salido. "Heh heh, todo el mundo, ¿quién crees que será el segundo?" Un anciano comenzó a charlar para pasar el tiempo.
+
+"-Voy a adivinar que es el nieto del anciano Ouyang, Ouyang Chao?"
+
+"Mm, yo también veo favorablemente a Ouyang Chao. ¡Él es un descendiente de salón Herbal después de todo!Desde donde me siento, es un activo confiable, con una base sólida en la teoría.¡Él es absolutamente un contendiente caliente esta vez! ""Haha, parece que todo el mundo piensa lo mismo que yo.¡Pensamos muy bien en Ouyang Chao! "El anciano Ouyang De sonrió suavemente, con su corazón lleno de orgullo.Creía firmemente que su nieto directo Ouyang Chao se apoderaría de una de las residencias.Nunca había dudado de ello.Inclusosi Linghu Feng no había sido despojado de sus calificaciones, Ouyang Deno creía que nadie pudiera amenazar a Ouyang Chao.A pesar de que no podía ver a través de Jiang Chen, incluso si el último había tomado una vacante, el otro aún iría a su nieto.Por lo tanto, él estaba bastante a gusto y tenía una sonrisa orgullosa en su cara fríamente compuesta.Una figura salió de las cámaras mientras seguían charlando."Mm?" El cuerpo de Ouyang De tembló de repente, porque fue el primero en darse cuenta de que no era su nieto, sino alguien más.Estapersona era notablemente más joven que Ouyang Chao, y algunos indiciosde una actitud alegre y despreocupada que no se parecía a Ouyang Chao.Su túnica y el pelo levantado le hacían parecer bastante etéreo, y le daba un sentimiento vagamente de otro mundo."Mu Gaoqi?" Un anciano reconoció a la persona.
+
+Uno tenía que decir, Mu Gaoqi realmente no tenía mucha influencia en la secta. No tenía mucho respaldo en el salón Herbal , y tampoco era un descendiente del salón.
+
+El anciano Yun Nie también se sorprendió un poco al ver a Mu Gaoqi. Élsabía del nombre, y que Mu Gaoqi había estado recientemente cerca deJiang Chen, pero lo que le sorprendió en este momento no fue sólo lavelocidad de Mu Gaoqi, sino más bien su comportamiento.
+
+Habíaun aura particularmente sobrenatural que se envolvía alrededor de MuGaoqi, haciéndole parecer absolutamente extraordinario.Este tipo de aura era casi inexistente entre los genios del dao de píldoras de todo el Palacio real de la píldora.No es de extrañar que los discípulos del Palacio real de la píldora lo llamaran el Semidiós de Madera.Ciertamente no era un personaje sencillo."Eldiscípulo Mu Gaoqi ha completado la primera categoría y pide entrar enel segundo". La personalidad de Mu Gaoqi había sido débil anteriormente,pero ahora parecía capaz de mantenerse de pie frente a tantos ancianosde las sectas. No parecía ni un poco incómodo.
+
+"Mmm? Este Mu Gaoqi es normalmente vacilante y cobarde, incapaz incluso de hablar delante de los pesos pesados de la secta. ¿Cómo se siente tan cómodo hoy, y ni se encogido  ni arrogante para hablar? "Algunos de los ancianos también se sorprendieron.
+
+Cuanto más Anciano Yun Nie vio a Mu Gaoqi, más le gustaba lo que veía. Él asintió con la cabeza, "Vaya, llévelo a la segunda categoría".
+
+Después de que Mu Gaoqi se fue, la expresión de Ouyang De se volvió un poco fea.
+
+Todo el mundo estaba a favor de Ouyang Chao, y él también lo había aceptado tácitamente.Pero el segundo que salió fue Mu Gaoqi, no su nieto!"Heh heh, los jóvenes ahora son incapaces de mantener la calma.¡Enmis ojos, un genio de dao de la píldora debe ser tan constante comoOuyang Chao! "Un anciano firmemente en el campo de Ouyang De intentóconsolar al anciano de esta manera."De hecho, la mentalidad de Ouyang Chao es estable y mantiene su calma frente a la adversidad.Esta es la calidad básica de un maestro de píldoras ".Sin embargo, los otros ancianos parecían haberse quedado temporalmente sordos, sin unirse a la corriente de alabanzas.Era evidente para todos que el maestro de salón Yun Nie parecía admirar a Mu Gaoqi un poco.Puesto que a maestro de salón le gustaba este chico, no era una buena idea alabar excesivamente a Ouyang Chao.Cuando se trataba de adular a Ouyang De o al anciano Yun Nie, ¿tal decisión incluso necesitaba un segundo pensamiento?Ouyang Chao finalmente surgió después de que dos tercios del tiempo asignado había pasado.Uno no podía recoger ningún rastro de emoción de su rostro. La cara de bebéLing Hui'er salió poco después, con su impresionante cuerpo en exhibición.Cuandolos demás vieron cómo ella estaba ligeramente mocosa, podían decir queella no estaba muy satisfecha con la forma en que había mostrado sushabilidades en la primera categoría.Ouyang De de hecho realmente quería preguntarle a Ouyang Chao cómo había hecho, pero él se controló al final.Si ahora le preguntaba, daría a los demás algo de qué criticar e incluso podría molestar a Ouyang Chao.Como tal, mantuvo la boca cerrada.La segunda categoría era la de la visión, y era una línea divisoria realmente importante para un maestro de la píldora.La observación suprema era necesaria para evitar que ocurrieran accidentes al refinar píldoras.Un ojo para el detalle era aún más necesario para determinar elcrecimiento de las hierbas espirituales , y un requisito previo absolutopara seleccionar las semillas de grado adecuado.Había sólo diez preguntas en esta categoría, y cada una valía diez puntos.Había cinco temas en los que enfocarse, identificando semillas, llamas, calderos, píldoras y recetas.Había dos preguntas dentro de cada tema, para un total de diez preguntas.Para alguien entrenado en el Ojo de Dios como Jiang Chen, su visión realmente no tenía igual.Añade que a su rico conocimiento de las píldoras, no había duda sobre su victoria.Utilizó un lapso aún más corto para completar las diez preguntas de la segunda categoría. Cuandosurgió, la mayoría de los candidatos acababan de terminar la primeracategoría, y los ancianos que lo habían preguntado anteriormente estabansin palabras.
+
+Ya no estaban seguros de que Jiang Chen estaba siguiendo la velocidad a propósito. Incluso si un joven maestropíldora era un genio, todavía no tendrían esta velocidad.De igual modo, mostró un impulso implacable en la categoría de fuerza de corazón, completamente imparable en su progreso. Cuando emergió de la tercera categoría, los resultados de las respuestas a la teoría acababan de ser computados.
+
+El nombre de Jiang Chen estaba en la cima del ranking con una puntuación completa.
+
+El asombro se apoderó de la escena. Los ancianos quedaron boquiabiertos y no sabían cómo reaccionar. Incluso sentían que sus caras se quemaban con la sensación de que Jiang Chen los había abofeteado a todos."¡Qué genio perverso, esto es absolutamente asombroso! Terminando los pergaminos en una hora. Y con marcas completas ... ¿es realmente Jiang Chen de los dieciséis reinos? "
+
+"¡En efecto! ¡Tiene más sentido si viene de los Ocho Reinos Superiores! ¿De los dieciséis reinos? Esto no tiene ningún sentido en absoluto. ¿Qué tan fuertes son los cimientos de la Secta del Árbol Precioso que podrían cultivar tal genio?"
+
+Todos suspiraron, con los corazones llenos de profunda emoción.
+
+Algunosde ellos cuyos pensamientos corrieron un poco más rápido no podía dejarde preguntarse si el jefe del palacio Dan Chi estaba en connivencia conel anciano Yun Nie para asegurarse de que Jiang Chen ganó? Sin embargo, no dijeron nada.
+
+Si este no fuera el caso, ¿por qué Jiang Chen era tan poderoso?Él no parecía en absoluto!No tenía sentido para él lograr este puntaje con su edad y antecedentes.Por supuesto, sólo podían especular. No se atrevieron a decir nada en voz alta.¿No estarían simplemente cortejando a la muerte si cuestionaban al Jefe del Palacio o al Anciano Yun Nie?
+
+El rostro de Ouyang De estaba ceniciento;Él era el más desanimado del grupo.Gracias a la actuación de Jiang Chen, su nieto fue firmemente suprimido.Lomás crítico no fue sólo que Jiang Chen fue primero en la clasificación,pero que Ouyang Chao sólo había llegado en tercer lugar!Mu Gaoqi en realidad segundo!
+
+Jiang Chen: 100 puntos
+
+Mu Gaoqi: 95 puntos
+
+Ouyang Chao: 90 puntos

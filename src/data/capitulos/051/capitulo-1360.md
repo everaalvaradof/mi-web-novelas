@@ -1,0 +1,11 @@
+---
+titulo: "Capítulo 1360"
+numero: 1360
+novelaId: "51"
+---
+
+"CapitalVeluriyam eliminó a la familia imperial de la Región Media Gran Escarlata, la Casa Yan. Después de un tiempo, terminaron apoderándose de toda la región. Si aprovechamos este paso en falso, podemos usarlo para iniciar una guerra con Capital Veluriyam . Además, han matado a varios de nuestros hombres. Es una oportunidad de vengarse públicamente ".“Su Majestad, el Emperador Nube del Corazón lo ha resumido bien. ¿Por qué deberíamos dejar que un niño se siente sobre nuestras cabezas?"
+
+"Su Majestad, ese niño es un bicho raro. Él tiene un suministro aparentemente infinito de recetas de píldoras increíbles. Píldora Grulla de Pino, Píldora Supremacía del Emperador ... todo el dominio humano está lleno de ellos. Este es un gran golpe para la reputación de nuestra ciudad ".
+
+Ciudad Fuego de Píldora se convirtió en la facción más importante de dao de la píldora.Si perdía continuamente ante Jiang Chen en el dao de la píldora , su dificultad para una mayor expansión aumentaría drásticamente.Tal era el poder de la reputación.La construcción de una buena requiere una acumulación lenta.Destruirlo por otro lado, podría ocurrir con el menor contratiempo.Ciudad Fuego de Píldora estaba en una posición lamentable y torpe.Muchoscultivadores, especialmente los errantes, habían anunciado su intenciónde participar en solo reuniones de Veluriyam a partir de ahora. La Reunión de Tigres y Dragoneshabía sido demasiado espectacular y gratificante como para que se la perdieran.Aunquemuchas cosas y eventos valiosos también estuvieron presentes en laCumbre Marcial-Píldora, la comparación con Veluriyam hizo que el eventoperdiera su brillo.La atención se desvió casi instantáneamente de Fuego de Píldora debido a ello.Ahora, todos los cultivadores en el dominio humano estaban discutiendola píldora Grulla de Pino, la píldora supremacía del emperador y otraspíldoras milagrosas de las que ni siquiera habían oído hablar antes.En el mundo del dao marcial, era típico que los débiles siguieran ciegamente a los fuertes.Además, aquellos sin mucho poder a menudo seguían a sus compañeros en la idolatría de un individuo.En este momento, Jiang Chen cumple con todos los criterios de un buen ídolo.
