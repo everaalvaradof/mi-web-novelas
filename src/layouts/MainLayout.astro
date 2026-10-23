@@ -66,24 +66,7 @@ novelas.forEach(n => {
      crossorigin="anonymous"></script>
 </head>
 <body>
-    <script>
-// Función invisible que se ejecuta al cargar cualquier página del sitio
-async function registrarVisitaInvisible() {
-    try {
-        // Opcional: puedes usar la ruta actual de la página para identificar qué URL es
-        const rutaActual = window.location.pathname;
-        
-        // Aquí haces la petición a tu CounterAPI en segundo plano de forma silenciosa
-        // (Cada vez que cargue la página, sumará una visita al contador sin que el usuario vea nada)
-        await fetch('https://api.counterapi.dev/v1/everaalvaradofs-team/first-counter-6018/up');
-    } catch (error) {
-        // Si falla, no afecta en nada la lectura del usuario
-        console.error('Error registrando métrica:', error);
-    }
-}
-
-document.addEventListener('DOMContentLoaded', registrarVisitaInvisible);
-</script>
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="66a0cb93-2223-484c-8f08-62df4a08090b"></script>
     <header class="main-header">
         <button class="menu-toggle" aria-label="Abrir menú">☰</button>
 
