@@ -966,5 +966,24 @@ export const novelas = [
             title: "Leer Soberano de los Tres Reinos en Español - Novelas Ligeras",
             description: "Disfruta de Soberano de los Tres Reinos en Español completa y traducida al español. Lee todos los capítulos online gratis."
         }
+    },
+    { 
+        id: "052", 
+        titulo: "Explorador Nocturno", 
+        titulo2: "Night Ranger, An Ye You Xia, Dark Night Ranger, Ám Dạ Du Hiệp, 暗夜游侠",
+        genero: "Acción, Aventura, Fantasía, Supernatural, Artes Marciales, Trasmigración", 
+        anio: "2026", 
+        imagen: "/portada/52.webp",
+        sinopsis: "El legendario jugador, Marvin, transmigró a la víspera de la Gran Calamidad. Este era el final de la Cuarta Era, en el que todos los Dioses se unieron para destruir el Pozo Mágico del Universo. La cuarta Tabla del Destino había comenzado a madurar y todos los Dioses, Demonios, Leyendas, Diablos, Liches, Dragones y demás criaturas legendarias aparecían una tras otra. Para proteger a sus seres queridos, Marvin no tiene alternativa: debe sumergirse en las sombras. Esta es la historia de un joven explorador que se convirtió en el Amo de la Noche durante la Era del Caos.",
+        totalCapitulos: 735,
+        capitulosPublicados: "735",
+        categoria: "Terminadas",
+        pais: "Chinas",
+        autor: "Dark Blue Coconut Milk",
+        tag: "",
+        seo: {
+            title: "Leer Explorador Nocturno en Español - Novelas Ligeras",
+            description: "Disfruta de Explorador Nocturno en Español completa y traducida al español. Lee todos los capítulos online gratis."
+        }
     }
 ];
