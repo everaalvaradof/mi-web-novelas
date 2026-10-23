@@ -3,6 +3,7 @@ titulo: "Capítulo 2198"
 numero: 2198
 novelaId: "49"
 ---
+Hola, hoy 23/10/2026 hemos notado que estas leyendo esta novela en nuestra pagina, nos gustaria saber que tal tu experiencia con la lectura, y que otra novela te gustaria leer en la pagina, si no la tenemos te la buscamos, escribenos por telegran @novelaligeraschat
 
 Reino de Dios de la Estrella y la Luna, Torre de las Mil Oportunidades de la Estrella y la Luna.
 
